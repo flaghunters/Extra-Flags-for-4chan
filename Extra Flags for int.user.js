@@ -3,10 +3,8 @@
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
 // @description Extra Flags for int
 // @include     http*://boards.4chan.org/int/*
-// @include     http*://boards.4chan.org/sp/*
 // @exclude     http*://boards.4chan.org/int/catalog
-// @exclude     http*://boards.4chan.org/sp/catalog
-// @version     0.2
+// @version     0.3
 // @grant       GM_xmlhttpRequest
 // @run-at      document-end
 // @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
