@@ -19,6 +19,10 @@ $post_nr = $_POST['post_nr'];
 $real_flag = $_POST['real_flag'];
 $region = $_POST['region'];
 
+//fix cheats
+$region = str_replace('/', '', $region);
+$region = str_replace('.', '', $region);
+
 try {
 	//pdo connection
     $pdo = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
