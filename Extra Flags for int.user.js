@@ -4,7 +4,7 @@
 // @description Extra Flags for int
 // @include     http*://boards.4chan.org/int/*
 // @exclude     http*://boards.4chan.org/int/catalog
-// @version     0.3
+// @version     0.4
 // @grant       GM_xmlhttpRequest
 // @run-at      document-end
 // @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
@@ -64,7 +64,7 @@ headers:    {
 	for (var i = 0; i < jsonData.length; i++) {
 		var post = jsonData[i];
 		var postToAddFlagTo = document.getElementById("pc" + post.post_nr);
-		var nameBlock = postToAddFlagTo.getElementsByClassName('post reply')[0]
+		var nameBlock = postToAddFlagTo.getElementsByClassName('post')[0]
 			.getElementsByClassName('postInfo')[0].getElementsByClassName('nameBlock')[0];
 		var name = nameBlock.getElementsByClassName('name')[0];
 		
