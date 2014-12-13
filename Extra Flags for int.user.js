@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name        Extra Flags for int
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
 // @description Extra Flags for int
@@ -7,21 +7,34 @@
 // @version     0.4
 // @grant       GM_xmlhttpRequest
 // @run-at      document-end
-// @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
-// @downloadURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+// @updateURL	https://github.com/stallmaninterjector/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+// @downloadURL	https://github.com/stallmaninterjector/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.js
 // ==/UserScript==
 
 // ===============SETTINGS SECTION==================
 
-//configure your region here
-//NOTE: this will be removed in next versions, we are implementing a database which will check for you're location.
-var region = "Noord-Brabant";
-
+//change this variable if you wish to override the GeoIP data
+var region="";
 //================END OF SETTINGS===================
 //Don't edit below this line if you don't know what you're doing
 //==================================================
+if(region!=""){
+	getRegion();
+}
+function getRegion() {
 
+	GM_xmlhttpRequest ( {
+	method:     "GET",
+	url:        "http://ipinfo.io/region",
+	headers: {
+    "User-Agent": "curl/7.9.8",    // If not specified, navigator.userAgent will be used.
+  },	
+	onload:     function (response) {		
+			region=response.response;			
+	}
+	} );
+}
 var allPostsOnPage = new Array();
 var postNrs = new Array();
 var postRemoveCounter = 60;
@@ -114,6 +127,7 @@ for (var i=0, max=tempPostsArray.length; i<max; i++) {
 
 //send flag to system on 4chan x (v2, loadletter, v3 untested) post
 document.addEventListener('QRPostSuccessful', function(e) {
+
 	//handy comment to save by ccd0
   //console.log(e.detail.boardID);  // board name    (string)
   //console.log(e.detail.threadID); // thread number (integer in ccd0, string in loadletter)
@@ -140,7 +154,6 @@ document.addEventListener('QRPostSuccessful', function(e) {
 //TODO
 //only works on int for now! need to parse board from somewhere
 document.addEventListener('4chanQRPostSuccess', function(e) {
-	
     console.log("4chanQRPostSuccess");
 	  
 	//greasemonkey http request

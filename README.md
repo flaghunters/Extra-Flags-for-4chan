@@ -3,7 +3,7 @@ Extra Flags for /int/
 
 We're in BETA! Bugs will occur.
 
-Install this: https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+Install this: https://github.com/stallmaninterjector/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 
 Edit you're region within the Userscript, check out the flags folder here to make sure you're flag is in there, otherwise you should submit it.
 
@@ -14,3 +14,5 @@ zixaphirs appchan
 ccd0s v3
 
 Tested on latest Iceweasel on Debian and latest Firefox on Windows.
+
+Direct all questions/comments to Comrade Lenin or PK at http://www.ibm5100.net/ref/index.html
