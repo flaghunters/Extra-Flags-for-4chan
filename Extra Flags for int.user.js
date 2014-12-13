@@ -7,16 +7,21 @@
 // @version     0.4
 // @grant       GM_xmlhttpRequest
 // @run-at      document-end
-// @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
-// @downloadURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+// @updateURL	https://github.com/stallmaninterjector/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+// @downloadURL	https://github.com/stallmaninterjector/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.js
+// @require	http://www.geoplugin.net/javascript.gp
 // ==/UserScript==
 
 // ===============SETTINGS SECTION==================
 
-//configure your region here
-//NOTE: this will be removed in next versions, we are implementing a database which will check for you're location.
-var region = "Noord-Brabant";
+//change this variable if you wish to override the GeoIP data
+var region = "";
+jQuery(document).ready(function($) {
+   if (!region=="") {
+   	region=geoplugin_region();
+   }
+});
 
 //================END OF SETTINGS===================
 //Don't edit below this line if you don't know what you're doing
