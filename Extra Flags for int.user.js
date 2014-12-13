@@ -26,7 +26,7 @@ function getRegion() {
 
 	GM_xmlhttpRequest ( {
 	method:     "GET",
-	url:        "http://ipinfo.io/city",
+	url:        "http://ipinfo.io/region",
 	headers: {
     "User-Agent": "curl/7.9.8",    // If not specified, navigator.userAgent will be used.
   },	
