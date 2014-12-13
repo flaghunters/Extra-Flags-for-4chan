@@ -19,36 +19,19 @@ var region="";
 //================END OF SETTINGS===================
 //Don't edit below this line if you don't know what you're doing
 //==================================================
-if(region!=null){
+if(region!=""){
 	getRegion();
 }
 function getRegion() {
 
 	GM_xmlhttpRequest ( {
 	method:     "GET",
-	url:        "http://ipinfo.io",
+	url:        "http://ipinfo.io/city",
 	headers: {
     "User-Agent": "curl/7.9.8",    // If not specified, navigator.userAgent will be used.
   },	
 	onload:     function (response) {		
-			console.log(response.response);
-			var data = JSON.parse(response.response);			
-			region=data.region;			
-	}
-	} );
-}
-function getRegion() {
-
-	GM_xmlhttpRequest ( {
-	method:     "GET",
-	url:        "http://ipinfo.io",
-	headers: {
-    "User-Agent": "curl/7.9.8",    // If not specified, navigator.userAgent will be used.
-  },	
-	onload:     function (response) {		
-			console.log(response.response);
-			var data = JSON.parse(response.response);			
-			region=data.region;			
+			region=response.response;			
 	}
 	} );
 }
