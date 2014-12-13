@@ -21,7 +21,7 @@ var region="";
 //================END OF SETTINGS===================
 //Don't edit below this line if you don't know what you're doing
 //==================================================
-if(region!=""){
+if(region == ""){
 	getRegion();
 }
 function getRegion() {
