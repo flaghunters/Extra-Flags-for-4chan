@@ -57,8 +57,9 @@ function getRegion() {
 		headers: {
 			"User-Agent" : "curl/7.9.8", // If not specified, navigator.userAgent will be used.
 		},
-		onload: function (response) {		
-			region=response.response;			
+		onload: function (response) {	
+			region=response.response;
+			console.log("Region: " + region);		
 		}
 	});
 }
@@ -95,7 +96,7 @@ function onFlagsLoad(response) {
 		var nameBlock = postInfo.getElementsByClassName('nameBlock')[0];
 		var currentFlag = nameBlock.getElementsByClassName('flag')[0];
 
-		var newFlag = currentFlag.cloneNode(false);
+		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
 		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlag.title + "/" + post.region + ".png'></a>";
