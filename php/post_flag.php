@@ -19,26 +19,12 @@ $post_nr = $_POST['post_nr'];
 $real_flag = $_POST['real_flag'];
 $region = $_POST['region'];
 
-//only numbers allowed in post_nr
-$post_nr = preg_replace("/[^0-9]/i","", $post_nr);
-
-if (!strlen($post_nr)){
-    die("post_nr is empty");
-}
-
-//list for flags
-$flaglist = file('https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/php/flag_list.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-
-if (in_array($region, $flaglist)) {
-    //empty if
-    //lol I know this is bad, but it'll have to do for now.
-} else {
-    $region = "";
-}
-
-if (!strlen($region)){
-    $region = "Region empty, no flag yet or you did not set.";
-}
+//fix cheats
+$region = str_replace('/', '', $region);
+$region = str_replace('.', '', $region);
+//fix second set of cheats
+$region = str_replace('%2F', '', $region);
+$region = str_replace('%2E', '', $region);
 
 try {
 	//pdo connection
