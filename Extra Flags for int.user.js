@@ -42,58 +42,44 @@ var region="";
 //
 //
 //
-if(region == ""){
-	getRegion();
-}
-function getRegion() {
 
-	GM_xmlhttpRequest ( {
-	method:     "GET",
-	url:        "http://ipinfo.io/region",
-	headers: {
-    "User-Agent": "curl/7.9.8",    // If not specified, navigator.userAgent will be used.
-  },	
-	onload:     function (response) {		
-			region=response.response;			
-	}
-	} );
-}
 var allPostsOnPage = new Array();
 var postNrs = new Array();
 var postRemoveCounter = 60;
 
-var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
-
-//fix to make JS understand allPostsOnPage is actually an Array
-for (var i=0, max=tempAllPostsOnPage.length; i<max; i++) {
-	allPostsOnPage.push(tempAllPostsOnPage[i]);
+if(region === "") {
+	getRegion();
 }
 
-for (var i=0, max=allPostsOnPage.length; i<max; i++) {
-	var tempPostNr = allPostsOnPage[i].id;
-	tempPostNr = tempPostNr.replace("pc","");
-	postNrs.push(tempPostNr);
-}	
+function getRegion() {
+	GM_xmlhttpRequest({
+		method:     "GET",
+		url:        "http://ipinfo.io/region",
+		headers: {
+			"User-Agent" : "curl/7.9.8", // If not specified, navigator.userAgent will be used.
+		},
+		onload: function (response) {		
+			region=response.response;			
+		}
+	});
+}
 
+/* parse the posts already on the page before thread updater kicks in */
+function parseOriginalPosts() {
+	var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
+	allPostsOnPage = Array(tempAllPostsOnPage); //convert from element list to javascript array
+	postNrs = allPostsOnPage.map(function (p) {
+		return p.id.replace("pc", "");
+	});                                         //extract post numbers
+}
+
+parseOriginalPosts();
 resolveRefFlags();
 
-//the function to get the flags from the db
-//uses postNrs
-//member variable might not be very nice but I'm gonna do it anyways!
-function resolveRefFlags() {
-	
-//greasemonkey http request
-GM_xmlhttpRequest ( {
-method:     "POST",
-url:        "http://flaghunters.x10host.com/get_flags.php",
-data:       "post_nrs=" + encodeURIComponent (postNrs)
-            //+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
-            //+ "&" + "region=" + encodeURIComponent (region)
-            ,
-headers:    {
-    "Content-Type": "application/x-www-form-urlencoded"
-	},
-	onload:     function (response) {
+/* the function to get the flags from the db
+ * uses postNrs
+ * member variable might not be very nice but I'm gonna do it anyways! */
+function onFlagsLoad(response) {
     //parse returned data
 	var jsonData = JSON.parse(response.responseText);
 
@@ -125,27 +111,41 @@ headers:    {
 	}
 	
 	//cleaning up the postNrs variable here
-//conditions are checked one plus resolved (removed above, return handler) or older than 60s (removed here), keeping it simple
+	//conditions are checked one plus resolved (removed above, return handler) or older than 60s (removed here), keeping it simple
 
-var timestampMinusFortyFive = Math.round(+new Date()/1000) - postRemoveCounter;
+	var timestampMinusFortyFive = Math.round(+new Date()/1000) - postRemoveCounter;
 
-//copy postNrs to avoid concurrent modifications
-var tempPostsArray = postNrs.slice();
+	//copy postNrs to avoid concurrent modifications
+	var tempPostsArray = postNrs.slice();
 
-for (var i=0, max=tempPostsArray.length; i<max; i++) {
-	console.log("should I remove " + "pc" + tempPostsArray[i]);
-	var mightDeleteThisPost = document.getElementById("pc" + tempPostsArray[i]).getElementsByClassName('post')[0]
-		.getElementsByClassName('postInfo')[0].getElementsByClassName('dateTime')[0];
-	if (mightDeleteThisPost.getAttribute("data-utc") < timestampMinusFortyFive) {
-		var index = postNrs.indexOf(tempPostsArray[i]);
-		if (index > -1) {
-			postNrs.splice(index, 1);
-			console.log("removed " + tempPostsArray[i]);
+	for (var i=0, max=tempPostsArray.length; i<max; i++) {
+		console.log("should I remove " + "pc" + tempPostsArray[i]);
+		var mightDeleteThisPost = document.getElementById("pc" + tempPostsArray[i]).getElementsByClassName('post')[0]
+			.getElementsByClassName('postInfo')[0].getElementsByClassName('dateTime')[0];
+		if (mightDeleteThisPost.getAttribute("data-utc") < timestampMinusFortyFive) {
+			var index = postNrs.indexOf(tempPostsArray[i]);
+			if (index > -1) {
+				postNrs.splice(index, 1);
+				console.log("removed " + tempPostsArray[i]);
+			}
 		}
 	}
 }
-	}
-} );
+
+/* fetch flags from db */
+function resolveRefFlags() {
+	GM_xmlhttpRequest({
+		method: "POST",
+		url: "http://flaghunters.x10host.com/get_flags.php",
+		data: "post_nrs=" + encodeURIComponent (postNrs)
+			  //+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
+			  //+ "&" + "region=" + encodeURIComponent (region)
+		,
+		headers: {
+			"Content-Type": "application/x-www-form-urlencoded"
+		},
+		onload: 
+	});
 }
 
 //send flag to system on 4chan x (v2, loadletter, v3 untested) post
