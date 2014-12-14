@@ -82,25 +82,20 @@ resolveRefFlags();
 function onFlagsLoad(response) {
     //parse returned data
 	var jsonData = JSON.parse(response.responseText);
-
-	for (var i = 0; i < jsonData.length; i++) {
-		var post = jsonData[i];
+	
+	jsonData.forEach(function (post) {
 		var postToAddFlagTo = document.getElementById("pc" + post.post_nr);
-		var nameBlock = postToAddFlagTo.getElementsByClassName('post')[0]
-			.getElementsByClassName('postInfo')[0].getElementsByClassName('nameBlock')[0];
-		var name = nameBlock.getElementsByClassName('name')[0];
-		
-		//for some reason the clone() up ahead needs the first flag and
-		//the title for the flag link needs to get it by class
-		var currentFlag = $(name).first().next();
-		var currentFlagForTitle = nameBlock.getElementsByClassName('flag')[0];
+		var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0];
+		var nameBlock = postInfo.getElementsByClassName('nameBlock')[0];
+		var currentFlag = nameBlock.getElementsByClassName('flag')[0];
 
-		var newFlag = currentFlag.clone().attr("title", post.region).appendTo(nameBlock);
-		
-		newFlag[0].innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlagForTitle.title + "/" + post.region + ".png'></a>";
-		newFlag[0].className = "noClass";
+		var newFlag = currentFlag.cloneNode(true);
+		nameBlock.appendChildren(newFlag);
+		newFlag.title = post.region;
+		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlag.title + "/" + post.region + ".png'></a>";
+		newFlag.className = "extraFlag";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-		newFlag[0].style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;"
+		newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;"
 
 		//remove flag from postNrs
 		var index = postNrs.indexOf(post.post_nr);
@@ -108,56 +103,52 @@ function onFlagsLoad(response) {
 			postNrs.splice(index, 1);
 			console.log("resolved" + post.post_nr);
 		}
-	}
+	});
 	
 	//cleaning up the postNrs variable here
 	//conditions are checked one plus resolved (removed above, return handler) or older than 60s (removed here), keeping it simple
 
 	var timestampMinusFortyFive = Math.round(+new Date()/1000) - postRemoveCounter;
 
-	//copy postNrs to avoid concurrent modifications
-	var tempPostsArray = postNrs.slice();
-
-	for (var i=0, max=tempPostsArray.length; i<max; i++) {
-		console.log("should I remove " + "pc" + tempPostsArray[i]);
-		var mightDeleteThisPost = document.getElementById("pc" + tempPostsArray[i]).getElementsByClassName('post')[0]
-			.getElementsByClassName('postInfo')[0].getElementsByClassName('dateTime')[0];
-		if (mightDeleteThisPost.getAttribute("data-utc") < timestampMinusFortyFive) {
-			var index = postNrs.indexOf(tempPostsArray[i]);
+	postNrs.forEach(function (post_nr) {
+		console.log("should I remove " + "pc" + post_nr);
+		var postToAddFlagTo = document.getElementById("pc" + post_nr);
+		var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0];
+		var dateTime = postInfo.getElementsByClassName('dateTime')[0];
+		
+		if (dateTime.getAttribute("data-utc") < timestampMinusFortyFive) {
+			var index = postNrs.indexOf(post_nr);
 			if (index > -1) {
 				postNrs.splice(index, 1);
-				console.log("removed " + tempPostsArray[i]);
+				console.log("removed " + post_nr);
 			}
 		}
-	}
+	});
 }
 
 /* fetch flags from db */
 function resolveRefFlags() {
 	GM_xmlhttpRequest({
-		method: "POST",
-		url: "http://flaghunters.x10host.com/get_flags.php",
-		data: "post_nrs=" + encodeURIComponent (postNrs)
-			  //+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
-			  //+ "&" + "region=" + encodeURIComponent (region)
+		method:     "POST",
+		url:        "http://flaghunters.x10host.com/get_flags.php",
+		data:       "post_nrs=" + encodeURIComponent (postNrs)
+			        //+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
+			        //+ "&" + "region=" + encodeURIComponent (region)
 		,
-		headers: {
+		headers:    {
 			"Content-Type": "application/x-www-form-urlencoded"
 		},
 		onload: 
 	});
 }
 
-//send flag to system on 4chan x (v2, loadletter, v3 untested) post
+/* send flag to system on 4chan x (v2, loadletter, v3 untested) post
+ * handy comment to save by ccd0
+ * console.log(e.detail.boardID);  // board name    (string)
+ * console.log(e.detail.threadID); // thread number (integer in ccd0, string in loadletter)
+ * console.log(e.detail.postID);   // post number   (integer in ccd0, string in loadletter) */
 document.addEventListener('QRPostSuccessful', function(e) {
-
-	//handy comment to save by ccd0
-  //console.log(e.detail.boardID);  // board name    (string)
-  //console.log(e.detail.threadID); // thread number (integer in ccd0, string in loadletter)
-  //console.log(e.detail.postID);   // post number   (integer in ccd0, string in loadletter)
-
-	//greasemonkey http request
-	GM_xmlhttpRequest ( {
+	GM_xmlhttpRequest({
 		method:     "POST",
 		url:        "http://flaghunters.x10host.com/post_flag.php",
 		data:       "post_nr=" + encodeURIComponent (e.detail.postID)
@@ -170,21 +161,22 @@ document.addEventListener('QRPostSuccessful', function(e) {
 		onload:     function (response) {
 			console.log(response.responseText);
 		}
-	} );
+	});
 }, false);
 
-//send flag to system on 4chan inline post
+/* send flag to system on 4chan inline post */
 //TODO
-//only works on int for now! need to parse board from somewhere
 document.addEventListener('4chanQRPostSuccess', function(e) {
-    console.log("4chanQRPostSuccess");
-	  
-	//greasemonkey http request
-	GM_xmlhttpRequest ( {
+	console.log("4chanQRPostSuccess");
+	
+	var boardID = window.location.pathname.split('/')[1];
+	console.log(boardID);
+	
+	GM_xmlhttpRequest({
 		method:     "POST",
 		url:        "http://flaghunters.x10host.com/post_flag.php",
 		data:       "post_nr=" + encodeURIComponent (e.detail.postId)
-					+ "&" + "board=" + encodeURIComponent ("int")
+					+ "&" + "board=" + encodeURIComponent (boardID)
 					+ "&" + "region=" + encodeURIComponent (region)
 					,
 		headers:    {
@@ -193,10 +185,10 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 		onload:     function (response) {
 			console.log(response.responseText);
 		}
-	} );
+	});
 }, false);
 
-//Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?)
+/* Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?) */
 document.addEventListener('ThreadUpdate', function(e) {
 	
     console.log("ThreadUpdate");
@@ -204,10 +196,10 @@ document.addEventListener('ThreadUpdate', function(e) {
     console.log(e.detail.newPosts);
     
     //add to temp posts and the DOM element to allPostsOnPage
-    for (var i=0, max=e.detail.newPosts.length; i<max; i++) {
-		var tempPostNr = e.detail.newPosts[i].replace("int.",""); 
-		postNrs.push(tempPostNr);
-		var newPostDomElement = document.getElementById("pc" + tempPostNr);
+    e.detail.newPosts.forEach(function (post_board_nr) {
+		var post_nr = post_board_nr.split('.')[1];
+		postNrs.push(post_nr);
+		var newPostDomElement = document.getElementById("pc" + post_nr);
 		console.log(newPostDomElement);
 		allPostsOnPage.push(newPostDomElement);
 		console.log("pushed " + tempPostNr);
@@ -225,5 +217,6 @@ document.addEventListener('ThreadUpdate', function(e) {
 document.addEventListener('4chanThreadUpdated', function(e) {
 	
     console.log("4chanThreadUpdated");
-
+	console.log(e);
+	
 }, false);
