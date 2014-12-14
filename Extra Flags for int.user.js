@@ -9,7 +9,6 @@
 // @run-at      document-end
 // @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 // @downloadURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.js
 // ==/UserScript==
 
 // ===============SETTINGS SECTION==================
@@ -67,7 +66,7 @@ function getRegion() {
 /* parse the posts already on the page before thread updater kicks in */
 function parseOriginalPosts() {
 	var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
-	allPostsOnPage = Array(tempAllPostsOnPage); //convert from element list to javascript array
+	allPostsOnPage = Array.prototype.slice.call(tempAllPostsOnPage); //convert from element list to javascript array
 	postNrs = allPostsOnPage.map(function (p) {
 		return p.id.replace("pc", "");
 	});                                         //extract post numbers
@@ -80,6 +79,13 @@ resolveRefFlags();
  * uses postNrs
  * member variable might not be very nice but I'm gonna do it anyways! */
 function onFlagsLoad(response) {
+	//exit on error
+	if(response.status !== 200) {
+		console.log("Could not fetch flags, status: " + response.status);
+		console.log(response.statusText);
+		return;
+	}
+	
     //parse returned data
 	var jsonData = JSON.parse(response.responseText);
 	
@@ -89,8 +95,8 @@ function onFlagsLoad(response) {
 		var nameBlock = postInfo.getElementsByClassName('nameBlock')[0];
 		var currentFlag = nameBlock.getElementsByClassName('flag')[0];
 
-		var newFlag = currentFlag.cloneNode(true);
-		nameBlock.appendChildren(newFlag);
+		var newFlag = currentFlag.cloneNode(false);
+		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
 		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlag.title + "/" + post.region + ".png'></a>";
 		newFlag.className = "extraFlag";
@@ -138,7 +144,7 @@ function resolveRefFlags() {
 		headers:    {
 			"Content-Type": "application/x-www-form-urlencoded"
 		},
-		onload: 
+		onload: onFlagsLoad
 	});
 }
 
@@ -202,15 +208,14 @@ document.addEventListener('ThreadUpdate', function(e) {
 		var newPostDomElement = document.getElementById("pc" + post_nr);
 		console.log(newPostDomElement);
 		allPostsOnPage.push(newPostDomElement);
-		console.log("pushed " + tempPostNr);
-	}
+		console.log("pushed " + post_nr);
+	});
 	
 	//can't trigger here unfortunately
 	//this triggers faster than the post can load.
 	//OnDOMchange doesnt seem to be the answer either.
 	resolveRefFlags();
 	
-	  
 }, false);
 
 //Listen to post updates from the thread updater for inline extension
