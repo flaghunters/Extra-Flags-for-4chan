@@ -42,6 +42,18 @@ var region="";
 //
 //
 //
+if(navigator.userAgent.toLowerCase().indexOf('chrome') > -1){
+   addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
+}
+function addGlobalStyle(css) {
+    var head, style;
+    head = document.getElementsByTagName('head')[0];
+    if (!head) { return; }
+    style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = css;
+    head.appendChild(style);
+}
 if(region == ""){
 	getRegion();
 }
