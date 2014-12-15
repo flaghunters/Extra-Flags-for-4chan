@@ -46,7 +46,7 @@ var postNrs = new Array();
 var postRemoveCounter = 60;
 
 /* get geoip region if not set */
-if(region === "") {
+if(region == "") {
 	getRegion();
 }
 
@@ -244,5 +244,26 @@ document.addEventListener('4chanThreadUpdated', function(e) {
 	
     console.log("4chanThreadUpdated");
 	console.log(e);
+	console.log(e.detail.count);
+	
+	var threadID = window.location.pathname.split('/')[3]; //get thread ID
+	var postsContainer = Array.prototype.slice.call(document.getElementById('t'  + threadID).childNodes); //get an array of postcontainers
+	var lastPosts = postsContainer.slice(Math.max(postsContainer.length - e.detail.count, 1)); //get the last n elements (where n is e.detail.count)
+	
+	console.log(lastPosts);
+
+    //add to temp posts and the DOM element to allPostsOnPage
+	lastPosts.forEach(function (post_container) {
+		var post_nr = post_container.id.replace("pc", "");
+		postNrs.push(post_nr);
+		console.log(post_container);
+		allPostsOnPage.push(post_container);
+		console.log("pushed " + post_nr);
+	});
+	
+	//can't trigger here unfortunately
+	//this triggers faster than the post can load.
+	//OnDOMchange doesnt seem to be the answer either.
+	resolveRefFlags();
 	
 }, false);
