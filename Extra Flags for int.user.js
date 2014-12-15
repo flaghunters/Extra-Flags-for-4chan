@@ -187,7 +187,6 @@ document.addEventListener('QRPostSuccessful', function(e) {
 }, false);
 
 /* send flag to system on 4chan inline post */
-//TODO
 document.addEventListener('4chanQRPostSuccess', function(e) {
 	console.log("4chanQRPostSuccess");
 	
@@ -215,10 +214,16 @@ document.addEventListener('ThreadUpdate', function(e) {
 	
     console.log("ThreadUpdate");
     console.log(e);
+    
+    //ignore if 404 event
+    if (e.detail[404] === true) {
+		return;
+	}
+    
     console.log(e.detail.newPosts);
     
     //add to temp posts and the DOM element to allPostsOnPage
-    e.detail.newPosts.forEach(function (post_board_nr) {
+	e.detail.newPosts.forEach(function (post_board_nr) {
 		var post_nr = post_board_nr.split('.')[1];
 		postNrs.push(post_nr);
 		var newPostDomElement = document.getElementById("pc" + post_nr);
