@@ -119,7 +119,7 @@ function onFlagsLoad(response) {
 		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
-		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlag.title + "/" + post.region + ".png'></a>";
+		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlag.title + "/" + post.region + ".png'" + (navigator.userAgent.toLowerCase().indexOf('chrome') > -1 ? " style='padding-left: 5px;'" : "") + "></a>";
 		newFlag.className = "extraFlag";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
 		newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;"
