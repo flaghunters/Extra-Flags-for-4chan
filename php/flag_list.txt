@@ -58,6 +58,15 @@ Namur
 Oost-Vlaanderen
 Vlaams-Brabant
 West-Vlaanderen
+Bosansko-podrinjski kanton Gorazde
+Hercegovacko-neretvanski kanton
+Kanton Sarajevo
+Republika Srpska
+Srednjobosanski kanton
+Tuzlanski kanton
+Unsko-sanski kanton
+Zapadnohercegovacki kanton
+Zenicko-dobojski kanton
 Acre
 Alagoas
 Amapa
@@ -113,7 +122,7 @@ Saskatchewan
 Yukon
 Aisen
 Antofagasta
-Araucanía
+Araucania
 Arica and Parinacota
 Atacama
 Biobio
@@ -141,6 +150,21 @@ Aerno
 Bornholm
 Jutland
 Vendsyssel
+Harju
+Hiiu
+Ida-Viru
+Jarva
+Jogeva
+Laane
+Laane-Viru
+Parnu
+Polva
+Rapla
+Saare
+Tartu
+Valga
+Viljandi
+Voru
 Etela-Karjala
 Etela-Pohjanmaa
 Etela-Savo
@@ -195,6 +219,10 @@ Sachsen-Anhalt
 Sachsen
 Schleswig-Holstein
 Thuringen
+Kujalleq
+Qaasuitsup
+Qeqqata
+Sermersooq
 Abruzzo
 Basilicata
 Campania
@@ -254,6 +282,21 @@ Wakayama
 Yamagata
 Yamaguchi
 Yamanashi
+Bomi
+Bong
+Gbarpolu
+Grand Bassa
+Grand Cape
+Grand Gedeh
+Grand Kru
+Lofa
+Margibi
+Maryland County
+Montserrado
+Nimba
+River Cess
+River Gee
+Sinoe
 Johor
 Kedah
 Kelantan
@@ -332,23 +375,62 @@ Telemark
 Troms
 Vest-Agder
 Vestfold
+Autonomous Region of Bougainville
+Central Province
+Chimbu Province
+Eastern Highlands
+East New Britain
+East Sepik
+Enga
+Gulf Province
+Hela
+Jiwaka
+Madang
+Manus Province
+Milne Bay
+Morobe Province
+New Ireland Province
+Oro Province
+Port Moresby
+Sandaun Province
+Southern Highlands
+Western Highlands
+Western Province
+West New Britain
 Lima
-dolnoslaskie
-kujawsko-pomorskie
-lodzkie
-lubelskie
-lubuskie
-malopolskie
-mazowieckie
-opolskie
-podkarpackie
-podlaskie
-pomorskie
-slaskie
-swietokrzyskie
-warminsko-mazurskie
-wielkopolskie
-zachodniopomorskie
+Bialystok
+Bydgoszcz
+Dolnoslaskie
+Gdansk
+Gorzow Wielkopolski
+Katowice
+Krakow
+Kujawsko-pomorskie
+Lodzkie
+Lodz
+Lubelskie
+Lublin
+Lubuskie
+Malopolskie
+Mazowieckie
+Olsztyn
+Opole
+Opolskie
+Podkarpackie
+Podlaskie
+Pomorskie
+Poznan
+Rzeszow
+Slaskie
+Swietokrzyskie
+Szczecin
+Torun
+Warminsko-mazurskie
+Warsaw
+Wielkopolskie
+Wroclaw
+Zachodniopomorskie
+Zielona Gora
 Adjuntas
 Aguada
 Aguadilla
@@ -409,7 +491,7 @@ Penuelas
 Ponce
 Quebradillas
 Rincon
-R¡o Grande
+Rio Grande
 Sabana Grande
 Salinas
 San German
@@ -520,7 +602,16 @@ Pancevo
 Subotica
 Vojvodina
 Zrenjanin
+Awdalland
+Galmudug
+Himan and Heeb
+Jubaland
+Khatumo State
+Puntland
+Somaliland
+Southwestern Somalia
 Free State
+KwaZulu-Natal
 Western Cape
 Andalusia
 Aragon
@@ -550,13 +641,11 @@ Dalsland
 Gavleborgs Lan
 Gotland
 Gotlands Lan
-Hallanda Lan
 Halland
 Hallands Lan
 Harjedalen
 Jamtland
 Jamtlands Lan
-Jonkoping Lan
 Jonkopings Lan
 Kalmar Lan
 Kronobergs Lan
@@ -603,6 +692,7 @@ Taitung
 Taoyuan
 Yilan
 Yunlin
+Aberdeenshire
 Angus
 Bedfordshire
 Buckinghamshire
@@ -616,6 +706,7 @@ Devon
 Dorset
 Durham
 East Sussex
+England
 Essex
 Gloucestershire
 Greater Manchester
@@ -641,6 +732,7 @@ Nottinghamshire
 Orkney
 Oxfordshire
 Rutland
+Scotland
 Shetland Isles
 Shropshire
 Somerset
@@ -648,7 +740,10 @@ Staffordshire
 Suffolk
 Surrey
 Sussex
+Tyne and Wear
+Wales
 Warwickshire
+Western Isles
 Westmorland
 Wiltshire
 Worcestershire

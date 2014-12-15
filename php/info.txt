@@ -1,1 +1,1 @@
-php files are hosted on the server, txt files are hosted here.
+php files are hosted on the server, txt and sh files are hosted (or not used) here.
