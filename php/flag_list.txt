@@ -150,6 +150,36 @@ Aerno
 Bornholm
 Jutland
 Vendsyssel
+Alexandria
+Al Sharqia
+Aswan
+Asyut
+Beheira
+Beni Suef
+Cairo
+Dakahlia
+Damietta
+Faiyum
+Gharbia
+Giza
+Ismailia
+Kafr el-Sheikh
+Luxor
+Matrouh
+Minya
+Monufia
+New Valley
+North Sinai
+Port Said
+Qalyubia
+Qena
+Red Sea
+Sohag
+South Sinai
+Suez
+Annobon
+Bioko Norte
+Bioko Sur
 Harju
 Hiiu
 Ida-Viru
@@ -165,6 +195,15 @@ Tartu
 Valga
 Viljandi
 Voru
+Afar
+Amhara
+Benishangul-Gumuz
+Gambela
+Harari
+Oromia
+SNNPR
+Somalia Region
+Tigray Region
 Etela-Karjala
 Etela-Pohjanmaa
 Etela-Savo
@@ -219,6 +258,13 @@ Sachsen-Anhalt
 Sachsen
 Schleswig-Holstein
 Thuringen
+Ashanti
+Brong-Ahafo
+Central Region
+Eastern Region
+Greater Accra
+Volta
+Western Region
 Kujalleq
 Qaasuitsup
 Qeqqata
@@ -282,6 +328,7 @@ Wakayama
 Yamagata
 Yamaguchi
 Yamanashi
+Nairobi
 Bomi
 Bong
 Gbarpolu
@@ -343,6 +390,9 @@ Tlaxcala
 Veracruz
 Yucatan
 Zacatecas
+Fes-Boulemane
+Rabat-Sale-Zemmour-Zaer
+Maputo
 Drenthe
 Flevoland
 Friesland
@@ -613,6 +663,16 @@ Southwestern Somalia
 Free State
 KwaZulu-Natal
 Western Cape
+Central Equatoria
+Eastern Equatoria
+Jonglei
+Lakes
+Northern Bahr el Ghazal
+Unity
+Upper Nile
+Warrap
+Western Bahr el Ghazal
+Western Equatoria
 Andalusia
 Aragon
 Asturias
@@ -672,6 +732,31 @@ Vastmalands Lan
 Vastmanlands Lan
 Vastra Gotaland
 Vastra gotalands Lan
+Aargau
+Appenzell Ausserrhoden
+Appenzell Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Fribourg
+Geneva
+Glarus
+Grisons
+Jura
+Lucerne
+Neuchatel
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Thurgau
+Ticino
+Unterwalden
+Uri
+Valais
+Vaud
+Zug
+Zurich
 Changhua
 Chiayi
 Hsinchu
