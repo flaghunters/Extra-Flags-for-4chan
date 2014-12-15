@@ -57,9 +57,14 @@ function getRegion() {
 		headers: {
 			"User-Agent" : "curl/7.9.8", // If not specified, navigator.userAgent will be used.
 		},
-		onload: function (response) {	
-			region=response.response;
-			console.log("Region: " + region);		
+		onload: function (response) {
+			if (response.status == 200) {
+				region=response.responseText;
+				console.log("Region: " + region);
+			} else {
+				console.log("Location error: " + response.status);
+				console.log(response.statusText);
+			}
 		}
 	});
 }
