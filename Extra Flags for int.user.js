@@ -59,7 +59,7 @@ function getRegion() {
 		},
 		onload: function (response) {
 			if (response.status == 200) {
-				region=response.responseText;
+				region=response.responseText.trim();
 				console.log("Region: " + region);
 			} else {
 				console.log("Location error: " + response.status);
