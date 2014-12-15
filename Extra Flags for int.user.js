@@ -122,8 +122,12 @@ headers:    {
 		var currentFlagForTitle = nameBlock.getElementsByClassName('flag')[0];
 
 		var newFlag = currentFlag.clone().attr("title", post.region).appendTo(nameBlock);
-		
+		if(navigator.userAgent.toLowerCase().indexOf('chrome') > -1){
+		newFlag[0].innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlagForTitle.title + "/" + post.region + ".png' style='padding-left: 5px;'></a>";
+		}
+		else{
 		newFlag[0].innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/" + currentFlagForTitle.title + "/" + post.region + ".png'></a>";
+		}
 		newFlag[0].className = "noClass";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
 		newFlag[0].style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;"
