@@ -20,6 +20,7 @@ var allPostsOnPage = new Array();
 var postNrs = new Array();
 var postRemoveCounter = 60;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
+var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
 
 /* region setup thing */
 var setup = {
@@ -100,7 +101,7 @@ function getRegion() {
 }
 
 /* fix flag alignment on chrome */
-if(navigator.userAgent.toLowerCase().indexOf('chrome') > -1){
+if(navigatorIsWebkit){
    addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
 }
 
@@ -149,7 +150,7 @@ function onFlagsLoad(response) {
 		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
-		var newFlagImgOpts = (navigator.userAgent.toLowerCase().indexOf('chrome') > -1 ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.firstElementChild.src = \'' + flegsBaseUrl + 'empty.png\';})();"'
+		var newFlagImgOpts = (navigatorIsWebkit ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.firstElementChild.src = \'' + flegsBaseUrl + 'empty.png\';})();"'
 		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + "></a>";
 		newFlag.className = "extraFlag";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
