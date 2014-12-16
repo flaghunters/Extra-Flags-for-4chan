@@ -19,6 +19,7 @@ var region = "";
 var allPostsOnPage = new Array();
 var postNrs = new Array();
 var postRemoveCounter = 60;
+var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
 var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
 
@@ -144,6 +145,7 @@ function onFlagsLoad(response) {
 	if(response.status !== 200) {
 		console.log("Could not fetch flags, status: " + response.status);
 		console.log(response.statusText);
+		setTimeout(resolveRefFlags, requestRetryInterval);
 		return;
 	}
 	
