@@ -150,7 +150,7 @@ function onFlagsLoad(response) {
 		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
-		var newFlagImgOpts = (navigatorIsWebkit ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.firstElementChild; if (!extraFlagsImgEl.src.endsWith(\'/empty.png\')) {extraFlagsImgEl.src = \'' + flegsBaseUrl + 'empty.png\';}})();"'
+		var newFlagImgOpts = (navigatorIsWebkit ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.firstElementChild; if (!/\/empty\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' + flegsBaseUrl + 'empty.png\';}})();"'
 		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + "></a>";
 		newFlag.className = "extraFlag";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
