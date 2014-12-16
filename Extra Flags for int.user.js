@@ -27,7 +27,7 @@ var setup = {
 	namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint',
 	id: "ExtraFlags-setup",
 	html: function () {
-		return '<div>Extra Flags for /int/</div><ul>Region: <li><input type="text" name="region" value="' + region + '"></li></ul><div><button name="save">Save settings</button></div></div>';
+		return '<div>Extra Flags for /int/</div><ul>Region: <li><input type="text" name="region" value="' + region + '"></li>Leave blank to use geolocation</ul><div><button name="save">Save settings</button></div></div>';
 	},
 	q: function(n) {
 		return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
@@ -92,6 +92,13 @@ function getRegion() {
 			if (response.status == 200) {
 				region=response.responseText.trim();
 				console.log("Region: " + region);
+				setTimeout(function () {
+					if (setup.load('firstrun') !== "true") {
+						setup.save('firstrun', "true");
+						if (window.confirm("Detected region: \"" + region + "\"\nDo you want to set it manually?\nIf you want to change it later you'll find the menu option by clicking on the Greasemonkey/Tampermonkey icon") === true) {
+							setup.show();
+						}					}
+				}, 3000);
 			} else {
 				console.log("Location error: " + response.status);
 				console.log(response.statusText);
@@ -101,7 +108,7 @@ function getRegion() {
 }
 
 /* fix flag alignment on chrome */
-if(navigatorIsWebkit){
+if (navigatorIsWebkit) {
    addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
 }
 
