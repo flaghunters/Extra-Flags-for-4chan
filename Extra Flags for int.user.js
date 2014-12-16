@@ -149,7 +149,7 @@ function onFlagsLoad(response) {
 		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
-		var newFlagImgOpts = (navigator.userAgent.toLowerCase().indexOf('chrome') > -1 ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.src = \'' + flegsBaseUrl + 'empty.png\';})();"'
+		var newFlagImgOpts = (navigator.userAgent.toLowerCase().indexOf('chrome') > -1 ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild.firstElementChild.src = \'' + flegsBaseUrl + 'empty.png\';})();"'
 		newFlag.innerHTML = "<a href='https://www.google.com/?q="+post.region+"' target='_blank'><img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + "></a>";
 		newFlag.className = "extraFlag";
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
