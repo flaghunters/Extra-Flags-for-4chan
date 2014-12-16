@@ -92,12 +92,14 @@ function getRegion() {
 			if (response.status == 200) {
 				region=response.responseText.trim();
 				console.log("Region: " + region);
+				setup.save('region', region);
 				setTimeout(function () {
 					if (setup.load('firstrun') !== "true") {
 						setup.save('firstrun', "true");
 						if (window.confirm("Detected region: \"" + region + "\"\nDo you want to set it manually?\nIf you want to change it later you'll find the menu option by clicking on the Greasemonkey/Tampermonkey icon") === true) {
 							setup.show();
-						}					}
+						}
+					}
 				}, 3000);
 			} else {
 				console.log("Location error: " + response.status);
