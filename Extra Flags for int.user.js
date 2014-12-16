@@ -6,48 +6,77 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @version     0.4
 // @grant       GM_xmlhttpRequest
+// @grant       GM_registerMenuCommand
+// @grant       GM_getValue
+// @grant       GM_setValue
+// @grant       GM_addStyle
 // @run-at      document-end
 // @updateURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 // @downloadURL	https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
-// ===============SETTINGS SECTION==================
-
-//change this variable if you wish to override the GeoIP data
-
-var region="";
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//================END OF SETTINGS===================
-//Don't edit below this line if you don't know what you're doing
-//==================================================
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+var region = "";
 var allPostsOnPage = new Array();
 var postNrs = new Array();
 var postRemoveCounter = 60;
 
+/* region setup thing */
+var setup = {
+	namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint',
+	id: "ExtraFlags-setup",
+	html: function () {
+		return '<div>Extra Flags for /int/</div><ul>Region: <li><input type="text" name="region" value="' + region + '"></li></ul><div><button name="save">Save settings</button></div></div>';
+	},
+	q: function(n) {
+		return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
+	},
+	show: function() {
+		/* remove setup window if existing */
+		var setup_el = document.getElementById(setup.id);
+		if (setup_el) {
+			setup_el.parentNode.removeChild(setup_el);
+		}
+		/* create new setup window */
+		GM_addStyle('\
+			#'+setup.id+' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
+			#'+setup.id+' * { color:black;text-align:left;line-height:normal;font-size:12px }\
+			#'+setup.id+' div { text-align:center;font-weight:bold;font-size:14px }\
+			#'+setup.id+' ul { margin:15px 0 15px 0;padding:0;list-style:none }\
+			#'+setup.id+' li { margin:0;padding:3px 0 3px 0;vertical-align:middle }'
+		);
+		setup_el = document.createElement('div');
+		setup_el.id = setup.id;
+		setup_el.innerHTML = setup.html();
+		document.body.appendChild(setup_el);
+		/* save listener */
+		setup.q('save').addEventListener('click', function() {
+			this.disabled = true;
+			this.innerHTML = 'Saving...';
+			region = setup.q('region').value.trim();
+			if (!region) {
+				getRegion();
+			}
+			setup.save('region', region);
+			setup_el.parentNode.removeChild(setup_el);
+		}, false);
+	},
+	save: function(k, v) {
+		GM_setValue(setup.namespace + k, v);
+	},
+	load: function(k) {
+		return GM_getValue(setup.namespace + k);
+	},
+	init: function() {
+		GM_registerMenuCommand('Set up Extra Flags for /int/', setup.show);
+	}
+};
+
 /* get geoip region if not set */
-if(region == "") {
-	getRegion();
+if (region == "") {
+	region = setup.load('region');
+	if (!region) {
+		getRegion();
+	}
 }
 
 function getRegion() {
@@ -75,13 +104,13 @@ if(navigator.userAgent.toLowerCase().indexOf('chrome') > -1){
 }
 
 function addGlobalStyle(css) {
-    var head, style;
-    head = document.getElementsByTagName('head')[0];
-    if (!head) { return; }
-    style = document.createElement('style');
-    style.type = 'text/css';
-    style.innerHTML = css;
-    head.appendChild(style);
+	var head, style;
+	head = document.getElementsByTagName('head')[0];
+	if (!head) { return; }
+	style = document.createElement('style');
+	style.type = 'text/css';
+	style.innerHTML = css;
+	head.appendChild(style);
 }
 
 /* parse the posts already on the page before thread updater kicks in */
@@ -107,7 +136,7 @@ function onFlagsLoad(response) {
 		return;
 	}
 	
-    //parse returned data
+	//parse returned data
 	var jsonData = JSON.parse(response.responseText);
 	
 	jsonData.forEach(function (post) {
@@ -159,8 +188,8 @@ function resolveRefFlags() {
 		method:     "POST",
 		url:        "http://flaghunters.x10host.com/get_flags.php",
 		data:       "post_nrs=" + encodeURIComponent (postNrs)
-			        //+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
-			        //+ "&" + "region=" + encodeURIComponent (region)
+					//+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
+					//+ "&" + "region=" + encodeURIComponent (region)
 		,
 		headers:    {
 			"Content-Type": "application/x-www-form-urlencoded"
@@ -217,17 +246,17 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 /* Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?) */
 document.addEventListener('ThreadUpdate', function(e) {
 	
-    console.log("ThreadUpdate");
-    console.log(e);
-    
-    //ignore if 404 event
-    if (e.detail[404] === true) {
+	console.log("ThreadUpdate");
+	console.log(e);
+	
+	//ignore if 404 event
+	if (e.detail[404] === true) {
 		return;
 	}
-    
-    console.log(e.detail.newPosts);
-    
-    //add to temp posts and the DOM element to allPostsOnPage
+	
+	console.log(e.detail.newPosts);
+	
+	//add to temp posts and the DOM element to allPostsOnPage
 	e.detail.newPosts.forEach(function (post_board_nr) {
 		var post_nr = post_board_nr.split('.')[1];
 		postNrs.push(post_nr);
@@ -247,7 +276,7 @@ document.addEventListener('ThreadUpdate', function(e) {
 //Listen to post updates from the thread updater for inline extension
 document.addEventListener('4chanThreadUpdated', function(e) {
 	
-    console.log("4chanThreadUpdated");
+	console.log("4chanThreadUpdated");
 	console.log(e);
 	console.log(e.detail.count);
 	
@@ -257,7 +286,7 @@ document.addEventListener('4chanThreadUpdated', function(e) {
 	
 	console.log(lastPosts);
 
-    //add to temp posts and the DOM element to allPostsOnPage
+	//add to temp posts and the DOM element to allPostsOnPage
 	lastPosts.forEach(function (post_container) {
 		var post_nr = post_container.id.replace("pc", "");
 		postNrs.push(post_nr);
@@ -272,3 +301,5 @@ document.addEventListener('4chanThreadUpdated', function(e) {
 	resolveRefFlags();
 	
 }, false);
+
+setup.init();
