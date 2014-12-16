@@ -18,7 +18,7 @@ HOW TO INSTALL
 2. Install flags script from link above
 
 Works with:
- - **Vanilla 4chan** (inline extension)
+ - **Vanilla 4chan** (inline extension) **Chrome only!** We're working on Firefox. Use one of these 4chan x versions with Firefox for now.
  - **appchan** (very ricy) https://github.com/zixaphir/appchan-x (currently untested)
  - **ccd0's 4chan X** (ricy) https://github.com/ccd0/4chan-x
  - **loadletter's 4chan x v2** (least bloated) https://github.com/loadletter/4chan-x/
