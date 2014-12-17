@@ -161,13 +161,13 @@ function onFlagsLoad(response) {
 		var newFlag = document.createElement('a');
 		nameBlock.appendChild(newFlag);
 		newFlag.title = post.region;
-		var newFlagImgOpts = (navigatorIsWebkit ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' + flegsBaseUrl + 'empty.png\';}})();"'
+		var newFlagImgOpts = (navigatorIsWebkit ? " style='padding-left: 5px;'" : "") + 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr + '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' + flegsBaseUrl + 'empty.png\';}})();"';
 		newFlag.innerHTML = "<img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + ">";
 		newFlag.className = "extraFlag";
 		newFlag.href = "https://www.google.com/?q=" + post.region;
 		newFlag.target = '_blank';
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-		newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;"
+		newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
 		//remove flag from postNrs
 		var index = postNrs.indexOf(post.post_nr);
