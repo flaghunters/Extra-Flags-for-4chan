@@ -240,11 +240,13 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 	
 	var boardID = window.location.pathname.split('/')[1];
 	console.log(boardID);
+	var evDetail = e.detail || e.wrappedJSObject.detail;
+	console.log(evDetail);
 	
 	GM_xmlhttpRequest({
 		method:     "POST",
 		url:        "http://flaghunters.x10host.com/post_flag.php",
-		data:       "post_nr=" + encodeURIComponent (e.detail.postId)
+		data:       "post_nr=" + encodeURIComponent (evDetail.postId)
 					+ "&" + "board=" + encodeURIComponent (boardID)
 					+ "&" + "region=" + encodeURIComponent (region)
 					,
@@ -289,14 +291,14 @@ document.addEventListener('ThreadUpdate', function(e) {
 
 //Listen to post updates from the thread updater for inline extension
 document.addEventListener('4chanThreadUpdated', function(e) {
-	
 	console.log("4chanThreadUpdated");
 	console.log(e);
-	console.log(e.detail.count);
+	var evDetail = e.detail || e.wrappedJSObject.detail;
+	console.log(evDetail);
 	
 	var threadID = window.location.pathname.split('/')[3]; //get thread ID
 	var postsContainer = Array.prototype.slice.call(document.getElementById('t'  + threadID).childNodes); //get an array of postcontainers
-	var lastPosts = postsContainer.slice(Math.max(postsContainer.length - e.detail.count, 1)); //get the last n elements (where n is e.detail.count)
+	var lastPosts = postsContainer.slice(Math.max(postsContainer.length - evDetail.count, 1)); //get the last n elements (where n is evDetail.count)
 	
 	console.log(lastPosts);
 
