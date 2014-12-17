@@ -4,7 +4,7 @@
 // @description Extra Flags for int
 // @include     http*://boards.4chan.org/int/*
 // @exclude     http*://boards.4chan.org/int/catalog
-// @version     0.6
+// @version     0.7
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
