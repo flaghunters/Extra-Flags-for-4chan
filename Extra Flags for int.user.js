@@ -220,20 +220,23 @@ function resolveRefFlags() {
  * console.log(e.detail.threadID); // thread number (integer in ccd0, string in loadletter)
  * console.log(e.detail.postID);   // post number   (integer in ccd0, string in loadletter) */
 document.addEventListener('QRPostSuccessful', function(e) {
-	GM_xmlhttpRequest({
-		method:     "POST",
-		url:        "http://flaghunters.x10host.com/post_flag.php",
-		data:       "post_nr=" + encodeURIComponent (e.detail.postID)
-					+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
-					+ "&" + "region=" + encodeURIComponent (region)
-					,
-		headers:    {
-			"Content-Type": "application/x-www-form-urlencoded"
-		},
-		onload:     function (response) {
-			console.log(response.responseText);
-		}
-	});
+	//setTimeout to support greasemonkey 1.x
+	setTimeout(function () {
+		GM_xmlhttpRequest({
+			method:     "POST",
+			url:        "http://flaghunters.x10host.com/post_flag.php",
+			data:       "post_nr=" + encodeURIComponent (e.detail.postID)
+						+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
+						+ "&" + "region=" + encodeURIComponent (region)
+						,
+			headers:    {
+				"Content-Type": "application/x-www-form-urlencoded"
+			},
+			onload:     function (response) {
+				console.log(response.responseText);
+			}
+		});
+	}, 0);
 }, false);
 
 /* send flag to system on 4chan inline post */
@@ -244,21 +247,23 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 	console.log(boardID);
 	var evDetail = e.detail || e.wrappedJSObject.detail;
 	console.log(evDetail);
-	
-	GM_xmlhttpRequest({
-		method:     "POST",
-		url:        "http://flaghunters.x10host.com/post_flag.php",
-		data:       "post_nr=" + encodeURIComponent (evDetail.postId)
-					+ "&" + "board=" + encodeURIComponent (boardID)
-					+ "&" + "region=" + encodeURIComponent (region)
-					,
-		headers:    {
-			"Content-Type": "application/x-www-form-urlencoded"
-		},
-		onload:     function (response) {
-			console.log(response.responseText);
-		}
-	});
+	//setTimeout to support greasemonkey 1.x
+	setTimeout(function () {
+		GM_xmlhttpRequest({
+			method:     "POST",
+			url:        "http://flaghunters.x10host.com/post_flag.php",
+			data:       "post_nr=" + encodeURIComponent (evDetail.postId)
+						+ "&" + "board=" + encodeURIComponent (boardID)
+						+ "&" + "region=" + encodeURIComponent (region)
+						,
+			headers:    {
+				"Content-Type": "application/x-www-form-urlencoded"
+			},
+			onload:     function (response) {
+				console.log(response.responseText);
+			}
+		});
+	}, 0);
 }, false);
 
 /* Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?) */
@@ -284,10 +289,8 @@ document.addEventListener('ThreadUpdate', function(e) {
 		console.log("pushed " + post_nr);
 	});
 	
-	//can't trigger here unfortunately
-	//this triggers faster than the post can load.
-	//OnDOMchange doesnt seem to be the answer either.
-	resolveRefFlags();
+	//setTimeout to support greasemonkey 1.x
+	setTimeout(resolveRefFlags, 0);
 	
 }, false);
 
@@ -312,11 +315,8 @@ document.addEventListener('4chanThreadUpdated', function(e) {
 		allPostsOnPage.push(post_container);
 		console.log("pushed " + post_nr);
 	});
-	
-	//can't trigger here unfortunately
-	//this triggers faster than the post can load.
-	//OnDOMchange doesnt seem to be the answer either.
-	resolveRefFlags();
+	//setTimeout to support greasemonkey 1.x
+	setTimeout(resolveRefFlags, 0);
 	
 }, false);
 
