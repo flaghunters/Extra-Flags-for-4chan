@@ -8,7 +8,7 @@ Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra
 The first time it will try geolocation, and then ask if you need to edit the region.
 
 To set the region later:
- - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/
+ - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Video guide)](http://a.pomf.se/jlzfak.webm)
  - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/
 
 (to check the available countries/flags see [flegs](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs))
@@ -16,7 +16,7 @@ To set the region later:
 HOW TO INSTALL
 ==========
 
-1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome.
+1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](http://a.pomf.se/zhgtso.webm).
 2. Install flags script from link above
 3. Reload the page
 
