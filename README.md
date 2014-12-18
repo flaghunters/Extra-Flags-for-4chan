@@ -5,7 +5,7 @@ We're in BETA! Bugs will occur.
 
 Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 
-The first time it will try geolocation, and then ask if you need to edit the region.
+The first time it's loaded it will try geolocation, and then ask if you need to edit the region.
 
 To set the region later:
  - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Video guide)](http://a.pomf.se/jlzfak.webm)
