@@ -1,3 +1,4 @@
+British Antarctic Territory
 Buenos Aires
 Catamarca
 Chaco
@@ -58,6 +59,16 @@ Namur
 Oost-Vlaanderen
 Vlaams-Brabant
 West-Vlaanderen
+Beni
+Chuquisaca
+Cochabamba
+La Paz
+Oruro
+Pando
+Potosi
+Santa Cruz
+Sucre
+Tarija
 Bosansko-podrinjski kanton Gorazde
 Hercegovacko-neretvanski kanton
 Kanton Sarajevo
@@ -135,6 +146,38 @@ O'Higgins
 Santiago
 Tarapaca
 Valparaiso
+Amazonas
+Antioquia
+Arauca
+Atlantico
+Bolivar
+Boyaca
+Caldas
+Caqueta
+Casanare
+Cauca
+Cesar
+Choco
+Cundinamarca
+Distrito Capital
+Guainia
+Guaviare
+Huila
+La Guajira
+Magdalena
+Meta
+Nari+¦o
+Norte de Santander
+Putumayo
+Quindio
+Risaralda
+San Andres y Providencia
+Santander
+Sucre
+Tolima
+Valle del Cauca
+Vaupes
+Vichada
 Brodsko-posavska
 Grad Zagreb
 Istarska
@@ -150,6 +193,43 @@ Aerno
 Bornholm
 Jutland
 Vendsyssel
+Aileu
+Ainaro
+Baucau
+Bobonaro
+Cova Lima
+Dili
+Ermera
+Lautem
+Liquica
+Manatuto
+Manufahi
+Oecusse
+Viqueque
+Azuay
+Bolivar
+Canar
+Carchi
+Chimborazo
+Cotopaxi
+El Oro
+Esmeraldas
+Galapagos
+Guayas
+Imbabura
+Loja
+Los Rios
+Manabi
+Morona Santiago
+Napo
+Orellana
+Pastaza
+Pichincha
+Santa Elena
+Santo Domingo de los Tsachilas
+Sucumbios
+Tungurahua
+Zamora-Chinchipe
 Alexandria
 Al Sharqia
 Aswan
@@ -204,6 +284,10 @@ Oromia
 SNNPR
 Somalia Region
 Tigray Region
+Chuuk
+Kosrae
+Pohnpei
+Yap
 Etela-Karjala
 Etela-Pohjanmaa
 Etela-Savo
@@ -242,6 +326,10 @@ Pays de la Loire
 Picardie
 Poitou-Charentes
 Rhone-Alpes
+Austral Islands
+Gambier Islands
+Marquesas Islands
+Tuamotus
 Baden-Wurttemberg
 Bayern
 Berlin
@@ -269,6 +357,11 @@ Kujalleq
 Qaasuitsup
 Qeqqata
 Sermersooq
+Reykjavík
+Connacht
+Leinster
+Munster
+Ulster
 Abruzzo
 Basilicata
 Campania
@@ -344,6 +437,16 @@ Nimba
 River Cess
 River Gee
 Sinoe
+Alytus
+Kaunas
+Klaipeda
+Marijampole
+Panevezys
+Siauliai
+Taurage
+Telsiai
+Utena
+Vilnius
 Johor
 Kedah
 Kelantan
@@ -373,6 +476,7 @@ Durango
 Guanajuato
 Guerrero
 Hidalgo
+Jalisco
 Mexico (State)
 Michoacan
 Morelos
@@ -390,6 +494,28 @@ Tlaxcala
 Veracruz
 Yucatan
 Zacatecas
+Arkhangai
+Bayankhongor
+Bayan-Olgii
+Bulgan
+Darkhan-Uul
+Dornod
+Dornogovi
+Dundgovi
+Govi-Altai
+Govisumber
+Khentii
+Khovd
+Khovsgol
+Omnogovi
+Orkhon
+Ovorkhangai
+Selenge
+Sukhbaatar
+Tov
+Ulaanbaatar
+Uvs
+Zavkhan
 Fes-Boulemane
 Rabat-Sale-Zemmour-Zaer
 Maputo
@@ -405,6 +531,8 @@ Overijssel
 Utrecht
 Zeeland
 Zuid-Holland
+North
+South
 Lagos
 Akershus
 Aust-Agder
@@ -425,6 +553,14 @@ Telemark
 Troms
 Vest-Agder
 Vestfold
+Azad Kashmir
+Balochistan
+Federally Administered Tribal Areas
+Gilgit–Baltistan
+Islamabad Capital Territory
+Khyber Pakhtunkhwa
+Punjab
+Sindh
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -447,6 +583,24 @@ Southern Highlands
 Western Highlands
 Western Province
 West New Britain
+Alto Paraguay
+Alto Parana
+Amambay
+Asuncion
+Boqueron
+Caaguazu
+Caazapa
+Canindeyu
+Central
+Concepcion
+Cordillera
+Guaira
+Itapua
+Misiones
+Neembucu
+Paraguari
+Presidente Haye
+San Pedro
 Lima
 Bialystok
 Bydgoszcz
@@ -644,6 +798,9 @@ Voronezh
 Yamalo-Nenets
 Yaroslavl
 Zabaykalsky
+Ascension Island
+Saint Helena
+Tristan da Cunha
 Beograd
 Kragujevac
 Nis
@@ -652,6 +809,16 @@ Pancevo
 Subotica
 Vojvodina
 Zrenjanin
+Central
+Choiseul
+Guadalcanal
+Honiara
+Isabel
+Makira-Ulawa
+Malaita
+Rennell and Bellona
+Temotu
+Western
 Awdalland
 Galmudug
 Himan and Heeb
@@ -692,6 +859,15 @@ Melilla
 Navarra
 Region Of Murcia
 Valencia Community
+Central
+Eastern
+North Central
+Northern
+North Western
+Sabaragamuwa
+Southern
+Uva
+Western
 Blekinge Lan
 Blekinge
 Bohuslan
@@ -883,3 +1059,12 @@ Washington
 West Virginia
 Wisconsin
 Wyoming
+Palmyra Atoll
+Wake Island
+Ceres
+Moon
+Pluto
+Port Vila
+Alo
+Sigave
+Uvea
