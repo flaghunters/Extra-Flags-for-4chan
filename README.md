@@ -26,6 +26,8 @@ Works with:
  - **ccd0's 4chan X** (ricy) https://github.com/ccd0/4chan-x
  - **loadletter's 4chan x v2** (least bloated) https://github.com/loadletter/4chan-x/
 
-Tested on latest Firefox/Chromium and firefox 24 on debian and latest Firefox/Chrome on Windows.
+Tested on latest Firefox/Chromium and firefox 24 on Debian Linux and latest Firefox/Chrome on Windows.
+
+**Iceweasel (31.3.0 / 31.3.0-esr)** only works with the **inline extension**!
 
 Direct all questions/comments to Comrade Lenin or PK at http://www.ibm5100.net/ref/index.html
