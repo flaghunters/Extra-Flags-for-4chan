@@ -3,8 +3,10 @@
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
 // @description Extra Flags for int
 // @include     http*://boards.4chan.org/int/*
+// @include     http*://boards.4chan.org/sp/*
 // @exclude     http*://boards.4chan.org/int/catalog
-// @version     0.7
+// @exclude     http*://boards.4chan.org/sp/catalog
+// @version     0.8
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -173,7 +175,6 @@ function onFlagsLoad(response) {
 		var index = postNrs.indexOf(post.post_nr);
 		if (index > -1) {
 			postNrs.splice(index, 1);
-			console.log("resolved" + post.post_nr);
 		}
 	});
 	
@@ -183,7 +184,6 @@ function onFlagsLoad(response) {
 	var timestampMinusFortyFive = Math.round(+new Date()/1000) - postRemoveCounter;
 
 	postNrs.forEach(function (post_nr) {
-		console.log("should I remove " + "pc" + post_nr);
 		var postToAddFlagTo = document.getElementById("pc" + post_nr);
 		var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0];
 		var dateTime = postInfo.getElementsByClassName('dateTime')[0];
@@ -192,7 +192,6 @@ function onFlagsLoad(response) {
 			var index = postNrs.indexOf(post_nr);
 			if (index > -1) {
 				postNrs.splice(index, 1);
-				console.log("removed " + post_nr);
 			}
 		}
 	});
@@ -200,18 +199,22 @@ function onFlagsLoad(response) {
 
 /* fetch flags from db */
 function resolveRefFlags() {
-	GM_xmlhttpRequest({
-		method:     "POST",
-		url:        "http://flaghunters.x10host.com/get_flags.php",
-		data:       "post_nrs=" + encodeURIComponent (postNrs)
-					//+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
-					//+ "&" + "region=" + encodeURIComponent (region)
-		,
-		headers:    {
-			"Content-Type": "application/x-www-form-urlencoded"
-		},
-		onload: onFlagsLoad
-	});
+	
+	var boardID = window.location.pathname.split('/')[1];
+	if (boardID === "int" || boardID === "sp") {
+	
+		GM_xmlhttpRequest({
+			method:     "POST",
+			url:        "http://flaghunters.x10host.com/get_flags.php",
+			data:       "post_nrs=" + encodeURIComponent (postNrs)
+						+ "&" + "board=" + encodeURIComponent (boardID)
+			,
+			headers:    {
+				"Content-Type": "application/x-www-form-urlencoded"
+			},
+			onload: onFlagsLoad
+		});
+	}
 }
 
 /* send flag to system on 4chan x (v2, loadletter, v3 untested) post
@@ -270,17 +273,22 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 document.addEventListener('ThreadUpdate', function(e) {
 	
 	console.log("ThreadUpdate");
-	console.log(e);
+	//console.log(e);
+	
+	var evDetail = e.detail || e.wrappedJSObject.detail;
+	
+	var evDetailClone = cloneInto(evDetail, unsafeWindow);
+	console.log(evDetailClone);
 	
 	//ignore if 404 event
-	if (e.detail[404] === true) {
+	if (evDetail[404] === true) {
 		return;
 	}
 	
-	console.log(e.detail.newPosts);
+	setTimeout(function() {
 	
 	//add to temp posts and the DOM element to allPostsOnPage
-	e.detail.newPosts.forEach(function (post_board_nr) {
+	evDetailClone.newPosts.forEach(function (post_board_nr) {
 		var post_nr = post_board_nr.split('.')[1];
 		postNrs.push(post_nr);
 		var newPostDomElement = document.getElementById("pc" + post_nr);
@@ -289,6 +297,7 @@ document.addEventListener('ThreadUpdate', function(e) {
 		console.log("pushed " + post_nr);
 	});
 	
+	}, 0);
 	//setTimeout to support greasemonkey 1.x
 	setTimeout(resolveRefFlags, 0);
 	
