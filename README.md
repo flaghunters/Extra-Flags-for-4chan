@@ -1,7 +1,8 @@
-Extra Flags for ~~/int/~~ /int/ and /sp/
+Extra Flags for /int/
 ==========
 
 We're in BETA! Bugs will occur.
+/sp/ supported as well now!
 
 Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 
