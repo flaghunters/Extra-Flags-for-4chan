@@ -31,3 +31,11 @@ Tested on latest Firefox/Chromium and firefox 24 on Debian Linux and latest Fire
 **Iceweasel (31.3.0 / 31.3.0-esr)** only works with the **inline extension**!
 
 Direct all questions/comments to Comrade Lenin or PK at http://www.ibm5100.net/ref/index.html
+
+Changelog
+==========
+
+ - **0.8** Add /sp/ support.
+ - **0.7** First release to be documented. (Supporting inline + various 4chan x, various browsers)
+
+ 
