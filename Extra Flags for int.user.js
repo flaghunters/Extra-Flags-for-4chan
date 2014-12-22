@@ -277,7 +277,7 @@ document.addEventListener('ThreadUpdate', function(e) {
 	
 	var evDetail = e.detail || e.wrappedJSObject.detail;
 	
-	var evDetailClone = cloneInto(evDetail, unsafeWindow);
+	var evDetailClone = typeof cloneInto === 'function' ? cloneInto(evDetail, unsafeWindow) : evDetail;
 	console.log(evDetailClone);
 	
 	//ignore if 404 event
@@ -287,15 +287,15 @@ document.addEventListener('ThreadUpdate', function(e) {
 	
 	setTimeout(function() {
 	
-	//add to temp posts and the DOM element to allPostsOnPage
-	evDetailClone.newPosts.forEach(function (post_board_nr) {
-		var post_nr = post_board_nr.split('.')[1];
-		postNrs.push(post_nr);
-		var newPostDomElement = document.getElementById("pc" + post_nr);
-		console.log(newPostDomElement);
-		allPostsOnPage.push(newPostDomElement);
-		console.log("pushed " + post_nr);
-	});
+		//add to temp posts and the DOM element to allPostsOnPage
+		evDetailClone.newPosts.forEach(function (post_board_nr) {
+			var post_nr = post_board_nr.split('.')[1];
+			postNrs.push(post_nr);
+			var newPostDomElement = document.getElementById("pc" + post_nr);
+			console.log(newPostDomElement);
+			allPostsOnPage.push(newPostDomElement);
+			console.log("pushed " + post_nr);
+		});
 	
 	}, 0);
 	//setTimeout to support greasemonkey 1.x
