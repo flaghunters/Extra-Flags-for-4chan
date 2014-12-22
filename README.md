@@ -1,4 +1,4 @@
-Extra Flags for /int/
+Extra Flags for ~~/int/~~ /int/ and /sp/
 ==========
 
 We're in BETA! Bugs will occur.
