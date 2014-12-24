@@ -3,6 +3,8 @@ Extra Flags for /int/
 
 We're in BETA! Bugs will occur.
 
+/sp/ supported as well now!
+
 Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 
 The first time it's loaded it will try geolocation, and then ask if you need to edit the region.
