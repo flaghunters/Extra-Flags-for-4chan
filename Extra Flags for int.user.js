@@ -6,7 +6,7 @@
 // @include     http*://boards.4chan.org/sp/*
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
-// @version     0.8
+// @version     0.9
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -24,6 +24,8 @@ var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
 var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
+//var backendBaseUrl = 'http://flaghunters.x10host.com/';
+var backendBaseUrl = 'http://flaghunters.host22.com/';
 
 /* region setup thing */
 var setup = {
@@ -94,7 +96,6 @@ function getRegion() {
 		onload: function (response) {
 			if (response.status == 200) {
 				region=response.responseText.trim();
-				console.log("Region: " + region);
 				setup.save('region', region);
 				setTimeout(function () {
 					if (setup.load('firstrun') !== "true") {
@@ -105,8 +106,8 @@ function getRegion() {
 					}
 				}, 3000);
 			} else {
-				console.log("Location error: " + response.status);
-				console.log(response.statusText);
+				//console.log("Location error: " + response.status);
+				//console.log(response.statusText);
 			}
 		}
 	});
@@ -152,7 +153,9 @@ function onFlagsLoad(response) {
 	}
 	
 	//parse returned data
-	var jsonData = JSON.parse(response.responseText);
+	//host22 sends crap about analytics which needs to be cut off
+	var removeNonJsonSlug = response.responseText.split(']');
+	var jsonData = JSON.parse(removeNonJsonSlug[0] + ']');
 	
 	jsonData.forEach(function (post) {
 		var postToAddFlagTo = document.getElementById("pc" + post.post_nr);
@@ -170,6 +173,8 @@ function onFlagsLoad(response) {
 		newFlag.target = '_blank';
 		//padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
 		newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
+
+		console.log("resolved " + post.region);
 
 		//remove flag from postNrs
 		var index = postNrs.indexOf(post.post_nr);
@@ -205,7 +210,7 @@ function resolveRefFlags() {
 	
 		GM_xmlhttpRequest({
 			method:     "POST",
-			url:        "http://flaghunters.x10host.com/get_flags.php",
+			url:        backendBaseUrl + "get_flags.php",
 			data:       "post_nrs=" + encodeURIComponent (postNrs)
 						+ "&" + "board=" + encodeURIComponent (boardID)
 			,
@@ -227,7 +232,7 @@ document.addEventListener('QRPostSuccessful', function(e) {
 	setTimeout(function () {
 		GM_xmlhttpRequest({
 			method:     "POST",
-			url:        "http://flaghunters.x10host.com/post_flag.php",
+			url:        backendBaseUrl + "post_flag.php",
 			data:       "post_nr=" + encodeURIComponent (e.detail.postID)
 						+ "&" + "board=" + encodeURIComponent (e.detail.boardID)
 						+ "&" + "region=" + encodeURIComponent (region)
@@ -236,7 +241,8 @@ document.addEventListener('QRPostSuccessful', function(e) {
 				"Content-Type": "application/x-www-form-urlencoded"
 			},
 			onload:     function (response) {
-				console.log(response.responseText);
+				//hide spam, debug purposes only
+				//console.log(response.responseText);
 			}
 		});
 	}, 0);
@@ -244,17 +250,14 @@ document.addEventListener('QRPostSuccessful', function(e) {
 
 /* send flag to system on 4chan inline post */
 document.addEventListener('4chanQRPostSuccess', function(e) {
-	console.log("4chanQRPostSuccess");
 	
 	var boardID = window.location.pathname.split('/')[1];
-	console.log(boardID);
 	var evDetail = e.detail || e.wrappedJSObject.detail;
-	console.log(evDetail);
 	//setTimeout to support greasemonkey 1.x
 	setTimeout(function () {
 		GM_xmlhttpRequest({
 			method:     "POST",
-			url:        "http://flaghunters.x10host.com/post_flag.php",
+			url:        backendBaseUrl + "post_flag.php",
 			data:       "post_nr=" + encodeURIComponent (evDetail.postId)
 						+ "&" + "board=" + encodeURIComponent (boardID)
 						+ "&" + "region=" + encodeURIComponent (region)
@@ -263,7 +266,8 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 				"Content-Type": "application/x-www-form-urlencoded"
 			},
 			onload:     function (response) {
-				console.log(response.responseText);
+				//hide spam, debug only
+				//console.log(response.responseText);
 			}
 		});
 	}, 0);
@@ -272,13 +276,12 @@ document.addEventListener('4chanQRPostSuccess', function(e) {
 /* Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?) */
 document.addEventListener('ThreadUpdate', function(e) {
 	
-	console.log("ThreadUpdate");
-	//console.log(e);
+	//console.log("ThreadUpdate");
 	
 	var evDetail = e.detail || e.wrappedJSObject.detail;
 	
 	var evDetailClone = typeof cloneInto === 'function' ? cloneInto(evDetail, unsafeWindow) : evDetail;
-	console.log(evDetailClone);
+	//console.log(evDetailClone);
 	
 	//ignore if 404 event
 	if (evDetail[404] === true) {
@@ -292,9 +295,7 @@ document.addEventListener('ThreadUpdate', function(e) {
 			var post_nr = post_board_nr.split('.')[1];
 			postNrs.push(post_nr);
 			var newPostDomElement = document.getElementById("pc" + post_nr);
-			console.log(newPostDomElement);
 			allPostsOnPage.push(newPostDomElement);
-			console.log("pushed " + post_nr);
 		});
 	
 	}, 0);
@@ -305,24 +306,17 @@ document.addEventListener('ThreadUpdate', function(e) {
 
 //Listen to post updates from the thread updater for inline extension
 document.addEventListener('4chanThreadUpdated', function(e) {
-	console.log("4chanThreadUpdated");
-	console.log(e);
 	var evDetail = e.detail || e.wrappedJSObject.detail;
-	console.log(evDetail);
 	
 	var threadID = window.location.pathname.split('/')[3]; //get thread ID
 	var postsContainer = Array.prototype.slice.call(document.getElementById('t'  + threadID).childNodes); //get an array of postcontainers
 	var lastPosts = postsContainer.slice(Math.max(postsContainer.length - evDetail.count, 1)); //get the last n elements (where n is evDetail.count)
-	
-	console.log(lastPosts);
 
 	//add to temp posts and the DOM element to allPostsOnPage
 	lastPosts.forEach(function (post_container) {
 		var post_nr = post_container.id.replace("pc", "");
 		postNrs.push(post_nr);
-		console.log(post_container);
 		allPostsOnPage.push(post_container);
-		console.log("pushed " + post_nr);
 	});
 	//setTimeout to support greasemonkey 1.x
 	setTimeout(resolveRefFlags, 0);
