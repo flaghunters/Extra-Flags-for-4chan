@@ -16,7 +16,6 @@ if($_SERVER['REQUEST_METHOD'] == 'GET'){
 
 //get POST variables
 $post_nr = $_POST['post_nr'];
-$real_flag = $_POST['real_flag'];
 $region = $_POST['region'];
 $board = $_POST['board'];
 
@@ -40,13 +39,13 @@ if (!in_array($region, $flaglist)) {
 echo "after";
 
 //create pdo array
-$pdo_array=array("$post_nr", "$board", "$real_flag", "$region");
+$pdo_array=array("$post_nr", "$board", "$region");
 
 try {
 	//pdo connection
     $pdo = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
     //pdo query
-    $sql = "INSERT INTO $db_table(post_nr, board, real_flag, region) VALUES (?, ?, ?, ?)";
+    $sql = "INSERT INTO $db_table(post_nr, board, region) VALUES (?, ?, ?)";
     $stm = $pdo->prepare($sql);
     $stm->execute($pdo_array);
  

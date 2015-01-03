@@ -1,3 +1,6 @@
 <?php
-// Silence is golden.
+
+header("Location: https://github.com/flaghunters/Extra-Flags-for-int-");
+die();
+	
 ?>
