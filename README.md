@@ -1,8 +1,7 @@
 Extra Flags for /int/
 ==========
 
-Script is currently broken because second backend also decided to dump us.
-Issue here: https://github.com/flaghunters/Extra-Flags-for-int-/issues/19
+We're back up! 
 
 Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 
@@ -36,7 +35,8 @@ Direct all questions/comments to Comrade Lenin or PK at http://www.ibm5100.net/r
 Changelog
 ==========
 
+ - **0.10** Switched hosting (Digital Ocean) Not free unfortunately.
+ - **0.9** Switched hosting
  - **0.8** Add /sp/ support.
  - **0.7** First release to be documented. (Supporting inline + various 4chan x, various browsers)
-
  
