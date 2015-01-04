@@ -6,7 +6,7 @@
 // @include     http*://boards.4chan.org/sp/*
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
-// @version     0.9
+// @version     0.10
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -24,8 +24,7 @@ var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
 var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
-//var backendBaseUrl = 'http://flaghunters.x10host.com/';
-var backendBaseUrl = 'http://flaghunters.host22.com/';
+var backendBaseUrl = 'http://95.85.46.140/';
 
 /* region setup thing */
 var setup = {
