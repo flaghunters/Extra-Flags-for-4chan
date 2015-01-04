@@ -24,7 +24,7 @@ var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
 var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
-var backendBaseUrl = 'http://95.85.46.140/';
+var backendBaseUrl = 'http://whatisthisimnotgoodwithcomputers.com/';
 
 /* region setup thing */
 var setup = {
