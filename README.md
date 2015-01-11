@@ -30,7 +30,7 @@ Q: iOS?<br>
 A: Firefox should hit iOS soon, wait and see if Firefox on iOS will support extensions.
 
 1. [Download](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/android-firefox/extra-flags-for-int-ffma.xpi) the Extension on mobile or scan QR below.
-2. Click the download to install.
+2. Click the download to install (or open with firefox, browse to /sdcard/Download/extra-flags-for-int-ffma.xpi).
 3. Set you're region in Options > Tools > Add-ons > Extra Flags for int FFMA > Region
 4. Refresh any 4chan tab you have open.
 
