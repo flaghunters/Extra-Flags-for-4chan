@@ -23,10 +23,10 @@ Works with:
 HOW TO INSTALL (Android Firefox (FFMA))
 ==========
 
-Q: Why Firefox on Android?
+Q: Why Firefox on Android?<br>
 A: There are no good browsers which support UserScripts. Firefox is the only browser to support extensions. Webkit-based browsers like Chrom* do NOT support extensions.
 
-Q: iOS?
+Q: iOS?<br>
 A: Firefox should hit iOS soon, wait and see if Firefox on iOS will support extensions.
 
 1. Download the Extension (dl link coming)
