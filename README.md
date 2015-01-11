@@ -2,7 +2,7 @@ Extra Flags for /int/ (and /sp/)
 ==========
 
 To set the region later:
- - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Video guide)](http://a.pomf.se/jlzfak.webm)
+ - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
  - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/
 
 To check the available countries/flags see [flegs](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs)
@@ -10,7 +10,7 @@ To check the available countries/flags see [flegs](https://github.com/flaghunter
 HOW TO INSTALL (Desktop - Chrom*/Firefox)
 ==========
 
-1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](http://a.pomf.se/zhgtso.webm).
+1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-install.webm).
 2. Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 3. Reload the page
 
@@ -29,10 +29,13 @@ A: There are no good browsers which support UserScripts. Firefox is the only bro
 Q: iOS?<br>
 A: Firefox should hit iOS soon, wait and see if Firefox on iOS will support extensions.
 
-1. Download the Extension (dl link coming)
+1. [Download](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/android-firefox/extra-flags-for-int-ffma.xpi) the Extension on mobile or scan QR below.
 2. Click the download to install.
 3. Set you're region in Options > Tools > Add-ons > Extra Flags for int FFMA > Region
 4. Refresh any 4chan tab you have open.
+
+![Image of QR](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/Firefox-Android-XPI-QR.png)
+
 
 Changelog
 ==========
