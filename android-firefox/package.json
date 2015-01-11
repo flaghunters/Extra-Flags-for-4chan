@@ -1,0 +1,20 @@
+{
+  "name": "extra-flags-for-int-ffma",
+  "title": "Extra Flags for int FFMA",
+  "id": "jid1-hnDU976KDjeoyg",
+  "description": "Extra Flags for int (Firefox Mobile Android edition)",
+  "author": "Flaghunters",
+  "license": "None, do whatever you want with it, source hosted on github.com/flaghunters",
+  "version": "0.1",
+  
+  "preferences": [{
+        "name": "region",
+        "title": "Region",
+        "description": "You're region. Refresh 4khan page(s) after setting this.",
+        "type": "string",
+        "value": "null"
+    }],
+    "permissions": {
+    "cross-domain-content": ["http://whatisthisimnotgoodwithcomputers.com/"]
+	}
+}
