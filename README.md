@@ -20,7 +20,7 @@ Works with:
  - **ccd0's 4chan X** (ricy) https://github.com/ccd0/4chan-x
  - **loadletter's 4chan x v2** (least bloated) https://github.com/loadletter/4chan-x/
  
-HOW TO INSTALL (Android Firefox (FFMA))
+HOW TO INSTALL (Android Firefox)
 ==========
 
 Q: Why Firefox on Android?<br>
