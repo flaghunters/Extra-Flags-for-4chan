@@ -1,4 +1,4 @@
-Extra Flags for /int/
+Extra Flags for /int/ (and /sp/)
 ==========
 
 To set the region later:
