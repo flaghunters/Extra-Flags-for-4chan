@@ -1,9 +1,11 @@
 Extra Flags for /int/ (and /sp/)
 ==========
 
+Install instructions below.
+
 To set the region later:
- - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
- - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/
+ - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Firefox webm guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
+ - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/ [(Chrome webm guide)] (https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-edit.webm) 
 
 To check the available countries/flags see [flegs](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs)
 
