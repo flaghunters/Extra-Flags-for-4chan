@@ -1,12 +1,3 @@
-Extra Flags for /int/ (/sp/ and /pol/)
-==========
-
-Install instructions below.
-
-To set the region later:
- - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Firefox webm guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
- - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/ [(Chrome webm guide)] (https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-edit.webm) 
-
 To check the available countries/flags see [flegs](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs)
 
 HOW TO INSTALL (Desktop - Chrom*/Firefox)
@@ -14,6 +5,7 @@ HOW TO INSTALL (Desktop - Chrom*/Firefox)
 
 1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-install.webm).
 2. Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
+3. Set your region to one of the following [flags](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs) (Your flag not there? Create an issue on the right!)
 3. Reload the page
 4. Post from QR (top form does not work)
 
@@ -22,6 +14,10 @@ Works with:
  - **appchan** (very ricy) https://github.com/zixaphir/appchan-x (**Bug:** JSON navigation prevents the extra flags from showing until you refresh!)
  - **ccd0's 4chan X** (ricy) https://github.com/ccd0/4chan-x
  - **loadletter's 4chan x v2** (least bloated) https://github.com/loadletter/4chan-x/
+
+To set the region later:
+ - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Firefox webm guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
+ - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/ [(Chrome webm guide)] (https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-edit.webm) 
  
 HOW TO INSTALL (Android Firefox)
 ==========
