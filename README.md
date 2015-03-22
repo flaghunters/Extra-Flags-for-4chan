@@ -15,6 +15,7 @@ HOW TO INSTALL (Desktop - Chrom*/Firefox)
 1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-install.webm).
 2. Install this: [Extra Flags for int.user.js](https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js)
 3. Reload the page
+4. Post from QR (top form does not work)
 
 Works with:
  - **Vanilla 4chan** (inline extension)
