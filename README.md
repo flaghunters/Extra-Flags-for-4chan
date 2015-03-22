@@ -1,4 +1,4 @@
-Extra Flags for /int/ (and /sp/)
+Extra Flags for /int/ (/sp/ and /pol/)
 ==========
 
 Install instructions below.
@@ -42,7 +42,7 @@ A: Firefox should hit iOS soon, wait and see if Firefox on iOS will support exte
 
 Changelog
 ==========
-
+ - **0.11** Add /pol/ support
  - **0.10** Switched hosting (Digital Ocean) Not free unfortunately.
  - **0.9** Switched hosting
  - **0.8** Add /sp/ support.
