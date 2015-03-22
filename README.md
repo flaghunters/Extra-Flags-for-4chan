@@ -1,5 +1,3 @@
-To check the available countries/flags see [flegs](https://github.com/flaghunters/Extra-Flags-for-int-/tree/master/flegs)
-
 HOW TO INSTALL (Desktop - Chrom*/Firefox)
 ==========
 
