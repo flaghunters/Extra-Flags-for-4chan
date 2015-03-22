@@ -4,9 +4,11 @@
 // @description Extra Flags for int
 // @include     http*://boards.4chan.org/int/*
 // @include     http*://boards.4chan.org/sp/*
+// @include     http*://boards.4chan.org/pol/*
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
-// @version     0.10
+// @exclude     http*://boards.4chan.org/pol/catalog
+// @version     0.11
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -205,7 +207,7 @@ function onFlagsLoad(response) {
 function resolveRefFlags() {
 	
 	var boardID = window.location.pathname.split('/')[1];
-	if (boardID === "int" || boardID === "sp") {
+	if (boardID === "int" || boardID === "sp" || boardID === "pol") {
 	
 		GM_xmlhttpRequest({
 			method:     "POST",
