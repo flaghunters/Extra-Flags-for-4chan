@@ -4,7 +4,7 @@ Originally made for /int/, but we support /sp/ and /pol/ now as well.
 Made by /ref/ and flags contributed by various /ref/ and /int/ posters.
 Your flag not here? Create an issue on the right.
 
-HOW TO INSTALL (Desktop - Chrom*/Firefox)
+HOW TO INSTALL (Desktop - Chrome/Firefox)
 ==========
 
 1. Download GreaseMonkey for Firefox (Restart after installation)  or TamperMonkey for Chrome [(Video guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-install.webm).
@@ -21,13 +21,13 @@ Works with:
 
 To set the region later:
  - Firefox/greasemonkey: monkey menu > User script commands > Extra flags for /int/ [(Firefox webm guide)](https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/firefox-edit.webm)
- - Chrom*/tampermonkey: tampermonkey menu > Extra flags for /int/ [(Chrome webm guide)] (https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-edit.webm) 
+ - Chrome/tampermonkey: tampermonkey menu > Extra flags for /int/ [(Chrome webm guide)] (https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/misc/chrome-edit.webm) 
  
 HOW TO INSTALL (Android Firefox)
 ==========
 
 Q: Why Firefox on Android?<br>
-A: There are no good browsers which support UserScripts. Firefox is the only browser to support extensions. Webkit-based browsers like Chrom* do NOT support extensions.
+A: There are no good browsers which support UserScripts. Firefox is the only browser to support extensions. Webkit-based browsers like Chrome do NOT support extensions.
 
 Q: iOS?<br>
 A: Firefox should hit iOS soon, wait and see if Firefox on iOS will support extensions.
