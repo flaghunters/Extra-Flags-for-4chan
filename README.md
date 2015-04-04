@@ -1,3 +1,9 @@
+Extra Flags for 4chan.
+==========
+Originally made for /int/, but we support /sp/ and /pol/ now as well.
+Made by /ref/ and flags contributed by various /ref/ and /int/ posters.
+Your flag not here? Create an issue on the right.
+
 HOW TO INSTALL (Desktop - Chrom*/Firefox)
 ==========
 
@@ -46,4 +52,5 @@ Changelog
 Android Firefox Extension Changelog
 ==========
 
+ - **0.2** Added /pol/ support
  - **0.1** Initial release.
