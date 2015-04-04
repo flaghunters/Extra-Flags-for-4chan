@@ -4,7 +4,7 @@ var pageMod = require("sdk/page-mod");
 var keepWorker;
 
 pageMod.PageMod({
-  include: [/.*boards.4chan.org\/int.*/, /.*boards.4chan.org\/sp.*/],
+  include: [/.*boards.4chan.org\/int.*/, /.*boards.4chan.org\/sp.*/, /.*boards.4chan.org\/pol.*/],
   contentScriptWhen: 'ready',
   contentScriptFile: ["./jquery-2.3.1.min.js", "./flaghunters-code.js"],
   onAttach: function(worker) {

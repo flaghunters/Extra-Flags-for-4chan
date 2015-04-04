@@ -127,7 +127,7 @@ function insertAfter(newNode, referenceNode) {
 /* fetch flags from db */
 function resolveRefFlags() {	
 	var boardID = window.location.pathname.split('/')[1];
-	if (boardID === "int" || boardID === "sp") {
+	if (boardID === "int" || boardID === "sp" || boardID === "pol") {
 	
 		$.ajax({
 			type:     	"POST",

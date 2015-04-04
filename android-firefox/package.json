@@ -5,14 +5,14 @@
   "description": "Extra Flags for int (Firefox Mobile Android edition)",
   "author": "Flaghunters",
   "license": "None, do whatever you want with it, source hosted on github.com/flaghunters",
-  "version": "0.1",
+  "version": "0.2",
   
   "preferences": [{
         "name": "region",
         "title": "Region",
         "description": "You're region. Refresh 4khan page(s) after setting this.",
         "type": "string",
-        "value": "null"
+        "value": "Replace me!"
     }],
     "permissions": {
     "cross-domain-content": ["http://whatisthisimnotgoodwithcomputers.com/"]
