@@ -211,6 +211,7 @@ Zadarska
 Zagrebacka
 Havana
 Akrotiri and Dhekelia
+Buffer Zone
 Famagusta
 Nicosia
 Northern Cyprus
@@ -384,6 +385,7 @@ Marquesas Islands
 Tuamotus
 Abkhazia
 Adjara
+South Ossetia
 Tbilisi
 Baden-Wurttemberg
 Bayern
@@ -496,6 +498,9 @@ West Nusa Tenggara
 West Papua
 West Sumatra
 Yogyakarta
+Dohuk
+Erbil
+Sulaymaniyah
 Connacht
 Dublin
 Galway
@@ -521,6 +526,7 @@ Marche
 Molise
 Piemonte
 Puglia
+Rome
 Sardegna
 Sicilia
 Toscana
@@ -592,6 +598,10 @@ Riga
 Valmiera
 Ventspils
 Beirut
+Beqaa
+Mount Lebanon
+North Governorate
+South Governorate
 Bomi
 Bong
 Gbarpolu
@@ -752,6 +762,7 @@ Sagaing
 Shan
 Tanintharyi
 Yangon
+Amsterdam
 Drenthe
 Flevoland
 Friesland
@@ -1334,12 +1345,19 @@ Bangkok
 Tunis
 Ankara
 Antalya
+Batman
 Bursa
 Canakkale
+Erdine
 Eskisehir
 Istanbul
 Izmir
+Karaman
+Sakarya
+Sinop
 Trabzon
+Van
+Yalova
 Buganda
 Bunyoro
 Busoga
@@ -1350,6 +1368,7 @@ Chernihivska
 Chernivetska
 Dnipropetrovska
 Donetska
+Donetsk Peoples Republic
 Ivano-Frankivska
 Kharkivska
 Khersonska
@@ -1359,6 +1378,7 @@ Krym
 Kyiv
 Kyivska
 Luhanska
+Luhansk Peoples Republic
 Lvivska
 Mykolaivska
 Odeska
@@ -1464,6 +1484,7 @@ Nevada
 New Hampshire
 New Jersey
 New Mexico
+New York City
 New York
 North Carolina
 North Dakota
@@ -1548,6 +1569,7 @@ Zulia
 Alo
 Sigave
 Uvea
+Houthis
 Bulawayo
 Gweru
 Harare
