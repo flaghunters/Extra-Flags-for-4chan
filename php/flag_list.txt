@@ -1394,7 +1394,10 @@ Zaporizka
 Zhytomyrska
 Aberdeenshire
 Angus
+Antrim
+Armagh
 Bedfordshire
+Belfast
 Bristol
 Buckinghamshire
 Cambridgeshire
@@ -1403,12 +1406,15 @@ Cornwall
 Cumberland
 Cumbria
 Derbyshire
+Derry
 Devon
 Dorset
+Down
 Durham
 East Sussex
 England
 Essex
+Fermanagh
 Gloucestershire
 Greater London
 Greater Manchester
@@ -1423,6 +1429,7 @@ Kent
 Lancashire
 Leicestershire
 Lincolnshire
+Londonderry
 London
 Merseyside
 Middlesex
@@ -1445,6 +1452,8 @@ Surrey
 Sussex
 The Principality of Sealand
 Tyne and Wear
+Tyrone
+Ulster
 Wales
 Warwickshire
 Western Isles
