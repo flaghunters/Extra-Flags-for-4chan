@@ -1421,13 +1421,17 @@ Edinburgh
 England
 Essex
 Fermanagh
+Flintshire
+Glamorgan
 Gloucestershire
 Greater London
 Greater Manchester
+Gwynedd
 Hampshire
 Herefordshire
 Hertfordshire
 Huntingdonshire
+Isle of Anglesey
 Isle of Portland
 Isle of Wight
 Isles of Scilly
@@ -1437,6 +1441,7 @@ Leicestershire
 Lincolnshire
 Londonderry
 London
+Meirionnydd
 Merseyside
 Middlesex
 Monmouthshire
@@ -1448,6 +1453,7 @@ Nottinghamshire
 Orkney
 Outer Hebrides
 Oxfordshire
+Pembrokeshire
 Rutland
 Scotland
 Shetland Isles
