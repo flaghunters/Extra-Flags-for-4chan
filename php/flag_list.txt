@@ -1673,6 +1673,7 @@ Anchorage
 Arizona
 Arkansas
 Atlanta
+Austin
 Baltimore
 Boston
 Bronx
@@ -1690,12 +1691,15 @@ Delaware
 Denver
 Detroit
 District of Columbia
+El Paso
 Florida
+Fort Worth
 Fresno
 Georgia
 Grand Rapids
 Hawaii
 Honolulu
+Houston
 Idaho
 Illinois
 Indiana
@@ -1736,6 +1740,7 @@ New York
 North Carolina
 North Dakota
 Ohio
+Oklahoma City
 Oklahoma
 Oregon
 Orlando
@@ -1750,6 +1755,7 @@ Rhode Island
 Richmond
 Sacramento
 Salt Lake City
+San Antonio
 San Diego
 San Francisco
 Seattle
@@ -1760,6 +1766,7 @@ St. Paul
 Tampa
 Tennessee
 Texas
+Tulsa
 Utah
 Vermont
 Virginia
