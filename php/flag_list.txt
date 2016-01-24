@@ -936,6 +936,7 @@ Amsterdam
 Arnhem
 Baarn
 Breda
+Delft
 Den Bosch
 Den Haag
 Drenthe
@@ -943,28 +944,40 @@ Eindhoven
 Flevoland
 Friesland
 Gelderland
+Gorredijk
 Groningen
 Haarlem
+Harderwijk
+Heerenveen
 Heerlen
+Kampen
 Katwijk
 Leeuwarden
 Leiden
 Limburg
 Maastricht
+Meppel
 Middelburg
 Noord-Brabant
 Noord-Holland
+Oldeberkoop
+Ooststellingwerf
+Opsterland
 Overijssel
+Rijswijk
 Rotterdam
+Stavoren
 Terneuzen
 Tilburg
 Utrecht
 Velsen
 Volendam
+Weststellingwerf
 Zeeland
 Zoetermeer
 Zuid-Holland
 Zutphen
+Zwolle
 North
 South
 Nelson
@@ -1675,6 +1688,8 @@ Arkansas
 Atlanta
 Austin
 Baltimore
+Baton Rouge
+Birmingham
 Boston
 Bronx
 Brooklyn
@@ -1706,6 +1721,7 @@ Indiana
 Indianapolis
 Iowa
 Iroquois
+Jackson
 Jacksonville
 Joliet
 Kansas City
@@ -1713,6 +1729,8 @@ Kansas
 Kentucky
 Key West
 Las Vegas
+Lincoln
+Little Rock
 Los Angeles
 Louisiana
 Louisville
@@ -1728,8 +1746,10 @@ Minneapolis
 Minnesota
 Mississippi
 Missouri
+Mobile
 Montana
 Montgomery County, Maryland
+Montgomery
 Naperville
 Nebraska
 Nevada
@@ -1744,6 +1764,8 @@ North Dakota
 Ohio
 Oklahoma City
 Oklahoma
+Olathe
+Omaha
 Oregon
 Orlando
 Palm Beach
@@ -1762,6 +1784,7 @@ San Antonio
 San Diego
 San Francisco
 Schaumburg
+Schreveport
 Seattle
 South Carolina
 South Dakota
@@ -1771,12 +1794,14 @@ St. Paul
 Tampa
 Tennessee
 Texas
+Topeka
 Tulsa
 Utah
 Vermont
 Virginia
 Washington
 West Virginia
+Wichita
 Wisconsin
 Wyoming
 Baker Island
