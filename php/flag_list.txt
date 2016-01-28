@@ -141,6 +141,7 @@ Goiania
 Goias
 Governador Valadares
 Gravatai
+Guanabara
 Guaruja
 Guarulhos
 Imperatriz
@@ -1686,33 +1687,42 @@ Anchorage
 Arizona
 Arkansas
 Atlanta
+Augusta
 Austin
 Baltimore
 Baton Rouge
 Birmingham
 Boston
+Bridgeport
 Bronx
 Brooklyn
 Buffalo
 California
 Charlotte
+Chesapeake
 Chicago
 Cincinnati
 Cleveland
 Colorado
 Columbia
+Columbus
 Connecticut
 Dallas
 Delaware
 Denver
 Detroit
 District of Columbia
+Dover
+Durham
 El Paso
 Florida
+Fort Wayne
 Fort Worth
+Frederick County
 Fresno
 Georgia
 Grand Rapids
+Greensboro
 Hawaii
 Hialeah
 Honolulu
@@ -1753,8 +1763,10 @@ Montana
 Montgomery County, Maryland
 Montgomery
 Naperville
+Nashville
 Nebraska
 Nevada
+Newark
 New Hampshire
 New Jersey
 New Mexico
@@ -1781,6 +1793,7 @@ Provo
 Raleigh
 Rhode Island
 Richmond
+Rochester
 Sacramento
 Salt Lake City
 San Antonio
@@ -1793,21 +1806,28 @@ South Carolina
 South Dakota
 Springfield
 St Louis
+St. Louis
 St. Paul
 St. Petersburg
 Tampa
 Tennessee
 Texas
+Toledo
 Topeka
 Tulsa
 Utah
 Vermont
+Virginia Beach
 Virginia
 Washington
 West Virginia
 Wichita
+Wilmington
+Winston-Salem
 Wisconsin
+Worcester
 Wyoming
+Yonkers
 Baker Island
 Howland Island
 Jarvis Island
