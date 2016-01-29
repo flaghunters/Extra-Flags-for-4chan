@@ -1608,6 +1608,7 @@ Armagh
 Ayrshire
 Bedfordshire
 Belfast
+Birmingham
 Bristol
 Buckinghamshire
 Cambridgeshire
@@ -1691,6 +1692,7 @@ Augusta
 Austin
 Baltimore
 Baton Rouge
+Billings
 Birmingham
 Boston
 Bridgeport
@@ -1704,17 +1706,20 @@ Chicago
 Cincinnati
 Cleveland
 Colorado
+Colorado Springs
 Columbia
 Columbus
 Connecticut
 Dallas
 Delaware
 Denver
+Des Moines
 Detroit
 District of Columbia
 Dover
 Durham
 El Paso
+Fargo
 Florida
 Fort Wayne
 Fort Worth
@@ -1724,6 +1729,7 @@ Georgia
 Grand Rapids
 Greensboro
 Hawaii
+Helena
 Hialeah
 Honolulu
 Houston
