@@ -108,6 +108,7 @@ Betim
 Blumenau
 Boa Vista
 Brasilia
+Camboriu
 Campina Grande
 Campinas
 Campo Grande
@@ -121,6 +122,7 @@ Cataguases
 Caucaia
 Caxias do Sul
 Ceara
+Chapeco
 Cidade de Sao Paulo
 Cidade do Rio de Janeiro
 Cisplatina
@@ -130,6 +132,7 @@ Curitiba
 Diadema
 Distrito Federal
 Duque de Caxias
+Embu das Artes
 Espirito Santo
 Feira de Santana
 Fernando de Noronha
@@ -137,11 +140,14 @@ Florianopolis
 Fortaleza
 Foz do Iguacu
 Franca
+Francisco Beltrao
 Goiania
 Goias
 Governador Valadares
+Gramado
 Gravatai
 Guanabara
+Guarapuava
 Guaruja
 Guarulhos
 Imperatriz
@@ -156,10 +162,12 @@ Jundiai
 Limeira
 Lins
 Londrina
+Macae
 Macapa
 Maceio
 Manaus
 Maranhao
+Marilandia do Sul
 Maringa
 Mato Grosso do Sul
 Mato Grosso
@@ -167,6 +175,7 @@ Maua
 Miami
 Minas Gerais
 Mogi das Cruzes
+Mogi Mirim
 Montes Claros
 Mossoro
 Natal
@@ -180,6 +189,9 @@ Palmas
 Paraiba
 Parana
 Para
+Passo Fundo
+Pato Branco
+Patos de Minas
 Paulista
 Pelotas
 Pernambuco
@@ -187,10 +199,12 @@ Petrolina
 Petropolis
 Piaui
 Piracicaba
+Pocos de Caldas
 Ponta Grossa
 Porto Alegre
 Porto Velho
 Praia Grande
+Presidente Prudente
 Recife
 Ribeirao das Neves
 Ribeirao Preto
@@ -206,6 +220,7 @@ Santa Maria
 Santarem
 Santo Andre
 Santos
+Sao Bento do Sul
 Sao Bernardo do Campo
 Sao Goncalo
 Sao Joao de Mereti
@@ -223,11 +238,13 @@ Suzano
 Taubate
 Teresina
 Tocantins
+Toledo
 Uberaba
 Uberlandia
 Varzea Grande
 Viamao
 Vila Velha
+Vilhena
 Vitoria da Conquista
 Vitoria
 Volta Redonda
