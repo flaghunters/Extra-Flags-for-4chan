@@ -1,4 +1,5 @@
 Tirana
+Andorra la Vella
 Cabinda
 British Antarctic Territory
 Marie Byrd Land
@@ -495,6 +496,7 @@ Oromia
 SNNPR
 Somalia Region
 Tigray Region
+Torshavn
 Chuuk
 Kosrae
 Pohnpei
@@ -513,6 +515,7 @@ Pohjanmaa
 Pohjois-Karjala
 Pohjois-Pohjanmaa
 Pohjois-Savo
+Sapmi
 Satakunta
 Uusimaa
 Varsinais-Suomi
@@ -572,6 +575,7 @@ Western Region
 Attica
 Central Greece
 Central Macedonia
+Crete
 Epirus
 Ionian Islands
 North Aegean
@@ -677,6 +681,8 @@ Munster
 Roscommon
 Sligo
 Ulster
+Haifa
+Holon
 Jerusalem
 Tel Aviv
 Abruzzo
@@ -871,6 +877,7 @@ Sabah
 Sarawak
 Selangor
 Terengganu
+Valletta
 Aguascalientes
 Baja California
 Baja California Sur
@@ -892,6 +899,7 @@ Nayarit
 Nuevo
 Oaxaca
 Puebla
+Queretaro
 Quintana Roo
 San Luis Potosi
 Sinaloa
@@ -1000,6 +1008,7 @@ Zutphen
 Zwolle
 North
 South
+Chatham Islands
 Nelson
 Otago
 Boaco
@@ -1032,6 +1041,7 @@ Oppland
 Oslo
 Ostfold
 Rogaland
+Sapmi
 Sogn og Fjordane
 Sor-Trondelag
 Telemark
@@ -1382,6 +1392,7 @@ Saint Petersburg
 Sakhalin
 Sakha (Yakutia)
 Samara
+Sapmi
 Saratov
 Sevastopol
 Severnaya Osetiya
@@ -1540,6 +1551,7 @@ Oland
 Orebro Lan
 Ostergotlands Lan
 Ostra Gotaland
+Sapmi
 Skane Lan
 Skane
 Smaland
@@ -1686,6 +1698,7 @@ Armagh
 Ayrshire
 Bedfordshire
 Belfast
+Berkshire
 Birmingham
 Bristol
 Buckinghamshire
