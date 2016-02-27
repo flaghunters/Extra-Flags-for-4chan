@@ -100,10 +100,12 @@ Acre
 Alagoas
 Amapa
 Amazonas
+Americana
 Ananindeua
 Anapolis
 Aparecida de Goiania
 Aracaju
+Bage
 Bahia
 Bauru
 Belem
@@ -112,6 +114,7 @@ Belo Horizonte
 Betim
 Blumenau
 Boa Vista
+Botucatu
 Brasilia
 Camboriu
 Campina Grande
@@ -123,6 +126,7 @@ Carapicuiba
 Cariacica
 Caruaru
 Cascavel
+Cassilandia
 Cataguases
 Caucaia
 Caxias do Sul
@@ -137,6 +141,7 @@ Diadema
 Distrito Federal
 Duque de Caxias
 Embu das Artes
+Erechim
 Espirito Santo
 Feira de Santana
 Fernando de Noronha
@@ -145,23 +150,28 @@ Fortaleza
 Foz do Iguacu
 Franca
 Francisco Beltrao
+Gama
 Goiania
 Goias
 Governador Valadares
+Grajau
 Gramado
 Gravatai
 Guarapuava
 Guaruja
 Guarulhos
 Imperatriz
+Itaperuna
 Itaquaquecetuba
 Jaboatao dos Guarapes
 Jacarezinho
 Joao Pessoa
 Joinville
 Juazeiro do Norte
+Juazeiro
 Juiz de Fora
 Jundiai
+Lages
 Limeira
 Lins
 Londrina
@@ -188,6 +198,7 @@ Nova Iguacu
 Olinda
 Osasco
 Palmas
+Para de Minas
 Paraiba
 Parana
 Para
@@ -211,6 +222,7 @@ Recife
 Ribeirao das Neves
 Ribeirao Preto
 Rio Branco
+Rio das Ostras
 Rio de Janeiro
 Rio Grande do norte
 Rio Grande do Sul
@@ -232,6 +244,7 @@ Sao Jose dos Pinhais
 Sao Luis
 Sao Paulo
 Sao Vicente
+Sapucaia do Sul
 Sergipe
 Serra
 Sorocaba
@@ -240,6 +253,7 @@ Taubate
 Teresina
 Tocantins
 Toledo
+Tres Lagoas
 Uberaba
 Uberlandia
 Varzea Grande
