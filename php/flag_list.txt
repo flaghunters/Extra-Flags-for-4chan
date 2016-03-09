@@ -284,18 +284,31 @@ Vitoria da Conquista
 Vitoria
 Volta Redonda
 Votorantim
+Blagoevgrad
 Burgas
 Dobrich
 Gabrovo
+Haskovo
+Kardzhali
+Lovech
+Montana
+Pazardzhik
 Pernik
+Pleven
 Plovdiv
+Razgrad
 Ruse
 Shumen
+Silistra
 Sliven
+Smolyan
 Sofia
 Stara Zagora
+Targovishte
 Varna
 Veliko Tarnovo
+Vidin
+Vratza
 Yambol
 Alberta
 British Columbia
@@ -846,8 +859,12 @@ Almaty
 Astana
 Baikonur
 Nairobi
+Batken
 Bishkek
 Chuy
+Issyk Kul
+Jalal-Abad
+Naryn
 Osh
 Talas
 Daugavpils
