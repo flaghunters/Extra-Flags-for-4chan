@@ -1988,6 +1988,7 @@ Augusta
 Austin
 Baltimore
 Baton Rouge
+Bellevue
 Billings
 Birmingham
 Boston
@@ -2092,6 +2093,7 @@ Phoenix
 Pittsburg
 Portland
 Provo
+Puyallup
 Raleigh
 Rhode Island
 Richmond
@@ -2108,11 +2110,13 @@ Seattle
 Shreveport
 South Carolina
 South Dakota
+Spokane
 Springfield
 St Louis
 St. Louis
 St. Paul
 St. Petersburg
+Tacoma
 Tampa
 Tennessee
 Texas
@@ -2121,6 +2125,7 @@ Topeka
 Tulsa
 Tybee
 Utah
+Vancouver
 Vermont
 Virginia Beach
 Virginia
@@ -2132,6 +2137,7 @@ Winston-Salem
 Wisconsin
 Worcester
 Wyoming
+Yakima
 Yonkers
 Baker Island
 Howland Island
