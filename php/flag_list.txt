@@ -1896,9 +1896,13 @@ Bedfordshire
 Belfast
 Berkshire
 Birmingham
+Black Country
 Bristol
 Buckinghamshire
+Caernarfonshire
+Caithness
 Cambridgeshire
+Cardiff
 Cheshire
 City of London
 Cornwall
@@ -1910,6 +1914,8 @@ Devon
 Dorset
 Down
 Durham
+East Anglia
+East Riding of Yorkshire
 East Sussex
 Edinburgh
 England
@@ -1941,6 +1947,7 @@ Monmouthshire
 Norfolk
 Northamptonshire
 Northern Ireland
+North Riding of Yorkshire
 Nothumberland
 Nottinghamshire
 Orkney
@@ -1952,6 +1959,7 @@ Scotland
 Shetland Isles
 Shropshire
 Somerset
+South Yorkshire
 Staffordshire
 Suffolk
 Surrey
@@ -1964,6 +1972,7 @@ Wales
 Warwickshire
 West Midlands
 Westmorland
+West Riding of Yorkshire
 West Sussex
 Wiltshire
 Worcestershire
