@@ -324,6 +324,7 @@ Dobrich
 Gabrovo
 Haskovo
 Kardzhali
+Kyustendil
 Lovech
 Montana
 Pazardzhik
@@ -440,16 +441,25 @@ Limon
 Puntarenas
 San Jose
 San Jose Province
+Bjelovarsko-bilogorska
 Brodsko-posavska
 Dubrovacko-neretvanska
 Grad Zagreb
 Istarska
 Karlovacka
+Koprivnicko-krizevacka
+Krapinsko-zagorska
+Licko-senjska
+Medimurska
 Osjecko-baranjska
+Pozesko-slavonska
 Primorsko-goranska
+Sibensko-kninska
 Sisacko-moslavacka
 Splitsko-dalmatinska
 Varazdinska
+Viroviticko-podravska
+Vukovarsko-srijemska
 Zadarska
 Zagrebacka
 Havana
@@ -660,9 +670,12 @@ Attica
 Central Greece
 Central Macedonia
 Crete
+Eastern Macedonia and Thrace
 Epirus
 Ionian Islands
+Mount Athos
 North Aegean
+Peloponnese
 South Aegean
 Thessaly
 West Greece
