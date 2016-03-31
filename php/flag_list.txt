@@ -144,6 +144,7 @@ Tuzlanski kanton
 Unsko-sanski kanton
 Zapadnohercegovacki kanton
 Zenicko-dobojski kanton
+Abreu e Lima
 Acre
 Alagoas
 Amapa
@@ -194,6 +195,7 @@ Espirito Santo
 Feira de Santana
 Fernando de Noronha
 Florianopolis
+Forquilhinha
 Fortaleza
 Foz do Iguacu
 Franca
@@ -253,12 +255,14 @@ Para
 Passo Fundo
 Pato Branco
 Patos de Minas
+Patos
 Paulista
 Pelotas
 Pernambuco
 Petrolina
 Petropolis
 Piaui
+Pindamonhangaba
 Piracicaba
 Pocos de Caldas
 Ponta Grossa
@@ -274,6 +278,7 @@ Rio das Ostras
 Rio de Janeiro
 Rio Grande do norte
 Rio Grande do Sul
+Rolandia
 Rondonia
 Roraima
 Salvador
@@ -294,6 +299,7 @@ Sao Paulo
 Sao Vicente
 Sapucaia do Sul
 Sergipe
+Serra do Aimore
 Serra
 Sorocaba
 Suzano
