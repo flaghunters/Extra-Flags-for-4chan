@@ -833,16 +833,36 @@ Mashhad
 Dohuk
 Erbil
 Sulaymaniyah
+Carlow
+Cavan
+Clare
 Connacht
+Cork
+Donegal
 Dublin
 Galway
+Kerry
+Kildare
+Kilkenny
+Laois
 Leinster
 Leitrim
+Limerick
+Longford
+Louth
 Mayo
+Meath
+Monaghan
 Munster
+Offaly
 Roscommon
 Sligo
+Tipperary
 Ulster
+Waterford
+Westmeath
+Wexford
+Wicklow
 Haifa
 Holon
 Jerusalem
@@ -2023,17 +2043,23 @@ Belfast
 Berkshire
 Birmingham
 Black Country
+Blaenau Gwent
+Bridgend
 Bristol
 Buckinghamshire
 Caernarfonshire
+Caerphilly
 Caithness
 Cambridgeshire
 Cardiff
+Ceredigion
 Cheshire
 City of London
+Conwy
 Cornwall
 Cumberland
 Cumbria
+Denbighshire
 Derbyshire
 Derry
 Devon
@@ -2069,8 +2095,11 @@ Londonderry
 Meirionnydd
 Mercia
 Merseyside
+Merthyr Tydfil
 Middlesex
 Monmouthshire
+Neath Port Talbot
+Newport
 Norfolk
 Northamptonshire
 Northern Ireland
@@ -2082,7 +2111,9 @@ Orkney
 Outer Hebrides
 Oxfordshire
 Pembrokeshire
+Powys
 Preston
+Rhondda Cynon Taf
 Rutland
 Scotland
 Shetland Isles
@@ -2094,7 +2125,9 @@ St Annes on the Sea
 Suffolk
 Surrey
 Sussex
+Swansea
 The Principality of Sealand
+Torfaen
 Tyne and Wear
 Tyrone
 Ulster
@@ -2108,6 +2141,7 @@ West Sussex
 Wiltshire
 Wing
 Worcestershire
+Wrexham
 Yorkshire
 Alabama
 Alaska
