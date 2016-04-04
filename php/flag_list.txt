@@ -2033,9 +2033,11 @@ Fujairah
 Ras Al-Khaimah
 Sharjah
 Umm Al-Qaiwan
+Aberdeen
 Aberdeenshire
 Angus
 Antrim
+Argyll and Bute
 Armagh
 Ayrshire
 Bedfordshire
@@ -2055,6 +2057,7 @@ Cardiff
 Ceredigion
 Cheshire
 City of London
+Clackmannanshire
 Conwy
 Cornwall
 Cumberland
@@ -2065,16 +2068,25 @@ Derry
 Devon
 Dorset
 Down
+Dumfries and Galloway
+Dundee
 Durham
 East Anglia
+East Ayrshire
+East Dunbartonshire
+East Lothian
+East Renfrewshire
 East Riding of Yorkshire
 East Sussex
 Edinburgh
 England
 Essex
+Falkirk
 Fermanagh
+Fife
 Flintshire
 Glamorgan
+Glasgow
 Gloucestershire
 Greater London
 Greater Manchester
@@ -2082,7 +2094,9 @@ Gwynedd
 Hampshire
 Herefordshire
 Hertfordshire
+Highland
 Huntingdonshire
+Inverclyde
 Isle of Anglesey
 Isle of Portland
 Isle of Wight
@@ -2097,12 +2111,16 @@ Mercia
 Merseyside
 Merthyr Tydfil
 Middlesex
+Midothian
 Monmouthshire
+Moray
 Neath Port Talbot
 Newport
 Norfolk
 Northamptonshire
+North Ayrshire
 Northern Ireland
+North Lanarkshire
 North Riding of Yorkshire
 Northumbria
 Nothumberland
@@ -2111,17 +2129,23 @@ Orkney
 Outer Hebrides
 Oxfordshire
 Pembrokeshire
+Perth and Kinross
 Powys
 Preston
+Renfrewshire
 Rhondda Cynon Taf
 Rutland
 Scotland
+Scottish Borders
 Shetland Isles
 Shropshire
 Somerset
+South Ayrshire
+South Lanarkshire
 South Yorkshire
 Staffordshire
 St Annes on the Sea
+Stirling
 Suffolk
 Surrey
 Sussex
@@ -2134,6 +2158,8 @@ Ulster
 Wales
 Warwickshire
 Wessex
+West Dunbartonshire
+West Lothian
 West Midlands
 Westmorland
 West Riding of Yorkshire
