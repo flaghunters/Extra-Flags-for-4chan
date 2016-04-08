@@ -740,6 +740,7 @@ Donau-Ries
 Dortmund
 Ebersberg
 Eichstatt
+Ennepe-Ruhr-Kreis
 Erding
 Erlangen-Hochstadt
 Erlangen
@@ -754,18 +755,38 @@ Gunzburg
 Hamburg
 Hassberge
 Hessen
+Hochsauerlandkreis
 Hof
 Ingolstadt
 Kaufbeuren
 Kelheim
 Kempten
 Kitzingen
+Kreis Aachen
+Kreis Borken
+Kreis Coesfeld
+Kreis Duren
+Kreis Gutersloh
+Kreis Heinsberg
+Kreis Herford
+Kreis Hoxter
+Kreis Lippe
+Kreis Mettmann
+Kreis Minden-Lubbecke
+Kreis Olpe
+Kreis Paderborn
+Kreis Soest
+Kreis Steinfurt
+Kreis Unna
+Kreis Warendorf
+Kreis Wesel
 Kronach
 Kulmbach
 Landsberg am Lech
 Landshut
 Lichtenfels
 Main-Spessart
+Markischer Kreis
 Mecklenburg-Vorpommern
 Memmingen
 Miesbach
@@ -782,12 +803,17 @@ Nordrhein-Westfalen
 Nurnberger Land
 Nurnberg
 Oberallgau
+Oberbergischer Kreis
 Ostallgau
 Passau
 Pfaffenhofen an der Ilm
 Regen
 Regensburg
+Rhein-Erft-Kreis
+Rheinisch-Bergischer Kreis
+Rhein-Kreises Neuss
 Rheinland-Pfalz
+Rhein-Sieg-Kreis
 Rhon-Grabfeld
 Rosenheim
 Roth
