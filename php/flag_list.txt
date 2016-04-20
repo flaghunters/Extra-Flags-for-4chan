@@ -777,7 +777,6 @@ Forchheim
 Frankenthal
 Frankfurt am Main
 Frankfurt an der Oder
-Frankfurt
 Freising
 Freyung-Grafenau
 Furstenfeldbruck
@@ -921,7 +920,6 @@ Rhein-Erft-Kreis
 Rheingau-Taunus-Kreis
 Rhein-Hunsruck-Kreis
 Rheinisch-Bergischer Kreis
-Rhein-Kreises Neuss
 Rhein-Kreis Neuss
 Rhein-Lahn-Kreis
 Rheinland-Pfalz
@@ -2563,7 +2561,7 @@ Arkansas
 Atlanta
 Augusta
 Austin
-Bakersfield.jpg
+Bakersfield
 Baltimore
 Baton Rouge
 Bellevue
