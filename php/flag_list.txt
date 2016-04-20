@@ -722,6 +722,7 @@ Abkhazia
 Adjara
 South Ossetia
 Tbilisi
+Aachen
 Aichach-Friedberg
 Altotting
 Amberg
@@ -737,44 +738,74 @@ Bayern
 Bayreuth
 Berchtesgadener Land
 Berlin
+Bielefeld
+Bochum
+Bonn
+Bottrop
+Brandenburg an der Havel
 Brandenburg
 Bremen
 Cham
 Coburg
+Cottbus
 Dachau
+Darmstadt
 Deggendorf
 Dillingen an der Donau
 Dingolfing-Landau
 Donau-Ries
+Donnersbergkreis
 Dortmund
+Duisburg
+Dusseldorf
 Ebersberg
 Eichstatt
+Eifelkreis Bitburg-Pruem
 Ennepe-Ruhr-Kreis
 Erding
 Erlangen-Hochstadt
 Erlangen
+Essen
+Flensburg
 Forchheim
+Frankenthal
+Frankfurt am Main
+Frankfurt an der Oder
 Frankfurt
 Freising
 Freyung-Grafenau
 Furstenfeldbruck
 Furth
 Garmisch-Partenkirchen
+Gelsenkirchen
 Gunzburg
+Hagen
 Hamburg
+Hamm
 Hassberge
+Herne
 Hessen
 Hochsauerlandkreis
+Hochtaunuskreis
 Hof
 Ingolstadt
+Kaiserslautern
+Kassel
 Kaufbeuren
 Kelheim
 Kempten
+Kiel
 Kitzingen
+Koblenz
+Koln
+Krefeld
 Kreis Aachen
+Kreis Bergstrasse
 Kreis Borken
 Kreis Coesfeld
+Kreis Dithmarschen
 Kreis Duren
+Kreis Gross-Gerau
 Kreis Gutersloh
 Kreis Heinsberg
 Kreis Herford
@@ -782,30 +813,85 @@ Kreis Hoxter
 Kreis Lippe
 Kreis Mettmann
 Kreis Minden-Lubbecke
+Kreis Nordfriesland
 Kreis Olpe
+Kreis Ostholstein
 Kreis Paderborn
+Kreis Pinneberg
+Kreis Schleswig-Flensburg
 Kreis Soest
 Kreis Steinfurt
+Kreis Stormarn
 Kreis Unna
+Kreis Viersen
 Kreis Warendorf
 Kreis Wesel
 Kronach
 Kulmbach
+Lahn-Dill-Kreis
+Landau
+Landkreis Ahrweiler
+Landkreis Altenkirchen
+Landkreis Alzey-Worms
+Landkreis Bad Durkheim
+Landkreis Bad Kreuznach
+Landkreis Barnim
+Landkreis Bernkastel-Wittlich
+Landkreis Cochem-Zell
+Landkreis Darmstadt-Dieburg
+Landkreis Elbe-Elster
+Landkreis Fulda
+Landkreis Giessen
+Landkreis Havelland
+Landkreis Hersfeld-Rotenburg
+Landkreis Kassel
+Landkreis Kusel
+Landkreis Limburg-Weilburg
+Landkreis Mainz-Bingen
+Landkreis Marburg-Biedenkopf
+Landkreis Mayen-Koblenz
+Landkreis Merzig-Wadern
+Landkreis Neunkirchen
+Landkreis Neuwied
+Landkreis Oberspreewald-Lausitz
+Landkreis Oder-Spree
+Landkreis Offenbach
+Landkreis Ostprignitz-Ruppin
+Landkreis Rostock
+Landkreis Saarlouis
+Landkreis St. Wendel
+Landkreis Sudliche Weinstrasse
+Landkreis Sudwestpfalz
+Landkreis Teltow-Flaming
+Landkreis Trier-Saarburg
+Landkreis Vulkaneifel
+Landkreis Waldeck-Frankenberg
 Landsberg am Lech
 Landshut
+Leverkusen
 Lichtenfels
+Lubeck
+Ludwigshafen am Rhein
+Main-Kinzig-Kreis
 Main-Spessart
+Main-Taunus-Kreis
+Mainz
 Markischer Kreis
 Mecklenburg-Vorpommern
 Memmingen
 Miesbach
 Miltenberg
+Monchengladbach
 Muhldorf am Inn
+Mulheim an der Ruhr
 Munchen
+Munster
 Neuburg-Schrobenhausen
 Neumarkt in der Oberpfalz
+Neumunster
 Neustadt an der Aisch-Bad Windsheim
 Neustadt an der Waldnaab
+Neustadt an der Weinstrasse
 Neu-Ulm
 Niedersachsen
 Nordrhein-Westfalen
@@ -813,27 +899,43 @@ Nurnberger Land
 Nurnberg
 Oberallgau
 Oberbergischer Kreis
+Oberhausen
+Odenwaldkreis
+Offenbach am Main
 Ostallgau
 Passau
 Pfaffenhofen an der Ilm
+Pirmasens
+Potsdam
 Regen
 Regensburg
+Regionalverband Saarbrucken
+Remscheid
 Rhein-Erft-Kreis
+Rheingau-Taunus-Kreis
+Rhein-Hunsruck-Kreis
 Rheinisch-Bergischer Kreis
 Rhein-Kreises Neuss
+Rhein-Kreis Neuss
+Rhein-Lahn-Kreis
 Rheinland-Pfalz
+Rhein-Pfalz-Kreis
 Rhein-Sieg-Kreis
 Rhon-Grabfeld
 Rosenheim
 Roth
 Rottal-Inn
 Saarland
+Saarpfalz-Kreis
 Sachsen-Anhalt
 Sachsen
 Schleswig-Holstein
 Schwabach
+Schwalm-Eder-Kreis
 Schwandorf
 Schweinfurt
+Solingen
+Speyer
 Stadt Ansbach
 Stadt Aschaffenburg
 Stadt Augsburg
@@ -855,12 +957,20 @@ Straubing
 Thuringen
 Tirschenreuth
 Traunstein
+Trier
 Unterallgau
+Vogelsbergkreis
 Weiden in der Oberpfalz
 Weilheim-Schongau
 Weissenburg-Gunzenhausen
+Westerwaldkreis
+Wetteraukreises
+Wiesbaden
+Worm
 Wunsiedel im Fichtelgebirge
+Wuppertal
 Wurzburg
+Zweibrucke
 Ashanti
 Brong-Ahafo
 Central Region
