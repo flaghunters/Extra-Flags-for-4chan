@@ -364,6 +364,7 @@ Halifax
 Hamilton
 Iqaluit
 Iroquois
+London
 Manitoba
 Markham
 Montreal
@@ -970,11 +971,11 @@ Weissenburg-Gunzenhausen
 Westerwaldkreis
 Wetteraukreises
 Wiesbaden
-Worm
+Worms
 Wunsiedel im Fichtelgebirge
 Wuppertal
 Wurzburg
-Zweibrucke
+Zweibrucken
 Ashanti
 Brong-Ahafo
 Central Region
@@ -2448,6 +2449,7 @@ Dorset
 Down
 Dumfries and Galloway
 Dundee
+Durham City
 Durham
 East Anglia
 East Ayrshire
