@@ -731,13 +731,16 @@ South Ossetia
 Tbilisi
 Aachen
 Aichach-Friedberg
+Alb-Donau-Kreis
 Altena
+Altmarkkreis Salzwedel
 Altotting
 Amberg
 Amberg-Sulzbach
 Ansbach
 Aschaffenburg
 Augsburg
+Baden-Baden
 Baden-Wurttemberg
 Bad Kissingen
 Bad Laasphe
@@ -754,6 +757,7 @@ Bergneustadt
 Berlin
 Bielefeld
 Bochum
+Bodenseekreis
 Bonen
 Bonn
 Borgholzhausen
@@ -764,8 +768,10 @@ Brandenburg
 Breckerfeld
 Bremen
 Bunde
+Burgenlandkreis
 Castrop-Rauxel
 Cham
+Chemnitz
 Coburg
 Cottbus
 Dachau
@@ -773,6 +779,7 @@ Darmstadt
 Datteln
 Deggendorf
 Delbrück
+Dessau-Rosslau
 Dillingen an der Donau
 Dingolfing-Landau
 Dinslaken
@@ -780,22 +787,27 @@ Donau-Ries
 Donnersbergkreis
 Dormagen
 Dortmund
+Dresden
 Duisburg
 Duren
 Dusseldorf
 Ebersberg
 Eichstatt
 Eifelkreis Bitburg-Pruem
+Eisenach
 Emmerich
 Engelskirchen
 Enger
 Ennepe-Ruhr-Kreis
 Ennepetal
+Enzkreis
 Erding
+Erfurt
 Erkelenz
 Erkrath
 Erlangen-Hochstadt
 Erlangen
+Erzgebirgskreis
 Essen
 Euskirchen
 Finnentrop
@@ -804,6 +816,7 @@ Forchheim
 Frankenthal
 Frankfurt am Main
 Frankfurt an der Oder
+Freiburg im Breisgau
 Freising
 Freyung-Grafenau
 Frondenberg
@@ -811,6 +824,7 @@ Furstenfeldbruck
 Furth
 Garmisch-Partenkirchen
 Gelsenkirchen
+Gera
 Gevelsberg
 Gladbeck
 Grevenbroich
@@ -819,6 +833,7 @@ Gunzburg
 Gutersloh
 Haan
 Hagen
+Halle an der Saale
 Halle
 Haltern am See
 Halver
@@ -827,6 +842,8 @@ Hamm
 Harsewinkel
 Hassberge
 Hattingen
+Heidelberg
+Heilbronn
 Heiligenhaus
 Heimbach
 Hellenthal
@@ -841,17 +858,21 @@ Hille
 Hochsauerlandkreis
 Hochtaunuskreis
 Hof
+Hohenlohekreis
 Holzwickede
 Huckeswagen
 Hullhorst
+Ilm-Kreis
 Inden
 Ingolstadt
 Iserlohn
+Jena
 Juchen
 Kaiserslautern
 Kalkar
 Kall
 Kamen
+Karlsruhe
 Kassel
 Kaufbeuren
 Kelheim
@@ -898,48 +919,168 @@ Kreuzau
 Kreuztal
 Kronach
 Kulmbach
+Kyffhauserkreis
 Lahn-Dill-Kreis
 Landau
 Landkreis Ahrweiler
+Landkreis Aichach-Friedberg
+Landkreis Altenburger Land
 Landkreis Altenkirchen
+Landkreis Altotting
 Landkreis Alzey-Worms
+Landkreis Amberg-Sulzbach
+Landkreis Anhalt-Bitterfeld
+Landkreis Ansbach
+Landkreis Aschaffenburg
+Landkreis Augsburg
 Landkreis Bad Durkheim
+Landkreis Bad Kissingen
 Landkreis Bad Kreuznach
+Landkreis Bad Tolz-Wolfratshausen
+Landkreis Bamberg
 Landkreis Barnim
+Landkreis Bautzen
+Landkreis Bayreuth
+Landkreis Berchtesgadener Land
 Landkreis Bernkastel-Wittlich
+Landkreis Biberach
+Landkreis Boblingen
+Landkreis Borde
+Landkreis Breisgau-Hochschwarzwald
+Landkreis Calw
+Landkreis Cham
+Landkreis Coburg
 Landkreis Cochem-Zell
+Landkreis Dachau
 Landkreis Darmstadt-Dieburg
+Landkreis Deggendorf
+Landkreis Dillingen an der Donau
+Landkreis Dingolfing-Landau
+Landkreis Donau-Ries
+Landkreis Ebersberg
+Landkreis Eichsfeld
+Landkreis Eichstatt
 Landkreis Elbe-Elster
+Landkreis Emmendingen
+Landkreis Erding
+Landkreis Erlangen-Hochstadt
+Landkreis Esslingen
+Landkreis Forchheim
+Landkreis Freising
+Landkreis Freudenstadt
+Landkreis Freyung-Grafenau
 Landkreis Fulda
+Landkreis Furstenfeldbruck
+Landkreis Furth
+Landkreis Garmisch-Partenkirchen
 Landkreis Giessen
+Landkreis Gorlitz
+Landkreis Gotha
+Landkreis Greiz
+Landkreis Gunzburg
+Landkreis Harz
+Landkreis Hassberge
 Landkreis Havelland
+Landkreis Heidenheim
+Landkreis Heilbronn
 Landkreis Hersfeld-Rotenburg
+Landkreis Hildburghausen
+Landkreis Hof
+Landkreis Jerichower Land
+Landkreis Karlsruhe
 Landkreis Kassel
+Landkreis Kelheim
+Landkreis Kitzingen
+Landkreis Konstanz
+Landkreis Kronach
+Landkreis Kulmbach
 Landkreis Kusel
+Landkreis Landsberg am Lech
+Landkreis Landshut
+Landkreis Leipzig
+Landkreis Lichtenfels
 Landkreis Limburg-Weilburg
+Landkreis Lorrach
+Landkreis Ludwigsburg
+Landkreis Main-Spessart
 Landkreis Mainz-Bingen
+Landkreis Mansfeld-Sudharz
 Landkreis Marburg-Biedenkopf
 Landkreis Mayen-Koblenz
+Landkreis Meissen
 Landkreis Merzig-Wadern
+Landkreis Miesbach
+Landkreis Miltenberg
+Landkreis Mittelsachsen
+Landkreis Muhldorf am Inn
+Landkreis Munchen
+Landkreis Neuburg-Schrobenhausen
+Landkreis Neumarkt in der Oberpfalz
 Landkreis Neunkirchen
+Landkreis Neustadt an der Aisch-Bad Windsheim
+Landkreis Neustadt an der Waldnaab
+Landkreis Neu-Ulm
 Landkreis Neuwied
+Landkreis Nordhausen
+Landkreis Nordsachsen
+Landkreis Nurnberger Land
+Landkreis Oberallgau
 Landkreis Oberspreewald-Lausitz
 Landkreis Oder-Spree
 Landkreis Offenbach
+Landkreis Ostallgau
 Landkreis Ostprignitz-Ruppin
+Landkreis Passau
+Landkreis Pfaffenhofen an der Ilm
+Landkreis Rastatt
+Landkreis Ravensburg
+Landkreis Regen
+Landkreis Regensburg
+Landkreis Reutlingen
+Landkreis Rhon-Grabfeld
+Landkreis Rosenheim
 Landkreis Rostock
+Landkreis Roth
+Landkreis Rottal-Inn
+Landkreis Rottweil
+Landkreis Saalfeld-Rudolstadt
 Landkreis Saarlouis
+Landkreis Sachsische Schweiz-Osterzgebirge
+Landkreis Schmalkalden-Meiningen
+Landkreis Schwabisch Hall
+Landkreis Schwandorf
+Landkreis Schweinfurt
+Landkreis Sigmaringen
+Landkreis Sommerda
+Landkreis Sonneberg
+Landkreis Starnberg
+Landkreis Stendal
+Landkreis Straubing-Bogen
 Landkreis St. Wendel
 Landkreis Sudliche Weinstrasse
 Landkreis Sudwestpfalz
 Landkreis Teltow-Flaming
+Landkreis Tirschenreuth
+Landkreis Traunstein
 Landkreis Trier-Saarburg
+Landkreis Tubingen
+Landkreis Tuttlingen
+Landkreis Unterallgau
 Landkreis Vulkaneifel
 Landkreis Waldeck-Frankenberg
+Landkreis Waldshut
+Landkreis Weilheim-Schongau
+Landkreis Weimarer Land
+Landkreis Weissenburg-Gunzenhausen
+Landkreis Wittenberg
+Landkreis Wunsiedel im Fichtelgebirge
+Landkreis Wurzburg
+Landkreis Zwickau
 Landsberg am Lech
 Landshut
 Langenberg
 Langenfeld
+Leipzig
 Leverkusen
 Lichtenfels
 Lindlar
@@ -950,10 +1091,13 @@ Lubeck
 Ludenscheid
 Ludwigshafen am Rhein
 Lunen
+Magdeburg
 Main-Kinzig-Kreis
 Main-Spessart
+Main-Tauber-Kreis
 Main-Taunus-Kreis
 Mainz
+Mannheim
 Markischer Kreis
 Mecklenburg-Vorpommern
 Meerbusch
@@ -971,6 +1115,7 @@ Mulheim an der Ruhr
 Munchen
 Munster
 Nachrodt-Wiblingwerde
+Neckar-Odenwald-Kreis
 Nettersheim
 Neuburg-Schrobenhausen
 Neuenrade
@@ -993,11 +1138,14 @@ Oberbergischer Kreis
 Oberhausen
 Odenwaldkreis
 Offenbach am Main
+Ortenaukreis
+Ostalbkreis
 Ostallgau
 Paderborn
 Passau
 Petershagen
 Pfaffenhofen an der Ilm
+Pforzheim
 Pirmasens
 Plettenberg
 Porta Westfalica
@@ -1012,6 +1160,7 @@ Regen
 Regensburg
 Regionalverband Saarbrucken
 Remscheid
+Rems-Murr-Kreis
 Rheda-Wiedenbruck
 Rhein-Erft-Kreis
 Rheingau-Taunus-Kreis
@@ -1020,6 +1169,7 @@ Rheinisch-Bergischer Kreis
 Rhein-Kreis Neuss
 Rhein-Lahn-Kreis
 Rheinland-Pfalz
+Rhein-Neckar-Kreis
 Rhein-Pfalz-Kreis
 Rhein-Sieg-Kreis
 Rhon-Grabfeld
@@ -1030,17 +1180,22 @@ Rosenheim
 Roth
 Rottal-Inn
 Ruthen
+Saale-Holzland-Kreis
+Saalekreis
+Saale-Orla-Kreis
 Saarland
 Saarpfalz-Kreis
 Sachsen-Anhalt
 Sachsen
 Salzkotten
+Salzlandkreis
 Schalksmuhle
 Schleswig-Holstein
 Schloss Holte-Stukenbrock
 Schwabach
 Schwalm-Eder-Kreis
 Schwandorf
+Schwarzwald-Baar-Kreis
 Schweinfurt
 Schwelm
 Schwerte
@@ -1072,6 +1227,8 @@ Stemwede
 Stralen
 Straubing-Bogen
 Straubing
+Stuttgart
+Suhl
 Thuringen
 Tirschenreuth
 Tonisvorst
@@ -1079,7 +1236,9 @@ Traunstein
 Trier
 Ubach-Palenberg
 Uedem
+Ulm
 Unna
+Unstrut-Hainich-Kreis
 Unterallgau
 Velbert
 Verl
@@ -1087,15 +1246,18 @@ Versmold
 Viersen
 Vlotho
 Vogelsbergkreis
+Vogtlandkreis
 Wachtendonk
 Waldbrol
 Waldfeucht
 Waltrop
+Wartburgkreis
 Wassenberg
 Weeze
 Wegberg
 Weiden in der Oberpfalz
 Weilheim-Schongau
+Weimar
 Weissenburg-Gunzenhausen
 Welver
 Werdohl
@@ -1114,6 +1276,7 @@ Wulfrath
 Wunsiedel im Fichtelgebirge
 Wuppertal
 Wurzburg
+Zollernalbkreis
 Zulpich
 Zweibrucken
 Ashanti
