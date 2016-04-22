@@ -731,6 +731,7 @@ South Ossetia
 Tbilisi
 Aachen
 Aichach-Friedberg
+Altena
 Altotting
 Amberg
 Amberg-Sulzbach
@@ -739,40 +740,65 @@ Aschaffenburg
 Augsburg
 Baden-Wurttemberg
 Bad Kissingen
+Bad Laasphe
+Bad Munstereifel
+Bad Oeynhausen
 Bad Tolz-Wolfratshausen
+Balve
 Bamberg
 Bayern
 Bayreuth
 Berchtesgadener Land
+Bergkamen
+Bergneustadt
 Berlin
 Bielefeld
 Bochum
+Bonen
 Bonn
+Borgholzhausen
 Bottrop
+Brakel
 Brandenburg an der Havel
 Brandenburg
+Breckerfeld
 Bremen
+Bunde
+Castrop-Rauxel
 Cham
 Coburg
 Cottbus
 Dachau
 Darmstadt
+Datteln
 Deggendorf
+Delbrück
 Dillingen an der Donau
 Dingolfing-Landau
+Dinslaken
 Donau-Ries
 Donnersbergkreis
+Dormagen
 Dortmund
 Duisburg
+Duren
 Dusseldorf
 Ebersberg
 Eichstatt
 Eifelkreis Bitburg-Pruem
+Emmerich
+Engelskirchen
+Enger
 Ennepe-Ruhr-Kreis
+Ennepetal
 Erding
+Erkelenz
+Erkrath
 Erlangen-Hochstadt
 Erlangen
 Essen
+Euskirchen
+Finnentrop
 Flensburg
 Forchheim
 Frankenthal
@@ -780,30 +806,66 @@ Frankfurt am Main
 Frankfurt an der Oder
 Freising
 Freyung-Grafenau
+Frondenberg
 Furstenfeldbruck
 Furth
 Garmisch-Partenkirchen
 Gelsenkirchen
+Gevelsberg
+Gladbeck
+Grevenbroich
+Gummersbach
 Gunzburg
+Gutersloh
+Haan
 Hagen
+Halle
+Haltern am See
+Halver
 Hamburg
 Hamm
+Harsewinkel
 Hassberge
+Hattingen
+Heiligenhaus
+Heimbach
+Hellenthal
+Herdecke
+Herford
 Herne
+Herzebrock-Clarholz
 Hessen
+Hiddenhausen
+Hilden
+Hille
 Hochsauerlandkreis
 Hochtaunuskreis
 Hof
+Holzwickede
+Huckeswagen
+Hullhorst
+Inden
 Ingolstadt
+Iserlohn
+Juchen
 Kaiserslautern
+Kalkar
+Kall
+Kamen
 Kassel
 Kaufbeuren
 Kelheim
 Kempten
+Kerken
+Kevelaer
 Kiel
+Kirchhundem
+Kirchlengern
 Kitzingen
+Kleve
 Koblenz
 Koln
+Korschenbroich
 Krefeld
 Kreis Aachen
 Kreis Bergstrasse
@@ -832,6 +894,8 @@ Kreis Unna
 Kreis Viersen
 Kreis Warendorf
 Kreis Wesel
+Kreuzau
+Kreuztal
 Kronach
 Kulmbach
 Lahn-Dill-Kreis
@@ -874,33 +938,54 @@ Landkreis Vulkaneifel
 Landkreis Waldeck-Frankenberg
 Landsberg am Lech
 Landshut
+Langenberg
+Langenfeld
 Leverkusen
 Lichtenfels
+Lindlar
+Linnich
+Lohne
+Lubbecke
 Lubeck
+Ludenscheid
 Ludwigshafen am Rhein
+Lunen
 Main-Kinzig-Kreis
 Main-Spessart
 Main-Taunus-Kreis
 Mainz
 Markischer Kreis
 Mecklenburg-Vorpommern
+Meerbusch
 Memmingen
+Menden
+Mettmann
 Miesbach
 Miltenberg
+Minden
 Monchengladbach
+Monheim
+Morsbach
 Muhldorf am Inn
 Mulheim an der Ruhr
 Munchen
 Munster
+Nachrodt-Wiblingwerde
+Nettersheim
 Neuburg-Schrobenhausen
+Neuenrade
 Neumarkt in der Oberpfalz
 Neumunster
+Neuss
 Neustadt an der Aisch-Bad Windsheim
 Neustadt an der Waldnaab
 Neustadt an der Weinstrasse
 Neu-Ulm
 Niedersachsen
+Niederzier
+Nieheim
 Nordrhein-Westfalen
+Numbrecht
 Nurnberger Land
 Nurnberg
 Oberallgau
@@ -909,14 +994,25 @@ Oberhausen
 Odenwaldkreis
 Offenbach am Main
 Ostallgau
+Paderborn
 Passau
+Petershagen
 Pfaffenhofen an der Ilm
 Pirmasens
+Plettenberg
+Porta Westfalica
 Potsdam
+Preussisch Oldendorf
+Radevormwald
+Rahden
+Ratingen
+Recklinghausen
+Rees
 Regen
 Regensburg
 Regionalverband Saarbrucken
 Remscheid
+Rheda-Wiedenbruck
 Rhein-Erft-Kreis
 Rheingau-Taunus-Kreis
 Rhein-Hunsruck-Kreis
@@ -927,20 +1023,34 @@ Rheinland-Pfalz
 Rhein-Pfalz-Kreis
 Rhein-Sieg-Kreis
 Rhon-Grabfeld
+Rietberg
+Rodinghausen
+Rommerskirchen
 Rosenheim
 Roth
 Rottal-Inn
+Ruthen
 Saarland
 Saarpfalz-Kreis
 Sachsen-Anhalt
 Sachsen
+Salzkotten
+Schalksmuhle
 Schleswig-Holstein
+Schloss Holte-Stukenbrock
 Schwabach
 Schwalm-Eder-Kreis
 Schwandorf
 Schweinfurt
+Schwelm
+Schwerte
+Selm
+Siegen
+Soest
 Solingen
+Spenge
 Speyer
+Sprockhovel
 Stadt Ansbach
 Stadt Aschaffenburg
 Stadt Augsburg
@@ -957,24 +1067,54 @@ Stadt Rosenheim
 Stadt Schweinfurt
 Stadt Wurzburg
 Starnberg
+Steinhagen
+Stemwede
+Stralen
 Straubing-Bogen
 Straubing
 Thuringen
 Tirschenreuth
+Tonisvorst
 Traunstein
 Trier
+Ubach-Palenberg
+Uedem
+Unna
 Unterallgau
+Velbert
+Verl
+Versmold
+Viersen
+Vlotho
 Vogelsbergkreis
+Wachtendonk
+Waldbrol
+Waldfeucht
+Waltrop
+Wassenberg
+Weeze
+Wegberg
 Weiden in der Oberpfalz
 Weilheim-Schongau
 Weissenburg-Gunzenhausen
+Welver
+Werdohl
+Werne
+Werther
 Westerwaldkreis
 Wetteraukreises
+Wetter
+Wiehl
 Wiesbaden
+Willich
+Wipperfurth
+Witten
 Worms
+Wulfrath
 Wunsiedel im Fichtelgebirge
 Wuppertal
 Wurzburg
+Zulpich
 Zweibrucken
 Ashanti
 Brong-Ahafo
