@@ -730,28 +730,17 @@ Adjara
 South Ossetia
 Tbilisi
 Aachen
-Aichach-Friedberg
 Alb-Donau-Kreis
 Altena
 Altmarkkreis Salzwedel
-Altotting
 Amberg
-Amberg-Sulzbach
-Ansbach
-Aschaffenburg
-Augsburg
 Baden-Baden
 Baden-Wurttemberg
-Bad Kissingen
 Bad Laasphe
 Bad Munstereifel
 Bad Oeynhausen
-Bad Tolz-Wolfratshausen
 Balve
-Bamberg
 Bayern
-Bayreuth
-Berchtesgadener Land
 Bergkamen
 Bergneustadt
 Berlin
@@ -770,20 +759,13 @@ Bremen
 Bunde
 Burgenlandkreis
 Castrop-Rauxel
-Cham
 Chemnitz
-Coburg
 Cottbus
-Dachau
 Darmstadt
 Datteln
-Deggendorf
 Delbrück
 Dessau-Rosslau
-Dillingen an der Donau
-Dingolfing-Landau
 Dinslaken
-Donau-Ries
 Donnersbergkreis
 Dormagen
 Dortmund
@@ -791,8 +773,6 @@ Dresden
 Duisburg
 Duren
 Dusseldorf
-Ebersberg
-Eichstatt
 Eifelkreis Bitburg-Pruem
 Eisenach
 Emmerich
@@ -801,35 +781,26 @@ Enger
 Ennepe-Ruhr-Kreis
 Ennepetal
 Enzkreis
-Erding
 Erfurt
 Erkelenz
 Erkrath
-Erlangen-Hochstadt
 Erlangen
 Erzgebirgskreis
 Essen
 Euskirchen
 Finnentrop
 Flensburg
-Forchheim
 Frankenthal
 Frankfurt am Main
 Frankfurt an der Oder
 Freiburg im Breisgau
-Freising
-Freyung-Grafenau
 Frondenberg
-Furstenfeldbruck
-Furth
-Garmisch-Partenkirchen
 Gelsenkirchen
 Gera
 Gevelsberg
 Gladbeck
 Grevenbroich
 Gummersbach
-Gunzburg
 Gutersloh
 Haan
 Hagen
@@ -840,7 +811,6 @@ Halver
 Hamburg
 Hamm
 Harsewinkel
-Hassberge
 Hattingen
 Heidelberg
 Heilbronn
@@ -857,7 +827,6 @@ Hilden
 Hille
 Hochsauerlandkreis
 Hochtaunuskreis
-Hof
 Hohenlohekreis
 Holzwickede
 Huckeswagen
@@ -875,14 +844,12 @@ Kamen
 Karlsruhe
 Kassel
 Kaufbeuren
-Kelheim
 Kempten
 Kerken
 Kevelaer
 Kiel
 Kirchhundem
 Kirchlengern
-Kitzingen
 Kleve
 Koblenz
 Koln
@@ -917,8 +884,6 @@ Kreis Warendorf
 Kreis Wesel
 Kreuzau
 Kreuztal
-Kronach
-Kulmbach
 Kyffhauserkreis
 Lahn-Dill-Kreis
 Landau
@@ -1076,13 +1041,10 @@ Landkreis Wittenberg
 Landkreis Wunsiedel im Fichtelgebirge
 Landkreis Wurzburg
 Landkreis Zwickau
-Landsberg am Lech
-Landshut
 Langenberg
 Langenfeld
 Leipzig
 Leverkusen
-Lichtenfels
 Lindlar
 Linnich
 Lohne
@@ -1093,7 +1055,6 @@ Ludwigshafen am Rhein
 Lunen
 Magdeburg
 Main-Kinzig-Kreis
-Main-Spessart
 Main-Tauber-Kreis
 Main-Taunus-Kreis
 Mainz
@@ -1104,47 +1065,33 @@ Meerbusch
 Memmingen
 Menden
 Mettmann
-Miesbach
-Miltenberg
 Minden
 Monchengladbach
 Monheim
 Morsbach
-Muhldorf am Inn
 Mulheim an der Ruhr
-Munchen
 Munster
 Nachrodt-Wiblingwerde
 Neckar-Odenwald-Kreis
 Nettersheim
-Neuburg-Schrobenhausen
 Neuenrade
-Neumarkt in der Oberpfalz
 Neumunster
 Neuss
-Neustadt an der Aisch-Bad Windsheim
-Neustadt an der Waldnaab
 Neustadt an der Weinstrasse
-Neu-Ulm
 Niedersachsen
 Niederzier
 Nieheim
 Nordrhein-Westfalen
 Numbrecht
-Nurnberger Land
 Nurnberg
-Oberallgau
 Oberbergischer Kreis
 Oberhausen
 Odenwaldkreis
 Offenbach am Main
 Ortenaukreis
 Ostalbkreis
-Ostallgau
 Paderborn
-Passau
 Petershagen
-Pfaffenhofen an der Ilm
 Pforzheim
 Pirmasens
 Plettenberg
@@ -1156,8 +1103,6 @@ Rahden
 Ratingen
 Recklinghausen
 Rees
-Regen
-Regensburg
 Regionalverband Saarbrucken
 Remscheid
 Rems-Murr-Kreis
@@ -1172,13 +1117,9 @@ Rheinland-Pfalz
 Rhein-Neckar-Kreis
 Rhein-Pfalz-Kreis
 Rhein-Sieg-Kreis
-Rhon-Grabfeld
 Rietberg
 Rodinghausen
 Rommerskirchen
-Rosenheim
-Roth
-Rottal-Inn
 Ruthen
 Saale-Holzland-Kreis
 Saalekreis
@@ -1194,9 +1135,7 @@ Schleswig-Holstein
 Schloss Holte-Stukenbrock
 Schwabach
 Schwalm-Eder-Kreis
-Schwandorf
 Schwarzwald-Baar-Kreis
-Schweinfurt
 Schwelm
 Schwerte
 Selm
@@ -1206,40 +1145,20 @@ Solingen
 Spenge
 Speyer
 Sprockhovel
-Stadt Ansbach
-Stadt Aschaffenburg
-Stadt Augsburg
-Stadt Bamberg
-Stadt Bayreuth
-Stadt Coburg
-Stadt Furth
-Stadt Hof
-Stadt Landshut
-Stadt Munchen
-Stadt Passau
-Stadt Regensburg
-Stadt Rosenheim
-Stadt Schweinfurt
-Stadt Wurzburg
-Starnberg
 Steinhagen
 Stemwede
 Stralen
-Straubing-Bogen
 Straubing
 Stuttgart
 Suhl
 Thuringen
-Tirschenreuth
 Tonisvorst
-Traunstein
 Trier
 Ubach-Palenberg
 Uedem
 Ulm
 Unna
 Unstrut-Hainich-Kreis
-Unterallgau
 Velbert
 Verl
 Versmold
@@ -1256,9 +1175,7 @@ Wassenberg
 Weeze
 Wegberg
 Weiden in der Oberpfalz
-Weilheim-Schongau
 Weimar
-Weissenburg-Gunzenhausen
 Welver
 Werdohl
 Werne
@@ -1273,9 +1190,7 @@ Wipperfurth
 Witten
 Worms
 Wulfrath
-Wunsiedel im Fichtelgebirge
 Wuppertal
-Wurzburg
 Zollernalbkreis
 Zulpich
 Zweibrucken
