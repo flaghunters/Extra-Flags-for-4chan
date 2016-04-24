@@ -794,8 +794,10 @@ Bottrop
 Brakel
 Brandenburg an der Havel
 Brandenburg
+Braunschweig
 Breckerfeld
 Bremen
+Bremerhaven
 Bunde
 Burgenlandkreis
 Castrop-Rauxel
@@ -805,6 +807,7 @@ Cottbus
 Darmstadt
 Datteln
 Delbrück
+Delmenhorst
 Dessau-Rosslau
 Dinslaken
 Donnersbergkreis
@@ -816,6 +819,7 @@ Duren
 Dusseldorf
 Eifelkreis Bitburg-Pruem
 Eisenach
+Emden
 Emmerich
 Engelskirchen
 Enger
@@ -854,6 +858,7 @@ Hamburg
 Hamm
 Harsewinkel
 Hattingen
+Heidekreis
 Heidelberg
 Heilbronn
 Heiligenhaus
@@ -937,10 +942,12 @@ Landkreis Altenkirchen
 Landkreis Altotting
 Landkreis Alzey-Worms
 Landkreis Amberg-Sulzbach
+Landkreis Ammerland
 Landkreis Anhalt-Bitterfeld
 Landkreis Ansbach
 Landkreis Aschaffenburg
 Landkreis Augsburg
+Landkreis Aurich
 Landkreis Bad Durkheim
 Landkreis Bad Kissingen
 Landkreis Bad Kreuznach
@@ -956,12 +963,16 @@ Landkreis Boblingen
 Landkreis Borde
 Landkreis Breisgau-Hochschwarzwald
 Landkreis Calw
+Landkreis Celle
 Landkreis Cham
+Landkreis Cloppenburg
 Landkreis Coburg
 Landkreis Cochem-Zell
+Landkreis Cuxhaven
 Landkreis Dachau
 Landkreis Darmstadt-Dieburg
 Landkreis Deggendorf
+Landkreis Diepholz
 Landkreis Dillingen an der Donau
 Landkreis Dingolfing-Landau
 Landkreis Donau-Ries
@@ -970,6 +981,7 @@ Landkreis Eichsfeld
 Landkreis Eichstatt
 Landkreis Elbe-Elster
 Landkreis Emmendingen
+Landkreis Emsland
 Landkreis Erding
 Landkreis Erlangen-Hochstadt
 Landkreis Esslingen
@@ -977,23 +989,33 @@ Landkreis Forchheim
 Landkreis Freising
 Landkreis Freudenstadt
 Landkreis Freyung-Grafenau
+Landkreis Friesland
 Landkreis Fulda
 Landkreis Furstenfeldbruck
 Landkreis Furth
 Landkreis Garmisch-Partenkirchen
 Landkreis Giessen
+Landkreis Gifhorn
 Landkreis Gorlitz
+Landkreis Goslar
 Landkreis Gotha
+Landkreis Gottingen
+Landkreis Grafschaft Bentheim
 Landkreis Greiz
 Landkreis Gunzburg
+Landkreis Hameln-Pyrmont
+Landkreis Harburg
 Landkreis Harz
 Landkreis Hassberge
 Landkreis Havelland
 Landkreis Heidenheim
 Landkreis Heilbronn
+Landkreis Helmstedt
 Landkreis Hersfeld-Rotenburg
 Landkreis Hildburghausen
+Landkreis Hildesheim
 Landkreis Hof
+Landkreis Holzminden
 Landkreis Jerichower Land
 Landkreis Karlsruhe
 Landkreis Kassel
@@ -1005,11 +1027,14 @@ Landkreis Kulmbach
 Landkreis Kusel
 Landkreis Landsberg am Lech
 Landkreis Landshut
+Landkreis Leer
 Landkreis Leipzig
 Landkreis Lichtenfels
 Landkreis Limburg-Weilburg
 Landkreis Lorrach
+Landkreis Luchow-Dannenberg
 Landkreis Ludwigsburg
+Landkreis Luneburg
 Landkreis Main-Spessart
 Landkreis Mainz-Bingen
 Landkreis Mansfeld-Sudharz
@@ -1029,16 +1054,23 @@ Landkreis Neustadt an der Aisch-Bad Windsheim
 Landkreis Neustadt an der Waldnaab
 Landkreis Neu-Ulm
 Landkreis Neuwied
+Landkreis Nienburg-Weser
 Landkreis Nordhausen
 Landkreis Nordsachsen
+Landkreis Northeim
 Landkreis Nurnberger Land
 Landkreis Oberallgau
 Landkreis Oberspreewald-Lausitz
 Landkreis Oder-Spree
 Landkreis Offenbach
+Landkreis Oldenburg
+Landkreis Osnabruck
 Landkreis Ostallgau
+Landkreis Osterholz
+Landkreis Osterode am Harz
 Landkreis Ostprignitz-Ruppin
 Landkreis Passau
+Landkreis Peine
 Landkreis Pfaffenhofen an der Ilm
 Landkreis Rastatt
 Landkreis Ravensburg
@@ -1048,12 +1080,14 @@ Landkreis Reutlingen
 Landkreis Rhon-Grabfeld
 Landkreis Rosenheim
 Landkreis Rostock
+Landkreis Rotenburg
 Landkreis Roth
 Landkreis Rottal-Inn
 Landkreis Rottweil
 Landkreis Saalfeld-Rudolstadt
 Landkreis Saarlouis
 Landkreis Sachsische Schweiz-Osterzgebirge
+Landkreis Schaumburg
 Landkreis Schmalkalden-Meiningen
 Landkreis Schwabisch Hall
 Landkreis Schwandorf
@@ -1061,6 +1095,7 @@ Landkreis Schweinfurt
 Landkreis Sigmaringen
 Landkreis Sommerda
 Landkreis Sonneberg
+Landkreis Stade
 Landkreis Starnberg
 Landkreis Stendal
 Landkreis Straubing-Bogen
@@ -1073,14 +1108,20 @@ Landkreis Traunstein
 Landkreis Trier-Saarburg
 Landkreis Tubingen
 Landkreis Tuttlingen
+Landkreis Uelzen
 Landkreis Unterallgau
+Landkreis Vechta
+Landkreis Verden
 Landkreis Vulkaneifel
 Landkreis Waldeck-Frankenberg
 Landkreis Waldshut
 Landkreis Weilheim-Schongau
 Landkreis Weimarer Land
 Landkreis Weissenburg-Gunzenhausen
+Landkreis Wesermarsch
 Landkreis Wittenberg
+Landkreis Wittmund
+Landkreis Wolfenbuttel
 Landkreis Wunsiedel im Fichtelgebirge
 Landkreis Wurzburg
 Landkreis Zwickau
@@ -1133,7 +1174,9 @@ Oberbergischer Kreis
 Oberhausen
 Odenwaldkreis
 Offenbach am Main
+Oldenburg
 Ortenaukreis
+Osnabruck
 Ostalbkreis
 Paderborn
 Passau
@@ -1151,6 +1194,7 @@ Recklinghausen
 Rees
 Regensburg
 Regionalverband Saarbrucken
+Region Hannover
 Remscheid
 Rems-Murr-Kreis
 Rheda-Wiedenbruck
@@ -1176,6 +1220,7 @@ Saarland
 Saarpfalz-Kreis
 Sachsen-Anhalt
 Sachsen
+Salzgitter
 Salzkotten
 Salzlandkreis
 Schalksmuhle
@@ -1234,9 +1279,11 @@ Wetteraukreises
 Wetter
 Wiehl
 Wiesbaden
+Wilhelmshaven
 Willich
 Wipperfurth
 Witten
+Wolfsburg
 Worms
 Wulfrath
 Wuppertal
