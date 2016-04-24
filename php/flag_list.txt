@@ -1846,21 +1846,29 @@ Kathmandu
 Mustang
 Alkmaar
 Almere
+Alphen aan de Rijn
 Ameland
+Amersfoort
 Amsterdam
+Apeldoorn
 Arnhem
 Baarn
 Breda
 Delft
 Den Bosch
 Den Haag
+Dordrecht
 Drenthe
+Ede
 Eindhoven
+Emmen
+Enschede
 Flevoland
 Friesland
 Gelderland
 Gorredijk
 Groningen
+Haarlemmermeer
 Haarlem
 Harderwijk
 Heerenveen
@@ -1873,6 +1881,7 @@ Limburg
 Maastricht
 Meppel
 Middelburg
+Nijmegen
 Noord-Brabant
 Noord-Holland
 Oegstgeest
@@ -1883,6 +1892,7 @@ Overijssel
 Rijswijk
 Rotterdam
 Schiermonnikoog
+Stad Groningen
 Stavoren
 Terneuzen
 Terschelling
@@ -1890,9 +1900,12 @@ Texel
 Tilburg
 Utrecht
 Velsen
+Venlo
 Vlieland
 Volendam
+Westland
 Weststellingwerf
+Zaandam
 Zeeland
 Zoetermeer
 Zuid-Holland
