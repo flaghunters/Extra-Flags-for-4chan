@@ -10,6 +10,7 @@ Lezhe
 Shkoder
 Tirana
 Vlore
+Swains Island
 Andorra la Vella
 Canillo
 Encamp
@@ -728,6 +729,7 @@ Chuuk
 Kosrae
 Pohnpei
 Yap
+Suva
 Etela-Karjala
 Etela-Pohjanmaa
 Etela-Savo
@@ -770,8 +772,17 @@ Provence-Alpes-Cotes d Azur
 Rhone-Alpes
 Cayenne
 Austral Islands
+Bora Bora
 Gambier Islands
+Huahine
+Makatea
 Marquesas Islands
+Maupiti
+Moorea
+Raiatea
+Rapa
+Society Islands
+Tahiti
 Tuamotus
 Abkhazia
 Adjara
@@ -2700,6 +2711,7 @@ Uthai Thani
 Uttaradit
 Ya La
 Ya Sothon
+Niuafoou
 Arima
 Chaguanas
 Couva-Tabaquite-Talparo
