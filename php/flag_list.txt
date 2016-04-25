@@ -696,6 +696,7 @@ San Miguel
 San Salvador
 Santa Ana
 San Vicente
+Sonsonate
 Usulutan
 Annobon
 Bioko Norte
@@ -771,6 +772,7 @@ Poitou-Charentes
 Provence-Alpes-Cotes d Azur
 Rhone-Alpes
 Cayenne
+Saint-Laurent-du-Maroni
 Austral Islands
 Bora Bora
 Gambier Islands
@@ -1425,7 +1427,25 @@ St Sampson
 St Saviour
 Torteval
 Vale
+Atlantida
+Choluteca
+Colon
+Comayagua
+Copan
+Cortes
+El Paraiso
+Francisco Morazan
+Gracias a Dios
+Intibuca
+Islas de la Bahia
+La Paz
+Lempira
+Ocotepeque
+Olancho
+Santa Barbara
 Tegucigalpa
+Valle
+Yoro
 Central and West
 Islands
 Kowloon City
@@ -2782,6 +2802,16 @@ Southern
 Uva
 Western
 Khartoum
+Brokopondo
+Commewijne
+Coronie
+Marowijne
+Nickerie
+Paramaribo
+Para
+Saramacca
+Sipaliwini
+Wanica
 Longyearbyen
 Blekinge Lan
 Blekinge
