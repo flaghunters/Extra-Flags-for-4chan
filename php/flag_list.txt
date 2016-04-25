@@ -70,6 +70,7 @@ Launceston
 Liverpool
 Lord Howe Island
 Mackay
+Macquarie Island
 Melbourne
 Mildura
 Mornington Peninsula
@@ -773,19 +774,32 @@ Provence-Alpes-Cotes d Azur
 Rhone-Alpes
 Cayenne
 Saint-Laurent-du-Maroni
+Arue
 Austral Islands
 Bora Bora
+Fatu Hiva
 Gambier Islands
+Hao
+Hiva Oa
 Huahine
 Makatea
 Marquesas Islands
 Maupiti
 Moorea
+Nuku Hiva
 Raiatea
+Raivavae
 Rapa
+Reao
+Rimatara
+Rurutu
 Society Islands
 Tahiti
+Tahuata
 Tuamotus
+Tubuai
+Ua Huka
+Ua Pou
 Abkhazia
 Adjara
 South Ossetia
@@ -2187,9 +2201,16 @@ Zwolle
 Loyalty Islands
 North
 South
+Antipodes Islands
+Auckland Islands
+Bounty Islands
+Campbell Islands
 Chatham Islands
+Kermadec Islands
 Nelson
 Otago
+Stewart Island
+The Snares
 Boaco
 Carazo
 Chinandega
