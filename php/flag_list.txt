@@ -1818,6 +1818,7 @@ Tetovo
 Valandovo
 Veles
 Vinica
+Antananarivo
 Johor
 Kedah
 Kelantan
@@ -1840,6 +1841,10 @@ Northern Region
 South Eastern Region
 Southern Region
 Valletta
+Port Louis
+Quatre Bornes
+Rodrigues
+Vacoas-Phoenix
 Aguascalientes
 Baja California
 Baja California Sur
@@ -2346,6 +2351,7 @@ Zwijndrecht
 Zwolle
 Loyalty Islands
 North
+Noumea
 South
 Antipodes Islands
 Auckland Islands
@@ -2394,6 +2400,7 @@ Telemark
 Troms
 Vest-Agder
 Vestfold
+Muscat
 Azad Kashmir
 Balochistan
 Federally Administered Tribal Areas
@@ -2739,6 +2746,10 @@ Tulcea
 Valcea
 Vaslui
 Vrancea
+Saint-Benoit
+Saint-Denis
+Saint-Paul
+Saint-Pierre
 Adygeya
 Altay
 Altaysky Kray
@@ -3074,6 +3085,7 @@ Taitung
 Taoyuan
 Yilan
 Yunlin
+Zanzibar
 Amnat Charoen
 Ang Thong
 Ayutthaya
@@ -4229,7 +4241,7 @@ Dubai
 Fujairah
 Ras Al-Khaimah
 Sharjah
-Umm Al-Qaiwan
+Umm Al-Quwain
 Aberdeen
 Aberdeenshire
 Angus
@@ -4580,7 +4592,15 @@ San Jose
 Soriano
 Tacuarembo
 Treinta y Tres
+Karakalpakstan
+Luganville
+Malampa Province
+Penama Province
 Port Vila
+Sanma Province
+Shefa Province
+Tafea Province
+Torba Province
 Amazonas
 Anzoategui
 Apure
@@ -4606,6 +4626,7 @@ Trujillo
 Vargas
 Yaracuy
 Zulia
+Hanoi
 Alo
 Sigave
 Uvea
