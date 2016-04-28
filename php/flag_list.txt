@@ -106,6 +106,9 @@ Upper Austria
 Vienna
 Vorarlberg
 Baku
+Ganja
+Nagorno-Karabakh
+Nakhchivan Autonomous Republic
 Capital Governorate
 Muharraq Governorate
 Northern Governorate
@@ -804,6 +807,7 @@ Ua Huka
 Ua Pou
 Abkhazia
 Adjara
+Akhalgori
 Akhaltsikhe
 Batumi
 Gardabani
@@ -1621,6 +1625,7 @@ Waterford
 Westmeath
 Wexford
 Wicklow
+Douglas
 Haifa
 Holon
 Jerusalem
@@ -1944,6 +1949,7 @@ Sagaing
 Shan
 Tanintharyi
 Yangon
+Windhoek
 Kathmandu
 Mustang
 Aa en Hunze
@@ -2379,7 +2385,36 @@ RAAN
 RAAS
 Rio San Juan
 Rivas
+Abia
+Abuja
+Adamawa
+Akwa Ibom
+Anambra
+Bauchi
+Bayelsa
+Benue
+Borno
+Cross River
+Delta
+Edo
+Ekiti
+Gombe
+Kaduna
+Katsina
+Kebbi
+Kogi
+Kwara
 Lagos
+Nasarawa
+Ogun
+Ondo
+Osun
+Oyo
+Plateau
+Rivers
+Taraba
+Yobe
+Zamfara
 Akershus
 Aust-Agder
 Buskerud
@@ -2852,6 +2887,7 @@ San Marino
 Serravalle
 Principe
 Sao Tome
+Dakar
 Beograd
 Kosovo
 Kragujevac
