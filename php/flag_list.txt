@@ -616,6 +616,7 @@ Zlin
 Znojmo
 Katanga
 Kinshasa
+Lualaba
 Aeroe
 Bornholm
 Hovedstaden
@@ -1764,7 +1765,49 @@ Amman
 Almaty
 Astana
 Baikonur
+Baringo County
+Bomet County
+Bungoma County
+Busia County
+Elgeyo-Marakwet County
+Embu County
+Garissa County
+Homa Bay County
+Kakamega County
+Kericho County
+Kiambu County
+Kilifi County
+Kisii County
+Kisumu County
+Kitui County
+Kwale County
+Laikipia County
+Machakos County
+Makueni County
+Mandera County
+Marsabit County
+Meru County
+Migori County
+Mombasa County
+Mombasa
+Muranga County
+Nairobi County
 Nairobi
+Nakuru County
+Nandi County
+Narok County
+Nyamira County
+Nyandarua County
+Samburu County
+Taita-Taveta County
+Tana River County
+Tharaka-Nithi County
+Trans-Nzoia County
+Turkana County
+Uasin Gishu County
+Vihiga County
+Wajir County
+West Pokot County
 Batken
 Bishkek
 Chuy
@@ -1965,7 +2008,13 @@ Ulcinj
 Zabljak
 Fes-Boulemane
 Rabat-Sale-Zemmour-Zaer
+Beira
 Maputo
+Matola
+Nampula
+Quelimane
+Vilankulo
+Xai-Xai
 Ayeyarwady
 Bago
 Chin
@@ -3047,7 +3096,9 @@ Sabaragamuwa
 Southern
 Uva
 Western
+Darfur
 Khartoum
+Kurdufan
 Brokopondo
 Commewijne
 Coronie
