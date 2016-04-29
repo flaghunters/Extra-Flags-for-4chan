@@ -867,6 +867,7 @@ Aachen
 Alb-Donau-Kreis
 Altena
 Altmarkkreis Salzwedel
+Altmarkkreis-Salzwedel
 Amberg
 Ansbach
 Aschaffenburg
@@ -905,7 +906,7 @@ Coburg
 Cottbus
 Darmstadt
 Datteln
-Delbrück
+Delbruck
 Delmenhorst
 Dessau-Rosslau
 Dinslaken
@@ -1368,7 +1369,7 @@ Speyer
 Sprockhovel
 Steinhagen
 Stemwede
-Stralen
+Straelen
 Straubing
 Stuttgart
 Suhl
