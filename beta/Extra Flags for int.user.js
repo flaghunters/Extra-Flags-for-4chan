@@ -21,6 +21,14 @@
 // @downloadURL https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-4chan/master/beta/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
+/*jslint browser: true*/
+/*global document, console, GM_addStyle, GM_setValue, GM_getValue, GM_registerMenuCommand, GM_xmlhttpRequest, cloneInto, unsafeWindow*/
+
+/* WebStorm JSLint ticked:
+    - uncapitalized constructors
+    - missing 'use strict' pragma
+    - many var statements
+ */
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help) 
 var region = '';
@@ -30,7 +38,6 @@ var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
-var navigatorIsWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1;
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
 
 /* region setup thing */
@@ -52,11 +59,11 @@ var setup = {
         }
         /* create new setup window */
         GM_addStyle('\
-			#' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
-			#' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
-			#' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }\
-			#' + setup.id + ' ul { margin:15px 0 15px 0;padding:0;list-style:none }\
-			#' + setup.id + ' li { margin:0;padding:3px 0 3px 0;vertical-align:middle }'
+            #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
+            #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
+            #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }\
+            #' + setup.id + ' ul { margin:15px 0 15px 0;padding:0;list-style:none }\
+            #' + setup.id + ' li { margin:0;padding:3px 0 3px 0;vertical-align:middle }'
         );
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
@@ -67,10 +74,7 @@ var setup = {
             this.disabled = true;
             this.innerHTML = 'Saving...';
             region = setup.q('region').value.trim();
-            if (!region) {
-                getRegion();
-            }
-            setup.save('region', region);
+            setup.save(regionVariable, region);
             setup_el.parentNode.removeChild(setup_el);
         }, false);
     },
@@ -85,7 +89,7 @@ var setup = {
     }
 };
 
-/** Prompt to set region if variable 'region' is empty  */
+/** Prompt to set region if regionVariable is empty  */
 region = setup.load(regionVariable);
 if (!region) {
     setTimeout(function () {
@@ -108,7 +112,7 @@ function addGlobalStyle(css) {
     head.appendChild(style);
 }
 
-if (navigatorIsWebkit) {
+if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
     addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
 }
 /** END fix flag alignment on chrome */
@@ -121,9 +125,6 @@ function parseOriginalPosts() {
         return p.id.replace("pc", "");
     });                                         //extract post numbers
 }
-
-parseOriginalPosts();
-resolveRefFlags();
 
 /** the function to get the flags from the db
  *  uses postNrs
@@ -141,17 +142,18 @@ function onFlagsLoad(response) {
     var jsonData = JSON.parse(response.responseText);
 
     jsonData.forEach(function (post) {
-        var postToAddFlagTo = document.getElementById("pc" + post.post_nr);
-        var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0];
-        var nameBlock = postInfo.getElementsByClassName('nameBlock')[0];
-        var currentFlag = nameBlock.getElementsByClassName('flag')[0];
+        var postToAddFlagTo = document.getElementById("pc" + post.post_nr),
+            postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
+            nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
+            currentFlag = nameBlock.getElementsByClassName('flag')[0],
+            newFlag = document.createElement('a');
 
-        var newFlag = document.createElement('a');
         nameBlock.appendChild(newFlag);
         newFlag.title = post.region;
         var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
             '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
             flegsBaseUrl + 'empty.png\';}})();"';
+
         newFlag.innerHTML = "<img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + ">";
         newFlag.className = "extraFlag";
         newFlag.href = "https://www.google.com/search?q=" + post.region + ", " + currentFlag.title;
@@ -174,9 +176,9 @@ function onFlagsLoad(response) {
     var timestampMinusFortyFive = Math.round(+new Date() / 1000) - postRemoveCounter;
 
     postNrs.forEach(function (post_nr) {
-        var postToAddFlagTo = document.getElementById("pc" + post_nr);
-        var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0];
-        var dateTime = postInfo.getElementsByClassName('dateTime')[0];
+        var postToAddFlagTo = document.getElementById("pc" + post_nr),
+            postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
+            dateTime = postInfo.getElementsByClassName('dateTime')[0];
 
         if (dateTime.getAttribute("data-utc") < timestampMinusFortyFive) {
             var index = postNrs.indexOf(post_nr);
@@ -195,9 +197,7 @@ function resolveRefFlags() {
         GM_xmlhttpRequest({
             method: "POST",
             url: backendBaseUrl + "get_flags.php",
-            data: "post_nrs=" + encodeURIComponent(postNrs)
-            + "&" + "board=" + encodeURIComponent(boardID)
-            ,
+            data: "post_nrs=" + encodeURIComponent(postNrs) + "&" + "board=" + encodeURIComponent(boardID),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
@@ -217,10 +217,8 @@ document.addEventListener('QRPostSuccessful', function (e) {
         GM_xmlhttpRequest({
             method: "POST",
             url: backendBaseUrl + "post_flag.php",
-            data: "post_nr=" + encodeURIComponent(e.detail.postID)
-            + "&" + "board=" + encodeURIComponent(e.detail.boardID)
-            + "&" + "region=" + encodeURIComponent(region)
-            ,
+            data: "post_nr=" + encodeURIComponent(e.detail.postID) + "&" + "board=" + encodeURIComponent(e.detail.boardID) + "&" + "region=" +
+                encodeURIComponent(region),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
@@ -241,10 +239,8 @@ document.addEventListener('4chanQRPostSuccess', function (e) {
         GM_xmlhttpRequest({
             method: "POST",
             url: backendBaseUrl + "post_flag.php",
-            data: "post_nr=" + encodeURIComponent(evDetail.postId)
-            + "&" + "board=" + encodeURIComponent(boardID)
-            + "&" + "region=" + encodeURIComponent(region)
-            ,
+            data: "post_nr=" + encodeURIComponent(evDetail.postId) + "&" + "board=" + encodeURIComponent(boardID) + "&" + "region=" +
+                encodeURIComponent(region),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
@@ -298,4 +294,7 @@ document.addEventListener('4chanThreadUpdated', function (e) {
     setTimeout(resolveRefFlags, 0);
 }, false);
 
+/** setup init and start first calls */
 setup.init();
+parseOriginalPosts();
+resolveRefFlags();
