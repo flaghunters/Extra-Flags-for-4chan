@@ -21,6 +21,9 @@
 // @downloadURL https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-4chan/master/beta/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
+// DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
+
+/** JSLint excludes */
 /*jslint browser: true*/
 /*global document, console, GM_addStyle, GM_setValue, GM_getValue, GM_registerMenuCommand, GM_xmlhttpRequest, cloneInto, unsafeWindow*/
 
@@ -30,7 +33,9 @@
     - many var statements
  */
 
-// DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help) 
+/* Right margin: 160 */
+
+// DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
 var region = '';
 var regionVariable = 'regionVariableAPI2';
 var allPostsOnPage = [];
@@ -40,7 +45,7 @@ var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
 
-/* region setup thing */
+/** Setup, preferences */
 var setup = {
     namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint.',
     id: "ExtraFlags-setup",
@@ -99,36 +104,17 @@ if (!region) {
     }, 2000);
 }
 
-/** START fix flag alignment on chrome */
-function addGlobalStyle(css) {
-    var head, style;
-    head = document.getElementsByTagName('head')[0];
-    if (!head) {
-        return;
-    }
-    style = document.createElement('style');
-    style.type = 'text/css';
-    style.innerHTML = css;
-    head.appendChild(style);
-}
-
-if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
-    addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
-}
-/** END fix flag alignment on chrome */
-
 /** parse the posts already on the page before thread updater kicks in */
 function parseOriginalPosts() {
     var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
     allPostsOnPage = Array.prototype.slice.call(tempAllPostsOnPage); //convert from element list to javascript array
     postNrs = allPostsOnPage.map(function (p) {
         return p.id.replace("pc", "");
-    });                                         //extract post numbers
+    });
 }
 
-/** the function to get the flags from the db
- *  uses postNrs
- *  member variable might not be very nice but I'm gonna do it anyways! */
+/** the function to get the flags from the db uses postNrs
+ *  member variable might not be very nice but it's the easiest approach here */
 function onFlagsLoad(response) {
     //exit on error
     if (response.status !== 200) {
@@ -138,7 +124,6 @@ function onFlagsLoad(response) {
         return;
     }
 
-    //parse returned data
     var jsonData = JSON.parse(response.responseText);
 
     jsonData.forEach(function (post) {
@@ -163,24 +148,22 @@ function onFlagsLoad(response) {
 
         console.log("resolved " + post.region);
 
-        //remove flag from postNrs
+        //postNrs are resolved and should be removed from this variable
         var index = postNrs.indexOf(post.post_nr);
         if (index > -1) {
             postNrs.splice(index, 1);
         }
     });
 
-    //cleaning up the postNrs variable here
-    //conditions are checked one plus resolved (removed above, return handler) or older than 60s (removed here), keeping it simple
-
-    var timestampMinusFortyFive = Math.round(+new Date() / 1000) - postRemoveCounter;
+    //removing posts older than the time limit (they likely won't resolve)
+    var timestampMinusPostRemoveCounter = Math.round(+new Date() / 1000) - postRemoveCounter;
 
     postNrs.forEach(function (post_nr) {
         var postToAddFlagTo = document.getElementById("pc" + post_nr),
             postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
             dateTime = postInfo.getElementsByClassName('dateTime')[0];
 
-        if (dateTime.getAttribute("data-utc") < timestampMinusFortyFive) {
+        if (dateTime.getAttribute("data-utc") < timestampMinusPostRemoveCounter) {
             var index = postNrs.indexOf(post_nr);
             if (index > -1) {
                 postNrs.splice(index, 1);
@@ -280,8 +263,8 @@ document.addEventListener('ThreadUpdate', function (e) {
 document.addEventListener('4chanThreadUpdated', function (e) {
     var evDetail = e.detail || e.wrappedJSObject.detail;
 
-    var threadID = window.location.pathname.split('/')[3]; //get thread ID
-    var postsContainer = Array.prototype.slice.call(document.getElementById('t' + threadID).childNodes); //get an array of postcontainers
+    var threadID = window.location.pathname.split('/')[3];
+    var postsContainer = Array.prototype.slice.call(document.getElementById('t' + threadID).childNodes);
     var lastPosts = postsContainer.slice(Math.max(postsContainer.length - evDetail.count, 1)); //get the last n elements (where n is evDetail.count)
 
     //add to temp posts and the DOM element to allPostsOnPage
@@ -293,6 +276,24 @@ document.addEventListener('4chanThreadUpdated', function (e) {
     //setTimeout to support greasemonkey 1.x
     setTimeout(resolveRefFlags, 0);
 }, false);
+
+/** START fix flag alignment on chrome */
+function addGlobalStyle(css) {
+    var head, style;
+    head = document.getElementsByTagName('head')[0];
+    if (!head) {
+        return;
+    }
+    style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = css;
+    head.appendChild(style);
+}
+
+if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
+    addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
+}
+/** END fix flag alignment on chrome */
 
 /** setup init and start first calls */
 setup.init();
