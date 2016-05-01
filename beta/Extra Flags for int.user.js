@@ -28,9 +28,9 @@
 /*global document, console, GM_addStyle, GM_setValue, GM_getValue, GM_registerMenuCommand, GM_xmlhttpRequest, cloneInto, unsafeWindow*/
 
 /* WebStorm JSLint ticked:
-    - uncapitalized constructors
-    - missing 'use strict' pragma
-    - many var statements
+ - uncapitalized constructors
+ - missing 'use strict' pragma
+ - many var statements
  */
 
 /* Right margin: 160 */
@@ -42,16 +42,42 @@ var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
-var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flegs/';
+var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/beta/flags/';
+var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
+var shortId = 'witingwc.ef.';
+var regionCounter = 1;
 
 /** Setup, preferences */
 var setup = {
     namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint.',
     id: "ExtraFlags-setup",
     html: function () {
-        return '<div>Extra Flags for /int/</div><ul>Region: <li><input type="text" name="region" value="' + region +
-            '"></li>Leave blank to use geolocation</ul><div><button name="save">Save settings</button></div></div>';
+        return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Country: <li><select id="' + shortId + 'countrySelect">' +
+            '<option value=""></option></select></li></ul><div><button name="save">Save settings</button></div></div>';
+    },
+    fillHtml: function () {
+        /* resolve countries which we support */
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: flegsBaseUrl + "/" + flagListFile,
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            onload: function (response) {
+                //hide spam, debug purposes only
+                //console.log(response.responseText);
+                var countrySelect = document.getElementById(shortId + 'countrySelect'),
+                    countriesAvailable = response.responseText.split('\n');
+
+                for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
+                    var opt = document.createElement('option');
+                    opt.value = countriesAvailable[countriesCounter];
+                    opt.innerHTML = countriesAvailable[countriesCounter];
+                    countrySelect.appendChild(opt);
+                }
+            }
+        });
     },
     q: function (n) {
         return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
@@ -73,6 +99,7 @@ var setup = {
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
+        setup.fillHtml();
         document.body.appendChild(setup_el);
         /* save listener */
         setup.q('save').addEventListener('click', function () {
