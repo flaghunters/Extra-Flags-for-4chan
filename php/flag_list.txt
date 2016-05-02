@@ -1527,7 +1527,6 @@ Kwun Tong
 Saikung
 Sham Shui Po
 Sha Tin
-Triad
 Tsuen Wan
 Tuen Mun
 Wan Chai
@@ -1942,7 +1941,7 @@ Mexico (State)
 Michoacan
 Morelos
 Nayarit
-Nuevo
+Nuevo Leon
 Oaxaca
 Puebla
 Queretaro
@@ -2062,7 +2061,7 @@ Bedum
 Beek
 Beemster
 Beesel
-Bellingwede
+Bellingwedde
 Bergeijk
 Berg en Dal
 Bergen (Limburg)
@@ -4473,7 +4472,6 @@ Oxfordshire
 Pembrokeshire
 Perth and Kinross
 Petersfield
-Portland
 Powys
 Preston
 Renfrewshire
@@ -4631,7 +4629,7 @@ Pennsylvania
 Peoria
 Philadelphia
 Phoenix
-Pittsburg
+Pittsburgh
 Portland
 Provo
 Puyallup
