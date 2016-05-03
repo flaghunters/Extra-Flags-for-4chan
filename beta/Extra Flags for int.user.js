@@ -37,12 +37,14 @@
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
 var region = '';
+var regions = [];
+var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
 var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
-var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/beta/flags/';
+var flegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/patch-1/beta/flags/'; //'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/beta/flags/';
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
 var shortId = 'witingwc.ef.';
@@ -53,18 +55,45 @@ var setup = {
     namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint.',
     id: "ExtraFlags-setup",
     html: function () {
-        return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Country: <li><select id="' + shortId + 'countrySelect">' +
-            '<option value=""></option></select></li></ul><div><button name="save">Save settings</button></div></div>';
+        if (regions.length > 1) {
+             return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Region: <li><select id="' + shortId + 'countrySelect">' +
+               '<option value=""></option></select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">Save Region</button></div></div>';
+        } else if (regions.length > 0) {
+            return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Region: <li><select id="' + shortId + 'countrySelect">' +
+               '</select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">Save Region</button></div></div>';
+        } else {
+            return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Country: <li><select id="' + shortId + 'countrySelect">' +
+               '</select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save">Use Observer Mode</button></div></div>';
+        }
     },
-    fillHtml: function () {
+    fillHtml: function (path1) {
+        if (path1 == "") { //normal call
+            var path = flegsBaseUrl + "/";
+            var oldPath = path;
+            if (regions.length > 0) {
+                for (var i = 0; i < regions.length; i++) {
+                    oldPath = path;
+                    path += regions[i] + "/";
+                }
+            }
+            path += flagListFile;
+            oldPath += flagListFile;
+        } else { // end of folder line call
+            path = path1;
+            oldPath = "";
+        }
+       
         /* resolve countries which we support */
         GM_xmlhttpRequest({
             method: "GET",
-            url: flegsBaseUrl + "/" + flagListFile,
+            url: path,
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
             onload: function (response) {
+                if (response.status == 404) { // detect if there are no more folders
+                    setup.fillHtml(oldPath);
+                }
                 //hide spam, debug purposes only
                 //console.log(response.responseText);
                 var countrySelect = document.getElementById(shortId + 'countrySelect'),
@@ -74,6 +103,12 @@ var setup = {
                     var opt = document.createElement('option');
                     opt.value = countriesAvailable[countriesCounter];
                     opt.innerHTML = countriesAvailable[countriesCounter];
+                    
+                    if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
+                        opt.selected = "selected";
+                    } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more folders detected
+                        opt.selected = "selected";
+                    }
                     countrySelect.appendChild(opt);
                 }
             }
@@ -81,6 +116,13 @@ var setup = {
     },
     q: function (n) {
         return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
+    },
+    removeExtra : function() {
+        if (regions.length > 0) {
+            lastRegion = regions[regions.length - 1];
+            regions.pop();
+        }
+        setup.show();
     },
     show: function () {
         /* remove setup window if existing */
@@ -99,15 +141,66 @@ var setup = {
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
-        setup.fillHtml();
+        setup.fillHtml("");
+        
         document.body.appendChild(setup_el);
-        /* save listener */
-        setup.q('save').addEventListener('click', function () {
+        /* button listeners */
+        setup.q('back').addEventListener('click', function() {
+            if (regions.length > 0) {
+                //if (lastRegion == "") {
+                if (regions.length > 2) {
+                    lastRegion = regions[regions.length - 2];
+                    regions.pop();
+                } else {
+                    lastRegion = regions[regions.length - 1];
+                }
+                //regions.pop();
+                regions.pop();
+                setup.show();
+            }
+        }, false);
+        
+        setup.q('forward').addEventListener('click', function () {
+            var e = document.getElementById(shortId + "countrySelect");
+            var temp = e.options[e.selectedIndex].value;
+            lastRegion = "";
+            if (temp != "" && regions[regions.length - 1] != temp) {
+                this.disabled = true;
+                this.innerHTML = 'Saving...';
+                
+                lastRegion = regions[regions.length - 1];
+                regions.push(temp);
+                setup.show();
+            }
+            
+        }, false);
+        
+        setup.q('save').addEventListener('click', function() {
+            var e = document.getElementById(shortId + "countrySelect");
+            var temp = e.options[e.selectedIndex].value;
+            if (temp !== "" && temp !== regions[regions.length - 1]) {
+                regions.push(temp);
+            } else if (lastRegion !== "" && lastRegion !== regions[regions.length - 1] && lastRegion !== regions[regions.length - 2]) {
+                regions.push(lastRegion);
+            }
+            
+            if (regions[regions.length - 1] === "") { //prevent last spot from being blank
+                regions.pop();
+            }
+            lastRegion = "";
+            
+            if (regions.length == 0) {
+                regions = [];
+                regions.push("NONE"); //will get deleted anyway
+                alert("You are using observer mode, which means you can see others' regional flags but you will not display any.");
+            } else {
+                alert("Your region is now " + regions[regions.length - 1]);
+            }
+            
             this.disabled = true;
             this.innerHTML = 'Saving...';
-            region = setup.q('region').value.trim();
-            setup.save(regionVariable, region);
             setup_el.parentNode.removeChild(setup_el);
+            setup.save(regionVariable, regions);
         }, false);
     },
     save: function (k, v) {
@@ -117,7 +210,8 @@ var setup = {
         return GM_getValue(setup.namespace + k);
     },
     init: function () {
-        GM_registerMenuCommand('Extra Flags setup', setup.show);
+        //GM_registerMenuCommand('Extra Flags setup', setup.show;
+        GM_registerMenuCommand('Extra Flags setup', setup.removeExtra);
     }
 };
 
@@ -159,21 +253,29 @@ function onFlagsLoad(response) {
             nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
             currentFlag = nameBlock.getElementsByClassName('flag')[0],
             newFlag = document.createElement('a');
+        
+        
+        //newFlag.title = post.region;
+        if (post.region.length > 0 && false) { // disabled for now
+            var path = post.region[0];
+            for (var i = 1; i < post.region.length; i++) { //start on the second element
+                path += "/" + post.region[i];
+                nameBlock.appendChild(newFlag);
 
-        nameBlock.appendChild(newFlag);
-        newFlag.title = post.region;
-        var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
-            '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
-            flegsBaseUrl + 'empty.png\';}})();"';
+                var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
+                    '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
+                    flegsBaseUrl + 'empty.png\';}})();"';
 
-        newFlag.innerHTML = "<img src='" + flegsBaseUrl + currentFlag.title + "/" + post.region + ".png'" + newFlagImgOpts + ">";
-        newFlag.className = "extraFlag";
-        newFlag.href = "https://www.google.com/search?q=" + post.region + ", " + currentFlag.title;
-        newFlag.target = '_blank';
-        //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-        newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
+                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + ">";
+                newFlag.className = "extraFlag";
+                newFlag.href = "https://www.google.com/search?q=" + post.region[i] + ", " + currentFlag.title;
+                newFlag.target = '_blank';
+                //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
+                newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
-        console.log("resolved " + post.region);
+                console.log("resolved " + post.region[i]);
+            }
+        }
 
         //postNrs are resolved and should be removed from this variable
         var index = postNrs.indexOf(post.post_nr);
