@@ -63,7 +63,7 @@ var setup = {
                '</select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">Save Region</button></div></div>';
         } else {
             return '<div>Extra Flags for /int/</div><ul id="' + shortId + 'ul">Country: <li><select id="' + shortId + 'countrySelect">' +
-               '</select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save">Use Observer Mode</button></div></div>';
+               '</select></li></ul><div><button name="forward">Get Regions</button></div><div><button name="back">Go Back</button></div><br/><div><button name="save" disabled>Save Region</button></div></div>';
         }
     },
     fillHtml: function (path1) {
@@ -192,7 +192,6 @@ var setup = {
             if (regions.length == 0) {
                 regions = [];
                 regions.push("NONE"); //will get deleted anyway
-                alert("You are using observer mode, which means you can see others' regional flags but you will not display any.");
             } else {
                 alert("Your region is now " + regions[regions.length - 1]);
             }
