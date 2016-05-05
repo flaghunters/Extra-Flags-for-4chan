@@ -114,6 +114,7 @@ Muharraq Governorate
 Northern Governorate
 Southern Governorate
 Dhaka
+Bridgetown
 Brest Voblast
 Homyel Voblast
 Hrodna Voblast
@@ -135,6 +136,7 @@ Vlaanderen
 Wallonie
 West-Vlaanderen
 Belmopan
+Hamilton
 Beni
 Chuquisaca
 Cochabamba
@@ -626,6 +628,7 @@ Nordjylland
 Sjaelland
 Syddanmark
 Vendsyssel
+Djibouti
 Azua
 Bahoruco
 Barahona
@@ -1440,11 +1443,28 @@ South Aegean
 Thessaly
 West Greece
 West Macedonia
+Aasiaat
+Ilulissat
+Ittoqqortoormiit
+Ivittuut
+Kangaatsiaq
 Kujalleq
+Maniitsoq
+Nanortalik
+Narsaq
 Nuuk
+Paamiut
+Qaanaaq
 Qaasuitsup
+Qaqortoq
+Qasigiannguit
+Qeqertarsuaq
 Qeqqata
 Sermersooq
+Sisimiut
+Tasiilaq
+Upernavik
+Uummannaq
 Agana Heights
 Agat
 Asan-Maina
@@ -1622,7 +1642,32 @@ West Kalimantan
 West Nusa Tenggara
 West Papua
 West Sumatra
+Ahvaz
+Arak
+Ardabil
+Bandar Abbas
+Bandar Anzali
+Hamedan
+Isfahan
+Karaj
+Kerman
+Kermanshah
+Khorramabad
 Mashhad
+Nishapur
+Qazvin
+Qom
+Sanandaj
+Sari
+Semnan
+Shahriar
+Shiraz
+Tabriz
+Tehran
+Urmia
+Yazd
+Zahedan
+Zanjan
 Dohuk
 Erbil
 Sulaymaniyah
@@ -1866,6 +1911,14 @@ Taurage
 Telsiai
 Utena
 Vilnius
+Beaufort
+Betzdorf
+Diekirch
+Luxembourg
+Mondorf-les-Bains
+Schengen
+Vianden
+Wellenstein
 Berovo
 Bitola
 Bogdanci
@@ -1919,6 +1972,13 @@ Northern Region
 South Eastern Region
 Southern Region
 Valletta
+Bikini Atoll
+Kwajalein Atoll
+Majuro Atoll
+Namdrik Atoll
+Rongelap Atoll
+Ujae Atoll
+Utirik Atoll
 Port Louis
 Quatre Bornes
 Rodrigues
@@ -3207,6 +3267,7 @@ Taitung
 Taoyuan
 Yilan
 Yunlin
+Gorno-Badakhshan
 Zanzibar
 Amnat Charoen
 Ang Thong
@@ -4721,6 +4782,7 @@ Soriano
 Tacuarembo
 Treinta y Tres
 Karakalpakstan
+Tashkent
 Luganville
 Malampa Province
 Penama Province
