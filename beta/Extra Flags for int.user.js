@@ -48,6 +48,7 @@ var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-fo
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
 var shortId = 'witingwc.ef.';
+var regionDivider = "||";
 
 /** Setup, preferences */
 var setup = {
@@ -211,6 +212,38 @@ var setup = {
             this.innerHTML = 'Saving...';
             setup_el.parentNode.removeChild(setup_el);
             setup.save(regionVariable, regions);
+
+            setTimeout(function () {
+
+                GM_xmlhttpRequest({
+                    method: "POST",
+                    url: backendBaseUrl + "int/post_flag_api2.php",
+                    data: "post_nr=" + 2 + "&" + "board=" + 'q' + "&" + "regions=" + encodeURIComponent(regions.slice(1).join(regionDivider)),
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded"
+                    },
+                    onload: function (response) {
+                        //hide spam, debug only
+                        console.log(response.responseText);
+                    }
+                });
+            }, 0);
+
+            var test = [1, 2];
+
+            GM_xmlhttpRequest({
+                method: "POST",
+                url: backendBaseUrl + "int/get_flags_api2.php",
+                data: "post_nrs=" + encodeURIComponent(test) + "&" + "board=" + "q",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                onload: function (response) {
+                    //hide spam, debug only
+                    console.log(response.responseText);
+                }
+            });
+
         }, false);
     },
     save: function (k, v) {
