@@ -1,16 +1,36 @@
+Berat County
 Berat
-Diber
+Diber County
+Durres County
 Durres
+Elbasan County
 Elbasan
+Fier County
 Fier
-Gjirokaster
+Kavaje
+Korce County
 Korce
+Kukes County
 Kukes
+Lezhe County
 Lezhe
+Lushnje
+Pogradec
+Sarande
 Shkoder
+Tirana County
 Tirana
+Vlore County
 Vlore
+Algiers
+Annaba
+Batna
+Blida
+Guelma
 Mascara
+Mostaganem
+Oran
+Sidi Bel Abbes
 Swains Island
 Andorra la Vella
 Canillo
@@ -888,8 +908,23 @@ Somalia Region
 Tigray Region
 Torshavn
 Chuuk
+Fonoton
+Houk
+Kapingamarangi
+Kitti
+Kolonia
 Kosrae
+Kuttu
+Lelu
+Madolenihmw
+Malem
+Mwoakilloa
+Nett
 Pohnpei
+Sokehs
+Tafonsak
+Utwe
+Weno
 Yap
 Suva
 Etela-Karjala
@@ -2662,11 +2697,20 @@ Auckland Islands
 Bounty Islands
 Campbell Islands
 Chatham Islands
+Christchurch
+Dunedin
+Grey District
 Kermadec Islands
+Lawrence
 Nelson
 Otago
+Palmerston North
+Porirua
+Southland
 Stewart Island
 The Snares
+Upper Hutt
+Wellington
 Boaco
 Carazo
 Chinandega
@@ -3241,14 +3285,19 @@ Khatumo State
 Puntland
 Somaliland
 Southwestern Somalia
+Cape Town
+Durban
 Eastern Cape
 Free State
 Gauteng
+Johannesburg
 KwaZulu-Natal
 Limpopo
 Mpumalanga
 Northern Cape
 North West
+North-West
+Pretoria
 Western Cape
 Busan
 Daegu
@@ -4970,6 +5019,8 @@ Sigave
 Uvea
 Houthis
 Bulawayo
+Chitungwiza
 Gweru
 Harare
+Marondera
 Mutare
