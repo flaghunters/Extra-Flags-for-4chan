@@ -36,7 +36,6 @@
 /* Right margin: 160 */
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
-var region = '';
 var regions = [];
 var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
@@ -47,6 +46,8 @@ var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/beta/flags/';
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
+var postUrl = 'int/post_flag_api2.php';
+var getUrl = 'int/get_flags_api2.php';
 var shortId = 'witingwc.ef.';
 var regionDivider = "||";
 
@@ -213,37 +214,6 @@ var setup = {
             setup_el.parentNode.removeChild(setup_el);
             setup.save(regionVariable, regions);
 
-            setTimeout(function () {
-
-                GM_xmlhttpRequest({
-                    method: "POST",
-                    url: backendBaseUrl + "int/post_flag_api2.php",
-                    data: "post_nr=" + 2 + "&" + "board=" + 'q' + "&" + "regions=" + encodeURIComponent(regions.slice(1).join(regionDivider)),
-                    headers: {
-                        "Content-Type": "application/x-www-form-urlencoded"
-                    },
-                    onload: function (response) {
-                        //hide spam, debug only
-                        console.log(response.responseText);
-                    }
-                });
-            }, 0);
-
-            var test = [1, 2];
-
-            GM_xmlhttpRequest({
-                method: "POST",
-                url: backendBaseUrl + "int/get_flags_api2.php",
-                data: "post_nrs=" + encodeURIComponent(test) + "&" + "board=" + "q",
-                headers: {
-                    "Content-Type": "application/x-www-form-urlencoded"
-                },
-                onload: function (response) {
-                    //hide spam, debug only
-                    console.log(response.responseText);
-                }
-            });
-
         }, false);
     },
     save: function (k, v) {
@@ -259,8 +229,8 @@ var setup = {
 };
 
 /** Prompt to set region if regionVariable is empty  */
-region = setup.load(regionVariable);
-if (!region) {
+regions = setup.load(regionVariable);
+if (!regions) {
     setTimeout(function () {
         if (window.confirm("Extra Flags: No region detected, set it up now?") === true) {
             setup.show();
@@ -295,27 +265,29 @@ function onFlagsLoad(response) {
             postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
             nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
             currentFlag = nameBlock.getElementsByClassName('flag')[0],
-            newFlag = document.createElement('a');
+            postedRegions = post.region.split(regionDivider);
 
-        //newFlag.title = post.region;
-        if (post.region.length > 0 && false) { // disabled for now
-            var path = post.region[0];
-            for (var i = 1; i < post.region.length; i++) { //start on the second element
-                path += "/" + post.region[i];
+        if (postedRegions.length > 0) {
+            var path = currentFlag.title;
+            for (var i = 0; i < postedRegions.length; i++) {
+                path += "/" + postedRegions[i];
+
+                var newFlag = document.createElement('a');
                 nameBlock.appendChild(newFlag);
 
                 var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
-                    '\').getElementsByClassName(\'extraFlag\')[0].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
+                    '\').getElementsByClassName(\'extraFlag\')[' + i +
+                    '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
                     flegsBaseUrl + 'empty.png\';}})();"';
 
                 newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + ">";
                 newFlag.className = "extraFlag";
-                newFlag.href = "https://www.google.com/search?q=" + post.region[i] + ", " + currentFlag.title;
+                newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
                 newFlag.target = '_blank';
                 //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                 newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
-                console.log("resolved " + post.region[i]);
+                console.log("resolved " + postedRegions[i]);
             }
         }
 
@@ -350,7 +322,7 @@ function resolveRefFlags() {
 
         GM_xmlhttpRequest({
             method: "POST",
-            url: backendBaseUrl + "get_flags.php",
+            url: backendBaseUrl + getUrl,
             data: "post_nrs=" + encodeURIComponent(postNrs) + "&" + "board=" + encodeURIComponent(boardID),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
@@ -370,9 +342,9 @@ document.addEventListener('QRPostSuccessful', function (e) {
     setTimeout(function () {
         GM_xmlhttpRequest({
             method: "POST",
-            url: backendBaseUrl + "post_flag.php",
-            data: "post_nr=" + encodeURIComponent(e.detail.postID) + "&" + "board=" + encodeURIComponent(e.detail.boardID) + "&" + "region=" +
-                encodeURIComponent(region),
+            url: backendBaseUrl + postUrl,
+            data: "post_nr=" + encodeURIComponent(e.detail.postID) + "&" + "board=" + encodeURIComponent(e.detail.boardID) + "&" + "regions=" +
+            encodeURIComponent(regions.slice(1).join(regionDivider)),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
@@ -392,9 +364,9 @@ document.addEventListener('4chanQRPostSuccess', function (e) {
     setTimeout(function () {
         GM_xmlhttpRequest({
             method: "POST",
-            url: backendBaseUrl + "post_flag.php",
-            data: "post_nr=" + encodeURIComponent(evDetail.postId) + "&" + "board=" + encodeURIComponent(boardID) + "&" + "region=" +
-                encodeURIComponent(region),
+            url: backendBaseUrl + postUrl,
+            data: "post_nr=" + encodeURIComponent(evDetail.postId) + "&" + "board=" + encodeURIComponent(boardID) + "&" + "regions=" +
+            encodeURIComponent(regions.slice(1).join(regionDivider)),
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
