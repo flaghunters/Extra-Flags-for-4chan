@@ -6,6 +6,7 @@
 
 #vars
 FILE="flag_list.txt"
+BIGFILE="flag_list_api2.txt"
 EMPTY="empty.png"
 FLAG_TOP_DIR="../flags"
 FLAG_TOP_DIR_FILE="${FLAG_TOP_DIR}/${FILE}"
@@ -25,7 +26,7 @@ gen_list()
 	sed -i 's/.png//g' "${1}${FILE}"
 	
 	#add copy to big list
-	cat "${1}${FILE}" >> "${FILE}"
+	cat "${1}${FILE}" >> "${BIGFILE}"
 	
 	#run recursive for folders
 	FOLDER_LIST=''
@@ -43,8 +44,8 @@ gen_list()
 }
 
 #remove big list
-rm "${FILE}"
-touch "${FILE}"
+rm "${BIGFILE}"
+touch "${BIGFILE}"
 
 #kick off recursive generation
 while IFS='' read -r country || [[ -n "${country}" ]]; do
