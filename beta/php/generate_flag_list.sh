@@ -6,12 +6,14 @@
 
 #vars
 FILE="flag_list.txt"
+EMPTY="empty.png"
 FLAG_TOP_DIR="../flags"
 FLAG_TOP_DIR_FILE="${FLAG_TOP_DIR}/${FILE}"
 
 #countries
 ls "${FLAG_TOP_DIR}" > "${FLAG_TOP_DIR_FILE}"
 sed -i '/'${FILE}'/d' "${FLAG_TOP_DIR_FILE}"
+sed -i '/'${EMPTY}'/d' "${FLAG_TOP_DIR_FILE}"
 
 #generate regions recursive
 #feed this method full (relative) path
