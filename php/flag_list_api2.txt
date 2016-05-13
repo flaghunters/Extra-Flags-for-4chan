@@ -22,6 +22,518 @@ Kavaje
 Tirana
 Sarande
 Vlore
+Algiers
+Annaba
+Batna
+Blida
+Guelma
+Mascara
+Mostaganem
+Oran
+Sidi Bel Abbes
+Swains Island
+Cabinda
+Gyumri
+Vagharshapat
+Yerevan
+Australian Capital Territory
+New South Wales
+Northern Territory
+Queensland
+South Australia
+Tasmania
+Victoria
+Western Australia
+Grafton
+Greater Sydney
+Kiama
+Lake Macquarie
+Maitland
+Wollongong
+Blacktown
+Botany Bay
+Camden
+Campbelltown
+Canterbury
+Parramatta
+Sutherland
+Sydney
+Waverley
+Willoughby
+Windale
+Alice Springs
+Darwin
+East Arnhem
+Tiwi Islands
+Blue Mud Bay
+Brisbane
+Cairns
+Cloncurry
+Croydon
+Gold Coast
+Ipswich
+Logan
+McKinlay
+Noosa
+Toowoomba
+Torres Strait Islands
+Townsville
+Murray Island
+Saibai Island
+Adelaide
+Anangu Pitjantjatjara Yankunytjatjara
+Hobart
+Launceston
+Macquarie Island
+Ararat
+Ballarat
+Greater Geelong
+Greater Melbourne
+Latrobe
+Mansfield
+Mildura
+Geelong
+Casey
+Frankston
+Melbourne
+Yarra
+Perth
+Rottnest Island
+Wanneroo
+Baku
+Ganja
+Nagorno-Karabakh
+Nakhchivan Autonomous Republic
+Bridgetown
+Belize City
+Belmopan
+Cotonou
+Hamilton
+Bonaire
+Saba
+Sint Eustatius
+Anjouan
+Grande Comore
+Moheli
+Katanga
+Kinshasa
+Lualaba
+Djibouti
+Annobon
+Bioko Norte
+Bioko Sur
+Addis Ababa
+Afar Region
+Amhara Region
+Benishangul-Gumuz Region
+Dire Dawa
+Gambela Region
+Harari Region
+Oromia Region
+SNNP Region
+Somali Region
+Tigray Region
+Chuuk
+Kosrae
+Pohnpei
+Yap
+Fonoton
+Houk
+Kuttu
+Weno
+Lelu
+Malem
+Tafonsak
+Utwe
+Kapingamarangi
+Kitti
+Kolonia
+Madolenihmw
+Mwoakilloa
+Nett
+Sokehs
+Suva
+Cayenne
+Austral Islands
+Gambier Islands
+Marquesas Islands
+Society Islands
+Tuamotus
+Raivavae
+Rapa
+Rimatara
+Rurutu
+Tubuai
+Fatu Hiva
+Hiva Oa
+Nuku Hiva
+Tahuata
+Ua Huka
+Ua Pou
+Bora Bora
+Huahine
+Maupiti
+Moorea
+Raiatea
+Tahiti
+Arue
+Hao
+Makatea
+Reao
+Abasha
+Abkhazia
+Adjara
+Akhalgori
+Akhaltsikhe
+Ambrolauri
+Gardabani
+Gori
+Kaspi
+Khashuri
+Khulo
+Kobuleti
+Kutaisi
+Lanchkhuti
+Lentekhi
+Marneuli
+Poti
+Rustavi
+Sachkhere
+Sagarejo
+Samtredia
+Senaki
+South Ossetia
+Tbilisi
+Telavi
+Tkibuli
+Tskaltubo
+Zestafoni
+Zugdidi
+Batumi
+Ashanti Region
+Brong-Ahafo Region
+Central Region
+Eastern Region
+Greater Accra Region
+Volta Region
+Western Region
+Kumasi
+Kujalleq
+Qaasuitsup
+Qeqqata
+Sermersooq
+Nanortalik
+Narsaq
+Qaqortoq
+Aasiaat
+Ilulissat
+Kangaatsiaq
+Qaanaaq
+Qasigiannguit
+Qeqertarsuaq
+Upernavik
+Uummannaq
+Maniitsoq
+Sisimiut
+Ittoqqortoormiit
+Ivittuut
+Nuuk
+Paamiut
+Tasiilaq
+Ahvaz
+Arak
+Ardabil
+Bandar Abbas
+Bandar Anzali
+Hamedan
+Isfahan
+Karaj
+Kerman
+Kermanshah
+Khorramabad
+Mashhad
+Nishapur
+Qazvin
+Qom
+Sanandaj
+Sari
+Semnan
+Shahriar
+Shiraz
+Tabriz
+Tehran
+Urmia
+Yazd
+Zahedan
+Zanjan
+Douglas
+Abidjan
+Aksu
+Aktobe
+Almaty
+Astana
+Baikonur
+Kapchagay
+Karaganda
+Kostanay
+Oskemen
+Pavlodar
+Taldykorgan
+Zhetikara
+Baringo County
+Bomet County
+Bungoma County
+Busia County
+Elgeyo-Marakwet County
+Embu County
+Garissa County
+Homa Bay County
+Kakamega County
+Kericho County
+Kiambu County
+Kilifi County
+Kisii County
+Kisumu County
+Kitui County
+Kwale County
+Laikipia County
+Machakos County
+Makueni County
+Mandera County
+Marsabit County
+Meru County
+Migori County
+Mombasa County
+Muranga County
+Nairobi County
+Nakuru County
+Nandi County
+Narok County
+Nyamira County
+Nyandarua County
+Samburu County
+Taita-Taveta County
+Tana River County
+Tharaka-Nithi County
+Trans-Nzoia County
+Turkana County
+Uasin Gishu County
+Vihiga County
+Wajir County
+West Pokot County
+Mombasa
+Nairobi
+Balzers
+Eschen
+Gamprin
+Mauren
+Planken
+Ruggell
+Schaan
+Schellenberg
+Triesenberg
+Triesen
+Vaduz
+Beaufort
+Betzdorf
+Diekirch
+Luxembourg
+Mondorf-les-Bains
+Schengen
+Vianden
+Wellenstein
+Antananarivo
+Bikini Atoll
+Kwajalein Atoll
+Majuro Atoll
+Namdrik Atoll
+Rongelap Atoll
+Ujae Atoll
+Utirik Atoll
+Port Louis
+Quatre Bornes
+Rodrigues
+Vacoas-Phoenix
+Agadir
+Al Hoceima
+Azilal
+Beni Mellal
+Benslimane
+Cape Bojador
+Casablanca
+Chefchaouen
+Dakhla
+El Jadida
+El Kelaa des Sraghna
+Errachidia
+Essaouira
+Fez
+Figuig
+Guelmim
+Ifrane
+Kenitra
+Khemisset
+Khenifra
+Khouribga
+Laayoune
+Larache
+Marrakesh
+Meknes
+Nador
+Ouarzazate
+Oujda
+Rabat
+Safi
+Settat
+Sidi Kacem
+Tangier
+Tan-Tan
+Taounate
+Taroudant
+Tata
+Taza
+Tetouan
+Tiznit
+Beira
+Maputo
+Matola
+Nampula
+Quelimane
+Vilankulo
+Xai-Xai
+Windhoek
+Kathmandu
+Mustang
+Sherpa Nation
+Loyalty Islands
+North
+South
+Noumea
+Antipodes Islands
+Auckland Islands
+Bounty Islands
+Campbell Islands
+Chatham Islands
+Christchurch
+Greater Wellington
+Grey District
+Kermadec Islands
+Nelson
+Otago
+Palmerston North
+Southland
+The Snares
+Porirua
+Upper Hutt
+Wellington
+Dunedin
+Lawrence
+Stewart Island
+Abia State
+Abuja
+Adamawa State
+Akwa Ibom State
+Anambra State
+Bauchi State
+Bayelsa State
+Benue State
+Borno State
+Cross River State
+Delta State
+Edo State
+Ekiti State
+Gombe State
+Kaduna State
+Katsina State
+Kebbi State
+Kogi State
+Kwara State
+Lagos State
+Nasarawa State
+Ogun State
+Ondo State
+Osun State
+Oyo State
+Plateau State
+Rivers State
+Taraba State
+Yobe State
+Zamfara State
+Muscat
+Autonomous Region of Bougainville
+Central Province
+Chimbu Province
+Eastern Highlands Province
+East New Britain Province
+East Sepik Province
+Enga Province
+Gulf Province
+Hela Province
+Jiwaka Province
+Madang Province
+Manus Province
+Milne Bay Province
+Morobe Province
+New Ireland Province
+Oro Province
+Port Moresby
+Sandaun Province
+Southern Highlands Province
+Western Highlands Province
+Western Province
+West New Britain Province
+Saint-Benoit
+Saint-Denis
+Saint-Paul
+Saint-Pierre
+Principe
+Dakar
+Central Province
+Choiseul Province
+Guadalcanal Province
+Honiara
+Isabel Province
+Makira-Ulawa Province
+Malaita Province
+Rennell and Bellona Province
+Temotu Province
+Western Province
+Awdalland
+Galmudug
+Jubaland
+Khatumo
+Puntland
+Somaliland
+South West
+Eastern Cape
+Free State
+Gauteng
+KwaZulu-Natal
+Limpopo
+Mpumalanga
+Northern Cape
+North-West
+Western Cape
+Johannesburg
+Pretoria
+Durban
+Cape Town
+Darfur
+Khartoum
+Kurdufan
+Longyearbyen
+Gorno-Badakhshan
+Zanzibar
+Niuafoou
+Sousse
+Tunis
+Abu Dhabi
+Ajman
+Dubai
+Fujairah
+Ras Al-Khaimah
+Sharjah
+Umm Al-Quwain
 Alabama
 Alaska
 Arizona
@@ -254,3 +766,20 @@ Vancouver
 Yakima
 Madison
 Milwaukee
+Karakalpakstan
+Tashkent
+Malampa Province
+Penama Province
+Sanma Province
+Shefa Province
+Tafea Province
+Torba Province
+Luganville
+Port Vila
+Hanoi
+Bulawayo
+Chitungwiza
+Gweru
+Harare
+Marondera
+Mutare

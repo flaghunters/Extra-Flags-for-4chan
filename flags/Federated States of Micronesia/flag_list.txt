@@ -1,0 +1,4 @@
+Chuuk
+Kosrae
+Pohnpei
+Yap
