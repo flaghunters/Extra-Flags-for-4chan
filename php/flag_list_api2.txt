@@ -1,3 +1,18 @@
+Badakhshan Province
+Baghlan Province
+Bamyan Province
+Daykundi Province
+Farah Province
+Ghor Province
+Helmand Province
+Herat Province
+Jowzjan Province
+Khost Province
+Kunduz Province
+Laghman Province
+Nimruz Province
+Panjshir Province
+Samangan Province
 Berat County
 Diber County
 Durres County
@@ -112,6 +127,7 @@ Hamilton
 Bonaire
 Saba
 Sint Eustatius
+Phnom Penh
 Anjouan
 Grande Comore
 Moheli
@@ -119,6 +135,45 @@ Katanga
 Kinshasa
 Lualaba
 Djibouti
+Alexandria Governorate
+Al Sharqia Governorate
+Aswan Governorate
+Asyut Governorate
+Beheira Governorate
+Beni Suef Governorate
+Cairo Governorate
+Dakahlia Governorate
+Damietta Governorate
+Faiyum Governorate
+Gharbia Governorate
+Giza Governorate
+Ismailia Governorate
+Kafr el-Sheikh Governorate
+Luxor Governorate
+Matrouh Governorate
+Minya Governorate
+Monufia Governorate
+New Valley Governorate
+North Sinai Governorate
+Port Said Governorate
+Qalyubia Governorate
+Qena Governorate
+Red Sea Governorate
+Sohag Governorate
+South Sinai Governorate
+Suez Governorate
+Alexandria
+Damanhur
+Cairo
+Mansoura
+El-Mahalla El-Kubra
+Giza
+Ismailia
+Luxor
+Arish
+Port Said
+Sohag
+Suez
 Annobon
 Bioko Norte
 Bioko Sur
@@ -240,6 +295,42 @@ Ivittuut
 Nuuk
 Paamiut
 Tasiilaq
+Aceh
+Bali
+Bangka-Belitung Islands
+Banten
+Bengkulu
+Central Java
+Central Kalimantan
+Central Sulawesi
+East Java
+East Kalimantan
+East Nusa Tenggara
+Gorontalo
+Jakarta
+Jambi
+Lampung
+Maluku
+North Kalimantan
+North Maluku
+North Sulawesi
+North Sumatra
+Papua
+Riau Islands
+Riau
+Southeast Sulawesi
+South Kalimantan
+South Sulawesi
+South Sumatra
+West Java
+West Kalimantan
+West Nusa Tenggara
+West Papua
+West Sulawesi
+West Sumatra
+Yogyakarta
+Makassar
+Bandung
 Ahvaz
 Arak
 Ardabil
@@ -323,6 +414,22 @@ Wajir County
 West Pokot County
 Mombasa
 Nairobi
+Bomi County
+Bong County
+Gbarpolu County
+Grand Bassa County
+Grand Cape Mount County
+Grand Gedeh County
+Grand Kru County
+Lofa County
+Margibi County
+Maryland County
+Montserrado County
+Nimba County
+Rivercess County
+River Gee County
+Sinoe County
+Monrovia
 Balzers
 Eschen
 Gamprin
@@ -343,6 +450,109 @@ Schengen
 Vianden
 Wellenstein
 Antananarivo
+Johor
+Kedah
+Kelantan
+Kuala Lumpur
+Labuan
+Malacca
+Negeri Sembilan
+Pahang
+Penang
+Perak
+Perlis
+Putrajaya
+Sabah
+Sarawak
+Selangor
+Terengganu
+Johor Bahru
+Muar
+Alor Setar
+Kota Bharu
+Port Dickson
+Kuantan
+Ipoh
+Kuala Kangsar
+Kota Kinabalu
+Klang
+Petaling Jaya
+Shah Alam
+Subang Jaya
+Kuala Terengganu
+Central Region
+Gozo Region
+Northern Region
+South Eastern Region
+Southern Region
+Attard
+Balzan
+Birkirkara
+Gzira
+Iklin
+Lija
+Msida
+Pieta
+San Giljan
+San Gwann
+Santa Venera
+Sliema
+Ta Xbiex
+Fontana
+Ghajnsielem
+Gharb
+Ghasri
+Kercem
+Munxar
+Nadur
+Qala
+Rabat (Gozo)
+San Lawrenz
+Sannat
+Xaghra
+Xewkija
+Zebbug (Gozo)
+Dingli
+Gharghur
+Mdina
+Mellieha
+Mgarr
+Mosta
+Mtarfa
+Naxxar
+Pembroke
+Rabat
+San Pawl il-Bahar
+Swieqi
+Birgu
+Bormla
+Fgura
+Floriana
+Isla
+Kalkara
+Marsa
+Marsaskala
+Marsaxlokk
+Paola
+Tarxien
+Valletta
+Xghajra
+Zabbar
+Zejtun
+Birzebbuga
+Ghaxaq
+Gudja
+Hamrun
+Kirkop
+Luqa
+Mqabba
+Qormi
+Qrendi
+Safi
+Santa Lucija
+Siggiewi
+Zebbug
+Zurrieq
 Bikini Atoll
 Kwajalein Atoll
 Majuro Atoll
@@ -401,6 +611,21 @@ Nampula
 Quelimane
 Vilankulo
 Xai-Xai
+Ayeyarwady Region
+Bago Region
+Chin State
+Kachin State
+Kayah State
+Kayin State
+Magway Region
+Mandalay Region
+Mon State
+Naypyidaw
+Rakhine State
+Sagaing Region
+Shan State
+Tanintharyi Region
+Yangon Region
 Windhoek
 Kathmandu
 Mustang
@@ -460,6 +685,14 @@ Taraba State
 Yobe State
 Zamfara State
 Muscat
+Azad Kashmir
+Balochistan
+Federally Administered Tribal Areas
+Gilgit-Baltistan
+Islamabad Capital Territory
+Khyber Pakhtunkhwa
+Punjab
+Sindh
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -488,6 +721,11 @@ Saint-Paul
 Saint-Pierre
 Principe
 Dakar
+Central Singapore
+North East
+North West
+South East
+South West
 Central Province
 Choiseul Province
 Guadalcanal Province
