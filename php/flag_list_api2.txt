@@ -115,6 +115,15 @@ Yarra
 Perth
 Rottnest Island
 Wanneroo
+Burgenland
+Carinthia
+Lower Austria
+Salzburg
+Styria
+Tirol
+Upper Austria
+Vienna
+Vorarlberg
 Baku
 Ganja
 Nagorno-Karabakh
@@ -127,10 +136,43 @@ Hamilton
 Bonaire
 Saba
 Sint Eustatius
+Bosansko-podrinjski kanton Gorazde
+Brcko Distrikt
+Hercegovacko-neretvanski kanton
+Kanton 10
+Kanton Sarajevo
+Posavski Kanton
+Republika Srpska
+Srednjobosanski kanton
+Tuzlanski kanton
+Unsko-sanski kanton
+Zapadnohercegovacki kanton
+Zenicko-dobojski kanton
 Phnom Penh
 Anjouan
 Grande Comore
 Moheli
+Bjelovarsko-bilogorska
+Brodsko-posavska
+Dubrovacko-neretvanska
+Grad Zagreb
+Istarska
+Karlovacka
+Koprivnicko-krizevacka
+Krapinsko-zagorska
+Licko-senjska
+Medimurska
+Osjecko-baranjska
+Pozesko-slavonska
+Primorsko-goranska
+Sibensko-kninska
+Sisacko-moslavacka
+Splitsko-dalmatinska
+Varazdinska
+Viroviticko-podravska
+Vukovarsko-srijemska
+Zadarska
+Zagrebacka
 Katanga
 Kinshasa
 Lualaba
@@ -383,6 +425,7 @@ Potenza
 Catanzaro
 Napoli
 Bologna
+Bologna
 Trieste
 Roma
 Genova
@@ -605,6 +648,28 @@ Port Louis
 Quatre Bornes
 Rodrigues
 Vacoas-Phoenix
+Andrijevica
+Bar
+Berane
+Bijelo Polje
+Budva
+Cetinje
+Danilovgrad
+Herceg Novi
+Kolasin
+Kotor
+Mojkovac
+Niksic
+Plav
+Pljevlja
+Pluzine
+Podgorica
+Rozaje
+Savnik
+Tivat
+Ulcinj
+Zabljak
+Gusinje
 Agadir
 Al Hoceima
 Azilal
@@ -762,11 +827,31 @@ Saint-Paul
 Saint-Pierre
 Principe
 Dakar
+Beograd
+Kosovo
+Kragujevac
+Nis
+Novi Sad
+Pancevo
+Subotica
+Vojvodina
+Zrenjanin
 Central Singapore
 North East
 North West
 South East
 South West
+Gorenjska
+Koroska
+Obalno-kraska
+Osrednjeslovenska
+Podravska
+Pomurska
+Posavska
+Primorsko-notranjska
+Savinjska
+Zasavska
+Ljubljana
 Central Province
 Choiseul Province
 Guadalcanal Province
@@ -797,6 +882,37 @@ Johannesburg
 Pretoria
 Durban
 Cape Town
+Andalusia
+Aragon
+Asturias
+Balearic Islands
+Basque Country
+Canary Islands
+Cantabria
+Castile and Leon
+Castile-La Mancha
+Catalonia
+Ceuta
+Community Of Madrid
+Extremadura
+Galicia
+La Rioja
+Melilla
+Navarra
+Puglia
+Region Of Murcia
+Valencia Community
+Formentera
+Ibiza
+Mallorca
+Menorca
+El Hierro
+Fuerteventura
+Gran Canaria
+La Gomera
+Lanzarote
+La Palma
+Tenerife
 Darfur
 Khartoum
 Kurdufan
