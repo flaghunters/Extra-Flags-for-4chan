@@ -57,29 +57,32 @@ var setup = {
     id: "ExtraFlags-setup",
     html: function () {
 
-        var htmlFixedStart = '<div>Extra Flags for 4chan</div><ul id="' + shortId + 'ul">';
+        var htmlFixedStart = '<div>Extra Flags for 4chan</div><br/>';
         var htmlBackButton = '<button name="back">Back</button>';
         var htmlNextButton = '<button name="forward">Next</button>';
         var htmlBackNextButtons = '<div>' + htmlBackButton + htmlNextButton + '</div>';
         var htmlSaveButton = '<div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">' +
-            'Save Region</button></div>';
+            'Save Region</button></div><br/>';
         var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
-            'For example; United States, California, Los Angeles<label>';
+            'For example; United States, California, Los Angeles<br/><label>' +
+            'Country must match your flag! Your flag not here? Open issue here:<br/>' +
+            '<a href="https://github.com/flaghunters/Extra-Flags-for-4chan/issues" style="color:blue">' +
+            'https://github.com/flaghunters/Extra-Flags-for-4chan/issues';
 
         if (regions.length > 1) {
-            return htmlFixedStart + 'Region: <li><select id="' + shortId + 'countrySelect">' +
-                '</select></li></ul>' + htmlBackNextButtons +
+            return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
+                '</select></div><br/>' + htmlBackNextButtons +
                 '<br/>' + htmlSaveButton + '</div>' + htmlHelpText;
         }
 
         if (regions.length > 0) {
-            return htmlFixedStart + 'Region: <li><select id="' + shortId + 'countrySelect">' +
-                '</select></li></ul>' + htmlBackNextButtons +
+            return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
+                '</select></div><br/>' + htmlBackNextButtons +
                 '<br/>' + htmlSaveButton + '</div>' + htmlHelpText;
         }
 
-        return htmlFixedStart + 'Country: <li><select id="' + shortId + 'countrySelect">' +
-            '</select></li></ul>' + htmlBackNextButtons + '<br/>' + htmlHelpText;
+        return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
+            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText;
 
     },
     fillHtml: function (path1) {
@@ -151,9 +154,7 @@ var setup = {
         GM_addStyle('\
             #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
             #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
-            #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }\
-            #' + setup.id + ' ul { margin:15px 0 15px 0;padding:0;list-style:none }\
-            #' + setup.id + ' li { margin:0;padding:3px 0 3px 0;vertical-align:middle }'
+            #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
         );
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
