@@ -48,6 +48,12 @@ Oran
 Sidi Bel Abbes
 Swains Island
 Cabinda
+Adelie Land
+Australian Antarctic Territory
+British Antarctic Territory
+Marie Byrd Land
+Queen Maud Land
+Ross Dependency
 Gyumri
 Vagharshapat
 Yerevan
@@ -128,6 +134,11 @@ Baku
 Ganja
 Nagorno-Karabakh
 Nakhchivan Autonomous Republic
+Capital Governorate
+Muharraq Governorate
+Northern Governorate
+Southern Governorate
+Dhaka
 Bridgetown
 Belize City
 Belmopan
@@ -148,7 +159,18 @@ Tuzlanski kanton
 Unsko-sanski kanton
 Zapadnohercegovacki kanton
 Zenicko-dobojski kanton
+Francistown
+Gaborone
 Phnom Penh
+Dalian
+Hainan
+Harbin
+Kaifeng
+Nanjing
+Shangrao
+Suzhou
+Tibet
+Weihai
 Anjouan
 Grande Comore
 Moheli
@@ -173,10 +195,32 @@ Viroviticko-podravska
 Vukovarsko-srijemska
 Zadarska
 Zagrebacka
+Akrotiri and Dhekelia
+Nicosia
+Turkish Republic of Northern Cyprus
+United Nations Buffer Zone
+Famagusta
+Kyrenia
+Morphou
+North Nicosia
+Trikomo
 Katanga
 Kinshasa
 Lualaba
 Djibouti
+Aileu District
+Ainaro District
+Baucau District
+Bobonaro District
+Cova Lima District
+Dili District
+Ermera District
+Lautem District
+Liquica District
+Manatuto District
+Manufahi District
+Oecusse District
+Viqueque District
 Alexandria Governorate
 Al Sharqia Governorate
 Aswan Governorate
@@ -230,6 +274,7 @@ Oromia Region
 SNNP Region
 Somali Region
 Tigray Region
+Torshavn
 Chuuk
 Kosrae
 Pohnpei
@@ -337,6 +382,38 @@ Ivittuut
 Nuuk
 Paamiut
 Tasiilaq
+Akranes
+Akureyri
+Arborg
+Dalabyggd
+Dalvik
+Djupivogur
+Eyjafjardarsveit
+Fjardabyggd
+Fljotsdalsherad
+Gardabaer
+Gardur
+Grindavik
+Hafnarfjordur
+Hornafjordur
+Hunathing vestra
+Hveragerdi
+Isafjardarbaer
+Kopavogur
+Mosfellsbaer
+Rangarthing eystra
+Rangarthing ytra
+Reykjanesbaer
+Reykjavik
+Sandgerdi
+Seltjarnarnes
+Snaefellsbaer
+Stokkseyri
+Strandabyggd
+Stykkisholmur
+Vestmannaeyjar
+Vogar
+Vopnafjordur
 Aceh
 Bali
 Bangka-Belitung Islands
@@ -399,7 +476,28 @@ Urmia
 Yazd
 Zahedan
 Zanjan
+Iraqi Kurdistan
 Douglas
+Ashdod
+Ashkelon
+Bat Yam
+Beersheba
+Bnei Brak
+Givatayim
+Haifa
+Herzliya
+Holon
+Jerusalem
+Karmiel
+Kfar Saba
+Kiryat Gat
+Netanya
+Or Yehuda
+Ramat Gan
+Ramat HaSharon
+Rishon LeZion
+Tel Aviv
+Yokneam
 Abruzzo
 Basilicata
 Calabria
@@ -443,6 +541,7 @@ Perugia
 Aosta
 Venezia
 Abidjan
+Amman
 Aksu
 Aktobe
 Almaty
@@ -498,6 +597,32 @@ Wajir County
 West Pokot County
 Mombasa
 Nairobi
+Banaba Island
+Betio
+Teinainano
+Batken Region
+Bishkek
+Chuy Region
+Issyk-Kul Region
+Jalal-Abad Region
+Naryn Region
+Osh
+Osh Region
+Talas Region
+Batken
+Kara-Balta
+Tokmok
+Karakol
+Jalal-Abad
+Beirut Governorate
+Bekaa Governorate
+Mount Lebanon Governorate
+North Governorate
+South Governorate
+Beirut
+Mayrouba
+Tripoli
+Sidon
 Bomi County
 Bong County
 Gbarpolu County
@@ -648,6 +773,54 @@ Port Louis
 Quatre Bornes
 Rodrigues
 Vacoas-Phoenix
+Arkhangai Province
+Bayankhongor Province
+Bayan-Olgii Province
+Bulgan Province
+Darkhan-Uul Province
+Dornod Province
+Dornogovi Province
+Dundgovi Province
+Govi-Altai Province
+Govisumber Province
+Khentii Province
+Khovd Province
+Khovsgol Province
+Omnogovi Province
+Orkhon Province
+Ovorkhangai Province
+Selenge Province
+Sukhbaatar Province
+Tov Province
+Ulaanbaatar
+Uvs Province
+Zavkhan Province
+Sainshand
+Altanbulag
+Argalant
+Batsumber
+Bayanchandmani
+Bayandelger
+Bayanjargalan
+Bayankhangai
+Bayan-Onjuul
+Bayan
+Bayantsagaan
+Bornuur
+Buren
+Delgerkhaan
+Erdene
+Erdenesant
+Jargalant
+Lun
+Mongonmorit
+Ondorshireet
+Sergelen
+Tseel
+Ugtaal
+Zaamar
+Zuunmod
+Naranbulag
 Andrijevica
 Bar
 Berane
@@ -790,6 +963,9 @@ Rivers State
 Taraba State
 Yobe State
 Zamfara State
+Hakupu
+Kaesong Industrial Region
+Sinuiju Special Administrative Region
 Muscat
 Azad Kashmir
 Balochistan
@@ -799,6 +975,24 @@ Islamabad Capital Territory
 Khyber Pakhtunkhwa
 Punjab
 Sindh
+Aimeliik
+Airai
+Angaur
+Hatohobei
+Kayangel
+Koror
+Melekeok
+Ngaraard
+Ngarchelong
+Ngardmau
+Ngaremlengui
+Ngatpang
+Ngchesar
+Ngiwal
+Peleliu
+Sonsorol
+Gaza
+West Bank
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -825,6 +1019,393 @@ Saint-Benoit
 Saint-Denis
 Saint-Paul
 Saint-Pierre
+Adygea
+Altai Krai
+Altai
+Amur Oblast
+Arkhangelsk Oblast
+Astrakhan Oblast
+Bashkortostan
+Belgorod Oblast
+Bryansk Oblast
+Buryatia
+Chechnya
+Chelyabinsk Oblast
+Chukotka
+Chuvashia
+Crimea
+Dagestan
+Ingushetia
+Irkutsk Oblast
+Ivanovo Oblast
+Jewish Autonomous Oblast
+Kabardino-Balkaria
+Kaliningrad Oblast
+Kalmykia
+Kaluga Oblast
+Kamchatka Krai
+Karachay-Cherkessia
+Karelia
+Kemerovo Oblast
+Khabarovsk Krai
+Khakassia
+Kirov Oblast
+Komi
+Kostroma Oblast
+Krasnodar Krai
+Krasnoyarsk Krai
+Kurgan Oblast
+Kursk Oblast
+Leningrad Oblast
+Lipetsk Oblast
+Magadan Oblast
+Mari El
+Mordovia
+Moscow Oblast
+Moscow
+Murmansk Oblast
+Nenetsia
+Nizhny Novgorod Oblast
+North Ossetia-Alania
+Novgorod Oblast
+Novosibirsk Oblast
+Omsk Oblast
+Orenburg Oblast
+Oryol Oblast
+Penza Oblast
+Perm Krai
+Primorsky Krai
+Pskov Oblast
+Rostov Oblast
+Ryazan Oblast
+Saint Petersburg
+Sakhalin Oblast
+Sakha
+Samara Oblast
+Saratov Oblast
+Sevastopol
+Smolensk Oblast
+Stavropol Krai
+Sverdlovsk Oblast
+Tambov Oblast
+Tatarstan
+Tomsk Oblast
+Tula Oblast
+Tuva
+Tver Oblast
+Tyumen Oblast
+Udmurtia
+Ulyanovsk Oblast
+Vladimir Oblast
+Volgograd Oblast
+Vologda Oblast
+Voronezh Oblast
+Yamalia
+Yaroslavl Oblast
+Yugra
+Zabaykalsky Krai
+Maykop
+Barnaul
+Belogorsk
+Blagoveshchensk
+Raychikhinsk
+Svobodny
+Novodvinsk
+Astrakhan
+Neftekamsk
+Sterlitamak
+Ufa
+Belgorod
+Shebekino
+Stary Oskol
+Bryansk
+Ulan-Ude
+Grozny
+Chelyabinsk
+Karabash
+Korkino
+Kusa
+Magnitogorsk
+Miass
+Ozyorsk
+Plast
+Troitsk
+Yemanzhelinsk
+Zlatoust
+Anadyr
+Cheboksary
+Novocheboksarsk
+Feodosia
+Kerch
+Simferopol
+Yalta
+Yevpatoria
+Makhachkala
+Magas
+Nazran
+Angarsk
+Bratsk
+Cheremkhovo
+Irkutsk
+Sayansk
+Tayshet
+Ust-Ilimsk
+Ust-Kut
+Ivanovo
+Kineshma
+Nalchik
+Chernyakhovsk
+Gusev
+Kaliningrad
+Sovetsk
+Elista
+Kaluga
+Lyudinovo
+Palana
+Petropavlovsk-Kamchatsky
+Petrozavodsk
+Anzhero-Sudzhensk
+Kemerovo
+Leninsk-Kuznetsky
+Mezhdurechensk
+Novokuznetsk
+Prokopyevsk
+Yurga
+Amursk
+Khabarovsk
+Komsomolsk-na-Amure
+Nikolayevsk-na-Amure
+Abakan
+Kirov
+Inta
+Sosnogorsk
+Syktyvkar
+Vorkuta
+Kostroma
+Armavir
+Gelendzhik
+Krasnodar
+Novorossiysk
+Sochi
+Achinsk
+Bogotol
+Borodino
+Dudinka
+Kansk
+Kodinsk
+Krasnoyarsk
+Minusinsk
+Norilsk
+Sharypovo
+Solnechny
+Tura
+Uyar
+Uzhur
+Yeniseysk
+Zelenogorsk
+Zheleznogorsk
+Kurgan
+Shadrinsk
+Kursk
+Gatchina
+Kirishi
+Kirovsk
+Tikhvin
+Volkhov
+Volosovo
+Gryazi
+Lebedyan
+Lipetsk
+Yelets
+Zadonsk
+Magadan
+Susuman
+Yoshkar-Ola
+Saransk
+Troitsk
+Zelenograd
+Aprelevka
+Balashikha
+Bronnitsy
+Chernogolovka
+Dedovsk
+Dmitrov
+Dubna
+Dzherzhinsky
+Elektrostal
+Fryazino
+Istra
+Kashira
+Khimki
+Klin
+Kolomna
+Korolyov
+Krasnogorsk
+Lobnya
+Lotoshino
+Lyubertsy
+Mozhaysk
+Mytishchi
+Naro-Fominsk
+Noginsk
+Odintsovo
+Orekhovo-Zuyevo
+Ozyory
+Pavlovsky Posad
+Podolsk
+Pushkino
+Reutov
+Sergiyev Posad
+Serpukhov
+Shatura
+Shchyolkovo
+Taldom
+Vereya
+Vidnoye
+Volokolamsk
+Voskhod
+Voskresensk
+Yegoryevsk
+Yubileyny
+Zaraysk
+Zheleznodorozhny
+Zhukovsky
+Naryan-Mar
+Kstovo
+Nizhny Novgorod
+Volodarsk
+Staraya Russa
+Valday
+Veliky Novgorod
+Iskitim
+Novosibirsk
+Omsk
+Tara
+Buzuluk
+Orenburg
+Orsk
+Mtsensk
+Oryol
+Kuznetsk
+Penza
+Berezniki
+Cherdyn
+Perm
+Arsenyev
+Bolshoy Kamen
+Dalnerechensk
+Nakhodka
+Vladivostok
+Pskov
+Velikiye Luki
+Azov
+Belaya Kalitva
+Novocherkassk
+Rostov-na-Donu
+Taganrog
+Volgodonsk
+Kasimov
+Ryazan
+Berkakit
+Dzhebariki-Khaya
+Mirny
+Pokrovsk
+Srednekolymsk
+Udachny
+Vilyuysk
+Yakutsk
+Zyryanka
+Kholmsk
+Kurilsk
+Okha
+Severo-Kurilsk
+Samara
+Tolyatti
+Balashov
+Engels
+Saratov
+Smolensk
+Vyazma
+Yartsevo
+Budyonnovsk
+Georgiyevsk
+Pyatigorsk
+Stavropol
+Aramil
+Bisert
+Degtyarsk
+Kamensk-Uralsky
+Krasnoufimsk
+Mikhaylovsk
+Nizhniye Sergi
+Nizhny Tagil
+Novouralsk
+Pervouralsk
+Polevskoy
+Rezh
+Serov
+Yekaterinburg
+Kotovsk
+Tambov
+Chistopol
+Kazan
+Naberezhnye Chelny
+Zelenodolsk
+Seversk
+Tomsk
+Kimovsk
+Novomoskovsk
+Shchyokino
+Tula
+Uzlovaya
+Konakovo
+Rzhev
+Torzhok
+Tver
+Vyshny Volochyok
+Tobolsk
+Tyumen
+Yalutorovsk
+Zavodoukovsk
+Glazov
+Izhevsk
+Sarapul
+Votkinsk
+Dimitrovgrad
+Ulyanovsk
+Gus-Khrustalny
+Kolchugino
+Kovrov
+Suzdal
+Vladimir
+Mikhaylovka
+Volgograd
+Volzhsky
+Belozersk
+Cherepovets
+Veliky Ustyug
+Vologda
+Boguchar
+Borisoglebsk
+Liski
+Novovoronezh
+Ostrogozhsk
+Pavlovsk
+Rossosh
+Voronezh
+Salekhard
+Rostov
+Rybinsk
+Yaroslavl
+Khanty-Mansiysk
+Nizhnevartovsk
+Surgut
+Chita
+Ascension Island
+Saint Helena
+Tristan da Cunha
+Nevis
+Bequia
 Principe
 Dakar
 Beograd
@@ -916,12 +1497,133 @@ Tenerife
 Darfur
 Khartoum
 Kurdufan
+Commewijne District
+Nickerie District
 Longyearbyen
+Manzini
+Mbabane
+Al-Hasakah Governorate
+Damascus Governorate
+Changhua County
+Chiayi City
+Chiayi County
+Hsinchu City
+Hsinchu County
+Hualien County
+Kaohsiung City
+Keelung City
+Kinmen County
+Lienchiang County
+Miaoli County
+Nantou County
+New Taipei City
+Penghu County
+Pingtung County
+Taichung City
+Tainan City
+Taipei City
+Taitung County
+Taoyuan City
+Yilan County
+Yunlin County
 Gorno-Badakhshan
 Zanzibar
 Niuafoou
 Sousse
 Tunis
+Ankole
+Buganda
+Bunyoro
+Busoga
+Rwenzururu
+Toro
+Cherkasy Oblast
+Chernihiv Oblast
+Chernivtsi Oblast
+Crimea
+Dnipropetrovsk Oblast
+Donetsk Oblast
+Ivano-Frankivsk Oblast
+Kharkiv Oblast
+Kherson Oblast
+Khmelnytskyi Oblast
+Kirovohrad Oblast
+Kyiv Oblast
+Kyiv
+Luhansk Oblast
+Lviv Oblast
+Mykolaiv Oblast
+Odessa Oblast
+Poltava Oblast
+Rivne Oblast
+Sevastopol
+Sumy Oblast
+Ternopil Oblast
+Vinnytsia Oblast
+Volyn Oblast
+Zakarpattia Oblast
+Zaporizhia Oblast
+Zhytomyr Oblast
+Cherkasy
+Uman
+Chernihiv
+Nizhyn
+Chernivtsi
+Feodosia
+Kerch
+Simferopol
+Yalta
+Yevpatoria
+Dniprodzerzhynsk
+Dnipropetrovsk
+Kryvyi Rih
+Nikopol
+Pavlohrad
+Bakhmut
+Donetsk
+Horlivka
+Kostiantynivka
+Kramatorsk
+Makiivka
+Mariupol
+Sloviansk
+Yenakiieve
+Ivano-Frankivsk
+Kharkiv
+Kherson
+Kamianets-Podilskyi
+Khmelnytskyi
+Kirovohrad
+Oleksandriia
+Bila Tserkva
+Brovary
+Alchevsk
+Krasnyi Luch
+Luhansk
+Lysychansk
+Sievierodonetsk
+Stakhanov
+Drohobych
+Lviv
+Mykolaiv
+Izmail
+Odessa
+Kremenchuk
+Poltava
+Rivne
+Konotop
+Shostka
+Sumy
+Ternopil
+Vinnytsia
+Lutsk
+Mukacheve
+Uzhhorod
+Berdiansk
+Melitopol
+Zaporizhia
+Berdychiv
+Zhytomyr
 Abu Dhabi
 Ajman
 Dubai
@@ -1161,6 +1863,14 @@ Vancouver
 Yakima
 Madison
 Milwaukee
+Baker Island
+Howland Island
+Jarvis Island
+Johnston Atoll
+Kingman Reef
+Midway Islands
+Navassa Island
+Palmyra Atoll
 Karakalpakstan
 Tashkent
 Malampa Province
@@ -1172,6 +1882,9 @@ Torba Province
 Luganville
 Port Vila
 Hanoi
+Alo
+Sigave
+Uvea
 Bulawayo
 Chitungwiza
 Gweru
