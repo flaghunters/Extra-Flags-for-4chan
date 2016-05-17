@@ -1136,7 +1136,6 @@ Hohenlohekreis
 Holzwickede
 Huckeswagen
 Hullhorst
-Ilmkreis
 Ilm-Kreis
 Inden
 Ingolstadt
@@ -1562,7 +1561,7 @@ Werne
 Werra-Meissner-Kreis
 Werther
 Westerwaldkreis
-Wetteraukreises
+Wetteraukreis
 Wetter
 Wiehl
 Wiesbaden
@@ -2567,7 +2566,7 @@ Horst aan de Maas
 Houten
 Huizen
 Hulst
-IJsseltstein
+IJsselstein
 Kaag en Braassem
 Kampen
 Kapelle
