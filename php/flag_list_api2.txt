@@ -98,6 +98,7 @@ Grafton
 Greater Sydney
 Kiama
 Lake Macquarie
+Lord Howe Island
 Maitland
 Wollongong
 Blacktown
@@ -586,11 +587,11 @@ Trois-Rivieres
 Regina
 Saskatoon
 Whitehorse
-Aisen Region
 Antofagasta Region
 Araucania Region
 Arica y Parinacota Region
 Atacama Region
+Aysen Region
 Bio Bio Region
 Coquimbo Region
 Los Lagos Region
@@ -1564,10 +1565,15 @@ Villarrica
 Encarnacion
 San Ignacio
 Pilar
+Bras-Panon
+La Possession
 Saint-Benoit
 Saint-Denis
+Sainte-Rose
 Saint-Paul
+Saint-Philippe
 Saint-Pierre
+Salazie
 Adygea
 Altai Krai
 Altai
