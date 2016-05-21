@@ -47,6 +47,13 @@ Mostaganem
 Oran
 Sidi Bel Abbes
 Swains Island
+Andorra la Vella
+Canillo
+Encamp
+Escaldes-Engordany
+La Massana
+Ordino
+Sant Julia de Loria
 Cabinda
 Adelie Land
 Australian Antarctic Territory
@@ -243,6 +250,28 @@ Belize City
 Belmopan
 Cotonou
 Hamilton
+Beni Department
+Chuquisaca Department
+Cochabamba Department
+La Paz Department
+Oruro Department
+Pando Department
+Potosi Department
+Santa Cruz Department
+Tarija Department
+Trinidad
+Sucre
+Cochabamba
+El Alto
+La Paz
+Oruro
+Potosi
+Tupiza
+San Ignacio de Velasco
+Santa Cruz
+Warnes
+Tarija
+Yacuiba
 Bonaire
 Saba
 Sint Eustatius
@@ -512,6 +541,7 @@ Aracaju
 Sao Cristovao
 Palmas
 Taguatinga (Tocantins)
+Diego Garcia.gif
 Phnom Penh
 Alberta
 British Columbia
@@ -686,6 +716,25 @@ Weihai
 Anjouan
 Grande Comore
 Moheli
+Alajuela Province
+Cartago Province
+Guanacaste Province
+Heredia Province
+Limon Province
+Puntarenas Province
+San Jose Province
+Alajuela
+San Carlos
+Cartago
+La Union
+Heredia
+Limon
+Pococi
+Puntarenas
+Desamparados
+Goicoechea
+Perez Zeledon
+San Jose
 Bjelovarsko-bilogorska
 Brodsko-posavska
 Dubrovacko-neretvanska
@@ -724,6 +773,22 @@ Trikomo
 Katanga
 Kinshasa
 Lualaba
+Hovedstaden
+Midtjylland
+Nordjylland
+Sjaelland
+Syddanmark
+Bornholm
+Copenhagen
+Frederikssund 
+Aarhus
+Grenaa
+Vendsyssel
+Aero
+Faaborg
+Haderslev
+Kolding
+Svendborg
 Djibouti
 Aileu District
 Ainaro District
@@ -877,6 +942,28 @@ Greater Accra Region
 Volta Region
 Western Region
 Kumasi
+Attica
+Central Greece
+Central Macedonia
+Crete
+Eastern Macedonia and Thrace
+Epirus
+Ionian Islands
+North Aegean
+South Aegean
+Thessaly
+Western Greece
+Western Macedonia
+Athens
+Thessaloniki
+Chania
+Heraklion
+Ioannina
+Kerkyra
+Zakynthos
+Larissa
+Volos
+Patras
 Kujalleq
 Qaasuitsup
 Qeqqata
@@ -1057,6 +1144,73 @@ Perugia
 Aosta
 Venezia
 Abidjan
+Aichi Prefecture
+Akita Prefecture
+Aomori Prefecture
+Chiba Prefecture
+Ehime Prefecture
+Fukui Prefecture
+Fukuoka Prefecture
+Fukushima Prefecture
+Gifu Prefecture
+Gunma Prefecture
+Hiroshima Prefecture
+Hokkaido
+Hyogo Prefecture
+Ibaraki Prefecture
+Ishikawa Prefecture
+Iwate Prefecture
+Kagawa Prefecture
+Kagoshima Prefecture
+Kanagawa Prefecture
+Kochi Prefecture
+Kumamoto Prefecture
+Kyoto Prefecture
+Mie Prefecture
+Miyagi Prefecture
+Miyazaki Prefecture
+Nagano Prefecture
+Nagasaki Prefecture
+Nara Prefecture
+Niigata Prefecture
+Oita Prefecture
+Okayama Prefecture
+Okinawa Prefecture
+Osaka Prefecture
+Saga Prefecture
+Saitama Prefecture
+Shiga Prefecture
+Shimane Prefecture
+Shizuoka Prefecture
+Tochigi Prefecture
+Tokushima Prefecture
+Tokyo
+Tottori Prefecture
+Toyama Prefecture
+Wakayama Prefecture
+Yamagata Prefecture
+Yamaguchi Prefecture
+Yamanashi Prefecture
+Nagoya
+Chiba
+Fukuoka
+Kitakyushu
+Hiroshima
+Sapporo
+Kobe
+Kawasaki
+Sagamihara
+Yokohama
+Kumamoto
+Kyoto
+Sendai
+Niigata
+Okayama
+Osaka
+Sakai
+Saitama
+Hamamatsu
+Shizuoka
 Amman
 Aksu
 Aktobe
@@ -1319,6 +1473,41 @@ Port Louis
 Quatre Bornes
 Rodrigues
 Vacoas-Phoenix
+Aguascalientes
+Baja California
+Baja California Sur
+Campeche
+Chiapas
+Chihuahua
+Ciudad de Mexico
+Coahuila
+Colima
+Durango
+Estado de Mexico
+Guanajuato
+Guerrero
+Hidalgo
+Jalisco
+Michoacan
+Morelos
+Nayarit
+Nuevo Leon
+Oaxaca
+Puebla
+Queretaro
+Quintana Roo
+San Luis Potosi
+Sinaloa
+Sonora
+Tabasco
+Tamaulipas
+Tlaxcala
+Veracruz
+Yucatan
+Zacatecas
+Guadalajara
+Chetumal
+Monaco
 Arkhangai Province
 Bayankhongor Province
 Bayan-Olgii Province
@@ -1512,6 +1701,328 @@ Zamfara State
 Hakupu
 Kaesong Industrial Region
 Sinuiju Special Administrative Region
+Akershus
+Aust-Agder
+Buskerud
+Finnmark
+Hedmark
+Hordaland
+More og Romsdal
+Nordland
+Nord-Trondelag
+Oppland
+Oslo
+Ostfold
+Rogaland
+Sogn og Fjordane
+Sor-Trondelag
+Telemark
+Troms
+Vest-Agder
+Vestfold
+Baerum
+Eidsvoll
+Enebakk
+Fet
+Frogn
+Gjerdrum
+Hurdal
+Lorenskog
+Nannestad
+Nesodden
+Nes
+Nittedal
+Skedsmo
+Ski
+Amli
+Arendal
+Birkenes
+Bygland
+Evje og Hornnes
+Froland
+Gjerstad
+Iveland
+Lillesand
+Tvedestrand
+Vegarshei
+Drammen
+Flesberg
+Hemsedal
+Hol
+Nedre Eiker
+Rollag
+Alta
+Batsfjord
+Berlevag
+Gamvik
+Hammerfest
+Hasvik
+Karasjok
+Kautokeino
+Kvalsund
+Lebesby
+Loppa
+Masoy
+Nesseby
+Nordkapp
+Porsanger
+Sor-Varanger
+Tana
+Vadso
+Alvdal
+Amot
+Asnes
+Eidskog
+Elverum
+Engerdal
+Folldal
+Grue
+Hamar
+Nord-Odal
+Os
+Rendalen
+Sor-Odal
+Stange
+Stor-Elvdal
+Tolga
+Trysil
+Valer
+Austevoll
+Austrheim
+Bergen
+Bomlo
+Eidfjord
+Etne
+Fedje
+Fjell
+Fusa
+Granvin
+Jondal
+Kvam
+Kvinnherad
+Lindas
+Masfjorden
+Meland
+Modalen
+Odda
+Osteroy
+Radoy
+Samnanger
+Stord
+Sund
+Sveio
+Tysnes
+Ullensvang
+Ulvik
+Vaksdal
+Voss
+Alesund
+Aukra
+Aure
+Averoy
+Fraena
+Halsa
+Haram
+Heroy
+Kristiansund
+Midsund
+Molde
+Nesset
+Norddal
+Orskog
+Rindal
+Sande
+Sandoy
+Skodje
+Smola
+Stordal
+Stranda
+Surnadal
+Ulstein
+Vanylven
+Volda
+Alstahaug
+Bindal
+Bodo
+Bo
+Bronnoy
+Evenes
+Fauske
+Flakstad
+Gildeskal
+Hadsel
+Hattfjelldal
+Hemnes
+Heroy
+Leirfjord
+Luroy
+Moskenes
+Narvik
+Nesna
+Oksnes
+Rana
+Rodoy
+Rost
+Saltdal
+Somna
+Sorfold
+Sortland
+Steigen
+Tjeldsund
+Traena
+Tysfjord
+Vaeroy
+Vagan
+Vega
+Vestvagoy
+Vevelstad
+Flatanger
+Fosnes
+Frosta
+Grong
+Hoylandet
+Leka
+Leksvik
+Meraker
+Naeroy
+Namdalseid
+Overhalla
+Snasa
+Steinkjer
+Stjordal
+Verran
+Vikna
+Dovre
+Etnedal
+Gausdal
+Gran
+Lesja
+Lillehammer
+Lom
+Lunner
+Nordre Land
+Ostre Toten
+Oystre Slidre
+Skjak
+Sor-Aurdal
+Sor-Fron
+Vang
+Vestre Slidre
+Vestre Toten
+Aremark
+Fredrikstad
+Halden
+Hvaler
+Moss
+Sarpsborg
+Spydeberg
+Trogstad
+Valer
+Bjerkreim
+Eigersund
+Forsand
+Ha
+Haugesund
+Kvitsoy
+Randaberg
+Sandnes
+Sauda
+Sokndal
+Sola
+Stavanger
+Vindafjord
+Askvoll
+Aurland
+Balestrand
+Bremanger
+Eid
+Fjaler
+Forde
+Gaular
+Gloppen
+Gulen
+Hornindal
+Hoyanger
+Hyllestad
+Laerdal
+Leikanger
+Luster
+Naustdal
+Selje
+Solund
+Stryn
+Vagsoy
+Vik
+Afjord
+Agdenes
+Bjugn
+Froya
+Hemne
+Hitra
+Holtalen
+Melhus
+Orkdal
+Osen
+Rissa
+Roan
+Selbu
+Skaun
+Snillfjord
+Trondheim
+Tydal
+Bamble
+Bo i Telemark
+Drangedal
+Fyresdal
+Hjartdal
+Kviteseid
+Nissedal
+Nome
+Sauherad
+Seljord
+Siljan
+Skien
+Tinn
+Tokke
+Vinje
+Balsfjord
+Berg
+Bjarkoy
+Dyroy
+Gaivuotna-Kafjord
+Gratangen
+Harstad
+Ibestad
+Kvaefjord
+Kvaenangen
+Lenvik
+Lyngen
+Salangen
+Skanland
+Skjervoy
+Storfjord
+Torsken
+Tranoy
+Tromso
+Aseral
+Audnedal
+Haegebostad
+Kristiansand
+Lindesnes
+Lyngdal
+Mandal
+Marnardal
+Andebu
+Hof
+Horten
+Lardal
+Larvik
+Notteroy
+Re
+Sandefjord
+Sande
+Tjome
+Tonsberg
 Muscat
 Azad Kashmir
 Balochistan
@@ -1539,6 +2050,25 @@ Peleliu
 Sonsorol
 Gaza
 West Bank
+Bocas del Toro Province
+Chiriqui Province
+Cocle Province
+Colon Province
+Darien Province
+Embera-Wounaan Comarca
+Guna Yala Comarca
+Herrera Province
+Los Santos Province
+Ngabe-Bugle Comarca
+Panama Province
+Veraguas Province
+West Panama Province
+David
+Colon
+Kuna de Wargandi Comarca
+Kuna de Madugandi Comarca
+Panama City
+La Chorrera
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -1691,11 +2221,19 @@ Yugra
 Zabaykalsky Krai
 Maykop
 Barnaul
+Belokurikha
+Yarovoye
 Belogorsk
 Blagoveshchensk
 Raychikhinsk
 Svobodny
+Tynda
+Arkhangelsk
+Kargopol
+Kotlas
+Mirny (Arkhangelsk Oblast)
 Novodvinsk
+Velsk
 Astrakhan
 Neftekamsk
 Sterlitamak
@@ -1705,6 +2243,7 @@ Shebekino
 Stary Oskol
 Bryansk
 Ulan-Ude
+Argun
 Grozny
 Chelyabinsk
 Karabash
@@ -1748,8 +2287,12 @@ Kaluga
 Lyudinovo
 Palana
 Petropavlovsk-Kamchatsky
+Vilyuchinsk
 Petrozavodsk
+Segezha
 Anzhero-Sudzhensk
+Belovo
+Guryevsk
 Kemerovo
 Leninsk-Kuznetsky
 Mezhdurechensk
@@ -1760,11 +2303,14 @@ Amursk
 Khabarovsk
 Komsomolsk-na-Amure
 Nikolayevsk-na-Amure
+Sovetskaya Gavan
 Abakan
+Chernogorsk
 Kirov
 Inta
 Sosnogorsk
 Syktyvkar
+Troitsko-Pechorsk
 Vorkuta
 Kostroma
 Armavir
@@ -1775,7 +2321,9 @@ Sochi
 Achinsk
 Bogotol
 Borodino
+Dikson
 Dudinka
+Igarka
 Kansk
 Kodinsk
 Krasnoyarsk
@@ -1784,13 +2332,18 @@ Norilsk
 Sharypovo
 Solnechny
 Tura
+Turukhansk
 Uyar
 Uzhur
 Yeniseysk
 Zelenogorsk
 Zheleznogorsk
+Dalmatovo
 Kurgan
+Kurtamysh
 Shadrinsk
+Shchuchye
+Shumikha
 Kursk
 Gatchina
 Kirishi
@@ -1856,15 +2409,31 @@ Yubileyny
 Zaraysk
 Zheleznodorozhny
 Zhukovsky
+Kandalaksha
+Monchegorsk
+Polyarny
+Severomorsk
+Snezhnogorsk
+Zapolyarny
 Naryan-Mar
 Kstovo
 Nizhny Novgorod
 Volodarsk
+Mozdok
 Staraya Russa
 Valday
 Veliky Novgorod
+Barabinsk
+Bolotnoye
 Iskitim
+Karasuk
+Kupino
+Kuybyshev
 Novosibirsk
+Ob
+Tatarsk
+Toguchin
+Isilkul
 Omsk
 Tara
 Buzuluk
@@ -1876,16 +2445,35 @@ Kuznetsk
 Penza
 Berezniki
 Cherdyn
+Chernushka
+Chusovoy
+Chyormoz
+Dobryanka
+Kizel
+Krasnokamsk
+Kudymkar
+Kungur
+Nytva
+Ochyor
+Okhansk
+Osa
 Perm
+Solikamsk
+Usolye
+Vereshchagino
+Zvyozdny
 Arsenyev
+Artyom
 Bolshoy Kamen
 Dalnerechensk
 Nakhodka
+Partizansk
 Vladivostok
 Pskov
 Velikiye Luki
 Azov
 Belaya Kalitva
+Donetsk
 Novocherkassk
 Rostov-na-Donu
 Taganrog
@@ -1901,10 +2489,15 @@ Udachny
 Vilyuysk
 Yakutsk
 Zyryanka
+Dolinsk
 Kholmsk
 Kurilsk
+Nevelsk
 Okha
 Severo-Kurilsk
+Shakhtyorsk
+Tomari
+Yuzhno-Sakhalinsk
 Samara
 Tolyatti
 Balashov
@@ -1917,19 +2510,36 @@ Budyonnovsk
 Georgiyevsk
 Pyatigorsk
 Stavropol
+Zelenokumsk
 Aramil
+Beryozovsky
 Bisert
 Degtyarsk
+Ivdel
+Kachkanar
 Kamensk-Uralsky
+Karpinsk
+Krasnoturyinsk
 Krasnoufimsk
+Krasnouralsk
+Lesnoy
 Mikhaylovsk
+Nevyansk
 Nizhniye Sergi
+Nizhnyaya Salda
+Nizhnyaya Tura
 Nizhny Tagil
+Novaya Lyalya
 Novouralsk
 Pervouralsk
 Polevskoy
 Rezh
 Serov
+Severouralsk
+Sredneuralsk
+Verkhnyaya Pyshma
+Verkhny Tagil
+Volchansk
 Yekaterinburg
 Kotovsk
 Tambov
@@ -1944,6 +2554,7 @@ Novomoskovsk
 Shchyokino
 Tula
 Uzlovaya
+Kyzyl
 Konakovo
 Rzhev
 Torzhok
@@ -1980,6 +2591,7 @@ Pavlovsk
 Rossosh
 Voronezh
 Nadym
+Novy Port
 Novy Urengoy
 Noyabrsk
 Salekhard
@@ -1988,14 +2600,33 @@ Rostov
 Rybinsk
 Yaroslavl
 Khanty-Mansiysk
+Langepas
+Lyantor
+Megion
+Nefteyugansk
 Nizhnevartovsk
+Sovetsky
 Surgut
+Borzya
 Chita
+Krasnokamensk
+Nerchinsk
+Shilka
+Sretensk
 Ascension Island
 Saint Helena
 Tristan da Cunha
 Nevis
 Bequia
+Acquaviva
+Borgo Maggiore
+Chiesanuova
+Domagnano
+Faetano
+Fiorentino
+Montegiardino
+San Marino
+Serravalle
 Principe
 Dakar
 Beograd
@@ -2073,6 +2704,22 @@ Pretoria
 Durban
 Cape Town
 Prince Edward Islands
+Busan
+Daegu
+Daejeon
+Gangwon Province
+Gwangju
+Gyeonggi Province
+Incheon
+Jeju Province
+North Chungcheong Province
+North Gyeongsang Province
+North Jeolla Province
+Seoul
+South Chungcheong Province
+South Gyeongsang Province
+South Jeolla Province
+Ulsan
 Andalusia
 Aragon
 Asturias
@@ -2104,6 +2751,15 @@ La Gomera
 Lanzarote
 La Palma
 Tenerife
+Central Province
+Eastern Province
+North Central Province
+Northern Province
+North Western Province
+Sabaragamuwa Province
+Southern Province
+Uva Province
+Western Province
 Darfur
 Khartoum
 Kurdufan
@@ -2112,6 +2768,59 @@ Nickerie District
 Longyearbyen
 Manzini
 Mbabane
+Angermanland
+Blekinge County
+Blekinge
+Bohuslan
+Dalarna County
+Dalarna
+Dalsland
+Gastrikland
+Gavleborg County
+Gotland County
+Gotland
+Halland County
+Halland
+Halsingland
+Harjedalen
+Jamtland County
+Jamtland
+Jonkoping County
+Kalmar County
+Kronoberg County
+Lappland
+Medelpad
+Narke
+Norrbotten County
+Norrbotten
+Oland
+Orebro County
+Ostergotland County
+Ostergotland
+Skane County
+Skane
+Smaland
+Sodermanland County
+Sodermanland
+Stockholm County
+Uppland
+Uppsala County
+Varmland County
+Varmland
+Vasterbotten County
+Vasterbotten
+Vastergotland
+Vasternorrland County
+Vastmanland County
+Vastmanland
+Vastra Gotaland County
+Kalmar
+Helsingborg
+Malmo
+Nykoping
+Stockholm
+Goteborg
+Mariestad
 Aargau
 Appenzell Ausserrhoden
 Appenzell Innerrhoden
@@ -2212,7 +2921,7 @@ Simferopol
 Yalta
 Yevpatoria
 Dniprodzerzhynsk
-Dnipropetrovsk
+Dnipro
 Kryvyi Rih
 Nikopol
 Pavlohrad
@@ -2528,6 +3237,7 @@ Soriano Department
 Tacuarembo Department
 Treinta y Tres Department
 Maldonado
+Montevideo
 Karakalpakstan
 Tashkent
 Malampa Province
