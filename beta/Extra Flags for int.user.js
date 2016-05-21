@@ -232,6 +232,7 @@ var setup = {
 /** Prompt to set region if regionVariable is empty  */
 regions = setup.load(regionVariable);
 if (!regions) {
+    regions = [];
     setTimeout(function () {
         if (window.confirm("Extra Flags: No region detected, set it up now?") === true) {
             setup.show();
