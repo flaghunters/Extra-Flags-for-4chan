@@ -305,7 +305,7 @@ function onFlagsLoad(response) {
                     '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
                     flegsBaseUrl + 'empty.png\';}})();"';
 
-                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + ">";
+                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + " title=" + postedRegions[i] + ">";
                 newFlag.className = "extraFlag";
                 newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
                 newFlag.target = '_blank';
