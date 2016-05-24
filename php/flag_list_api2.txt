@@ -47,6 +47,13 @@ Mostaganem
 Oran
 Sidi Bel Abbes
 Swains Island
+Andorra la Vella
+Canillo
+Encamp
+Escaldes-Engordany
+La Massana
+Ordino
+Sant Julia de Loria
 Cabinda
 Adelie Land
 Australian Antarctic Territory
@@ -81,12 +88,14 @@ La Plata
 Mar del Plata
 Cordoba
 Mendoza
+Rio Gallegos
 Rosario
 San Miguel de Tucuman
 Gyumri
 Vagharshapat
 Yerevan
 Australian Capital Territory
+Murray River
 New South Wales
 Northern Territory
 Queensland
@@ -94,12 +103,17 @@ South Australia
 Tasmania
 Victoria
 Western Australia
+Lower Murray River
+Upper Murray River
 Grafton
 Greater Sydney
 Kiama
 Lake Macquarie
 Lord Howe Island
 Maitland
+Newcastle
+Queanbeyan
+Wagga Wagga
 Wollongong
 Blacktown
 Botany Bay
@@ -239,10 +253,607 @@ Orsha
 Pastavy
 Polatsk
 Vitsebsk
+Brussels
+Vlaanderen
+Wallonie
+Anderlecht
+Auderghem
+Etterbeek
+Evere
+Ganshoren
+Jette
+Koekelberg
+Saint-Gilles-lez-Bruxelles
+Schaerbeek
+Sint-Agatha-Berchem
+Sint-Jans-Molenbeek
+Sint-Josse-ten-Noode
+Uccle
+Vorst
+Watermael-Boitsfort
+Woluwe-Saint-Lambert
+Woluwe-Saint-Pierre
+Antwerpen
+Limburg
+Oost-Vlaanderen
+Vlaams-Brabant
+West-Vlaanderen
+Aartselaar
+Antwerp (City)
+Arendonk
+Baarle-Hertog
+Balen
+Beerse
+Berlaar
+Boechout
+Bonheiden
+Boom
+Bornem
+Borsbeek
+Brasschaat
+Brecht
+Dessel
+Duffel
+Essen
+Geel
+Grobbendonk
+Heist-op-den-Berg
+Hemiksem
+Herentals
+Herenthout
+Herselt
+Hoogstraten
+Hove
+Hulshout
+Kalmthout
+Kapellen
+Kasterlee
+Kontich
+Laakdal
+Lier
+Lille
+Lint
+Malle
+Mechelen
+Meerhout
+Merksplas
+Mol
+Mortsel
+Niel
+Nijlen
+Olen
+Oud-Turnhout
+Putte
+Puurs
+Ranst
+Ravels
+Retie
+Rijkevorsel
+Rumst
+Schelle
+Schilde
+Schoten
+Sint-Amands
+Sint-Katelijne-Waver
+Stabroek
+Turnhout
+Vorselaar
+Vosselaar
+Westerlo
+Wijnegem
+Willebroek
+Wommelgem
+Wuustwezel
+Zandhoven
+Zoersel
+Alken
+As
+Beringen
+Bilzen
+Bocholt
+Borgloon
+Bree
+Diepenbeek
+Dilsen-Stokkem
+Genk
+Gingelom
+Halen
+Hamont-Achel
+Ham
+Hasselt
+Hechtel-Eksel
+Heers
+Herk-de-Stad
+Herstappe
+Heusden-Zolder
+Hoeselt
+Houthalen-Helchteren
+Kinrooi
+Kortessem
+Lanaken
+Leopoldsburg
+Lommel
+Lummen
+Maaseik
+Maasmechelen
+Meeuwen-Gruitrode
+Neerpelt
+Nieuwekerken
+Opglabbeek
+Overpelt
+Peer
+Riemst
+Sint-Truiden
+Tessenderlo
+Tongeren
+Voeren
+Wellen
+Zonhoven
+Zutendaal
+Aalst
+Aalter
+Assenede
+Berlare
+Beveren
+Brakel
+Buggenhout
+Deinze
+Denderleeuw
+Dendermonde
+De Pinte
+Destelbergen
+Eeklo
+Erpe-Mere
+Evergem
+Gavere
+Geraardsbergen
+Haaltert
+Hamme
+Herzele
+Horebeke
+Kaprijke
+Kluisbergen
+Knesselare
+Kruibeke
+Kruishoutem
+Laarne
+Lebbeke
+Lede
+Lierde
+Lochristi
+Lokeren
+Lovendegem
+Maarkedal
+Maldegem
+Melle
+Merelbeke
+Moerbeke
+Nazareth
+Nevele
+Ninove
+Oosterzele
+Oudenaarde
+Ronse
+Sint-Gillis-Waas
+Sint-Laureins
+Sint-Lievens-Houtem
+Sint-Martens-Latem
+Sint-Niklaas
+Stekene
+Temse
+Waarschoot
+Waasmunster
+Wachtebeke
+Wetteren
+Wichelen
+Wortegem-Petegem
+Zele
+Zelzate
+Zingem
+Zomergem
+Zottegem
+Zulte
+Zwalm
+Aarschot
+Affligem
+Asse
+Beersel
+Begijnendijk
+Bekkevoort
+Bertem
+Bever
+Bierbeek
+Boortmeerbeek
+Boutersem
+Diest
+Dilbeek
+Drogenbos
+Galmaarden
+Geetbets
+Gent
+Glabbeek
+Gooik
+Grimbergen
+Haacht
+Halle
+Herent
+Herne
+Hoegaarden
+Hoeilaart
+Holsbeek
+Huldenberg
+Kampenhout
+Kapelle-op-den-Bos
+Keerbergen
+Kortenaken
+Kortenberg
+Kraainem
+Landen
+Lennik
+Leuven
+Liederkerke
+Linkebeek
+Linter
+Londerzeel
+Lubbeek
+Machelen
+Meise
+Merchtem
+Opwijk
+Oud-Heverlee
+Overijse
+Pepingen
+Roosdaal
+Rotselaar
+Scherpenheuvel-Zichem
+Sint-Genesius-Rode
+Sint-Pieters-Leeuw
+Steenokkerzeel
+Ternat
+Tervuren
+Tielt-Winge
+Tienen
+Tremelo
+Vilvoorde
+Wemmel
+Wezembeek-Oppem
+Zaventem
+Zemst
+Zoutleeuw
+Alvelgem
+Alveringem
+Anzegem
+Ardooie
+Beernem
+Blankenberge
+Bredene
+Brugge
+Damme
+Deerlijk
+De Haan
+Dentergem
+De Panne
+Diksmuide
+Gistel
+Harelbeke
+Heuvelland
+Hooglede
+Houthulst
+Ichtegem
+Ieper
+Ingelmunster
+Izegem
+Jabbeke
+Knokke-Heist
+Koekelare
+Koksijde
+Kortemark
+Kortrijk
+Kuurne
+Langemark-Poelkapelle
+Ledegem
+Lendelede
+Lichtervelde
+Lo-Reninge
+Menen
+Mesen
+Meulebeke
+Middelkerke
+Moorslede
+Nieuwpoort
+Oostende
+Oostkamp
+Oostrozebeke
+Oudenburg
+Pittem
+Poperinge
+Roeselare
+Ruiselede
+Spiere-Helkijn
+Staden
+Tielt
+Torhout
+Veurne
+Vleteren
+Waregem
+Wervik
+Wevelgem
+Wielsbeke
+Wingene
+Zedelgem
+Zonnebeke
+Zuienkerke
+Brabant-Wallon
+Hainaut
+Liege
+Luxembourg
+Namur
+Beauvechain
+Braine-l'Alleud
+Braine-le-Château
+Chastre
+Chaumont-Gistoux
+Court-Saint-Étienne
+Elsene
+Genappe
+Grez-Doiceau
+Hélécine
+Incourt
+Ittre
+Jodoigne
+Lasne
+Mont-Saint-Guibert
+Nivelles
+Orp-Jauche
+Ottignies-Louvain-la-Neuve
+Perwez
+Ramillies
+Rebecq
+Rixensart
+Villers-la-Ville
+Walhain
+Waterloo
+Wavre
+Aiseau-Presles
+Anderlues
+Antoing
+Ath
+Beaumont
+Beloeil
+Bernissart
+Binche
+Boussu
+Braine-le-Comte
+Brugelette
+Brunehaut
+Celles
+Chapelle-lez-Herlaimont
+Charleroi
+Châtelet
+Chièvres
+Chimay
+Colfontaine
+Comines-Warneton
+Courcelles
+Dour
+Écaussinnes
+Ellezelles
+Enghien
+Erquelinnes
+Estaimpuis
+Estinnes
+Farciennes
+Fleurus
+Flobecq
+Fontaine-l'Évêque
+Frameries
+Frasnes-lez-Anvaing
+Froidchapelle
+Gerpinnes
+Ham-sur-Heure-Nalinnes
+Hensies
+Honnelles
+La Louvière
+Lens
+Le Roeulx
+Les Bons Villers
+Lessines
+Leuze-en-Hainaut
+Lobbes
+Manage
+Merbes-le-Château
+Momignies
+Mons
+Mont-de-l'Enclus
+Montigny-le-Tilleul
+Morlanwelz
+Mouscron
+Pecq
+Péruwelz
+Pont-à-Celles
+Quaregnon
+Quévy
+Quiévrain
+Rumes
+Saint-Ghislain
+Seneffe
+Silly
+Sivry-Rance
+Soignies
+Tournai
+Amay
+Amblève
+Ans
+Antene
+Aubel
+Awans
+Aywaille
+Baelen
+Bassenge
+Berloz
+Beyne-Heusay
+Blegny
+Braives
+Bullange
+Burdinne
+Burg-Reuland
+Butgenbach
+Chaudfontaine
+Clavier
+Comblain-au-Pont
+Crisnée
+Dalhem
+Dison
+Donceel
+Engis
+Esneux
+Eupen
+Faimes
+Ferrières
+Fexhe-le-Haut-Clocher
+Flémalle
+Fléron
+Grâce-Hollogne
+Hamoir
+Hannut
+Héron
+Herstal
+Herve
+Huy
+Juprelle
+La Calamine
+Liège
+Lierneux
+Limbourg
+Lincent
+Lontzen
+Malmedy
+Marchin
+Modave
+Nandrin
+Neupré
+Olne
+Oreye
+Oupeye
+Pepinster
+Plombières
+Raeren
+Remicourt
+Saint-Vith
+Seraing
+Soumagne
+Spa
+Stavelot
+Stoumont
+Verviers
+Villers-le-Bouillet
+Visé
+Waimes
+Wanze
+Waremme
+Wasseiges
+Welkenraedt
+Arlon
+Attert
+Aubange
+Bastogne
+Bertogne
+Bertrix
+Bouillon
+Chiny
+Daverdisse
+Durbuy
+Érezée
+Étalle
+Fauvillers
+Florenville
+Gouvy
+Habay
+Herbeumont
+Hotton
+Houffalize
+La Roche-en-Ardenne
+Léglise
+Libin
+Libramont-Chevigny
+Manhay
+Marche-en-Famenne
+Martelange
+Meix-devant-Virton
+Messancy
+Musson
+Nassogne
+Neufchâteu
+Paliseul
+Rendeux
+Rouvroy
+Sainte-Ode
+Saint-Hubert
+Saint-Léger
+Vaux-sur-Sûre
+Vielsalm
+Virton
+Wellin
+Andenne
+Anhée
+Assesse
+Beauraing
+Bièvre
+Ciney
+Couvin
+Dinant
+Éghezée
+Fernelmont
+Florennes
+Fosses-la-Ville
+Gedinne
+Gembloux
+Hamois
+Hastière
+Havelange
+Houyet
+Jemeppe-sur-Sambre
+La Bruyère
+Mettet
+Namur
+Ohey
+Onhaye
+Philippeville
+Profondeville
+Rochefort
+Sambreville
+Sombreffe
+Somme-Leuze
+Viroinval
+Vresse-sur-Semois
+Walcourt
+Yvoir
 Belize City
 Belmopan
 Cotonou
 Hamilton
+Beni Department
+Chuquisaca Department
+Cochabamba Department
+La Paz Department
+Oruro Department
+Pando Department
+Potosi Department
+Santa Cruz Department
+Tarija Department
+Trinidad
+Sucre
+Cochabamba
+El Alto
+La Paz
+Oruro
+Potosi
+Tupiza
+San Ignacio de Velasco
+Santa Cruz
+Warnes
+Tarija
+Yacuiba
 Bonaire
 Saba
 Sint Eustatius
@@ -260,6 +871,9 @@ Zapadnohercegovacki kanton
 Zenicko-dobojski kanton
 Francistown
 Gaborone
+Kgalagadi
+Kgatleng
+Southern
 Acre
 Alagoas
 Amapa
@@ -512,6 +1126,7 @@ Aracaju
 Sao Cristovao
 Palmas
 Taguatinga (Tocantins)
+Diego Garcia
 Phnom Penh
 Alberta
 British Columbia
@@ -683,9 +1298,89 @@ Shangrao
 Suzhou
 Tibet
 Weihai
+Amazonas Department
+Antioquia Department
+Arauca Department
+Atlantico Department
+Bogota
+Bolivar Department
+Boyaca Department
+Caldas Department
+Caqueta Department
+Casanare Department
+Cauca Department
+Cesar Department
+Choco Department
+Cordoba Department
+Cundinamarca Department
+Guainia Department
+Guaviare Department
+Huila Department
+La Guajira Department
+Magdalena Department
+Meta Department
+Narino Department
+Norte de Santander Department
+Putumayo Department
+Quindio Department
+Risaralda Department
+San Andres y Providencia Department
+Santander Department
+Sucre Department
+Tolima Department
+Valle del Cauca Department
+Vaupes Department
+Vichada Department
+Bello
+Itagui
+Medellin
+Barranquilla
+Soledad
+Cartagena
+Magangue
+Manizales
+Popayan
+Valledupar
+Monteria
+Soacha
+Neiva
+Santa Marta
+Villavicencio
+Pasto
+Cucuta
+Armenia
+Pereira
+Barrancabermeja
+Bucaramanga
+Floridablanca
+Sincelejo
+Ibague
+Buenaventura
+Cali
+Palmira
+Tulua
 Anjouan
 Grande Comore
 Moheli
+Alajuela Province
+Cartago Province
+Guanacaste Province
+Heredia Province
+Limon Province
+Puntarenas Province
+San Jose Province
+Alajuela
+San Carlos
+Cartago
+La Union
+Heredia
+Limon
+Pococi
+Puntarenas
+Desamparados
+Goicoechea
+Perez Zeledon
+San Jose
 Bjelovarsko-bilogorska
 Brodsko-posavska
 Dubrovacko-neretvanska
@@ -721,10 +1416,77 @@ Kyrenia
 Morphou
 North Nicosia
 Trikomo
+Central Bohemian Region
+Hradec Kralove Region
+Karlovy Vary Region
+Liberec Region
+Moravian-Silesian Region
+Olomouc Region
+Pardubice Region
+Plzen Region
+Prague
+South Bohemian Region
+South Moravian Region
+Usti nad Labem Region
+Vysocina Region
+Zlin Region
+Kladno
+Mlada Boleslav
+Hradec Kralove
+Liberec
+Frydek-Mistek
+Havirov
+Karvina
+Opava
+Ostrava
+Olomouc
+Prerov
+Pardubice
+Plzen
+Ceske Budejovice
+Brno
+Chomutov
+Decin
+Most
+Teplice
+Usti nad Labem
+Jihlava
+Zlin
 Katanga
 Kinshasa
 Lualaba
+Hovedstaden
+Midtjylland
+Nordjylland
+Sjaelland
+Syddanmark
+Bornholm
+Copenhagen
+Frederikssund 
+Aarhus
+Grenaa
+Vendsyssel
+Aero
+Faaborg
+Haderslev
+Kolding
+Svendborg
 Djibouti
+Azua de Compostela
+La Romana
+Nagua
+Ramon Santana
+San Cristobal
+San Francisco de Macoris
+San Jose de las Matas
+San Pedro de Macoris
+Santiago de los Caballeros
+Santo Domingo Este
+Santo Domingo
+Villa Gonzalez
+Villa Hermosa
+Villa Jaragua
+Hato del Yaque
 Aileu District
 Ainaro District
 Baucau District
@@ -738,6 +1500,53 @@ Manatuto District
 Manufahi District
 Oecusse District
 Viqueque District
+Azuay Province
+Bolivar Province
+Canar Province
+Carchi Province
+Chimborazo Province
+Cotopaxi Province
+El Oro Province
+Esmeraldas Province
+Galapagos Province
+Guayas Province
+Imbabura Province
+Loja Province
+Los Rios Province
+Manabi Province
+Morona Santiago Province
+Napo Province
+Orellana Province
+Pastaza Province
+Pichincha Province
+Santa Elena Province
+Santo Domingo de los Tsachilas Province
+Sucumbios Province
+Tungurahua Province
+Zamora-Chinchipe Province
+Cuenca
+Guaranda
+Tulcan
+Riobamba
+Latacunga
+Machala
+Esmeraldas
+Duran
+Guayaquil
+Milagro
+Ibarra
+Loja
+Babahoyo
+Quevedo
+Manta
+Portoviejo
+Macas
+Quito
+Salinas
+Santo Domingo
+Nueva Loja
+Ambato
+Banos de Agua Santa
 Alexandria Governorate
 Al Sharqia Governorate
 Aswan Governorate
@@ -777,6 +1586,27 @@ Arish
 Port Said
 Sohag
 Suez
+Ahuachapan Department
+Cabanas Department
+Chalatenango Department
+Cuscatlan Department
+La Libertad Department
+La Paz Department
+La Union Department
+Morazan Department
+San Miguel Department
+San Salvador Department
+Santa Ana Department
+San Vicente Department
+Sonsonate Department
+Usulutan Department
+Chalatenango
+Antiguo Cuscatlan
+Santa Tecla
+La Union
+San Miguel
+San Salvador
+Santa Ana
 Annobon
 Bioko Norte
 Bioko Sur
@@ -812,6 +1642,29 @@ Mwoakilloa
 Nett
 Sokehs
 Suva
+Alsace
+Aquitaine
+Auvergne
+Basse-Normandie
+Bourgogne
+Bretagne
+Centre-Val de Loire
+Champagne-Ardenne
+Corse
+Franche-Comte
+Haute-Normandie
+Ile-de-France
+Languedoc-Roussillon
+Limousin
+Lorraine
+Midi-Pyrenees
+Nord-Pas-de-Calais
+Normandie
+Pays de la Loire
+Picardie
+Poitou-Charentes
+Provence-Alpes-Cotes d Azur
+Rhone-Alpes
 Cayenne
 Austral Islands
 Gambier Islands
@@ -869,6 +1722,581 @@ Tskaltubo
 Zestafoni
 Zugdidi
 Batumi
+Baden-Wurttemberg
+Bayern
+Berlin
+Brandenburg
+Bremen
+Hamburg
+Hessen
+Mecklenburg-Vorpommern
+Niedersachsen
+Nordrhein-Westfalen
+Rheinland-Pfalz
+Saarland
+Sachsen-Anhalt
+Sachsen
+Schleswig-Holstein
+Thuringen
+Bezirk Freiburg
+Bezirk Karlsruhe
+Bezirk Stuttgart
+Bezirk Tubingen
+Freiburg im Breisgau
+Landkreis Breisgau-Hochschwarzwald
+Landkreis Emmendingen
+Landkreis Konstanz
+Landkreis Lorrach
+Landkreis Rottweil
+Landkreis Tuttlingen
+Landkreis Waldshut
+Ortenaukreis
+Schwarzwald-Baar-Kreis
+Baden-Baden
+Enzkreis
+Heidelberg
+Karlsruhe
+Landkreis Calw
+Landkreis Freudenstadt
+Landkreis Karlsruhe
+Landkreis Rastatt
+Mannheim
+Neckar-Odenwald-Kreis
+Pforzheim
+Rhein-Neckar-Kreis
+Heilbronn
+Hohenlohekreis
+Landkreis Boblingen
+Landkreis Esslingen
+Landkreis Goppingen
+Landkreis Heidenheim
+Landkreis Heilbronn
+Landkreis Ludwigsburg
+Landkreis Schwabisch Hall
+Main-Tauber-Kreis
+Ostalbkreis
+Rems-Murr-Kreis
+Stuttgart
+Alb-Donau-Kreis
+Bodenseekreis
+Landkreis Biberach
+Landkreis Ravensburg
+Landkreis Reutlingen
+Landkreis Sigmaringen
+Landkreis Tubingen
+Ulm
+Zollernalbkreis
+Bezirk Mittelfranken
+Bezirk Niederbayern
+Bezirk Oberbayern
+Bezirk Oberfranken
+Bezirk Oberpfalz
+Bezirk Schwaben
+Bezirk Unterfranken
+Ansbach
+Erlangen
+Furth
+Landkreis Ansbach
+Landkreis Erlangen-Hochstadt
+Landkreis Furth
+Landkreis Neustadt an der Aisch-Bad Windsheim
+Landkreis Nurnberger Land
+Landkreis Roth
+Landkreis Weissenburg-Gunzenhausen
+Nurnberg
+Schwabach
+Landkreis Deggendorf
+Landkreis Dingolfing-Landau
+Landkreis Freyung-Grafenau
+Landkreis Kelheim
+Landkreis Landshut
+Landkreis Passau
+Landkreis Regen
+Landkreis Rottal-Inn
+Landkreis Straubing-Bogen
+Landshut
+Passau
+Straubing
+Ingolstadt
+Landkreis Altotting
+Landkreis Bad Tolz-Wolfratshausen
+Landkreis Berchtesgadener Land
+Landkreis Dachau
+Landkreis Ebersberg
+Landkreis Eichstatt
+Landkreis Erding
+Landkreis Freising
+Landkreis Furstenfeldbruck
+Landkreis Garmisch-Partenkirchen
+Landkreis Landsberg am Lech
+Landkreis Miesbach
+Landkreis Muhldorf am Inn
+Landkreis Munchen
+Landkreis Neuburg-Schrobenhausen
+Landkreis Pfaffenhofen an der Ilm
+Landkreis Rosenheim
+Landkreis Starnberg
+Landkreis Traunstein
+Landkreis Weilheim-Schongau
+Munchen
+Rosenheim
+Bamberg
+Bayreuth
+Coburg
+Hof
+Landkreis Bamberg
+Landkreis Bayreuth
+Landkreis Coburg
+Landkreis Forchheim
+Landkreis Hof
+Landkreis Kronach
+Landkreis Kulmbach
+Landkreis Lichtenfels
+Landkreis Wunsiedel im Fichtelgebirge
+Amberg
+Landkreis Amberg-Sulzbach
+Landkreis Cham
+Landkreis Neumarkt in der Oberpfalz
+Landkreis Neustadt an der Waldnaab
+Landkreis Regensburg
+Landkreis Schwandorf
+Landkreis Tirschenreuth
+Regensburg
+Weiden in der Oberpfalz
+Augsburg
+Kaufbeuren
+Kempten
+Landkreis Aichach-Friedberg
+Landkreis Augsburg
+Landkreis Dillingen an der Donau
+Landkreis Donau-Ries
+Landkreis Gunzburg
+Landkreis Lindau
+Landkreis Neu-Ulm
+Landkreis Oberallgau
+Landkreis Ostallgau
+Landkreis Unterallgau
+Memmingen
+Aschaffenburg
+Landkreis Aschaffenburg
+Landkreis Bad Kissingen
+Landkreis Hassberge
+Landkreis Kitzingen
+Landkreis Main-Spessart
+Landkreis Miltenberg
+Landkreis Rhon-Grabfeld
+Landkreis Schweinfurt
+Landkreis Wurzburg
+Schweinfurt
+Wurzburg
+Brandenburg an der Havel
+Cottbus
+Frankfurt an der Oder
+Landkreis Barnim
+Landkreis Dahme-Spreewald
+Landkreis Elbe-Elster
+Landkreis Havelland
+Landkreis Markisch-Oderland
+Landkreis Oberhavel
+Landkreis Oberspreewald-Lausitz
+Landkreis Oder-Spree
+Landkreis Ostprignitz-Ruppin
+Landkreis Potsdam-Mittelmark
+Landkreis Prignitz
+Landkreis Spree-Neisse
+Landkreis Teltow-Flaming
+Landkreis Uckermark
+Potsdam
+Bremerhaven
+Bezirk Darmstadt
+Bezirk Giessen
+Bezirk Kassel
+Darmstadt
+Frankfurt am Main
+Hochtaunuskreis
+Landkreis Bergstrasse
+Landkreis Gross-Gerau
+Landkreis Offenbach
+Landkreisreis Darmstadt-Dieburg
+Main-Kinzig-Kreis
+Main-Taunus-Kreis
+Odenwaldkreis
+Offenbach am Main
+Rheingau-Taunus-Kreis
+Wetteraukreis
+Wiesbaden
+Lahn-Dill-Kreis
+Landkreis Giessen
+Landkreis Limburg-Weilburg
+Landkreis Marburg-Biedenkopf
+Vogelsbergkreis
+Kassel
+Landkreis Fulda
+Landkreis Hersfeld-Rotenburg
+Landkreis Kassel
+Landkreis Waldeck-Frankenberg
+Schwalm-Eder-Kreis
+Werra-Meissner-Kreis
+Landkreis Ludwigslust-Parchim
+Landkreis Mecklenburgische Seenplatte
+Landkreis Nordwestmecklenburg
+Landkreis Rostock
+Landkreis Vorpommern-Greifswald
+Landkreis Vorpommern-Rugen
+Rostock
+Schwerin
+Braunschweig
+Delmenhorst
+Emden
+Heidekreis
+Landkreis Ammerland
+Landkreis Aurich
+Landkreis Celle
+Landkreis Cloppenburg
+Landkreis Cuxhaven
+Landkreis Diepholz
+Landkreis Emsland
+Landkreis Friesland
+Landkreis Gifhorn
+Landkreis Goslar
+Landkreis Gottingen
+Landkreis Grafschaft Bentheim
+Landkreis Hameln-Pyrmont
+Landkreis Harburg
+Landkreis Helmstedt
+Landkreis Hildesheim
+Landkreis Holzminden
+Landkreis Leer
+Landkreis Luchow-Dannenberg
+Landkreis Luneburg
+Landkreis Nienburg-Weser
+Landkreis Northeim
+Landkreis Oldenburg
+Landkreis Osnabruck
+Landkreis Osterholz
+Landkreis Osterode am Harz
+Landkreis Peine
+Landkreis Rotenburg
+Landkreis Schaumburg
+Landkreis Stade
+Landkreis Uelzen
+Landkreis Vechta
+Landkreis Verden
+Landkreis Wesermarsch
+Landkreis Wittmund
+Landkreis Wolfenbuttel
+Oldenburg
+Osnabruck
+Region Hannover
+Salzgitter
+Wilhelmshaven
+Wolfsburg
+Bezirk Arnsberg
+Bezirk Detmold
+Bezirk Dusseldorf
+Bezirk Koln
+Bezirk Munster
+Bochum
+Dortmund
+Ennepe-Ruhr-Kreis
+Hagen
+Hamm
+Herne
+Hochsauerlandkreis
+Kreis Olpe
+Kreis Siegen-Wittgenstein
+Kreis Soest
+Kreis Unna
+Markischer Kreis
+Breckerfeld
+Ennepetal
+Gevelsberg
+Hattingen
+Herdecke
+Schwelm
+Sprockhovel
+Wetter
+Witten
+Finnentrop
+Kirchhundem
+Bad Laasphe
+Kreuztal
+Siegen
+Ruthen
+Soest
+Welver
+Bergkamen
+Bonen
+Frondenberg
+Holzwickede
+Kamen
+Lunen
+Schwerte
+Selm
+Unna
+Werne
+Altena
+Balve
+Halver
+Iserlohn
+Ludenscheid
+Menden
+Nachrodt-Wiblingwerde
+Neuenrade
+Plettenberg
+Schalksmuhle
+Werdohl
+Bielefeld
+Kreis Gutersloh
+Kreis Herford
+Kreis Hoxter
+Kreis Lippe
+Kreis Minden-Lubbecke
+Kreis Paderborn
+Borgholzhausen
+Gutersloh
+Halle
+Harsewinkel
+Herzebrock-Clarholz
+Langenberg
+Rheda-Wiedenbruck
+Rietberg
+Schloss Holte-Stukenbrock
+Steinhagen
+Verl
+Versmold
+Werther
+Bunde
+Enger
+Herford
+Hiddenhausen
+Kirchlengern
+Lohne
+Rodinghausen
+Spenge
+Vlotho
+Brakel
+Nieheim
+Bad Oeynhausen
+Hille
+Hullhorst
+Lubbecke
+Minden
+Petershagen
+Porta Westfalica
+Preussisch Oldendorf
+Rahden
+Stemwede
+Delbruck
+Paderborn
+Salzkotten
+Duisburg
+Dusseldorf
+Essen
+Krefeld
+Kreis Kleve
+Kreis Mettmann
+Kreis Viersen
+Kreis Wesel
+Monchengladbach
+Mulheim an der Ruhr
+Oberhausen
+Remscheid
+Rhein-Kreis Neuss
+Solingen
+Wuppertal
+Emmerich
+Kalkar
+Kerken
+Kevelaer
+Kleve
+Rees
+Straelen
+Uedem
+Wachtendonk
+Weeze
+Erkrath
+Haan
+Heiligenhaus
+Hilden
+Langenfeld
+Mettmann
+Monheim
+Ratingen
+Velbert
+Wulfrath
+Tonisvorst
+Viersen
+Willich
+Dinslaken
+Dormagen
+Grevenbroich
+Juchen
+Korschenbroich
+Meerbusch
+Neuss
+Rommerskirchen
+Aachen
+Bonn
+Koln
+Kreis Aachen
+Kreis Duren
+Kreis Euskirchen
+Kreis Heinsberg
+Leverkusen
+Oberbergischer Kreis
+Rhein-Erft-Kreis
+Rheinisch-Bergischer Kreis
+Rhein-Sieg-Kreis
+Duren
+Heimbach
+Inden
+Kreuzau
+Linnich
+Niederzier
+Bad Munstereifel
+Euskirchen
+Hellenthal
+Kall
+Nettersheim
+Zulpich
+Erkelenz
+Ubach-Palenberg
+Waldfeucht
+Wassenberg
+Wegberg
+Bergneustadt
+Engelskirchen
+Gummersbach
+Huckeswagen
+Lindlar
+Morsbach
+Numbrecht
+Radevormwald
+Waldbrol
+Wiehl
+Wipperfurth
+Bottrop
+Gelsenkirchen
+Kreis Borken
+Kreis Coesfeld
+Kreis Recklinghausen
+Kreis Steinfurt
+Kreis Warendorf
+Munster
+Castrop-Rauxel
+Datteln
+Gladbeck
+Haltern am See
+Recklinghausen
+Waltrop
+Donnersbergkreis
+Eifelkreis Bitburg-Pruem
+Frankenthal
+Kaiserslautern
+Koblenz
+Landau
+Landkreis Ahrweiler
+Landkreis Altenkirchen
+Landkreis Alzey-Worms
+Landkreis Bad Durkheim
+Landkreis Bad Kreuznach
+Landkreis Bernkastel-Wittlich
+Landkreis Birkenfeld
+Landkreis Cochem-Zell
+Landkreis Germersheim
+Landkreis Kaiserslautern
+Landkreis Kusel
+Landkreis Mainz-Bingen
+Landkreis Mayen-Koblenz
+Landkreis Neuwied
+Landkreis Sudliche Weinstrasse
+Landkreis Sudwestpfalz
+Landkreis Trier-Saarburg
+Landkreis Vulkaneifel
+Ludwigshafen am Rhein
+Mainz
+Neustadt an der Weinstrasse
+Pirmasens
+Rhein-Hunsruck-Kreis
+Rhein-Lahn-Kreis
+Rhein-Pfalz-Kreis
+Speyer
+Trier
+Westerwaldkreis
+Worms
+Zweibrucken
+Landkreis Merzig-Wadern
+Landkreis Neunkirchen
+Landkreis Saarlouis
+Landkreis St. Wendel
+Regionalverband Saarbrucken
+Saarpfalz-Kreis
+Chemnitz
+Dresden
+Erzgebirgskreis
+Landkreis Bautzen
+Landkreis Gorlitz
+Landkreis Leipzig
+Landkreis Meissen
+Landkreis Mittelsachsen
+Landkreis Nordsachsen
+Landkreis Sachsische Schweiz-Osterzgebirge
+Landkreis Zwickau
+Leipzig
+Vogtlandkreis
+Altmarkkreis Salzwedel
+Burgenlandkreis
+Dessau-Rosslau
+Halle an der Saale
+Landkreis Anhalt-Bitterfeld
+Landkreis Borde
+Landkreis Harz
+Landkreis Jerichower Land
+Landkreis Mansfeld-Sudharz
+Landkreis Stendal
+Landkreis Wittenberg
+Magdeburg
+Saalekreis
+Salzlandkreis
+Flensburg
+Kiel
+Kreis Dithmarschen
+Kreis Herzogtum Lauenburg
+Kreis Nordfriesland
+Kreis Ostholstein
+Kreis Pinneberg
+Kreis Plon
+Kreis Rendsburg-Eckernforde
+Kreis Schleswig-Flensburg
+Kreis Segeberg
+Kreis Steinburg
+Kreis Stormarn
+Lubeck
+Neumunster
+Eisenach
+Erfurt
+Gera
+Ilm-Kreis
+Jena
+Kyffhauserkreis
+Landkreis Altenburger Land
+Landkreis Eichsfeld
+Landkreis Gotha
+Landkreis Greiz
+Landkreis Hildburghausen
+Landkreis Nordhausen
+Landkreis Saalfeld-Rudolstadt
+Landkreis Schmalkalden-Meiningen
+Landkreis Sommerda
+Landkreis Sonneberg
+Landkreis Weimarer Land
+Saale-Holzland-Kreis
+Saale-Orla-Kreis
+Suhl
+Unstrut-Hainich-Kreis
+Wartburgkreis
+Weimar
 Ashanti Region
 Brong-Ahafo Region
 Central Region
@@ -877,6 +2305,28 @@ Greater Accra Region
 Volta Region
 Western Region
 Kumasi
+Attica
+Central Greece
+Central Macedonia
+Crete
+Eastern Macedonia and Thrace
+Epirus
+Ionian Islands
+North Aegean
+South Aegean
+Thessaly
+Western Greece
+Western Macedonia
+Athens
+Thessaloniki
+Chania
+Heraklion
+Ioannina
+Kerkyra
+Zakynthos
+Larissa
+Volos
+Patras
 Kujalleq
 Qaasuitsup
 Qeqqata
@@ -899,6 +2349,85 @@ Ivittuut
 Nuuk
 Paamiut
 Tasiilaq
+Agana Heights
+Agat
+Asan-Maina
+Barrigada
+Chalan-Pago-Ordot
+Dededo
+Hagatna
+Inarajan
+Mangilao
+Merizo
+Mongmong-Toto-Maite
+Piti
+Santa Rita
+Sinajana
+Talofofo
+Tamuning
+Umatac
+Yigo
+Yona
+Alta Verapaz Department
+Baja Verapaz Department
+Chimaltenango Department
+Chiquimula Department
+El Progreso Department
+Escuintla Department
+Guatemala Department
+Huehuetenango Department
+Izabal Department
+Jalapa Department
+Jutiapa Department
+Peten Department
+Quetzaltenango Department
+Quiche Department
+Retalhuleu Department
+Sacatepequez Department
+San Marcos Department
+Santa Rosa Department
+Solola Department
+Suchitepequez Department
+Totonicapan Department
+Zacapa Department
+Chimaltenango
+Amatitlan
+Guatemala City
+Puerto Barrios
+Quetzaltenango
+Colon Department
+Comayagua Department
+Cortes Department
+Francisco Morazan Department
+Tegucigalpa
+Bacs-Kiskun County
+Baranya County
+Bekes County
+Borsod-Abauj-Zemplen County
+Budapest
+Csongrad County
+Fejer County
+Gyor-Moson-Sopron County
+Hajdu-Bihar County
+Heves County
+Jasz-Nagykun-Szolnok County
+Komarom-Esztergom County
+Nograd County
+Pest County
+Somogy County
+Szabolcs-Szatmar-Bereg County
+Tolna County
+Vas County
+Veszprem County
+Zala County
+Kecskemet
+Pecs
+Miskolc
+Szeged
+Szekesfehervar
+Gyor
+Debrecen
+Nyiregyhaza
 Akranes
 Akureyri
 Arborg
@@ -931,6 +2460,41 @@ Stykkisholmur
 Vestmannaeyjar
 Vogar
 Vopnafjordur
+Andaman and Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Chandigarh
+Chhattisgarh
+Dadra and Nagar Haveli
+Daman and Diu
+Delhi
+Goa
+Gujarat
+Himachal Pradesh
+Hryana
+Jammu and Kashmir
+Jharkhand
+Karnataka
+Kerala
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Pudcherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telengana
+Tripura
+Uttarakhand
+Uttar Pradesh
+West Bengal
 Aceh
 Bali
 Bangka-Belitung Islands
@@ -1057,6 +2621,73 @@ Perugia
 Aosta
 Venezia
 Abidjan
+Aichi Prefecture
+Akita Prefecture
+Aomori Prefecture
+Chiba Prefecture
+Ehime Prefecture
+Fukui Prefecture
+Fukuoka Prefecture
+Fukushima Prefecture
+Gifu Prefecture
+Gunma Prefecture
+Hiroshima Prefecture
+Hokkaido
+Hyogo Prefecture
+Ibaraki Prefecture
+Ishikawa Prefecture
+Iwate Prefecture
+Kagawa Prefecture
+Kagoshima Prefecture
+Kanagawa Prefecture
+Kochi Prefecture
+Kumamoto Prefecture
+Kyoto Prefecture
+Mie Prefecture
+Miyagi Prefecture
+Miyazaki Prefecture
+Nagano Prefecture
+Nagasaki Prefecture
+Nara Prefecture
+Niigata Prefecture
+Oita Prefecture
+Okayama Prefecture
+Okinawa Prefecture
+Osaka Prefecture
+Saga Prefecture
+Saitama Prefecture
+Shiga Prefecture
+Shimane Prefecture
+Shizuoka Prefecture
+Tochigi Prefecture
+Tokushima Prefecture
+Tokyo
+Tottori Prefecture
+Toyama Prefecture
+Wakayama Prefecture
+Yamagata Prefecture
+Yamaguchi Prefecture
+Yamanashi Prefecture
+Nagoya
+Chiba
+Fukuoka
+Kitakyushu
+Hiroshima
+Sapporo
+Kobe
+Kawasaki
+Sagamihara
+Yokohama
+Kumamoto
+Kyoto
+Sendai
+Niigata
+Okayama
+Osaka
+Sakai
+Saitama
+Hamamatsu
+Shizuoka
 Amman
 Aksu
 Aktobe
@@ -1174,6 +2805,36 @@ Mondorf-les-Bains
 Schengen
 Vianden
 Wellenstein
+Berovo
+Bitola
+Bogdanci
+Delcevo
+Demir Hisar
+Demir Kapija
+Gevgelija
+Gostivar
+Kavadarci
+Kocani
+Kratovo
+Kriva Palanka
+Krusevo
+Kumanovo
+Makedonska Kamenica
+Makedonski Brod
+Negotino
+Ohrid
+Pehcevo
+Prilep
+Radovis
+Resen
+Skopje
+Stip
+Struga
+Strumica
+Tetovo
+Valandovo
+Veles
+Vinica
 Antananarivo
 Johor
 Kedah
@@ -1289,6 +2950,75 @@ Port Louis
 Quatre Bornes
 Rodrigues
 Vacoas-Phoenix
+Aguascalientes
+Baja California
+Baja California Sur
+Campeche
+Chiapas
+Chihuahua
+Ciudad de Mexico
+Coahuila
+Colima
+Durango
+Estado de Mexico
+Guanajuato
+Guerrero
+Hidalgo
+Jalisco
+Michoacan
+Morelos
+Nayarit
+Nuevo Leon
+Oaxaca
+Puebla
+Queretaro
+Quintana Roo
+San Luis Potosi
+Sinaloa
+Sonora
+Tabasco
+Tamaulipas
+Tlaxcala
+Veracruz
+Yucatan
+Zacatecas
+Guadalajara
+Chetumal
+Anenii Noi District
+Balti
+Basarabeasca District
+Bender
+Cahul District
+Calarasi District
+Causeni District
+Chisinau
+Cimislia District
+Criuleni District
+Donduseni District
+Drochia District
+Dubasari District
+Edinet District
+Falesti District
+Gagauzia
+Hincesti District
+Ialoveni District
+Leova District
+Nisporeni District
+Ocnita District
+Orhei District
+Rezina District
+Riscani District
+Singerei District
+Soldanesti District
+Soroca District
+Stefan Voda District
+Straseni District
+Telenesti District
+Transnistria
+Ungheni District
+Comrat
+Tiraspol
+Monaco
 Arkhangai Province
 Bayankhongor Province
 Bayan-Olgii Province
@@ -1425,6 +3155,409 @@ Windhoek
 Kathmandu
 Mustang
 Sherpa Nation
+Drenthe
+Flevoland
+Friesland
+Gelderland
+Groningen
+Limburg
+Noord-Brabant
+Noord-Holland
+Overijssel
+Utrecht
+Zeeland
+Zuid-Holland
+Aa en Hunze
+Assen
+Borger-Odoorn
+Coevorden
+De Wolden
+Emmen
+Hoogeveen
+Meppel
+Midden-Drenthe
+Noordenveld
+Tynaarlo
+Westerveld
+Almere
+Dronten
+Lelystad
+Noordoostpolder
+Urk
+Zeewolde
+Achtkarspelen
+Ameland
+Dantumadeel
+De Friese Meren
+Dongeradeel
+Ferwerderadiel
+Franekeradeel
+Gorredijk
+Harlingen
+Heerenveen
+Het Bildt
+Kollumerland en Nieuwkruisland
+Leeuwarden
+Leeuwarderdeel
+Littenseradeel
+Menaldumdeel
+Oldeberkoop
+Ooststellingwerf
+Opsterland
+Schiermonnikoog
+Smallingerland
+Stavoren
+Súdwest Fryslân
+Terschelling
+Tytsjerksteradiel
+Vlieland
+Weststellingwerf
+Aalten
+Apeldoorn
+Arnhem
+Barneveld
+Berg en Dal
+Berkelland
+Beuningen
+Bronckhorst
+Brummen
+Buren
+Culemborg
+Doesburg
+Doetinchem
+Druten
+Duiven
+Ede
+Elburg
+Epe
+Ermelo
+Geldermalsen
+Harderwijk
+Hattem
+Heerde
+Heumen
+Lingewaal
+Lingewaard
+Lochem
+Maasdriel
+Montferland
+Neder-Betuwe
+Neerijnen
+Nijkerk
+Nijmegen
+Nunspeet
+Oldebroek
+Oost Gelre
+Oude IJsselstreek
+Overbetuwe
+Putten
+Renkum
+Rheden
+Rijnwaarden
+Rozendaal
+Scherpenzeel
+Tiel
+Voorst
+Wageningen
+Westervoort
+West Maas en Waal
+Wijchen
+Winterswijk
+Zaltbommel
+Zevenaar
+Zutphen
+Appingedam
+Bedum
+Bellingwedde
+Delfzijl
+De Marne
+Eemsmond
+Groningen (stad)
+Grootegast
+Haren
+Hoogezand-Sappemeer
+Leek
+Loppersum
+Marum
+Menterwolde
+Oldambt
+Pekela
+Slochteren
+Stadskanaal
+Ten Boer
+Veendam
+Vlagtwedde
+Winsum
+Zuidhorn
+Beek
+Beesel
+Bergen (Limburg)
+Brunssum
+Echt-Susteren
+Eijsden-Margraten
+Gennep
+Gulpen-Wittem
+Heerlen
+Horst aan de Maas
+Kerkrade
+Landgraaf
+Leudal
+Maasgouw
+Maastricht
+Meerssen
+Mook en Middelaar
+Nederweert
+Nuth
+Onderbanken
+Peel en Maas
+Roerdalen
+Roermond
+Schinnen
+Simpelveld
+Sittard-Geelen
+Stein
+Vaals
+Valkenburg aan de Geul
+Venlo
+Venray
+Voerendaal
+Weert
+Aalburg
+Alphen-Chaam
+Asten
+Baarle-Nassau
+Bergeijk
+Bergen Op Zoom
+Bernheze
+Best
+Bladel
+Boekel
+Boxmeer
+Boxtel
+Breda
+Cranendonck
+Cuijk
+Den Bosch
+Deurne
+Dongen
+Drimmelen
+Eersel
+Eindhoven
+Etten-Leur
+Geertruidenberg
+Geldrop-Mierlo
+Gemert-Bakel
+Gilze en Rijen
+Goirle
+Grave
+Haaren
+Halderberge
+Heeze-Leende
+Helmond
+Heusden
+Hilvarenbeek
+Laarbeek
+Landerd
+Loon Op Zand
+Mill en Sint Hubert
+Moerdijk
+Nuenen, Gerwen en Nederwetten
+Oirschot
+Oisterwijk
+Oosterhout
+Oss
+Reusel-De Mierden
+Roosendaal
+Rucphen
+Schijndel
+Sint-Anthonis
+Sint-Michielsgestel
+Sint-Oedenrode
+Someren
+Son en Breugel
+Steenbergen
+Tilburg
+Uden
+Valkenswaard
+Veghel
+Veldhoven
+Vught
+Waalre
+Waalwijk
+Werkendam
+Woensdrecht
+Woudrichem
+Zundert
+Aalsmeer
+Alkmaar
+Amstelveen
+Amsterdam
+Beemster
+Bergen (Noord-Holland)
+Beverwijk
+Blaricum
+Bloemendaal
+Castricum
+Den Helder
+Diemen
+Drechterland
+Edam-Volendam
+Enkhuizen
+Haarlemmerliede en Spaarnwoude
+Haarlemmermeer
+Haarlem
+Heemskerk
+Heemstede
+Heerhugowaard
+Heiloo
+Hilversum
+Hollands Kroon
+Hoorn
+Huizen
+Koggenland
+Landsmeer
+Langedijk
+Laren
+Medemblik
+Oostzaan
+Opmeer
+Ouder-Amstel
+Placeholder Gooise Meren
+Purmerend
+Schagen
+Stede Broec
+Texel
+Uitgeest
+Uithoorn
+Velsen
+Volendam
+Waterland
+Weesp
+Wijdemeren
+Wormerland
+Zaandam
+Zandvoort
+Almelo
+Borne
+Dalfsen
+Deventer
+Dinkelland
+Enschede
+Haaksbergen
+Hardenberg
+Hellendoorn
+Hengelo
+Hof van Twente
+Kampen
+Losser
+Oldenzaal
+Olst-Wijhe
+Ommen
+Raalte
+Staphorst
+Steenwijkerland
+Tubbergen
+Twenterand
+Wierden
+Zwartewaterland
+Zwolle
+Amersfoort
+Baarn
+Bunnik
+Bunschoten
+De Bilt
+De Ronde Venen
+Eemnes
+Houten
+IJsselstein
+Leusden
+Lopik
+Montfoort
+Oudewater
+Renswoude
+Rhenen
+Soest
+Stichtse Vecht
+Utrechtse Heuvelrug
+Utrecht (stad)
+Veenendaal
+Vianen
+Wijk bij Duurstede
+Woerden
+Woudenberg
+Zeist
+Borsele
+Goes
+Hulst
+Kapelle
+Middelburg
+Noord-Beveland
+Reimerswaal
+Schouwen-Duiveland
+Sluis
+Terneuzen
+Tholen
+Veere
+Vlissingen
+Alblasserdam
+Albrandswaard
+Alphen aan de Rijn
+Barendrecht
+Binnenmaas
+Bodegraven-Reeuwijk
+Brielle
+Capelle aan den IJssel
+Cromstrijen
+Delft
+Den Haag
+Dordrecht
+Giessenlanden
+Goeree-Overflakkee
+Gorinchem
+Gouda
+Hardinxveld-Giessendam
+Hellevoetsluis
+Hendrik Ido Ambacht
+Hillegom
+Kaag en Braassem
+Katwijk
+Korendijk
+Krimpen aan den IJssel
+Krimpenerwaard
+Lansingerland
+Leerdam
+Leiden
+Leiderdorp
+Leidschendam-Voorburg
+Lisse
+Maassluis
+Midden-Delfland
+Molenwaard
+Nieuwkoop
+Noordwijkerhout
+Noordwijk
+Oegstgeest
+Oud-Beijerland
+Papendrecht
+Pijnacker-Nootdorp
+Ridderkerk
+Rijswijk
+Rotterdam
+Schiedam
+Sliedrecht
+Strijen
+Teylingen
+Vlaardingen
+Voorschoten
+Waddinxveen
+Wassenaar
+Westland
+Westvoorne
+Zederik
+Zoetermeer
+Zoeterwoude
+Zuidplas
+Zwijndrecht
 Loyalty Islands
 North
 South
@@ -1449,6 +3582,28 @@ Wellington
 Dunedin
 Lawrence
 Stewart Island
+Boaco Department
+Chinandega Department
+Esteli Department
+Granada Department
+Jinotega Department
+Leon Department
+Madriz Department
+Managua Department
+Masaya Department
+Matagalpa Department
+North Caribbean Coast Autonomous Region
+South Caribbean Coast Autonomous Region
+Boaco
+Chinandega
+Esteli
+Granada
+Jinotega
+Leon
+Somoto
+Managua
+Masaya
+Matagalpa
 Abia State
 Abuja
 Adamawa State
@@ -1482,6 +3637,328 @@ Zamfara State
 Hakupu
 Kaesong Industrial Region
 Sinuiju Special Administrative Region
+Akershus
+Aust-Agder
+Buskerud
+Finnmark
+Hedmark
+Hordaland
+More og Romsdal
+Nordland
+Nord-Trondelag
+Oppland
+Oslo
+Ostfold
+Rogaland
+Sogn og Fjordane
+Sor-Trondelag
+Telemark
+Troms
+Vest-Agder
+Vestfold
+Baerum
+Eidsvoll
+Enebakk
+Fet
+Frogn
+Gjerdrum
+Hurdal
+Lorenskog
+Nannestad
+Nesodden
+Nes
+Nittedal
+Skedsmo
+Ski
+Amli
+Arendal
+Birkenes
+Bygland
+Evje og Hornnes
+Froland
+Gjerstad
+Iveland
+Lillesand
+Tvedestrand
+Vegarshei
+Drammen
+Flesberg
+Hemsedal
+Hol
+Nedre Eiker
+Rollag
+Alta
+Batsfjord
+Berlevag
+Gamvik
+Hammerfest
+Hasvik
+Karasjok
+Kautokeino
+Kvalsund
+Lebesby
+Loppa
+Masoy
+Nesseby
+Nordkapp
+Porsanger
+Sor-Varanger
+Tana
+Vadso
+Alvdal
+Amot
+Asnes
+Eidskog
+Elverum
+Engerdal
+Folldal
+Grue
+Hamar
+Nord-Odal
+Os
+Rendalen
+Sor-Odal
+Stange
+Stor-Elvdal
+Tolga
+Trysil
+Valer
+Austevoll
+Austrheim
+Bergen
+Bomlo
+Eidfjord
+Etne
+Fedje
+Fjell
+Fusa
+Granvin
+Jondal
+Kvam
+Kvinnherad
+Lindas
+Masfjorden
+Meland
+Modalen
+Odda
+Osteroy
+Radoy
+Samnanger
+Stord
+Sund
+Sveio
+Tysnes
+Ullensvang
+Ulvik
+Vaksdal
+Voss
+Alesund
+Aukra
+Aure
+Averoy
+Fraena
+Halsa
+Haram
+Heroy
+Kristiansund
+Midsund
+Molde
+Nesset
+Norddal
+Orskog
+Rindal
+Sande
+Sandoy
+Skodje
+Smola
+Stordal
+Stranda
+Surnadal
+Ulstein
+Vanylven
+Volda
+Alstahaug
+Bindal
+Bodo
+Bo
+Bronnoy
+Evenes
+Fauske
+Flakstad
+Gildeskal
+Hadsel
+Hattfjelldal
+Hemnes
+Heroy
+Leirfjord
+Luroy
+Moskenes
+Narvik
+Nesna
+Oksnes
+Rana
+Rodoy
+Rost
+Saltdal
+Somna
+Sorfold
+Sortland
+Steigen
+Tjeldsund
+Traena
+Tysfjord
+Vaeroy
+Vagan
+Vega
+Vestvagoy
+Vevelstad
+Flatanger
+Fosnes
+Frosta
+Grong
+Hoylandet
+Leka
+Leksvik
+Meraker
+Naeroy
+Namdalseid
+Overhalla
+Snasa
+Steinkjer
+Stjordal
+Verran
+Vikna
+Dovre
+Etnedal
+Gausdal
+Gran
+Lesja
+Lillehammer
+Lom
+Lunner
+Nordre Land
+Ostre Toten
+Oystre Slidre
+Skjak
+Sor-Aurdal
+Sor-Fron
+Vang
+Vestre Slidre
+Vestre Toten
+Aremark
+Fredrikstad
+Halden
+Hvaler
+Moss
+Sarpsborg
+Spydeberg
+Trogstad
+Valer
+Bjerkreim
+Eigersund
+Forsand
+Ha
+Haugesund
+Kvitsoy
+Randaberg
+Sandnes
+Sauda
+Sokndal
+Sola
+Stavanger
+Vindafjord
+Askvoll
+Aurland
+Balestrand
+Bremanger
+Eid
+Fjaler
+Forde
+Gaular
+Gloppen
+Gulen
+Hornindal
+Hoyanger
+Hyllestad
+Laerdal
+Leikanger
+Luster
+Naustdal
+Selje
+Solund
+Stryn
+Vagsoy
+Vik
+Afjord
+Agdenes
+Bjugn
+Froya
+Hemne
+Hitra
+Holtalen
+Melhus
+Orkdal
+Osen
+Rissa
+Roan
+Selbu
+Skaun
+Snillfjord
+Trondheim
+Tydal
+Bamble
+Bo i Telemark
+Drangedal
+Fyresdal
+Hjartdal
+Kviteseid
+Nissedal
+Nome
+Sauherad
+Seljord
+Siljan
+Skien
+Tinn
+Tokke
+Vinje
+Balsfjord
+Berg
+Bjarkoy
+Dyroy
+Gaivuotna-Kafjord
+Gratangen
+Harstad
+Ibestad
+Kvaefjord
+Kvaenangen
+Lenvik
+Lyngen
+Salangen
+Skanland
+Skjervoy
+Storfjord
+Torsken
+Tranoy
+Tromso
+Aseral
+Audnedal
+Haegebostad
+Kristiansand
+Lindesnes
+Lyngdal
+Mandal
+Marnardal
+Andebu
+Hof
+Horten
+Lardal
+Larvik
+Notteroy
+Re
+Sandefjord
+Sande
+Tjome
+Tonsberg
 Muscat
 Azad Kashmir
 Balochistan
@@ -1509,6 +3986,25 @@ Peleliu
 Sonsorol
 Gaza
 West Bank
+Bocas del Toro Province
+Chiriqui Province
+Cocle Province
+Colon Province
+Darien Province
+Embera-Wounaan Comarca
+Guna Yala Comarca
+Herrera Province
+Los Santos Province
+Ngabe-Bugle Comarca
+Panama Province
+Veraguas Province
+West Panama Province
+David
+Colon
+Kuna de Wargandi Comarca
+Kuna de Madugandi Comarca
+Panama City
+La Chorrera
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -1565,6 +4061,450 @@ Villarrica
 Encarnacion
 San Ignacio
 Pilar
+Amazonas Region
+Ancash Region
+Apurimac Region
+Arequipa Region
+Ayacucho Region
+Cajamarca Region
+Callao Region
+Cusco Region
+Huancavelica Region
+Huanuco Region
+Ica Region
+Junin Region
+La Libertad Region
+Lambayeque Region
+Lima Province
+Lima Region
+Loreto Region
+Madre de Dios Region
+Moquegua Region
+Pasco Region
+Piura Region
+Puno Region
+San Martin Region
+Tacna Region
+Tumbes Region
+Ucayali Region
+Chimbote
+Arequipa
+Cajamarca
+Huanuco
+Ica
+Huancayo
+Trujillo
+Chiclayo
+Lima
+Iquitos
+Piura
+Pucallpa
+Dolnoslaskie
+Kujawsko-Pomorskie
+Lodzkie
+Lubelskie
+Lubuskie
+Malopolskie
+Mazowieckie
+Opolskie
+Podkarpackie
+Podlaskie
+Pomorskie
+Slaskie
+Swietokrzyskie
+Warminsko-Mazurskie
+Wielkopolskie
+Zachodniopomorskie
+Glogow
+Jelenia Gora
+Legnica
+Lubin
+Walbrzych
+Wroclaw
+Bydgoszcz
+Chelmno
+Dobrzyn nad Wisla
+Grudziadz
+Inowroclaw
+Solec Kujawski
+Torun
+Wloclawek
+Lodz
+Pabianice
+Piotrkow Trybunalski
+Sieradz
+Tomaszow Mazowiecki
+Chelm
+Lublin
+Zamosc
+Gorzow Wielkopolski
+Zielona Gora
+Krakow
+Nowy Sacz
+Oswiecim
+Tarnow
+Plock
+Radom
+Siedlce
+Warszawa
+Kedzierzyn-Kozle
+Opole
+Przemysl
+Rzeszow
+Stalowa Wola
+Bialystok
+Lomza
+Suwalki
+Gdansk
+Gdynia
+Hel
+Slupsk
+Sopot
+Bielsko-Biala
+Bytom
+Chorzow
+Czestochowa
+Dabrowa Gornicza
+Gliwice
+Jastrzebie-Zdroj
+Jaworzno
+Katowice
+Myslowice
+Piekary Slaskie
+Ruda Slaska
+Rybnik
+Siemianowice Slaskie
+Sosnowiec
+Swietochlowice
+Tychy
+Zabrze
+Kielce
+Sandomierz
+Elblag
+Olsztyn
+Ostroda
+Gniezno
+Kalisz
+Konin
+Leszno
+Ostrow Wielkopolski
+Pila
+Poznan
+Kolobrzeg
+Koszalin
+Stargard
+Szczecin
+Walcz
+Abrantes
+Acores
+Agueda
+Aguiar da Beira
+Alandroal
+Albergaria-a-Velha 
+Albufeira
+Alcacer do Sal
+Alcanena
+Alcobaca
+Alcochete
+Alcoutim
+Alenquer
+Alfandega da Fe
+Alijo
+Aljezur
+Aljustrel
+Almada
+Almeida
+Almeirim
+Almodovar
+Alpiarca
+Alter do Chao
+Alvaiazere
+Alvito
+Amadora
+Amarante
+Amares
+Anadia
+Ansiao
+Arcos de Valdevez
+Arganil
+Armamar
+Arouca
+Arraiolos
+Arronches
+Arruda dos Vinhos
+Aveiro
+Avis
+Azambuja
+Baiao
+Barcelos
+Barrancos
+Barreiro
+Batalha
+Beja
+Belmonte
+Benavente
+Bombarral
+Borba
+Boticas
+Braganca
+Braga
+Cabeceiras de Basto
+Cadaval
+Caldas da Rainha
+Caminha
+Campo Maior
+Cantanhede
+Carrazeda de Ansiaes
+Carregal do Sal
+Cartaxo
+Cascais
+Castanheira de Pera
+Castelo Branco
+Castelo de Paiva
+Castelo de Vide
+Castro Daire
+Castro Marim
+Castro Verde
+Celorico da Beira
+Celorico de Basto
+Chamusca
+Chaves
+Cinfaes
+Coimbra
+Condeixa-a-Nova
+Constancia
+Coruche
+Covilha
+Crato
+Cuba
+Elvas
+Entroncamento
+Espinho
+Esposende
+Estarreja
+Estremoz
+Evora
+Fafe
+Faro
+Felgueiras
+Ferreira do Alentejo
+Ferreira do Zezere
+Figueira da Foz
+Figueira de Castelo Rodrigo
+Figueiro dos Vinhos
+Fornos de Algodres
+Freixo de Espada a Cinta
+Fronteira
+Fundao
+Gaviao
+Gois
+Golega
+Gondomar
+Gouveia
+Grandola
+Guarda
+Guimaraes
+Idanha-a-Nova
+Ilhavo
+Lagoa (Algarve)
+Lagos
+Lamego
+Leiria
+Lisboa
+Loule
+Loures
+Lourinha
+Lousada
+Lousa
+Macao
+Macedo de Cavaleiros
+Madeira
+Mafra
+Maia
+Mangualde
+Manteigas
+Marco de Canavezes
+Marinha Grande
+Marvao
+Matosinhos
+Mealhada
+Meda
+Melgaco
+Mertola
+Mesao Frio
+Miranda do Corvo
+Miranda do Douro
+Mirandela
+Mira
+Mogadouro
+Moimenta da Beira
+Moita
+Moncao
+Monchique
+Mondim de Basto
+Monforte
+Montalegre
+Montemor-o-Novo
+Montemor-o-Velho
+Montijo
+Mora
+Mortagua
+Mourao
+Moura
+Murca
+Murtosa
+Nazare
+Nelas
+Nisa
+Obidos
+Odemira
+Odivelas
+Oeiras
+Oleiros
+Olhao
+Oliveira de Azemeis
+Oliveira de Bairro
+Oliveira de Frades
+Oliveira do Hospital
+Ourem
+Ourique
+Ovar
+Pacos de Ferreira
+Palmela
+Pampilhosa da Serra
+Paredes de Coura
+Paredes
+Pedrogao Grande
+Penacova
+Penafiel
+Penalva do Castelo
+Penamacor
+Penedono
+Penela
+Peniche
+Peso da Regua
+Pinhel
+Pombal
+Ponte da Barca
+Ponte de Lima
+Ponte de Sor
+Portalegre
+Portel
+Portimao
+Porto de Mos
+Porto
+Povoa de Lanhoso
+Povoa de Varzim
+Proenca-a-Nova
+Redondo
+Reguengos de Monsaraz
+Resende
+Ribeira de Pena
+Rio Maior
+Sabrosa
+Sabugal
+Salvaterra de Magos
+Santa Comba Dao
+Santa Maria da Feira
+Santa Marta de Penaguiao
+Santarem
+Santiago do Cacem
+Santo Tirso
+Sao Bras de Alportel
+Sao Joao da Madeira
+Sao Joao da Pesqueira
+Sao Pedro do Sul
+Sardoal
+Satao
+Seia
+Seixal
+Sernancelhe
+Serpa
+Serta
+Sesimbra
+Setubal
+Sever do Vouga
+Silves
+Sines
+Sintra
+Sobral de Monte Agraco
+Soure
+Sousel
+Tabuaco
+Tabua
+Tarouca
+Tavira
+Terras de Bouro
+Tomar
+Tondela
+Torre de Moncorvo
+Torres Novas
+Torres Vedras
+Trancoso
+Trofa
+Vagos
+Vale de Cambra
+Valenca
+Valongo
+Valpacos
+Vendas Novas
+Viana do Alentejo
+Viana do Castelo
+Vidigueira
+Vieira do Minho
+Vila de Rei
+Vila do Bispo
+Vila do Conde
+Vila Flor
+Vila Franca de Xira
+Vila Nova da Barquinha
+Vila Nova de Cerveira
+Vila Nova de Famalicao
+Vila Nova de Foz Coa
+Vila Nova de Gaia
+Vila Nova de Paiva
+Vila Nova de Poiares
+Vila Pouca de Aguiar
+Vila Real de Santo Antonio
+Vila Real
+Vila Velha de Rodao
+Vila Verde
+Vila Vicosa
+Vimioso
+Vinhais
+Viseu
+Vizela
+Vouzela
+Angra do Heroismo
+Calheta (Acores)
+Corvo
+Horta
+Lagoa (Acores)
+Lajes das Flores
+Lajes do Pico
+Madalena
+Nordeste
+Ponta Delgada
+Povoacao
+Praia da Vitoria
+Ribeira Grande
+Santa Cruz da Graciosa
+Santa Cruz das Flores
+Sao Roque do Pico
+Velas
+Vila do Porto
+Vila Franca do Campo
+Calheta (Madeira)
+Camara de Lobos
+Funchal
+Machico
+Ponta do Sol
+Porto Moniz
+Porto Santo
+Ribeira Brava
+Santa Cruz
+Santana
+Sao Vicente
 Bras-Panon
 La Possession
 Saint-Benoit
@@ -1661,11 +4601,19 @@ Yugra
 Zabaykalsky Krai
 Maykop
 Barnaul
+Belokurikha
+Yarovoye
 Belogorsk
 Blagoveshchensk
 Raychikhinsk
 Svobodny
+Tynda
+Arkhangelsk
+Kargopol
+Kotlas
+Mirny (Arkhangelsk Oblast)
 Novodvinsk
+Velsk
 Astrakhan
 Neftekamsk
 Sterlitamak
@@ -1675,6 +4623,7 @@ Shebekino
 Stary Oskol
 Bryansk
 Ulan-Ude
+Argun
 Grozny
 Chelyabinsk
 Karabash
@@ -1718,8 +4667,12 @@ Kaluga
 Lyudinovo
 Palana
 Petropavlovsk-Kamchatsky
+Vilyuchinsk
 Petrozavodsk
+Segezha
 Anzhero-Sudzhensk
+Belovo
+Guryevsk
 Kemerovo
 Leninsk-Kuznetsky
 Mezhdurechensk
@@ -1730,11 +4683,14 @@ Amursk
 Khabarovsk
 Komsomolsk-na-Amure
 Nikolayevsk-na-Amure
+Sovetskaya Gavan
 Abakan
+Chernogorsk
 Kirov
 Inta
 Sosnogorsk
 Syktyvkar
+Troitsko-Pechorsk
 Vorkuta
 Kostroma
 Armavir
@@ -1745,7 +4701,9 @@ Sochi
 Achinsk
 Bogotol
 Borodino
+Dikson
 Dudinka
+Igarka
 Kansk
 Kodinsk
 Krasnoyarsk
@@ -1754,13 +4712,18 @@ Norilsk
 Sharypovo
 Solnechny
 Tura
+Turukhansk
 Uyar
 Uzhur
 Yeniseysk
 Zelenogorsk
 Zheleznogorsk
+Dalmatovo
 Kurgan
+Kurtamysh
 Shadrinsk
+Shchuchye
+Shumikha
 Kursk
 Gatchina
 Kirishi
@@ -1826,15 +4789,34 @@ Yubileyny
 Zaraysk
 Zheleznodorozhny
 Zhukovsky
+Kandalaksha
+Monchegorsk
+Murmansk
+Nikel
+Pechenga
+Polyarny
+Severomorsk
+Snezhnogorsk
+Zapolyarny
 Naryan-Mar
 Kstovo
 Nizhny Novgorod
 Volodarsk
+Mozdok
 Staraya Russa
 Valday
 Veliky Novgorod
+Barabinsk
+Bolotnoye
 Iskitim
+Karasuk
+Kupino
+Kuybyshev
 Novosibirsk
+Ob
+Tatarsk
+Toguchin
+Isilkul
 Omsk
 Tara
 Buzuluk
@@ -1846,16 +4828,35 @@ Kuznetsk
 Penza
 Berezniki
 Cherdyn
+Chernushka
+Chusovoy
+Chyormoz
+Dobryanka
+Kizel
+Krasnokamsk
+Kudymkar
+Kungur
+Nytva
+Ochyor
+Okhansk
+Osa
 Perm
+Solikamsk
+Usolye
+Vereshchagino
+Zvyozdny
 Arsenyev
+Artyom
 Bolshoy Kamen
 Dalnerechensk
 Nakhodka
+Partizansk
 Vladivostok
 Pskov
 Velikiye Luki
 Azov
 Belaya Kalitva
+Donetsk
 Novocherkassk
 Rostov-na-Donu
 Taganrog
@@ -1871,10 +4872,15 @@ Udachny
 Vilyuysk
 Yakutsk
 Zyryanka
+Dolinsk
 Kholmsk
 Kurilsk
+Nevelsk
 Okha
 Severo-Kurilsk
+Shakhtyorsk
+Tomari
+Yuzhno-Sakhalinsk
 Samara
 Tolyatti
 Balashov
@@ -1887,19 +4893,36 @@ Budyonnovsk
 Georgiyevsk
 Pyatigorsk
 Stavropol
+Zelenokumsk
 Aramil
+Beryozovsky
 Bisert
 Degtyarsk
+Ivdel
+Kachkanar
 Kamensk-Uralsky
+Karpinsk
+Krasnoturyinsk
 Krasnoufimsk
+Krasnouralsk
+Lesnoy
 Mikhaylovsk
+Nevyansk
 Nizhniye Sergi
+Nizhnyaya Salda
+Nizhnyaya Tura
 Nizhny Tagil
+Novaya Lyalya
 Novouralsk
 Pervouralsk
 Polevskoy
 Rezh
 Serov
+Severouralsk
+Sredneuralsk
+Verkhnyaya Pyshma
+Verkhny Tagil
+Volchansk
 Yekaterinburg
 Kotovsk
 Tambov
@@ -1914,6 +4937,7 @@ Novomoskovsk
 Shchyokino
 Tula
 Uzlovaya
+Kyzyl
 Konakovo
 Rzhev
 Torzhok
@@ -1950,6 +4974,7 @@ Pavlovsk
 Rossosh
 Voronezh
 Nadym
+Novy Port
 Novy Urengoy
 Noyabrsk
 Salekhard
@@ -1958,14 +4983,33 @@ Rostov
 Rybinsk
 Yaroslavl
 Khanty-Mansiysk
+Langepas
+Lyantor
+Megion
+Nefteyugansk
 Nizhnevartovsk
+Sovetsky
 Surgut
+Borzya
 Chita
+Krasnokamensk
+Nerchinsk
+Shilka
+Sretensk
 Ascension Island
 Saint Helena
 Tristan da Cunha
 Nevis
 Bequia
+Acquaviva
+Borgo Maggiore
+Chiesanuova
+Domagnano
+Faetano
+Fiorentino
+Montegiardino
+San Marino
+Serravalle
 Principe
 Dakar
 Beograd
@@ -2043,6 +5087,22 @@ Pretoria
 Durban
 Cape Town
 Prince Edward Islands
+Busan
+Daegu
+Daejeon
+Gangwon Province
+Gwangju
+Gyeonggi Province
+Incheon
+Jeju Province
+North Chungcheong Province
+North Gyeongsang Province
+North Jeolla Province
+Seoul
+South Chungcheong Province
+South Gyeongsang Province
+South Jeolla Province
+Ulsan
 Andalusia
 Aragon
 Asturias
@@ -2054,14 +5114,13 @@ Castile and Leon
 Castile-La Mancha
 Catalonia
 Ceuta
-Community Of Madrid
+Community of Madrid
 Extremadura
 Galicia
 La Rioja
 Melilla
 Navarra
-Puglia
-Region Of Murcia
+Region of Murcia
 Valencian Community
 Formentera
 Ibiza
@@ -2074,6 +5133,15 @@ La Gomera
 Lanzarote
 La Palma
 Tenerife
+Central Province
+Eastern Province
+North Central Province
+Northern Province
+North Western Province
+Sabaragamuwa Province
+Southern Province
+Uva Province
+Western Province
 Darfur
 Khartoum
 Kurdufan
@@ -2082,6 +5150,86 @@ Nickerie District
 Longyearbyen
 Manzini
 Mbabane
+Angermanland
+Blekinge County
+Blekinge
+Bohuslan
+Dalarna County
+Dalarna
+Dalsland
+Gastrikland
+Gavleborg County
+Gotland County
+Gotland
+Halland County
+Halland
+Halsingland
+Harjedalen
+Jamtland County
+Jamtland
+Jonkoping County
+Kalmar County
+Kronoberg County
+Lappland
+Medelpad
+Narke
+Norrbotten County
+Norrbotten
+Oland
+Orebro County
+Ostergotland County
+Ostergotland
+Skane County
+Skane
+Smaland
+Sodermanland County
+Sodermanland
+Stockholm County
+Uppland
+Uppsala County
+Varmland County
+Varmland
+Vasterbotten County
+Vasterbotten
+Vastergotland
+Vasternorrland County
+Vastmanland County
+Vastmanland
+Vastra Gotaland County
+Kalmar
+Helsingborg
+Malmo
+Nykoping
+Stockholm
+Goteborg
+Mariestad
+Aargau
+Appenzell Ausserrhoden
+Appenzell Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Fribourg
+Geneva
+Glarus
+Grisons
+Jura
+Lucerne
+Neuchatel
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Thurgau
+Ticino
+Unterwalden
+Uri
+Valais
+Vaud
+Zug
+Zurich
+Bezirk Biel
+Gemeinde Biel
 Al-Hasakah Governorate
 Damascus Governorate
 Changhua County
@@ -2109,6 +5257,13 @@ Yunlin County
 Gorno-Badakhshan
 Zanzibar
 Niuafoou
+Couva-Tabaquite-Talparo
+Diego Martin
+Mayaro-Rio Claro
+Penal-Debe
+Point Fortin
+Port of Spain
+Tunapuna-Piarco
 Sousse
 Tunis
 Ankole
@@ -2155,7 +5310,7 @@ Simferopol
 Yalta
 Yevpatoria
 Dniprodzerzhynsk
-Dnipropetrovsk
+Dnipro
 Kryvyi Rih
 Nikopol
 Pavlohrad
@@ -2211,6 +5366,162 @@ Fujairah
 Ras Al-Khaimah
 Sharjah
 Umm Al-Quwain
+England
+Northern Ireland
+Scotland
+Wales
+Bedfordshire
+Berkshire
+Bristol
+Buckinghamshire
+Cambridgeshire
+Cheshire
+City of London
+Cornwall
+Cumberland
+Cumbria
+Derbyshire
+Devon
+Dorset
+Durham
+East Anglia
+East Riding of Yorkshire
+East Sussex
+Essex
+Gloucestershire
+Greater London
+Greater Manchester
+Hampshire
+Herefordshire
+Hertfordshire
+Huntingdonshire
+Isle of Portland
+Isle of Wight
+Isles of Scilly
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Lundy Island
+Mercia
+Merseyside
+Middlesex
+Norfolk
+Northamptonshire
+North Riding of Yorkshire
+Northumbria
+North Yorkshire
+Nothumberland
+Nottinghamshire
+Oxfordshire
+Rutland
+Shropshire
+Somerset
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Sussex
+The Principality of Sealand
+Tyne and Wear
+Warwickshire
+Wessex
+West Midlands
+Westmorland
+West Riding of Yorkshire
+West Sussex
+West Yorkshire
+Wiltshire
+Worcestershire
+Yorkshire
+Reading
+Wing
+Horningsea
+Chester
+Plymouth
+Durham City
+Petersfield
+Blackpool
+Fylde
+Preston
+St Annes on the Sea
+Lincoln
+Liverpool
+Norwich
+York
+Hampton Poyle
+Wroxton
+Surrey Heath
+Birmingham
+Black Country
+Coventry
+Bradford
+Ulster
+Antrim
+Armagh
+Belfast
+Derry
+Down
+Fermanagh
+Londonderry
+Tyrone
+Aberdeen
+Aberdeenshire
+Angus
+Argyll and Bute
+Ayrshire
+Caithness
+Clackmannanshire
+Dumfries and Galloway
+Dundee
+East Ayrshire
+East Dunbartonshire
+East Lothian
+East Renfrewshire
+Edinburgh
+Falkirk
+Fife
+Glasgow
+Highland
+Inverclyde
+Midlothian
+Moray
+North Ayrshire
+North Lanarkshire
+Orkney
+Outer Hebrides
+Perth and Kinross
+Renfrewshire
+Scottish Borders
+Shetland Isles
+South Ayrshire
+South Lanarkshire
+Stirling
+West Dunbartonshire
+West Lothian
+Blaenau Gwent
+Bridgend
+Caernarfonshire
+Caerphilly
+Cardiff
+Ceredigion
+Conwy
+Denbighshire
+Flintshire
+Glamorgan
+Gwynedd
+Isle of Anglesey
+Meirionnydd
+Merthyr Tydfil
+Monmouthshire
+Neath Port Talbot
+Newport
+Pembrokeshire
+Powys
+Rhondda Cynon Taf
+Swansea
+Torfaen
+Wrexham
 Alabama
 Alaska
 Arizona
@@ -2471,6 +5782,7 @@ Soriano Department
 Tacuarembo Department
 Treinta y Tres Department
 Maldonado
+Montevideo
 Karakalpakstan
 Tashkent
 Malampa Province
@@ -2481,6 +5793,61 @@ Tafea Province
 Torba Province
 Luganville
 Port Vila
+Amazonas
+Anzoategui
+Apure
+Aragua
+Barinas
+Bolivar
+Capital District
+Carabobo
+Cojedes
+Delta Amacuro
+Falcon
+Federal Dependencies
+Guarico
+Lara
+Merida
+Miranda
+Monagas
+Nueva Esparta
+Portuguesa
+Sucre
+Tachira
+Trujillo
+Vargas
+Yaracuy
+Zulia
+Barcelona
+Puerto la Cruz
+San Fernando de Apure
+La Victoria
+Maracay
+Turmero
+Barinas (ciudad)
+Ciudad Bolivar
+Upata
+Caracas
+Guacara
+Naguanagua
+Puerto Cabello
+Valencia
+Punto Fijo
+Zaraza
+Barquisimeto
+Alberto Adriani
+Cua
+Guatire
+Los Teques
+Santa Teresa del Tuy
+Porlamar
+Acarigua
+Cumana
+San Cristobal
+Valera
+Cabimas
+Machiques
+Maracaibo
 Hanoi
 Alo
 Sigave

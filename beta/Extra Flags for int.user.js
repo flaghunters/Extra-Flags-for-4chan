@@ -37,8 +37,10 @@
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
 var regions = [];
+var filter = false;
 var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
+var filterVariable = 'filterVariableAPI2';
 var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
@@ -64,25 +66,27 @@ var setup = {
         var htmlSaveButton = '<div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">' +
             'Save Region</button></div><br/>';
         var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
-            'For example; United States, California, Los Angeles<br/><label>' +
-            'Country must match your flag! Your flag not here? Open issue here:<br/>' +
+            'For example; United States, California, Los Angeles<br/></label>' +
+            '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
             '<a href="https://github.com/flaghunters/Extra-Flags-for-4chan/issues" style="color:blue">' +
-            'https://github.com/flaghunters/Extra-Flags-for-4chan/issues';
+            'https://github.com/flaghunters/Extra-Flags-for-4chan/issues</a></label>';
+        var filter = '<br/><br/><input type="checkbox" style="display: inline !important;" id="' + shortId +
+            'filterCheckbox"><label>Only display country + first region for each post.</label>';
 
         if (regions.length > 1) {
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText;
+                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filter;
         }
 
         if (regions.length > 0) {
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText;
+                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filter;
         }
 
         return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
-            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText;
+            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filter;
 
     },
     fillHtml: function (path1) {
@@ -134,6 +138,14 @@ var setup = {
             }
         });
     },
+    setFilterCheckbox: function() {
+        var checkbox = document.getElementById(shortId + "filterCheckbox");
+        var filter = setup.load(filterVariable);
+
+        if (filter === true) {
+            checkbox.checked = true;
+        }
+    },
     q: function (n) {
         return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
     },
@@ -162,6 +174,9 @@ var setup = {
         setup.fillHtml("");
 
         document.body.appendChild(setup_el);
+
+        setup.setFilterCheckbox();
+
         /* button listeners */
         setup.q('back').addEventListener('click', function () {
             if (regions.length > 0) {
@@ -207,6 +222,13 @@ var setup = {
             }
             lastRegion = "";
 
+            filter = false;
+            var checkbox = document.getElementById(shortId + "filterCheckbox");
+            if (checkbox.checked) {
+                filter = true;
+            }
+            setup.save(filterVariable, filter);
+
             alert('Flags set: ' + regions + '\n\n' +
                 'Refresh all your 4chan tabs!');
 
@@ -231,6 +253,7 @@ var setup = {
 
 /** Prompt to set region if regionVariable is empty  */
 regions = setup.load(regionVariable);
+filter = setup.load(filterVariable);
 if (!regions) {
     regions = [];
     setTimeout(function () {
@@ -282,7 +305,7 @@ function onFlagsLoad(response) {
                     '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
                     flegsBaseUrl + 'empty.png\';}})();"';
 
-                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + ">";
+                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + " title=" + postedRegions[i] + ">";
                 newFlag.className = "extraFlag";
                 newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
                 newFlag.target = '_blank';
@@ -290,6 +313,11 @@ function onFlagsLoad(response) {
                 newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
                 console.log("resolved " + postedRegions[i]);
+
+                if (filter === true) {
+                    console.log("filter enabled, breaking");
+                    break;
+                }
             }
         }
 
