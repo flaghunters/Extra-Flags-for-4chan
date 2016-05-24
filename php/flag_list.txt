@@ -1873,12 +1873,29 @@ Campania
 Campobasso
 Catania
 Catanzaro
+Citta metropolitana di Bari
+Citta metropolitana di Bologna
+Citta metropolitana di Catania
+Citta metropolitana di Firenze
+Citta metropolitana di Genova
+Citta metropolitana di Messina
+Citta metropolitana di Milano
+Citta metropolitana di Napoli
+Citta metropolitana di Palermo
+Citta metropolitana di Roma
+Citta metropolitana di Torino
+Citta metropolitana di Venezia
 Emilia Romagna
 Firenze
 Friuli-Venezia Giulia
 Genova
 L Aquila
 Lazio
+Libero Consorzio Comunale di Caltanissetta
+Libero Consorzio Comunale di Enna
+Libero Consorzio Comunale di Ragusa
+Libero Consorzio Comunale di Siracusa
+Libero Consorzio Comunale di Trapani
 Liguria
 Lombardia
 Marche
@@ -1889,6 +1906,98 @@ Palermo
 Perugia
 Piemonte
 Potenza
+Provincia autonoma di Bolzano
+Provincia autonoma di Trento
+Provincia dell Aquila
+Provincia della Spezia
+Provincia dell Ogliastra
+Provincia del Verbano-Cusio-Ossola
+Provincia di Agrigento
+Provincia di Alessandria
+Provincia di Ancona
+Provincia di Aosta
+Provincia di Arezzo
+Provincia di Ascoli Piceno
+Provincia di Asti
+Provincia di Avellino
+Provincia di Barletta-Andria-Trani
+Provincia di Belluno
+Provincia di Benevento
+Provincia di Bergamo
+Provincia di Biella
+Provincia di Brescia
+Provincia di Brindisi
+Provincia di Cagliari
+Provincia di Campobasso
+Provincia di Carbonia-Iglesias
+Provincia di Caserta
+Provincia di Catanzaro
+Provincia di Chieti
+Provincia di Como
+Provincia di Cosenza
+Provincia di Cremona
+Provincia di Crotone
+Provincia di Cuneo
+Provincia di Fermo
+Provincia di Ferrara
+Provincia di Foggia
+Provincia di Forlì-Cesena
+Provincia di Frosinone
+Provincia di Gorizia
+Provincia di Grosseto
+Provincia di Imperia
+Provincia di Isernia
+Provincia di Latina
+Provincia di Lecce
+Provincia di Lecco
+Provincia di Livorno
+Provincia di Lodi
+Provincia di Lucca
+Provincia di Macerata
+Provincia di Mantova
+Provincia di Massa-Carrara
+Provincia di Matera
+Provincia di Modena
+Provincia di Monza e della Brianza
+Provincia di Novara
+Provincia di Nuoro
+Provincia di Olbia-Tempio
+Provincia di Oristano
+Provincia di Padova
+Provincia di Parma
+Provincia di Pavia
+Provincia di Perugia
+Provincia di Pesaro e Urbino
+Provincia di Pescara
+Provincia di Piacenza
+Provincia di Pisa
+Provincia di Pistoia
+Provincia di Pordenone
+Provincia di Potenza
+Provincia di Prato
+Provincia di Ravenna
+Provincia di Reggio Calabria
+Provincia di Reggio Emilia
+Provincia di Rieti
+Provincia di Rimini
+Provincia di Rovigo
+Provincia di Salerno
+Provincia di Sassari
+Provincia di Savona
+Provincia di Siena
+Provincia di Sondrio
+Provincia di Taranto
+Provincia di Teramo
+Provincia di Terni
+Provincia di Treviso
+Provincia di Trieste
+Provincia di Udine
+Provincia di Varese
+Provincia di Vercelli
+Provincia di Verona
+Provincia di Vibo Valentia
+Provincia di Vicenza
+Provincia di Viterbo
 Puglia
 Roma
 Sardegna
