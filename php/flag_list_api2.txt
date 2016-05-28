@@ -1148,6 +1148,33 @@ Sao Cristovao
 Palmas
 Taguatinga
 Diego Garcia
+Blagoevgrad
+Burgas
+Dobrich
+Gabrovo
+Haskovo
+Kardzhali
+Kyustendil
+Lovech
+Montana
+Pazardzhik
+Pernik
+Pleven
+Plovdiv
+Razgrad
+Ruse
+Shumen
+Silistra
+Sliven
+Smolyan
+Sofia
+Stara Zagora
+Targovishte
+Varna
+Veliko Tarnovo
+Vidin
+Vratza
+Yambol
 Phnom Penh
 Alberta
 British Columbia
@@ -6129,6 +6156,1073 @@ Port of Spain
 Tunapuna-Piarco
 Sousse
 Tunis
+Adana Province
+Adiyaman Province
+Afyonkarahisar Province
+Agri Province
+Aksaray Province
+Amasya Province
+Ankara Province
+Antalya Province
+Ardahan Province
+Artvin Province
+Aydin Province
+Balikesir Province
+Bartin Province
+Batman Province
+Bayburt Province
+Bilecik Province
+Bingol Province
+Bitlis Province
+Bolu Province
+Burdur Province
+Bursa Province
+Canakkale Province
+Cankiri Province
+Corum Province
+Denizli Province
+Diyarbakir Province
+Duzce Province
+Edirne Province
+Elazig Province
+Erzincan Province
+Erzurum Province
+Eskisehir Province
+Gaziantep Province
+Giresun Province
+Gumushane Province
+Hakkari Province
+Hatay Province
+Igdir Province
+Isparta Province
+Istanbul Province
+Izmir Province
+Kahramanmaras Province
+Karabuk Province
+Karaman Province
+Kars Province
+Kastamonu Province
+Kayseri Province
+Kilis Province
+Kirikkale Province
+Kirklareli Province
+Kirsehir Province
+Kocaeli Province
+Konya Province
+Kutahya Province
+Malatya Province
+Manisa Province
+Mardin Province
+Mersin Province
+Mugla Province
+Mus Province
+Nevsehir Province
+Nigde Province
+Ordu Province
+Osmaniye Province
+Rize Province
+Sakarya Province
+Samsun Province
+Sanliurfa Province
+Siirt Province
+Sinop Province
+Sirnak Province
+Sivas Province
+Tekirdag Province
+Tokat Province
+Trabzon Province
+Tunceli Province
+Usak Province
+Van Province
+Yalova Province
+Yozgat Province
+Zonguldak Province
+Adana Metropolitan Municipality
+Aladag
+Ceyhan
+Cukurova
+Feke
+Karaisali
+Karatas
+Kozan
+Pozanti
+Saricam
+Seyhan
+Tufanbeyli
+Yuregir
+Adiyaman
+Besni
+Celikhan
+Golbasi
+Kahta
+Afyonkarahisar
+Ayazini
+Bayat
+Bolvadin
+Cay
+Cobanlar
+Dazkiri
+Derecine
+Dinar
+Emirdag
+Evciler
+Gazligol
+Gomu
+Iscehisar
+Kayihan
+Kilicarslan
+Sandikli
+Sinanpasa
+Suhut
+Sultandagi
+Agri
+Eleskirt
+Patnos
+Tahir
+Taslicay
+Tutak
+Yayladuzu
+Agacoren
+Aksaray
+Eskil
+Guzelyurt
+Ortakoy
+Sariyahsi
+Sultanhani
+Yenikent
+Amasya
+Goynucek
+Hamamozu
+Merzifon
+Suluova
+Tasova
+Ankara Metropolitan Municipality
+Akyurt
+Altindag
+Ayas
+Bala
+Beypazari
+Caga
+Camlidere
+Cankaya
+Cayirhan
+Cubuk
+Elmadag
+Etimesgut
+Evren
+Golbasi (Ankara)
+Gudul
+Haymana
+Kalecik
+Kazan
+Kecioren
+Kizilcahamam
+Mamak
+Nallihan
+Polatli
+Pursaklar
+Sariyar
+Sereflikochisar
+Sincan
+Urus
+Yenimahalle
+Yurtbeyli
+Antalya
+Akseki
+Aksu
+Alanya
+Avsallar
+Belek
+Belkis
+Beykonak
+Beymelek
+Bogazkent
+Camyuva
+Cevizli
+Demre
+Dosemealti
+Elmali
+Emisbeleni
+Finike
+Gazipasa
+Gundogmus
+Ilica
+Kadriye
+Kalkan
+Kargicak
+Kas
+Kemer
+Kepez
+Kestel
+Kinik
+Konakli
+Konyaalti
+Korkuteli
+Kucukkoy
+Kumluca
+Kuyucak
+Mahmutlar
+Manavgat
+Mavikent
+Muratpasa
+Serik
+Side
+Tasagil
+Tekirova
+Tosmur
+Turuncova
+Varsak
+Yukarikocayatak
+Ardahan
+Hanak
+Arhavi
+Artvin
+Borcka
+Hopa
+Aydin
+Akbuk
+Bozdogan
+Buharkent
+Cestepe
+Cine
+Dalama
+Didim
+Efeler
+Germencik
+Gullubahce
+Incirliova
+Isabeyli
+Karacasu
+Karpuzlu
+Kocarli
+Kosk
+Kusadasi
+Nazilli
+Ovaeymir
+Soke
+Sultanhisar
+Tepecik
+Umurlu
+Yenidogan
+Balikesir Metropolitan Municipality
+Akcay
+Altieylul
+Altinoluk
+Avsa
+Ayvalik
+Bandirma
+Bigadic
+Burhaniye
+Dursunbey
+Edincik
+Edremit
+Erdek
+Gokceyazi
+Gomec
+Gonen
+Gure
+Havran
+Ivrindi
+Karesi
+Kepsut
+Kocaavsar
+Manyas
+Marmara
+Ocaklar
+Savastepe
+Sindirgi
+Susurluk
+Zeytinli
+Abdipasa
+Amasra
+Bartin
+Kurucasile
+Ulus
+Batman
+Besiri
+Aydintepe
+Bayburt
+Demirozu
+Bayirkoy
+Bilecik
+Bozuyuk
+Dodurga
+Golpazari
+Osmaneli
+Pazaryeri
+Sogut
+Vezirhan
+Yenipazar
+Bingol
+Adilcevaz
+Ahlat
+Bitlis
+Tatvan
+Bolu
+Dortdivan
+Gerede
+Goynuk
+Karacasu
+Mengen
+Mudurnu
+Seben
+Taskesti
+Yenicaga
+Aglasun
+Bucak
+Burdur
+Golhisar
+Karamanli
+Tefenni
+Yesilova
+Bursa Metropolitan Municipality
+Buyukorhan
+Cakirli
+Gemlik
+Gursu
+Harmancik
+Inegol
+Iznik
+Karacabey
+Karincali
+Kestel
+Mudanya
+Mustafakemalpasa
+Nilufer
+Orhaneli
+Orhangazi
+Osmangazi
+Soloz
+Tahtakopru
+Umurbey
+Yenikoy
+Yenisehir
+Yenisoloz
+Yildirim
+Zeytinbagi
+Ayvacik
+Baliklicesme
+Bayramic
+Biga
+Bolayir
+Canakkale
+Can
+Cardak
+Eceabat
+Evrese
+Ezine
+Gelibolu
+Geyikli
+Gokceada
+Gulpinar
+Gumuscay
+Karabiga
+Kucukkuyu
+Lapseki
+Mahmudiye
+Terzialan
+Yenice
+Atkaracalar
+Bayramoren
+Cankiri
+Cerkes
+Eldivan
+Ilgaz
+Kizilirmak
+Korgun
+Orta
+Sabanozu
+Yaprakli
+Yukarioz
+Alaca
+Arifegazili
+Bogazkale
+Corum
+Dodurga
+Mecitozu
+Ortakoy
+Osmancik
+Ugurludag
+Denizli Metropolitan Municipality
+Acipayam
+Babadag
+Baklan
+Beyagac
+Beylerli
+Bozkurt
+Buldan
+Cagirgan
+Cal
+Cameli
+Cardak
+Civril
+Dariveren
+Golemezli
+Guney
+Honaz
+Kale
+Kiralan
+Kizilca
+Kocabas
+Merkezefendi
+Pamukkale
+Pinarkent
+Saraykoy
+Serinhisar
+Tavas
+Tosunlar
+Yatagan
+Yenicekent
+Yesilyuva
+Diyarbakir Metropolitan Municipality
+Baglar
+Bismil
+Egil
+Ergani
+Kayapinar
+Kulp
+Silvan
+Sur
+Yenisehir
+Akcakoca
+Beykoy
+Bogazici
+Cumayeri
+Duzce
+Golyaka
+Gumusova
+Kaynasli
+Yigilca
+Edirne
+Enez
+Esetce
+Havsa
+Ibriktepe
+Ipsala
+Kesan
+Kuplu
+Kurtbey
+Lalapasa
+Meric
+Suloglu
+Sultan
+Uzunkopru
+Yenikarpuzlu
+Yenimuhacir
+Elazig
+Karakocan
+Kovancilar
+Sarican
+Sivrice
+Erzincan
+Ilic
+Kemah
+Refahiye
+Ulalar
+Erzurum Metropolitan Municipality
+Aziziye
+Horasan
+Karacoban
+Karayazi
+Oltu
+Palandoken
+Pasinler
+Senkaya
+Tekman
+Uzundere
+Yakutiye
+Eskisehir Metropolitan Municipality
+Alpu
+Beylikova
+Bozan
+Dogancayir
+Han
+Inonu
+Mahmudiye
+Mihaliccik
+Nasreddin Hoca
+Odunpazari
+Saricakaya
+Seyitgazi
+Sivrihisar
+Tepebasi
+Gaziantep Metropolitan Municipality
+Araban
+Islahiye
+Nizip
+Nurdagi
+Oguzeli
+Sahinbey
+Sehitkamil
+Yavuzeli
+Alucra
+Aydindere
+Dereli
+Duroglu
+Giresun
+Gorele
+Guce
+Kesap
+Piraziz
+Sogukpinar
+Tirebolu
+Yavuzkemal
+Gumushane
+Kelkit
+Torul
+Hakkari
+Semdinli
+Yuksekova
+Hatay Metropolitan Municipality
+Akbez
+Altinozu
+Antakya
+Arsuz
+Belen
+Defne
+Dortyol
+Erzin
+Hassa
+Iskenderun
+Kumlu
+Payas
+Reyhanli
+Yayladagi
+Aralik
+Igdir
+Karakoyunlu
+Tuzluca
+Atabey
+Egirdir
+Gelendost
+Gonen
+Isparta
+Keciborlu
+Kuleonu
+Sarkikaraagac
+Sav
+Sutculer
+Uluborlu
+Yalvac
+Yenisarbademli
+Istanbul Metropolitan Municipality
+Adalar
+Arnavutkoy
+Atasehir
+Avcilar
+Bagcilar
+Bahcelievler
+Bakirkoy
+Basaksehir
+Bayrampasa
+Besiktas
+Beykoz
+Beylikduzu
+Beyoglu
+Buyukcekmece
+Catalca
+Cekmekoy
+Esenler
+Esenyurt
+Eyup
+Fatih
+Gaziosmanpasa
+Gungoren
+Kadikoy
+Kagithane
+Kartal
+Kucukcekmece
+Maltepe
+Pendik
+Sancaktepe
+Sariyer
+Sile
+Silivri
+Sisli
+Sultanbeyli
+Sultangazi
+Tuzla
+Umraniye
+Uskudar
+Zeytinburnu
+Izmir Metropolitan Municipality
+Alacati
+Aliaga
+Bademli
+Balcova
+Bayindir
+Bayrakli
+Belevi
+Bergama
+Beydag
+Bornova
+Buca
+Candarli
+Cesme
+Cigli
+Foca
+Gaziemir
+Guzelbahce
+Karabaglar
+Karaburun
+Karsiyaka
+Kemalpasa
+Kinik
+Kiraz
+Konak
+Menderes
+Menemen
+Narlidere
+Odemis
+Seferihisar
+Selcuk
+Tire
+Torbali
+Urla
+Yenisakran
+Kahramanmaras Metropolitan Municipality
+Beyoglu
+Dulkadiroglu
+Ekinozu
+Goksun
+Onikisubat
+Pazarcik
+Turkoglu
+Eflani
+Eskipazar
+Karabuk
+Safranbolu
+Ayranci
+Basyayla
+Ermenek
+Karaman
+Kazimkarabekir
+Sariveliler
+Arpacay
+Kars
+Abana
+Agli
+Arac
+Azdavay
+Catalzeytin
+Hanonu
+Ihsangazi
+Inebolu
+Kastamonu
+Pinarbasi
+Senpazar
+Taskopru
+Tosya
+Kayseri Metropolitan Municipality
+Akkisla
+Bunyan
+Develi
+Erkilet
+Felahiye
+Hacilar
+Incesu
+Kocasinan
+Melikgazi
+Pinarbasi
+Sarioglan
+Sariz
+Talas
+Yahyali
+Yesilhisar
+Kilis
+Aksaray Province
+Bahsili
+Baliseyh
+Delice
+Karakecili
+Keskin
+Kirikkale
+Yahsihan
+Ahmetbey
+Alpullu
+Babaeski
+Buyukkaristiran
+Buyukmandira
+Demirkoy
+Evrensekiz
+Igneada
+Kavakli
+Kaynarca (Kirklareli)
+Kirklareli
+Kiyikoy
+Kofcaz
+Luleburgaz
+Pehlivankoy
+Pinarhisar
+Sinanli
+Vize
+Akcakent
+Akpinar
+Kaman
+Kirsehir
+Mucur
+Kocaeli Metropolitan Municipality
+Basiskele
+Cayirova
+Darica
+Derince
+Dilovasi
+Gebze
+Golcuk
+Izmit
+Kandira
+Kartepe
+Korfez
+Konya Metropolitan Municipality
+Aksehir
+Altinekin
+Beysehir
+Bozkir
+Cihanbeyli
+Cumra
+Derbent
+Doganhisar
+Emirgazi
+Eregli
+Guneysinir
+Hadim
+Halkapinar
+Ilgin
+Kadinhni
+Karapinar
+Karatay
+Kulu
+Meram
+Sarayonu
+Selcuklu
+Seydisehir
+Taskent
+Yalihuyuk
+Altintas
+Citgol
+Domanic
+Emet
+Gediz
+Gurlek
+Hisarcik
+Kayakoy
+Kutahya
+Pazarlar
+Simav
+Tavsanli
+Tepecik
+Malatya Metropolitan Municipality
+Akcadag
+Battalgazi
+Darende
+Dogansehir
+Doganyol
+Hekimhan
+Kale
+Kuluncak
+Puturge
+Yazihan
+Yesilyurt
+Manisa Metropolitan Municipality
+Ahmetli
+Akhisar
+Alasehir
+Avdan
+Cenkyeri
+Demirci
+Gordes
+Hacirahmanli
+Halitpasa
+Karaoglanli
+Kirkagac
+Koprubasi
+Kula
+Mutevelli
+Salihli
+Sarigol
+Sart
+Saruhanli
+Sehzadeler
+Selendi
+Soma
+Turgutalp
+Turgutlu
+Yunusemre
+Mardin Metropolitan Municipality
+Dargecit
+Kiziltepe
+Mazidagi
+Midyat
+Nusaybin
+Omerli
+Yesilli
+Mersin Metropolitan Municipality
+Akdeniz
+Aydincik
+Camliyayla
+Erdemli
+Mezitli
+Silifke
+Tarsus
+Tasucu
+Toroslar
+Yenisehir
+Mugla Metropolitan Municipality
+Akyaka
+Armutalan
+Bafa
+Bayir
+Beldibi
+Bitez
+Bodrum
+Bozuyuk (Mugla)
+Dalaman
+Dalyan
+Datca
+Esen
+Fethiye
+Gocek
+Gulluk
+Gumusluk
+Icmeler
+Karadere
+Kavaklidere
+Konacik
+Kumluova
+Marmaris
+Mentese
+Milas
+Mumcular
+Oludeniz
+Oren
+Ortaca
+Ortakent Yahsi
+Seydikemer
+Turgutreis
+Ula
+Yalikavak
+Yali
+Bulanik
+Malazgirt
+Mus
+Acigol
+Avanos
+Derinkuyu
+Goreme
+Gulsehir
+Hacibektas
+Karacasar
+Nevsehir
+Ozkonak
+Sulusaray
+Uchisar
+Urgup
+Yazihuyuk
+Altunhisar
+Bor
+Camardi
+Ciftlik
+Nigde
+Ordu Metropolitan Municipality
+Akkus
+Altinordu
+Aybasti
+Caybasi
+Geyikceli
+Gurgentepe
+Ikizce
+Kabaduz
+Ulubey
+Bahce
+Hasanbeyli
+Kadirli
+Osmaniye
+Toprakkale
+Yarbasi
+Ardesen
+Cayeli
+Derepazari
+Findikli
+Guneysu
+Hemsin
+Iyidere
+Kalkandere
+Madenli
+Rize
+Sakarya Metropolitan Municipality
+Adapazari
+Akyazi
+Alifuatpasa
+Arifiye
+Erenler
+Ferizli
+Geyve
+Hendek
+Karapurcek
+Karasu
+Kaynarca
+Kocaali
+Kurudere
+Kuzuluk
+Limandere
+Pamukova
+Sapanca
+Serdivan
+Sogutlu
+Tarakli
+Samsun Metropolitan Municipality
+Alacam
+Atakum
+Ayvacik
+Bafra
+Canik
+Carsamba
+Havza
+Ilkadim
+Kavak
+Ondokuzmayis
+Tekkekoy
+Terme
+Vezirkopru
+Yakakent
+Sanliurfa Metropolitan Municipality
+Akcakale
+Birecik
+Bozova
+Ceylanpinar
+Eyyubiye
+Halfeti
+Haliliye
+Hilvan
+Karakopru
+Siverek
+Suruc
+Viransehir
+Siirt
+Erfelek
+Gerze
+Sarayduzu
+Sinop
+Turkeli
+Cizre
+Idil
+Silopi
+Sirnak
+Uludere
+Altinyayla
+Divrigi
+Dogansar
+Gurcayir
+Hafik
+Kangal
+Sarkisla
+Sivas
+Susehri
+Zara
+Tekirdag Metropolitan Municipality
+Balabancik
+Barbaros
+Buyukyoncali
+Cerkezkoy
+Corlu
+Ergene
+Hayrabolu
+Kapakli
+Karaagac
+Karacakilavuz
+Kizilpinar
+Kozyoruk
+Kumbag
+Malkara
+Marmaracik
+Marmara Ereglisi
+Muratli
+Murefte
+Salgamli
+Saray
+Sarkoy
+Suleymanpasa
+Sultankoy
+Ulas
+Velikoy
+Velimese
+Yenice
+Yeniciftlik
+Basciftlik
+Erbaa
+Niksar
+Tokat
+Turhal
+Zile
+Trabzon Metropolitan Municipality
+Akcaabat
+Arakli
+Arsin
+Besikduzu
+Carsibasi
+Caykara
+Dernekpazari
+Macka
+Of
+Ortahisar
+Salpazari
+Surmene
+Tonya
+Vakfikebir
+Yomra
+Mazgirt
+Tunceli
+Agacbeyli
+Banaz
+Esme
+Karahalli
+Kizilcasogut
+Selcikler
+Sivasli
+Ulubey
+Usak
+Yelegen
+Van Metropolitan Municipality
+Caldiran
+Catak
+Ercis
+Ipekyolu
+Ozalp
+Tusba
+Altinova
+Armutlu
+Ciftlikkoy
+Cinarcik
+Kocadere
+Subasi
+Taskopru
+Termal
+Yalova
+Akdagmadeni
+Aydincik
+Baydigin
+Bogazliyan
+Candir
+Cayiralan
+Kadisehri
+Saraykent
+Sarikaya
+Sefaatli
+Sorgun
+Yerkoy
+Yozgat
+Catalagzi
+Caycuma
+Caydegirmeni
+Devrek
+Filyos
+Gokcebey
+Karadeniz Eregli
+Kilimli
+Kozlu
+Nebioglu
+Saltukova
+Zonguldak
 Ankole
 Buganda
 Bunyoro
