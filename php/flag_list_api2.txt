@@ -21,7 +21,7 @@ Fier County
 Korce County
 Kukes County
 Lezhe County
-Shkoder
+Shkoder County
 Tirana County
 Vlore County
 Berat
@@ -33,6 +33,7 @@ Korce
 Pogradec
 Kukes
 Lezhe
+Shkoder
 Kavaje
 Tirana
 Sarande
@@ -863,18 +864,26 @@ Yacuiba
 Bonaire
 Saba
 Sint Eustatius
-Bosansko-podrinjski kanton Gorazde
-Brcko Distrikt
-Hercegovacko-neretvanski kanton
-Kanton 10
-Kanton Sarajevo
-Posavski Kanton
+Brcko District
+Federation of Bosnia and Herzegovina
 Republika Srpska
-Srednjobosanski kanton
-Tuzlanski kanton
-Unsko-sanski kanton
-Zapadnohercegovacki kanton
-Zenicko-dobojski kanton
+Bosnian-Podrinje Canton Gorazde
+Canton 10
+Central Bosnia Canton
+Herzegovina-Neretva Canton
+Posavina Canton
+Sarajevo Canton
+Tuzla Canton
+Una-Sana Canton
+West Herzegovina Canton
+Zenica-Doboj Canton
+Mostar
+Sarajevo
+Tuzla
+Zenica
+Banja Luka
+Bijeljina
+Prijedor
 Central District
 Chobe District
 Francistown
@@ -1429,27 +1438,54 @@ Desamparados
 Goicoechea
 Perez Zeledon
 San Jose
-Bjelovarsko-bilogorska
-Brodsko-posavska
-Dubrovacko-neretvanska
-Grad Zagreb
-Istarska
-Karlovacka
-Koprivnicko-krizevacka
-Krapinsko-zagorska
-Licko-senjska
-Medimurska
-Osjecko-baranjska
-Pozesko-slavonska
-Primorsko-goranska
-Sibensko-kninska
-Sisacko-moslavacka
-Splitsko-dalmatinska
-Varazdinska
-Viroviticko-podravska
-Vukovarsko-srijemska
-Zadarska
-Zagrebacka
+Bjelovar-Bilogora County
+Brod-Posavina County
+Dubrovnik-Neretva County
+Istria County
+Karlovac County
+Koprivnica-Krizevci County
+Krapina-Zagorje County
+Lika-Senj County
+Medimurje County
+Osijek-Baranja County
+Pozega-Slavonia County
+Primorje-Gorski Kotar County
+Sibenik-Knin County
+Sisak-Moslavina County
+Split-Dalmatia County
+Varazdin County
+Virovitica-Podravina County
+Vukovar-Srijem County
+Zadar County
+Zagreb County
+Zagreb
+Bjelovar
+Slavonski Brod
+Dubrovnik
+Pula
+Karlovac
+Koprivnica
+Krizevci
+Cakovec
+Dakovo
+Osijek
+Pozega
+Rijeka
+Sibenik
+Kutina
+Petrinja
+Sisak
+Kastela
+Sinj
+Split
+Varazdin
+Virovitica
+Vinkovci
+Vukovar
+Zadar
+Samobor
+Velika Gorica
+Zapresic
 Artemisa Province
 Cienfuegos Province
 Granma Province
@@ -2436,6 +2472,7 @@ Greater Accra Region
 Volta Region
 Western Region
 Kumasi
+Accra
 Attica
 Central Greece
 Central Macedonia
@@ -2784,139 +2821,139 @@ Puglia
 Sardegna
 Sicilia
 Toscana
-Trentino Alto Adige
+Trentino-Alto Adige
 Umbria
 Valle d Aosta
 Veneto
+Province of Chieti
+Province of L Aquila
+Province of Pescara
+Province of Teramo
 L Aquila
-Provincia dell Aquila
-Provincia di Chieti
-Provincia di Pescara
-Provincia di Teramo
+Province of Matera
+Province of Potenza
 Potenza
-Provincia di Matera
-Provincia di Potenza
+Metropolitan City of Reggio Calabria
+Province of Catanzaro
+Province of Cosenza
+Province of Crotone
+Province of Vibo Valentia
 Catanzaro
-Provincia di Catanzaro
-Provincia di Cosenza
-Provincia di Crotone
-Provincia di Reggio Calabria
-Provincia di Vibo Valentia
-Citta metropolitana di Napoli
+Metropolitan City of Napoli
+Province of Avellino
+Province of Benevento
+Province of Caserta
+Province of Salerno
 Napoli
-Provincia di Avellino
-Provincia di Benevento
-Provincia di Caserta
-Provincia di Salerno
+Metropolitan City of Bologna
+Province of Ferrara
+Province of Forli-Cesena
+Province of Modena
+Province of Parma
+Province of Piacenza
+Province of Ravenna
+Province of Reggio Emilia
+Province of Rimini
 Bologna
-Citta metropolitana di Bologna
-Provincia di Ferrara
-Provincia di Forli-Cesena
-Provincia di Modena
-Provincia di Parma
-Provincia di Piacenza
-Provincia di Ravenna
-Provincia di Reggio Emilia
-Provincia di Rimini
-Provincia di Gorizia
-Provincia di Pordenone
-Provincia di Trieste
-Provincia di Udine
+Province of Gorizia
+Province of Pordenone
+Province of Trieste
+Province of Udine
 Trieste
-Citta metropolitana di Roma
-Provincia di Frosinone
-Provincia di Latina
-Provincia di Rieti
-Provincia di Viterbo
+Metropolitan City of Roma
+Province of Frosinone
+Province of Latina
+Province of Rieti
+Province of Viterbo
 Roma
-Citta metropolitana di Genova
+Metropolitan City of Genova
+Province of Imperia
+Province of La Spezia
+Province of Savona
 Genova
-Provincia della Spezia
-Provincia di Imperia
-Provincia di Savona
-Citta metropolitana di Milano
+Metropolitan City of Milano
+Province of Bergamo
+Province of Brescia
+Province of Como
+Province of Cremona
+Province of Lecco
+Province of Lodi
+Province of Mantova
+Province of Monza and Brianza
+Province of Pavia
+Province of Sondrio
+Province of Varese
 Milano
-Provincia di Bergamo
-Provincia di Brescia
-Provincia di Como
-Provincia di Cremona
-Provincia di Lecco
-Provincia di Lodi
-Provincia di Mantova
-Provincia di Monza e della Brianza
-Provincia di Pavia
-Provincia di Sondrio
-Provincia di Varese
+Province of Ancona
+Province of Ascoli Piceno
+Province of Fermo
+Province of Macerata
+Province of Pesaro and Urbino
 Ancona
-Provincia di Ancona
-Provincia di Ascoli Piceno
-Provincia di Fermo
-Provincia di Macerata
-Provincia di Pesaro e Urbino
+Province of Campobasso
+Province of Isernia
 Campobasso
-Provincia di Campobasso
-Provincia di Isernia
-Citta metropolitana di Torino
-Provincia del Verbano-Cusio-Ossola
-Provincia di Alessandria
-Provincia di Asti
-Provincia di Biella
-Provincia di Cuneo
-Provincia di Novara
-Provincia di Vercelli
+Metropolitan City of Torino
+Province of Alessandria
+Province of Asti
+Province of Biella
+Province of Cuneo
+Province of Novara
+Province of Verbano-Cusio-Ossola
+Province of Vercelli
 Torino
+Metropolitan City of Bari
+Province of Barletta-Andria-Trani
+Province of Brindisi
+Province of Foggia
+Province of Lecce
+Province of Taranto
 Bari
-Citta metropolitana di Bari
-Provincia di Barletta-Andria-Trani
-Provincia di Brindisi
-Provincia di Foggia
-Provincia di Lecce
-Provincia di Taranto
+Province of Cagliari
+Province of Carbonia-Iglesias
+Province of Nuoro
+Province of Ogliastra
+Province of Olbia-Tempio
+Province of Oristano
+Province of Sassari
 Cagliari
-Provincia dell Ogliastra
-Provincia di Cagliari
-Provincia di Carbonia-Iglesias
-Provincia di Nuoro
-Provincia di Olbia-Tempio
-Provincia di Oristano
-Provincia di Sassari
+Metropolitan City of Catania
+Metropolitan City of Messina
+Metropolitan City of Palermo
+Province of Agrigento
+Province of Caltanissetta
+Province of Enna
+Province of Ragusa
+Province of Siracusa
+Province of Trapani
 Catania
-Citta metropolitana di Catania
-Citta metropolitana di Messina
-Citta metropolitana di Palermo
-Libero Consorzio Comunale di Agrigento
-Libero Consorzio Comunale di Caltanissetta
-Libero Consorzio Comunale di Enna
-Libero Consorzio Comunale di Ragusa
-Libero Consorzio Comunale di Siracusa
-Libero Consorzio Comunale di Trapani
 Palermo
-Citta metropolitana di Firenze
+Metropolitan City of Firenze
+Province of Arezzo
+Province of Grosseto
+Province of Livorno
+Province of Lucca
+Province of Massa and Carrara
+Province of Pisa
+Province of Pistoia
+Province of Prato
+Province of Siena
 Firenze
-Provincia di Arezzo
-Provincia di Grosseto
-Provincia di Livorno
-Provincia di Lucca
-Provincia di Massa-Carrara
-Provincia di Pisa
-Provincia di Pistoia
-Provincia di Prato
-Provincia di Siena
-Provincia autonoma di Bolzano
-Provincia autonoma di Trento
+Autonomous Province of Bolzano
+Autonomous Province of Trento
 Trento
+Province of Perugia
+Province of Terni
 Perugia
-Provincia di Perugia
-Provincia di Terni
+Province of Aosta
 Aosta
-Provincia di Aosta
-Citta metropolitana di Venezia
-Provincia di Belluno
-Provincia di Padova
-Provincia di Rovigo
-Provincia di Treviso
-Provincia di Verona
-Provincia di Vicenza
+Metropolitan City of Venezia
+Province of Belluno
+Province of Padova
+Province of Rovigo
+Province of Treviso
+Province of Verona
+Province of Vicenza
 Venezia
 Abidjan
 Aichi Prefecture
@@ -3439,8 +3476,10 @@ Anenii Noi District
 Balti
 Basarabeasca District
 Bender
+Briceni District
 Cahul District
 Calarasi District
+Cantemir District
 Causeni District
 Chisinau
 Cimislia District
@@ -3450,7 +3489,9 @@ Drochia District
 Dubasari District
 Edinet District
 Falesti District
+Floresti District
 Gagauzia
+Glodeni District
 Hincesti District
 Ialoveni District
 Leova District
@@ -3464,6 +3505,7 @@ Soldanesti District
 Soroca District
 Stefan Voda District
 Straseni District
+Taraclia District
 Telenesti District
 Transnistria
 Ungheni District
@@ -3525,6 +3567,7 @@ Bijelo Polje
 Budva
 Cetinje
 Danilovgrad
+Gusinje
 Herceg Novi
 Kolasin
 Kotor
@@ -3539,7 +3582,6 @@ Savnik
 Tivat
 Ulcinj
 Zabljak
-Gusinje
 Agadir
 Al Hoceima
 Azilal
@@ -5284,6 +5326,7 @@ Satu Mare County
 Sibiu County
 Suceava County
 Teleorman County
+Thumbs.db
 Timis County
 Tulcea County
 Valcea County
@@ -5842,10 +5885,10 @@ Beograd
 Kosovo
 Kragujevac
 Nis
+Vojvodina
 Novi Sad
 Pancevo
 Subotica
-Vojvodina
 Zrenjanin
 Central Singapore
 North East
@@ -5871,17 +5914,214 @@ Trencin
 Trnava
 Martin
 Zilina
-Gorenjska
-Koroska
-Obalno-kraska
-Osrednjeslovenska
-Podravska
-Pomurska
-Posavska
-Primorsko-notranjska
-Savinjska
-Zasavska
+Ajdovscina
+Apace
+Beltinci
+Benedikt
+Bistrica ob Sotli
+Bled
+Bloke
+Bohinj
+Borovnica
+Bovec
+Braslovce
+Brda
+Brezice
+Brezovica
+Cankova
+Celje
+Cerklje na Gorenjskem
+Cerknika
+Cerkno
+Cerkvenjak
+Cirkulane
+Crensovci
+Crna na Koroskem
+Crnomelj
+Destrnik
+Divaca
+Dobje
+Dobrepolje
+Dobrna
+Dobrova-Polhov Gradec
+Dobrovnik
+Dolenjske Toplice
+Dol pri Ljubljani
+Domzale
+Dornava
+Dravograd
+Duplek
+Gorenja Vas-Poljane
+Gorisnica
+Gorje
+Gornja Radgona
+Gornji Grad
+Gornji Petrovci
+Grosuplje
+Hajdina
+Hoce-Slivnica
+Hodos
+Horjul
+Hrastnik
+Hrpelje-Kozina
+Idrija
+Ig
+Ilirska Bistrica
+Ivancna Gorica
+Izola
+Jesenice
+Jezersko
+Jursinci
+Kamnik
+Kanal ob Soci
+Kidricevo
+Kobarid
+Kobilje
+Kocevje
+Komenda
+Komen
+Koper
+Kostanjevica na Krki
+Kostel
+Kozje
+Kranj
+Kranjska Gora
+Krizevci
+Krsko
+Kungota
+Kuzma
+Lasko
+Lenart
+Lendava
+Litija
 Ljubljana
+Ljubno
+Ljutomer
+Logatec
+Log-Dragomer
+Loska Dolina
+Loski Potok
+Lovrenc na Pohorju
+Luce
+Lukovica
+Majsperk
+Makole
+Maribor
+Markovci
+Medvode
+Menges
+Metlika
+Mezica
+Miklavz na Dravskem Polju
+Miren-Kostanjevica
+Mirna Pec
+Mislinja
+Mokronog-Trebelno
+Moravce
+Moravske Toplice
+Mozirje
+Murska Sobota
+Muta
+Naklo
+Nazarje
+Nova Gorica
+Novo Mesto
+Odranci
+Oplotnica
+Ormoz
+Osilnica
+Pesnica
+Piran
+Pivka
+Podcetrtek
+Podlehnik
+Podvelka
+Poljcane
+Polzela
+Postojna
+Prebold
+Preddvor
+Prevalje
+Ptuj
+Puconci
+Race-Fram
+Radece
+Radenci
+Radlje ob Dravi
+Radovljica
+Ravne na Koroskem
+Razkrizje
+Recica ob Savinji
+Rence-Vogrsko
+Ribnica na Pohorju
+Ribnica
+Rogaska Slatina
+Rogasovci
+Rogatec
+Ruse
+Selnica ob Dravi
+Semic
+Sempeter-Vrtojba
+Sencur
+Sentilj
+Sentjernej
+Sentjur
+Sentrupert
+Sevnica
+Sezana
+Skocjan
+Skofja Loka
+Skofljica
+Slovenj Gradec
+Slovenska Bistrica
+Slovenske Konjice
+Smarje pri Jelsah
+Smarjeske Toplice
+Smartno ob Paki
+Smartno pri Litiji
+Sodrazica
+Solcava
+Sostanj
+Sredisce ob Dravi
+Starse
+Store
+Straza
+Sveta Ana v Slovenskih Goricah
+Sveta Trojica v Slovenskih Goricah
+Sveti Andraz v Slovenskih Goricah
+Sveti Jurij ob Scavnici
+Sveti Jurij v Slovenskih Goricah
+Sveti Tomaz
+Tabor
+Tisina
+Tolmin
+Trbovlje
+Trebnje
+Trnovska Vas
+Trzic
+Trzin
+Turnisce
+Velenje
+Velika Polana
+Velike Lasce
+Verzej
+Videm
+Vipava
+Vitanje
+Vodice
+Vojnik
+Vransko
+Vrhnika
+Vuzenica
+Zagorje ob Savi
+Zalec
+Zavrc
+Zelezniki
+Zetale
+Ziri
+Zirovnica
+Zrece
+Zuzemberk
 Central Province
 Choiseul Province
 Guadalcanal Province
@@ -5929,16 +6169,16 @@ South Chungcheong Province
 South Gyeongsang Province
 South Jeolla Province
 Ulsan
-Andalusia
+Andalucia
 Aragon
 Asturias
 Balearic Islands
 Basque Country
 Canary Islands
 Cantabria
-Castile and Leon
-Castile-La Mancha
-Catalonia
+Castilla and Leon
+Castilla-La Mancha
+Cataluna
 Ceuta
 Community of Madrid
 Extremadura
@@ -5948,17 +6188,60 @@ Melilla
 Navarra
 Region of Murcia
 Valencian Community
+Province of Almeria
+Province of Cadiz
+Province of Cordoba
+Province of Granada
+Province of Huelva
+Province of Jaen
+Province of Malaga
+Province of Sevilla
+Province of Huesca
+Province of Teruel
+Province of Zaragoza
 Formentera
 Ibiza
 Mallorca
 Menorca
-El Hierro
+Araba
+Bizkaia
+Gipuzkoa
+Province of Las Palmas
+Province of Santa Cruz de Tenerife
 Fuerteventura
 Gran Canaria
-La Gomera
 Lanzarote
+El Hierro
+La Gomera
 La Palma
 Tenerife
+Province of Avila
+Province of Burgos
+Province of Leon
+Province of Palencia
+Province of Salamanca
+Province of Segovia
+Province of Soria
+Province of Valladolid
+Province of Zamora
+Province of Albacete
+Province of Ciudad Real
+Province of Cuenca
+Province of Guadalajara
+Province of Toledo
+Province of Barcelona
+Province of Girona
+Province of Lleida
+Province of Tarragona
+Province of Badajoz
+Province of Caceres
+Province of A Coruna
+Province of Lugo
+Province of Ourense
+Province of Pontevedra
+Province of Alicante
+Province of Castellon
+Province of Valencia
 Central Province
 Eastern Province
 North Central Province
