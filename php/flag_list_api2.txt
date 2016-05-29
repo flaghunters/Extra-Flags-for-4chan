@@ -286,7 +286,7 @@ Oost-Vlaanderen
 Vlaams-Brabant
 West-Vlaanderen
 Aartselaar
-Antwerpen
+Antwerpen (Stad)
 Arendonk
 Baarle-Hertog
 Balen
@@ -1045,6 +1045,7 @@ Floriano
 Teresina
 Belford Roxo
 Campos dos Goytacazes
+Cidade do Rio de Janeiro
 Duque de Caxias
 Itaperuna
 Macae
@@ -1052,7 +1053,6 @@ Niteroi
 Nova Iguacu
 Petropolis
 Rio das Ostras
-Rio de Janeiro
 Sao Goncalo
 Sao Joao de Meriti
 Teresopolis
@@ -1100,6 +1100,7 @@ Caieiras
 Campinas
 Caraguatatuba
 Carapicuiba
+Cidade do Sao Paulo
 Cravinhos
 Cruzeiro
 Cubatao
@@ -1143,7 +1144,6 @@ Sao Caetano do Sul
 Sao Carlos
 Sao Jose do Rio Preto
 Sao Jose dos Campos
-Sao Paulo
 Sao Vicente
 Sorocaba
 Suzano
@@ -3826,7 +3826,7 @@ Bellingwedde
 Delfzijl
 De Marne
 Eemsmond
-Groningen
+Groningen (Stad)
 Grootegast
 Haren
 Hoogezand-Sappemeer
@@ -4032,7 +4032,7 @@ Renswoude
 Rhenen
 Soest
 Stichtse Vecht
-Utrecht
+Utrecht (Stad)
 Utrechtse Heuvelrug
 Veenendaal
 Vianen
@@ -8207,7 +8207,7 @@ San Fernando de Apure
 La Victoria
 Maracay
 Turmero
-Barinas
+Barinas (Ciudad)
 Ciudad Bolivar
 Upata
 Caracas
