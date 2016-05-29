@@ -9,7 +9,7 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.21
+// @version     0.22
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -36,10 +36,10 @@
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
 var regions = [];
-var filter = false;
+var radio = "all";
 var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
-var filterVariable = 'filterVariableAPI2';
+var radioVariable = 'radioVariableAPI2';
 var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
@@ -58,7 +58,7 @@ var setup = {
     id: "ExtraFlags-setup",
     html: function () {
 
-        var htmlFixedStart = '<div>Extra Flags for 4chan</div><br/>';
+        var htmlFixedStart = '<div>Extra Flags for 4chan v2</div><br/>';
         var htmlBackButton = '<button name="back">Back</button>';
         var htmlNextButton = '<button name="forward">Next</button>';
         var htmlBackNextButtons = '<div>' + htmlBackButton + htmlNextButton + '</div>';
@@ -69,23 +69,26 @@ var setup = {
             '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
             '<a href="https://github.com/flaghunters/Extra-Flags-for-4chan/issues" style="color:blue">' +
             'https://github.com/flaghunters/Extra-Flags-for-4chan/issues</a></label>';
-        var filter = '<br/><br/><input type="checkbox" style="display: inline !important;" id="' + shortId +
-            'filterCheckbox"><label>Only display country + first region for each post.</label>';
+        var filterRadio = '<br/><br/><form id="filterRadio">' +
+            '<input type="radio" name="filterRadio" id="filterRadioall" style="display: inline !important;" value="all"><label>Show country + ALL regions.</label>' +
+            '<br/><input type="radio" name="filterRadio" id="filterRadiofirst" style="display: inline !important;" value="first"><label>Only show country + FIRST region.</label>' +
+            '<br/><input type="radio" name="filterRadio" id="filterRadiolast" style="display: inline !important;" value="last"><label>Only show country + LAST region. (v1/old format)</label>' +
+            '</form>';
 
         if (regions.length > 1) {
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filter;
+                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filterRadio;
         }
 
         if (regions.length > 0) {
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filter;
+                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filterRadio;
         }
 
         return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
-            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filter;
+            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filterRadio;
 
     },
     fillHtml: function (path1) {
@@ -137,13 +140,13 @@ var setup = {
             }
         });
     },
-    setFilterCheckbox: function() {
-        var checkbox = document.getElementById(shortId + "filterCheckbox");
-        var filter = setup.load(filterVariable);
-
-        if (filter === true) {
-            checkbox.checked = true;
+    setRadio: function() {
+        var radioStatus = setup.load(radioVariable);
+        if (!radioStatus || radioStatus === "" || radioStatus === "undefined") {
+            radioStatus = "all";
         }
+        var radioButton = document.getElementById("filterRadio" + radioStatus);
+        radioButton.checked = true;
     },
     q: function (n) {
         return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
@@ -174,7 +177,7 @@ var setup = {
 
         document.body.appendChild(setup_el);
 
-        setup.setFilterCheckbox();
+        setup.setRadio();
 
         /* button listeners */
         setup.q('back').addEventListener('click', function () {
@@ -221,12 +224,8 @@ var setup = {
             }
             lastRegion = "";
 
-            filter = false;
-            var checkbox = document.getElementById(shortId + "filterCheckbox");
-            if (checkbox.checked) {
-                filter = true;
-            }
-            setup.save(filterVariable, filter);
+            radio = document.querySelector('input[name="filterRadio"]:checked').value;
+            setup.save(radioVariable, radio);
 
             alert('Flags set: ' + regions + '\n\n' +
                 'Refresh all your 4chan tabs!');
@@ -252,7 +251,7 @@ var setup = {
 
 /** Prompt to set region if regionVariable is empty  */
 regions = setup.load(regionVariable);
-filter = setup.load(filterVariable);
+radio = setup.load(radioVariable);
 if (!regions) {
     regions = [];
     setTimeout(function () {
@@ -260,6 +259,9 @@ if (!regions) {
             setup.show();
         }
     }, 2000);
+}
+if (!radio || radio === "" || radio === "undefined") {
+    radio = "all";
 }
 
 /** parse the posts already on the page before thread updater kicks in */
@@ -296,26 +298,29 @@ function onFlagsLoad(response) {
             for (var i = 0; i < postedRegions.length; i++) {
                 path += "/" + postedRegions[i];
 
-                var newFlag = document.createElement('a');
-                nameBlock.appendChild(newFlag);
+                // this is probably quite a dirty fix, but it's fast
+                if ((radio === "all") || (radio === "first" && i === 0) || (radio === "last" && i === (postedRegions.length - 1))) {
+                    var newFlag = document.createElement('a');
+                    nameBlock.appendChild(newFlag);
 
-                var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
-                    '\').getElementsByClassName(\'extraFlag\')[' + i +
-                    '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
-                    flegsBaseUrl + 'empty.png\';}})();"';
+                    var lastI = i;
+                    if (radio === 'last') {
+                        lastI = 0;
+                    }
 
-                newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + " title='" + postedRegions[i] + "'>";
-                newFlag.className = "extraFlag";
-                newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
-                newFlag.target = '_blank';
-                //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-                newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
+                    var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
+                        '\').getElementsByClassName(\'extraFlag\')[' + lastI +
+                        '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
+                        flegsBaseUrl + 'empty.png\';}})();"';
 
-                console.log("resolved " + postedRegions[i]);
+                    newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + " title='" + postedRegions[i] + "'>";
+                    newFlag.className = "extraFlag";
+                    newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
+                    newFlag.target = '_blank';
+                    //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
+                    newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
-                if (filter === true) {
-                    console.log("filter enabled, breaking");
-                    break;
+                    //console.log("resolved " + postedRegions[i]);
                 }
             }
         }
