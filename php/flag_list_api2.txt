@@ -1045,7 +1045,6 @@ Floriano
 Teresina
 Belford Roxo
 Campos dos Goytacazes
-Cidade do Rio de Janeiro
 Duque de Caxias
 Itaperuna
 Macae
@@ -1053,6 +1052,7 @@ Niteroi
 Nova Iguacu
 Petropolis
 Rio das Ostras
+Rio de Janeiro
 Sao Goncalo
 Sao Joao de Meriti
 Teresopolis
@@ -1100,7 +1100,6 @@ Caieiras
 Campinas
 Caraguatatuba
 Carapicuiba
-Cidade de Sao Paulo
 Cravinhos
 Cruzeiro
 Cubatao
@@ -1144,6 +1143,7 @@ Sao Caetano do Sul
 Sao Carlos
 Sao Jose do Rio Preto
 Sao Jose dos Campos
+Sao Paulo
 Sao Vicente
 Sorocaba
 Suzano
@@ -4460,7 +4460,7 @@ Snillfjord
 Trondheim
 Tydal
 Bamble
-Bo i Telemark
+Bo
 Drangedal
 Fyresdal
 Hjartdal
