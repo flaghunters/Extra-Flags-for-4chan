@@ -7,5 +7,5 @@ do
 done < .dir.txt
 	
 ls -p1 | grep -v / | sed -e 's/\..*$//' | grep -v "flag_list" > flag_list.txt
-rm .dir.txt
+
 
