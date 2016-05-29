@@ -1,4 +1,4 @@
-﻿Badakhshan Province
+Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -7786,6 +7786,7 @@ Colorado
 Connecticut
 Delaware
 District of Columbia
+flag_list_api2.txt
 Florida
 Georgia
 Hawaii
@@ -8089,10 +8090,40 @@ Tamarac
 Tampa
 West Melbourne
 Winter Park
+Alto
+Aragon
+Athens
 Atlanta
 Augusta
+Bainbridge
+Brunswick
+Centerville
+Chickamauga
+Clarkston
+Columbus
+Cordele
+Covington
+Decatur
+Douglasville
+Duluth
+Fayetteville
+Gray
+Grayson
+Hahira
+Jekyll Island
+LaFayette
+Lake Park
+Mt. Zion
+Peachtree
+Porterdale
+Roswell
 Savannah
+Summerville
+Swainsboro
+Trenton
 Tybee
+Vidalia
+Walnut Grove
 Honolulu
 Chicago
 Joliet
