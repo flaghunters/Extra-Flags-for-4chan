@@ -1,4 +1,4 @@
-﻿Badakhshan Province
+Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -7830,64 +7830,176 @@ Wyoming
 Andalusia
 Atmore
 Auburn
+Baldwin County
 Birmingham
+Chatom
+Cherokee County
+Cleburne County
+Cullman
 Dauphin Island
+Decatur
 Elba
 Enterprise
+Florence
 Gadsden
 Greensboro
+Indian Springs
+Jackson
 Mobile
 Montgomery
+Ozark
+Pelham
+Red Bay
 Tuscaloosa
+Vance
 Vestavia Hills
+Washington County
 Anchorage
 Apache Junction
 Bullhead City
+Chandler
+Florence
+Fountain Hills
+Glendale
+Maricopa
 Mesa
+Oro Valley
+Peoria
 Phoenix
+Pima
 Queen Creek
+Scottsdale
+Sedona
+St Johns
+Sun City West
+Superior
+Surprise
+Tucson
+Winslow
+Beebe
+Bryant
 Conway
 Fayetteville
 Fort Smith
+Jacksonville
 Little Rock
 Marked Tree
+Paragould
+Texarkana
 West Memphis
+Adelanto
 Alameda
+Albany
+Anaheim
+Antioch
+Bakersfield
+Barstow
+Bellflower
+Bell
+Beverly Hills
+Burbank
+Calabasas
 Carson
 Cerritos
+Chula Vista
+Concord
+Coronado
+Costa Mesa
+Cupertino
+Daly City
+Diamond Bar
 Downey
+Eagle Rock
 Elk Grove
+El Monte
+Escondido
 Fillmore
+Fremont
 Fresno
 Fullerton
+Gardena
 Garden Grove
+Gilroy
+Glendale
+Goleta
 Hayward
+Hemet
 Hillsborough
 Irvine
 Jackson
+La Crescenta-Montrose
 Lancaster
+La Quinta
+Lawndale
+Livermore
+Lodi
+Lomita
 Los Angeles
+Los Gatos
 Martinez
+Merced
+Mission Viejo
+Monrovia
+Monterey
 Montery
+Moorpark
+Moreno Valley
+Morgan Hill
 Morro Bay
 Newark
+Norco
 Oakdale
 Oakland
 Oceanside
+Orange
+Palmdale
+Palm Springs
 Palo Alto
+Paradise
+Pico Rivera
 Pittsburg
+Pleasant Hill
 Pomona
+Port Hueneme
+Poway
+Rancho Mirage
+Rancho Santa Margarita
+Rialto
 Riverside
 Sacramento
+San Clemente
 San Diego
 San Francisco
+San Gabriel
+San Jose
+San Leandro
+San Luis Obispo
 Santa Ana
 Santa Barbara
+Santa Clara
 Seaside
+Sierra Madre
 Solvang
+Sonoma
+South Pasadena
+Stanton
+Stockton
+Temple City
+Torrance
+Twentynine Palms
+Vallejo
+Walnut Creek
+West Hollywood
 Westminster
+Woodland
+Arvada
+Aspen
+Centennial
 Colorado Springs
+Commerce City
 Denver
+Estes Park
+Evans
 Fort Collins
 Golden
 La Junta
@@ -7895,8 +8007,25 @@ Loveland
 Montrose
 Pueblo
 Westminster
+Ansonia
+Bethel
 Bridgeport
+Colchester
+East Hartford
+Greenwich
+Hartford
+Mansfield
+Milford
+New Haven
+New Milford
+Orange
+Stamford
+Westport
+Woodmont
+Delmar
 Dover
+Lewes
+Sussex County
 Wilmington
 Hialeah
 Jacksonville
@@ -7939,7 +8068,6 @@ Minneapolis
 St. Paul
 Jackson
 Kansas City
-St Louis
 St. Louis
 Billings
 Helena
