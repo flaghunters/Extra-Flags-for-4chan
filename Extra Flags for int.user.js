@@ -9,7 +9,7 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.22
+// @version     0.23
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -118,6 +118,7 @@ var setup = {
             onload: function (response) {
                 if (response.status == 404) { // detect if there are no more folders
                     setup.fillHtml(oldPath);
+                    setup.q('forward').disabled = true; // disable next button
                 }
                 //hide spam, debug purposes only
                 //console.log(response.responseText);
@@ -183,6 +184,10 @@ var setup = {
         setup.q('back').addEventListener('click', function () {
             if (regions.length > 0) {
                 //if (lastRegion == "") {
+
+                if (setup.q('forward').disabled == true) {
+                    setup.q('forward').disabled = false; // reenable next button
+                }
                 if (regions.length > 2) {
                     lastRegion = regions[regions.length - 2];
                     regions.pop();
@@ -213,10 +218,13 @@ var setup = {
         setup.q('save').addEventListener('click', function () {
             var e = document.getElementById(shortId + "countrySelect");
             var temp = e.options[e.selectedIndex].value;
-            if (temp !== "" && temp !== regions[regions.length - 1]) {
+            if (temp !== "" && temp !== regions[regions.length - 1] && setup.q('forward').disabled !== true) {
                 regions.push(temp);
-            } else if (lastRegion !== "" && lastRegion !== regions[regions.length - 1] && lastRegion !== regions[regions.length - 2]) {
+            } else if (lastRegion !== "" && lastRegion !== regions[regions.length - 1] && lastRegion !== regions[regions.length - 2] && setup.q('forward').disabled !== true) {
                 regions.push(lastRegion);
+            } else if (setup.q('forward').disabled == true) {
+                regions.pop();
+                regions.push(temp);
             }
 
             if (regions[regions.length - 1] === "") { //prevent last spot from being blank
