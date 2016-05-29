@@ -320,7 +320,7 @@ function onFlagsLoad(response) {
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
 
-                    //console.log("resolved " + postedRegions[i]);
+                    console.log("resolved " + postedRegions[i]);
                 }
             }
         }
