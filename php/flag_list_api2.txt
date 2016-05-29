@@ -1,4 +1,4 @@
-Badakhshan Province
+﻿Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -1834,6 +1834,13 @@ Picardie
 Poitou-Charentes
 Provence-Alpes-Cotes d Azur
 Rhone-Alpes
+Strasbourg
+Paris
+Metz
+Nantes
+Marseille
+Nice
+Lyon
 Cayenne
 Austral Islands
 Gambier Islands
