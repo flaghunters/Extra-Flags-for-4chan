@@ -286,7 +286,7 @@ Oost-Vlaanderen
 Vlaams-Brabant
 West-Vlaanderen
 Aartselaar
-Antwerp (City)
+Antwerp
 Arendonk
 Baarle-Hertog
 Balen
@@ -3381,12 +3381,12 @@ Kercem
 Munxar
 Nadur
 Qala
-Rabat (Gozo)
+Rabat
 San Lawrenz
 Sannat
 Xaghra
 Xewkija
-Zebbug (Gozo)
+Zebbug
 Dingli
 Gharghur
 Mdina
@@ -3825,7 +3825,7 @@ Bellingwedde
 Delfzijl
 De Marne
 Eemsmond
-Groningen (stad)
+Groningen
 Grootegast
 Haren
 Hoogezand-Sappemeer
@@ -3844,7 +3844,7 @@ Winsum
 Zuidhorn
 Beek
 Beesel
-Bergen (Limburg)
+Bergen
 Brunssum
 Echt-Susteren
 Eijsden-Margraten
@@ -3946,7 +3946,7 @@ Alkmaar
 Amstelveen
 Amsterdam
 Beemster
-Bergen (Noord-Holland)
+Bergen
 Beverwijk
 Blaricum
 Bloemendaal
@@ -4031,8 +4031,8 @@ Renswoude
 Rhenen
 Soest
 Stichtse Vecht
+Utrecht
 Utrechtse Heuvelrug
-Utrecht (stad)
 Veenendaal
 Vianen
 Wijk bij Duurstede
@@ -6607,7 +6607,7 @@ Cubuk
 Elmadag
 Etimesgut
 Evren
-Golbasi (Ankara)
+Golbasi
 Gudul
 Haymana
 Kalecik
@@ -7144,7 +7144,7 @@ Demirkoy
 Evrensekiz
 Igneada
 Kavakli
-Kaynarca (Kirklareli)
+Kaynarca
 Kirklareli
 Kiyikoy
 Kofcaz
@@ -7272,7 +7272,7 @@ Bayir
 Beldibi
 Bitez
 Bodrum
-Bozuyuk (Mugla)
+Bozuyuk
 Dalaman
 Dalyan
 Datca
@@ -8077,7 +8077,7 @@ San Fernando de Apure
 La Victoria
 Maracay
 Turmero
-Barinas (ciudad)
+Barinas
 Ciudad Bolivar
 Upata
 Caracas
