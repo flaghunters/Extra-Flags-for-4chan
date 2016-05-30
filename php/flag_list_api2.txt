@@ -927,10 +927,12 @@ Santa Catarina
 Sao Paulo
 Sergipe
 Tocantins
+Brasileia
 Cruzeiro do Sul
 Mancio Lima
 Placido de Castro
 Rio Branco
+Tarauaca
 Xapuri
 Maceio
 Macapa
@@ -1077,10 +1079,22 @@ Sapucaia do Sul
 Viamao
 Porto Velho
 Vilhena
+Alto Alegre
+Amajari
 Boa Vista
 Bonfim
+Canta
 Caracarai
+Caroebe
+Iracema
+Mucajai
+Normandia
+Pacaraima
 Rorainopolis
+Sao Joao da Baliza
+Sao Luiz
+Thumbs.db
+Uiramuta
 Blumenau
 Camboriu
 Chapeco
@@ -8450,7 +8464,12 @@ Grand Rapids
 Minneapolis
 St. Paul
 Jackson
+Branson
+Columbia
+Independence
+Jefferson City
 Kansas City
+Springfield
 St. Louis
 Billings
 Helena
@@ -8499,6 +8518,9 @@ Springfield Twp
 York County
 York
 Columbia
+Rapid City
+Sioux Falls
+Vermillion
 Memphis
 Nashville
 Austin
