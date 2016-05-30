@@ -1,4 +1,4 @@
-﻿Badakhshan Province
+Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -1835,29 +1835,31 @@ Poitou-Charentes
 Provence-Alpes-Cotes d Azur
 Rhone-Alpes
 Bas-Rhin
-Strasbourg
 Haut-Rhin
+Strasbourg
 Mulhouse
 Gironde
-Bordeaux
 Pyrenees-Atlantiques
+Bordeaux
 Biarritz
 Cote-d Or
 Dijon
 Ille-et-Vilaine
-Rennes
 Morbihan
+Rennes
 Vannes
 Loiret
 Orleans
 Marne
 Reims
 Corse-du-Sud
-Ajaccio
 Haute-Corse
+Ajaccio
 Bastia
 Doubs
 Besancon
+Seine-Maritime
+Rouen
 Paris
 Herault
 Beziers
@@ -1869,8 +1871,8 @@ Metz
 Haute-Garonne
 Toulouse
 Nord
-Dunkerque
 Pas-de-Calais
+Dunkerque
 Calais
 Seine-Maritime
 Rouen
@@ -1881,16 +1883,16 @@ Amiens
 Vienne
 Poitiers
 Alpes-Maritimes
-Nice
 Bouches-du-Rhone
-Marseille
 Var
+Nice
+Marseille
 Toulon
 Haute-Savoie
-Annecy
 Isere
-Grenoble
 Metropolis of Lyon
+Annecy
+Grenoble
 Lyon
 Cayenne
 Austral Islands
@@ -7711,14 +7713,11 @@ Hampshire
 Herefordshire
 Hertfordshire
 Huntingdonshire
-Isle of Portland
 Isle of Wight
-Isles of Scilly
 Kent
 Lancashire
 Leicestershire
 Lincolnshire
-Lundy Island
 Mercia
 Merseyside
 Middlesex
@@ -7753,7 +7752,10 @@ Reading
 Wing
 Horningsea
 Chester
+Isles of Scilly
+Lundy Island
 Plymouth
+Isle of Portland
 Durham City
 Petersfield
 Blackpool
@@ -8301,14 +8303,66 @@ Warsaw
 West Lafayette
 Winona Lake
 Ames
+Anamosa
+Bettendorf
+Burlington
+Cedar Rapids
+Davenport
 Des Moines
+Dubuque
+Fort Dodge
+Madrid
+Osage
+Red Oak
+Sioux City
+Templeton
+Windsor Heights
+Countryside
+Dodge City
+Kansas City
+Lawrence
 Olathe
+Shawnee
 Topeka
 Wichita
+Alexandria
+Berea
+Bloomfield
+Edgewood
+Florence
+Fort Wright
+Frankfort
+Independence
+Irvington
+Lexington-Fayette
+Livermore
 Louisville
+Marion
+Maysville
+Newport
+Owensboro
+Pacudah
+Radcliff
+Abbeville
+Baker
 Baton Rouge
+Bossier City
+Cotton Valley
+DeRidder
+Folsom
+Gonzales
+Kenner
+Lafayette
+Lake Charles
+Mamou
+Mandeville
 New Orleans
 Shreveport
+St. Martinville
+Thibodaux
+Vidalia
+Ville Platte
+Westwego
 Baltimore
 Frederick County
 Montgomery County
@@ -8365,6 +8419,7 @@ Philadelphia
 Pittsburgh
 Pottstown
 Springfield Twp
+York County
 York
 Columbia
 Memphis
