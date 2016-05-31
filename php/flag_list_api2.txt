@@ -2082,7 +2082,7 @@ Tskaltubo
 Zestafoni
 Zugdidi
 Batumi
-Baden-Wurttemberg
+Baden-Württemberg
 Bayern
 Berlin
 Brandenburg
@@ -2097,16 +2097,16 @@ Saarland
 Sachsen-Anhalt
 Sachsen
 Schleswig-Holstein
-Thuringen
+Thüringen
 Bezirk Freiburg
 Bezirk Karlsruhe
 Bezirk Stuttgart
-Bezirk Tubingen
+Bezirk Tübingen
 Freiburg im Breisgau
 Landkreis Breisgau-Hochschwarzwald
 Landkreis Emmendingen
 Landkreis Konstanz
-Landkreis Lorrach
+Landkreis Lörrach
 Landkreis Rottweil
 Landkreis Tuttlingen
 Landkreis Waldshut
@@ -2126,13 +2126,13 @@ Pforzheim
 Rhein-Neckar-Kreis
 Heilbronn
 Hohenlohekreis
-Landkreis Boblingen
+Landkreis Böblingen
 Landkreis Esslingen
-Landkreis Goppingen
+Landkreis Göppingen
 Landkreis Heidenheim
 Landkreis Heilbronn
 Landkreis Ludwigsburg
-Landkreis Schwabisch Hall
+Landkreis Schwäbisch Hall
 Main-Tauber-Kreis
 Ostalbkreis
 Rems-Murr-Kreis
@@ -2143,7 +2143,7 @@ Landkreis Biberach
 Landkreis Ravensburg
 Landkreis Reutlingen
 Landkreis Sigmaringen
-Landkreis Tubingen
+Landkreis Tübingen
 Ulm
 Zollernalbkreis
 Bezirk Mittelfranken
@@ -2155,15 +2155,15 @@ Bezirk Schwaben
 Bezirk Unterfranken
 Ansbach
 Erlangen
-Furth
+Fürth
 Landkreis Ansbach
-Landkreis Erlangen-Hochstadt
-Landkreis Furth
+Landkreis Erlangen-Höchstadt
+Landkreis Fürth
 Landkreis Neustadt an der Aisch-Bad Windsheim
-Landkreis Nurnberger Land
+Landkreis Nürnberger Land
 Landkreis Roth
-Landkreis Weissenburg-Gunzenhausen
-Nurnberg
+Landkreis Weißenburg-Gunzenhausen
+Nürnberg
 Schwabach
 Landkreis Deggendorf
 Landkreis Dingolfing-Landau
@@ -2178,27 +2178,27 @@ Landshut
 Passau
 Straubing
 Ingolstadt
-Landkreis Altotting
-Landkreis Bad Tolz-Wolfratshausen
+Landkreis Altötting
+Landkreis Bad Tölz-Wolfratshausen
 Landkreis Berchtesgadener Land
 Landkreis Dachau
 Landkreis Ebersberg
-Landkreis Eichstatt
+Landkreis Eichstätt
 Landkreis Erding
 Landkreis Freising
-Landkreis Furstenfeldbruck
+Landkreis Fürstenfeldbruck
 Landkreis Garmisch-Partenkirchen
 Landkreis Landsberg am Lech
 Landkreis Miesbach
-Landkreis Muhldorf am Inn
-Landkreis Munchen
+Landkreis Mühldorf am Inn
+Landkreis München
 Landkreis Neuburg-Schrobenhausen
 Landkreis Pfaffenhofen an der Ilm
 Landkreis Rosenheim
 Landkreis Starnberg
 Landkreis Traunstein
 Landkreis Weilheim-Schongau
-Munchen
+München
 Rosenheim
 Bamberg
 Bayreuth
@@ -2233,22 +2233,22 @@ Landkreis Donau-Ries
 Landkreis Gunzburg
 Landkreis Lindau
 Landkreis Neu-Ulm
-Landkreis Oberallgau
-Landkreis Ostallgau
-Landkreis Unterallgau
+Landkreis Oberallgäu
+Landkreis Ostallgäu
+Landkreis Unterallgäu
 Memmingen
 Aschaffenburg
 Landkreis Aschaffenburg
 Landkreis Bad Kissingen
-Landkreis Hassberge
+Landkreis Haßberge
 Landkreis Kitzingen
 Landkreis Main-Spessart
 Landkreis Miltenberg
-Landkreis Rhon-Grabfeld
+Landkreis Rhön-Grabfeld
 Landkreis Schweinfurt
-Landkreis Wurzburg
+Landkreis Würzburg
 Schweinfurt
-Wurzburg
+Würzburg
 Brandenburg an der Havel
 Cottbus
 Frankfurt an der Oder
@@ -2256,7 +2256,7 @@ Landkreis Barnim
 Landkreis Dahme-Spreewald
 Landkreis Elbe-Elster
 Landkreis Havelland
-Landkreis Markisch-Oderland
+Landkreis Märkisch-Oderland
 Landkreis Oberhavel
 Landkreis Oberspreewald-Lausitz
 Landkreis Oder-Spree
@@ -2264,18 +2264,18 @@ Landkreis Ostprignitz-Ruppin
 Landkreis Potsdam-Mittelmark
 Landkreis Prignitz
 Landkreis Spree-Neisse
-Landkreis Teltow-Flaming
+Landkreis Teltow-Fläming
 Landkreis Uckermark
 Potsdam
 Bremerhaven
 Bezirk Darmstadt
-Bezirk Giessen
+Bezirk Gießen
 Bezirk Kassel
 Darmstadt
 Frankfurt am Main
 Hochtaunuskreis
 Landkreis Bergstrasse
-Landkreis Gross-Gerau
+Landkreis Groß-Gerau
 Landkreis Offenbach
 Landkreisreis Darmstadt-Dieburg
 Main-Kinzig-Kreis
@@ -2286,7 +2286,7 @@ Rheingau-Taunus-Kreis
 Wetteraukreis
 Wiesbaden
 Lahn-Dill-Kreis
-Landkreis Giessen
+Landkreis Gießen
 Landkreis Limburg-Weilburg
 Landkreis Marburg-Biedenkopf
 Vogelsbergkreis
@@ -2302,7 +2302,7 @@ Landkreis Mecklenburgische Seenplatte
 Landkreis Nordwestmecklenburg
 Landkreis Rostock
 Landkreis Vorpommern-Greifswald
-Landkreis Vorpommern-Rugen
+Landkreis Vorpommern-Rügen
 Rostock
 Schwerin
 Braunschweig
@@ -2319,7 +2319,7 @@ Landkreis Emsland
 Landkreis Friesland
 Landkreis Gifhorn
 Landkreis Goslar
-Landkreis Gottingen
+Landkreis Göttingen
 Landkreis Grafschaft Bentheim
 Landkreis Hameln-Pyrmont
 Landkreis Harburg
@@ -2327,12 +2327,12 @@ Landkreis Helmstedt
 Landkreis Hildesheim
 Landkreis Holzminden
 Landkreis Leer
-Landkreis Luchow-Dannenberg
-Landkreis Luneburg
+Landkreis Lüchow-Dannenberg
+Landkreis Lüneburg
 Landkreis Nienburg-Weser
 Landkreis Northeim
 Landkreis Oldenburg
-Landkreis Osnabruck
+Landkreis Osnabrück
 Landkreis Osterholz
 Landkreis Osterode am Harz
 Landkreis Peine
@@ -2344,7 +2344,7 @@ Landkreis Vechta
 Landkreis Verden
 Landkreis Wesermarsch
 Landkreis Wittmund
-Landkreis Wolfenbuttel
+Landkreis Wolfenbüttel
 Oldenburg
 Osnabruck
 Region Hannover
@@ -2353,9 +2353,9 @@ Wilhelmshaven
 Wolfsburg
 Bezirk Arnsberg
 Bezirk Detmold
-Bezirk Dusseldorf
-Bezirk Koln
-Bezirk Munster
+Bezirk Düsseldorf
+Bezirk Köln
+Bezirk Münster
 Bochum
 Dortmund
 Ennepe-Ruhr-Kreis
@@ -2367,14 +2367,14 @@ Kreis Olpe
 Kreis Siegen-Wittgenstein
 Kreis Soest
 Kreis Unna
-Markischer Kreis
+Märkischer Kreis
 Breckerfeld
 Ennepetal
 Gevelsberg
 Hattingen
 Herdecke
 Schwelm
-Sprockhovel
+Sprockhövel
 Wetter
 Witten
 Finnentrop
@@ -2382,15 +2382,15 @@ Kirchhundem
 Bad Laasphe
 Kreuztal
 Siegen
-Ruthen
+Rüthen
 Soest
 Welver
 Bergkamen
-Bonen
-Frondenberg
+Bönen
+Fröndenberg
 Holzwickede
 Kamen
-Lunen
+Lünen
 Schwerte
 Selm
 Unna
@@ -2399,7 +2399,7 @@ Altena
 Balve
 Halver
 Iserlohn
-Ludenscheid
+Lüdenscheid
 Menden
 Nachrodt-Wiblingwerde
 Neuenrade
@@ -2407,14 +2407,14 @@ Plettenberg
 Schalksmuhle
 Werdohl
 Bielefeld
-Kreis Gutersloh
+Kreis Gütersloh
 Kreis Herford
-Kreis Hoxter
+Kreis Höxter
 Kreis Lippe
-Kreis Minden-Lubbecke
+Kreis Minden-Lübbecke
 Kreis Paderborn
 Borgholzhausen
-Gutersloh
+Gütersloh
 Halle
 Harsewinkel
 Herzebrock-Clarholz
@@ -2426,40 +2426,40 @@ Steinhagen
 Verl
 Versmold
 Werther
-Bunde
+Bünde
 Enger
 Herford
 Hiddenhausen
 Kirchlengern
-Lohne
-Rodinghausen
+Löhne
+Rödinghausen
 Spenge
 Vlotho
 Brakel
 Nieheim
 Bad Oeynhausen
 Hille
-Hullhorst
-Lubbecke
+Hüllhorst
+Lübbecke
 Minden
 Petershagen
 Porta Westfalica
 Preussisch Oldendorf
 Rahden
 Stemwede
-Delbruck
+Delbrück
 Paderborn
 Salzkotten
 Duisburg
-Dusseldorf
+Düsseldorf
 Essen
 Krefeld
 Kreis Kleve
 Kreis Mettmann
 Kreis Viersen
 Kreis Wesel
-Monchengladbach
-Mulheim an der Ruhr
+Mönchengladbach
+Mülheim an der Ruhr
 Oberhausen
 Remscheid
 Rhein-Kreis Neuss
@@ -2484,23 +2484,23 @@ Mettmann
 Monheim
 Ratingen
 Velbert
-Wulfrath
-Tonisvorst
+Wülfrath
+Tönisvorst
 Viersen
 Willich
 Dinslaken
 Dormagen
 Grevenbroich
-Juchen
+Jüchen
 Korschenbroich
 Meerbusch
 Neuss
 Rommerskirchen
 Aachen
 Bonn
-Koln
+Köln
 Kreis Aachen
-Kreis Duren
+Kreis Düren
 Kreis Euskirchen
 Kreis Heinsberg
 Leverkusen
@@ -2508,34 +2508,34 @@ Oberbergischer Kreis
 Rhein-Erft-Kreis
 Rheinisch-Bergischer Kreis
 Rhein-Sieg-Kreis
-Duren
+Düren
 Heimbach
 Inden
 Kreuzau
 Linnich
 Niederzier
-Bad Munstereifel
+Bad Münstereifel
 Euskirchen
 Hellenthal
 Kall
 Nettersheim
-Zulpich
+Zülpich
 Erkelenz
-Ubach-Palenberg
+Übach-Palenberg
 Waldfeucht
 Wassenberg
 Wegberg
 Bergneustadt
 Engelskirchen
 Gummersbach
-Huckeswagen
+Hückeswagen
 Lindlar
 Morsbach
-Numbrecht
+Nümbrecht
 Radevormwald
-Waldbrol
+Waldbröl
 Wiehl
-Wipperfurth
+Wipperfürth
 Bottrop
 Gelsenkirchen
 Kreis Borken
@@ -2543,7 +2543,7 @@ Kreis Coesfeld
 Kreis Recklinghausen
 Kreis Steinfurt
 Kreis Warendorf
-Munster
+Münster
 Castrop-Rauxel
 Datteln
 Gladbeck
@@ -2551,7 +2551,7 @@ Haltern am See
 Recklinghausen
 Waltrop
 Donnersbergkreis
-Eifelkreis Bitburg-Pruem
+Eifelkreis Bitburg-Prüm
 Frankenthal
 Kaiserslautern
 Koblenz
@@ -2559,7 +2559,7 @@ Landau
 Landkreis Ahrweiler
 Landkreis Altenkirchen
 Landkreis Alzey-Worms
-Landkreis Bad Durkheim
+Landkreis Bad Dürkheim
 Landkreis Bad Kreuznach
 Landkreis Bernkastel-Wittlich
 Landkreis Birkenfeld
@@ -2570,50 +2570,50 @@ Landkreis Kusel
 Landkreis Mainz-Bingen
 Landkreis Mayen-Koblenz
 Landkreis Neuwied
-Landkreis Sudliche Weinstrasse
-Landkreis Sudwestpfalz
+Landkreis Südliche Weinstraße
+Landkreis Südwestpfalz
 Landkreis Trier-Saarburg
 Landkreis Vulkaneifel
 Ludwigshafen am Rhein
 Mainz
 Neustadt an der Weinstrasse
 Pirmasens
-Rhein-Hunsruck-Kreis
+Rhein-Hunsrück-Kreis
 Rhein-Lahn-Kreis
 Rhein-Pfalz-Kreis
 Speyer
 Trier
 Westerwaldkreis
 Worms
-Zweibrucken
+Zweibrücken
 Landkreis Merzig-Wadern
 Landkreis Neunkirchen
 Landkreis Saarlouis
 Landkreis St. Wendel
-Regionalverband Saarbrucken
+Regionalverband Saarbrücken
 Saarpfalz-Kreis
 Chemnitz
 Dresden
 Erzgebirgskreis
 Landkreis Bautzen
-Landkreis Gorlitz
+Landkreis Görlitz
 Landkreis Leipzig
 Landkreis Meissen
 Landkreis Mittelsachsen
 Landkreis Nordsachsen
-Landkreis Sachsische Schweiz-Osterzgebirge
+Landkreis Sächsische Schweiz-Osterzgebirge
 Landkreis Zwickau
 Leipzig
 Vogtlandkreis
 Altmarkkreis Salzwedel
 Burgenlandkreis
-Dessau-Rosslau
+Dessau-Roßlau
 Halle an der Saale
 Landkreis Anhalt-Bitterfeld
-Landkreis Borde
+Landkreis Börde
 Landkreis Harz
 Landkreis Jerichower Land
-Landkreis Mansfeld-Sudharz
+Landkreis Mansfeld-Südharz
 Landkreis Stendal
 Landkreis Wittenberg
 Magdeburg
@@ -2626,20 +2626,20 @@ Kreis Herzogtum Lauenburg
 Kreis Nordfriesland
 Kreis Ostholstein
 Kreis Pinneberg
-Kreis Plon
-Kreis Rendsburg-Eckernforde
+Kreis Plön
+Kreis Rendsburg-Eckernförde
 Kreis Schleswig-Flensburg
 Kreis Segeberg
 Kreis Steinburg
 Kreis Stormarn
-Lubeck
-Neumunster
+Lübeck
+Neumünster
 Eisenach
 Erfurt
 Gera
 Ilm-Kreis
 Jena
-Kyffhauserkreis
+Kyffhäuserkreis
 Landkreis Altenburger Land
 Landkreis Eichsfeld
 Landkreis Gotha
@@ -2648,7 +2648,7 @@ Landkreis Hildburghausen
 Landkreis Nordhausen
 Landkreis Saalfeld-Rudolstadt
 Landkreis Schmalkalden-Meiningen
-Landkreis Sommerda
+Landkreis Sömmerda
 Landkreis Sonneberg
 Landkreis Weimarer Land
 Saale-Holzland-Kreis
