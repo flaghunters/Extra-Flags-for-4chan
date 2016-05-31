@@ -2023,20 +2023,20 @@ Bretagne
 Centre-Val de Loire
 Champagne-Ardenne
 Corse
-Franche-Comte
+Franche-Comté
 Haute-Normandie
-Ile-de-France
+Île-de-France
 Languedoc-Roussillon
 Limousin
 Lorraine
-Midi-Pyrenees
+Midi-Pyrénées
 Nord-Pas-de-Calais
 Normandie
 Pays de la Loire
 Picardie
 Poitou-Charentes
-Provence-Alpes-Cotes d Azur
-Rhone-Alpes
+Provence-Alpes-Côte d Azur
+Rhône-Alpes
 Bas-Rhin
 Haut-Rhin
 Strasbourg
@@ -2045,25 +2045,25 @@ Dordogne
 Gironde
 Landes
 Lot-et-Garonne
-Pyrenees-Atlantiques
+Pyrénées-Atlantiques
 Bordeaux
 Biarritz
 Allier
 Cantal
 Haute-Loire
-Puy-de-Dome
+Puy-de-Dôme
 Clermont-Ferrand
 Calvados
 Manche
 Orne
 Caen
-Cote-d Or
-Nievre
-Saone-et-Loire
+Côte-d Or
+Nièvre
+Saône-et-Loire
 Yonne
 Dijon
-Cotes-d Armor
-Finistere
+Côtes-d Armor
+Finistère
 Ille-et-Vilaine
 Morbihan
 Rennes
@@ -2074,24 +2074,25 @@ Indre-et-Loire
 Indre
 Loir-et-Cher
 Loiret
-Orleans
+Orléans
 Ardennes
 Aube
 Haute-Marne
 Marne
+Châlons-en-Champagne
 Reims
 Corse-du-Sud
 Haute-Corse
 Ajaccio
 Bastia
 Doubs
-Haute-Saone
+Haute-Saône
 Jura
 Territoire de Belfort
-Besancon
+Besançon
 Eure
 Seine-Maritime
-Evreux
+Évreux
 Rouen
 Essonne
 Hauts-de-Seine
@@ -2103,12 +2104,12 @@ Val-d Oise
 Yvelines
 Aude
 Gard
-Herault
-Lozere
-Pyrenees-Orientales
-Beziers
+Hérault
+Lozère
+Pyrénées-Orientales
+Béziers
 Montpellier
-Correze
+Corrèze
 Creuse
 Haute-Vienne
 Limoges
@@ -2117,11 +2118,11 @@ Meuse
 Moselle
 Vosges
 Metz
-Ariege
+Ariège
 Aveyron
 Gers
 Haute-Garonne
-Hautes-Pyrenees
+Hautes-Pyrénées
 Lot
 Tarn-et-Garonne
 Tarn
@@ -2136,13 +2137,13 @@ Manche
 Orne
 Seine-Maritime
 Caen
-Evreux
+Évreux
 Rouen
 Loire-Atlantique
 Maine-et-Loire
 Mayenne
 Sarthe
-Vendee
+Vendée
 Nantes
 Aisne
 Oise
@@ -2150,12 +2151,12 @@ Somme
 Amiens
 Charente-Maritime
 Charente
-Deux-Sevres
+Deux-Sèvres
 Vienne
 Poitiers
 Alpes-de-Haute-Provence
 Alpes-Maritimes
-Bouches-du-Rhone
+Bouches-du-Rhône
 Hautes-Alpes
 Var
 Vaucluse
@@ -2163,13 +2164,13 @@ Nice
 Marseille
 Toulon
 Ain
-Ardeche
-Drome
+Ardèche
+Drôme
 Haute-Savoie
-Isere
+Isère
 Loire
 Metropolis of Lyon
-Rhone
+Rhône
 Savoie
 Annecy
 Grenoble
