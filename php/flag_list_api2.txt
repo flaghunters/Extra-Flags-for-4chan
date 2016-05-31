@@ -1404,6 +1404,8 @@ Tolima Department
 Valle del Cauca Department
 Vaupes Department
 Vichada Department
+Leticia
+Puerto Nariño
 Bello
 Itagui
 Medellin
@@ -1428,10 +1430,48 @@ Bucaramanga
 Floridablanca
 Sincelejo
 Ibague
+Alcala
+Andalucía
+Ansermanuevo
+Argelia
+Bolívar
 Buenaventura
+Bugalagrande
+Buga
+Caicedonia
 Cali
+Candelaria
+Cartago
+Dagua
+Darién
+El Aguila
+El Cairo
+El Cerrito
+El Dovio
+Florida
+Ginebra
+Guacarí
+Jamundí
+La Cumbre
+La Union
+La Victoria
+Obando
 Palmira
+Pradera
+Restrepo
+Riofrio
+Roldanillo
+San Pedro
+Sevilla
+Toro
+Trujillo
 Tulua
+Ulloa
+Versalles
+Vijes
+Yotoco
+Yumbo
+Zarzal
 Anjouan
 Grande Comore
 Moheli
@@ -2845,6 +2885,7 @@ Tripura
 Uttarakhand
 Uttar Pradesh
 West Bengal
+Navi Mumbai
 Aceh
 Bali
 Bangka-Belitung Islands
