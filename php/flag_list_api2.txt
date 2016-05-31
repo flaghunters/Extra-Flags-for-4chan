@@ -2047,7 +2047,9 @@ Landes
 Lot-et-Garonne
 Pyrénées-Atlantiques
 Bordeaux
+Bayonne
 Biarritz
+Pau
 Allier
 Cantal
 Haute-Loire
@@ -2057,6 +2059,7 @@ Calvados
 Manche
 Orne
 Caen
+Sommervieu
 Côte-d Or
 Nièvre
 Saône-et-Loire
@@ -2066,7 +2069,15 @@ Côtes-d Armor
 Finistère
 Ille-et-Vilaine
 Morbihan
+Dinan
+Brest
+Concarneau
+Douarnenez
+Guilvinec
+Landerneau
 Rennes
+Saint-Malo
+Lorient
 Vannes
 Cher
 Eure-et-Loir
@@ -2074,11 +2085,15 @@ Indre-et-Loire
 Indre
 Loir-et-Cher
 Loiret
+Bourges
+Tours
 Orléans
+Monteaux
 Ardennes
 Aube
 Haute-Marne
 Marne
+Charleville-Mézières
 Châlons-en-Champagne
 Reims
 Corse-du-Sud
@@ -2093,6 +2108,7 @@ Besançon
 Eure
 Seine-Maritime
 Évreux
+Le Havre
 Rouen
 Essonne
 Hauts-de-Seine
@@ -2102,21 +2118,29 @@ Seine-Saint-Denis
 Val-de-Marne
 Val-d Oise
 Yvelines
+Gagny
 Aude
 Gard
 Hérault
 Lozère
 Pyrénées-Orientales
+Baron
+Nîmes
+Uzès
 Béziers
+Capestang
 Montpellier
+Perpignan.pdn
 Corrèze
 Creuse
 Haute-Vienne
+Tulle
 Limoges
 Meurthe-et-Moselle
 Meuse
 Moselle
 Vosges
+Nancy
 Metz
 Ariège
 Aveyron
@@ -2129,30 +2153,44 @@ Tarn
 Toulouse
 Nord
 Pas-de-Calais
+Douai
 Dunkerque
+Lille
+Valenciennes
+Béthune
 Calais
+Lens
+Souchez
 Calvados
 Eure
 Manche
 Orne
 Seine-Maritime
 Caen
+Sommervieu
 Évreux
+Le Havre
 Rouen
 Loire-Atlantique
 Maine-et-Loire
 Mayenne
 Sarthe
 Vendée
+Le Croisic
 Nantes
+Saint-Nazaire
+Angers
+Le Mans
 Aisne
 Oise
 Somme
+Vervins
 Amiens
 Charente-Maritime
 Charente
 Deux-Sèvres
 Vienne
+La Rochelle
 Poitiers
 Alpes-de-Haute-Provence
 Alpes-Maritimes
@@ -2160,9 +2198,20 @@ Bouches-du-Rhône
 Hautes-Alpes
 Var
 Vaucluse
+Cannes
+Mandelieu-la-Napoule
 Nice
+Peymeinade
+Arles
 Marseille
+Martigues
+Cavalaire-sur-Mer
+Fréjus
+Sanary-sur-Mer
+Six-Fours-les-Plages
 Toulon
+Avignon
+Le Pontet
 Ain
 Ardèche
 Drôme
@@ -2174,6 +2223,7 @@ Rhône
 Savoie
 Annecy
 Grenoble
+Saint-Étienne
 Cayenne
 Austral Islands
 Gambier Islands
@@ -3034,6 +3084,8 @@ Tripura
 Uttarakhand
 Uttar Pradesh
 West Bengal
+Cochin
+Thiruvananthapuram
 Navi Mumbai
 Aceh
 Bali
