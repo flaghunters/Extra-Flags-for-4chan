@@ -1227,40 +1227,49 @@ Saanich
 Surrey
 Vancouver
 Victoria
+Brandon
+Dauphin
+Rural Municipality of Dauphin
 Winnipeg
 St John s
 Yellowknife
 Cape Breton
 Halifax
 Iqaluit
-Ajax
 Barrie
-Brampton
-Burlington
 Cambridge
 Chatham-Kent
 Cornwall
+Durham Region
 Guelph
+Halton Region
 Hamilton
 Kingston
 Kitchener
 London
-Markham
-Mississauga
 Niagara Region
-Oakville
-Oshawa
 Ottawa
+Peel Region
 Peterborough
-Richmond Hill
 St Catharines
 Sudbury
 Thunder Bay
 Toronto
-Vaughan
 Waterloo
 Whitby
 Windsor
+York Region
+Ajax
+Oshawa
+Pickering
+Burlington
+Oakville
+Brampton
+Mississauga
+Markham
+Richmond Hill
+Vaughan
+Whitchurch-Stouffville
 Gatineau
 Laval
 Levis
@@ -1558,10 +1567,74 @@ Yarumal
 Yolombó
 Yondó
 Zaragoza
+Baranoa
 Barranquilla
+Campo de la Cruz
+Candelaria
+Galapa
+Juan de Acosta
+Luruaco
+Malambo
+Manatí
+Palmar de Valera
+Piojó
+Polonuevo
+Ponedera
+Puerto Colombia
+Repelón
+Sabanagrande
+Sabanalarga
+Santa Lucía
+Santo Tomás
 Soledad
+Suan
+Tubará
+Usiacurí
+Achí
+Altos del Rosario
+Arenal del Sur
+Arjona
+Arroyo Hondo
+Barranco de Loba
+Calamar
+Cantagallo
 Cartagena
+Cicuco
+Clemencia
+Córdoba
+El Cármen de Bolívar
+El Guamo
+El Peñon
+Hatillo de Loba
 Magangue
+Mahates
+Margarita
+María la Baja
+Mompós
+Morales
+Norosí
+Pinillos
+Regidor
+Río Viejo
+San Cristóbal
+San Estanislao de Kostka
+San Fernando
+San Jacinto del Cauca
+San Jacinto
+San Juan Nepomuceno
+San Martín de Loba
+San Pablo
+Santa Catalina de Alejandría
+Santa Rosa del Sur
+Santa Rosa
+Simití
+Soplaviento
+Talaigua Nuevo
+Tiquisio
+Turbaco
+Turbana
+Villanueva
+Zambrano
 Manizales
 Popayan
 Valledupar
