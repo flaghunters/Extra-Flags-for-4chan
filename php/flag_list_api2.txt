@@ -1216,17 +1216,18 @@ Yukon
 Calgary
 Edmonton
 Abbotsford
+Greater Vancouver Regional District
+Kelowna
+Saanich
+Victoria
 Burnaby
 Coquitlam
 Delta
-Kelowna
 Langley
 North Vancouver
 Richmond
-Saanich
 Surrey
 Vancouver
-Victoria
 Brandon
 Dauphin
 Rural Municipality of Dauphin
@@ -9214,13 +9215,24 @@ Hagerstown
 Salisbury
 Barnstable County
 Berkshire County
-Boston
+Bristol County
+Dukes County
+Essex County
+Franklin County
+Hampden County
+Hampshire County
+Middlesex County
+Nantucket County
+Norfolk County
+Plymouth County
+Suffolk County
+Worcester County
+New Bedford
+Springfield
 Cambridge
 Lowell
 Medford
-New Bedford
-Norfolk County
-Springfield
+Boston
 Worcester
 Alcona County
 Alger County
