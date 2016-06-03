@@ -9,7 +9,7 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.23
+// @version     0.24
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -323,7 +323,13 @@ function onFlagsLoad(response) {
 
                     newFlag.innerHTML = "<img src='" + flegsBaseUrl + path + ".png'" + newFlagImgOpts + " title='" + postedRegions[i] + "'>";
                     newFlag.className = "extraFlag";
-                    newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
+                    
+                    if (i > 0) {
+                        newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + postedRegions[i - 1];
+                    } else {
+                        newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
+                    }
+                   
                     newFlag.target = '_blank';
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
