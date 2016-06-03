@@ -1,6 +1,8 @@
 Amarillo
 Austin County
 Bandera County
+Bell County
+Bexar County
 Bosque County
 Brazoria County
 Brazos County
@@ -18,14 +20,13 @@ Goliad County
 Grayson County
 Gregg County
 Grimes County
+Harris County
 Hidalgo County
 Hockley County
 Houston County
 Jackson County
 Johnson County
 Jones County
-Killeen
-Laredo
 Liberty County
 Lipscomb County
 Live Oak County
@@ -43,7 +44,6 @@ Panola County
 Parker County
 Rains County
 Red River County
-San Antonio
 San Patricio County
 Shackelford County
 Starr County
@@ -56,6 +56,7 @@ Uvalde County
 Victoria County
 Walker County
 Ward County
+Webb County
 Williamson County
 Wilson County
 Wise County
