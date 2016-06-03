@@ -973,7 +973,7 @@ Taguatinga
 Cariacica
 Marilandia
 Serra
-Trinidade e Martim Vaz
+Trindade e Martim Vaz
 Vila Velha
 Vitoria
 Anapolis
@@ -2498,34 +2498,67 @@ Makatea
 Reao
 Abasha
 Abkhazia
+Adigeni
 Adjara
 Akhalgori
+Akhalkalaki
 Akhaltsikhe
+Akhmeta
 Ambrolauri
+Aspindza
+Baghdati
+Bolnisi
+Borjomi
+Chkhorotsqu
+Chokhatauri
+Dedoplistsqaro
+Dmanisi
 Gardabani
 Gori
+Gurjaani
+Kareli
 Kaspi
+Kazbegi
+Kharagauli
 Khashuri
+Khobi
+Khoni
 Khulo
 Kobuleti
 Kutaisi
+Kvareli
+Lagodekhi
 Lanchkhuti
 Lentekhi
 Marneuli
+Martvili
+Mestia
+Mtskheta
+Ninotsminda
+Oni
+Ozurgeti
 Poti
 Rustavi
 Sachkhere
 Sagarejo
 Samtredia
 Senaki
-South Ossetia
+Shuakhevi
+Sighnaghi
 Tbilisi
 Telavi
+Tetritsqaro
+Tianeti
 Tkibuli
+Tsageri
+Tsalenjikha
+Tsalka
 Tskaltubo
 Zestafoni
 Zugdidi
 Batumi
+Keda
+Khelvachauri
 Baden-Württemberg
 Bayern
 Berlin
@@ -4357,7 +4390,9 @@ Otavi
 Otjiwarongo
 Katima Mulilo
 Kathmandu
+Lalitpur
 Mustang
+Pokhara
 Sherpa Nation
 Drenthe
 Flevoland
@@ -8431,9 +8466,12 @@ Torfaen
 Wrexham
 Alabama
 Alaska
+Arapaho
 Arizona
 Arkansas
 California
+Cherokee
+Choctaw
 Colorado
 Connecticut
 Delaware
@@ -8457,6 +8495,7 @@ Minnesota
 Mississippi
 Missouri
 Montana
+Navajo
 Nebraska
 Nevada
 New Hampshire
@@ -8470,6 +8509,7 @@ Oklahoma
 Oregon
 Pennsylvania
 Rhode Island
+Sioux
 South Carolina
 South Dakota
 Tennessee
@@ -8499,7 +8539,8 @@ Gadsden
 Greensboro
 Indian Springs
 Jackson
-Mobile
+Macon County
+Mobile County
 Montgomery
 Ozark
 Pelham
@@ -8508,48 +8549,125 @@ Tuscaloosa
 Vance
 Vestavia Hills
 Washington County
+Mobile
 Anchorage
+Homer
+Juneau
+North Pole
+Seward
+Thorne Bay
+Wasilla
+Wrangell
 Apache Junction
 Bullhead City
-Chandler
+Cochise County
 Flagstaff
 Florence
 Fountain Hills
-Glendale
 Grand Canyon
+Maricopa County
 Maricopa
-Mesa
 Oro Valley
-Peoria
-Phoenix
 Pima
 Queen Creek
-Scottsdale
-Sedona
 St Johns
 Sun City West
 Superior
-Surprise
 Tucson
 Winslow
-Beebe
+Yavapai County
+Yuma County
+Chandler
+Glendale
+Mesa
+Peoria
+Phoenix
+Scottsdale
+Surprise
+Tempe
+Sedona
+Benton County
 Bryant
-Conway
+Craighead County
+Cross County
+Faulkner County
 Fayetteville
 Fort Smith
-Jacksonville
-Little Rock
 Marked Tree
 Paragould
+Pulaski County
 Texarkana
 West Memphis
-Adelanto
-Alameda
-Albany
-Anaheim
+White County
+Rogers
+Conway
+Jacksonville
+Little Rock
+North Little Rock
+Beebe
+Alameda County
+Alpine County
+Amador County
 Antioch
 Bakersfield
-Barstow
+Calaveras County
+Concord
+Coronado
+Daly City
+Eagle Rock
+El Dorado County
+Fillmore
+Fresno
+Goleta
+Hillsborough
+Kings County
+La Crescenta-Montrose
+Lake County
+Lodi
+Los Angeles County
+Los Gatos
+Madera County
+Mariposa County
+Martinez
+Merced
+Moorpark
+Morro Bay
+Oakdale
+Orange County
+Paradise
+Pittsburg
+Placer County
+Pleasant Hill
+Port Hueneme
+Riverside County
+Sacramento County
+San Bernardino County
+San Diego County
+San Francisco
+San Luis Obispo
+Santa Barbara County
+Santa Clara County
+Santa Cruz County
+Seaside
+Siskiyou County
+Solvang
+Sonoma
+Stockton
+Trinity County
+Tuolumne County
+Twentynine Palms
+Vallejo
+Walnut Creek
+Woodland
+Alameda
+Albany
+Fremont
+Hayward
+Livermore
+Newark
+Oakland
+San Leandro
+Jackson
 Bellflower
 Bell
 Beverly Hills
@@ -8557,116 +8675,89 @@ Burbank
 Calabasas
 Carson
 Cerritos
-Chula Vista
-Concord
-Coronado
-Costa Mesa
-Cupertino
-Daly City
 Diamond Bar
 Downey
-Eagle Rock
-Elk Grove
 El Monte
-Escondido
-Fillmore
-Fremont
-Fresno
-Fullerton
 Gardena
-Garden Grove
-Gilroy
 Glendale
-Goleta
-Hayward
-Hemet
-Hillsborough
-Irvine
-Jackson
-La Crescenta-Montrose
 Lancaster
-La Quinta
 Lawndale
-Livermore
-Lodi
 Lomita
+Long Beach
 Los Angeles
-Los Gatos
-Martinez
-Merced
-Mission Viejo
 Monrovia
 Monterey
-Montery
-Moorpark
-Moreno Valley
-Morgan Hill
-Morro Bay
-Newark
-Norco
-Oakdale
-Oakland
-Oceanside
-Orange
 Palmdale
-Palm Springs
-Palo Alto
-Paradise
 Pico Rivera
-Pittsburg
-Pleasant Hill
 Pomona
-Port Hueneme
-Poway
-Rancho Mirage
-Rancho Santa Margarita
-Rialto
-Riverside
-Sacramento
-San Clemente
-San Diego
-San Francisco
 San Gabriel
-San Jose
-San Leandro
-San Luis Obispo
-Santa Ana
-Santa Barbara
-Santa Clara
-Seaside
+Santa Clarita
 Sierra Madre
-Solvang
-Sonoma
 South Pasadena
-Stanton
-Stockton
 Temple City
 Torrance
-Twentynine Palms
-Vallejo
-Walnut Creek
 West Hollywood
+Anaheim
+Costa Mesa
+Fullerton
+Garden Grove
+Irvine
+Mission Viejo
+Orange
+Rancho Santa Margarita
+San Clemente
+Santa Ana
+Stanton
 Westminster
-Woodland
+Hemet
+La Quinta
+Moreno Valley
+Norco
+Palm Springs
+Rancho Mirage
+Riverside
+Elk Grove
+Sacramento
+Adelanto
+Barstow
+Rialto
+Chula Vista
+Escondido
+Oceanside
+Poway
+San Diego
+Santa Barbara
+Cupertino
+Gilroy
+Morgan Hill
+Palo Alto
+San Jose
+Santa Clara
+Arapahoe County
 Arvada
 Aspen
-Centennial
 Colorado Springs
 Commerce City
 Denver
+Douglas County
 Estes Park
-Evans
 Fort Collins
 Golden
 La Junta
 Loveland
 Montrose
 Pueblo
+Weld County
 Westminster
+Aurora
+Centennial
+Evans
+Thornton
 Ansonia
 Bethel
 Bridgeport
 Colchester
+Danbury
 East Hartford
 Greenwich
 Hartford
@@ -8676,39 +8767,35 @@ New Haven
 New Milford
 Orange
 Stamford
+Waterbury
 Westport
 Woodmont
-Delmar
-Dover
-Lewes
+Kent County
+New Castle County
 Sussex County
+Dover
 Wilmington
-Apopka
+Delmar
+Lewes
+Alachua County
 Arcadia
-Aventura
-Boca Raton
+Bay County
 Bonita Springs
 Bunnell
 Bunnel
-Callaway
+Cape Coral
 Casey Key Island
 Chattahoochee
+Clay County
 Coconut Creek
 Cooper City
-Coral Gables
 Coral Springs
-Cutler Bay
-Doral
 Fort Lauderdale
 Fort Walton Beach
-Gainesville
 Gulfport
-Hialeah
+Hillsborough County
 Hollywood
-Homestead
 Jacksonville
-Juno Beach
-Jupiter
 Key West
 Lakeland
 Lantana
@@ -8718,47 +8805,74 @@ Lauderhill
 Malabar
 Marco Island
 Margate
-Miami
+Marion County
+Miami-Dade County
 Naples
 North Lauderdale
 Oakland Park
-Opa-Locka
+Okaloosa County
+Orange County
 Orange Park
-Orlando
-Palm Beach
-Palmetto Bay
-Panama City
-Pine Crest
+Osceola County
+Palm Beach County
+Pasco County
 Pinellas Park
 Plantation
 Pompano Beach
 Port Orange
-Port St Lucie
+Port St. Lucie
 Punta Gorda
 Sarasota
+St. Johns County
 St. Petersburg
 Tallahassee
 Tamarac
-Tampa
 West Melbourne
+Gainesville
+Callaway
+Panama City
+Tampa
+Aventura
+Coral Gables
+Cutler Bay
+Doral
+Hialeah
+Homestead
+Miami
+Opa-locka
+Palmetto Bay
+Pinecrest
+Apopka
+Orlando
 Winter Park
+Boca Raton
+Juno Beach
+Jupiter
+Palm Beach
 Alto
 Aragon
 Athens
-Atlanta
 Augusta
 Bainbridge
 Brunswick
+Bulloch County
+Camden County
 Centerville
+Cherokee County
 Chickamauga
 Clarkston
+Clayton County
+Cobb County
 Columbus
 Cordele
 Covington
-Decatur
-Douglasville
+Coweta County
+Dawson County
+DeKalb County
+Douglas County
 Duluth
 Fayetteville
+Fulton County
 Gray
 Grayson
 Hahira
@@ -8766,102 +8880,137 @@ Jekyll Island
 LaFayette
 Lake Park
 Mt. Zion
+Oglethorpe County
 Peachtree
+Pierce County
 Porterdale
-Roswell
 Savannah
 Summerville
 Swainsboro
 Trenton
+Turner County
 Tybee
 Vidalia
 Walnut Grove
+Atlanta
+Decatur
+Douglasville
+Atlanta
+Roswell
 Hawaii Island
 Honolulu
-Kahoolawe
-Kaua'i
-Laanai
+Kauai
 Maui County
-Maui
-Molokaii
 Nihoa
 Niihau
 Oahu
-Boise
-Caldwell
+Kahoolawe
+Laanai
+Maui
+Molokaii
+Ada County
+Bannock County
+Bonneville County
+Boundary County
+Canyon County
 Coeur de Alene
-Kuna
-Meridian
+Jerome County
 Moscow
-Pocatello
 Post Falls
 Salmon
 Sun Valley
 Twin Falls
-Addison
-Alsip
-Belleville
+Boise
+Kuna
+Meridian
+Pocatello
+Caldwell
 Belvidere
-Bloomingdale
 Carbondale
+Carroll County
+Clinton County
+Cook County
+Dixon
+Downers Grove
+DuPage County
+Franklin County
+Galena
+Godfrey
+Heyworth
+Highland
+Jasper County
+Joliet
+Kane County
+Kankakee County
+Lake Zurich
+Libertyville
+Marshall County
+McHenry County
+Morgan County
+Moultrie County
+Newark
+Norridge
+Ottawa
+Park Ridge
+Peoria
+Plainfield Township
+Plano
+Putnam County
+Robinson
+Round Lake
+Sangamon County
+Sheridan
+St. Clair County
+Stephenson County
+Wapella
+Winnebago County
 Centralia
+Alsip
 Chicago Heights
 Chicago
 Cicero
 Countryside
-Darien
 Des Plaines
-Dixon
-Downers Grove
-East St. Louis
 Evanston
-Galena
-Glen Ellyn
-Godfrey
 Hanover Park
-Heyworth
-Highland
-Joliet
-Lake Zurich
 Lansing
-Libertyville
-Lombard
-Maine Twp
-Mascoutah
+Maine Township
 Midlothian
-Naperville
-Newark
-Norridge
 Oak Lawn
-Orland Twp
-Ottawa
-Park Ridge
-Peoria
-Plainfield Twp
-Plano
-Proviso Twp
-Rich Twp
-River Forest Twp
-Robinson
-Round Lake
+Orland Township
+Proviso Township
+Rich Township
+River Forest Township
 Schaumburg
 Schiller Park
-Sheridan
-Springfield
-Thornton Twp
-Toluca
-Wapella
+Thornton Township
+Wheeling Township
+Addison
+Aurora
+Bloomingdale
+Chicago
+Darien
+Glen Ellyn
+Lombard
+Naperville
 West Chicago
-Wheeling
+Aurora
+Toluca
+Springfield
+Belleville
+East St. Louis
+Mascoutah
 Avilla
 Batesville
 Beech Grove
+Benton County
 Berne
 Borden
 Carmel
 Clarksville
 Columbus
 Danville
+Daviess County
 East Chicago
 Evansville
 Fairview Park
@@ -8870,21 +9019,22 @@ Fishers
 Fort Wayne
 Franklin
 Gary
-Greenfield
 Greenwood
 Hammond
+Hancock County
 Indianapolis
 Knox City
 Lafayette
-Mishawaka
+Marshall County
 Monticello
 Mooresville
 New Albany
+Pike County
 Plainfield
 Portage
 Schererville
-South Bend
 Speedway
+St. Joseph County
 Tell City
 Terre Haute
 Tipton
@@ -8893,158 +9043,933 @@ Vincennes
 Warsaw
 West Lafayette
 Winona Lake
+Greenfield
+Mishawaka
+South Bend
 Ames
-Anamosa
 Bettendorf
+Black Hawk County
 Burlington
-Cedar Rapids
 Davenport
-Des Moines
-Dubuque
+Dickinson County
+Dubuque County
+Fayette County
 Fort Dodge
+Hardin County
+Humboldt County
+Jefferson County
+Jones County
+Linn County
 Madrid
+Mahaska County
+O Brien County
 Osage
+Polk County
 Red Oak
 Sioux City
 Templeton
+Winneshiek County
+Wright County
+Dubuque
+Anamosa
+Cedar Rapids
+Des Moines
 Windsor Heights
+Atchison County
 Countryside
 Dodge City
-Kansas City
+Johnson County
+Kiowa County
 Lawrence
-Olathe
-Shawnee
+Osborne County
 Topeka
 Wichita
+Wyandotte County
+Olathe
+Overland Park
+Shawnee
+Kansas City
 Alexandria
+Bell County
 Berea
 Bloomfield
+Boone County
+Breckinridge County
+Bullitt County
+Daviess County
 Edgewood
-Florence
+Edmonson County
+Fayette County
 Fort Wright
 Frankfort
+Hardin County
 Independence
-Irvington
-Lexington-Fayette
+Jefferson County
+Johnson County
 Livermore
-Louisville
+Logan County
 Marion
 Maysville
 Newport
-Owensboro
+Oldham County
 Pacudah
+Perry County
+Trimble County
+Wolfe County
+Woodford County
+Florence
+Irvington
+Owensboro
+Lexington-Fayette
 Radcliff
+Louisville
 Abbeville
+Avoyelles Parish
 Baker
 Baton Rouge
-Bossier City
+Bienville Parish
+Bossier Parish
+Calcasieu Parish
+Caldwell Parish
+Concordia Parish
 Cotton Valley
 DeRidder
+DeSoto Parish
+East Feliciana Parish
 Folsom
 Gonzales
-Kenner
+Iberville Parish
+Jefferson Parish
 Lafayette
-Lake Charles
+Lafourche Parish
+Lincoln Parish
+Livingston Parish
 Mamou
-Mandeville
+Natchitoches Parish
 New Orleans
-Shreveport
+Plaquemines Parish
+Rapides Parish
+St. Bernard Parish
+St. James Parish
+St. John the Baptist Parish
+St. Landry Parish
 St. Martinville
-Thibodaux
-Vidalia
+St. Tammany Parish
+Terrebonne Parish
+Vermilion Parish
 Ville Platte
+West Baton Rouge Parish
+Bossier City
+Shreveport
+Lake Charles
+Vidalia
+Kenner
 Westwego
+Thibodaux
+Mandeville
+Aroostook County
+Auburn
+Augusta
+Bangor
+Biddeford
+Hancock County
+Lincoln County
+Portland
+Washington County
+Lubec
+Allegany County
+Anne Arundel County
+Baltimore County
 Baltimore
+Calvert County
+Caroline County
+Carroll County
+Cecil County
+Charles County
+Dorchester County
 Frederick County
+Garrett County
+Harford County
+Howard County
+Kent County
 Montgomery County
+Prince Georges County
+Queen Annes County
+Somerset County
+St. Marys County
+Talbot County
+Thumbs.db
+Washington County
+Wicomico County
+Worcester County
+Annapolis
+Frederick
+Gaithersburg
+Rockville
+Bowie
+College Park
+Greenbelt
+Laurel
+Hagerstown
+Salisbury
+Barnstable County
+Berkshire County
 Boston
+Cambridge
+Lowell
+Medford
+New Bedford
+Norfolk County
+Springfield
 Worcester
-Detroit
+Alcona County
+Alger County
+Alpena County
+Ann Arbor
+Baraga County
+Barry County
+Benzie County
+Berrien County
+Calhoun County
+Cheboygan County
+Chippewa County
+Genesee County
+Gogebic County
+Grand Traverse County
+Ingham County
+Kalamazoo County
+Kent County
+Lake County
+Macomb County
+Muskegon County
+Oakland County
+Osceola County
+Ottawa County
+Roscommon County
+St. Clair County
+Wayne County
+Wexford County
+Lansing
 Grand Rapids
-Minneapolis
+Warren
+Detroit
+Aitkin County
+Blue Earth County
+Clearwater County
+Douglas County
+Hennepin County
+Hubbard County
+McLeod County
+Meeker County
+Pipestone County
+Rochester
 St. Paul
+Minneapolis
+Adams County
+Harrison County
 Jackson
+Jones County
+Marion County
+Pontotoc County
 Branson
+Callaway County
+Cass County
+Clay County
 Columbia
+Gentry County
+Greene County
 Independence
+Jasper County
+Ozark
+Phelps County
+Platte County
+Schuyler County
+St. Charles County
+St. Louis
 Jefferson City
 Kansas City
+Kansas City
 Springfield
-St. Louis
+Kansas City
 Billings
+Gallatin County
 Helena
-Lincoln
+Adams County
+Brown County
+Cass County
+Chase County
+Colfax County
+Dakota County
+Dodge County
+Garden County
+Hall County
+Keith County
+Knox County
+Lancaster County
+Madison County
+Nuckolls County
 Omaha
+Platte County
+Sarpy County
+Saunders County
+Scotts Bluff County
+Thayer County
+Washington County
+Lincoln
+Carson City
+Churchill County
+Clark County
+Douglas County
+Elko County
+Esmeralda County
+Eureka County
+Humboldt County
+Lander County
+Lincoln County
+Lyon County
+Mineral County
+Nye County
+Pershing County
+Storey County
+Washoe County
+White Pine County
+Henderson
 Las Vegas
+Reno
+Concord
+Hillsborough County
+Rockingham County
+Manchester
+Bergen County
+Burlington County
+Cape May County
+Cumberland County
+Essex County
+Gloucester County
+Hudson County
+Hunterdon County
+Mercer County
+Middlesex County
+Monmouth County
+Morris County
+Ocean County
+Passaic County
+Salem County
+Somerset County
+Sussex County
+Union County
+Warren County
 Newark
+Jersey City
+Trenton
+Alamogordo
+Bernalillo County
+Colfax County
+Curry County
+Doña Ana County
+Mora County
+Roswell
+Santa Fe
 Albequerque
-Bronx
-Brooklyn
-Buffalo
+Rio Rancho
+Las Cruces
+Albany County
+Allegany County
+Bronx County
+Broome County
+Cattaraugus County
+Cayuga County
+Chautauqua County
+Chemung County
+Chenango County
+Clinton County
+Columbia County
+Cortland County
+Delaware County
+Dutchess County
+Erie County
+Essex County
+Genesee County
+Greene County
+Hamilton County
+Herkimer County
+Jefferson County
+Kings County
+Lewis County
+Livingston County
+Madison County
+Monroe County
+Montgomery County
 Nassau County
 New York City
+Niagara County
+Niagara Falls
+Oneida County
+Onondaga County
+Ontario County
+Orange County
+Orleans County
+Oswego County
+Otsego County
+Putnam County
+Queens County
+Rensselaer County
+Richmond County
+Rockland County
+Saint Lawrence County
+Saratoga County
+Schenectady County
+Schuyler County
+Seneca County
+Steuben County
+Suffolk County
+Ulster County
+Washington County
+Wayne County
+Westchester County
+Wyoming County
+Yates County
+Albany
+Buffalo
 Rochester
+Long Beach
+Brooklyn
+Manhatten
+Queens
+Staten Island
+The Bronx
+Syracuse
+Troy
 Yonkers
-Charlotte
-Durham
-Greensboro
-Raleigh
+Alamance County
+Alleghany County
+Ashe County
+Beaufort County
+Bertie County
+Bladen County
+Brunswick County
+Buncombe County
+Cabarrus County
+Caldwell County
+Catawba County
+Chowan County
+Columbus County
+Craven County
+Cumberland County
+Currituck County
+Dare County
+Davidson County
+Davie County
+Durham County
+Gaston County
+Granville County
+Guilford County
+Harnett County
+Henderson County
+Hertford County
+Hoke County
+Jackson County
+Johnston County
+Jones County
+Lenoir County
+McDowell County
+Mecklenburg County
+Mitchell County
+Onslow County
+Orange County
+Pitt County
+Polk County
+Richmond County
+Rowan County
+Scotland County
+Stokes County
+Tyrrell County
+Union County
+Vance County
+Wake County
+Warren County
 Winston-Salem
+Asheville
+Fayetteville
+Chapel Hill
+Durham
+Raleigh
+Greensboro
+Charlotte
+Chapel Hill
+Durham
+Greenville
+Cary
+Durham
+Raleigh
+Benson County
 Bismarck
 Fargo
 Grand Forks
-Cincinnati
+Adams County
+Allen County
+Ashland County
+Ashtabula County
+Athens County
+Auglaize County
+Belmont County
+Brown County
+Butler County
+Carroll County
+Champaign County
+Clark County
+Clermont County
+Clinton County
+Columbiana County
+Coshocton County
+Crawford County
+Cuyahoga County
+Darke County
+Defiance County
+Delaware County
+Erie County
+Fairfield County
+Fayette County
+Franklin County
+Fulton County
+Gallia County
+Geauga County
+Greene County
+Guernsey County
+Hamilton County
+Hancock County
+Hardin County
+Harrison County
+Henry County
+Highland County
+Hocking County
+Holmes County
+Huron County
+Jackson County
+Jefferson County
+Knox County
+Lake County
+Lawrence County
+Licking County
+Logan County
+Lorain County
+Lucas County
+Madison County
+Mahoning County
+Marion County
+Medina County
+Meigs County
+Mercer County
+Miami County
+Monroe County
+Montgomery County
+Morgan County
+Morrow County
+Muskingum County
+Noble County
+Ottawa County
+Paulding County
+Perry County
+Pickaway County
+Pike County
+Portage County
+Preble County
+Putnam County
+Richland County
+Ross County
+Sandusky County
+Scioto County
+Seneca County
+Shelby County
+Stark County
+Summit County
+Trumbull County
+Tuscarawas County
+Union County
+Van Wert County
+Vinton County
+Warren County
+Washington County
+Wayne County
+Williams County
+Wood County
+Wyandot County
 Cleveland
 Columbus
+Columbus
+Columbus
+Cincinnati
 Toledo
+Dayton
+Akron
+Bryan County
+Jackson County
+Norman
 Oklahoma City
+Payne County
+Rogers County
+Tulsa County
+Washington County
 Tulsa
+Broken Arrow
+Tulsa
+Linn County
+Multnomah County
+Salem
 Portland
-Abington
-Bethel Park
-Bristol Twp
-Coatsville
-East Lampeter Twp
-Easton
-Gettysburg
-Harrisburg
-Hopewell Twp
-Huntingdon
+Adams County
+Alleghany County
+Beaver County
+Bedford County
+Berks County
+Blair County
+Bucks County
+Cambria County
+Cameron County
+Chester County
+Clearfield County
+Clinton County
+Cumberland County
+Dauphin County
+Delaware County
+Erie County
+Fayette County
+Franklin County
+Greene County
+Huntingdon County
+Jefferson County
+Lancaster County
+Lawrence County
+Lehigh County
+Lycoming County
 Meadville
+Montgomery County
 Nanticoke
+Northampton County
+Perry County
 Philadelphia
-Pittsburgh
-Pottstown
-Springfield Twp
+Scranton
+Somerset County
+Venango County
+Washington County
+Westmoreland County
 York County
+Gettysburg
+Bethel Park
+Pittsburgh
+Hopewell Township
+Reading
+Bristol Township
+Coatesville
+Harrisburg
+Erie
+Huntingdon
+East Lampeter Township
+Allentown
+Abington Township
+Pottstown
+Springfield Township
+Easton
 York
+Coventry
+Cumberland
+East Providence
+Newport
+Providence
+Warwick
+Anderson County
+Calhoun County
+Charleston
+Dillon County
+Dorchester County
+Florence County
+Lexington County
+Myrtle Beach
+North Charleston
+Oconee County
+Rock Hill
 Columbia
+Pierre
 Rapid City
 Sioux Falls
 Vermillion
-Chattanooga
-Memphis
+Blount County
+Campbell County
+Cheatham County
+Davidson County
+Dickson County
+Franklin County
+Greene County
+Hamilton County
+Hancock County
+Hardin County
+Hawkins County
+Jefferson County
+Johnson County
+Knox County
+Lewis County
+Maury County
+Montgomery County
+Rutherford County
+Sevier County
+Shelby County
+Sumner County
+Van Buren County
+Warren County
+Washington County
+White County
+Williamson County
 Nashville
-Austin
-Dallas
-El Paso
-Fort Worth
-Houston
+Chattanooga
+Clarksville
+Memphis
+Amarillo
+Austin County
+Bandera County
+Bosque County
+Brazoria County
+Brazos County
+Briscoe County
+Collin County
+Colorado County
+Coryell County
+Dallas County
+Denton County
+Ector County
+El Paso County
+Falls County
+Fort Bend County
+Goliad County
+Grayson County
+Gregg County
+Grimes County
+Hidalgo County
+Hockley County
+Houston County
+Jackson County
+Johnson County
+Jones County
+Killeen
+Laredo
+Liberty County
+Lipscomb County
+Live Oak County
+Llano County
+Lubbock
+Matagorda County
+McLennan County
+McMullen County
+Milam County
+Montague County
+Ochiltree County
+Orange County
+Palo Pinto County
+Panola County
+Parker County
+Rains County
+Red River County
 San Antonio
-Provo
+San Patricio County
+Shackelford County
+Starr County
+Swisher County
+Tarrant County
+Terrell County
+Terry County
+Travis County
+Uvalde County
+Victoria County
+Walker County
+Ward County
+Williamson County
+Wilson County
+Wise County
+Garland
+Plano
+Dallas
+Garland
+Fort Worth
+Plano
+El Paso
+Houston
+Waco
+Fort Worth
+Corpus Christi
+Arlington
+Fort Worth
+Austin
+Austin
+Fort Worth
+Beaver County
+Box Elder County
+Salt Lake County
+Summit County
+Utah County
+Wayne County
 Salt Lake City
+West Valley City
+Orem
+Provo
+Alexandria
+Alleghany County
+Amherst County
+Appomattox County
+Arlington County
+Augusta County
+Bath County
+Bedford County
+Bland County
+Campbell County
+Caroline County
+Carroll County
+Charles City County
+Charlotte County
 Chesapeake
+Chesterfield County
+Clarke County
+Culpeper County
+Cumberland County
+Dinwiddie County
+Fairfax County
+Fauquier County
+Fluvanna County
+Goochland County
+Greene County
+Halifax County
+Hampton
+Hanover County
+Henrico County
+James City County
+King George County
+King William County
+Loudoun County
+Louisa County
+Madison County
+Montgomery County
+Nelson County
+New Kent County
+Newport News
+Norfolk
+Northumberland County
+Pittsylvania County
+Portsmouth
+Powhatan County
+Prince Edward County
+Prince William County
+Pulaski County
 Richmond
+Roanoke County
+Rockingham County
+Spotsylvania County
+Stafford County
+Suffolk
+Sussex County
+Tazewell County
 Virginia Beach
-Bellevue
-Puyallup
-Seattle
-Spokane
-Tacoma
+Washington County
+Wise County
+York County
+Adams County
+Asotin County
+Benton County
+Chelan County
+Clallam County
+Clark County
+Columbia County
+Cowlitz County
+Douglas County
+Ferry County
+Franklin County
+Garfield County
+Grant County
+Grays Harbor County
+Island County
+Jefferson County
+King County
+Kitsap County
+Kittitas County
+Klickitat County
+Lewis County
+Lincoln County
+Mason County
+Okanogan County
+Pacific County
+Pend Oreille County
+Pierce County
+San Juan County
+Skagit County
+Skamania County
+Snohomish County
+Spokane County
+Stevens County
+Thurston County
+Wahkiakum County
+Walla Walla County
+Whatcom County
+Whitman County
+Yakima County
 Vancouver
+Bellevue
+Federal Way
+Renton
+Seattle
+Puyallup
+Tacoma
+Everett
+Spokane
 Yakima
+Barbour County
+Calhoun County
+Charleston
+Clarksburg
+Fayette County
+Huntington
+Morgan County
+Morgantown
+Parkersburg
+Raleigh County
+Roane County
+Calumet County
+Green Bay
+Kenosha
 Madison
+Milwaukee County
+Ozaukee County
+Portage County
+Racine
+Sheboygan County
+Waukesha County
+Appleton
 Milwaukee
+Milwaukee
+Albany County
+Big Horn County
+Campbell County
+Carbon County
+Converse County
+Crook County
+Goshen County
+Hot Springs County
+Johnson County
+Laramie County
+Lincoln County
+Natrona County
+Niobrara County
+Park County
+Platte County
+Sheridan County
+Sublette County
+Sweetwater County
+Teton County
+Uinta County
+Washakie County
+Weston County
+Gillette
+Cheyenne
+Casper
+Green River
+Rock Springs
+Evanston
 Baker Island
 Howland Island
 Jarvis Island
