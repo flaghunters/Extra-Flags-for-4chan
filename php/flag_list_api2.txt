@@ -9726,6 +9726,7 @@ Montgomery County
 Rutherford County
 Sevier County
 Shelby County
+Sullivan County
 Sumner County
 Van Buren County
 Warren County
@@ -9736,6 +9737,7 @@ Nashville
 Chattanooga
 Clarksville
 Memphis
+Bristol
 Amarillo
 Austin County
 Bandera County
@@ -9829,6 +9831,7 @@ Salt Lake City
 West Valley City
 Orem
 Provo
+Accomack County
 Alexandria
 Alleghany County
 Amherst County
@@ -9838,11 +9841,13 @@ Augusta County
 Bath County
 Bedford County
 Bland County
+Bristol
 Campbell County
 Caroline County
 Carroll County
 Charles City County
 Charlotte County
+Charlottesville
 Chesapeake
 Chesterfield County
 Clarke County
@@ -9857,6 +9862,7 @@ Greene County
 Halifax County
 Hampton
 Hanover County
+Harrisonburg
 Henrico County
 James City County
 King George County
@@ -9876,6 +9882,7 @@ Powhatan County
 Prince Edward County
 Prince William County
 Pulaski County
+Radford
 Richmond
 Roanoke County
 Rockingham County
@@ -9888,6 +9895,8 @@ Virginia Beach
 Washington County
 Wise County
 York County
+Tangier
+Bridgewater
 Adams County
 Asotin County
 Benton County
