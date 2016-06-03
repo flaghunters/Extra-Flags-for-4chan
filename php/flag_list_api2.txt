@@ -1374,14 +1374,12 @@ Vina del Mar
 Anhui
 Beijing
 Chongqing
-Dalian
 Fujian
 Gansu
 Guangdong
-Guangxi Zhuang
+Guangxi
 Guizhou
 Hainan
-Harbin
 Hebei
 Heilongjiang
 Henan
@@ -1391,24 +1389,26 @@ Inner Mongolia
 Jiangsu
 Jiangxi
 Jilin
-Kaifeng
 Liaoning
-Nanjing
-Ningxia Hui
+Ningxia
 Qinghai
 Shaanxi
 Shandong
 Shanghai
-Shangrao
 Shanxi
 Sichuan
-Suzhou
 Tianjin
 Tibet
-Weihai
 Xinjiang
 Yunnan
 Zhejiang
+Harbin
+Kaifeng
+Nanjing
+Suzhou
+Shangrao
+Dalian
+Weihai
 Amazonas Department
 Antioquia Department
 Arauca Department
@@ -8665,6 +8665,7 @@ San Bernardino County
 San Diego County
 San Francisco
 San Luis Obispo
+San Mateo County
 Santa Barbara County
 Santa Clara County
 Santa Cruz County
@@ -8746,6 +8747,7 @@ Escondido
 Oceanside
 Poway
 San Diego
+San Mateo
 Santa Barbara
 Cupertino
 Gilroy
