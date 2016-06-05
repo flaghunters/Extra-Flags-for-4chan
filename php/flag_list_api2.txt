@@ -54,7 +54,7 @@ Encamp
 Escaldes-Engordany
 La Massana
 Ordino
-Sant Julia de Loria
+Sant Julià de Lòria
 Cabinda
 Adelie Land
 Australian Antarctic Territory
@@ -184,10 +184,10 @@ Tirol
 Upper Austria
 Vienna
 Vorarlberg
-Baku
-Ganja
-Nagorno-Karabakh
-Nakhchivan Autonomous Republic
+Bakı
+Dağlıq Qarabağ
+Gəncə
+Naxçıvan Autonomous Republic
 Capital Governorate
 Muharraq Governorate
 Northern Governorate
@@ -2308,12 +2308,12 @@ Nordjylland
 Sjælland
 Syddanmark
 Bornholm
-K¢benhavn
+København
 Frederikssund 
 Aarhus
 Grenaa
 Vendsyssel
-Ær¢
+Ærø
 Faaborg
 Haderslev
 Kolding
@@ -3700,36 +3700,36 @@ Debrecen
 Nyiregyhaza
 Akranes
 Akureyri
-Dalabygg╨ 
-Dalvíkurbygg╨
+Árborg
+Dalabyggð 
+Dalvíkurbyggð
 Djúpivogur 
-Eyjafjar╨arsveit
-Fjar╨abygg╨
-Fljótsdalshéra╨ 
-Gar╨abær 
-Gar╨ur 
+Eyjafjarðarsveit
+Fjarðabyggð
+Fljótsdalshérað 
+Garðabær 
+Garður 
 Grindavík 
-Hafnarfjör╨ur 
-Hornafjör╨ur 
-Húnaτing vestra
-Hverager╨i 
+Hafnarfjörður 
+Hornafjörður 
+Húnaþing vestra
+Hveragerði 
+Ísafjarðarbær
 Kopavogur
 Mosfellsbær
-Rangárτing eystra
-Rangárτing ytra
-╡rborg
+Rangárþing eystra
+Rangárþing ytra
 Reykjanesbær 
 Reykjavik 
-╓safjar╨arbær
-Sandger╨i
+Sandgerði
 Seltjarnarnes 
 Snæfellsbær 
 Stokkseyri
-Strandabygg╨ 
+Strandabyggð
 Stykkishólmur 
 Vestmannaeyjar 
 Vogar
-Vopnafjör╨ur 
+Vopnafjörður 
 Andaman and Nicobar Islands
 Andhra Pradesh
 Arunachal Pradesh
@@ -5293,15 +5293,15 @@ Buskerud
 Finnmark
 Hedmark
 Hordaland
-M¢re og Romsdal
+Møre og Romsdal
 Nordland
-Nord-Tr¢ndelag
+Nord-Trøndelag
 Oppland
 Oslo
+Østfold
 Rogaland
 Sogn og Fjordane
-S¢r-Tr¢ndelag
-¥stfold
+Sør-Trøndelag
 Telemark
 Troms
 Vest-Agder
@@ -5313,7 +5313,7 @@ Fet
 Frogn
 Gjerdrum
 Hurdal
-L¢renskog
+Lørenskog
 Nannestad
 Nesodden
 Nes
@@ -5348,13 +5348,13 @@ Kautokeino
 Kvalsund
 Lebesby
 Loppa
-Mås¢y
+Måsøy
 Nesseby
 Nordkapp
 Porsanger
-S¢r-Varanger
+Sør-Varanger
 Tana
-Vads¢
+Vadsø
 Alvdal
 Åmot
 Åsnes
@@ -5367,7 +5367,7 @@ Hamar
 Nord-Odal
 Os
 Rendalen
-S¢r-Odal
+Sør-Odal
 Stange
 Stor-Elvdal
 Tolga
@@ -5376,7 +5376,7 @@ Våler
 Austevoll
 Austrheim
 Bergen
-B¢mlo
+Bømlo
 Eidfjord
 Etne
 Fedje
@@ -5391,8 +5391,8 @@ Masfjorden
 Meland
 Modalen
 Odda
-Oster¢y
-Rad¢y
+Osterøy
+Radøy
 Samnanger
 Stord
 Sund
@@ -5405,22 +5405,22 @@ Voss
 Ålesund
 Aukra
 Aure
-Aver¢y
+Averøy
 Fraena
 Halsa
 Haram
-Her¢y
+Herøy
 Kristiansund
 Midsund
 Molde
 Nesset
 Norddal
+Ørskog
 Rindal
-¥rskog
 Sande
 Sandoy
 Skodje
-Sm¢la
+Smøla
 Stordal
 Stranda
 Surnadal
@@ -5429,9 +5429,9 @@ Vanylven
 Volda
 Alstahaug
 Bindal
-Bod¢
-B¢
-Br¢nn¢y
+Bodø
+Bø
+Brønnøy
 Evenes
 Fauske
 Flakstad
@@ -5439,43 +5439,43 @@ Gildeskal
 Hadsel
 Hattfjelldal
 Hemnes
-Her¢y
-¥ksnes
+Herøy
 Leirfjord
-Lur¢y
+Lurøy
 Moskenes
 Narvik
 Nesna
+Øksnes
 Rana
-R¢d¢y
-R¢st
+Rødøy
+Røst
 Saltdal
-S¢mna
+Sømna
+Sørfold
 Sortland
-S¢rfold
 Steigen
 Tjeldsund
 Træna
 Tysfjord
-Vær¢y
+Værøy
 Vågan
 Vega
-Vestvåg¢y
+Vestvågøy
 Vevelstad
 Flatanger
 Fosnes
 Frosta
 Grong
-H¢ylandet
+Høylandet
 Leka
 Leksvik
 Meråker
-Nær¢y
+Nærøy
 Namdalseid
 Overhalla
 Snåsa
 Steinkjer
-Stj¢rdal
+Stjørdal
 Verran
 Vikna
 Dovre
@@ -5487,20 +5487,29 @@ Lillehammer
 Lom
 Lunner
 Nordre Land
+Østre Toten
+Øystre Slidre
 Skjåk
-S¢r-Aurdal
-S¢r-Fron
-¥stre Toten
+Sør-Aurdal
+Sør-Fron
 Vang
 Vestre Slidre
 Vestre Toten
-¥ystre Slidre
+Aremark
+Fredrikstad
+Halden
+Hvaler
+Moss
+Sarpsborg
+Spydeberg
+Trøgstad
+Våler
 Bjerkreim
 Eigersund
 Forsand
 Hå
 Haugesund
-Kvits¢y
+Kvitsøy
 Randaberg
 Sandnes
 Sauda
@@ -5514,12 +5523,12 @@ Balestrand
 Bremanger
 Eid
 Fjaler
-F¢rde
+Førde
 Gaular
 Gloppen
 Gulen
 Hornindal
-H¢yanger
+Høyanger
 Hyllestad
 Lærdal
 Leikanger
@@ -5528,12 +5537,12 @@ Naustdal
 Selje
 Solund
 Stryn
-Vågs¢y
+Vågsøy
 Vik
 Åfjord
 Agdenes
 Bjugn
-Fr¢ya
+Frøya
 Hemne
 Hitra
 Holtålen
@@ -5547,17 +5556,8 @@ Skaun
 Snillfjord
 Trondheim
 Tydal
-Aremark
-Fredrikstad
-Halden
-Hvaler
-Moss
-Sarpsborg
-Spydeberg
-Tr¢gstad
-Våler
 Bamble
-B¢
+Bø
 Drangedal
 Fyresdal
 Hjartdal
@@ -5573,8 +5573,8 @@ Tokke
 Vinje
 Balsfjord
 Berg
-Bjark¢y
-Dyr¢y
+Bjarkøy
+Dyrøy
 Gaivuotna-Kåfjord
 Gratangen
 Harstad
@@ -5585,11 +5585,11 @@ Lenvik
 Lyngen
 Salangen
 Skånland
-Skjerv¢y
+Skjervøy
 Storfjord
 Torsken
-Tran¢y
-Troms¢
+Tranøy
+Tromsø
 Åseral
 Audnedal
 Hægebostad
@@ -5603,12 +5603,12 @@ Hof
 Horten
 Lardal
 Larvik
-N¢tter¢y
+Nøtterøy
 Re
 Sandefjord
 Sande
-Tj¢me
-T¢nsberg
+Tjøme
+Tønsberg
 Muscat
 Azad Kashmir
 Balochistan
@@ -5992,35 +5992,35 @@ Stargard
 Szczecin
 Walcz
 Abrantes
-Acores
-Agueda
+Açores
+Águeda
 Aguiar da Beira
 Alandroal
 Albergaria-a-Velha 
 Albufeira
-Alcacer do Sal
+Alcácer do Sal
 Alcanena
-Alcobaca
+Alcobaça
 Alcochete
 Alcoutim
 Alenquer
-Alfandega da Fe
-Alijo
+Alfândega da Fé
+Alijó
 Aljezur
 Aljustrel
 Almada
 Almeida
 Almeirim
-Almodovar
-Alpiarca
-Alter do Chao
-Alvaiazere
+Almodôvar
+Alpiarça
+Alter do Chão
+Alvaiázere
 Alvito
 Amadora
 Amarante
 Amares
 Anadia
-Ansiao
+Ansião
 Arcos de Valdevez
 Arganil
 Armamar
@@ -6031,7 +6031,7 @@ Arruda dos Vinhos
 Aveiro
 Avis
 Azambuja
-Baiao
+Baião
 Barcelos
 Barrancos
 Barreiro
@@ -6042,7 +6042,7 @@ Benavente
 Bombarral
 Borba
 Boticas
-Braganca
+Bragança
 Braga
 Cabeceiras de Basto
 Cadaval
@@ -6050,7 +6050,7 @@ Caldas da Rainha
 Caminha
 Campo Maior
 Cantanhede
-Carrazeda de Ansiaes
+Carrazeda de Ansiães
 Carregal do Sal
 Cartaxo
 Cascais
@@ -6065,12 +6065,12 @@ Celorico da Beira
 Celorico de Basto
 Chamusca
 Chaves
-Cinfaes
+Cinfães
 Coimbra
 Condeixa-a-Nova
-Constancia
+Constância
 Coruche
-Covilha
+Covilhã
 Crato
 Cuba
 Elvas
@@ -6079,40 +6079,40 @@ Espinho
 Esposende
 Estarreja
 Estremoz
-Evora
+Évora
 Fafe
 Faro
 Felgueiras
 Ferreira do Alentejo
-Ferreira do Zezere
+Ferreira do Zêzere
 Figueira da Foz
 Figueira de Castelo Rodrigo
-Figueiro dos Vinhos
+Figueiró dos Vinhos
 Fornos de Algodres
-Freixo de Espada a Cinta
+Freixo de Espada à Cinta
 Fronteira
-Fundao
-Gaviao
-Gois
-Golega
+Fundão
+Gavião
+Góis
+Golegã
 Gondomar
 Gouveia
-Grandola
+Grândola
 Guarda
-Guimaraes
+Guimarães
 Idanha-a-Nova
-Ilhavo
+Ílhavo
 Lagoa
 Lagos
 Lamego
 Leiria
 Lisboa
-Loule
+Loulé
 Loures
-Lourinha
+Lourinhã
 Lousada
-Lousa
-Macao
+Lousã
+Mação
 Macedo de Cavaleiros
 Madeira
 Mafra
@@ -6121,13 +6121,13 @@ Mangualde
 Manteigas
 Marco de Canavezes
 Marinha Grande
-Marvao
+Marvão
 Matosinhos
 Mealhada
 Meda
-Melgaco
-Mertola
-Mesao Frio
+Melgaço
+Mértola
+Mesão Frio
 Miranda do Corvo
 Miranda do Douro
 Mirandela
@@ -6135,7 +6135,7 @@ Mira
 Mogadouro
 Moimenta da Beira
 Moita
-Moncao
+Monção
 Monchique
 Mondim de Basto
 Monforte
@@ -6144,33 +6144,33 @@ Montemor-o-Novo
 Montemor-o-Velho
 Montijo
 Mora
-Mortagua
-Mourao
+Mortágua
+Mourão
 Moura
-Murca
+Murça
 Murtosa
-Nazare
+Nazaré
 Nelas
 Nisa
-Obidos
+Óbidos
 Odemira
 Odivelas
 Oeiras
 Oleiros
-Olhao
-Oliveira de Azemeis
+Olhão
+Oliveira de Azeméis
 Oliveira de Bairro
 Oliveira de Frades
 Oliveira do Hospital
-Ourem
+Ourém
 Ourique
 Ovar
-Pacos de Ferreira
+Paços de Ferreira
 Palmela
 Pampilhosa da Serra
 Paredes de Coura
 Paredes
-Pedrogao Grande
+Pedrógão Grande
 Penacova
 Penafiel
 Penalva do Castelo
@@ -6178,7 +6178,7 @@ Penamacor
 Penedono
 Penela
 Peniche
-Peso da Regua
+Peso da Régua
 Pinhel
 Pombal
 Ponte da Barca
@@ -6186,12 +6186,12 @@ Ponte de Lima
 Ponte de Sor
 Portalegre
 Portel
-Portimao
-Porto de Mos
+Portimão
+Porto de Mós
 Porto
-Povoa de Lanhoso
-Povoa de Varzim
-Proenca-a-Nova
+Póvoa de Lanhoso
+Póvoa de Varzim
+Proença-a-Nova
 Redondo
 Reguengos de Monsaraz
 Resende
@@ -6200,34 +6200,34 @@ Rio Maior
 Sabrosa
 Sabugal
 Salvaterra de Magos
-Santa Comba Dao
+Santa Comba Dão
 Santa Maria da Feira
-Santa Marta de Penaguiao
-Santarem
-Santiago do Cacem
+Santa Marta de Penaguião
+Santarém
+Santiago do Cacém
 Santo Tirso
-Sao Bras de Alportel
-Sao Joao da Madeira
-Sao Joao da Pesqueira
-Sao Pedro do Sul
+São Brás de Alportel
+São João da Madeira
+São João da Pesqueira
+São Pedro do Sul
 Sardoal
-Satao
+Sátão
 Seia
 Seixal
 Sernancelhe
 Serpa
-Serta
+Sertã
 Sesimbra
-Setubal
+Setúbal
 Sever do Vouga
 Silves
 Sines
 Sintra
-Sobral de Monte Agraco
+Sobral de Monte Agraço
 Soure
 Sousel
-Tabuaco
-Tabua
+Tabuaço
+Tábua
 Tarouca
 Tavira
 Terras de Bouro
@@ -6240,9 +6240,9 @@ Trancoso
 Trofa
 Vagos
 Vale de Cambra
-Valenca
+Valença
 Valongo
-Valpacos
+Valpaços
 Vendas Novas
 Viana do Alentejo
 Viana do Castelo
@@ -6255,17 +6255,17 @@ Vila Flor
 Vila Franca de Xira
 Vila Nova da Barquinha
 Vila Nova de Cerveira
-Vila Nova de Famalicao
-Vila Nova de Foz Coa
+Vila Nova de Famalicão
+Vila Nova de Foz Cóa
 Vila Nova de Gaia
 Vila Nova de Paiva
 Vila Nova de Poiares
 Vila Pouca de Aguiar
-Vila Real de Santo Antonio
+Vila Real de Santo António
 Vila Real
-Vila Velha de Rodao
+Vila Velha de Ródão
 Vila Verde
-Vila Vicosa
+Vila Viçosa
 Vimioso
 Vinhais
 Viseu
@@ -6281,17 +6281,17 @@ Lajes do Pico
 Madalena
 Nordeste
 Ponta Delgada
-Povoacao
-Praia da Vitoria
+Povoação
+Praia da Vitória
 Ribeira Grande
 Santa Cruz da Graciosa
 Santa Cruz das Flores
-Sao Roque do Pico
+São Roque do Pico
 Velas
 Vila do Porto
 Vila Franca do Campo
 Calheta
-Camara de Lobos
+Câmara de Lobos
 Funchal
 Machico
 Ponta do Sol
@@ -6300,7 +6300,7 @@ Porto Santo
 Ribeira Brava
 Santa Cruz
 Santana
-Sao Vicente
+São Vicente
 Adjuntas
 Aguada
 Aguadilla
@@ -7272,15 +7272,15 @@ South Gyeongsang Province
 South Jeolla Province
 Ulsan
 Andalucia
-Aragon
+Aragón
 Asturias
 Balearic Islands
 Basque Country
 Canary Islands
 Cantabria
-Castilla and Leon
+Castilla and León
 Castilla-La Mancha
-Cataluna
+Cataluña
 Ceuta
 Community of Madrid
 Extremadura
@@ -7291,60 +7291,112 @@ Navarra
 Region of Murcia
 Valencian Community
 Province of Almeria
-Province of Cadiz
-Province of Cordoba
+Province of Cádiz
+Province of Córdoba
 Province of Granada
 Province of Huelva
-Province of Jaen
-Province of Malaga
+Province of Jaén
+Province of Málaga
 Province of Sevilla
+Almería
+Cádiz
+Jerez de la Frontera
+Córdoba
+Granada
+Huelva
+Jaén
+Málaga
+Marbella
+Sevilla
 Province of Huesca
 Province of Teruel
 Province of Zaragoza
 Zaragoza
+Gijón
+Oviedo
 Formentera
 Ibiza
-Mallorca
-Menorca
+Majorca
+Minorca
+Palma
+Mahón
 Araba
 Bizkaia
 Gipuzkoa
+Vitoria-Gasteiz
+Bilbao
+San Sebastián
 Province of Las Palmas
 Province of Santa Cruz de Tenerife
 Fuerteventura
 Gran Canaria
 Lanzarote
+Las Palmas de Gran Canaria
 El Hierro
 La Gomera
 La Palma
 Tenerife
-Province of Avila
+San Cristóbal de La Laguna
+Santa Cruz de Tenerife
+Santander
+Province of Ávila
 Province of Burgos
-Province of Leon
+Province of León
 Province of Palencia
 Province of Salamanca
 Province of Segovia
 Province of Soria
 Province of Valladolid
 Province of Zamora
+Burgos
+León
+Salamanca
+Valladolid
 Province of Albacete
 Province of Ciudad Real
 Province of Cuenca
 Province of Guadalajara
 Province of Toledo
+Albacete
+Toledo
 Province of Barcelona
 Province of Girona
 Province of Lleida
 Province of Tarragona
+Badalona
+Barcelona
+L Hospitalet de Llobregat
+Sabadell
+Terrassa
+Lleida
+Tarragona
+Alcalá de Henares
+Alcorcón
+Fuenlabrada
+Getafe
+Leganés
+Madrid
+Móstoles
 Province of Badajoz
-Province of Caceres
-Province of A Coruna
+Province of Cáceres
+Badajoz
+Caceres
+Province of A Coruña
 Province of Lugo
 Province of Ourense
 Province of Pontevedra
+Vigo
+Logroño
+Pamplona
+Cartagena
+Murcia
 Province of Alicante
-Province of Castellon
+Province of Castellón
 Province of Valencia
+Alicante
+Elche
+Castellón de la Plana
+Valencia
 Central Province
 Eastern Province
 North Central Province
@@ -9348,22 +9400,60 @@ Laanai
 Maui
 Molokaii
 Ada County
+Adams County
 Bannock County
+Bear Lake County
+Benewah County
+Bingham County
+Blaine County
+Boise County
+Bonner County
 Bonneville County
 Boundary County
+Butte County
+Camas County
 Canyon County
-Coeur de Alene
+Caribou County
+Cassia County
+Clark County
+Clearwater County
+Custer County
+Elmore County
+Franklin County
+Fremont County
+Gem County
+Gooding County
+Idaho County
+Jefferson County
 Jerome County
-Moscow
-Post Falls
-Salmon
-Sun Valley
-Twin Falls
+Kootenai County
+Latah County
+Lemhi County
+Lewis County
+Lincoln County
+Madison County
+Minidoka County
+Nez Perce County
+Oneida County
+Owyhee County
+Payette County
+Power County
+Shoshone County
+Teton County
+Twin Falls County
+Valley County
+Washington County
 Boise
 Kuna
 Meridian
 Pocatello
+Sun Valley
 Caldwell
+Coeur de Alene
+Post Falls
+Moscow
+Salmon
+Twin Falls
 Belvidere
 Carbondale
 Carroll County
@@ -9821,15 +9911,27 @@ Jersey City
 Trenton
 Alamogordo
 Bernalillo County
+Chaves County
 Colfax County
 Curry County
 Doña Ana County
+Lincoln County
+Los Alamos County
+McKinley County
 Mora County
-Roswell
-Santa Fe
+Rio Arriba County
+Roosevelt County
+Sandoval County
+San Juan County
+Santa Fe County
+Sierra County
+Taos County
+Torrance County
 Albequerque
 Rio Rancho
+Roswell
 Las Cruces
+Santa Fe
 Albany County
 Allegany County
 Bronx County
@@ -10071,9 +10173,15 @@ Washington County
 Tulsa
 Broken Arrow
 Tulsa
+Baker County
+Clackamas County
+Clatsop County
+Harney County
+Jackson County
 Linn County
 Multnomah County
 Salem
+Washington County
 Portland
 Adams County
 Alleghany County
@@ -10268,9 +10376,12 @@ Austin
 Fort Worth
 Beaver County
 Box Elder County
+Emery County
 Salt Lake County
+San Juan County
 Summit County
 Utah County
+Wasatch County
 Wayne County
 Salt Lake City
 West Valley City
