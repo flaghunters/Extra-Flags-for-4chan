@@ -7016,8 +7016,8 @@ Trencin
 Trnava
 Martin
 Zilina
-Ajdovscina
-Apace
+Ajdovščina
+Apače
 Beltinci
 Benedikt
 Bistrica ob Sotli
@@ -7026,9 +7026,9 @@ Bloke
 Bohinj
 Borovnica
 Bovec
-Braslovce
+Braslovče
 Brda
-Brezice
+Brežice
 Brezovica
 Cankova
 Celje
@@ -7037,11 +7037,11 @@ Cerknika
 Cerkno
 Cerkvenjak
 Cirkulane
-Crensovci
-Crna na Koroskem
-Crnomelj
+Črenšovci
+Črna na Koroškem
+Črnomelj
 Destrnik
-Divaca
+Divača
 Dobje
 Dobrepolje
 Dobrna
@@ -7049,37 +7049,37 @@ Dobrova-Polhov Gradec
 Dobrovnik
 Dolenjske Toplice
 Dol pri Ljubljani
-Domzale
+Domžale
 Dornava
 Dravograd
 Duplek
 Gorenja Vas-Poljane
-Gorisnica
+Gorišnica
 Gorje
 Gornja Radgona
 Gornji Grad
 Gornji Petrovci
 Grosuplje
 Hajdina
-Hoce-Slivnica
-Hodos
+Hoče-Slivnica
+Hodoš
 Horjul
 Hrastnik
 Hrpelje-Kozina
 Idrija
 Ig
 Ilirska Bistrica
-Ivancna Gorica
+Ivančna Gorica
 Izola
 Jesenice
 Jezersko
-Jursinci
+Juršinci
 Kamnik
 Kanal ob Soci
-Kidricevo
+Kidričevo
 Kobarid
 Kobilje
-Kocevje
+Kočevje
 Komenda
 Komen
 Koper
@@ -7088,11 +7088,11 @@ Kostel
 Kozje
 Kranj
 Kranjska Gora
-Krizevci
-Krsko
+Križevci
+Krško
 Kungota
 Kuzma
-Lasko
+Laško
 Lenart
 Lendava
 Litija
@@ -7101,25 +7101,25 @@ Ljubno
 Ljutomer
 Logatec
 Log-Dragomer
-Loska Dolina
-Loski Potok
+Loška Dolina
+Loški Potok
 Lovrenc na Pohorju
-Luce
+Luče
 Lukovica
-Majsperk
+Majšperk
 Makole
 Maribor
 Markovci
 Medvode
-Menges
+Mengeš
 Metlika
-Mezica
-Miklavz na Dravskem Polju
+Mežica
+Miklavž na Dravskem Polju
 Miren-Kostanjevica
-Mirna Pec
+Mirna Peč
 Mislinja
 Mokronog-Trebelno
-Moravce
+Moravče
 Moravske Toplice
 Mozirje
 Murska Sobota
@@ -7130,15 +7130,15 @@ Nova Gorica
 Novo Mesto
 Odranci
 Oplotnica
-Ormoz
+Ormož
 Osilnica
 Pesnica
 Piran
 Pivka
-Podcetrtek
+Podčetrtek
 Podlehnik
 Podvelka
-Poljcane
+Poljčane
 Polzela
 Postojna
 Prebold
@@ -7146,67 +7146,67 @@ Preddvor
 Prevalje
 Ptuj
 Puconci
-Race-Fram
-Radece
+Rače-Fram
+Radeče
 Radenci
 Radlje ob Dravi
 Radovljica
-Ravne na Koroskem
-Razkrizje
-Recica ob Savinji
-Rence-Vogrsko
+Ravne na Koroškem
+Razkrižje
+Rečica ob Savinji
+Renče-Vogrsko
 Ribnica na Pohorju
 Ribnica
-Rogaska Slatina
-Rogasovci
+Rogaška Slatina
+Rogašovci
 Rogatec
-Ruse
+Ruše
 Selnica ob Dravi
-Semic
-Sempeter-Vrtojba
-Sencur
-Sentilj
-Sentjernej
-Sentjur
-Sentrupert
+Semič
+Šempeter-Vrtojba
+Šenčur
+Šentilj
+Šentjernej
+Šentjur
+Šentrupert
 Sevnica
-Sezana
-Skocjan
-Skofja Loka
-Skofljica
+Sežana
+Škocjan
+Škofja Loka
+Škofljica
 Slovenj Gradec
 Slovenska Bistrica
 Slovenske Konjice
-Smarje pri Jelsah
-Smarjeske Toplice
-Smartno ob Paki
-Smartno pri Litiji
-Sodrazica
-Solcava
-Sostanj
-Sredisce ob Dravi
-Starse
-Store
-Straza
+Šmarje pri Jelšah
+Šmarješke Toplice
+Šmartno ob Paki
+Šmartno pri Litiji
+Sodražica
+Solčava
+Šoštanj
+Središče ob Dravi
+Starše
+Štore
+Straža
 Sveta Ana v Slovenskih Goricah
 Sveta Trojica v Slovenskih Goricah
-Sveti Andraz v Slovenskih Goricah
-Sveti Jurij ob Scavnici
+Sveti Andraž v Slovenskih Goricah
+Sveti Jurij ob Ščavnici
 Sveti Jurij v Slovenskih Goricah
-Sveti Tomaz
+Sveti Tomaž
 Tabor
-Tisina
+Tišina
 Tolmin
 Trbovlje
 Trebnje
 Trnovska Vas
-Trzic
+Tržič
 Trzin
-Turnisce
+Turnišče
 Velenje
 Velika Polana
-Velike Lasce
-Verzej
+Velike Lašče
+Veržej
 Videm
 Vipava
 Vitanje
@@ -7216,14 +7216,14 @@ Vransko
 Vrhnika
 Vuzenica
 Zagorje ob Savi
-Zalec
-Zavrc
-Zelezniki
-Zetale
-Ziri
-Zirovnica
-Zrece
-Zuzemberk
+Žalec
+Zavrč
+Železniki
+Žetale
+Žiri
+Žirovnica
+Zreče
+Žužemberk
 Central Province
 Choiseul Province
 Guadalcanal Province
