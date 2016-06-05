@@ -116,6 +116,7 @@ Lord Howe Island
 Maitland
 Newcastle
 Queanbeyan
+Thumbs.db
 Wagga Wagga
 Wollongong
 Blacktown
@@ -126,6 +127,7 @@ Canterbury
 Parramatta
 Sutherland
 Sydney
+Thumbs.db
 Waverley
 Willoughby
 Windale
@@ -171,6 +173,7 @@ Whitehorse
 Yarra
 Perth
 Rottnest Island
+Thumbs.db
 Wanneroo
 Burgenland
 Carinthia
@@ -1503,7 +1506,7 @@ Guarne
 Guatapé
 Heliconia
 Hispania
-Itagui
+Itagüí
 Ituango
 Jardín
 Jericó
@@ -1514,7 +1517,7 @@ La Unión
 Liborina
 Maceo
 Marinilla
-Medellin
+Medellín
 Montebello
 Murindó
 Mutatá
@@ -1614,7 +1617,7 @@ El Cármen de Bolívar
 El Guamo
 El Peñon
 Hatillo de Loba
-Magangue
+Magangué
 Mahates
 Margarita
 María la Baja
@@ -1854,7 +1857,7 @@ Páez
 Patía-Bordo
 Piamonte
 Piendamó
-Popayan
+Popayán
 Puerto Tejada
 Puracé
 Rosas
@@ -2126,14 +2129,14 @@ Villanueva
 Santa Marta
 Villavicencio
 Pasto
-Cucuta
+Cúcuta
 Armenia
 Pereira
 Barrancabermeja
 Bucaramanga
 Floridablanca
 Sincelejo
-Ibague
+Ibagué
 Alcala
 Andalucía
 Ansermanuevo
@@ -2169,7 +2172,7 @@ San Pedro
 Sevilla
 Toro
 Trujillo
-Tulua
+Tuluá
 Ulloa
 Versalles
 Vijes
@@ -2302,15 +2305,15 @@ Lualaba
 Hovedstaden
 Midtjylland
 Nordjylland
-Sjaelland
+Sjælland
 Syddanmark
 Bornholm
-Copenhagen
+K¢benhavn
 Frederikssund 
 Aarhus
 Grenaa
 Vendsyssel
-Aero
+Ær¢
 Faaborg
 Haderslev
 Kolding
@@ -2528,7 +2531,7 @@ Oromia Region
 SNNP Region
 Somali Region
 Tigray Region
-Torshavn
+Tórshavn
 Chuuk
 Kosrae
 Pohnpei
@@ -2549,16 +2552,16 @@ Mwoakilloa
 Nett
 Sokehs
 Suva
-Etela-Karjala
-Etela-Pohjanmaa
-Etela-Savo
+Etelä-Karjala
+Etelä-Pohjanmaa
+Etelä-Savo
 Kainuu
-Kanta-Hame
+Kanta-Häme
 Keski-Pohjanmaa
 Keski-Suomi
 Kymenlaakso
 Lappi
-Paijat-Hame
+Päijät-Häme
 Pirkanmaa
 Pohjanmaa
 Pohjois-Karjala
@@ -3461,20 +3464,111 @@ Eastern Macedonia and Thrace
 Epirus
 Ionian Islands
 North Aegean
+Peloponnese
 South Aegean
 Thessaly
 Western Greece
 Western Macedonia
-Athens
+Acharnes
+Agia Paraskevi
+Agia Varvara
+Agkistri
+Aigina
+Alimos
+Aspropyrgos
+Athina
+Chaidari
+Chalandri
+Fyli
+Galatsi
+Glyfada
+Ilion
+Ilioupoli
+Kallithea
+Kifisia
+Korydallos
+Kropia
+Marathon
+Markopoulo Mesogaias
+Marousi
+Metamorfosi
+Nikaia-Agios Ioannis Rentis
+Palaio Faliro
+Papagou-Cholargos
+Peiraias
+Penteli
+Perama
+Peristeri
+Poros
+Salamina
+Spetses
+Vrilissia
+Vyronas
+Chalkida
+Delphi
+Eretria
+Karystos
+Lamia
+Livadeia
+Stylida
+Kalamaria
+Katerini
+Pylaia-Chortiatis
+Serres
+Skydra
+Thermaikos
 Thessaloniki
+Agios Nikolaos
 Chania
-Heraklion
+Hersonissos
+Irakleio
+Rethymno
+Sfakia
+Abdera
+Alexandroupoli
+Orestiada
+Topeiros
+Xanthi
+Igoumenitsa
 Ioannina
+Preveza
 Kerkyra
+Lefkada
+Paxoi
 Zakynthos
+Chios
+Psara
+Argos-Mykines
+Kalamata
+Korinthos
+Loutraki-Perachora-Agioi Theodoroi
+Nafplio
+Pylos-Nestoras
+Sparti
+Tripoli
+Voreia Kynouria
+Kalymnos
+Karpathos
+Kos
+Leipsoi
+Leros
+Milos
+Mykonos
+Paros
+Patmos
+Sifnos
+Syros-Ermoupoli
+Thira
+Tilos
+Tinos
 Larissa
+Pyli
 Volos
+Agrinio
+Mesolongi
+Nafpaktia 
 Patras
+Pyrgos
 Kujalleq
 Qaasuitsup
 Qeqqata
@@ -3606,36 +3700,36 @@ Debrecen
 Nyiregyhaza
 Akranes
 Akureyri
-Arborg
-Dalabyggd
-Dalvik
-Djupivogur
-Eyjafjardarsveit
-Fjardabyggd
-Fljotsdalsherad
-Gardabaer
-Gardur
-Grindavik
-Hafnarfjordur
-Hornafjordur
-Hunathing vestra
-Hveragerdi
-Isafjardarbaer
+Dalabygg╨ 
+Dalvíkurbygg╨
+Djúpivogur 
+Eyjafjar╨arsveit
+Fjar╨abygg╨
+Fljótsdalshéra╨ 
+Gar╨abær 
+Gar╨ur 
+Grindavík 
+Hafnarfjör╨ur 
+Hornafjör╨ur 
+Húnaτing vestra
+Hverager╨i 
 Kopavogur
-Mosfellsbaer
-Rangarthing eystra
-Rangarthing ytra
-Reykjanesbaer
-Reykjavik
-Sandgerdi
-Seltjarnarnes
-Snaefellsbaer
+Mosfellsbær
+Rangárτing eystra
+Rangárτing ytra
+╡rborg
+Reykjanesbær 
+Reykjavik 
+╓safjar╨arbær
+Sandger╨i
+Seltjarnarnes 
+Snæfellsbær 
 Stokkseyri
-Strandabyggd
-Stykkisholmur
-Vestmannaeyjar
+Strandabygg╨ 
+Stykkishólmur 
+Vestmannaeyjar 
 Vogar
-Vopnafjordur
+Vopnafjör╨ur 
 Andaman and Nicobar Islands
 Andhra Pradesh
 Arunachal Pradesh
@@ -4468,44 +4562,51 @@ Zacatecas
 Guadalajara
 Chetumal
 Anenii Noi District
-Balti
+Bălți
 Basarabeasca District
 Bender
 Briceni District
 Cahul District
-Calarasi District
+Călărași District
 Cantemir District
-Causeni District
-Chisinau
-Cimislia District
+Căușeni District
+Chișinău
+Cimișlia District
 Criuleni District
-Donduseni District
+Dondușeni District
 Drochia District
-Dubasari District
-Edinet District
-Falesti District
-Floresti District
-Gagauzia
+Dubăsari District
+Edineț District
+Fălești District
+Florești District
+Găgăuzia
 Glodeni District
-Hincesti District
+Hîncești District
 Ialoveni District
 Leova District
 Nisporeni District
-Ocnita District
+Ocnița District
 Orhei District
 Rezina District
-Riscani District
-Singerei District
-Soldanesti District
+Rîșcani District
+Sîngerei District
+Șoldănești District
 Soroca District
-Stefan Voda District
-Straseni District
+Ștefan Vodă District
+Strășeni District
 Taraclia District
-Telenesti District
+Telenești District
 Transnistria
 Ungheni District
+Drochia
+Dubăsari
+Florești
 Comrat
+Ialoveni
+Dnestrovsc
+Rîbnița
 Tiraspol
+Ungheni
 Monaco
 Arkhangai Province
 Bayankhongor Province
@@ -5192,34 +5293,34 @@ Buskerud
 Finnmark
 Hedmark
 Hordaland
-More og Romsdal
+M¢re og Romsdal
 Nordland
-Nord-Trondelag
+Nord-Tr¢ndelag
 Oppland
 Oslo
-Ostfold
 Rogaland
 Sogn og Fjordane
-Sor-Trondelag
+S¢r-Tr¢ndelag
+¥stfold
 Telemark
 Troms
 Vest-Agder
 Vestfold
-Baerum
+Bærum
 Eidsvoll
 Enebakk
 Fet
 Frogn
 Gjerdrum
 Hurdal
-Lorenskog
+L¢renskog
 Nannestad
 Nesodden
 Nes
 Nittedal
 Skedsmo
 Ski
-Amli
+Åmli
 Arendal
 Birkenes
 Bygland
@@ -5229,7 +5330,7 @@ Gjerstad
 Iveland
 Lillesand
 Tvedestrand
-Vegarshei
+Vegårshei
 Drammen
 Flesberg
 Hemsedal
@@ -5237,8 +5338,8 @@ Hol
 Nedre Eiker
 Rollag
 Alta
-Batsfjord
-Berlevag
+Båtsfjord
+Berlevåg
 Gamvik
 Hammerfest
 Hasvik
@@ -5247,16 +5348,16 @@ Kautokeino
 Kvalsund
 Lebesby
 Loppa
-Masoy
+Mås¢y
 Nesseby
 Nordkapp
 Porsanger
-Sor-Varanger
+S¢r-Varanger
 Tana
-Vadso
+Vads¢
 Alvdal
-Amot
-Asnes
+Åmot
+Åsnes
 Eidskog
 Elverum
 Engerdal
@@ -5266,16 +5367,16 @@ Hamar
 Nord-Odal
 Os
 Rendalen
-Sor-Odal
+S¢r-Odal
 Stange
 Stor-Elvdal
 Tolga
 Trysil
-Valer
+Våler
 Austevoll
 Austrheim
 Bergen
-Bomlo
+B¢mlo
 Eidfjord
 Etne
 Fedje
@@ -5285,13 +5386,13 @@ Granvin
 Jondal
 Kvam
 Kvinnherad
-Lindas
+Lindås
 Masfjorden
 Meland
 Modalen
 Odda
-Osteroy
-Radoy
+Oster¢y
+Rad¢y
 Samnanger
 Stord
 Sund
@@ -5301,25 +5402,25 @@ Ullensvang
 Ulvik
 Vaksdal
 Voss
-Alesund
+Ålesund
 Aukra
 Aure
-Averoy
+Aver¢y
 Fraena
 Halsa
 Haram
-Heroy
+Her¢y
 Kristiansund
 Midsund
 Molde
 Nesset
 Norddal
-Orskog
 Rindal
+¥rskog
 Sande
 Sandoy
 Skodje
-Smola
+Sm¢la
 Stordal
 Stranda
 Surnadal
@@ -5328,9 +5429,9 @@ Vanylven
 Volda
 Alstahaug
 Bindal
-Bodo
-Bo
-Bronnoy
+Bod¢
+B¢
+Br¢nn¢y
 Evenes
 Fauske
 Flakstad
@@ -5338,43 +5439,43 @@ Gildeskal
 Hadsel
 Hattfjelldal
 Hemnes
-Heroy
+Her¢y
+¥ksnes
 Leirfjord
-Luroy
+Lur¢y
 Moskenes
 Narvik
 Nesna
-Oksnes
 Rana
-Rodoy
-Rost
+R¢d¢y
+R¢st
 Saltdal
-Somna
-Sorfold
+S¢mna
 Sortland
+S¢rfold
 Steigen
 Tjeldsund
-Traena
+Træna
 Tysfjord
-Vaeroy
-Vagan
+Vær¢y
+Vågan
 Vega
-Vestvagoy
+Vestvåg¢y
 Vevelstad
 Flatanger
 Fosnes
 Frosta
 Grong
-Hoylandet
+H¢ylandet
 Leka
 Leksvik
-Meraker
-Naeroy
+Meråker
+Nær¢y
 Namdalseid
 Overhalla
-Snasa
+Snåsa
 Steinkjer
-Stjordal
+Stj¢rdal
 Verran
 Vikna
 Dovre
@@ -5386,29 +5487,20 @@ Lillehammer
 Lom
 Lunner
 Nordre Land
-Ostre Toten
-Oystre Slidre
-Skjak
-Sor-Aurdal
-Sor-Fron
+Skjåk
+S¢r-Aurdal
+S¢r-Fron
+¥stre Toten
 Vang
 Vestre Slidre
 Vestre Toten
-Aremark
-Fredrikstad
-Halden
-Hvaler
-Moss
-Sarpsborg
-Spydeberg
-Trogstad
-Valer
+¥ystre Slidre
 Bjerkreim
 Eigersund
 Forsand
-Ha
+Hå
 Haugesund
-Kvitsoy
+Kvits¢y
 Randaberg
 Sandnes
 Sauda
@@ -5422,29 +5514,29 @@ Balestrand
 Bremanger
 Eid
 Fjaler
-Forde
+F¢rde
 Gaular
 Gloppen
 Gulen
 Hornindal
-Hoyanger
+H¢yanger
 Hyllestad
-Laerdal
+Lærdal
 Leikanger
 Luster
 Naustdal
 Selje
 Solund
 Stryn
-Vagsoy
+Vågs¢y
 Vik
-Afjord
+Åfjord
 Agdenes
 Bjugn
-Froya
+Fr¢ya
 Hemne
 Hitra
-Holtalen
+Holtålen
 Melhus
 Orkdal
 Osen
@@ -5455,8 +5547,17 @@ Skaun
 Snillfjord
 Trondheim
 Tydal
+Aremark
+Fredrikstad
+Halden
+Hvaler
+Moss
+Sarpsborg
+Spydeberg
+Tr¢gstad
+Våler
 Bamble
-Bo
+B¢
 Drangedal
 Fyresdal
 Hjartdal
@@ -5472,26 +5573,26 @@ Tokke
 Vinje
 Balsfjord
 Berg
-Bjarkoy
-Dyroy
-Gaivuotna-Kafjord
+Bjark¢y
+Dyr¢y
+Gaivuotna-Kåfjord
 Gratangen
 Harstad
 Ibestad
-Kvaefjord
-Kvaenangen
+Kvæfjord
+Kvænangen
 Lenvik
 Lyngen
 Salangen
-Skanland
-Skjervoy
+Skånland
+Skjerv¢y
 Storfjord
 Torsken
-Tranoy
-Tromso
-Aseral
+Tran¢y
+Troms¢
+Åseral
 Audnedal
-Haegebostad
+Hægebostad
 Kristiansand
 Lindesnes
 Lyngdal
@@ -5502,12 +5603,12 @@ Hof
 Horten
 Lardal
 Larvik
-Notteroy
+N¢tter¢y
 Re
 Sandefjord
 Sande
-Tjome
-Tonsberg
+Tj¢me
+T¢nsberg
 Muscat
 Azad Kashmir
 Balochistan
@@ -6289,61 +6390,65 @@ Saint-Pierre
 Salazie
 Alba County
 Arad County
-Arges County
-Bacau County
+Argeș County
+Bacău County
 Bihor County
-Bistrita-Nasaud County
-Botosani County
-Braila County
-Brasov County
-Bucharest
-Buzau County
-Calarasi County
-Caras-Severin County
+Bistrița-Năsăud County
+Botoșani County
+Brăila County
+Brașov County
+București
+Buzău County
+Călărași County
+Caraș-Severin County
 Cluj County
-Constanta County
+Constanța County
 Covasna County
-Dambovita County
+Dâmbovița County
 Dolj County
-Galati County
+Galați County
 Giurgiu County
 Gorj County
 Harghita County
 Hunedoara County
-Ialomita County
-Iasi County
+Ialomița County
+Iași County
 Ilfov County
-Maramures County
-Mehedinti County
-Mures County
-Neamt County
+Maramureș County
+Mehedinți County
+Mureș County
+Neamț County
 Olt County
 Prahova County
-Salaj County
+Sălaj County
 Satu Mare County
 Sibiu County
 Suceava County
 Teleorman County
-Timis County
+Timiș County
 Tulcea County
-Valcea County
+Vâlcea County
 Vaslui County
 Vrancea County
 Alba Iulia
 Arad
 Oradea
-Botosani
-Brasov
-Calarasi
-Campia Turzii
+Botoșani
+Brașov
+Călărași
+Câmpia Turzii
 Cluj-Napoca
-Constanta
-Iasi
-Targu Mures
-Ploiesti
+Constanța
+Brețcu
+Târgu Secuiesc
+Galați
+Odorheiu Secuiesc
+Iași
+Târgu Mureș
+Ploiești
 Carei
 Suceava
-Timisoara
+Timișoara
 Tulcea
 Adygea
 Altai Krai
@@ -7257,58 +7362,58 @@ Nickerie District
 Longyearbyen
 Manzini
 Mbabane
-Angermanland
+Ångermanland
 Blekinge County
 Blekinge
-Bohuslan
+Bohuslän
 Dalarna County
 Dalarna
 Dalsland
 Gastrikland
-Gavleborg County
+Gävleborg County
 Gotland County
 Gotland
 Halland County
 Halland
-Halsingland
-Harjedalen
-Jamtland County
-Jamtland
-Jonkoping County
+Hälsingland
+Härjedalen
+Jämtland County
+Jämtland
+Jönköping County
 Kalmar County
 Kronoberg County
 Lappland
 Medelpad
-Narke
+Närke
 Norrbotten County
 Norrbotten
-Oland
-Orebro County
-Ostergotland County
-Ostergotland
-Skane County
-Skane
-Smaland
-Sodermanland County
-Sodermanland
+Öland
+Örebro County
+Östergötland County
+Östergötland
+Skåne County
+Skåne
+Småland
+Södermanland County
+Södermanland
 Stockholm County
 Uppland
 Uppsala County
-Varmland County
-Varmland
-Vasterbotten County
-Vasterbotten
-Vastergotland
-Vasternorrland County
-Vastmanland County
-Vastmanland
-Vastra Gotaland County
+Värmland County
+Värmland
+Västerbotten County
+Västerbotten
+Västergötland
+Västernorrland County
+Västmanland County
+Västmanland
+Västra Götaland County
 Kalmar
 Helsingborg
-Malmo
-Nykoping
+Malmö
+Nyköping
 Stockholm
-Goteborg
+Göteborg
 Mariestad
 Aargau
 Appenzell Ausserrhoden
@@ -7327,6 +7432,7 @@ Schaffhausen
 Schwyz
 Solothurn
 St. Gallen
+Thumbs.db
 Thurgau
 Ticino
 Unterwalden
@@ -8861,40 +8967,58 @@ Vestavia Hills
 Washington County
 Mobile
 Anchorage
+Denali Borough
+Fairbanks North Star Borough
 Homer
 Juneau
-North Pole
+Ketchikan
+North Slope Borough
+Northwest Arctic Borough
 Seward
+Skagway Borough
 Thorne Bay
 Wasilla
 Wrangell
-Apache Junction
-Bullhead City
+North Pole
+Apache County
 Cochise County
-Flagstaff
-Florence
-Fountain Hills
+Coconino County
+Gila County
 Grand Canyon
+Greenlee County
+La Paz County
 Maricopa County
-Maricopa
-Oro Valley
+Mohave County
+Navajo County
+Pima County
 Pima
-Queen Creek
-St Johns
-Sun City West
-Superior
-Tucson
-Winslow
+Pinal County
+Santa Cruz County
 Yavapai County
 Yuma County
+St. Johns
+Flagstaff
+Sedona
 Chandler
+Fountain Hills
 Glendale
 Mesa
 Peoria
 Phoenix
+Queen Creek
 Scottsdale
+Sun City West
 Surprise
 Tempe
+Bullhead City
+Winslow
+Oro Valley
+Tucson
+Apache Junction
+Florence
+Maricopa
+Queen Creek
+Superior
 Sedona
 Benton County
 Bryant
