@@ -7,6 +7,7 @@
 #vars
 FILE="flag_list.txt"
 BIGFILE="flag_list_api2.txt"
+BIGFILE_TEMP="flag_list_api2_temp.txt"
 FLAG_TOP_DIR="../flags"
 FLAG_TOP_DIR_FILE="${FLAG_TOP_DIR}/${FILE}"
 
@@ -52,5 +53,10 @@ touch "${BIGFILE}"
 while IFS='' read -r country || [[ -n "${country}" ]]; do
     gen_list "${FLAG_TOP_DIR}/${country}/"
 done < "${FLAG_TOP_DIR_FILE}"
+
+#filter duplicates on large file to reduce filesize
+awk '!a[$0]++' "${BIGFILE}" > "${BIGFILE_TEMP}"
+rm "${BIGFILE}"
+mv "${BIGFILE_TEMP}" "${BIGFILE}"
 
 exit 0
