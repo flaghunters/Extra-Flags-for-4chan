@@ -4839,49 +4839,49 @@ Zacatecas
 Guadalajara
 Chetumal
 Anenii Noi District
-Bălți
+Bălti
 Basarabeasca District
 Bender
 Briceni District
 Cahul District
-Călărași District
+Călărasi District
 Cantemir District
-Căușeni District
-Chișinău
-Cimișlia District
+Căuseni District
+Chisinău
+Cimislia District
 Criuleni District
-Dondușeni District
+Donduseni District
 Drochia District
 Dubăsari District
-Edineț District
-Fălești District
-Florești District
+Edinet District
+Fălesti District
+Floresti District
 Găgăuzia
 Glodeni District
-Hîncești District
+Hîncesti District
 Ialoveni District
 Leova District
 Nisporeni District
-Ocnița District
+Ocnita District
 Orhei District
 Rezina District
-Rîșcani District
+Rîscani District
 Sîngerei District
-Șoldănești District
+Soldănesti District
 Soroca District
-Ștefan Vodă District
-Strășeni District
+Stefan Vodă District
+Străseni District
 Taraclia District
-Telenești District
+Telenesti District
 Transnistria
 Ungheni District
 Drochia
 Dubăsari
-Florești
+Floresti
 Comrat
 Ialoveni
 Dnestrovsc
-Rîbnița
+Rîbnita
 Tiraspol
 Ungheni
 Monaco
@@ -6684,7 +6684,7 @@ Arad County
 Arges County
 Bacău County
 Bihor County
-Bistrița-Năsăud County
+Bistrita-Năsăud County
 Botosani County
 Brăila County
 Brasov County
@@ -6693,22 +6693,22 @@ Buzău County
 Călărasi County
 Caras-Severin County
 Cluj County
-Constanța County
+Constanta County
 Covasna County
-Dâmbovița County
+Dâmbovita County
 Dolj County
-Galați County
+Galati County
 Giurgiu County
 Gorj County
 Harghita County
 Hunedoara County
-Ialomița County
+Ialomita County
 Iasi County
 Ilfov County
 Maramures County
-Mehedinți County
+Mehedinti County
 Mures County
-Neamț County
+Neamt County
 Olt County
 Prahova County
 Sălaj County
@@ -6729,10 +6729,10 @@ Brasov
 Călărasi
 Câmpia Turzii
 Cluj-Napoca
-Constanța
-Brețcu
+Constanta
+Bretcu
 Târgu Secuiesc
-Galați
+Galati
 Odorheiu Secuiesc
 Iasi
 Târgu Mures
