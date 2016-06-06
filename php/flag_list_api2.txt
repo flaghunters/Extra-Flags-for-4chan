@@ -822,7 +822,6 @@ Houyet
 Jemeppe-sur-Sambre
 La Bruyère
 Mettet
-Namur
 Ohey
 Onhaye
 Philippeville
@@ -1169,7 +1168,6 @@ Votorantim
 Aracaju
 Sao Cristovao
 Palmas
-Taguatinga
 Diego Garcia
 Blagoevgrad
 Burgas
@@ -1219,7 +1217,6 @@ Abbotsford
 Greater Vancouver Regional District
 Kelowna
 Saanich
-Victoria
 Burnaby
 Coquitlam
 Delta
@@ -1245,7 +1242,6 @@ Cornwall
 Durham Region
 Guelph
 Halton Region
-Hamilton
 Kingston
 Kitchener
 London
@@ -1257,7 +1253,6 @@ St Catharines
 Sudbury
 Thunder Bay
 Toronto
-Waterloo
 Whitby
 Windsor
 York Region
@@ -1284,7 +1279,6 @@ Terrebonne
 Trois-Rivieres
 Regina
 Saskatoon
-Whitehorse
 Antofagasta Region
 Araucania Region
 Arica y Parinacota Region
@@ -1305,7 +1299,6 @@ Mejillones
 Collipulli
 Pucon
 Temuco
-Victoria
 Arica
 Copiapo
 Huasco
@@ -1344,7 +1337,6 @@ Villa Alegre
 Peumo
 Pichilemu
 Requinoa
-Santa Cruz
 Cerro Navia
 Conchali
 Independencia
@@ -1559,7 +1551,6 @@ Titiribí
 Turbo
 Uramita
 Urrao
-Valdivia
 Valparaíso
 Vegachí
 Venecia
@@ -1592,7 +1583,6 @@ Ponedera
 Puerto Colombia
 Repelón
 Sabanagrande
-Sabanalarga
 Santa Lucía
 Santo Tomás
 Soledad
@@ -1652,10 +1642,8 @@ Berbeo
 Betéitiva
 Boavita
 Boyacá
-Briceño
 Buenavista
 Busbanzá
-Caldas
 Campohermoso
 Cerinza
 Chinavita
@@ -1688,7 +1676,6 @@ Guayatá
 Guican
 Iza
 Jenezano
-Jericó
 Labranzagrande
 La Capilla
 La Uvita
@@ -1730,7 +1717,6 @@ San Mateo
 San Miguel de Sema
 San Pablo de Borbur
 Santa María
-Santana
 Santa Rosa de Viterbo
 Santa Sofía
 Sativanorte
@@ -1791,7 +1777,6 @@ Salamina
 Samaná
 San José
 Supía
-Victoria
 Villamaría
 Viterbo
 Albania
@@ -1809,7 +1794,6 @@ San José del Fragua
 San Vicente del Caguán
 Solano
 Solita
-Valparaíso
 Aguazul
 Chámeza
 Hato Corozal
@@ -1821,25 +1805,19 @@ Orocué
 Paz de Ariporo
 Pore
 Recetor
-Sabanalarga
 Sácama
 San Luis de Palenque
 Támara
 Tauramena
-Trinidad
-Villanueva
 Yopal
 Almaguer
-Argelia
 Balboa
 Bolívar
-Buenos Aires
 Cajibío
 Caldono
 Caloto
 Corinto
 El Tambo
-Florencia
 Guachené
 Guapi
 Inza
@@ -1849,9 +1827,7 @@ La Vega
 López de Micay
 Mercaderes
 Miranda
-Morales
 Padilla
-Páez
 Patía-Bordo
 Piamonte
 Piendamó
@@ -1861,11 +1837,9 @@ Puracé
 Rosas
 San Sebastián
 Santander de Quilichao
-Santa Rosa
 Silvia
 Sotará
 Suárez
-Sucre
 Timbío
 Timbiquí
 Toribío
@@ -1885,7 +1859,6 @@ Gamarra
 González
 La Gloria
 La Jagua de Ibirico
-La Paz
 Manaure
 Pailitas
 Pelaya
@@ -1920,14 +1893,12 @@ Nuquí
 Quibdó
 Río Iró
 Río Quito
-Riosucio
 San José de Palmar
 Sipí
 Tadó
 Unguía
 Unión Panamericana
 Ayapel
-Buenavista
 Canalete
 Cereté
 Chimá
@@ -1950,7 +1921,6 @@ Sahagún
 San Andrés de Sotavento
 San Antero
 San Bernardo del Viento
-San Carlos
 San José de Uré
 San Pelayo
 Tierralta
@@ -1980,7 +1950,6 @@ Cogua
 Cota
 Cucunubá
 El Colegio
-El Peñon
 El Rosal
 Facatativa
 Fómeque
@@ -1993,7 +1962,6 @@ Gachancipá
 Gachetá
 Gama
 Girardot
-Granada
 Guachetá
 Guaduas
 Guasca
@@ -2008,14 +1976,12 @@ La Calera
 La Mesa
 La Palma
 La Peña
-La Vega
 Lenguazaque
 Machetá
 Madrid
 Manta
 Medina
 Mosquera
-Nariño
 Nemocón
 Nilo
 Nimaima
@@ -2032,9 +1998,7 @@ Quetame
 Quipile
 Ricaurte
 San Antonio del Tequendama
-San Bernardo
 San Cayetano
-San Francisco
 San Juan de Rioseco
 Sasaima
 Sesquilé
@@ -2076,31 +2040,26 @@ Acevedo
 Agrado
 Aipe
 Algeciras
-Altamira
 Baraya
 Campoalegre
 Colombia
 Elías
 Garzón
 Gigante
-Guadalupe
 Hobo
 Íquira
 Isnos
 La Argentina
-La Plata
 Nátaga
 Neiva
 Oporapa
 Paicol
 Palermo
-Palestina
 Pitalito
 Pital
 Rivera
 Saladoblanco
 San Agustín
-Santa María
 Suaza
 Tarqui
 Tello
@@ -2109,7 +2068,6 @@ Tesalia
 Timaná
 Villavieja
 Yaguará
-Albania
 Barrancas
 Dibulla
 Distracción
@@ -2118,21 +2076,16 @@ Fonseca
 Hatonuevo
 La Jagua del Pilar
 Maicao
-Manaure
 Riohacha
 San Juan del Cesar
 Uribia
 Urumita
-Villanueva
 Santa Marta
 Villavicencio
 Pasto
 Cúcuta
-Armenia
-Buenavista
 Calarca
 Circasia
-Cordoba
 Filandia
 Genova
 La Tebaida
@@ -2141,7 +2094,6 @@ Pijao
 Quimbaya
 Salento
 Apia
-Balboa
 Belen de Umbria
 Dosquebradas
 Guatica
@@ -2161,14 +2113,11 @@ Ibagué
 Alcala
 Andalucía
 Ansermanuevo
-Argelia
-Bolívar
 Buenaventura
 Bugalagrande
 Buga
 Caicedonia
 Cali
-Candelaria
 Cartago
 Dagua
 Darién
@@ -2181,8 +2130,6 @@ Ginebra
 Guacarí
 Jamundí
 La Cumbre
-La Union
-La Victoria
 Obando
 Palmira
 Pradera
@@ -2211,9 +2158,6 @@ Limon Province
 Puntarenas Province
 San Jose Province
 Alajuela
-San Carlos
-Cartago
-La Union
 Heredia
 Limon
 Pococi
@@ -2350,7 +2294,6 @@ San Jose de las Matas
 San Pedro de Macoris
 Santiago de los Caballeros
 Santo Domingo Este
-Santo Domingo
 Villa Gonzalez
 Villa Hermosa
 Villa Jaragua
@@ -2406,12 +2349,10 @@ Ibarra
 Loja
 Babahoyo
 Quevedo
-Manta
 Portoviejo
 Macas
 Quito
 Salinas
-Santo Domingo
 Nueva Loja
 Ambato
 Banos de Agua Santa
@@ -2459,7 +2400,6 @@ Cabanas Department
 Chalatenango Department
 Cuscatlan Department
 La Libertad Department
-La Paz Department
 La Union Department
 Morazan Department
 San Miguel Department
@@ -2471,7 +2411,6 @@ Usulutan Department
 Chalatenango
 Antiguo Cuscatlan
 Santa Tecla
-La Union
 San Miguel
 San Salvador
 Santa Ana
@@ -2649,7 +2588,6 @@ Finistère
 Ille-et-Vilaine
 Morbihan
 Dinan
-Brest
 Concarneau
 Douarnenez
 Guilvinec
@@ -2734,22 +2672,10 @@ Nord
 Pas-de-Calais
 Douai
 Dunkerque
-Lille
 Valenciennes
 Béthune
 Calais
-Lens
 Souchez
-Calvados
-Eure
-Manche
-Orne
-Seine-Maritime
-Caen
-Sommervieu
-Évreux
-Le Havre
-Rouen
 Loire-Atlantique
 Maine-et-Loire
 Mayenne
@@ -3172,7 +3098,6 @@ Dortmund
 Ennepe-Ruhr-Kreis
 Hagen
 Hamm
-Herne
 Hochsauerlandkreis
 Kreis Olpe
 Kreis Siegen-Wittgenstein
@@ -3226,7 +3151,6 @@ Kreis Minden-Lübbecke
 Kreis Paderborn
 Borgholzhausen
 Gütersloh
-Halle
 Harsewinkel
 Herzebrock-Clarholz
 Langenberg
@@ -3246,7 +3170,6 @@ Löhne
 Rödinghausen
 Spenge
 Vlotho
-Brakel
 Nieheim
 Bad Oeynhausen
 Hille
@@ -3263,7 +3186,6 @@ Paderborn
 Salzkotten
 Duisburg
 Düsseldorf
-Essen
 Krefeld
 Kreis Kleve
 Kreis Mettmann
@@ -3522,7 +3444,6 @@ Penteli
 Perama
 Peristeri
 Poros
-Salamina
 Spetses
 Vrilissia
 Vyronas
@@ -3981,7 +3902,6 @@ Metropolitan City of Genova
 Province of Imperia
 Province of La Spezia
 Province of Savona
-Genova
 Metropolitan City of Milano
 Province of Bergamo
 Province of Brescia
@@ -4038,7 +3958,6 @@ Province of Ragusa
 Province of Siracusa
 Province of Trapani
 Catania
-Palermo
 Metropolitan City of Firenze
 Province of Arezzo
 Province of Grosseto
@@ -4140,11 +4059,9 @@ St Clement
 St Helier
 St John
 St Lawrence
-St Martin
 St Mary
 St Ouen
 St Peter
-St Saviour
 Trinity
 Amman
 Aksu
@@ -4345,7 +4262,6 @@ North Governorate
 South Governorate
 Beirut
 Mayrouba
-Tripoli
 Sidon
 Bomi County
 Bong County
@@ -4619,7 +4535,6 @@ Sudeikiai
 Tauragnai
 Utena
 Antalieptė
-Degučiai
 Dusetos
 Salakas
 Zarasai
@@ -4662,7 +4577,6 @@ Grigiškės
 Beaufort
 Betzdorf
 Diekirch
-Luxembourg
 Mondorf-les-Bains
 Schengen
 Vianden
@@ -4740,7 +4654,6 @@ Tombouctou Region
 Bamako
 Menaka
 Adrar des Ifoghas
-Central Region
 Gozo Region
 Northern Region
 South Eastern Region
@@ -4781,7 +4694,6 @@ Mosta
 Mtarfa
 Naxxar
 Pembroke
-Rabat
 San Pawl il-Bahar
 Swieqi
 Birgu
@@ -4811,7 +4723,6 @@ Qrendi
 Safi
 Santa Lucija
 Siggiewi
-Zebbug
 Zurrieq
 Bikini Atoll
 Kwajalein Atoll
@@ -4981,7 +4892,6 @@ Azilal
 Beni Mellal
 Benslimane
 Cape Bojador
-Casablanca
 Chefchaouen
 Dakhla
 El Jadida
@@ -5003,8 +4913,6 @@ Meknes
 Nador
 Ouarzazate
 Oujda
-Rabat
-Safi
 Settat
 Sidi Kacem
 Tangier
@@ -5107,7 +5015,6 @@ Flevoland
 Friesland
 Gelderland
 Groningen
-Limburg
 Noord-Brabant
 Noord-Holland
 Overijssel
@@ -5168,7 +5075,6 @@ Berkelland
 Beuningen
 Bronckhorst
 Brummen
-Buren
 Culemborg
 Doesburg
 Doetinchem
@@ -5340,7 +5246,6 @@ Alkmaar
 Amstelveen
 Amsterdam
 Beemster
-Bergen
 Beverwijk
 Blaricum
 Bloemendaal
@@ -5423,7 +5328,6 @@ Montfoort
 Oudewater
 Renswoude
 Rhenen
-Soest
 Stichtse Vecht
 Utrechtse Heuvelrug
 Utrecht (Stad)
@@ -5544,7 +5448,6 @@ South Caribbean Coast Autonomous Region
 Boaco
 Chinandega
 Esteli
-Granada
 Jinotega
 Leon
 Somoto
@@ -5672,7 +5575,6 @@ Trysil
 Våler
 Austevoll
 Austrheim
-Bergen
 Bømlo
 Eidfjord
 Etne
@@ -5736,7 +5638,6 @@ Gildeskal
 Hadsel
 Hattfjelldal
 Hemnes
-Herøy
 Leirfjord
 Lurøy
 Moskenes
@@ -5800,7 +5701,6 @@ Moss
 Sarpsborg
 Spydeberg
 Trøgstad
-Våler
 Bjerkreim
 Eigersund
 Forsand
@@ -5854,7 +5754,6 @@ Snillfjord
 Trondheim
 Tydal
 Bamble
-Bø
 Drangedal
 Fyresdal
 Hjartdal
@@ -5896,14 +5795,12 @@ Lyngdal
 Mandal
 Marnardal
 Andebu
-Hof
 Horten
 Lardal
 Larvik
 Nøtterøy
 Re
 Sandefjord
-Sande
 Tjøme
 Tønsberg
 Muscat
@@ -5913,7 +5810,6 @@ Federally Administered Tribal Areas
 Gilgit-Baltistan
 Islamabad Capital Territory
 Khyber Pakhtunkhwa
-Punjab
 Sindh
 Muzaffarabad
 Gwadar
@@ -5927,7 +5823,6 @@ Gujranwala
 Lahore
 Multan
 Rawalpindi
-Hyderabad
 Karachi
 Aimeliik
 Airai
@@ -6016,7 +5911,6 @@ Ita
 Luque
 Mariano Roque Alonso
 Nemby
-Concepcion
 Caacupe
 Villarrica
 Encarnacion
@@ -6054,7 +5948,6 @@ Cajamarca
 Huanuco
 Ica
 Huancayo
-Trujillo
 Chiclayo
 Lima
 Iquitos
@@ -6101,7 +5994,6 @@ Kalinga
 Laguna
 Lanao del Norte
 Lanao del Sur
-La Union
 Leyte
 Lucena
 Maguindanao
@@ -6152,7 +6044,6 @@ Lipa
 Baguio
 Balilihan
 Maribojoc
-San Miguel
 Tagbilaran
 Kalilangan
 Iriga
@@ -6162,14 +6053,11 @@ Tagaytay
 Tres Martires
 Lapu-Lapu
 Mandaue
-Toledo
 Cotabato City
 Davao City
 Laoag
 Iloilo City
 Paete
-San Pablo
-Santa Rosa
 Iligan
 Marawi
 Ormoc
@@ -6183,18 +6071,14 @@ Bacalod
 Bago
 Cadiz
 La Carlota
-San Carlos
 Bais
 Canlaon
 Dumaguete
 Cabanatuan
 Palayan
-San Jose
 Puerto Princesa
 Angeles
-San Fernando
 Dagupan
-San Carlos
 Calbayog
 General Santos
 Surigao City
@@ -6203,7 +6087,6 @@ Dapitan
 Dipolog
 Pagadian
 Zamboanga
-Naga
 Tungawan Municipality
 Dolnoslaskie
 Kujawsko-Pomorskie
@@ -6320,7 +6203,6 @@ Alijó
 Aljezur
 Aljustrel
 Almada
-Almeida
 Almeirim
 Almodôvar
 Alpiarça
@@ -6351,7 +6233,6 @@ Beja
 Belmonte
 Benavente
 Bombarral
-Borba
 Boticas
 Bragança
 Braga
@@ -6586,7 +6467,6 @@ Angra do Heroismo
 Calheta
 Corvo
 Horta
-Lagoa
 Lajes das Flores
 Lajes do Pico
 Madalena
@@ -6601,7 +6481,6 @@ São Roque do Pico
 Velas
 Vila do Porto
 Vila Franca do Campo
-Calheta
 Câmara de Lobos
 Funchal
 Machico
@@ -6609,8 +6488,6 @@ Ponta do Sol
 Porto Moniz
 Porto Santo
 Ribeira Brava
-Santa Cruz
-Santana
 São Vicente
 Adjuntas
 Aguada
@@ -6627,7 +6504,6 @@ Cabo Rojo
 Caguas
 Camuy
 Canovanas
-Carolina
 Catano
 Cayey
 Ceiba
@@ -6639,7 +6515,6 @@ Corozal
 Culebra
 Dorado
 Fajardo
-Florida
 Guanica
 Guayama
 Guayanilla
@@ -6648,7 +6523,6 @@ Gurabo
 Hatillo
 Hormigueros
 Humacao
-Isabela
 Jayuya
 Juana Diaz
 Juncos
@@ -6672,14 +6546,11 @@ Penuelas
 Ponce
 Quebradillas
 Rincon
-Rio Grande
 Sabana Grande
-Salinas
 San German
 San Juan
 San Lorenzo
 San Sebastian
-Santa Isabel
 Toa Alta
 Toa Baja
 Trujillo Alto
@@ -6940,7 +6811,6 @@ Kirov
 Kotelnich
 Pervomaysky
 Slobodskoy
-Sovetsk
 Vyatskiye Polyany
 Inta
 Sosnogorsk
@@ -6986,7 +6856,6 @@ Kirishi
 Kirovsk
 Kommunar
 Lodeynoye Pole
-Lyuban
 Otradnoye
 Pikalyovo
 Podporozhye
@@ -7009,7 +6878,6 @@ Magadan
 Susuman
 Yoshkar-Ola
 Saransk
-Troitsk
 Zelenograd
 Aprelevka
 Balashikha
@@ -7140,7 +7008,6 @@ Metallostroy
 Pushkin
 Berkakit
 Dzhebariki-Khaya
-Mirny
 Pokrovsk
 Srednekolymsk
 Udachny
@@ -7210,7 +7077,6 @@ Tomsk
 Kimovsk
 Novomoskovsk
 Shchyokino
-Sovetsk
 Tula
 Uzlovaya
 Kyzyl
@@ -7272,7 +7138,6 @@ Nizhnevartovsk
 Sovetsky
 Surgut
 Borzya
-Chita
 Krasnokamensk
 Nerchinsk
 Shilka
@@ -7535,7 +7400,6 @@ Zavrč
 Žirovnica
 Zreče
 Žužemberk
-Central Province
 Choiseul Province
 Guadalcanal Province
 Honiara
@@ -7544,14 +7408,12 @@ Makira-Ulawa Province
 Malaita Province
 Rennell and Bellona Province
 Temotu Province
-Western Province
 Awdalland
 Galmudug
 Jubaland
 Khatumo
 Puntland
 Somaliland
-South West
 Eastern Cape
 Free State
 Gauteng
@@ -7612,17 +7474,13 @@ Province of Sevilla
 Almería
 Cádiz
 Jerez de la Frontera
-Córdoba
-Granada
 Huelva
 Jaén
 Málaga
 Marbella
-Sevilla
 Province of Huesca
 Province of Teruel
 Province of Zaragoza
-Zaragoza
 Gijón
 Oviedo
 Formentera
@@ -7636,7 +7494,6 @@ Bizkaia
 Gipuzkoa
 Vitoria-Gasteiz
 Bilbao
-San Sebastián
 Province of Las Palmas
 Province of Santa Cruz de Tenerife
 Fuerteventura
@@ -7645,7 +7502,6 @@ Lanzarote
 Las Palmas de Gran Canaria
 El Hierro
 La Gomera
-La Palma
 Tenerife
 San Cristóbal de La Laguna
 Santa Cruz de Tenerife
@@ -7661,7 +7517,6 @@ Province of Valladolid
 Province of Zamora
 Burgos
 León
-Salamanca
 Valladolid
 Province of Albacete
 Province of Ciudad Real
@@ -7669,7 +7524,6 @@ Province of Cuenca
 Province of Guadalajara
 Province of Toledo
 Albacete
-Toledo
 Province of Barcelona
 Province of Girona
 Province of Lleida
@@ -7686,7 +7540,6 @@ Alcorcón
 Fuenlabrada
 Getafe
 Leganés
-Madrid
 Móstoles
 Province of Badajoz
 Province of Cáceres
@@ -7699,7 +7552,6 @@ Province of Pontevedra
 Vigo
 Logroño
 Pamplona
-Cartagena
 Murcia
 Province of Alicante
 Province of Castellón
@@ -7707,8 +7559,6 @@ Province of Valencia
 Alicante
 Elche
 Castellón de la Plana
-Valencia
-Central Province
 Eastern Province
 North Central Province
 Northern Province
@@ -7716,7 +7566,6 @@ North Western Province
 Sabaragamuwa Province
 Southern Province
 Uva Province
-Western Province
 Kandy
 Matale
 Nuwara Eliya
@@ -7814,7 +7663,6 @@ Fribourg
 Geneva
 Glarus
 Grisons
-Jura
 Lucerne
 Neuchatel
 Schaffhausen
@@ -8099,11 +7947,9 @@ Cubuk
 Elmadag
 Etimesgut
 Evren
-Golbasi
 Gudul
 Haymana
 Kalecik
-Kazan
 Kecioren
 Kizilcahamam
 Mamak
@@ -8118,7 +7964,6 @@ Yenimahalle
 Yurtbeyli
 Antalya
 Akseki
-Aksu
 Alanya
 Avsallar
 Belek
@@ -8251,7 +8096,6 @@ Bolu
 Dortdivan
 Gerede
 Goynuk
-Karacasu
 Mengen
 Mudurnu
 Seben
@@ -8274,7 +8118,6 @@ Inegol
 Iznik
 Karacabey
 Karincali
-Kestel
 Mudanya
 Mustafakemalpasa
 Nilufer
@@ -8327,9 +8170,7 @@ Alaca
 Arifegazili
 Bogazkale
 Corum
-Dodurga
 Mecitozu
-Ortakoy
 Osmancik
 Ugurludag
 Denizli Metropolitan Municipality
@@ -8343,7 +8184,6 @@ Buldan
 Cagirgan
 Cal
 Cameli
-Cardak
 Civril
 Dariveren
 Golemezli
@@ -8372,7 +8212,6 @@ Kayapinar
 Kulp
 Silvan
 Sur
-Yenisehir
 Akcakoca
 Beykoy
 Bogazici
@@ -8427,7 +8266,6 @@ Bozan
 Dogancayir
 Han
 Inonu
-Mahmudiye
 Mihaliccik
 Nasreddin Hoca
 Odunpazari
@@ -8484,7 +8322,6 @@ Tuzluca
 Atabey
 Egirdir
 Gelendost
-Gonen
 Isparta
 Keciborlu
 Kuleonu
@@ -8530,7 +8367,6 @@ Silivri
 Sisli
 Sultanbeyli
 Sultangazi
-Tuzla
 Umraniye
 Uskudar
 Zeytinburnu
@@ -8556,7 +8392,6 @@ Karabaglar
 Karaburun
 Karsiyaka
 Kemalpasa
-Kinik
 Kiraz
 Konak
 Menderes
@@ -8570,7 +8405,6 @@ Torbali
 Urla
 Yenisakran
 Kahramanmaras Metropolitan Municipality
-Beyoglu
 Dulkadiroglu
 Ekinozu
 Goksun
@@ -8612,14 +8446,12 @@ Hacilar
 Incesu
 Kocasinan
 Melikgazi
-Pinarbasi
 Sarioglan
 Sariz
 Talas
 Yahyali
 Yesilhisar
 Kilis
-Aksaray Province
 Bahsili
 Baliseyh
 Delice
@@ -8699,7 +8531,6 @@ Kutahya
 Pazarlar
 Simav
 Tavsanli
-Tepecik
 Malatya Metropolitan Municipality
 Akcadag
 Battalgazi
@@ -8707,7 +8538,6 @@ Darende
 Dogansehir
 Doganyol
 Hekimhan
-Kale
 Kuluncak
 Puturge
 Yazihan
@@ -8755,7 +8585,6 @@ Silifke
 Tarsus
 Tasucu
 Toroslar
-Yenisehir
 Mugla Metropolitan Municipality
 Akyaka
 Armutalan
@@ -8764,7 +8593,6 @@ Bayir
 Beldibi
 Bitez
 Bodrum
-Bozuyuk
 Dalaman
 Dalyan
 Datca
@@ -8849,7 +8677,6 @@ Geyve
 Hendek
 Karapurcek
 Karasu
-Kaynarca
 Kocaali
 Kurudere
 Kuzuluk
@@ -8862,7 +8689,6 @@ Tarakli
 Samsun Metropolitan Municipality
 Alacam
 Atakum
-Ayvacik
 Bafra
 Canik
 Carsamba
@@ -8935,7 +8761,6 @@ Sultankoy
 Ulas
 Velikoy
 Velimese
-Yenice
 Yeniciftlik
 Basciftlik
 Erbaa
@@ -8968,7 +8793,6 @@ Karahalli
 Kizilcasogut
 Selcikler
 Sivasli
-Ulubey
 Usak
 Yelegen
 Van Metropolitan Municipality
@@ -8984,11 +8808,9 @@ Ciftlikkoy
 Cinarcik
 Kocadere
 Subasi
-Taskopru
 Termal
 Yalova
 Akdagmadeni
-Aydincik
 Baydigin
 Bogazliyan
 Candir
@@ -9017,11 +8839,9 @@ Buganda
 Bunyoro
 Busoga
 Rwenzururu
-Toro
 Cherkasy Oblast
 Chernihiv Oblast
 Chernivtsi Oblast
-Crimea
 Dnipropetrovsk Oblast
 Donetsk Oblast
 Ivano-Frankivsk Oblast
@@ -9037,7 +8857,6 @@ Mykolaiv Oblast
 Odessa Oblast
 Poltava Oblast
 Rivne Oblast
-Sevastopol
 Sumy Oblast
 Ternopil Oblast
 Vinnytsia Oblast
@@ -9050,18 +8869,12 @@ Uman
 Chernihiv
 Nizhyn
 Chernivtsi
-Feodosia
-Kerch
-Simferopol
-Yalta
-Yevpatoria
 Dniprodzerzhynsk
 Dnipro
 Kryvyi Rih
 Nikopol
 Pavlohrad
 Bakhmut
-Donetsk
 Horlivka
 Kostiantynivka
 Kramatorsk
@@ -9123,7 +8936,6 @@ Buckinghamshire
 Cambridgeshire
 Cheshire
 City of London
-Cornwall
 Cumberland
 Cumbria
 Derbyshire
@@ -9163,7 +8975,6 @@ Somerset
 South Yorkshire
 Staffordshire
 Suffolk
-Surrey
 Sussex
 Tyne and Wear
 Warwickshire
@@ -9202,7 +9013,6 @@ Birmingham
 Black Country
 Coventry
 Bradford
-Ulster
 Antrim
 Armagh
 Belfast
@@ -9280,14 +9090,12 @@ Colorado
 Connecticut
 Delaware
 District of Columbia
-Florida
 Georgia
 Hawaii
 Idaho
 Illinois
 Indiana
 Iowa
-Iroquois
 Kansas
 Kentucky
 Louisiana
@@ -9298,7 +9106,6 @@ Michigan
 Minnesota
 Mississippi
 Missouri
-Montana
 Navajo
 Nebraska
 Nevada
@@ -9329,7 +9136,6 @@ Andalusia
 Atmore
 Auburn
 Baldwin County
-Birmingham
 Chatom
 Cherokee County
 Cleburne County
@@ -9403,11 +9209,8 @@ Winslow
 Oro Valley
 Tucson
 Apache Junction
-Florence
 Maricopa
-Queen Creek
 Superior
-Sedona
 Benton County
 Bryant
 Craighead County
@@ -9465,12 +9268,10 @@ Riverside County
 Sacramento County
 San Bernardino County
 San Diego County
-San Francisco
 San Luis Obispo
 San Mateo County
 Santa Barbara County
 Santa Clara County
-Santa Cruz County
 Seaside
 Siskiyou County
 Solvang
@@ -9490,7 +9291,6 @@ Livermore
 Newark
 Oakland
 San Leandro
-Jackson
 Bellflower
 Bell
 Beverly Hills
@@ -9502,13 +9302,10 @@ Diamond Bar
 Downey
 El Monte
 Gardena
-Glendale
 Lancaster
 Lawndale
 Lomita
 Long Beach
-Los Angeles
-Monrovia
 Monterey
 Palmdale
 Pico Rivera
@@ -9529,7 +9326,6 @@ Mission Viejo
 Orange
 Rancho Santa Margarita
 San Clemente
-Santa Ana
 Stanton
 Westminster
 Hemet
@@ -9548,15 +9344,12 @@ Chula Vista
 Escondido
 Oceanside
 Poway
-San Diego
 Half Moon Bay
-San Mateo
 Santa Barbara
 Cupertino
 Gilroy
 Morgan Hill
 Palo Alto
-San Jose
 Santa Clara
 Arapahoe County
 Arvada
@@ -9573,8 +9366,6 @@ Loveland
 Montrose
 Pueblo
 Weld County
-Westminster
-Aurora
 Centennial
 Evans
 Thornton
@@ -9586,11 +9377,9 @@ Danbury
 East Hartford
 Greenwich
 Hartford
-Mansfield
 Milford
 New Haven
 New Milford
-Orange
 Stamford
 Waterbury
 Westport
@@ -9620,7 +9409,6 @@ Fort Lauderdale
 Gulfport
 Hillsborough County
 Hollywood
-Jacksonville
 Key West
 Lakeland
 Lantana
@@ -9634,7 +9422,6 @@ Miami-Dade County
 North Lauderdale
 Oakland Park
 Okaloosa County
-Orange County
 Orange Park
 Osceola County
 Palm Beach County
@@ -9653,7 +9440,6 @@ Tamarac
 West Melbourne
 Gainesville
 Callaway
-Panama City
 Marco Island
 Naples
 Tampa
@@ -9686,7 +9472,6 @@ Brunswick
 Bulloch County
 Camden County
 Centerville
-Cherokee County
 Chickamauga
 Clarkston
 Clayton County
@@ -9697,9 +9482,7 @@ Covington
 Coweta County
 Dawson County
 DeKalb County
-Douglas County
 Duluth
-Fayetteville
 Fulton County
 Gray
 Grayson
@@ -9721,9 +9504,7 @@ Tybee
 Vidalia
 Walnut Grove
 Atlanta
-Decatur
 Douglasville
-Atlanta
 Roswell
 Hawaii Island
 Honolulu
@@ -9779,7 +9560,6 @@ Shoshone County
 Teton County
 Twin Falls County
 Valley County
-Washington County
 Boise
 Kuna
 Meridian
@@ -9788,7 +9568,6 @@ Sun Valley
 Caldwell
 Coeur de Alene
 Post Falls
-Moscow
 Salmon
 Twin Falls
 Belvidere
@@ -9799,11 +9578,9 @@ Cook County
 Dixon
 Downers Grove
 DuPage County
-Franklin County
 Galena
 Godfrey
 Heyworth
-Highland
 Jasper County
 Joliet
 Kane County
@@ -9814,11 +9591,8 @@ Marshall County
 McHenry County
 Morgan County
 Moultrie County
-Newark
 Norridge
-Ottawa
 Park Ridge
-Peoria
 Plainfield Township
 Plano
 Putnam County
@@ -9841,7 +9615,6 @@ Evanston
 Hanover Park
 Lansing
 Maine Township
-Midlothian
 Oak Lawn
 Orland Township
 Proviso Township
@@ -9852,15 +9625,12 @@ Schiller Park
 Thornton Township
 Wheeling Township
 Addison
-Aurora
 Bloomingdale
-Chicago
 Darien
 Glen Ellyn
 Lombard
 Naperville
 West Chicago
-Aurora
 Toluca
 Springfield
 Belleville
@@ -9869,12 +9639,10 @@ Mascoutah
 Avilla
 Batesville
 Beech Grove
-Benton County
 Berne
 Borden
 Carmel
 Clarksville
-Columbus
 Danville
 Daviess County
 East Chicago
@@ -9891,7 +9659,6 @@ Hancock County
 Indianapolis
 Knox City
 Lafayette
-Marshall County
 Monticello
 Mooresville
 New Albany
@@ -9904,7 +9671,6 @@ St. Joseph County
 Tell City
 Terre Haute
 Tipton
-Valparaiso
 Vincennes
 Warsaw
 West Lafayette
@@ -9915,7 +9681,6 @@ South Bend
 Ames
 Bettendorf
 Black Hawk County
-Burlington
 Davenport
 Dickinson County
 Dubuque County
@@ -9923,10 +9688,8 @@ Fayette County
 Fort Dodge
 Hardin County
 Humboldt County
-Jefferson County
 Jones County
 Linn County
-Madrid
 Mahaska County
 O Brien County
 Osage
@@ -9942,11 +9705,9 @@ Cedar Rapids
 Des Moines
 Windsor Heights
 Atchison County
-Countryside
 Dodge City
 Johnson County
 Kiowa County
-Lawrence
 Osborne County
 Topeka
 Wichita
@@ -9955,35 +9716,26 @@ Olathe
 Overland Park
 Shawnee
 Kansas City
-Alexandria
 Bell County
 Berea
 Bloomfield
 Boone County
 Breckinridge County
 Bullitt County
-Daviess County
 Edgewood
 Edmonson County
-Fayette County
 Fort Wright
 Frankfort
-Hardin County
 Independence
-Jefferson County
-Johnson County
-Livermore
 Logan County
 Marion
 Maysville
-Newport
 Oldham County
 Pacudah
 Perry County
 Trimble County
 Wolfe County
 Woodford County
-Florence
 Irvington
 Owensboro
 Lexington-Fayette
@@ -10006,7 +9758,6 @@ Folsom
 Gonzales
 Iberville Parish
 Jefferson Parish
-Lafayette
 Lafourche Parish
 Lincoln Parish
 Livingston Parish
@@ -10028,20 +9779,14 @@ West Baton Rouge Parish
 Bossier City
 Shreveport
 Lake Charles
-Vidalia
 Kenner
 Westwego
 Thibodaux
 Mandeville
 Aroostook County
-Auburn
-Augusta
 Bangor
 Biddeford
-Hancock County
-Lincoln County
 Portland
-Washington County
 Lubec
 Allegany County
 Anne Arundel County
@@ -10049,7 +9794,6 @@ Baltimore County
 Baltimore
 Calvert County
 Caroline County
-Carroll County
 Cecil County
 Charles County
 Dorchester County
@@ -10057,14 +9801,12 @@ Frederick County
 Garrett County
 Harford County
 Howard County
-Kent County
 Montgomery County
 Prince Georges County
 Queen Annes County
 Somerset County
 St. Marys County
 Talbot County
-Washington County
 Wicomico County
 Worcester County
 Annapolis
@@ -10082,7 +9824,6 @@ Berkshire County
 Bristol County
 Dukes County
 Essex County
-Franklin County
 Hampden County
 Hampshire County
 Middlesex County
@@ -10090,10 +9831,7 @@ Nantucket County
 Norfolk County
 Plymouth County
 Suffolk County
-Worcester County
 New Bedford
-Springfield
-Cambridge
 Lowell
 Medford
 Boston
@@ -10114,25 +9852,18 @@ Gogebic County
 Grand Traverse County
 Ingham County
 Kalamazoo County
-Kent County
-Lake County
 Macomb County
 Muskegon County
 Oakland County
-Osceola County
 Ottawa County
 Roscommon County
-St. Clair County
 Wayne County
 Wexford County
-Lansing
 Grand Rapids
 Warren
 Detroit
 Aitkin County
 Blue Earth County
-Clearwater County
-Douglas County
 Hennepin County
 Hubbard County
 McLeod County
@@ -10145,38 +9876,24 @@ Rochester
 Little Canada
 Saint Paul
 Shoreview
-Adams County
 Harrison County
-Jackson
-Jones County
-Marion County
 Pontotoc County
 Branson
 Callaway County
 Cass County
-Clay County
 Columbia
 Gentry County
 Greene County
-Independence
-Jasper County
-Ozark
 Phelps County
 Platte County
 Schuyler County
 St. Charles County
 St. Louis
 Jefferson City
-Kansas City
-Kansas City
-Springfield
-Kansas City
 Billings
 Gallatin County
 Helena
-Adams County
 Brown County
-Cass County
 Chase County
 Colfax County
 Dakota County
@@ -10186,26 +9903,18 @@ Hall County
 Keith County
 Knox County
 Lancaster County
-Madison County
 Nuckolls County
 Omaha
-Platte County
 Sarpy County
 Saunders County
 Scotts Bluff County
 Thayer County
-Washington County
-Lincoln
 Carson City
 Churchill County
-Clark County
-Douglas County
 Elko County
 Esmeralda County
 Eureka County
-Humboldt County
 Lander County
-Lincoln County
 Lyon County
 Mineral County
 Nye County
@@ -10217,42 +9926,31 @@ Henderson
 Las Vegas
 Reno
 Belknap County
-Carroll County
-Hillsborough County
 Merrimack County
 Rockingham County
 Manchester
-Concord
 Hampton
 Bergen County
 Burlington County
 Cape May County
 Cumberland County
-Essex County
 Gloucester County
 Hudson County
 Hunterdon County
 Mercer County
-Middlesex County
 Monmouth County
 Morris County
 Ocean County
 Passaic County
 Salem County
-Somerset County
-Sussex County
 Union County
 Warren County
-Newark
 Jersey City
-Trenton
 Alamogordo
 Bernalillo County
 Chaves County
-Colfax County
 Curry County
 Doña Ana County
-Lincoln County
 Los Alamos County
 McKinley County
 Mora County
@@ -10266,11 +9964,9 @@ Taos County
 Torrance County
 Albequerque
 Rio Rancho
-Roswell
 Las Cruces
 Santa Fe
 Albany County
-Allegany County
 Bronx County
 Broome County
 Cattaraugus County
@@ -10278,36 +9974,24 @@ Cayuga County
 Chautauqua County
 Chemung County
 Chenango County
-Clinton County
 Columbia County
 Cortland County
 Delaware County
 Dutchess County
 Erie County
-Essex County
-Genesee County
-Greene County
 Hamilton County
 Herkimer County
-Jefferson County
-Kings County
-Lewis County
 Livingston County
-Madison County
 Monroe County
-Montgomery County
 Nassau County
 New York City
 Niagara County
 Niagara Falls
-Oneida County
 Onondaga County
 Ontario County
-Orange County
 Orleans County
 Oswego County
 Otsego County
-Putnam County
 Queens County
 Rensselaer County
 Richmond County
@@ -10315,20 +9999,13 @@ Rockland County
 Saint Lawrence County
 Saratoga County
 Schenectady County
-Schuyler County
 Seneca County
 Steuben County
-Suffolk County
 Ulster County
-Washington County
-Wayne County
 Westchester County
 Wyoming County
 Yates County
-Albany
 Buffalo
-Rochester
-Long Beach
 Town of Oyster Bay
 Brooklyn
 Manhatten
@@ -10352,7 +10029,6 @@ Catawba County
 Chowan County
 Columbus County
 Craven County
-Cumberland County
 Currituck County
 Dare County
 Davidson County
@@ -10367,161 +10043,100 @@ Hertford County
 Hoke County
 Jackson County
 Johnston County
-Jones County
 Lenoir County
 McDowell County
 Mecklenburg County
 Mitchell County
 Onslow County
-Orange County
 Pitt County
-Polk County
-Richmond County
 Rowan County
 Scotland County
 Stokes County
 Tyrrell County
-Union County
 Vance County
 Wake County
-Warren County
 Winston-Salem
 Asheville
-Fayetteville
 Chapel Hill
-Durham
 Raleigh
-Greensboro
 Charlotte
-Chapel Hill
-Durham
 Greenville
 Cary
-Durham
-Raleigh
 Benson County
 Bismarck
 Fargo
 Grand Forks
-Adams County
 Allen County
 Ashland County
 Ashtabula County
 Athens County
 Auglaize County
 Belmont County
-Brown County
 Butler County
-Carroll County
 Champaign County
-Clark County
 Clermont County
-Clinton County
 Columbiana County
 Coshocton County
 Crawford County
 Cuyahoga County
 Darke County
 Defiance County
-Delaware County
-Erie County
 Fairfield County
-Fayette County
-Franklin County
-Fulton County
 Gallia County
 Geauga County
-Greene County
 Guernsey County
-Hamilton County
-Hancock County
-Hardin County
-Harrison County
 Henry County
 Highland County
 Hocking County
 Holmes County
 Huron County
-Jackson County
-Jefferson County
-Knox County
-Lake County
 Lawrence County
 Licking County
-Logan County
 Lorain County
 Lucas County
-Madison County
 Mahoning County
-Marion County
 Medina County
 Meigs County
-Mercer County
 Miami County
-Monroe County
-Montgomery County
-Morgan County
 Morrow County
 Muskingum County
 Noble County
-Ottawa County
 Paulding County
-Perry County
 Pickaway County
-Pike County
 Portage County
 Preble County
-Putnam County
 Richland County
 Ross County
 Sandusky County
 Scioto County
-Seneca County
 Shelby County
 Stark County
 Summit County
 Trumbull County
 Tuscarawas County
-Union County
 Van Wert County
 Vinton County
-Warren County
-Washington County
-Wayne County
 Williams County
 Wood County
 Wyandot County
 Cleveland
-Columbus
-Columbus
-Columbus
 Cincinnati
-Toledo
 Dayton
 Akron
 Bryan County
-Jackson County
 Norman
 Oklahoma City
 Payne County
 Rogers County
 Tulsa County
-Washington County
 Tulsa
 Broken Arrow
-Tulsa
 Baker County
 Clackamas County
 Clatsop County
 Harney County
-Jackson County
-Linn County
 Multnomah County
 Salem
-Washington County
-Portland
-Adams County
-Alleghany County
 Beaver County
 Bedford County
 Berks County
@@ -10531,37 +10146,22 @@ Cambria County
 Cameron County
 Chester County
 Clearfield County
-Clinton County
-Cumberland County
 Dauphin County
-Delaware County
-Erie County
-Fayette County
-Franklin County
-Greene County
 Huntingdon County
-Jefferson County
-Lancaster County
-Lawrence County
 Lehigh County
 Lycoming County
 Meadville
-Montgomery County
 Nanticoke
 Northampton County
-Perry County
 Philadelphia
 Scranton
-Somerset County
 Venango County
-Washington County
 Westmoreland County
 York County
 Gettysburg
 Bethel Park
 Pittsburgh
 Hopewell Township
-Reading
 Bristol Township
 Coatesville
 Harrisburg
@@ -10573,25 +10173,18 @@ Abington Township
 Pottstown
 Springfield Township
 Easton
-York
-Coventry
-Cumberland
 East Providence
-Newport
 Providence
 Warwick
 Anderson County
-Calhoun County
 Charleston
 Dillon County
-Dorchester County
 Florence County
 Lexington County
 Myrtle Beach
 North Charleston
 Oconee County
 Rock Hill
-Columbia
 Pierre
 Rapid City
 Rosebud Sioux Tribe
@@ -10600,39 +10193,21 @@ Vermillion
 Blount County
 Campbell County
 Cheatham County
-Davidson County
 Dickson County
-Franklin County
-Greene County
-Hamilton County
-Hancock County
-Hardin County
 Hawkins County
-Jefferson County
-Johnson County
-Knox County
-Lewis County
 Maury County
-Montgomery County
 Rutherford County
 Sevier County
-Shelby County
 Sullivan County
 Sumner County
 Van Buren County
-Warren County
-Washington County
-White County
 Williamson County
 Nashville
 Chattanooga
-Clarksville
 Memphis
-Bristol
 Amarillo
 Austin County
 Bandera County
-Bell County
 Bexar County
 Bosque County
 Brazoria County
@@ -10655,9 +10230,6 @@ Harris County
 Hidalgo County
 Hockley County
 Houston County
-Jackson County
-Johnson County
-Jones County
 Liberty County
 Lipscomb County
 Live Oak County
@@ -10669,7 +10241,6 @@ McMullen County
 Milam County
 Montague County
 Ochiltree County
-Orange County
 Palo Pinto County
 Panola County
 Parker County
@@ -10688,57 +10259,36 @@ Victoria County
 Walker County
 Ward County
 Webb County
-Williamson County
 Wilson County
 Wise County
 Killeen
 San Antonio
 Von Ormy
 Garland
-Plano
 Dallas
-Garland
 Fort Worth
-Plano
-El Paso
-Houston
 Houston
 Waco
-Fort Worth
 Corpus Christi
 Arlington
-Fort Worth
 Austin
 Laredo
-Austin
-Fort Worth
-Beaver County
 Box Elder County
 Emery County
 Salt Lake County
-San Juan County
-Summit County
 Utah County
 Wasatch County
-Wayne County
 Salt Lake City
 West Valley City
 Orem
 Provo
 Accomack County
-Alexandria
-Alleghany County
 Amherst County
 Appomattox County
 Arlington County
 Augusta County
 Bath County
-Bedford County
 Bland County
-Bristol
-Campbell County
-Caroline County
-Carroll County
 Charles City County
 Charlotte County
 Charlottesville
@@ -10747,17 +10297,13 @@ Chesterfield County
 Clarke County
 Colonial Heights
 Culpeper County
-Cumberland County
-Danville
 Dinwiddie County
 Fairfax County
 Falls Church
 Fauquier County
 Fluvanna County
 Goochland County
-Greene County
 Halifax County
-Hampton
 Hanover County
 Harrisonburg
 Henrico County
@@ -10767,15 +10313,11 @@ King George County
 King William County
 Loudoun County
 Louisa County
-Madison County
 Manassas
-Montgomery County
 Nelson County
 New Kent County
 Newport News
-Norfolk
 Northumberland County
-Orange County
 Petersburg
 Pittsylvania County
 Poquoson
@@ -10783,25 +10325,15 @@ Portsmouth
 Powhatan County
 Prince Edward County
 Prince William County
-Pulaski County
 Radford
-Richmond
 Roanoke County
-Rockingham County
-Salem
 Shenandoah County
 Southampton County
 Spotsylvania County
 Stafford County
 Staunton
-Suffolk
-Sussex County
 Tazewell County
 Virginia Beach
-Washington County
-Wise County
-York County
-Tangier
 Bedford
 Altavista
 Bowling Green
@@ -10811,42 +10343,29 @@ Farmville
 Annandale
 Fairfax City
 Herndon
-Springfield
 Ashland
 Leesburg
 Gordonsville
-Farmville
 Vinton
 Bridgewater
 Strasburg
-Adams County
 Asotin County
-Benton County
 Chelan County
 Clallam County
-Clark County
-Columbia County
 Cowlitz County
-Douglas County
 Ferry County
-Franklin County
 Garfield County
 Grant County
 Grays Harbor County
 Island County
-Jefferson County
 King County
 Kitsap County
 Kittitas County
 Klickitat County
-Lewis County
-Lincoln County
 Mason County
 Okanogan County
 Pacific County
 Pend Oreille County
-Pierce County
-San Juan County
 Skagit County
 Skamania County
 Snohomish County
@@ -10858,7 +10377,6 @@ Walla Walla County
 Whatcom County
 Whitman County
 Yakima County
-Vancouver
 Bellevue
 Federal Way
 Renton
@@ -10869,12 +10387,8 @@ Everett
 Spokane
 Yakima
 Barbour County
-Calhoun County
-Charleston
 Clarksburg
-Fayette County
 Huntington
-Morgan County
 Morgantown
 Parkersburg
 Raleigh County
@@ -10886,33 +10400,24 @@ Madison
 Milwaukee County
 Outagamie County
 Ozaukee County
-Portage County
 Racine
 Sheboygan County
 Waukesha County
 Appleton
 Milwaukee
-Appleton
-Milwaukee
-Albany County
 Big Horn County
-Campbell County
 Carbon County
 Converse County
 Crook County
 Goshen County
 Hot Springs County
-Johnson County
 Laramie County
-Lincoln County
 Natrona County
 Niobrara County
 Park County
-Platte County
 Sheridan County
 Sublette County
 Sweetwater County
-Teton County
 Uinta County
 Washakie County
 Weston County
@@ -10921,7 +10426,6 @@ Cheyenne
 Casper
 Green River
 Rock Springs
-Evanston
 Baker Island
 Howland Island
 Jarvis Island
@@ -10961,7 +10465,6 @@ Tafea Province
 Torba Province
 Luganville
 Port Vila
-Amazonas
 Anzoategui
 Apure
 Aragua
@@ -10976,20 +10479,15 @@ Federal Dependencies
 Guarico
 Lara
 Merida
-Miranda
 Monagas
 Nueva Esparta
 Portuguesa
-Sucre
 Tachira
-Trujillo
 Vargas
 Yaracuy
 Zulia
-Barcelona
 Puerto la Cruz
 San Fernando de Apure
-La Victoria
 Maracay
 Turmero
 Barinas (Ciudad)
@@ -10999,7 +10497,6 @@ Caracas
 Guacara
 Naguanagua
 Puerto Cabello
-Valencia
 Punto Fijo
 Zaraza
 Barquisimeto
@@ -11011,7 +10508,6 @@ Santa Teresa del Tuy
 Porlamar
 Acarigua
 Cumana
-San Cristobal
 Valera
 Cabimas
 Machiques
