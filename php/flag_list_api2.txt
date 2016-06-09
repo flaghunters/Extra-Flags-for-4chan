@@ -55,7 +55,12 @@ Escaldes-Engordany
 La Massana
 Ordino
 Sant Julià de Lòria
-Cabinda
+Benguela Province
+Cabinda Province
+Cuando Cubango Province
+Luanda Province
+Namibe Province
+Luanda
 Adelie Land
 Australian Antarctic Territory
 British Antarctic Territory
@@ -1196,6 +1201,7 @@ Veliko Tarnovo
 Vidin
 Vratza
 Yambol
+Hauts-Bassins Region
 Phnom Penh
 Alberta
 British Columbia
@@ -1279,6 +1285,8 @@ Terrebonne
 Trois-Rivieres
 Regina
 Saskatoon
+Bangui
+Ndjamena
 Antofagasta Region
 Araucania Region
 Arica y Parinacota Region
@@ -2414,9 +2422,9 @@ Santa Tecla
 San Miguel
 San Salvador
 Santa Ana
-Annobon
-Bioko Norte
-Bioko Sur
+Annobón Province
+Bioko Norte Province
+Bioko Sur Province
 Asmara
 Harjumaa
 Hiiumaa
@@ -2756,6 +2764,15 @@ Arue
 Hao
 Makatea
 Reao
+Estuaire Province
+Haut-Ogooué Province
+Moyen-Ogooué Province
+Ngounié Province
+Nyanga Province
+Ogooué-Ivindo Province
+Ogooué-Lolo Province
+Ogooué-Maritime Province
+Woleu-Ntem Province
 Abasha
 Abkhazia
 Adigeni
@@ -3534,6 +3551,9 @@ Ivittuut
 Nuuk
 Paamiut
 Tasiilaq
+Basse-Terre
+Pointe-à-Pitre
+Terre-de-Haut
 Agana Heights
 Agat
 Asan-Maina
@@ -3594,6 +3614,10 @@ St Sampson
 St Saviour
 Torteval
 Vale
+Bissau
+Bissorã
+Farim
+Gabú
 Colon Department
 Comayagua Department
 Cortes Department
@@ -3704,6 +3728,7 @@ Punjab
 Rajasthan
 Sikkim
 Tamil Nadu
+Telangana
 Telengana
 Tripura
 Uttarakhand
@@ -4642,18 +4667,15 @@ Petaling Jaya
 Shah Alam
 Subang Jaya
 Kuala Terengganu
-Bamako Capital District
+Bamako
 Gao Region
 Kayes Region
 Kidal Region
 Koulikoro Region
 Mopti Region
-Segou Region
+Ségou Region
 Sikasso Region
 Tombouctou Region
-Bamako
-Menaka
-Adrar des Ifoghas
 Gozo Region
 Northern Region
 South Eastern Region
@@ -5409,10 +5431,10 @@ Zoetermeer
 Zoeterwoude
 Zuidplas
 Zwijndrecht
-Loyalty Islands
-North
-South
-Noumea
+Loyalty Islands Province
+North Province
+South Province
+Nouméa
 Antipodes Islands
 Auckland Islands
 Bounty Islands
@@ -5454,6 +5476,14 @@ Somoto
 Managua
 Masaya
 Matagalpa
+Agadez Region
+Diffa Region
+Dosso Region
+Maradi Region
+Niamey
+Tahoua Region
+Tillabéri Region
+Zinder Region
 Abia State
 Abuja
 Adamawa State
@@ -5465,25 +5495,33 @@ Benue State
 Borno State
 Cross River State
 Delta State
+Ebonyi State
 Edo State
 Ekiti State
+Enugu State
 Gombe State
+Imo State
+Jigawa State
 Kaduna State
+Kano State
 Katsina State
 Kebbi State
 Kogi State
 Kwara State
 Lagos State
 Nasarawa State
+Niger State
 Ogun State
 Ondo State
 Osun State
 Oyo State
 Plateau State
 Rivers State
+Sokoto State
 Taraba State
 Yobe State
 Zamfara State
+Lagos
 Hakupu
 Kaesong Industrial Region
 Sinuiju Special Administrative Region
@@ -6295,7 +6333,6 @@ Guimarães
 Idanha-a-Nova
 Ílhavo
 Lagoa
-Lagos
 Lamego
 Leiria
 Lisboa
@@ -6561,6 +6598,8 @@ Vieques
 Villalba
 Yabucoa
 Yauco
+Brazzaville
+Pointe-Noire
 Bras-Panon
 La Possession
 Saint-Benoit
@@ -7142,6 +7181,7 @@ Krasnokamensk
 Nerchinsk
 Shilka
 Sretensk
+Kigali
 Ascension Island
 Saint Helena
 Tristan da Cunha
@@ -7168,6 +7208,7 @@ Novi Sad
 Pancevo
 Subotica
 Zrenjanin
+Western Area
 Central Singapore
 North East
 North West
@@ -7592,9 +7633,13 @@ Dehiwala-Mount Lavinia
 Maharagama
 Negombo
 Sri Jayawardenepura Kotte
-Darfur
+Khartoum State
+North Kurdufan State
+River Nile State
+Sennar State
+South Kurdufan State
+West Kurdufan State
 Khartoum
-Kurdufan
 Commewijne District
 Nickerie District
 Longyearbyen
