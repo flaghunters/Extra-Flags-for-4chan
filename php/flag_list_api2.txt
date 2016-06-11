@@ -103,7 +103,6 @@ Gyumri
 Vagharshapat
 Yerevan
 Australian Capital Territory
-Murray River
 New South Wales
 Northern Territory
 Queensland
@@ -117,6 +116,7 @@ Kiama
 Lake Macquarie
 Lord Howe Island
 Maitland
+Murray
 Newcastle
 Queanbeyan
 Wagga Wagga
@@ -167,6 +167,7 @@ Saibai Island
 Adelaide
 Anangu Pitjantjatjara Yankunytjatjara
 Mount Gambier
+Murray Mallee
 Lower Murray River
 Devonport
 Hobart
