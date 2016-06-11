@@ -111,8 +111,6 @@ South Australia
 Tasmania
 Victoria
 Western Australia
-Lower Murray River
-Upper Murray River
 Grafton
 Greater Sydney
 Kiama
@@ -134,11 +132,23 @@ Sydney
 Waverley
 Willoughby
 Windale
+Upper Murray River
 Alice Springs
+Ashmore and Cartier Islands
+Barkly
+Central Desert
+Coomalie
 Darwin
 East Arnhem
+Katherine
+Litchfield
+MacDonnell
+Palmerston
 Roper Gulf
 Tiwi Islands
+Victoria Daly
+Wagait
+West Arnhem
 Blue Mud Bay
 Brisbane
 Cairns
@@ -157,6 +167,7 @@ Saibai Island
 Adelaide
 Anangu Pitjantjatjara Yankunytjatjara
 Mount Gambier
+Lower Murray River
 Devonport
 Hobart
 Launceston
@@ -2519,6 +2530,9 @@ Madolenihmw
 Mwoakilloa
 Nett
 Sokehs
+Lautoka
+Nadi
+Nausori
 Suva
 Etelä-Karjala
 Etelä-Pohjanmaa
@@ -6602,7 +6616,7 @@ Brazzaville
 Pointe-Noire
 Bras-Panon
 La Possession
-Saint-Benoit
+Saint-Benoît
 Saint-Denis
 Sainte-Rose
 Saint-Paul
@@ -7186,6 +7200,7 @@ Ascension Island
 Saint Helena
 Tristan da Cunha
 Nevis
+Miquelon-Langlade
 Bequia
 Acquaviva
 Borgo Maggiore
@@ -7223,6 +7238,7 @@ Trencin Region
 Trnava Region
 Zilina Region
 Banska Bystrica
+Ziar nad Hronom
 Bratislava
 Kosice
 Nitra
