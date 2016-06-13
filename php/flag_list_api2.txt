@@ -1254,33 +1254,116 @@ Aracaju
 Sao Cristovao
 Palmas
 Diego Garcia
+Antonovo
+Aytos
+Bakat
+Balchik
+Banite
+Belovo
+Berkovitsa
 Blagoevgrad
+Bobov Dol
+Borino
+Borovo
+Botevgrad
+Bov
+Bozhurishte
+Bratzigovo
+Breznik
+Brezovo
 Burgas
+Byala
+Cherven Bryag
+Dimitrovgrad
+Dobrichka
 Dobrich
+Dolna Banya
+Dryanovo
+Elin Pelin
 Gabrovo
+General Toshevo
+Gurkovo
+Harmanli
 Haskovo
+Hisarya
+Isperih
+Ivanovo
+Kaloyanovo
 Kardzhali
+Karlovo
+Kazanlak
+Koprivshtitsa
+Kostinbrod
+Krichim
+Krumovgrad
 Kyustendil
+Levski
+Lom
 Lovech
+Loznitsa
+Lukovit
+Madan
 Montana
+Nedelino
+Nesebar
+Nova Zagora
+Omurtag
+Panagyurishte
 Pazardzhik
 Pernik
 Pleven
 Plovdiv
+Pomorie
+Popovo
+Pravets
+Radnevo
+Radomir
+Rakitovo
 Razgrad
+Rodopi
+Ruen
 Ruse
+Sadovo
+Saedinenie
+Samokov
+Samuil
+Satovcha
+Septemvri
+Shabla
 Shumen
 Silistra
 Sliven
+Slivo Pole
 Smolyan
+Smyadovo
 Sofia
+Sofiya
+Sopot
+Sozopol
+Sredets
+Stambolovo
 Stara Zagora
+Strelcha
+Strumyani
+Svoge
 Targovishte
+Tervel
+Troyan
+Tsarevo
+Tutrakan
+Tvarditsa
+Ugarchin
 Varna
 Veliko Tarnovo
+Velingrad
+Venets
+Vetovo
+Vetrino
 Vidin
 Vratza
+Yablanitsa
 Yambol
+Zlatograd
 Hauts-Bassins Region
 Phnom Penh
 Alberta
@@ -2407,17 +2490,17 @@ Brod-Posavina County
 Dubrovnik-Neretva County
 Istria County
 Karlovac County
-Koprivnica-Krizevci County
+Koprivnica-Križevci County
 Krapina-Zagorje County
 Lika-Senj County
-Medimurje County
+Međimurje County
 Osijek-Baranja County
-Pozega-Slavonia County
+Požega-Slavonia County
 Primorje-Gorski Kotar County
-Sibenik-Knin County
+Šibenik-Knin County
 Sisak-Moslavina County
 Split-Dalmatia County
-Varazdin County
+Varaždin County
 Virovitica-Podravina County
 Vukovar-Srijem County
 Zadar County
@@ -2427,29 +2510,150 @@ Bjelovar
 Slavonski Brod
 Dubrovnik
 Pula
+Barilović 
+Bosiljevo 
+Cetingrad 
+Draganić
+Duga Resa
+Generalski Stol
+Josipdol
+Kamanje
 Karlovac
+Krnjak
+Lasinja
+Netretić 
+Ogulin
+Ozalj
+Rakovica
+Ribnik
+Saborsko
+Slunj
+Tounj
+Vojnić 
+Žakanje
 Koprivnica
-Krizevci
-Cakovec
-Dakovo
+Križevci
+Bedekovčina
+Budinščina
+Desinić
+Donja Stubica
+Đurmanec
+Gornja Stubica
+Hraščina
+Hum na Sutli
+Jesenje
+Klanjec
+Konjščina 
+Kraljevec na Sutli
+Krapina
+Krapinske Toplice
+Kumrovec
+Lobor
+Mače 
+Marija Bistrica
+Mihovljan
+Novi Golubovec
+Oroslavje
+Petrovsko
+Pregrada
+Radoboj 
+Stubičke Toplice
+Sveti Križ Začretje
+Tuhelj
+Veliko Trgovišće
+Zabok
+Zlatar Bistrica
+Zlatar
+Čakovec
+Đakovo
 Osijek
-Pozega
+Požega
 Rijeka
-Sibenik
+Šibenik
+Donji Kukuruzari
+Dvor
+Glina
+Gvozd
+Hrvatska Dubica
+Hrvatska Kostajnica
+Jasenovac
 Kutina
+Lekenik
+Lipovljani 
+Majur
+Martinska Ves
+Novska
 Petrinja
+Popovača 
 Sisak
-Kastela
+Sunja 
+Topusko
+Velika Ludina
+Kaštela
 Sinj
 Split
-Varazdin
+Beretinec 
+Breznički Hum
+Cestica
+Donja Voća
+Gornji Kneginec
+Ivanec 
+Jalžabet
+Klenovnik
+Lepoglava 
+Ljubešćica
+Ludbreg 
+Mali Bukovec
+Martijanec
+Maruševec
+Novi Marof
+Petrijanec
+Sračinec 
+Sveti Đurđ
+Sveti Ilija
+Trnovec Bartolovečki
+Varaždin
+Varaždinske Toplice
+Vidovec 
+Vinica 
+Visoko
+Žabnik
 Virovitica
 Vinkovci
 Vukovar
 Zadar
+Bedenica
+Bistra
+Brckovljani
+Brdovec
+Dubrava
+Dubravica
+Dugo Selo
+Farkaševac
+Gradec
+Ivanić-Grad
+Jakovlje
+Jastrebarsko
+Klinča Sela
+Kloštar Ivanić
+Krašić
+Kravarsko
+Križ
+Luka
+Marija Gorica
+Orle
+Pisarovina
+Pokupsko
+Pušća
+Rakovec
 Samobor
+Stupnik
+Sveta Nedelja
+Sveti Ivan Zelina
 Velika Gorica
-Zapresic
+Vrbovec
+Zaprešić
+Žumberak
 Artemisa Province
 Cienfuegos Province
 Granma Province
@@ -5950,7 +6154,6 @@ Gausdal
 Gran
 Lesja
 Lillehammer
-Lom
 Lunner
 Nordre Land
 Østre Toten
@@ -6416,7 +6619,6 @@ Gdansk
 Gdynia
 Hel
 Slupsk
-Sopot
 Bielsko-Biala
 Bytom
 Chorzow
@@ -7040,7 +7242,6 @@ Sayansk
 Tayshet
 Ust-Ilimsk
 Ust-Kut
-Ivanovo
 Kineshma
 Nalchik
 Chernyakhovsk
@@ -7056,7 +7257,6 @@ Vilyuchinsk
 Petrozavodsk
 Segezha
 Anzhero-Sudzhensk
-Belovo
 Guryevsk
 Kemerovo
 Leninsk-Kuznetsky
@@ -7360,7 +7560,6 @@ Izhevsk
 Kambarka
 Sarapul
 Votkinsk
-Dimitrovgrad
 Ulyanovsk
 Gus-Khrustalny
 Kolchugino
@@ -7534,7 +7733,6 @@ Kostel
 Kozje
 Kranj
 Kranjska Gora
-Križevci
 Krško
 Kungota
 Kuzma
