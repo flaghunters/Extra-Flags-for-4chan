@@ -1315,6 +1315,7 @@ Brandon
 Dauphin
 Rural Municipality of Dauphin
 Winnipeg
+Fredericton
 St John s
 Yellowknife
 Cape Breton
@@ -1341,16 +1342,29 @@ Whitby
 Windsor
 York Region
 Ajax
+Brock
+Clarington
 Oshawa
 Pickering
+Scugog
+Uxbridge
 Burlington
+Halton Hills
+Milton
 Oakville
 Brampton
+Caledon
 Mississauga
+Aurora
+East Gwillimbury
+Georgina
+King
 Markham
+Newmarket
 Richmond Hill
 Vaughan
 Whitchurch-Stouffville
+Charlottetown
 Gatineau
 Laval
 Levis
@@ -6214,7 +6228,6 @@ Aklan
 Albay
 Antique
 Apayao
-Aurora
 Basilan
 Bataan
 Batanes
