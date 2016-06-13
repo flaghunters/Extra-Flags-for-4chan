@@ -7112,7 +7112,7 @@ Bryansk Oblast
 Buryatia
 Chechnya
 Chelyabinsk Oblast
-Chukotka
+Chukotka Autonomous Okrug
 Chuvashia
 Crimea
 Dagestan
@@ -7130,6 +7130,7 @@ Karelia
 Kemerovo Oblast
 Khabarovsk Krai
 Khakassia
+Khanty-Mansi Autonomous Okrug
 Kirov Oblast
 Komi
 Kostroma Oblast
@@ -7145,7 +7146,7 @@ Mordovia
 Moscow Oblast
 Moscow
 Murmansk Oblast
-Nenetsia
+Nenets Autonomous Okrug
 Nizhny Novgorod Oblast
 North Ossetia-Alania
 Novgorod Oblast
@@ -7172,18 +7173,17 @@ Tambov Oblast
 Tatarstan
 Tomsk Oblast
 Tula Oblast
-Tuva
 Tver Oblast
 Tyumen Oblast
+Tyva
 Udmurtia
 Ulyanovsk Oblast
 Vladimir Oblast
 Volgograd Oblast
 Vologda Oblast
 Voronezh Oblast
-Yamalia
+Yamalo-Nenets Autonomous Okrug
 Yaroslavl Oblast
-Yugra
 Zabaykalsky Krai
 Maykop
 Barnaul
@@ -7271,6 +7271,14 @@ Nikolayevsk-na-Amure
 Sovetskaya Gavan
 Abakan
 Chernogorsk
+Khanty-Mansiysk
+Langepas
+Lyantor
+Megion
+Nefteyugansk
+Nizhnevartovsk
+Sovetsky
+Surgut
 Belaya Kholunitsa
 Kirovo-Chepetsk
 Kirov
@@ -7545,7 +7553,6 @@ Novomoskovsk
 Shchyokino
 Tula
 Uzlovaya
-Kyzyl
 Konakovo
 Rzhev
 Torzhok
@@ -7555,6 +7562,7 @@ Tobolsk
 Tyumen
 Yalutorovsk
 Zavodoukovsk
+Kyzyl
 Glazov
 Izhevsk
 Kambarka
@@ -7594,14 +7602,6 @@ Tarko-Sale
 Rostov
 Rybinsk
 Yaroslavl
-Khanty-Mansiysk
-Langepas
-Lyantor
-Megion
-Nefteyugansk
-Nizhnevartovsk
-Sovetsky
-Surgut
 Borzya
 Krasnokamensk
 Nerchinsk
