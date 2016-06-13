@@ -2100,10 +2100,147 @@ Riohacha
 San Juan del Cesar
 Uribia
 Urumita
+Algarrobo
+Aracataca
+Ariguaní
+Cerro de San Antonio
+Chibolo
+Ciénaga
+El Banco
+El Piñón
+El Retén
+Fundación
+Guamal
+Nueva Granada
+Pedraza
+Pijiño del Carmen
+Pinto
+Pivijay
+Plato
+Pueblo Viejo
+Remolino
+San Angel
+San Sebastian
+Santa Ana
 Santa Marta
+San Zenón
+Sitionuevo
+Tenerife
+Zapayan
+Zona Bananera
+Acacias
+Barranca de Upía
+Cabuyaro
+Castilla la Nueva
+Cubarral
+Cumaral
+El Calvario
+El Castillo
+El Dorado
+Fuentedeoro
+La Macarena
+Lejanías
+Mapiripán
+Mesetas
+Puerto Concordia
+Puerto Gaitán
+Puerto Lleras
+Puerto López
+Restrepo
+San Carlos de Guaroa
+San Juan de Arama
+San Juanito
+Uribe
 Villavicencio
+Vista Hermosa
+Aldana
+Ancuyá
+Arboleda
+Barbacoas
+Buesaco
+Chachagüí
+Colón-Génova
+Consaca
+Contadero
+Cuaspud-Carlosama
+Cumbal
+Cumbitara
+El Charco
+El Rosario
+El Tablon
+Funes
+Guachucal
+Guaitarilla
+Gualmatan
+Iles
+Imués
+Ipiales
+La Cruz
+La Llanada
+La Tola
+Leiva
+Los Andes - Sotomayor
+Magüí-Payán
+Mallama-Piedrancha
+Olaya Herrera
+Ospina
 Pasto
+Pizarro
+Policarpa
+Potosí
+Providencia
+Puerres
+Pupiales
+Roberto Payan
+Samaniego
+San Andrés de Tumaco
+Sandoná
+San Lorenzo
+San Pedro de Cartago
+Santa Barbara
+Santacruz-Guachavés
+Sapuyes
+Taminango
+Tangua
+Túquerres
+Yacuanquer
+Ábrego
+Arboledas
+Bochalema
+Bucarasica
+Cáchira
+Cácota
+Chinácota
+Chitagá
+Convención
 Cúcuta
+Cucutilla
+Durania
+El Carmen
+El Tarra
+El Zulia
+Gramalote
+Hacarí
+Herrán
+Labateca
+La Esperanza
+La Playa de Belen
+Los Patios
+Lourdes
+Mutiscua
+Ocaña
+Pamplona
+Pamplonita
+Puerto Santander
+Ragonvalia
+Salazar de Las Palmas
+San Calixto
+Sardinata
+Silos
+Teorama
+Tibú
+Villacaro
+Villa del Rosario
 Calarca
 Circasia
 Filandia
@@ -2153,7 +2290,6 @@ La Cumbre
 Obando
 Palmira
 Pradera
-Restrepo
 Riofrio
 Roldanillo
 San Pedro
@@ -2433,7 +2569,6 @@ Antiguo Cuscatlan
 Santa Tecla
 San Miguel
 San Salvador
-Santa Ana
 Annobón Province
 Bioko Norte Province
 Bioko Sur Province
@@ -6601,8 +6736,6 @@ Rincon
 Sabana Grande
 San German
 San Juan
-San Lorenzo
-San Sebastian
 Toa Alta
 Toa Baja
 Trujillo Alto
@@ -7560,7 +7693,6 @@ Lanzarote
 Las Palmas de Gran Canaria
 El Hierro
 La Gomera
-Tenerife
 San Cristóbal de La Laguna
 Santa Cruz de Tenerife
 Santander
@@ -7609,7 +7741,6 @@ Province of Ourense
 Province of Pontevedra
 Vigo
 Logroño
-Pamplona
 Murcia
 Province of Alicante
 Province of Castellón
@@ -9408,7 +9539,6 @@ Escondido
 Oceanside
 Poway
 Half Moon Bay
-Santa Barbara
 Cupertino
 Gilroy
 Morgan Hill
