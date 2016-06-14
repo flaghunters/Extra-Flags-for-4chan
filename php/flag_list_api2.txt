@@ -9577,6 +9577,36 @@ Durham
 Lundy Island
 Plymouth
 Isle of Portland
+Barking and Dagenham
+Barnet
+Bexley
+Brent
+Bromley
+Ealing
+Enfield
+Greenwich
+Hackney
+Hammersmith and Fulham
+Haringey
+Harrow
+Havering
+Hillingdon
+Hounslow
+Islington
+Kensington and Chelsea
+Kingston upon Thames
+Lambeth
+Lewisham
+Merton
+Newham
+Redbridge
+Richmond upon Thames
+Southwark
+Sutton
+Tower Hamlets
+Waltham Forest
+Wandsworth
+Westminster
 Petersfield
 Blackpool
 Fylde
@@ -9919,7 +9949,6 @@ Orange
 Rancho Santa Margarita
 San Clemente
 Stanton
-Westminster
 Hemet
 La Quinta
 Moreno Valley
@@ -9966,7 +9995,6 @@ Bridgeport
 Colchester
 Danbury
 East Hartford
-Greenwich
 Hartford
 Mansfield
 Milford
