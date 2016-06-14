@@ -102,6 +102,7 @@ San Miguel de Tucuman
 Gyumri
 Vagharshapat
 Yerevan
+Ashmore and Cartier Islands
 Australian Capital Territory
 New South Wales
 Northern Territory
@@ -134,7 +135,6 @@ Willoughby
 Windale
 Upper Murray River
 Alice Springs
-Ashmore and Cartier Islands
 Barkly
 Central Desert
 Coomalie
@@ -263,18 +263,88 @@ Tasman
 Waratah Wynyard
 West Coast
 West Tamar
+Alpine Shire
 Ararat
 Ballarat
+Bass Coast Shire
+Baw Baw Shire
+Benalla
+Bendigo
+Borough
+Buloke Shire
+Campase Shire
+Central Goldfields Shire
+Colac Otway Shire
+Corangamite Shire
+East Gippsland Shire
+Falls Creek Alpine Resort
+Gannawarra Shire
+Glenelg Shire
+Golden Plains Shire
 Greater Geelong
 Greater Melbourne
+Greater Shepparton
+Hepburn Shire
+Hindmarsh Shire
+Horsham
+Indigo Shire
+Lake Mountain Alpine Resort
+Loddon Shire
+Macedon Ranges Shire
 Mansfield Shire
 Mildura
+Mitchell Shire
+Moira Shire
+Moorabool Shire
+Mount Alexander Shire
+Mount Baw Baw Alpine Resort
+Mount Buller Alpine Resort
+Mount Hotham Alpine Resort
+Mount Stirling Alpine Resort
 Moyne Shire
+Murrindindi Shire
+Northern Grampians Shire
+Pyrenees Shire
+Southern Grampians Shire
+South Gippsland Shire
+Strathbogie Shire
+Surf Coast Shire
+Swan Hill
+Towong Shire
+Wangaratta
+Warnambool
+Wellington Shire
+West Wimmera Shire
+Wodonga
+Yarriambiack Shire
 Geelong
+Boroondara
+Brimbank
 Casey
+Darebin
 Frankston
+Glen Aira
+Greater Dandenong
+Hobsons Bay
+Hume
+Knox
+Manningham
+Maribyrnong
+Maroondah
 Melbourne
+Melton
+Monash
+Moonee Valley
+Moreland
+Port Phillip
+Shire Of Cardinia
+Shire Of Mornington Peninsula
+Shire Of Nillumbik
+Shire Of Yarra Ranges
+Stonnington
 Whitehorse
+Whittlesea
+Wyndham
 Yarra
 Fremantle
 Perth
