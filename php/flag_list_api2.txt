@@ -9823,6 +9823,8 @@ Reading
 Wing
 Horningsea
 Chester
+Falmouth
+Hayle
 Isles of Scilly
 Durham
 Allerdale
@@ -9892,7 +9894,21 @@ Stockport
 Tameside
 Trafford
 Wigan
+Basingstoke and Deane
+East Hampshire
+Eastleigh
+Fareham
+Gosport
+Hart
+Havant
+New Forest
+Portsmouth
+Rushmoor
+Southampton
+Test Valley
+Winchester
 Petersfield
+Gosport (town)
 Blackpool
 Fylde
 Preston
@@ -11246,7 +11262,6 @@ Northumberland County
 Petersburg
 Pittsylvania County
 Poquoson
-Portsmouth
 Powhatan County
 Prince Edward County
 Prince William County
