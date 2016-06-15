@@ -604,6 +604,7 @@ Eeklo
 Erpe-Mere
 Evergem
 Gavere
+Gent
 Geraardsbergen
 Haaltert
 Hamme
@@ -668,7 +669,6 @@ Dilbeek
 Drogenbos
 Galmaarden
 Geetbets
-Gent
 Glabbeek
 Gooik
 Grimbergen
@@ -4355,6 +4355,7 @@ Huehuetenango Department
 Izabal Department
 Jalapa Department
 Jutiapa Department
+Petén Department
 Quetzaltenango Department
 Quiche Department
 Retalhuleu Department
