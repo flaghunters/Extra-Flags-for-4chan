@@ -263,71 +263,50 @@ Tasman
 Waratah Wynyard
 West Coast
 West Tamar
-Alpine Shire
+Barwon South West
+Gippsland
+Grampians
+Greater Melbourne
+Hume
+Loddon Mallee
+Colac Otway
+Corangamite
+Glenelg
+Greater Geelong
+Moyne
+Queenscliffe
+Southern Grampians
+Surf Coast
+Warnambool
+Geelong
+Bass Coast
+Baw Baw
+East Gippsland
+Mount Baw Baw
+South Gippsland
+Wellington
 Ararat
 Ballarat
-Bass Coast Shire
-Baw Baw Shire
-Benalla
-Bendigo
-Borough
-Buloke Shire
-Campase Shire
-Central Goldfields Shire
-Colac Otway Shire
-Corangamite Shire
-East Gippsland Shire
-Falls Creek Alpine Resort
-Gannawarra Shire
-Glenelg Shire
-Golden Plains Shire
-Greater Geelong
-Greater Melbourne
-Greater Shepparton
-Hepburn Shire
-Hindmarsh Shire
+Golden Plains
+Hepburn
+Hindmarsh
 Horsham
-Indigo Shire
-Lake Mountain Alpine Resort
-Loddon Shire
-Macedon Ranges Shire
-Mansfield Shire
-Mildura
-Mitchell Shire
-Moira Shire
-Moorabool Shire
-Mount Alexander Shire
-Mount Baw Baw Alpine Resort
-Mount Buller Alpine Resort
-Mount Hotham Alpine Resort
-Mount Stirling Alpine Resort
-Moyne Shire
-Murrindindi Shire
-Northern Grampians Shire
-Pyrenees Shire
-Southern Grampians Shire
-South Gippsland Shire
-Strathbogie Shire
-Surf Coast Shire
-Swan Hill
-Towong Shire
-Wangaratta
-Warnambool
-Wellington Shire
-West Wimmera Shire
-Wodonga
-Yarriambiack Shire
-Geelong
+Moorabool
+Northern Grampians
+Pyrenees
+West Wimmera
+Yarriambiack
+Banyule
+Bayside
 Boroondara
 Brimbank
-Cardinia Shire
+Cardinia
 Casey
 Darebin
 Frankston
-Glen Aira
+Glen Eira
 Greater Dandenong
 Hobsons Bay
-Hume
 Knox
 Manningham
 Maribyrnong
@@ -337,15 +316,42 @@ Melton
 Monash
 Moonee Valley
 Moreland
-Mornington Peninsula Shire
-Nillumbik Shire
+Mornington Peninsula
+Nillumbik
 Port Phillip
 Stonnington
 Whitehorse
 Whittlesea
 Wyndham
 Yarra
-Yarra Ranges Shire
+Yarra Ranges
+Alpine
+Benalla
+Falls Creek
+Greater Shepparton
+Indigo
+Lake Mountain
+Mansfield Shire
+Mitchell Shire
+Moira Shire
+Mount Buller
+Mount Hotham
+Mount Stirling
+Murrindindi
+Strathbogie
+Towong Shire
+Wangaratta
+Wodonga
+Bendigo
+Buloke
+Campaspe
+Central Goldfields
+Gannawarra
+Loddon
+Macedon Ranges
+Mildura
+Mount Alexander
+Swan Hill
 Fremantle
 Perth
 Wanneroo
@@ -6189,7 +6195,6 @@ Southland
 The Snares
 Porirua
 Upper Hutt
-Wellington
 Dunedin
 Lawrence
 Stewart Island
