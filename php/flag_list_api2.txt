@@ -364,14 +364,14 @@ Perth
 Wanneroo
 Rottnest Island
 Burgenland
-Carinthia
-Lower Austria
+Kärnten
+Niederösterreich
+Oberösterreich
 Salzburg
-Styria
+Steiermark
 Tirol
-Upper Austria
-Vienna
 Vorarlberg
+Wien
 Bakı
 Dağlıq Qarabağ
 Gəncə
@@ -3014,7 +3014,7 @@ Moravian-Silesian Region
 Olomouc Region
 Pardubice Region
 Plzen Region
-Prague
+Praha
 South Bohemian Region
 South Moravian Region
 Usti nad Labem Region
