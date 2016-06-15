@@ -10244,56 +10244,57 @@ Beebe
 Alameda County
 Alpine County
 Amador County
-Antioch
-Bakersfield
+Butte County
 Calaveras County
-Concord
-Coronado
-Daly City
-Eagle Rock
+Colusa County
+Contra Costa County
+Del Norte County
 El Dorado County
-Fillmore
-Fresno
-Goleta
-Hillsborough
+Fresno County
+Glenn County
+Humboldt County
+Inyo County
+Kern County
 Kings County
-La Crescenta-Montrose
 Lake County
-Lodi
+Lassen County
 Los Angeles County
-Los Gatos
 Madera County
 Mariposa County
-Martinez
-Merced
-Moorpark
-Morro Bay
-Oakdale
+Mendocino County
+Merced County
+Modoc County
+Mono County
+Monterey County
+Napa County
+Nevada County
 Orange County
-Paradise
-Pittsburg
 Placer County
 Pleasant Hill
-Port Hueneme
+Plumas County
 Riverside County
 Sacramento County
+San Benito County
 San Bernardino County
 San Diego County
-San Luis Obispo
+San Joaquin County
+San Luis Obispo County
 San Mateo County
 Santa Barbara County
 Santa Clara County
-Seaside
+Shasta County
 Siskiyou County
-Solvang
-Sonoma
-Stockton
+Solano County
+Sonoma County
+Stanislaus County
+Sutter County
+Tehama County
 Trinity County
+Tulare County
 Tuolumne County
-Twentynine Palms
-Vallejo
-Walnut Creek
-Woodland
+Ventura County
+Yolo County
+Yuba County
 Alameda
 Albany
 Fremont
@@ -10302,6 +10303,14 @@ Livermore
 Newark
 Oakland
 San Leandro
+Paradise
+Antioch
+Concord
+Martinez
+Pittsburg
+Walnut Creek
+Fresno
+Bakersfield
 Bellflower
 Bell
 Beverly Hills
@@ -10311,8 +10320,10 @@ Carson
 Cerritos
 Diamond Bar
 Downey
+Eagle Rock
 El Monte
 Gardena
+La Crescenta-Montrose
 Lancaster
 Lawndale
 Lomita
@@ -10329,6 +10340,8 @@ South Pasadena
 Temple City
 Torrance
 West Hollywood
+Merced
+Seaside
 Anaheim
 Costa Mesa
 Fullerton
@@ -10351,32 +10364,59 @@ Sacramento
 Adelanto
 Barstow
 Rialto
+Twentynine Palms
 Chula Vista
+Coronado
 Escondido
 Oceanside
 Poway
+Lodi
+Stockton
+Morro Bay
+San Luis Obispo
+Daly City
 Half Moon Bay
+Hillsborough
+Goleta
+Solvang
 Cupertino
 Gilroy
+Los Gatos
 Morgan Hill
 Palo Alto
 Santa Clara
+Vallejo
+Sonoma
+Oakdale
+Fillmore
+Moorpark
+Port Hueneme
+Woodland
 Arapahoe County
 Arvada
 Aspen
 Colorado Springs
 Commerce City
+Custer County
 Denver
+Dolores County
 Douglas County
 Estes Park
 Fort Collins
+Gilpin County
 Golden
+Grand County
 La Junta
 Loveland
 Montrose
-Pueblo
+Phillips County
+Pueblo County
+Saguache County
+Summit County
+Teller County
 Weld County
 Centennial
+Pueblo
 Evans
 Thornton
 Ansonia
@@ -10538,14 +10578,12 @@ Boise County
 Bonner County
 Bonneville County
 Boundary County
-Butte County
 Camas County
 Canyon County
 Caribou County
 Cassia County
 Clark County
 Clearwater County
-Custer County
 Elmore County
 Franklin County
 Fremont County
@@ -10698,7 +10736,6 @@ Dubuque County
 Fayette County
 Fort Dodge
 Hardin County
-Humboldt County
 Jones County
 Linn County
 Mahaska County
@@ -10900,8 +10937,11 @@ St. Charles County
 St. Louis
 Jefferson City
 Billings
+Flathead County
 Gallatin County
+Lewis and Clark County
 Helena
+Yellowstone County
 Brown County
 Chase County
 Colfax County
@@ -11119,7 +11159,6 @@ Sandusky County
 Scioto County
 Shelby County
 Stark County
-Summit County
 Trumbull County
 Tuscarawas County
 Van Wert County
