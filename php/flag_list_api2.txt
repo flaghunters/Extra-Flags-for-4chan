@@ -6048,6 +6048,7 @@ Sokoto State
 Taraba State
 Yobe State
 Zamfara State
+Kano
 Lagos
 Hakupu
 Kaesong Industrial Region
@@ -9607,6 +9608,16 @@ Tower Hamlets
 Waltham Forest
 Wandsworth
 Westminster
+Bolton
+Bury
+Manchester
+Oldham
+Rochdale
+Salford
+Stockport
+Tameside
+Trafford
+Wigan
 Petersfield
 Blackpool
 Fylde
@@ -9616,6 +9627,14 @@ Lincoln
 Liverpool
 Norwich
 York
+Ashfield
+Bassetlaw
+Broxtowe
+Gedling
+Mansfield
+Newark and Sherwood
+Nottingham
+Rushcliffe
 Hampton Poyle
 Wroxton
 Bath
@@ -9996,7 +10015,6 @@ Colchester
 Danbury
 East Hartford
 Hartford
-Mansfield
 Milford
 New Haven
 New Milford
@@ -10546,7 +10564,6 @@ Reno
 Belknap County
 Merrimack County
 Rockingham County
-Manchester
 Hampton
 Bergen County
 Burlington County
