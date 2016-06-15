@@ -72,16 +72,16 @@ Buenos Aires Province
 Catamarca Province
 Chaco Province
 Chubut Province
-Cordoba Province
-Entre Rios Province
+Córdoba Province
+Entre Ríos Province
 Formosa Province
 Jujuy Province
 La Pampa Province
 La Rioja Province
 Mendoza Province
 Misiones Province
-Neuquen Province
-Rio Negro Province
+Neuquén Province
+Río Negro Province
 Salta Province
 San Juan Province
 San Luis Province
@@ -89,16 +89,16 @@ Santa Cruz Province
 Santa Fe Province
 Santiago del Estero Province
 Tierra del Fuego Province
-Tucuman Province
+Tucumán Province
 La Plata
 Mar del Plata
-Cordoba
+Córdoba
 Mendoza
-Neuquen
-Rio Gallegos
+Neuquén
+Río Gallegos
 Rosario
 Santiago del Estero
-San Miguel de Tucuman
+San Miguel de Tucumán
 Gyumri
 Vagharshapat
 Yerevan
@@ -1022,7 +1022,7 @@ Cochabamba Department
 La Paz Department
 Oruro Department
 Pando Department
-Potosi Department
+Potosí Department
 Santa Cruz Department
 Tarija Department
 Trinidad
@@ -1031,13 +1031,13 @@ Cochabamba
 El Alto
 La Paz
 Oruro
-Potosi
+Potosí
 Tupiza
 San Ignacio de Velasco
-Santa Cruz
+Santa Cruz de la Sierra
 Warnes
 Tarija
-Yacuiba
+Yacuíba
 Bonaire
 Saba
 Sint Eustatius
@@ -1773,6 +1773,7 @@ Chimbarongo
 Lolol
 Placilla
 San Fernando
+Santa Cruz
 Chacabuco Province
 Cordillera Province
 Maipo Province
@@ -2090,7 +2091,6 @@ Calamar
 Cantagallo
 Cicuco
 Clemencia
-Córdoba
 El Cármen de Bolívar
 El Guamo
 El Peñon
@@ -2656,7 +2656,6 @@ Ospina
 Pasto
 Pizarro
 Policarpa
-Potosí
 Puerres
 Pupiales
 Roberto Payan
@@ -2711,6 +2710,7 @@ Villacaro
 Villa del Rosario
 Calarca
 Circasia
+Cordoba
 Filandia
 Genova
 La Tebaida
@@ -3054,37 +3054,37 @@ Manufahi District
 Oecusse District
 Viqueque District
 Azuay Province
-Bolivar Province
-Canar Province
+Bolívar Province
+Cañar Province
 Carchi Province
 Chimborazo Province
 Cotopaxi Province
 El Oro Province
 Esmeraldas Province
-Galapagos Province
+Galápagos Province
 Guayas Province
 Imbabura Province
 Loja Province
-Los Rios Province
-Manabi Province
+Los Ríos Province
+Manabí Province
 Morona Santiago Province
 Napo Province
 Orellana Province
 Pastaza Province
 Pichincha Province
 Santa Elena Province
-Santo Domingo de los Tsachilas Province
-Sucumbios Province
+Santo Domingo de los Tsáchilas Province
+Sucumbíos Province
 Tungurahua Province
 Zamora-Chinchipe Province
 Cuenca
 Guaranda
-Tulcan
+Tulcán
 Riobamba
 Latacunga
 Machala
 Esmeraldas
-Duran
+Durán
 Guayaquil
 Milagro
 Ibarra
@@ -3095,9 +3095,10 @@ Portoviejo
 Macas
 Quito
 Salinas
+Santo Domingo de los Colorados
 Nueva Loja
 Ambato
-Banos de Agua Santa
+Baños de Agua Santa
 Alexandria Governorate
 Al Sharqia Governorate
 Aswan Governorate
@@ -6617,24 +6618,24 @@ Sonsorol
 Gaza
 West Bank
 Bocas del Toro Province
-Chiriqui Province
-Cocle Province
-Colon Province
-Darien Province
-Embera-Wounaan Comarca
+Chiriquí Province
+Coclé Province
+Colón Province
+Darién Province
+Emberá-Wounaan Comarca
 Guna Yala Comarca
 Herrera Province
 Los Santos Province
-Ngabe-Bugle Comarca
-Panama Province
+Ngäbe-Buglé Comarca
+Panamá Oeste Province
+Panamá Province
 Veraguas Province
-West Panama Province
 David
-Colon
-Kuna de Wargandi Comarca
-Kuna de Madugandi Comarca
-Panama City
+Colón
+Kuna de Wargandí Comarca
 La Chorrera
+Kuna de Madugandí Comarca
+Panamá
 Autonomous Region of Bougainville
 Central Province
 Chimbu Province
@@ -6658,49 +6659,48 @@ Western Highlands Province
 Western Province
 West New Britain Province
 Alto Paraguay Department
-Alto Parana Department
+Alto Paraná Department
 Amambay Department
-Asuncion
-Boqueron Department
-Caaguazu Department
-Caazapa Department
-Canindeyu Department
+Asunción
+Boquerón Department
+Caaguazú Department
+Caazapá Department
+Canindeyú Department
 Central Department
-Concepcion Department
+Concepción Department
 Cordillera Department
-Guaira Department
-Itapua Department
+Guairá Department
+Itapúa Department
 Misiones Department
-Neembucu Department
-Paraguari Department
+Ñeembucú Department
+Paraguarí Department
 Presidente Hayes Department
 San Pedro Department
 Hernandarias
-Minga Guazu
+Minga Guazú
 Pedro Juan Caballero
 Coronel Oviedo
-Aregua
+Areguá
 Fernando de la Mora
-Ita
+Itá
 Luque
 Mariano Roque Alonso
-Nemby
-Concepcion
-Caacupe
-Encarnacion
+Ñemby
+Caacupé
+Encarnación
 Pilar
 Amazonas Region
 Ancash Region
-Apurimac Region
+Apurímac Region
 Arequipa Region
 Ayacucho Region
 Cajamarca Region
 Callao Region
 Cusco Region
 Huancavelica Region
-Huanuco Region
+Huánuco Region
 Ica Region
-Junin Region
+Junín Region
 La Libertad Region
 Lambayeque Region
 Lima Province
@@ -6711,14 +6711,14 @@ Moquegua Region
 Pasco Region
 Piura Region
 Puno Region
-San Martin Region
+San Martín Region
 Tacna Region
 Tumbes Region
 Ucayali Region
 Chimbote
 Arequipa
 Cajamarca
-Huanuco
+Huánuco
 Ica
 Huancayo
 Chiclayo
@@ -10286,6 +10286,7 @@ Tamarac
 West Melbourne
 Gainesville
 Callaway
+Panama City
 Marco Island
 Naples
 Tampa
@@ -11289,14 +11290,14 @@ Florida Department
 Lavalleja Department
 Maldonado Department
 Montevideo Department
-Paysandu Department
-Rio Negro Department
+Paysandú Department
+Río Negro Department
 Rivera Department
 Rocha Department
 Salto Department
-San Jose Department
+San José Department
 Soriano Department
-Tacuarembo Department
+Tacuarembó Department
 Treinta y Tres Department
 Maldonado
 Montevideo
@@ -11310,35 +11311,38 @@ Tafea Province
 Torba Province
 Luganville
 Port Vila
-Anzoategui
-Apure
-Aragua
-Barinas
-Bolivar
+Amazonas State
+Anzoátegui State
+Apure State
+Aragua State
+Barinas State
+Bolívar State
 Capital District
-Carabobo
-Cojedes
-Delta Amacuro
-Falcon
+Carabobo State
+Cojedes State
+Delta Amacuro State
+Falcón State
 Federal Dependencies
-Guarico
-Lara
-Merida
-Monagas
-Nueva Esparta
-Portuguesa
-Tachira
-Vargas
-Yaracuy
-Zulia
+Guárico State
+Lara State
+Mérida State
+Miranda State
+Monagas State
+Nueva Esparta State
+Portuguesa State
+Sucre State
+Táchira State
+Trujillo State
+Vargas State
+Yaracuy State
+Zulia State
 Puerto la Cruz
 San Fernando de Apure
 Maracay
 Turmero
 Barinas (Ciudad)
-Ciudad Bolivar
 Upata
-Caracas
+Libertador
 Guacara
 Naguanagua
 Puerto Cabello
@@ -11346,13 +11350,13 @@ Punto Fijo
 Zaraza
 Barquisimeto
 Alberto Adriani
-Cua
+Cúa
 Guatire
 Los Teques
 Santa Teresa del Tuy
 Porlamar
 Acarigua
-Cumana
+Cumaná
 Valera
 Cabimas
 Machiques
