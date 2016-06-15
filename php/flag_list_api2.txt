@@ -111,29 +111,31 @@ South Australia
 Tasmania
 Victoria
 Western Australia
-Grafton
-Greater Sydney
+Central Coast Region
+Central West Region
+Far West Region
+Hunter Region
+Illawarra Region
+Mid North Coast Region
+Murray Region
+Northern Inland Region
+Northern Rivers Region
+Orana Region
+Riverina Region
+South Coast Region
+Southern Inland Region
+Sydney Region
+Gosford
+Wyong
 Kiama
-Lake Macquarie
-Lord Howe Island
-Maitland
-Murray
-Newcastle
-Queanbeyan
-Wagga Wagga
+Shellharbour
 Wollongong
-Blacktown
 Botany Bay
-Camden
-Campbelltown
 Canterbury
+Georges River
 Parramatta
-Sutherland
 Sydney
 Waverley
-Willoughby
-Windale
-Upper Murray River
 Alice Springs
 Barkly
 Central Desert
@@ -160,8 +162,8 @@ Logan
 McKinlay
 Noosa
 Toowoomba
-Torres Strait Islands
 Townsville
+Torres Strait Islands
 Murray Island
 Saibai Island
 Adelaide Hills
@@ -171,6 +173,7 @@ Anangu Pitjantjatjara Yankunytjatjara
 Barossa
 Barunga West
 Burnside
+Campbelltown
 Ceduna
 Charles Sturt
 Clare and Gilbert Valleys
@@ -263,12 +266,15 @@ Tasman
 Waratah Wynyard
 West Coast
 West Tamar
-Barwon South West
-Gippsland
-Grampians
-Greater Melbourne
-Hume
-Loddon Mallee
+Barwon South West Region
+Gippsland Region
+Grampians Region
+Hume Region
+Loddon Mallee Region
+Melbourne East Region
+Northern Melbourne Region
+Southern Melbourne Region
+Western Melbourne Region
 Colac Otway
 Corangamite
 Glenelg
@@ -296,35 +302,6 @@ Northern Grampians
 Pyrenees
 West Wimmera
 Yarriambiack
-Banyule
-Bayside
-Boroondara
-Brimbank
-Cardinia
-Casey
-Darebin
-Frankston
-Glen Eira
-Greater Dandenong
-Hobsons Bay
-Knox
-Manningham
-Maribyrnong
-Maroondah
-Melbourne
-Melton
-Monash
-Moonee Valley
-Moreland
-Mornington Peninsula
-Nillumbik
-Port Phillip
-Stonnington
-Whitehorse
-Whittlesea
-Wyndham
-Yarra
-Yarra Ranges
 Alpine
 Benalla
 Falls Creek
@@ -352,6 +329,36 @@ Macedon Ranges
 Mildura
 Mount Alexander
 Swan Hill
+Boroondara
+Knox
+Manningham
+Maroondah
+Monash
+Whitehorse
+Yarra Ranges
+Banyule
+Darebin
+Hume
+Moreland
+Nillumbik
+Whittlesea
+Yarra
+Bayside
+Cardinia
+Casey
+Frankston
+Glen Eira
+Greater Dandenong
+Mornington Peninsula
+Port Phillip
+Stonnington
+Brimbank
+Hobsons Bay
+Maribyrnong
+Melbourne
+Melton
+Moonee Valley
+Wyndham
 Fremantle
 Perth
 Wanneroo
@@ -1907,6 +1914,7 @@ Suzhou
 Shangrao
 Dalian
 Weihai
+Cocos
 Amazonas Department
 Antioquia Department
 Arauca Department
@@ -9795,6 +9803,7 @@ Barnet
 Bexley
 Brent
 Bromley
+Camden
 Ealing
 Enfield
 Greenwich
