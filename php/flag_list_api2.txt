@@ -1092,40 +1092,44 @@ Southern District
 Sowa
 Acre
 Alagoas
-Amapa
+Amapá
 Amazonas
 Bahia
-Ceara
+Ceará
 Distrito Federal
-Espirito Santo
-Goias
-Maranhao
+Espírito Santo
+Goiás
+Maranhão
 Mato Grosso do Sul
 Mato Grosso
 Minas Gerais
-Paraiba
-Parana
-Para
+Paraíba
+Paraná
+Pará
 Pernambuco
-Piaui
+Piauí
 Rio de Janeiro
 Rio Grande do Norte
 Rio Grande do Sul
-Rondonia
+Rondônia
 Roraima
 Santa Catarina
-Sao Paulo
+São Paulo
 Sergipe
 Tocantins
-Brasileia
+Brasiléia
 Cruzeiro do Sul
-Mancio Lima
-Placido de Castro
+Mâncio Lima
+Plácido de Castro
 Rio Branco
-Tarauaca
+Tarauacá
 Xapuri
-Maceio
-Macapa
+Arapiraca
+Maceió
+Palmeira dos Índios
+Penedo
+União dos Palmares
+Macapá
 Santana
 Autazes
 Benjamin Constant
@@ -1133,231 +1137,248 @@ Borba
 Careiro
 Coari
 Eirunepe
-Humaita
+Humaitá
 Itacoatiara
 Manacapuru
 Manaus
 Maues
 Parintins
-Sao Gabriel da Cachoeira
-Tefe
+São Gabriel da Cachoeira
+Tefé
 Barreiras
 Feira de Santana
 Juazeiro
 Porto Seguro
 Salvador
-Vitoria da Conquista
+Vitória da Conquista
 Caucaia
 Fortaleza
 Itapipoca
 Juazeiro do Norte
 Sobral
-Brasilia
-Brazlandia
-Ceilandia
-Nucleo Bandeirante
-Paranoa
+Brasília
+Brazlândia
+Candangolândia
+Ceilândia
+Jardim Botânico
+Núcleo Bandeirante
+Paranoá
 Riacho Fundo
 Sobradinho
 Taguatinga
 Cariacica
-Marilandia
+Marilândia
 Serra
-Trindade e Martim Vaz
 Vila Velha
-Vitoria
-Anapolis
-Aparecida de Goiania
-Goiania
-Acailandia
+Vitória
+Trindade e Martim Vaz
+Anápolis
+Aparecida de Goiânia
+Goiânia
+Açailândia
 Balsas
-Grajau
+Grajaú
 Imperatriz
-Sao Luis
-Cuiaba
-Rondonopolis
-Varzea Grande
+São Luís
+Cuiabá
+Rondonópolis
+Várzea Grande
 Bonito
 Campo Grande
-Cassilandia
-Tres Lagoas
+Cassilândia
+Três Lagoas
 Belo Horizonte
 Betim
 Cataguases
 Contagem
-Divinopolis
+Divinópolis
 Governador Valadares
 Ipatinga
 Itapecerica
 Juiz de Fora
 Montes Claros
-Para de Minas
+Pará de Minas
 Patos de Minas
-Pocos de Caldas
-Ribeirao das Neves
-Serra dos Aimores
+Poços de Caldas
+Ribeirão das Neves
+Serra dos Aimorés
 Uberaba
-Uberlandia
+Uberlândia
 Abaetetuba
 Altamira
 Ananindeua
-Belem
+Barcarena
+Belém
+Bragança
+Breves
+Cametá
 Castanhal
 Itaituba
-Maraba
-Santarem
-Tucurui
+Marabá
+Marituba
+Paragominas
+Parauapebas
+Redenção
+Santarém
+Tucuruí
 Campina Grande
-Joao Pessoa
+João Pessoa
 Patos
 Cascavel
 Curitiba
-Foz do Iguacu
-Francisco Beltrao
+Foz do Iguaçu
+Francisco Beltrão
 Guarapuava
 Jacarezinho
 Londrina
-Marilandia do Sul
-Maringa
+Marilândia do Sul
+Maringá
 Pato Branco
 Ponta Grossa
-Rolandia
-Sao Jose dos Pinhais
+Rolândia
+São José dos Pinhais
 Toledo
 Abreu e Lima
 Agrestina
 Caruaru
 Fernando de Noronha
-Gravata
-Jaboatao dos Guararapes
+Gravatá
+Jaboatão dos Guararapes
 Olinda
 Paulista
 Petrolina
 Recife
 Floriano
+Oeiras
 Teresina
 Belford Roxo
 Campos dos Goytacazes
-Cidade do Rio de Janeiro
 Duque de Caxias
 Itaperuna
-Macae
-Niteroi
-Nova Iguacu
-Petropolis
+Macaé
+Niterói
+Nova Iguaçu
+Petrópolis
 Rio das Ostras
-Sao Goncalo
-Sao Joao de Meriti
-Teresopolis
+Rio de Janeiro (city)
+São Gonçalo
+São João de Meriti
+Teresópolis
 Volta Redonda
-Mossoro
+Mossoró
 Natal
-Sao Miguel
-Bage
+São Miguel
+Bagé
 Canoas
 Caxias do Sul
 Erechim
 Gramado
-Gravatai
-Nova Hamburgo
+Gravataí
+Novo Hamburgo
 Passo Fundo
 Pelotas
 Porto Alegre
 Rio Grande
 Santa Maria
 Sapucaia do Sul
-Viamao
+Viamão
+Ariquemes
+Cacoal
+Ji-Paraná
 Porto Velho
 Vilhena
 Alto Alegre
 Amajari
 Boa Vista
 Bonfim
-Canta
-Caracarai
+Cantá
+Caracaraí
 Caroebe
 Iracema
-Mucajai
+Mucajaí
 Normandia
 Pacaraima
-Rorainopolis
-Sao Joao da Baliza
-Sao Luiz
-Uiramuta
+Rorainópolis
+São João da Baliza
+São Luiz
+Uiramutã
+Balneário Camboriú
 Blumenau
-Camboriu
-Chapeco
-Florianopolis
+Camboriú
+Chapecó
+Florianópolis
 Forquilhinha
 Joinville
 Lages
-Sao Bento do Sul
+São Bento do Sul
 Americana
 Araraquara
-Aruja
+Arujá
 Bauru
 Bertioga
 Botucatu
-Cacapava
+Caçapava
 Cachoeira Paulista
 Caieiras
 Campinas
 Caraguatatuba
-Carapicuiba
-Cidade de Sao Paulo
+Carapicuíba
 Cravinhos
 Cruzeiro
-Cubatao
+Cubatão
 Diadema
 Embu das Artes
 Ferraz de Vasconcelos
 Franca
 Francisco Morato
 Franco da Rocha
-Guaratingueta
-Guaruja
+Guaratinguetá
+Guarujá
 Guarulhos
 Ilhabela
-Itanhaem
+Itanhaém
 Itapecerica da Serra
 Itapetininga
 Itaquaquecetuba
 Jaboticabal
-Jacarei
-Jundiai
+Jacareí
+Jundiaí
 Limeira
 Lins
 Lorena
-Mairipora
-Maua
+Mairiporã
+Mauá
 Mogi das Cruzes
 Mogi Mirim
-Mongagua
+Mongaguá
 Osasco
-Peruibe
+Peruíbe
 Pindamonhangaba
 Piracicaba
 Praia Grande
 Presidente Prudente
-Ribeirao Preto
+Ribeirão Preto
 Santa Isabel
-Santo Andre
+Santo André
 Santos
-Sao Bernardo do Campo
-Sao Caetano do Sul
-Sao Carlos
-Sao Jose do Rio Preto
-Sao Jose dos Campos
-Sao Vicente
+São Bernardo do Campo
+São Caetano do Sul
+São Carlos
+São José do Rio Preto
+São José dos Campos
+São Paulo (city)
+São Vicente
 Sorocaba
 Suzano
-Taboao da Serra
-Tatui
-Taubate
+Taboão da Serra
+Tatuí
+Taubaté
 Ubatuba
 Votorantim
 Aracaju
-Sao Cristovao
+São Cristóvão
+Araguaína
+Gurupi
 Palmas
 Diego Garcia
 Antonovo
@@ -4334,7 +4355,6 @@ Huehuetenango Department
 Izabal Department
 Jalapa Department
 Jutiapa Department
-Peten Department
 Quetzaltenango Department
 Quiche Department
 Retalhuleu Department
@@ -5513,32 +5533,34 @@ Baja California Sur
 Campeche
 Chiapas
 Chihuahua
-Ciudad de Mexico
+Ciudad de México
 Coahuila
 Colima
 Durango
-Estado de Mexico
 Guanajuato
 Guerrero
 Hidalgo
 Jalisco
-Michoacan
+México
+Michoacán
 Morelos
 Nayarit
-Nuevo Leon
+Nuevo León
 Oaxaca
 Puebla
-Queretaro
+Querétaro
 Quintana Roo
-San Luis Potosi
+San Luis Potosí
 Sinaloa
 Sonora
 Tabasco
 Tamaulipas
 Tlaxcala
 Veracruz
-Yucatan
+Yucatán
 Zacatecas
+Chihuahua (city)
+Ciudad Juárez
 Guadalajara
 Chetumal
 Anenii Noi District
@@ -7018,7 +7040,6 @@ Belmonte
 Benavente
 Bombarral
 Boticas
-Bragança
 Braga
 Cabeceiras de Basto
 Cadaval
@@ -7130,7 +7151,6 @@ Nisa
 Óbidos
 Odemira
 Odivelas
-Oeiras
 Oleiros
 Olhão
 Oliveira de Azeméis
@@ -7178,7 +7198,6 @@ Salvaterra de Magos
 Santa Comba Dão
 Santa Maria da Feira
 Santa Marta de Penaguião
-Santarém
 Santiago do Cacém
 Santo Tirso
 São Brás de Alportel
@@ -7271,7 +7290,6 @@ Ponta do Sol
 Porto Moniz
 Porto Santo
 Ribeira Brava
-São Vicente
 Adjuntas
 Aguada
 Aguadilla
@@ -11326,36 +11344,31 @@ Tafea Province
 Torba Province
 Luganville
 Port Vila
-Amazonas State
-Anzoátegui State
-Apure State
-Aragua State
-Barinas State
-Bolívar State
+Anzoátegui
+Apure
+Aragua
+Barinas
 Capital District
-Carabobo State
-Cojedes State
-Delta Amacuro State
-Falcón State
+Carabobo
+Cojedes
+Delta Amacuro
+Falcón
 Federal Dependencies
-Guárico State
-Lara State
-Mérida State
-Miranda State
-Monagas State
-Nueva Esparta State
-Portuguesa State
-Sucre State
-Táchira State
-Trujillo State
-Vargas State
-Yaracuy State
-Zulia State
+Guárico
+Lara
+Mérida
+Monagas
+Nueva Esparta
+Portuguesa
+Táchira
+Vargas
+Yaracuy
+Zulia
 Puerto la Cruz
 San Fernando de Apure
 Maracay
 Turmero
-Barinas
+Barinas (city)
 Upata
 Libertador
 Guacara
