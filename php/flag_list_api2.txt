@@ -3042,8 +3042,6 @@ Teplice
 Usti nad Labem
 Jihlava
 Zlin
-Katanga
-Kinshasa
 Hovedstaden
 Midtjylland
 Nordjylland
@@ -8605,6 +8603,8 @@ Uthai Thani Province
 Uttaradit Province
 Yala Province
 Yasothon Province
+Katanga
+Kinshasa
 Lomé
 Niuafoou
 Couva-Tabaquite-Talparo
