@@ -1570,30 +1570,32 @@ Dauphin
 Rural Municipality of Dauphin
 Winnipeg
 Fredericton
-St John s
+St Johns
 Yellowknife
-Cape Breton
+Cape Breton Island
 Halifax
 Iqaluit
-Arnprior
-Barrie
-Cambridge
 Chatham-Kent
-Cornwall
 Durham Region
-Guelph
+Essex County
+Frontenac County
+Greater Sudbury
 Halton Region
-Kitchener
+Kenora District
 London
 Niagara Region
+Northumberland County
 Ottawa
 Peel Region
-St Catharines
-Sudbury
-Thunder Bay
+Peterborough County
+Rainy River District
+Renfrew County
+Simcoe County
+Stormont, Dundas and Glengarry Counties
+Thunder Bay District
 Toronto
-Whitby
-Windsor
+Waterloo Region
+Wellington County
 York Region
 Ajax
 Brock
@@ -1602,13 +1604,26 @@ Oshawa
 Pickering
 Scugog
 Uxbridge
+Whitby
+Windsor
 Burlington
 Halton Hills
 Milton
 Oakville
+Niagara Falls
+St Catharines
 Brampton
 Caledon
 Mississauga
+Atikokan
+Emo
+Arnprior
+Barrie
+Cornwall
+Thunder Bay
+Cambridge
+Kitchener
+Guelph
 Aurora
 East Gwillimbury
 Georgina
@@ -10977,7 +10992,6 @@ Barnstable County
 Berkshire County
 Bristol County
 Dukes County
-Essex County
 Hampden County
 Hampshire County
 Middlesex County
@@ -11142,7 +11156,6 @@ Monroe County
 Nassau County
 New York City
 Niagara County
-Niagara Falls
 Onondaga County
 Ontario County
 Orleans County
@@ -11472,7 +11485,6 @@ Manassas
 Nelson County
 New Kent County
 Newport News
-Northumberland County
 Petersburg
 Pittsylvania County
 Poquoson
