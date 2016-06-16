@@ -10981,9 +10981,13 @@ Thibodaux
 Mandeville
 Aroostook County
 Bangor
-Biddeford
+Cumberland County
+Kennebec County
+Sagadahoc County
+York County
 Portland
 Lubec
+Biddeford
 Allegany County
 Anne Arundel County
 Baltimore County
@@ -11123,13 +11127,16 @@ Henderson
 Las Vegas
 Reno
 Belknap County
+Cheshire County
 Merrimack County
 Rockingham County
+Strafford County
+Sullivan County
 Hampton
+Atlantic County
 Bergen County
 Burlington County
 Cape May County
-Cumberland County
 Gloucester County
 Hudson County
 Hunterdon County
@@ -11194,8 +11201,11 @@ Rockland County
 Saint Lawrence County
 Saratoga County
 Schenectady County
+Schoharie County
 Seneca County
 Steuben County
+Tioga County
+Tompkins County
 Ulster County
 Westchester County
 Wyoming County
@@ -11335,23 +11345,27 @@ Beaver County
 Bedford County
 Berks County
 Blair County
+Bradford County
 Bucks County
 Cambria County
 Cameron County
+Centre County
 Chester County
+Clarion County
 Clearfield County
 Dauphin County
 Huntingdon County
 Lehigh County
+Luzerne County
 Lycoming County
 Meadville
 Nanticoke
 Northampton County
 Philadelphia
+Schuylkill County
 Scranton
 Venango County
 Westmoreland County
-York County
 Gettysburg
 Bethel Park
 Pittsburgh
@@ -11392,7 +11406,6 @@ Hawkins County
 Maury County
 Rutherford County
 Sevier County
-Sullivan County
 Sumner County
 Van Buren County
 Williamson County
