@@ -11358,10 +11358,8 @@ Huntingdon County
 Lehigh County
 Luzerne County
 Lycoming County
-Meadville
-Nanticoke
 Northampton County
-Philadelphia
+Philadelphia County
 Schuylkill County
 Scranton
 Venango County
@@ -11372,15 +11370,18 @@ Pittsburgh
 Hopewell Township
 Bristol Township
 Coatesville
+Meadville
 Harrisburg
 Erie
 Huntingdon
 East Lampeter Township
 Allentown
+Nanticoke
 Abington Township
 Pottstown
 Springfield Township
 Easton
+Philadelphia
 East Providence
 Providence
 Warwick
