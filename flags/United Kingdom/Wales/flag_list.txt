@@ -1,16 +1,14 @@
 Blaenau Gwent
 Bridgend
-Caernarfonshire
 Caerphilly
 Cardiff
+Carmarthenshire
 Ceredigion
 Conwy
 Denbighshire
 Flintshire
-Glamorgan
 Gwynedd
 Isle of Anglesey
-Meirionnydd
 Merthyr Tydfil
 Monmouthshire
 Neath Port Talbot
@@ -20,4 +18,5 @@ Powys
 Rhondda Cynon Taf
 Swansea
 Torfaen
+Vale of Glamorgan
 Wrexham

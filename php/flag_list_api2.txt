@@ -9971,11 +9971,9 @@ Cambridgeshire
 Cheshire
 City of London
 County Durham
-Cumberland
 Cumbria
 Derbyshire
 Devon
-East Anglia
 East Riding of Yorkshire
 East Sussex
 Essex
@@ -9985,20 +9983,15 @@ Greater Manchester
 Hampshire
 Herefordshire
 Hertfordshire
-Huntingdonshire
 Isle of Wight
 Kent
 Lancashire
 Leicestershire
 Lincolnshire
-Mercia
 Merseyside
-Middlesex
 Norfolk
 Northamptonshire
-North Riding of Yorkshire
 Northumberland
-Northumbria
 North Yorkshire
 Nottinghamshire
 Oxfordshire
@@ -10008,21 +10001,17 @@ Somerset
 South Yorkshire
 Staffordshire
 Suffolk
-Sussex
 Tyne and Wear
 Warwickshire
-Wessex
 West Midlands
-Westmorland
-West Riding of Yorkshire
 West Sussex
 West Yorkshire
 Wiltshire
 Worcestershire
-Yorkshire
 Reading
 Wing
 Horningsea
+Huntingdonshire
 Chester
 Falmouth
 Hayle
@@ -10167,26 +10156,27 @@ Birmingham
 Black Country
 Coventry
 Solihull
-Wolverhampton
 Dudley
 Sandwell
 Walsall
+Wolverhampton
 Willenhall
 Bradford
-Antrim
-Armagh
+Antrim and Newtownabbey
+Ards and North Down
+Armagh, Banbridge and Craigavon
 Belfast
-Derry
-Down
-Fermanagh
-Londonderry
-Tyrone
+Causeway Coast and Glens
+Derry and Strabane
+Fermanagh and Omagh
+Lisburn and Castlereagh
+Mid and East Antrim
+Mid-Ulster
+Newry, Mourne and Down
 Aberdeen
 Aberdeenshire
 Angus
 Argyll and Bute
-Ayrshire
-Caithness
 Clackmannanshire
 Dumfries and Galloway
 Dundee
@@ -10209,7 +10199,7 @@ Outer Hebrides
 Perth and Kinross
 Renfrewshire
 Scottish Borders
-Shetland Isles
+Shetland
 South Ayrshire
 South Lanarkshire
 Stirling
@@ -10217,17 +10207,15 @@ West Dunbartonshire
 West Lothian
 Blaenau Gwent
 Bridgend
-Caernarfonshire
 Caerphilly
 Cardiff
+Carmarthenshire
 Ceredigion
 Conwy
 Denbighshire
 Flintshire
-Glamorgan
 Gwynedd
 Isle of Anglesey
-Meirionnydd
 Merthyr Tydfil
 Monmouthshire
 Neath Port Talbot
@@ -10237,6 +10225,7 @@ Powys
 Rhondda Cynon Taf
 Swansea
 Torfaen
+Vale of Glamorgan
 Wrexham
 Alabama
 Alaska
@@ -11382,6 +11371,7 @@ Pottstown
 Springfield Township
 Easton
 Philadelphia
+Cumberland
 East Providence
 Providence
 Warwick
