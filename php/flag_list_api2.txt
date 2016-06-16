@@ -1553,10 +1553,20 @@ Saskatchewan
 Yukon
 Calgary
 Edmonton
-Abbotsford
+Capital Regional District
+Central Okanagan Regional District
+Cowichan Valley Regional District
+Fraser-Fort George Regional District
+Fraser Valley Regional District
 Greater Vancouver Regional District
-Kelowna
+Kitimat-Stikine Regional District
+Nanaimo Regional District
+North Okanagan Regional District
+Okanagan-Similkameen Regional District
+Thompson-Nicola Regional District
 Saanich
+Kelowna
+Abbotsford
 Burnaby
 Coquitlam
 Delta
@@ -1565,21 +1575,29 @@ North Vancouver
 Richmond
 Surrey
 Vancouver
+Kamloops
 Brandon
 Dauphin
-Rural Municipality of Dauphin
+Dauphin Rural Municipality
 Winnipeg
 Fredericton
+Moncton
+Saint John
 St Johns
 Yellowknife
-Cape Breton Island
-Halifax
+Cape Breton Regional Municipality
+Halifax Regional Municipality
 Iqaluit
+Algoma District
+Brant County
+Bruce County
 Chatham-Kent
+Cochrane District
 Durham Region
 Essex County
 Frontenac County
 Greater Sudbury
+Grey County
 Halton Region
 Kenora District
 London
@@ -1597,6 +1615,13 @@ Toronto
 Waterloo Region
 Wellington County
 York Region
+Blind River
+Sault Ste Marie
+Brantford
+Hearst
+Iroquois Falls
+Kapuskasing
+Moonbeam
 Ajax
 Brock
 Clarington
@@ -1610,6 +1635,7 @@ Burlington
 Halton Hills
 Milton
 Oakville
+Kenora
 Niagara Falls
 St Catharines
 Brampton
