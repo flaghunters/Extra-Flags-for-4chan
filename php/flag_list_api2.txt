@@ -2896,18 +2896,17 @@ Alajuela Province
 Cartago Province
 Guanacaste Province
 Heredia Province
-Limon Province
+Limón Province
 Puntarenas Province
-San Jose Province
+San José Province
 Alajuela
 Heredia
-Limon
-Pococi
+Pococí
+Puerto Limón
 Puntarenas
 Desamparados
 Goicoechea
-Perez Zeledon
-San Jose
+Pérez Zeledón
 Bjelovar-Bilogora County
 Brod-Posavina County
 Dubrovnik-Neretva County
@@ -3156,19 +3155,19 @@ Kolding
 Svendborg
 Djibouti
 Azua de Compostela
+Hato del Yaque
 La Romana
 Nagua
-Ramon Santana
+Ramón Santana
 San Cristobal
-San Francisco de Macoris
-San Jose de las Matas
-San Pedro de Macoris
+San Francisco de Macorís
+San José de las Matas
+San Pedro de Macorís
 Santiago de los Caballeros
 Santo Domingo Este
-Villa Gonzalez
+Villa González
 Villa Hermosa
 Villa Jaragua
-Hato del Yaque
 Aileu District
 Ainaro District
 Baucau District
@@ -3267,21 +3266,21 @@ Arish
 Port Said
 Sohag
 Suez
-Ahuachapan Department
-Cabanas Department
+Ahuachapán Department
+Cabañas Department
 Chalatenango Department
-Cuscatlan Department
+Cuscatlán Department
 La Libertad Department
-La Union Department
-Morazan Department
+La Unión Department
+Morazán Department
 San Miguel Department
 San Salvador Department
 Santa Ana Department
 San Vicente Department
 Sonsonate Department
-Usulutan Department
+Usulután Department
 Chalatenango
-Antiguo Cuscatlan
+Antiguo Cuscatlán
 Santa Tecla
 San Salvador
 Annobón Province
@@ -4503,18 +4502,18 @@ Jalapa Department
 Jutiapa Department
 Petén Department
 Quetzaltenango Department
-Quiche Department
+Quiché Department
 Retalhuleu Department
-Sacatepequez Department
+Sacatepéquez Department
 San Marcos Department
 Santa Rosa Department
-Solola Department
-Suchitepequez Department
-Totonicapan Department
+Sololá Department
+Suchitepéquez Department
+Totonicapán Department
 Zacapa Department
 Chimaltenango
-Amatitlan
-Guatemala City
+Amatitlán
+Guatemala
 Puerto Barrios
 Quetzaltenango
 Alderney
@@ -4545,10 +4544,10 @@ Nord-Ouest Department
 Ouest Department
 Sud Department
 Sud-Est Department
-Colon Department
+Colón Department
 Comayagua Department
-Cortes Department
-Francisco Morazan Department
+Cortés Department
+Francisco Morazán Department
 Tegucigalpa
 Central and West
 Islands
@@ -6386,22 +6385,22 @@ Dunedin
 Lawrence
 Stewart Island
 Boaco Department
+Caribe Norte Autonomous Region
+Caribe Sur Autonomous Region
 Chinandega Department
-Esteli Department
+Estelí Department
 Granada Department
 Jinotega Department
-Leon Department
+León Department
 Madriz Department
 Managua Department
 Masaya Department
 Matagalpa Department
-North Caribbean Coast Autonomous Region
-South Caribbean Coast Autonomous Region
 Boaco
 Chinandega
-Esteli
+Estelí
 Jinotega
-Leon
+León
 Somoto
 Managua
 Masaya
@@ -7040,6 +7039,7 @@ Canlaon
 Dumaguete
 Cabanatuan
 Palayan
+San Jose
 Puerto Princesa
 Angeles
 Dagupan
@@ -8538,7 +8538,6 @@ Province of Soria
 Province of Valladolid
 Province of Zamora
 Burgos
-León
 Valladolid
 Province of Albacete
 Province of Ciudad Real
