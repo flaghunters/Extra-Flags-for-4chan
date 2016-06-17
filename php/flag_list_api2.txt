@@ -7482,284 +7482,31 @@ Koszalin
 Stargard
 Szczecin
 Walcz
-Abrantes
 Açores
-Águeda
-Aguiar da Beira
-Alandroal
-Albergaria-a-Velha
-Albufeira
-Alcácer do Sal
-Alcanena
-Alcobaça
-Alcochete
-Alcoutim
-Alenquer
-Alfândega da Fé
-Alijó
-Aljezur
-Aljustrel
-Almada
-Almeirim
-Almodôvar
-Alpiarça
-Alter do Chão
-Alvaiázere
-Alvito
-Amadora
-Amarante
-Amares
-Anadia
-Ansião
-Arcos de Valdevez
-Arganil
-Armamar
-Arouca
-Arraiolos
-Arronches
-Arruda dos Vinhos
-Aveiro
-Avis
-Azambuja
-Baião
-Barcelos
-Barrancos
-Barreiro
-Batalha
-Beja
-Belmonte
-Benavente
-Bombarral
-Boticas
-Braga
-Cabeceiras de Basto
-Cadaval
-Caldas da Rainha
-Caminha
-Campo Maior
-Cantanhede
-Carrazeda de Ansiães
-Carregal do Sal
-Cartaxo
-Cascais
-Castanheira de Pera
-Castelo Branco
-Castelo de Paiva
-Castelo de Vide
-Castro Daire
-Castro Marim
-Castro Verde
-Celorico da Beira
-Celorico de Basto
-Chamusca
-Chaves
-Cinfães
-Coimbra
-Condeixa-a-Nova
-Constância
-Coruche
-Covilhã
-Crato
-Cuba
-Elvas
-Entroncamento
-Espinho
-Esposende
-Estarreja
-Estremoz
-Évora
-Fafe
-Faro
-Felgueiras
-Ferreira do Alentejo
-Ferreira do Zêzere
-Figueira da Foz
-Figueira de Castelo Rodrigo
-Figueiró dos Vinhos
-Fornos de Algodres
-Freixo de Espada à Cinta
-Fronteira
-Fundão
-Gavião
-Góis
-Golegã
-Gondomar
-Gouveia
-Grândola
-Guarda
-Guimarães
-Idanha-a-Nova
-Ílhavo
-Lagoa
-Lamego
-Leiria
-Lisboa
-Loulé
-Loures
-Lourinhã
-Lousada
-Lousã
-Mação
-Macedo de Cavaleiros
+Aveiro District
+Beja District
+Braga District
+Bragança District
+Castelo Branco District
+Coimbra District
+Évora District
+Faro District
+Guarda District
+Leiria District
+Lisboa District
 Madeira
-Mafra
-Maia
-Mangualde
-Manteigas
-Marco de Canavezes
-Marinha Grande
-Marvão
-Matosinhos
-Mealhada
-Meda
-Melgaço
-Mértola
-Mesão Frio
-Miranda do Corvo
-Miranda do Douro
-Mirandela
-Mira
-Mogadouro
-Moimenta da Beira
-Moita
-Monção
-Monchique
-Mondim de Basto
-Monforte
-Montalegre
-Montemor-o-Novo
-Montemor-o-Velho
-Montijo
-Mora
-Mortágua
-Mourão
-Moura
-Murça
-Murtosa
-Nazaré
-Nelas
-Nisa
-Óbidos
-Odemira
-Odivelas
-Oleiros
-Olhão
-Oliveira de Azeméis
-Oliveira de Bairro
-Oliveira de Frades
-Oliveira do Hospital
-Ourém
-Ourique
-Ovar
-Paços de Ferreira
-Palmela
-Pampilhosa da Serra
-Paredes de Coura
-Paredes
-Pedrógão Grande
-Penacova
-Penafiel
-Penalva do Castelo
-Penamacor
-Penedono
-Penela
-Peniche
-Peso da Régua
-Pinhel
-Pombal
-Ponte da Barca
-Ponte de Lima
-Ponte de Sor
-Portalegre
-Portel
-Portimão
-Porto de Mós
-Porto
-Póvoa de Lanhoso
-Póvoa de Varzim
-Proença-a-Nova
-Redondo
-Reguengos de Monsaraz
-Resende
-Ribeira de Pena
-Rio Maior
-Sabrosa
-Sabugal
-Salvaterra de Magos
-Santa Comba Dão
-Santa Maria da Feira
-Santa Marta de Penaguião
-Santiago do Cacém
-Santo Tirso
-São Brás de Alportel
-São João da Madeira
-São João da Pesqueira
-São Pedro do Sul
-Sardoal
-Sátão
-Seia
-Seixal
-Sernancelhe
-Serpa
-Sertã
-Sesimbra
-Setúbal
-Sever do Vouga
-Silves
-Sines
-Sintra
-Sobral de Monte Agraço
-Soure
-Sousel
-Tabuaço
-Tábua
-Tarouca
-Tavira
-Terras de Bouro
-Tomar
-Tondela
-Torre de Moncorvo
-Torres Novas
-Torres Vedras
-Trancoso
-Trofa
-Vagos
-Vale de Cambra
-Valença
-Valongo
-Valpaços
-Vendas Novas
-Viana do Alentejo
-Viana do Castelo
-Vidigueira
-Vieira do Minho
-Vila de Rei
-Vila do Bispo
-Vila do Conde
-Vila Flor
-Vila Franca de Xira
-Vila Nova da Barquinha
-Vila Nova de Cerveira
-Vila Nova de Famalicão
-Vila Nova de Foz Cóa
-Vila Nova de Gaia
-Vila Nova de Paiva
-Vila Nova de Poiares
-Vila Pouca de Aguiar
-Vila Real de Santo António
-Vila Real
-Vila Velha de Ródão
-Vila Verde
-Vila Viçosa
-Vimioso
-Vinhais
-Viseu
-Vizela
-Vouzela
+Portalegre District
+Porto District
+Santarém District
+Setúbal District
+Viana do Castelo District
+Vila Real District
+Viseu District
 Angra do Heroismo
 Calheta
 Corvo
 Horta
+Lagoa
 Lajes das Flores
 Lajes do Pico
 Madalena
@@ -7774,6 +7521,164 @@ São Roque do Pico
 Velas
 Vila do Porto
 Vila Franca do Campo
+Águeda
+Albergaria-a-Velha
+Anadia
+Arouca
+Aveiro
+Castelo de Paiva
+Espinho
+Estarreja
+Ílhavo
+Mealhada
+Murtosa
+Oliveira de Azeméis
+Oliveira de Bairro
+Ovar
+Santa Maria da Feira
+São João da Madeira
+Sever do Vouga
+Vagos
+Vale de Cambra
+Aljustrel
+Almodôvar
+Alvito
+Barrancos
+Beja
+Castro Verde
+Cuba
+Ferreira do Alentejo
+Mértola
+Moura
+Odemira
+Ourique
+Serpa
+Vidigueira
+Amares
+Barcelos
+Braga
+Cabeceiras de Basto
+Celorico de Basto
+Esposende
+Fafe
+Guimarães
+Póvoa de Lanhoso
+Terras de Bouro
+Vieira do Minho
+Vila Nova de Famalicão
+Vila Verde
+Vizela
+Alfândega da Fé
+Carrazeda de Ansiães
+Freixo de Espada à Cinta
+Macedo de Cavaleiros
+Miranda do Douro
+Mirandela
+Mogadouro
+Torre de Moncorvo
+Vila Flor
+Vimioso
+Vinhais
+Belmonte
+Castelo Branco
+Covilhã
+Fundão
+Idanha-a-Nova
+Oleiros
+Penamacor
+Proença-a-Nova
+Sertã
+Vila de Rei
+Vila Velha de Ródão
+Arganil
+Cantanhede
+Coimbra
+Condeixa-a-Nova
+Figueira da Foz
+Góis
+Lousã
+Miranda do Corvo
+Mira
+Montemor-o-Velho
+Oliveira do Hospital
+Pampilhosa da Serra
+Penacova
+Penela
+Soure
+Tábua
+Vila Nova de Poiares
+Alandroal
+Arraiolos
+Estremoz
+Évora
+Montemor-o-Novo
+Mora
+Mourão
+Portel
+Redondo
+Reguengos de Monsaraz
+Vendas Novas
+Viana do Alentejo
+Vila Viçosa
+Albufeira
+Alcoutim
+Aljezur
+Castro Marim
+Faro
+Loulé
+Monchique
+Olhão
+Portimão
+São Brás de Alportel
+Silves
+Tavira
+Vila do Bispo
+Vila Real de Santo António
+Aguiar da Beira
+Celorico da Beira
+Figueira de Castelo Rodrigo
+Fornos de Algodres
+Gouveia
+Guarda
+Manteigas
+Meda
+Pinhel
+Sabugal
+Seia
+Trancoso
+Vila Nova de Foz Cóa
+Alcobaça
+Alvaiázere
+Ansião
+Batalha
+Bombarral
+Caldas da Rainha
+Castanheira de Pera
+Figueiró dos Vinhos
+Leiria
+Marinha Grande
+Nazaré
+Óbidos
+Pedrógão Grande
+Peniche
+Pombal
+Porto de Mós
+Alenquer
+Amadora
+Arruda dos Vinhos
+Azambuja
+Cadaval
+Cascais
+Lisboa
+Loures
+Lourinhã
+Mafra
+Odivelas
+Sintra
+Sobral de Monte Agraço
+Torres Vedras
+Vila Franca de Xira
+Algueirão-Mem Martins
 Câmara de Lobos
 Funchal
 Machico
@@ -7781,7 +7686,120 @@ Ponta do Sol
 Porto Moniz
 Porto Santo
 Ribeira Brava
-Algueirão-Mem Martins
+Alter do Chão
+Arronches
+Avis
+Campo Maior
+Castelo de Vide
+Crato
+Elvas
+Fronteira
+Gavião
+Marvão
+Monforte
+Nisa
+Ponte de Sor
+Portalegre
+Sousel
+Amarante
+Baião
+Felgueiras
+Gondomar
+Lousada
+Maia
+Marco de Canavezes
+Matosinhos
+Paços de Ferreira
+Paredes
+Penafiel
+Porto
+Póvoa de Varzim
+Santo Tirso
+Trofa
+Valongo
+Vila do Conde
+Vila Nova de Gaia
+Abrantes
+Alcanena
+Almeirim
+Alpiarça
+Benavente
+Cartaxo
+Chamusca
+Constância
+Coruche
+Entroncamento
+Ferreira do Zêzere
+Golegã
+Mação
+Ourém
+Rio Maior
+Salvaterra de Magos
+Sardoal
+Tomar
+Torres Novas
+Vila Nova da Barquinha
+Alcácer do Sal
+Alcochete
+Almada
+Barreiro
+Grândola
+Moita
+Montijo
+Palmela
+Santiago do Cacém
+Seixal
+Sesimbra
+Setúbal
+Sines
+Arcos de Valdevez
+Caminha
+Melgaço
+Monção
+Paredes de Coura
+Ponte da Barca
+Ponte de Lima
+Valença
+Viana do Castelo
+Vila Nova de Cerveira
+Alijó
+Boticas
+Chaves
+Mesão Frio
+Mondim de Basto
+Montalegre
+Murça
+Peso da Régua
+Ribeira de Pena
+Sabrosa
+Santa Marta de Penaguião
+Valpaços
+Vila Pouca de Aguiar
+Vila Real
+Armamar
+Carregal do Sal
+Castro Daire
+Cinfães
+Lamego
+Mangualde
+Moimenta da Beira
+Mortágua
+Nelas
+Oliveira de Frades
+Penalva do Castelo
+Penedono
+Resende
+Santa Comba Dão
+São João da Pesqueira
+São Pedro do Sul
+Sátão
+Sernancelhe
+Tabuaço
+Tarouca
+Tondela
+Vila Nova de Paiva
+Viseu
+Vouzela
 Adjuntas
 Aguada
 Aguadilla
