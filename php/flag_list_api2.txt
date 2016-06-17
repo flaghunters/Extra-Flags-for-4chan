@@ -7978,11 +7978,15 @@ Udachny
 Vilyuysk
 Yakutsk
 Zyryanka
+Aleksandrovsk-Sakhalinsky
+Aniva
 Dolinsk
 Kholmsk
+Korsakov
 Kurilsk
 Nevelsk
 Okha
+Poronaysk
 Severo-Kurilsk
 Shakhtyorsk
 Tomari
@@ -8403,12 +8407,68 @@ Joe Gqabi
 Nelson Mandela Bay
 OR Tambo
 Sarah Baartman
+Matatiele
+Mbizana
+Ntabankulu
+Umzimbuvu
+Amahlathi
+Great Kei
+Mbhashe
+Mnquma
+Ngqushwa
+Nkonkobe
+Nxuba
+Emalahleni
+Engcobo
+Inkwanca
+Intsika Yethu
+Inxuba Yethemba
+Lukhanji
+Sakhisizwe
+Tsolwana
+Elundini
+Gariep
+Maletswai
+Senqu
 Port Elizabeth
+Ingquza Hill
+King Sabata Dalindyebo
+Mhlontlo
+Nyandeni
+Port St. Johns
+Baviaans
+Blue Crane Route
+Camdeboo
+Ikwezi
+Kouga
+Kou-Kamma
+Makana
+Ndlambe
+Sunday's River Valley
 Fezile Dabi
 Lejweleputswa
 Mangaung
 Thabo Mofutsanyana
 Xhariep
+Mafube
+Metsimaholo
+Moqhaka
+Ngwathe
+Masilonyana
+Matjhabeng
+Nala
+Tokologo
+Tswelopele
+Dihlabeng
+Maluti-a-Phofung
+Mantsopa
+Nketoana
+Phumelela
+Setsoto
+Kopanong
+Letsemeng
+Mohokare
+Naledi
 City of Johannesburg
 City of Tshwane
 Ekurhuleni
@@ -8416,6 +8476,13 @@ Sedibeng
 West Rand
 Johannesburg
 Pretoria
+Emfuleni
+Lesedi
+Midvaal
+Merafong City
+Mogale City
+Randfontein
+Westonaria
 Amajuba
 eThekwini
 Harry Gwala
@@ -8427,31 +8494,192 @@ uMzinyathi
 uThukela
 uThungulu
 Zululand
+Dannhauser
+eMadlangeni
+Newcastle
 Durban
+Greater Kokstad
+Ingwe
+Kwa Sani
+Ubuhlebezwe
+Umzimkhulu
+KwaDukuza
+Mandeni
+Maphumulo
+Ndwedwe
+Ezinqoleni
+Hibiscus Coast
+uMdoni
+uMuziwabantu
+Umzumbe
+Vulamehlo
+Impendle
+Mkhambathini
+Mpofana
+Msunduzi
+uMngeni
+uMshwathi
+Hlabisa
+Jozini
+Mtubatuba
+The Big Five False Bay
+Umhlabuyalingana
+Endumeni
+Msinga
+Nquthu
+Umvoti
+Emnambithi-Ladysmith
+Imbabazane
+Indaka
+Okhahlamba
+Umtshezi
+Mbonambi
+Mthonjaneni
+Nkandla
+Ntambanana
+uMhlathuze
+Umlalazi
+Abaqulusi
+eDumbe
+Nongoma
+Ulundi
+uPhongolo
 Capricorn
 Mopani
 Sekhukhune
 Vhembe
 Waterberg
+Aganang
+Blouberg
+Lepelle-Nkumpi
+Molemole
+Polokwane
+Ba-Phalaborwa
+Greater Giyani
+Greater Letaba
+Greater Tzaneen
+Maruleng
+Elias Motsoaledi
+Ephraim Mogale
+Fetakgomo
+Greater Tubatse
+Makhuduthamaga
+Makhado
+Musina
+Mutale
+Thulamela
+Bela-Bela
+Lephalale
+Modimolle
+Mogalakwena
+Mookgopong
+Thabazimbi
 Ehlanzeni
 Gert Sibande
 Nkangala
+Bushbuckridge
+Mbombela
+Nkomazi
+Thaba Chweu
+Umjindi
+Albert Luthuli
+Dipaleseng
+Govan Mbeki
+Lekwa
+Mkhondo
+Msukaligwa
+Pixley Ka Seme
+Dr JS Moroka
+Emakhazeni
+Steve Tshwete
+Thembisile Hani
+Victor Kanye
 Frances Baard
 John Taolo Gaetsewe
 Namakwa
 Pixley ka Seme
 ZF Mgcawu
+Dikgatlong
+Magareng
+Phokwane
+Sol Plaatje
+Gamagara
+Ga-Segonyana
+Joe Morolong
+Hantam
+Kamiesberg
+Karoo Hoogland
+Khâi-Ma
+Nama Khoi
+Richtersveld
+Emthanjeni
+Kareeberg
+Renosterberg
+Siyancuma
+Siyathemba
+Thembelihle
+Ubuntu
+Umsobomvu
+Kai Gharib
+Kgatelopele
+Khara Hais
+Kheis
+Mier
+Tsantsabane
 Bojanala Platinum
 Dr Kenneth Kaunda
 Dr Ruth Segomotsi Mompati
 Ngaka Modiri Molema
+Kgetlengrivier
+Madibeng
+Moretele
+Moses Kotane
+Rustenburg
+Maquassi Hills
+Matlosana
+Tlokwe
+Ventersdorp
+Greater Taung
+Kagisano-Molopo
+Lekwa-Teemane
+Mamusa
+Ditsobotla
+Mahikeng
+Ramotshere Moiloa
+Ratlou
+Tswaing
 Cape Winelands
 Central Karoo
 City of Cape Town
 Eden
 Overberg
+Breede Valley
+Drakenstein
+Langeberg
+Stellenbosch
+Witzenberg
+Beaufort West
+Laingsburg
+Prince Albert
 Cape Town
 Prince Edward Islands
+Marion Island
+Bitou
+George
+Hessequa
+Kannaland
+Knysna
+Mossel Bay
+Oudtshoorn
+Cape Agulhas
+Overstrand
+Swellendam
+Theewaterskloof
+Bergrivier
+Cederberg
+Matzikama
+Saldanha Bay
+Swartland
 Busan
 Daegu
 Daejeon
@@ -10006,6 +10234,9 @@ West Sussex
 West Yorkshire
 Wiltshire
 Worcestershire
+Bedford
+Central Bedfordshire
+Luton
 Reading
 Wing
 Horningsea
@@ -11528,7 +11759,6 @@ Stafford County
 Staunton
 Tazewell County
 Virginia Beach
-Bedford
 Altavista
 Bowling Green
 Port Royal
