@@ -127,15 +127,140 @@ Southern Inland Region
 Sydney Region
 Gosford
 Wyong
+Bathurst
+Blayney
+Cabonne
+Cowra
+Forbes
+Lachlan
+Lithgow
+Oberon
+Orange
+Parkes
+Weddin
+Broken Hill
+Central Darling
+Cessnock
+Dungog
+Lake Macquarie
+Maitland
+Muswellbrook
+Newcastle
+Port Stephens
+Singleton
+Upper Hunter
+Windale
 Kiama
 Shellharbour
 Wollongong
+Bellingen
+Coffs Harbor
+Kempsey
+Lord Howe Island
+Mid-Coast
+Nambucca
+Port Macquarie-Hastings
+Albury
+Balranald
+Berrigan
+Edward River
+Greater Hume
+Snowy Valleys
+Urana
+Wakool
+Wentworth
+Armidale
+Glenn Innes Severn
+Gunnedah
+Gwydir
+Inverell
+Liverpool Plains
+Moree Plains
+Narrabri
+Tamworth
+Tenterfield
+Uralla
+Walcha
+Ballina
+Byron
+Clarence Valley
+Kyogle
+Lismore
+Richmond Valley
+Tweed
+Grafton
+Bogan
+Bourke
+Brewarrina
+Cobar
+Coonamble
+Dubbo
+Gilgandra
+Mid-Western
+Narromine
+Walgett
+Warren
+Warrumbungle
+Wellington
+Bland
+Carrathool
+Coolamon
+Cootamundra
+Griffith
+Gundagai
+Hay
+Junee
+Leeton
+Lockhart
+Murrumbidgee
+Narrandera
+Temora
+Wagga Wagga
+Bega Valley
+Eurobodalla
+Shoal Haven
+Goulburn Mulwaree
+Hilltops
+Queanbeyan-Palerang
+Snowy Monaro
+Upper Lachlan
+Wingecarribee
+Yass Valley
+Queanbeyan
+Blacktown
+Blue Mountains
 Botany Bay
+Burwood
+Camden
+Campbelltown
+Canada Bay
 Canterbury
+Cumberland
+Fairfield
 Georges River
+Hawkesbury
+Hornsby
+Hunters Hill
+Inner West
+Ku-ring-gai
+Lane Cove
+Liverpool
+Mosman
+Northern Beaches
+North Sydney
 Parramatta
+Penrith
+Randwick
+Rockdale
+Ryde
+Strathfield
+Sutherland
 Sydney
+The Hills
 Waverley
+Willoughby
+Wollondilly
+Woollahra
 Alice Springs
 Barkly
 Central Desert
@@ -173,7 +298,6 @@ Anangu Pitjantjatjara Yankunytjatjara
 Barossa
 Barunga West
 Burnside
-Campbelltown
 Ceduna
 Charles Sturt
 Clare and Gilbert Valleys
@@ -290,7 +414,6 @@ Baw Baw
 East Gippsland
 Mount Baw Baw
 South Gippsland
-Wellington
 Ararat
 Ballarat
 Golden Plains
@@ -8495,7 +8618,6 @@ uThungulu
 Zululand
 Dannhauser
 eMadlangeni
-Newcastle
 Durban
 Greater Kokstad
 Ingwe
@@ -10276,7 +10398,6 @@ Barnet
 Bexley
 Brent
 Bromley
-Camden
 Ealing
 Enfield
 Greenwich
@@ -10343,7 +10464,6 @@ Fylde
 Preston
 St Annes on the Sea
 Lincoln
-Liverpool
 Norwich
 York
 Ashfield
@@ -10715,7 +10835,6 @@ Fullerton
 Garden Grove
 Irvine
 Mission Viejo
-Orange
 Rancho Santa Margarita
 San Clemente
 Stanton
@@ -11276,7 +11395,6 @@ Roscommon County
 Wayne County
 Wexford County
 Grand Rapids
-Warren
 Detroit
 Aitkin County
 Blue Earth County
@@ -11600,7 +11718,6 @@ Pottstown
 Springfield Township
 Easton
 Philadelphia
-Cumberland
 East Providence
 Providence
 Warwick
