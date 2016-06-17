@@ -1989,7 +1989,6 @@ Gansu
 Guangdong
 Guangxi
 Guizhou
-Hainan
 Hebei
 Heilongjiang
 Henan
@@ -5767,35 +5766,35 @@ Ungheni
 Monaco
 Arkhangai Province
 Bayankhongor Province
-Bayan-Olgii Province
+Bayan-Ölgii Province
 Bulgan Province
 Darkhan-Uul Province
 Dornod Province
 Dornogovi Province
 Dundgovi Province
 Govi-Altai Province
-Govisumber Province
+Govisümber Province
 Khentii Province
 Khovd Province
-Khovsgol Province
-Omnogovi Province
+Khövsgöl Province
+Ömnögovi Province
 Orkhon Province
-Ovorkhangai Province
+Övörkhangai Province
 Selenge Province
-Sukhbaatar Province
-Tov Province
+Sükhbaatar Province
+Töv Province
 Ulaanbaatar
 Uvs Province
 Zavkhan Province
 Sainshand
 Altanbulag
 Argalant
-Batsumber
+Batsümber
 Bayanchandmani
 Bayandelger
 Bayanjargalan
 Bayankhangai
-Bayan-Onjuul
+Bayan-Önjüül
 Bayan
 Bayantsagaan
 Bornuur
@@ -5804,9 +5803,9 @@ Delgerkhaan
 Erdene
 Erdenesant
 Jargalant
-Lun
-Mongonmorit
-Ondorshireet
+Lün
+Möngönmorit
+Öndörshireet
 Sergelen
 Tseel
 Ugtaal
@@ -10099,71 +10098,70 @@ Buganda
 Bunyoro
 Busoga
 Rwenzururu
-Cherkasy Oblast
-Chernihiv Oblast
-Chernivtsi Oblast
-Dnipropetrovsk Oblast
-Donetsk Oblast
-Ivano-Frankivsk Oblast
-Kharkiv Oblast
-Kherson Oblast
-Khmelnytskyi Oblast
-Kirovohrad Oblast
-Kyiv Oblast
+Cherkasy Region
+Chernihiv Region
+Chernivtsi Region
+Dnipro Region
+Donetsk Region
+Ivano-Frankivsk Region
+Kharkiv Region
+Kherson Region
+Khmelnytsky Region
+Kirovohrad Region
 Kyiv
-Luhansk Oblast
-Lviv Oblast
-Mykolaiv Oblast
-Odessa Oblast
-Poltava Oblast
-Rivne Oblast
-Sumy Oblast
-Ternopil Oblast
-Vinnytsia Oblast
-Volyn Oblast
-Zakarpattia Oblast
-Zaporizhia Oblast
-Zhytomyr Oblast
+Kyiv Region
+Luhansk Region
+Lviv Region
+Mykolayiv Region
+Odesa Region
+Poltava Region
+Rivne Region
+Sumy Region
+Ternopil Region
+Vinnytsya Region
+Volyn Region
+Zakarpattya Region
+Zaporizhya Region
+Zhytomyr Region
 Cherkasy
 Uman
 Chernihiv
 Nizhyn
 Chernivtsi
-Feodosia
-Yevpatoria
-Dniprodzerzhynsk
+Yevpatoriya
 Dnipro
-Kryvyi Rih
+Kamyanske
+Krivy Rih
 Nikopol
 Pavlohrad
 Bakhmut
 Horlivka
-Kostiantynivka
+Kostyantynivka
 Kramatorsk
-Makiivka
+Makiyivka
 Mariupol
-Sloviansk
-Yenakiieve
+Slovyansk
+Yenakiyeve
 Ivano-Frankivsk
 Kharkiv
 Kherson
-Kamianets-Podilskyi
-Khmelnytskyi
+Kamyanets-Podilsky
+Khmelnytsky
 Kirovohrad
-Oleksandriia
+Oleksandriya
 Bila Tserkva
 Brovary
 Alchevsk
-Krasnyi Luch
+Krasny Luch
 Luhansk
 Lysychansk
-Sievierodonetsk
 Stakhanov
+Syevyerodonetsk
 Drohobych
 Lviv
-Mykolaiv
-Izmail
-Odessa
+Mykolayiv
+Izmayil
+Odesa
 Kremenchuk
 Poltava
 Rivne
@@ -10171,13 +10169,13 @@ Konotop
 Shostka
 Sumy
 Ternopil
-Vinnytsia
+Vinnytsya
 Lutsk
 Mukacheve
 Uzhhorod
-Berdiansk
+Berdyansk
 Melitopol
-Zaporizhia
+Zaporizhya
 Berdychiv
 Zhytomyr
 Abu Dhabi
