@@ -165,7 +165,6 @@ Balranald
 Berrigan
 Edward River
 Greater Hume
-Snowy Valleys
 Urana
 Wakool
 Wentworth
@@ -223,6 +222,7 @@ Goulburn Mulwaree
 Hilltops
 Queanbeyan-Palerang
 Snowy Monaro
+Snowy Valleys
 Upper Lachlan
 Wingecarribee
 Yass Valley
@@ -277,20 +277,95 @@ Victoria Daly
 Wagait
 West Arnhem
 Blue Mud Bay
+Brisbane City Region
+Darling Downs and South West Region
+Far North Queensland and Torres Strait Region
+Fitzroy and Central West Region
+Gold Coast Region
+Ipswich and West Moreton Region
+Logan and Redlands Region
+Mackay-Isaac-Whitsunday Region
+Moreton Bay Region
+Sunshine Coast Region
+Townsville and North West Region
+Wide Bay Burnett Region
 Brisbane
-Cairns
-Cloncurry
-Croydon
-Gold Coast
-Ipswich
-Logan
-McKinlay
-Noosa
+Balonne
+Bulloo
+Goondiwindi
+Maranoa
+Murweh
+Paroo
+Quilpie
+Southern Downs
 Toowoomba
-Townsville
-Torres Strait Islands
+Western Downs
+Aurukun
+Cairns
+Cassowary Coast
+Cook
+Croydon
+Douglas
+Etheridge
+Hopevale
+Kowanyama
+Lockhart River
+Mapoon
+Mareeba
+Napranum
+Northern Peninsula Area
+Tablelands
+Torres Strait Island
+Weipa
+Wujal Wujal
+Yarrabah
 Murray Island
 Saibai Island
+Banana
+Barcaldine
+Barcoo
+Blackall-Tambo
+Central Highlands
+Diamantina
+Gladstone
+Livingstone
+Longreach
+Rockhampton
+Winton
+Woorabinda
+Gold Coast
+Ipswich
+Lockyer Valley
+Scenic Rim
+Somerset
+Logan
+Redland
+Isaac
+Mackay
+Whitsunday
+Moreton Bay
+Noosa
+Sunshine Coast
+Boulia
+Burdekin
+Burke
+Carpentaria
+Charters Towers
+Cloncurry
+Doomadgee
+Flinders
+Hinchinbrook
+McKinlay
+Mornington
+Mount Isa
+Palm Island
+Richmond
+Townsville
+Bundaberg
+Fraser Coast
+Gympie
+North Burnett
+South Burnett
 Adelaide Hills
 Adelaide
 Alexandrina
@@ -366,13 +441,11 @@ Break O Day
 Brighton
 Burnie
 Central Coast
-Central Highlands
 Circular Head
 Clarence City
 Derwent Valley
 Devonport
 Dorset
-Flinders
 George Town
 Glamorgan Spring Bay
 Glenorchy City
@@ -1693,7 +1766,6 @@ Coquitlam
 Delta
 Langley
 North Vancouver
-Richmond
 Surrey
 Vancouver
 Kamloops
@@ -4888,7 +4960,6 @@ Waterford
 Cavan
 Donegal
 Monaghan
-Douglas
 Ashdod
 Ashkelon
 Bat Yam
@@ -10345,7 +10416,6 @@ Nottinghamshire
 Oxfordshire
 Rutland
 Shropshire
-Somerset
 South Yorkshire
 Staffordshire
 Suffolk
