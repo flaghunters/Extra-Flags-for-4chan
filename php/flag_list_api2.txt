@@ -555,10 +555,154 @@ Melbourne
 Melton
 Moonee Valley
 Wyndham
+Goldfields-Esperance Region
+Great Southern Region
+Kimberley Region
+Mid West Gascoyne Region
+Peel Region
+Perth Region
+Pilbara Region
+South West Region
+Wheatbelt Region
+Coolgardie
+Dundas
+Esperance
+Kalgoorlie-Boulder
+Laverton
+Leonora
+Menzies
+Ngaanyatjarraku
+Ravensthorpe
+Albany
+Broomehill-Tambellup
+Cranbrook
+Denmark
+Gnowangerup
+Jerramungup
+Katanning
+Kent
+Kojonup
+Plantagenet
+Woodanilling
+Broome
+Derby-West Kimberley
+Halls Creek
+Wyndham-East Kimberley
+Carnamah
+Carnarvon
+Chapman Valley
+Coorow
+Cue
+Exmouth
+Greater Geraldton
+Irwin
+Meekatharra
+Mingenew
+Morawa
+Mount Magnet
+Murchison
+Northampton
+Perenjori
+Sandstone
+Shark Bay
+Three Springs
+Upper Gascoyne
+Wiluna
+Yalgoo
+Boddington
+Mandurah
+Murray
+Serpentine-Jarrahdale
+Waroona
+Armadale
+Bassendean
+Bayswater
+Belmont
+Cambridge
+Canning
+Claremont
+Cockburn
+Cottesloe
+East Fremantle
 Fremantle
+Gosnells
+Joondalup
+Kalamunda
+Kwinana
+Melville
+Mosman Park
+Mundaring
+Nedlands
+Peppermint Grove
 Perth
-Wanneroo
+Rockingham
 Rottnest Island
+South Perth
+Stirling
+Subiaco
+Swan
+Victoria Park
+Vincent
+Wanneroo
+Ashburton
+East Pilbara
+Karratha
+Port Hedland
+Augusta-Margaret River
+Boyup Brook
+Bridgetown-Greenbushes
+Bunbury
+Busselton
+Capel
+Collie
+Dardanup
+Donnybrook-Balingup
+Harvey
+Manjimup
+Nannup
+Beverley
+Brookton
+Bruce Rock
+Chittering
+Corrigin
+Cuballing
+Cunderdin
+Dalwallinu
+Dandaragan
+Dowerin
+Dumbleyung
+Gingin
+Goomalling
+Kellerberrin
+Kondinin
+Koorda
+Kulin
+Lake Grace
+Merredin
+Moora
+Mount Marshall
+Mukinbudin
+Narembeen
+Narrogin Shire
+Northam
+Nungarin
+Pingelly
+Quairading
+Tammin
+Toodyay
+Trayning
+Victoria Plains
+Wagin
+Wandering
+West Arthur
+Westonia
+Wickepin
+Williams
+Wongan-Ballidu
+Wyalkatchem
+Yilgarn
+York
+Narrogin
 Burgenland
 Kärnten
 Niederösterreich
@@ -1797,7 +1941,6 @@ London
 Niagara Region
 Northumberland County
 Ottawa
-Peel Region
 Peterborough County
 Rainy River District
 Renfrew County
@@ -1840,7 +1983,6 @@ Arnprior
 Barrie
 Cornwall
 Thunder Bay
-Cambridge
 Kitchener
 Guelph
 Aurora
@@ -10404,7 +10546,6 @@ Hampshire
 Herefordshire
 Hertfordshire
 Isle of Wight
-Kent
 Lancashire
 Leicestershire
 Lincolnshire
@@ -10536,7 +10677,6 @@ Preston
 St Annes on the Sea
 Lincoln
 Norwich
-York
 Ashfield
 Bassetlaw
 Broxtowe
@@ -10622,7 +10762,6 @@ Scottish Borders
 Shetland
 South Ayrshire
 South Lanarkshire
-Stirling
 West Dunbartonshire
 West Lothian
 Blaenau Gwent
@@ -10854,7 +10993,6 @@ Ventura County
 Yolo County
 Yuba County
 Alameda
-Albany
 Fremont
 Hayward
 Livermore
