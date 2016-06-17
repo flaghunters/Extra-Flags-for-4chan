@@ -382,75 +382,75 @@ Northern Governorate
 Southern Governorate
 Dhaka
 Bridgetown
-Brest Voblast
-Homiel Voblast
-Hrodna Voblast
-Mahilyow Voblast
+Brest Region
+Gomel Region
+Grodno Region
 Minsk
-Minsk Voblast
-Vitsebsk Voblast
-Baranavichy
+Minsk Region
+Mogilev Region
+Vitebsk Region
+Baranovichi
+Bereza
 Brest
-Byaroza
-Ivanava
-Ivatsevichy
-Kobryn
+Ivanovo
+Ivatsevichi
+Kobrin
 Luninets
 Pinsk
 Pruzhany
-Buda-Kashalyova
-Hoiniki
-Homiel
-Kalinkavichy
-Mazyr
-Rahachow
-Rechytsa
-Svietlahorsk
-Turaw
+Buda-Koshelevo
+Gomel
+Kalinkovichi
+Khoiniki
+Mozyr
+Rechitsa
+Rogachev
+Svetlogorsk
+Turov
 Zhlobin
-Dzyatlava
-Hrodna
-Iwye
+Dyatlovo
+Grodno
+Ive
 Lida
-Masty
-Navahrudak
-Skidzyel
+Mosty
+Novogrudok
+Skidel
 Slonim
-Smarhon
-Svislach
-Vawkavysk
-Asipovichy
-Babruysk
-Horki
-Klichaw
-Krychaw
-Mahilyow
-Slawharad
-Barysaw
-Dzyarzhynsk
-Kapyl
+Smorgon
+Svisloch
+Volkovysk
+Borisov
+Dzerzhinsk
 Kletsk
+Kopyl
 Krupki
 Lyuban
-Maladzyechna
-Maryina Horka
-Myadzyel
-Salihorsk
+Marina Gorka
+Molodechno
+Myadel
 Slutsk
-Smalyavichy
-Staryya Darohi
-Stowbtsy
-Vileyka
-Zhodzina
+Smolevichi
+Soligorsk
+Starye Dorogi
+Stolbtsy
+Vileika
+Zhodino
+Bobruysk
+Gorki
+Klichev
+Krichev
+Mogilev
+Osipovichi
+Slavgorod
 Baran
-Dubrouna
-Hlybokaye
-Lepiel
-Navapolatsk
+Dubrovno
+Glubokoe
+Lepel
+Novopolotsk
 Orsha
-Pastavy
-Polatsk
-Vitsebsk
+Polotsk
+Postavy
+Vitebsk
 Brussels
 Vlaanderen
 Wallonie
@@ -1476,7 +1476,6 @@ Razgrad
 Samuil
 Borovo
 Byala
-Ivanovo
 Ruse
 Slivo Pole
 Vetovo
@@ -7591,94 +7590,94 @@ Suceava
 Timisoara
 Tulcea
 Adygea
-Altai Krai
 Altai
-Amur Oblast
-Arkhangelsk Oblast
-Astrakhan Oblast
+Altai Territory
+Amur Region
+Arkhangelsk Region
+Astrakhan Region
 Bashkortostan
-Belgorod Oblast
-Bryansk Oblast
+Belgorod Region
+Bryansk Region
 Buryatia
 Chechnya
-Chelyabinsk Oblast
-Chukotka Autonomous Okrug
+Chelyabinsk Region
+Chukotka Autonomous Area
 Chuvashia
 Crimea
 Dagestan
 Ingushetia
-Irkutsk Oblast
-Ivanovo Oblast
-Jewish Autonomous Oblast
+Irkutsk Region
+Ivanovo Region
+Jewish Autonomous Region
 Kabardino-Balkaria
-Kaliningrad Oblast
+Kaliningrad Region
 Kalmykia
-Kaluga Oblast
-Kamchatka Krai
+Kaluga Region
+Kamchatka Territory
 Karachay-Cherkessia
 Karelia
-Kemerovo Oblast
-Khabarovsk Krai
+Kemerovo Region
+Khabarovsk Territory
 Khakassia
-Khanty-Mansi Autonomous Okrug
-Kirov Oblast
+Khanty-Mansi Autonomous Area
+Kirov Region
 Komi
-Kostroma Oblast
-Krasnodar Krai
-Krasnoyarsk Krai
-Kurgan Oblast
-Kursk Oblast
-Leningrad Oblast
-Lipetsk Oblast
-Magadan Oblast
+Kostroma Region
+Krasnodar Territory
+Krasnoyarsk Territory
+Kurgan Region
+Kursk Region
+Leningrad Region
+Lipetsk Region
+Magadan Region
 Mari El
 Mordovia
-Moscow Oblast
 Moscow
-Murmansk Oblast
-Nenets Autonomous Okrug
-Nizhny Novgorod Oblast
+Moscow Region
+Murmansk Region
+Nenets Autonomous Area
+Nizhny Novgorod Region
 North Ossetia-Alania
-Novgorod Oblast
-Novosibirsk Oblast
-Omsk Oblast
-Orenburg Oblast
-Oryol Oblast
-Penza Oblast
-Perm Krai
-Primorsky Krai
-Pskov Oblast
-Rostov Oblast
-Ryazan Oblast
+Novgorod Region
+Novosibirsk Region
+Omsk Region
+Orenburg Region
+Oryol Region
+Penza Region
+Perm Territory
+Primorsky Territory
+Pskov Region
+Rostov Region
+Ryazan Region
 Saint Petersburg
-Sakhalin Oblast
+Sakhalin Region
 Sakha
-Samara Oblast
-Saratov Oblast
+Samara Region
+Saratov Region
 Sevastopol
-Smolensk Oblast
-Stavropol Krai
-Sverdlovsk Oblast
-Tambov Oblast
+Smolensk Region
+Stavropol Territory
+Sverdlovsk Region
+Tambov Region
 Tatarstan
-Tomsk Oblast
-Tula Oblast
-Tver Oblast
-Tyumen Oblast
+Tomsk Region
+Tula Region
+Tver Region
+Tyumen Region
 Tyva
 Udmurtia
-Ulyanovsk Oblast
-Vladimir Oblast
-Volgograd Oblast
-Vologda Oblast
-Voronezh Oblast
-Yamalo-Nenets Autonomous Okrug
-Yaroslavl Oblast
-Zabaykalsky Krai
+Ulyanovsk Region
+Vladimir Region
+Volgograd Region
+Vologda Region
+Voronezh Region
+Yamalo-Nenets Autonomous Area
+Yaroslavl Region
+Zabaykalsky Region
 Maykop
 Barnaul
 Belokurikha
-Yarovoye
+Yarovoe
 Belogorsk
 Blagoveshchensk
 Raychikhinsk
@@ -7698,28 +7697,29 @@ Belgorod
 Shebekino
 Stary Oskol
 Bryansk
+Kyakhta
 Ulan-Ude
 Argun
 Grozny
 Chelyabinsk
+Emanzhelinsk
 Karabash
 Korkino
 Kusa
 Magnitogorsk
 Miass
-Ozyorsk
+Ozersk
 Plast
 Troitsk
-Yemanzhelinsk
 Zlatoust
 Anadyr
 Cheboksary
 Novocheboksarsk
-Feodosia
+Evpatoriya
+Feodosiya
 Kerch
 Simferopol
 Yalta
-Yevpatoria
 Makhachkala
 Magas
 Nazran
@@ -7747,21 +7747,21 @@ Vilyuchinsk
 Petrozavodsk
 Segezha
 Anzhero-Sudzhensk
-Guryevsk
+Gurevsk
 Kemerovo
 Leninsk-Kuznetsky
 Mezhdurechensk
 Novokuznetsk
-Prokopyevsk
+Prokopevsk
 Yurga
 Amursk
 Khabarovsk
 Komsomolsk-na-Amure
-Nikolayevsk-na-Amure
+Nikolaevsk-na-Amure
 Sovetskaya Gavan
 Abakan
 Chernogorsk
-Khanty-Mansiysk
+Khanty-Mansysk
 Langepas
 Lyantor
 Megion
@@ -7775,7 +7775,7 @@ Kirov
 Kotelnich
 Pervomaysky
 Slobodskoy
-Vyatskiye Polyany
+Vyatskie Polyany
 Inta
 Sosnogorsk
 Syktyvkar
@@ -7785,13 +7785,14 @@ Kostroma
 Armavir
 Gelendzhik
 Krasnodar
-Novorossiysk
+Novorossysk
 Sochi
 Achinsk
 Bogotol
 Borodino
 Dikson
 Dudinka
+Eniseysk
 Igarka
 Kansk
 Kodinsk
@@ -7804,7 +7805,6 @@ Tura
 Turukhansk
 Uyar
 Uzhur
-Yeniseysk
 Zelenogorsk
 Zheleznogorsk
 Dalmatovo
@@ -7819,10 +7819,10 @@ Kingisepp
 Kirishi
 Kirovsk
 Kommunar
-Lodeynoye Pole
-Otradnoye
-Pikalyovo
-Podporozhye
+Lodeynoe Pole
+Otradnoe
+Pikalevo
+Podporozhe
 Sertolovo
 Shlisselburg
 Slantsy
@@ -7833,10 +7833,10 @@ Volosovo
 Vsevolozhsk
 Vyborg
 Vysotsk
+Elets
 Gryazi
 Lebedyan
 Lipetsk
-Yelets
 Zadonsk
 Magadan
 Susuman
@@ -7851,6 +7851,7 @@ Dedovsk
 Dmitrov
 Dubna
 Dzherzhinsky
+Egorevsk
 Elektrostal
 Fryazino
 Istra
@@ -7858,7 +7859,7 @@ Kashira
 Khimki
 Klin
 Kolomna
-Korolyov
+Korolev
 Krasnogorsk
 Lobnya
 Lotoshino
@@ -7868,23 +7869,22 @@ Mytishchi
 Naro-Fominsk
 Noginsk
 Odintsovo
-Orekhovo-Zuyevo
+Orekhovo-Zuevo
 Ozyory
 Pavlovsky Posad
 Podolsk
 Pushkino
 Reutov
-Sergiyev Posad
+Sergiev Posad
 Serpukhov
 Shatura
-Shchyolkovo
+Shchelkovo
 Taldom
 Vereya
-Vidnoye
+Vidnoe
 Volokolamsk
 Voskhod
 Voskresensk
-Yegoryevsk
 Yubileyny
 Zaraysk
 Zheleznodorozhny
@@ -7901,7 +7901,7 @@ Polyarny
 Severomorsk
 Snezhnogorsk
 Zapolyarny
-Iskatelei
+Iskateley
 Naryan-Mar
 Kstovo
 Nizhny Novgorod
@@ -7911,7 +7911,7 @@ Staraya Russa
 Valday
 Veliky Novgorod
 Barabinsk
-Bolotnoye
+Bolotnoe
 Iskitim
 Karasuk
 Kupino
@@ -7927,38 +7927,38 @@ Buzuluk
 Orenburg
 Orsk
 Mtsensk
-Oryol
+Orel
 Kuznetsk
 Penza
 Berezniki
 Cherdyn
+Chermoz
 Chernushka
 Chusovoy
-Chyormoz
 Dobryanka
 Kizel
 Krasnokamsk
 Kudymkar
 Kungur
 Nytva
-Ochyor
+Ocher
 Okhansk
 Osa
 Perm
 Solikamsk
-Usolye
+Usole
 Vereshchagino
-Zvyozdny
-Arsenyev
-Artyom
+Zvezdny
+Arsenev
+Artem
 Bolshoy Kamen
 Dalnerechensk
 Nakhodka
 Partizansk
-Ussuriysk
+Ussurysk
 Vladivostok
 Pskov
-Velikiye Luki
+Velikie Luki
 Azov
 Belaya Kalitva
 Donetsk
@@ -7988,7 +7988,7 @@ Nevelsk
 Okha
 Poronaysk
 Severo-Kurilsk
-Shakhtyorsk
+Shakhtersk
 Tomari
 Yuzhno-Sakhalinsk
 Samara
@@ -7999,20 +7999,21 @@ Saratov
 Smolensk
 Vyazma
 Yartsevo
-Budyonnovsk
-Georgiyevsk
+Budennovsk
+Georgievsk
 Pyatigorsk
 Stavropol
 Zelenokumsk
 Aramil
-Beryozovsky
+Berezovsky
 Bisert
 Degtyarsk
+Ekaterinburg
 Ivdel
 Kachkanar
 Kamensk-Uralsky
 Karpinsk
-Krasnoturyinsk
+Krasnoturinsk
 Krasnoufimsk
 Krasnouralsk
 Lesnoy
@@ -8033,7 +8034,6 @@ Sredneuralsk
 Verkhnyaya Pyshma
 Verkhny Tagil
 Volchansk
-Yekaterinburg
 Kotovsk
 Tambov
 Chistopol
@@ -8044,14 +8044,14 @@ Seversk
 Tomsk
 Kimovsk
 Novomoskovsk
-Shchyokino
+Shchekino
 Tula
 Uzlovaya
 Konakovo
 Rzhev
 Torzhok
 Tver
-Vyshny Volochyok
+Vyshny Volochek
 Tobolsk
 Tyumen
 Yalutorovsk
@@ -10129,6 +10129,8 @@ Uman
 Chernihiv
 Nizhyn
 Chernivtsi
+Feodosia
+Yevpatoria
 Dniprodzerzhynsk
 Dnipro
 Kryvyi Rih
