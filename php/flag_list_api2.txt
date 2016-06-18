@@ -1886,7 +1886,7 @@ Nova Scotia
 Nunavut
 Ontario
 Prince Edward Island
-Quebec
+Québec
 Saskatchewan
 Yukon
 Calgary
@@ -1909,7 +1909,7 @@ Anmore
 Burnaby
 Coquitlam
 Delta
-Langley
+Langley Township
 Lions Bay
 North Vancouver District
 North Vancouver
@@ -2001,14 +2001,13 @@ Whitchurch-Stouffville
 Charlottetown
 Gatineau
 Laval
-Levis
+Lévis
 Longueuil
-Montreal
-Quebec City
+Montréal
 Saguenay
 Sherbrooke
 Terrebonne
-Trois-Rivieres
+Trois-Rivières
 Regina
 Saskatoon
 Bangui
@@ -6335,31 +6334,31 @@ Urk
 Zeewolde
 Achtkarspelen
 Ameland
-Dantumadeel
-De Friese Meren
+Dantumadiel
+De Fryske Marren
 Dongeradeel
 Ferwerderadiel
 Franekeradeel
-Gorredijk
 Harlingen
 Heerenveen
 Het Bildt
 Kollumerland en Nieuwkruisland
 Leeuwarden
 Leeuwarderdeel
-Littenseradeel
-Menaldumdeel
-Oldeberkoop
+Littenseradiel
+Menameradiel
 Ooststellingwerf
 Opsterland
 Schiermonnikoog
 Smallingerland
-Stavoren
 Súdwest Fryslân
 Terschelling
 Tytsjerksteradiel
 Vlieland
 Weststellingwerf
+Oldeberkoop
+Gorredijk
+Stavoren
 Aalten
 Apeldoorn
 Arnhem
