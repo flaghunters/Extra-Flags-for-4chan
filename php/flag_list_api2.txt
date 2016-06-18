@@ -11661,8 +11661,8 @@ Greene County
 Phelps County
 Platte County
 Schuyler County
-St. Charles County
-St. Louis
+St Charles County
+St Louis
 Jefferson City
 Billings
 Flathead County
@@ -11741,7 +11741,7 @@ Santa Fe County
 Sierra County
 Taos County
 Torrance County
-Albequerque
+Albuquerque
 Rio Rancho
 Las Cruces
 Santa Fe
@@ -11917,6 +11917,7 @@ Clatsop County
 Harney County
 Multnomah County
 Salem
+Allegheny County
 Beaver County
 Bedford County
 Berks County
@@ -11988,6 +11989,7 @@ Van Buren County
 Williamson County
 Nashville
 Chattanooga
+Knoxville
 Memphis
 Amarillo
 Austin County
