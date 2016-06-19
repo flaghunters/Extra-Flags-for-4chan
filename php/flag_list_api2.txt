@@ -5959,6 +5959,7 @@ Johor Bahru
 Muar
 Alor Setar
 Kota Bharu
+Menara Kuala Lumpur
 Petronas Twin Towers
 Port Dickson
 Kuantan
@@ -10698,6 +10699,7 @@ Tower Hamlets
 Waltham Forest
 Wandsworth
 Westminster
+Tower of London
 Bolton
 Bury
 Manchester
@@ -10796,6 +10798,7 @@ Lisburn and Castlereagh
 Mid and East Antrim
 Mid-Ulster
 Newry, Mourne and Down
+Giants Causeway
 Aberdeen
 Aberdeenshire
 Angus
@@ -10827,6 +10830,7 @@ South Ayrshire
 South Lanarkshire
 West Dunbartonshire
 West Lothian
+Edinburgh Castle
 Blaenau Gwent
 Bridgend
 Caerphilly
