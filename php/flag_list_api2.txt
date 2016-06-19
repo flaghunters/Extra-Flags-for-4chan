@@ -261,7 +261,6 @@ Waverley
 Willoughby
 Wollondilly
 Woollahra
-Sydney Opera House
 Alice Springs
 Barkly
 Central Desert
@@ -278,7 +277,6 @@ Victoria Daly
 Wagait
 West Arnhem
 Blue Mud Bay
-Uluru
 Brisbane City Region
 Darling Downs and South West Region
 Far North Queensland and Torres Strait Region
@@ -2016,7 +2014,6 @@ Arnprior
 Barrie
 Cornwall
 Thunder Bay
-CN Tower
 Kitchener
 Guelph
 Aurora
@@ -3876,8 +3873,6 @@ Seine-Saint-Denis
 Val-de-Marne
 Val-d Oise
 Yvelines
-Notre-Dame de Paris
-Tour Eiffel
 Gagny
 Aude
 Gard
@@ -5225,7 +5220,6 @@ Province of Latina
 Province of Rieti
 Province of Viterbo
 Roma
-Trevi Fountain
 Metropolitan City of Genova
 Province of Imperia
 Province of La Spezia
@@ -5959,8 +5953,6 @@ Johor Bahru
 Muar
 Alor Setar
 Kota Bharu
-Menara Kuala Lumpur
-Petronas Twin Towers
 Port Dickson
 Kuantan
 Ipoh
@@ -9060,7 +9052,6 @@ Laingsburg
 Prince Albert
 Cape Town
 Prince Edward Islands
-Table Mountain
 Marion Island
 Bitou
 George
@@ -9123,7 +9114,6 @@ Province of Sevilla
 Almería
 Cádiz
 Jerez de la Frontera
-Alhambra
 Huelva
 Jaén
 Málaga
@@ -10699,7 +10689,6 @@ Tower Hamlets
 Waltham Forest
 Wandsworth
 Westminster
-Tower of London
 Bolton
 Bury
 Manchester
@@ -10798,7 +10787,6 @@ Lisburn and Castlereagh
 Mid and East Antrim
 Mid-Ulster
 Newry, Mourne and Down
-Giants Causeway
 Aberdeen
 Aberdeenshire
 Angus
@@ -10830,7 +10818,6 @@ South Ayrshire
 South Lanarkshire
 West Dunbartonshire
 West Lothian
-Edinburgh Castle
 Blaenau Gwent
 Bridgend
 Caerphilly
@@ -11114,9 +11101,6 @@ Mission Viejo
 Rancho Santa Margarita
 San Clemente
 Stanton
-Disneyland Resort
-Disney California Adventure Park
-Disneyland Park
 Hemet
 La Quinta
 Moreno Valley
@@ -11270,10 +11254,8 @@ Palmetto Bay
 Pinecrest
 Fort Walton Beach
 Apopka
-Bay Lake
 Orlando
 Winter Park
-Walt Disney World Resort
 Boca Raton
 Juno Beach
 Jupiter
@@ -11439,7 +11421,6 @@ Schaumburg
 Schiller Park
 Thornton Township
 Wheeling Township
-Willis Tower
 Addison
 Bloomingdale
 Darien
@@ -11715,7 +11696,6 @@ Schuyler County
 St Charles County
 St Louis
 Jefferson City
-Gateway Arch
 Billings
 Flathead County
 Gallatin County
@@ -11841,11 +11821,10 @@ Yates County
 Buffalo
 Town of Oyster Bay
 Brooklyn
-Manhattan
+Manhatten
 Queens
 Staten Island
 The Bronx
-Statue of Liberty and Ellis Island
 Syracuse
 Troy
 Yonkers
@@ -12024,13 +12003,11 @@ Myrtle Beach
 North Charleston
 Oconee County
 Rock Hill
-Pennington County
 Pierre
 Rapid City
 Rosebud Sioux Tribe
 Sioux Falls
 Vermillion
-Mount Rushmore
 Blount County
 Campbell County
 Cheatham County
@@ -12109,7 +12086,6 @@ Garland
 Dallas
 Fort Worth
 Houston
-Space Center Houston
 Waco
 Corpus Christi
 Arlington
@@ -12220,7 +12196,6 @@ Bellevue
 Federal Way
 Renton
 Seattle
-Space Needle
 Puyallup
 Tacoma
 Everett
