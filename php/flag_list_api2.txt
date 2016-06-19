@@ -1902,20 +1902,46 @@ Nanaimo Regional District
 North Okanagan Regional District
 Okanagan-Similkameen Regional District
 Thompson-Nicola Regional District
-Saanich
+Central Saanich District
+Colwood
+Esquimalt Township
+Highlands District
+Langford
+Metchosin District
+North Saanich District
+Oak Bay District
+Saanich District
+Sidney
+Sooke District
+View Royal
 Kelowna
 Abbotsford
 Anmore
+Belcarra
+Bowen Island
 Burnaby
 Coquitlam
 Delta
+Electoral Area A
+Langley
 Langley Township
 Lions Bay
+Maple Ridge
+New Westminster
 North Vancouver District
 North Vancouver
+Pitt Meadows
+Port Coquitlam
+Port Moody
 Surrey
 Vancouver
 West Vancouver District
+White Rock
+University Endowment Lands
+Deep Cove
+Dollarton
+Edgemont
+Lynn Valley
 Kamloops
 Brandon
 Dauphin
@@ -4888,7 +4914,9 @@ Colón Department
 Comayagua Department
 Cortés Department
 Francisco Morazán Department
+Islas de la Bahía Department
 Tegucigalpa
+West Bay
 Central and Western District
 Eastern District
 Islands District
