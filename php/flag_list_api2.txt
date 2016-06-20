@@ -10845,12 +10845,9 @@ Vale of Glamorgan
 Wrexham
 Alabama
 Alaska
-Arapaho
 Arizona
 Arkansas
 California
-Cherokee
-Choctaw
 Colorado
 Connecticut
 Delaware
@@ -10872,7 +10869,6 @@ Minnesota
 Mississippi
 Missouri
 Native Americans
-Navajo
 Nebraska
 Nevada
 New Hampshire
@@ -10886,7 +10882,6 @@ Oklahoma
 Oregon
 Pennsylvania
 Rhode Island
-Sioux
 South Carolina
 South Dakota
 Tennessee
@@ -11727,6 +11722,14 @@ Gallatin County
 Lewis and Clark County
 Helena
 Yellowstone County
+Arapaho
+Cherokee
+Chickasaw
+Choctaw
+Muskogee
+Navajo
+O'odham
+Sioux
 Brown County
 Chase County
 Colfax County
