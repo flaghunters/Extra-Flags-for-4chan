@@ -10961,14 +10961,13 @@ Apache County
 Cochise County
 Coconino County
 Gila County
-Grand Canyon
+Graham County
 Greenlee County
 La Paz County
 Maricopa County
 Mohave County
 Navajo County
 Pima County
-Pima
 Pinal County
 Santa Cruz County
 Yavapai County
@@ -11057,6 +11056,7 @@ San Mateo County
 Santa Barbara County
 Santa Clara County
 Shasta County
+Sierra County
 Siskiyou County
 Solano County
 Sonoma County
@@ -11794,7 +11794,6 @@ Roosevelt County
 Sandoval County
 San Juan County
 Santa Fe County
-Sierra County
 Taos County
 Torrance County
 Albuquerque
