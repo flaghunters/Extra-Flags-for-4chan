@@ -6749,6 +6749,7 @@ Otago
 Palmerston North
 Southland
 The Snares
+Masterton
 Porirua
 Upper Hutt
 Dunedin
@@ -10912,6 +10913,7 @@ Greensboro
 Indian Springs
 Jackson
 Macon County
+Madison County
 Mobile County
 Montgomery
 Ozark
@@ -10921,6 +10923,7 @@ Tuscaloosa
 Vance
 Vestavia Hills
 Washington County
+Huntsville
 Mobile
 Anchorage
 Denali Borough
@@ -11206,13 +11209,11 @@ Cooper City
 Coral Springs
 Escambia County
 Fort Lauderdale
-Gulfport
 Hillsborough County
 Hollywood
 Key West
 Lakeland
 Lantana
-Largo
 Lauderdale Lakes
 Lauderhill
 Malabar
@@ -11226,7 +11227,7 @@ Orange Park
 Osceola County
 Palm Beach County
 Pasco County
-Pinellas Park
+Pinellas County
 Plantation
 Pompano Beach
 Port Orange
@@ -11235,7 +11236,6 @@ Punta Gorda
 Santa Rosa County
 Sarasota County
 St. Johns County
-St. Petersburg
 Tallahassee
 Tamarac
 West Melbourne
@@ -11264,6 +11264,11 @@ Boca Raton
 Juno Beach
 Jupiter
 Palm Beach
+Clearwater
+Gulfport
+Largo
+Pinellas Park
+St. Petersburg
 Gulf Breeze
 North Port
 Sarasota
@@ -11351,7 +11356,6 @@ Latah County
 Lemhi County
 Lewis County
 Lincoln County
-Madison County
 Minidoka County
 Nez Perce County
 Oneida County
