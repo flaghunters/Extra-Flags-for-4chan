@@ -10617,6 +10617,7 @@ County Durham
 Cumbria
 Derbyshire
 Devon
+East Anglia
 East Riding of Yorkshire
 East Sussex
 Essex
@@ -10630,10 +10631,13 @@ Isle of Wight
 Lancashire
 Leicestershire
 Lincolnshire
+Mercia
 Merseyside
+Middlesex
 Norfolk
 Northamptonshire
 Northumberland
+Northumbria
 North Yorkshire
 Nottinghamshire
 Oxfordshire
@@ -10642,13 +10646,17 @@ Shropshire
 South Yorkshire
 Staffordshire
 Suffolk
+Sussex
 Tyne and Wear
 Warwickshire
+Wessex
 West Midlands
+Westmorland
 West Sussex
 West Yorkshire
 Wiltshire
 Worcestershire
+Yorkshire
 Bedford
 Central Bedfordshire
 Luton
@@ -10803,11 +10811,19 @@ Walsall
 Wolverhampton
 Willenhall
 Bradford
+North Riding of Yorkshire
+West Riding of Yorkshire
 Antrim and Newtownabbey
 Ards and North Down
 Armagh, Banbridge and Craigavon
 Belfast
 Causeway Coast and Glens
+County Antrim
+County Armagh
+County Down
+County Fermanagh
+County Londonderry
+County Tyrone
 Derry and Strabane
 Fermanagh and Omagh
 Lisburn and Castlereagh
@@ -10818,6 +10834,8 @@ Aberdeen
 Aberdeenshire
 Angus
 Argyll and Bute
+Ayrshire
+Caithness
 Clackmannanshire
 Dumfries and Galloway
 Dundee
@@ -10847,6 +10865,7 @@ West Dunbartonshire
 West Lothian
 Blaenau Gwent
 Bridgend
+Caernarfonshire
 Caerphilly
 Cardiff
 Carmarthenshire
@@ -10856,6 +10875,7 @@ Denbighshire
 Flintshire
 Gwynedd
 Isle of Anglesey
+Meirionnydd
 Merthyr Tydfil
 Monmouthshire
 Neath Port Talbot
