@@ -1950,7 +1950,7 @@ Winnipeg
 Fredericton
 Moncton
 Saint John
-St Johns
+St John's
 Yellowknife
 Cape Breton Regional Municipality
 Halifax Regional Municipality
@@ -3793,7 +3793,7 @@ Normandie
 Pays de la Loire
 Picardie
 Poitou-Charentes
-Provence-Alpes-Côte d Azur
+Provence-Alpes-Côte d'Azur
 Rhône-Alpes
 Bas-Rhin
 Haut-Rhin
@@ -3976,7 +3976,7 @@ Marquesas Islands
 Society Islands
 Tuamotus
 Raivavae
-Rapa
+Rapa Iti
 Rimatara
 Rurutu
 Tubuai
@@ -3985,12 +3985,12 @@ Hiva Oa
 Nuku Hiva
 Tahuata
 Ua Huka
-Ua Pou
+Ua Pu
 Bora Bora
 Huahine
 Maupiti
-Moorea
-Raiatea
+Mo'orea-Mai'ao
+Ra'iatea
 Tahiti
 Arue
 Hao
@@ -5179,7 +5179,7 @@ Sicilia
 Toscana
 Trentino-Alto Adige
 Umbria
-Valle d Aosta
+Valle d'Aosta
 Veneto
 Province of Chieti
 Province of L Aquila
@@ -9434,7 +9434,7 @@ Yasothon Province
 Katanga
 Kinshasa
 Lomé
-Niuafoou
+Niuafo'ou
 Couva-Tabaquite-Talparo
 Diego Martin
 Mayaro-Rio Claro
@@ -11382,7 +11382,7 @@ Meridian
 Pocatello
 Sun Valley
 Caldwell
-Coeur de Alene
+Coeur d'Alene
 Post Falls
 Salmon
 Twin Falls
