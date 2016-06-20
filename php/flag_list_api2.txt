@@ -10927,20 +10927,36 @@ Vestavia Hills
 Washington County
 Huntsville
 Mobile
+Aleutians East Borough
 Anchorage
+Bristol Bay Borough
 Denali Borough
 Fairbanks North Star Borough
-Homer
+Haines Borough
 Juneau
-Ketchikan
+Kenai Peninsula Borough
+Ketchikan Gateway Borough
+Kodiak Island Borough
+Lake and Peninsula Borough
+Matanuska-Susitna Borough
 North Slope Borough
 Northwest Arctic Borough
-Seward
-Skagway Borough
-Thorne Bay
-Wasilla
+Petersburg Borough
+Sitka
+Skagway
+Unorganized Borough
 Wrangell
+Yakutat
+Fairbanks
 North Pole
+Homer
+Seward
+Ketchikan
+Wasilla
+Petersburg
+Bethel
+Thorne Bay
+Valdez
 Apache County
 Cochise County
 Coconino County
@@ -11009,6 +11025,7 @@ El Dorado County
 Fresno County
 Glenn County
 Humboldt County
+Imperial County
 Inyo County
 Kern County
 Kings County
@@ -11016,6 +11033,7 @@ Lake County
 Lassen County
 Los Angeles County
 Madera County
+Marin County
 Mariposa County
 Mendocino County
 Merced County
@@ -11175,7 +11193,6 @@ Pueblo
 Evans
 Thornton
 Ansonia
-Bethel
 Bridgeport
 Colchester
 Danbury
@@ -11318,17 +11335,10 @@ Walnut Grove
 Atlanta
 Douglasville
 Roswell
-Hawaii Island
+Hawaii County
 Honolulu
-Kauai
+Kauai County
 Maui County
-Nihoa
-Niihau
-Oahu
-Kahoolawe
-Laanai
-Maui
-Molokaii
 Ada County
 Adams County
 Bannock County
@@ -11834,7 +11844,7 @@ Yates County
 Buffalo
 Town of Oyster Bay
 Brooklyn
-Manhatten
+Manhattan
 Queens
 Staten Island
 The Bronx
@@ -12153,7 +12163,6 @@ Manassas
 Nelson County
 New Kent County
 Newport News
-Petersburg
 Pittsylvania County
 Poquoson
 Powhatan County
