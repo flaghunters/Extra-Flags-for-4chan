@@ -5387,18 +5387,43 @@ St Ouen
 St Peter
 Trinity
 Amman
-Aksu
-Aktobe
+Akmola Region
+Aktöbe Region
 Almaty
+Almaty Region
 Astana
-Baikonur
-Kapchagay
-Karaganda
-Kostanay
-Oskemen
-Pavlodar
+Atyrau Region
+Baykonyr
+East Kazakhstan Region
+Karagandy Region
+Kostanay Region
+Kyzylorda Region
+Mangystau Region
+North Kazakhstan Region
+Pavlodar Region
+South Kazakhstan Region
+West Kazakhstan Region
+Zhambyl Region
+Kökshetau
+Aktöbe
+Kapshagay
 Taldykorgan
-Zhetikara
+Atyrau
+Öskemen
+Semey
+Karagandy
+Aral
+Kostanay
+Rudny
+Zhitikara
+Kyzylorda
+Aktau
+Petropavl
+Aksu
+Pavlodar
+Shymkent
+Oral
+Taraz
 Baringo County
 Bomet County
 Bungoma County
@@ -10486,11 +10511,10 @@ Nebioglu
 Saltukova
 Zonguldak
 Aşgabat
-Ankole
 Buganda
-Bunyoro
+Bunyoro-Kitara
 Busoga
-Rwenzururu
+Kampala
 Cherkasy Region
 Chernihiv Region
 Chernivtsi Region
