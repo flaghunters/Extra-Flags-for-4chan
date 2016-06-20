@@ -3265,6 +3265,7 @@ Limón Province
 Puntarenas Province
 San José Province
 Alajuela
+Liberia
 Heredia
 Pococí
 Puerto Limón
@@ -3272,6 +3273,7 @@ Puntarenas
 Desamparados
 Goicoechea
 Pérez Zeledón
+Vásquez de Coronado
 Abidjan
 Bjelovar-Bilogora County
 Brod-Posavina County
@@ -11197,6 +11199,7 @@ Alachua County
 Arcadia
 Bay County
 Bonita Springs
+Brevard County
 Bunnell
 Bunnel
 Cape Coral
@@ -11578,6 +11581,7 @@ Livingston Parish
 Mamou
 Natchitoches Parish
 New Orleans
+Ouachita Parish
 Plaquemines Parish
 Rapides Parish
 St. Bernard Parish
@@ -11869,6 +11873,7 @@ Lenoir County
 McDowell County
 Mecklenburg County
 Mitchell County
+New Hanover County
 Onslow County
 Pitt County
 Rowan County
@@ -11877,6 +11882,7 @@ Stokes County
 Tyrrell County
 Vance County
 Wake County
+Wilson County
 Winston-Salem
 Asheville
 Chapel Hill
@@ -11884,6 +11890,7 @@ Raleigh
 Charlotte
 Greenville
 Cary
+Wilson
 Benson County
 Bismarck
 Fargo
@@ -12087,7 +12094,6 @@ Victoria County
 Walker County
 Ward County
 Webb County
-Wilson County
 Wise County
 Killeen
 Von Ormy
