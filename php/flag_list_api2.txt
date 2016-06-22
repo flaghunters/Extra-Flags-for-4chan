@@ -825,7 +825,7 @@ Oost-Vlaanderen
 Vlaams-Brabant
 West-Vlaanderen
 Aartselaar
-Antwerpen (Stad)
+Antwerpen (city)
 Arendonk
 Baarle-Hertog
 Balen
@@ -1131,7 +1131,7 @@ Zonnebeke
 Zuienkerke
 Brabant-Wallon
 Hainaut
-Liege
+Liège
 Luxembourg
 Namur
 Beauvechain
@@ -1268,7 +1268,7 @@ Herve
 Huy
 Juprelle
 La Calamine
-Liège
+Liège (city)
 Lierneux
 Limbourg
 Lincent
@@ -3518,7 +3518,6 @@ Midtjylland
 Nordjylland
 Sjælland
 Syddanmark
-Bornholm
 København
 Frederikssund 
 Aarhus
@@ -9283,51 +9282,26 @@ Para District
 Longyearbyen
 Manzini
 Mbabane
-Ångermanland
 Blekinge County
-Blekinge
-Bohuslän
 Dalarna County
-Dalarna
-Dalsland
-Gastrikland
 Gävleborg County
 Gotland County
-Gotland
 Halland County
-Halland
-Hälsingland
-Härjedalen
 Jämtland County
-Jämtland
 Jönköping County
 Kalmar County
 Kronoberg County
-Lappland
-Medelpad
-Närke
 Norrbotten County
-Norrbotten
-Öland
 Örebro County
 Östergötland County
-Östergötland
 Skåne County
-Skåne
-Småland
 Södermanland County
-Södermanland
 Stockholm County
-Uppland
 Uppsala County
 Värmland County
-Värmland
 Västerbotten County
-Västerbotten
-Västergötland
 Västernorrland County
 Västmanland County
-Västmanland
 Västra Götaland County
 Kalmar
 Helsingborg
@@ -11702,13 +11676,20 @@ Kenner
 Westwego
 Thibodaux
 Mandeville
+Androscoggin County
 Aroostook County
-Bangor
 Cumberland County
 Kennebec County
+Knox County
+Oxford County
+Penobscot County
+Piscataquis County
 Sagadahoc County
+Somerset County
+Waldo County
 York County
 Portland
+Bangor
 Lubec
 Biddeford
 Allegany County
@@ -11727,7 +11708,6 @@ Howard County
 Montgomery County
 Prince Georges County
 Queen Annes County
-Somerset County
 St. Marys County
 Talbot County
 Wicomico County
@@ -11831,7 +11811,6 @@ Dodge County
 Garden County
 Hall County
 Keith County
-Knox County
 Lancaster County
 Nuckolls County
 Omaha
@@ -11857,6 +11836,8 @@ Las Vegas
 Reno
 Belknap County
 Cheshire County
+Coös County
+Grafton County
 Merrimack County
 Rockingham County
 Strafford County
@@ -12216,6 +12197,10 @@ Salt Lake City
 West Valley City
 Orem
 Provo
+Addison County
+Bennington County
+Caledonia County
+Chittenden County
 Accomack County
 Amherst County
 Appomattox County
