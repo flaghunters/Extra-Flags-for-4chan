@@ -8466,7 +8466,9 @@ Chistopol
 Kazan
 Naberezhnye Chelny
 Zelenodolsk
+Kedrovy
 Seversk
+Strezhevoy
 Tomsk
 Kimovsk
 Novomoskovsk
@@ -11261,60 +11263,98 @@ Wilmington
 Delmar
 Lewes
 Alachua County
-Arcadia
+Baker County
 Bay County
-Bonita Springs
+Bradford County
 Brevard County
 Broward County
-Bunnell
-Bunnel
-Cape Coral
-Casey Key Island
-Chattahoochee
+Calhoun County
+Charlotte County
+Citrus County
 Clay County
-Coconut Creek
 Collier County
-Cooper City
-Coral Springs
+Columbia County
+DeSoto County
+Dixie County
+Duval County
 Escambia County
-Fort Lauderdale
+Flagler County
+Franklin County
+Gadsden County
+Gilchrist County
+Glades County
+Gulf County
+Hamilton County
+Hardee County
+Hendry County
+Hernando County
+Highlands County
 Hillsborough County
-Hollywood
-Key West
-Lakeland
-Lantana
-Lauderdale Lakes
-Lauderhill
-Malabar
-Margate
+Holmes County
+Indian River County
+Jackson County
+Jefferson County
+Lafayette County
+Lee County
+Leon County
+Levy County
+Liberty County
+Manatee County
 Marion County
+Martin County
 Miami-Dade County
-North Lauderdale
-Oakland Park
+Monroe County
+Nassau County
 Okaloosa County
-Orange Park
+Okeechobee County
 Osceola County
 Palm Beach County
 Pasco County
 Pinellas County
-Plantation
-Pompano Beach
-Port Orange
-Port St. Lucie
-Punta Gorda
+Polk County
+Putnam County
 Santa Rosa County
 Sarasota County
-St. Johns County
-Tallahassee
-Tamarac
-West Melbourne
+Seminole County
+St Johns County
+St Lucie County
+Sumter County
+Suwannee County
+Taylor County
+Union County
+Volusia County
+Wakulla County
+Walton County
 Gainesville
 Callaway
 Panama City
+Malabar
+West Melbourne
+Coconut Creek
+Cooper City
+Coral Springs
+Fort Lauderdale
+Hollywood
+Lauderdale Lakes
+Lauderhill
+Margate
+North Lauderdale
+Oakland Park
+Plantation
+Pompano Beach
+Tamarac
+Punta Gorda
+Orange Park
 Marco Island
 Naples
+Arcadia
 Pensacola
+Bunnell
+Chattahoochee
 Tampa
+Bonita Springs
+Cape Coral
+Tallahassee
 Aventura
 Coral Gables
 Cutler Bay
@@ -11325,6 +11365,7 @@ Miami
 Opa-locka
 Palmetto Bay
 Pinecrest
+Key West
 Fort Walton Beach
 Apopka
 Orlando
@@ -11332,15 +11373,19 @@ Winter Park
 Boca Raton
 Juno Beach
 Jupiter
+Lantana
 Palm Beach
 Clearwater
 Gulfport
 Largo
 Pinellas Park
 St. Petersburg
+Lakeland
 Gulf Breeze
 North Port
 Sarasota
+Port St Lucie
+Port Orange
 Alto
 Aragon
 Athens
@@ -11406,12 +11451,10 @@ Cassia County
 Clark County
 Clearwater County
 Elmore County
-Franklin County
 Fremont County
 Gem County
 Gooding County
 Idaho County
-Jefferson County
 Jerome County
 Kootenai County
 Latah County
@@ -11463,7 +11506,6 @@ Norridge
 Park Ridge
 Plainfield Township
 Plano
-Putnam County
 Robinson
 Round Lake
 Sangamon County
@@ -11561,7 +11603,6 @@ Linn County
 Mahaska County
 O Brien County
 Osage
-Polk County
 Red Oak
 Sioux City
 Templeton
@@ -11723,7 +11764,6 @@ Baraga County
 Barry County
 Benzie County
 Berrien County
-Calhoun County
 Cheboygan County
 Chippewa County
 Genesee County
@@ -11834,7 +11874,6 @@ Morris County
 Ocean County
 Passaic County
 Salem County
-Union County
 Warren County
 Mount Laurel Township
 Jersey City
@@ -11865,16 +11904,12 @@ Cayuga County
 Chautauqua County
 Chemung County
 Chenango County
-Columbia County
 Cortland County
 Delaware County
 Dutchess County
 Erie County
-Hamilton County
 Herkimer County
 Livingston County
-Monroe County
-Nassau County
 New York City
 Niagara County
 Onondaga County
@@ -11934,7 +11969,6 @@ Harnett County
 Henderson County
 Hertford County
 Hoke County
-Jackson County
 Johnston County
 Lenoir County
 McDowell County
@@ -11984,7 +12018,6 @@ Guernsey County
 Henry County
 Highland County
 Hocking County
-Holmes County
 Huron County
 Lawrence County
 Licking County
@@ -12026,7 +12059,6 @@ Rogers County
 Tulsa County
 Tulsa
 Broken Arrow
-Baker County
 Clackamas County
 Clatsop County
 Harney County
@@ -12037,7 +12069,6 @@ Beaver County
 Bedford County
 Berks County
 Blair County
-Bradford County
 Bucks County
 Cambria County
 Cameron County
@@ -12134,7 +12165,6 @@ Harris County
 Hidalgo County
 Hockley County
 Houston County
-Liberty County
 Lipscomb County
 Live Oak County
 Llano County
@@ -12193,7 +12223,6 @@ Augusta County
 Bath County
 Bland County
 Charles City County
-Charlotte County
 Charlottesville
 Chesapeake
 Chesterfield County
