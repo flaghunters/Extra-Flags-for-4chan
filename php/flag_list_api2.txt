@@ -6803,20 +6803,21 @@ Bounty Islands
 Campbell Islands
 Chatham Islands
 Christchurch
-Greater Wellington
 Grey District
 Kermadec Islands
 Nelson
-Otago
+Northland Region
+Otago Region
 Palmerston North
-Southland
+Southland Region
 The Snares
-Masterton
-Porirua
-Upper Hutt
+Wellington Region
 Dunedin
 Lawrence
 Stewart Island
+Masterton
+Porirua
+Upper Hutt
 Boaco Department
 Caribe Norte Autonomous Region
 Caribe Sur Autonomous Region
@@ -12225,6 +12226,10 @@ Caledonia County
 Chittenden County
 Grand Isle County
 Lamoille County
+Rutland County
+Windham County
+Windsor County
+Barre
 Accomack County
 Amherst County
 Appomattox County
