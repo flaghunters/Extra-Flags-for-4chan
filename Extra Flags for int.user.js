@@ -9,7 +9,7 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.25
+// @version     0.26
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -236,7 +236,6 @@ var setup = {
             setup.save(radioVariable, radio);
 
             alert('Flags set: ' + regions + '\n\n' +
-                'Refresh all your 4chan tabs!');
 
             this.disabled = true;
             this.innerHTML = 'Saving...';
