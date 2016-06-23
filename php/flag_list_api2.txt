@@ -104,6 +104,7 @@ Yerevan
 Ashmore and Cartier Islands
 Australian Capital Territory
 Coral Sea Islands
+Murray River
 New South Wales
 Northern Territory
 Queensland
@@ -119,6 +120,8 @@ North Canberra
 Tuggeranong
 Weston Creek
 Woden Valley
+Lower Murray River
+Upper Murray River
 Central Coast Region
 Central West Region
 Far West Region
@@ -436,7 +439,6 @@ Whyalla
 Wudinna
 Yankalilla
 Yorke Peninsula
-Lower Murray River
 Berri Barmera
 Coorong
 Karoonda East Murray
