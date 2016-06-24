@@ -9230,17 +9230,15 @@ Castilla-La Mancha
 Castilla y León
 Cataluña
 Ceuta
-Community of Madrid
 Extremadura
 Galicia
 Islas Baleares
 Islas Canarias
 La Rioja
 Melilla
+Murcia
 Navarra
 País Vasco
-Region of Murcia
-Valencian Community
 Province of Almeria
 Province of Cádiz
 Province of Córdoba
@@ -9290,12 +9288,6 @@ Sabadell
 Terrassa
 Lleida
 Tarragona
-Alcalá de Henares
-Alcorcón
-Fuenlabrada
-Getafe
-Leganés
-Móstoles
 Province of Badajoz
 Province of Cáceres
 Badajoz
@@ -9322,12 +9314,19 @@ La Gomera
 San Cristóbal de La Laguna
 Santa Cruz de Tenerife
 Logroño
+Alcalá de Henares
+Alcorcón
+Fuenlabrada
+Getafe
+Leganés
+Madrid (city)
+Móstoles
+Murcia (city)
 Araba
 Bizkaia
 Gipuzkoa
 Vitoria-Gasteiz
 Bilbao
-Murcia
 Province of Alicante
 Province of Castellón
 Province of Valencia
