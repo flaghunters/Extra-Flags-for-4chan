@@ -272,6 +272,7 @@ Waverley
 Willoughby
 Wollondilly
 Woollahra
+Northern Territory Region
 Alice Springs
 Barkly
 Central Desert
@@ -451,6 +452,7 @@ Orroroo Carrieton
 Peterborough
 Port Pirie
 Yorke Peninsula
+Tasmania Region
 Break O Day
 Brighton
 Burnie
@@ -10740,7 +10742,7 @@ Wing
 Horningsea
 Huntingdonshire
 Chester
-Cornwall (unitary authority)
+Cornwall (district)
 Isles of Scilly
 Falmouth
 Hayle
@@ -10770,6 +10772,13 @@ Purbeck
 West Dorset
 Weymouth and Portland
 Isle of Portland
+Cheltenham
+Cotswold
+Forest of Dean
+Gloucester
+South Gloucestershire
+Stroud
+Tewkesbury
 Barking and Dagenham
 Barnet
 Bexley
@@ -10825,6 +10834,7 @@ Test Valley
 Winchester
 Petersfield
 Gosport (town)
+Herefordshire (district)
 Broxbourne
 Dacorum
 East Hertfordshire
@@ -10852,6 +10862,8 @@ Nottingham
 Rushcliffe
 Hampton Poyle
 Wroxton
+Shropshire (district)
+Telford and Wrekin
 Bath and North East Somerset
 Mendip
 North Somerset
@@ -10887,6 +10899,14 @@ Walsall
 Wolverhampton
 Willenhall
 Bradford
+Swindon
+Wiltshire (district)
+Bromsgrove
+Malvern Hills
+Redditch
+Worcester
+Wychavon
+Wyre Forest
 Antrim and Newtownabbey
 Ards and North Down
 Armagh, Banbridge and Craigavon
@@ -11817,7 +11837,6 @@ Taunton
 Lowell
 Medford
 Boston
-Worcester
 Alcona County
 Alger County
 Alpena County
