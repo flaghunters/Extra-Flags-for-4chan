@@ -9225,20 +9225,20 @@ South Jeolla Province
 Ulsan
 Aragón
 Asturias
-Balearic Islands
-Basque Country
-Canary Islands
 Cantabria
-Castilla and León
 Castilla-La Mancha
+Castilla y León
 Cataluña
 Ceuta
 Community of Madrid
 Extremadura
 Galicia
+Islas Baleares
+Islas Canarias
 La Rioja
 Melilla
 Navarra
+País Vasco
 Region of Murcia
 Valencian Community
 Province of Almeria
@@ -9261,28 +9261,13 @@ Province of Teruel
 Province of Zaragoza
 Gijón
 Oviedo
-Formentera
-Ibiza
-Majorca
-Minorca
-Palma
-Mahón
-Araba
-Bizkaia
-Gipuzkoa
-Vitoria-Gasteiz
-Bilbao
-Province of Las Palmas
-Province of Santa Cruz de Tenerife
-Fuerteventura
-Gran Canaria
-Lanzarote
-Las Palmas de Gran Canaria
-El Hierro
-La Gomera
-San Cristóbal de La Laguna
-Santa Cruz de Tenerife
 Santander
+Province of Albacete
+Province of Ciudad Real
+Province of Cuenca
+Province of Guadalajara
+Province of Toledo
+Albacete
 Province of Ávila
 Province of Burgos
 Province of León
@@ -9294,12 +9279,6 @@ Province of Valladolid
 Province of Zamora
 Burgos
 Valladolid
-Province of Albacete
-Province of Ciudad Real
-Province of Cuenca
-Province of Guadalajara
-Province of Toledo
-Albacete
 Province of Barcelona
 Province of Girona
 Province of Lleida
@@ -9326,7 +9305,28 @@ Province of Lugo
 Province of Ourense
 Province of Pontevedra
 Vigo
+Formentera
+Ibiza
+Majorca
+Minorca
+Palma
+Mahón
+Province of Las Palmas
+Province of Santa Cruz de Tenerife
+Fuerteventura
+Gran Canaria
+Lanzarote
+Las Palmas de Gran Canaria
+El Hierro
+La Gomera
+San Cristóbal de La Laguna
+Santa Cruz de Tenerife
 Logroño
+Araba
+Bizkaia
+Gipuzkoa
+Vitoria-Gasteiz
+Bilbao
 Murcia
 Province of Alicante
 Province of Castellón
@@ -12497,12 +12497,12 @@ Anzoátegui
 Apure
 Aragua
 Barinas
-Capital District
 Carabobo
 Cojedes
 Delta Amacuro
+Dependencias Federales
+Distrito Capital
 Falcón
-Federal Dependencies
 Guárico
 Lara
 Mérida
@@ -12519,10 +12519,10 @@ Maracay
 Turmero
 Barinas (city)
 Upata
-Libertador
 Guacara
 Naguanagua
 Puerto Cabello
+Libertador
 Punto Fijo
 Zaraza
 Barquisimeto
