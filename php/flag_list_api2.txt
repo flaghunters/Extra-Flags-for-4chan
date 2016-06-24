@@ -377,68 +377,53 @@ Fraser Coast
 Gympie
 North Burnett
 South Burnett
+Adelaide Hills, Fleurieu and Kangaroo Island Region
+Adelaide Metropolitan Region
+Barossa Region
+Far North Region
+Limestone Coast Region
+Murraylands and Riverland Region
+Whyalla and Eyre Peninsula Region
+Yorke and Mid North Region
 Adelaide Hills
-Adelaide
 Alexandrina
-Anangu Pitjantjatjara Yankunytjatjara
-Barossa
-Barunga West
-Burnside
-Ceduna
-Charles Sturt
-Clare and Gilbert Valleys
-Cleve
-Coober Pedy
-Copper Coast
-Elliston
-Flinders Ranges
-Franklin Harbour
-Gawler
-Goyder
-Grant
-Holdfast Bay
 Kangaroo Island
-Kimba
-Kingston
-Light
-Lower Eyre Peninsula
-Mallala
+Mount Barker
+Yankalilla
+Adelaide
+Burnside
+Charles Sturt
+Coober Pedy
+Holdfast Bay
 Marion
 Mitcham
-Mount Barker
-Mount Gambier
-Mount Remarkable
-Murray Mallee
-Naracoorte Lucindale
-Northern Areas
 Norwood Payneham & St Peters
 Onkaparinga
-Orroroo Carrieton
-Outback Communities Authority
-Peterborough
 Playford
 Port Adelaide Enfield
-Port Augusta
-Port Lincoln
-Port Pirie
 Prospect
-Robe
-Roxby Downs
 Salisbury
-Streaky Bay
-Tatiara
 Tea Tree Gully
-Tumby Bay
 Unley
 Victor Harbor
-Wakefield
 Walkerville
-Wattle Range
 West Torrens
-Whyalla
 Wudinna
-Yankalilla
-Yorke Peninsula
+Barossa
+Gawler
+Light
+Mallala
+Anangu Pitjantjatjara Yankunytjatjara
+Flinders Ranges
+Port Augusta
+Roxby Downs
+Grant
+Kingston
+Mount Gambier
+Naracoorte Lucindale
+Robe
+Tatiara
+Wattle Range
 Berri Barmera
 Coorong
 Karoonda East Murray
@@ -447,6 +432,25 @@ Mid Murray
 Murray Bridge
 Renmark Paringa
 Southern Mallee
+Ceduna
+Cleve
+Elliston
+Franklin Harbour
+Kimba
+Lower Eyre Peninsula
+Port Lincoln
+Streaky Bay
+Tumby Bay
+Whyalla
+Clare and Gilbert Valleys
+Copper Coast
+Goyder
+Mount Remarkable
+Northern Areas
+Orroroo Carrieton
+Peterborough
+Port Pirie
+Yorke Peninsula
 Break O Day
 Brighton
 Burnie
