@@ -10872,6 +10872,14 @@ South Somerset
 Taunton Deane
 West Somerset
 Bath
+Cannock Chase
+East Staffordshire
+Lichfield
+Newcastle-under-Lyme
+South Staffordshire
+Stafford
+Staffordshire Moorlands
+Stoke-on-Trent
 Elmbridge
 Epsom and Ewell
 Guildford
@@ -10889,6 +10897,11 @@ Newcastle upon Tyne
 North Tyneside
 South Tyneside
 Sunderland
+North Warwickshire
+Nuneaton and Bedworth
+Rugby
+Stratford-on-Avon
+Warwick
 Birmingham
 Coventry
 Dudley
@@ -12182,7 +12195,6 @@ Easton
 Philadelphia
 Newport County
 Providence County
-Warwick
 East Providence
 Providence
 Anderson County
