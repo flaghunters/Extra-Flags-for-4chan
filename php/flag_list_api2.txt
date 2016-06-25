@@ -2061,7 +2061,10 @@ Trois-Rivières
 Saguenay
 Regina
 Saskatoon
+Mosteiros
 Praia
+Ribeira Brava
+Sal
 Bangui
 Ndjamena
 Antofagasta Region
@@ -7922,7 +7925,6 @@ Machico
 Ponta do Sol
 Porto Moniz
 Porto Santo
-Ribeira Brava
 Alter do Chão
 Arronches
 Avis
@@ -10979,6 +10981,7 @@ Sandwell
 Solihull
 Walsall
 Wolverhampton
+Sutton Coldfield
 Willenhall
 Bradford
 Swindon
