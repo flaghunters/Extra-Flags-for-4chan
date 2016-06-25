@@ -473,13 +473,13 @@ Kingborough
 King Island
 Latrobe
 Launceston
-Macquarie Island
 Meander Valley
 Northern Midlands
 Tasman
 Waratah Wynyard
 West Coast
 West Tamar
+Macquarie Island
 Barwon South West Region
 Gippsland Region
 Grampians Region
@@ -6807,12 +6807,8 @@ Loyalty Islands Province
 North Province
 South Province
 Nouméa
-Antipodes Islands
-Auckland Islands
 Auckland
 Bay of Plenty Region
-Bounty Islands
-Campbell Islands
 Canterbury Region
 Chatham Islands
 Gisborne District
@@ -6821,12 +6817,12 @@ Kermadec Islands
 Manawatu-Wanganui Region
 Marlborough District
 Nelson
+New Zealand Sub-Antarctic Islands
 Northland Region
 Otago Region
 Southland Region
 Taranaki Region
 Tasman District
-The Snares
 Waikato Region
 Wellington Region
 West Coast Region
@@ -6860,6 +6856,11 @@ Stratford District
 Tararua District
 Waitomo District
 Whanganui District
+Antipodes Islands
+Auckland Islands
+Bounty Islands
+Campbell Islands
+The Snares
 Far North District
 Kaipara District
 Whangarei District
