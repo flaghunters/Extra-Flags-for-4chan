@@ -11340,19 +11340,27 @@ Centennial
 Pueblo
 Evans
 Thornton
-Ansonia
+Fairfield County
+Hartford County
+Litchfield County
+Middlesex County
+New Haven County
+New London County
+Tolland County
+Windham County
 Bridgeport
-Colchester
 Danbury
+Stamford
+Westport
 East Hartford
 Hartford
+New Milford
+Ansonia
 Milford
 New Haven
-New Milford
-Stamford
 Waterbury
-Westport
 Woodmont
+Colchester
 Kent County
 New Castle County
 Sussex County
@@ -11851,7 +11859,6 @@ Bristol County
 Dukes County
 Hampden County
 Hampshire County
-Middlesex County
 Nantucket County
 Norfolk County
 Plymouth County
@@ -12112,7 +12119,6 @@ Crawford County
 Cuyahoga County
 Darke County
 Defiance County
-Fairfield County
 Gallia County
 Geauga County
 Guernsey County
@@ -12206,6 +12212,8 @@ Pottstown
 Springfield Township
 Easton
 Philadelphia
+Newport County
+Providence County
 East Providence
 Providence
 Anderson County
@@ -12322,7 +12330,6 @@ Chittenden County
 Grand Isle County
 Lamoille County
 Rutland County
-Windham County
 Windsor County
 Barre
 Accomack County
