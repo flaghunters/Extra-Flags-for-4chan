@@ -11835,19 +11835,32 @@ Garden City
 Johnson County
 Kiowa County
 Leavenworth
+Miami County
 Osborne County
 Topeka
 Wichita
 Wyandotte County
+Bonner Springs
 De Soto
+Edgerton
+Fairway
 Gardner
+Lake Quivira
 Leawood
 Lenexa
 Merriam
+Mission Hills
+Mission
+Mission Woods
 Olathe
 Overland Park
 Prairie Village
+Roeland Park
 Shawnee
+Spring Hill
+Westwood Hills
+Westwood
+Edwardsville
 Kansas City
 Bell County
 Berea
@@ -12241,7 +12254,6 @@ Lucas County
 Mahoning County
 Medina County
 Meigs County
-Miami County
 Morrow County
 Muskingum County
 Noble County
@@ -12355,7 +12367,6 @@ Nashville
 Chattanooga
 Knoxville
 Memphis
-Spring Hill
 Amarillo
 Austin County
 Bandera County
