@@ -4914,19 +4914,20 @@ Guatemala
 Puerto Barrios
 Quetzaltenango
 Alderney
-Brecqhou
+Guernsey
+Sark
 Castel
 Forest
-Herm
-Sark
-St Andrew
-St Martin
-St Peter Port
-St Pierre du Bois
-St Sampson
-St Saviour
+Saint Andrew
+Saint Martin
+Saint Peter Port
+Saint Pierre du Bois
+Saint Sampson
+Saint Saviour
 Torteval
 Vale
+Herm
+Brecqhou
 Bissau
 Bissorã
 Farim
@@ -5465,11 +5466,9 @@ Saint Brélade
 Saint Clément
 Saint Helier
 Saint Lawrence
-Saint Martin
 Saint Mary
 Saint Ouen
 Saint Peter
-Saint Saviour
 Trinity
 Amman
 Akmola Region
