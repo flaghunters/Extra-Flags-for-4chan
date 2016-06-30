@@ -1994,6 +1994,7 @@ Frontenac County
 Greater Sudbury
 Grey County
 Halton Region
+Hastings County
 Kenora District
 London
 Niagara Region
@@ -2029,6 +2030,7 @@ Burlington
 Halton Hills
 Milton
 Oakville
+Belleville
 Kenora
 Niagara Falls
 St Catharines
@@ -11814,7 +11816,6 @@ West Chicago
 Carbondale
 Toluca
 Springfield
-Belleville
 East St. Louis
 Mascoutah
 Avilla
