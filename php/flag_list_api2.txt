@@ -12613,9 +12613,18 @@ Daggett County
 Davis County
 Duchesne County
 Emery County
+Garfield County
+Iron County
+Juab County
+Millard County
+Piute County
+Rich County
 Salt Lake County
+Sanpete County
+Tooele County
 Utah County
 Wasatch County
+Weber County
 Beaver
 Brigham
 Corinne
@@ -12700,7 +12709,6 @@ Chelan County
 Clallam County
 Cowlitz County
 Ferry County
-Garfield County
 Grant County
 Grays Harbor County
 Island County
