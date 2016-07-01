@@ -10917,6 +10917,10 @@ Reading
 Wing
 Horningsea
 Huntingdonshire
+Cheshire East
+Cheshire West and Chester
+Halton
+Warrington
 Chester
 Cornwall (district)
 Isles of Scilly
@@ -11026,11 +11030,28 @@ Three Rivers
 Watford
 Welwyn Hatfield
 St Albans (town)
+Blackburn with Darwen
 Blackpool
+Burnley
+Chorley
 Fylde
+Hyndburn
+Lancaster
+Pendle
 Preston
-St Annes on the Sea
+Ribble Valley
+Rossendale
+South Ribble
+West Lancashire
+Wyre
+Kirkham
+Lytham St Annes
+St Annes-on-the-Sea
 Lincoln
+Knowsley
+Sefton
+St Helens
+Wirral
 Norwich
 Northumberland (district)
 Ashfield
@@ -11074,7 +11095,7 @@ Woking
 Guildford (town)
 Woking (town)
 Gateshead
-Newcastle upon Tyne
+Newcastle-upon-Tyne
 North Tyneside
 South Tyneside
 Sunderland
@@ -11417,7 +11438,6 @@ Eagle Rock
 El Monte
 Gardena
 La Crescenta-Montrose
-Lancaster
 Lawndale
 Lomita
 Long Beach
