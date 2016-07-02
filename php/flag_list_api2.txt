@@ -1491,11 +1491,26 @@ Santa Catarina
 São Paulo
 Sergipe
 Tocantins
+Acrelândia
+Assis Brasil
 Brasiléia
+Bujari
+Capixaba
 Cruzeiro do Sul
+Epitaciolândia
+Feijó
+Jordão
 Mâncio Lima
+Manoel Urbano
+Marechal Thaumaturgo
 Plácido de Castro
+Porto Acre
+Porto Walter
 Rio Branco
+Rodrigues Alves
+Santa Rosa do Purus
+Senador Guiomard
+Sena Madureira
 Tarauacá
 Xapuri
 Arapiraca
@@ -1503,11 +1518,16 @@ Maceió
 Palmeira dos Índios
 Penedo
 União dos Palmares
+Laranjal do Jari
 Macapá
 Santana
+Serra do Navio
 Autazes
+Barcelos
 Benjamin Constant
 Borba
+Caapiranga
+Carauari
 Careiro
 Coari
 Eirunepe
@@ -1518,6 +1538,8 @@ Manaus
 Maues
 Parintins
 São Gabriel da Cachoeira
+São Sebastião do Uatumã
+Silves
 Tefé
 Barreiras
 Feira de Santana
@@ -1666,13 +1688,13 @@ Amajari
 Boa Vista
 Bonfim
 Cantá
-Caracaraí
+Caracarai
 Caroebe
 Iracema
 Mucajaí
 Normandia
 Pacaraima
-Rorainópolis
+Rorainopolis
 São João da Baliza
 São Luiz
 Uiramutã
@@ -7876,7 +7898,6 @@ Ourique
 Serpa
 Vidigueira
 Amares
-Barcelos
 Braga
 Cabeceiras de Basto
 Celorico de Basto
@@ -7951,7 +7972,6 @@ Monchique
 Olhão
 Portimão
 São Brás de Alportel
-Silves
 Tavira
 Vila do Bispo
 Vila Real de Santo António
@@ -9371,6 +9391,16 @@ South Chungcheong Province
 South Gyeongsang Province
 South Jeolla Province
 Ulsan
+Bupyeong District
+Dong District
+Ganghwa District
+Gyeyang District
+Jung District
+Nam District
+Namdong District
+Ongjin District
+Seo District
+Yeonsu District
 Jeju
 Seogwipo
 Dobong District
@@ -9386,7 +9416,6 @@ Guro District
 Gwanak District
 Gwangjin District
 Jongno District
-Jung District
 Jungnang District
 Mapo District
 Nowon District
@@ -12337,7 +12366,6 @@ Rio Rancho
 Las Cruces
 Santa Fe
 Albany County
-Bronx County
 Broome County
 Cattaraugus County
 Cayuga County
