@@ -4605,6 +4605,7 @@ Region Hannover
 Salzgitter
 Wilhelmshaven
 Wolfsburg
+Burgdorf
 Bezirk Arnsberg
 Bezirk Detmold
 Bezirk Düsseldorf
@@ -11099,7 +11100,6 @@ Warrington
 Chester
 Cornwall (district)
 Isles of Scilly
-Falmouth
 Hayle
 County Durham (district)
 Darlington
@@ -12372,6 +12372,7 @@ Nantucket
 Norfolk County
 Plymouth County
 Suffolk County
+Falmouth
 New Bedford
 Taunton
 Boxford
