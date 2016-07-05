@@ -11309,33 +11309,37 @@ Aberdeen
 Aberdeenshire
 Angus
 Argyll and Bute
+Ayrshire and Arran
+Banffshire
+Berwickshire
+Caithness
 Clackmannanshire
 Dumfries and Galloway
+Dumfries
+Dunbartonshire
 Dundee
-East Ayrshire
-East Dunbartonshire
 East Lothian
-East Renfrewshire
 Edinburgh
-Falkirk
 Fife
 Glasgow
-Highland
-Inverclyde
+Inverness
+Kincardineshire
+Kirkcudbrightshire
+Lanarkshire
 Midlothian
 Moray
-North Ayrshire
-North Lanarkshire
+Nairn
 Orkney
-Outer Hebrides
 Perth and Kinross
 Renfrewshire
-Scottish Borders
+Ross and Cromarty
+Roxburgh, Ettrick and Lauderdale
 Shetland
-South Ayrshire
-South Lanarkshire
-West Dunbartonshire
+Stirling and Falkirk
+Tweeddale
+Western Isles
 West Lothian
+Wigtownshire
 Blaenau Gwent
 Bridgend
 Caerphilly
@@ -12087,6 +12091,7 @@ DuPage County
 Galena
 Godfrey
 Heyworth
+Highland
 Jasper County
 Joliet
 Kane County
