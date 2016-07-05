@@ -12221,21 +12221,43 @@ Anamosa
 Cedar Rapids
 Des Moines
 Windsor Heights
+Allen County
 Atchison County
-Dodge City
-Emporia
-Garden City
+Bourbon County
+Crawford County
+Doniphan County
+Finney County
+Ford County
 Johnson County
 Kiowa County
-Leavenworth
+Labette County
+Leavenworth County
+Lyon County
 Miami County
+Neosho County
 Osborne County
-Topeka
-Wichita
+Sedgwick County
+Shawnee County
 Wyandotte County
+Elsmore
+Humboldt
+Iola
+Moran
+Atchison
+Effingham
+Fort Scott
+Baxter Springs
+Weir
+Arma
+Frontenac
+Girard
+Troy
+Wathena
 Baldwin City
 Eudora
 Lecompton
+Garden City
+Dodge City
 Bonner Springs
 De Soto
 Edgerton
@@ -12256,6 +12278,28 @@ Shawnee
 Spring Hill
 Westwood Hills
 Westwood
+Altamont
+Chetopa
+Edna
+Mound Valley
+Oswego
+Parsons
+Basehor
+Leavenworth
+Tonganoxie
+Blue Mound
+La Cygne
+Linn Valley
+Mound City
+Pleasanton
+Emporia
+Louisburg
+Osawatomie
+Chanute
+Erie
+St. Paul
+Wichita
+Topeka
 Edwardsville
 Kansas City
 Bell County
@@ -12471,7 +12515,6 @@ Elko County
 Esmeralda County
 Eureka County
 Lander County
-Lyon County
 Mineral County
 Nye County
 Pershing County
@@ -12567,7 +12610,6 @@ Queens
 Staten Island
 The Bronx
 Syracuse
-Troy
 Yonkers
 Alamance County
 Alleghany County
@@ -12622,7 +12664,6 @@ Benson County
 Bismarck
 Fargo
 Grand Forks
-Allen County
 Ashland County
 Ashtabula County
 Athens County
@@ -12633,7 +12674,6 @@ Champaign County
 Clermont County
 Columbiana County
 Coshocton County
-Crawford County
 Cuyahoga County
 Darke County
 Defiance County
@@ -12718,7 +12758,6 @@ Bristol Township
 Coatesville
 Meadville
 Harrisburg
-Erie
 Huntingdon
 East Lampeter Township
 Allentown
