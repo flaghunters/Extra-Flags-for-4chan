@@ -11064,8 +11064,6 @@ County Durham
 Cumbria
 Derbyshire
 Devon
-East Riding of Yorkshire
-East Sussex
 Essex
 Gloucestershire
 Greater London
@@ -11081,21 +11079,19 @@ Merseyside
 Norfolk
 Northamptonshire
 Northumberland
-North Yorkshire
 Nottinghamshire
 Oxfordshire
 Rutland
 Shropshire
-South Yorkshire
 Staffordshire
 Suffolk
+Sussex
 Tyne and Wear
 Warwickshire
 West Midlands
-West Sussex
-West Yorkshire
 Wiltshire
 Worcestershire
+Yorkshire
 Bedford
 Central Bedfordshire
 Luton
@@ -11141,8 +11137,6 @@ Purbeck
 West Dorset
 Weymouth and Portland
 Isle of Portland
-East Riding of Yorkshire (district)
-Kingston upon Hull
 Cheltenham
 Cotswold
 Forest of Dean
@@ -11281,6 +11275,8 @@ Tandridge
 Woking
 Guildford (town)
 Woking (town)
+East Sussex
+West Sussex
 Gateshead
 Newcastle-upon-Tyne
 North Tyneside
@@ -11300,7 +11296,6 @@ Walsall
 Wolverhampton
 Sutton Coldfield
 Willenhall
-Bradford
 Swindon
 Wiltshire (district)
 Bromsgrove
@@ -11309,6 +11304,13 @@ Redditch
 Worcester
 Wychavon
 Wyre Forest
+East Riding of Yorkshire
+North Yorkshire
+South Yorkshire
+West Yorkshire
+East Riding of Yorkshire (district)
+Kingston upon Hull
+Bradford
 Belfast
 County Antrim
 County Armagh
