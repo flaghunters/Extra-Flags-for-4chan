@@ -4320,7 +4320,28 @@ Six-Fours-les-Plages
 Toulon
 Avignon
 Le Pontet
+Apatou
+Awala-Yalimapo
+Camopi
 Cayenne
+Grand-Santi
+Iracoubo
+Kourou
+Macouria
+Mana
+Maripasoula
+Matoury
+Montsinéry-Tonnegrande
+Ouanary
+Papaïchton
+Régina
+Remire-Montjoly
+Roura
+Saint-Élie
+Saint-Georges
+Saint-Laurent-du-Maroni
+Saül
+Sinnamary
 Austral Islands
 Gambier Islands
 Marquesas Islands
@@ -5201,7 +5222,11 @@ Ivittuut
 Nuuk
 Paamiut
 Tasiilaq
+Baie-Mahault
 Basse-Terre
+Lamentin
+Le Moule
+Les Abymes
 Pointe-à-Pitre
 Terre-de-Haut
 Agana Heights
@@ -6549,6 +6574,12 @@ Namdrik Atoll
 Rongelap Atoll
 Ujae Atoll
 Utirik Atoll
+Case-Pilote
+Fort-de-France
+Le Carbet
+Le Lamentin
+Saint-Joseph
+Schœlcher
 Flacq District
 Grand Port District
 Moka District
