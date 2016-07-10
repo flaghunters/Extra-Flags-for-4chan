@@ -8254,6 +8254,42 @@ Vieira do Minho
 Vila Nova de Famalicão
 Vila Verde
 Vizela
+Adaúfe
+Antas
+Forjães 
+Gemeses
+Vila Chã
+Aldão
+Azurém
+Barco
+Brito
+Caldelas
+Costa
+Creixomil
+Fermentões
+Gonça
+Gondar
+Guardizela
+Infantas
+Longos
+Lordelo
+Mesão Frio
+Moreira de Cónegos
+Nespereira
+Pencelo
+Pinheiro
+Polvoreira
+Ponte
+Ronfe
+Santa Eufémia de Prazins
+São Cristóvão de Selho
+São Jorge de Selho
+São Martinho de Candoso
+São Martinho de Sande
+São Torcato
+Serzedelo
+Silvares
+Urgezes
 Alfândega da Fé
 Carrazeda de Ansiães
 Freixo de Espada à Cinta
@@ -8293,6 +8329,14 @@ Penela
 Soure
 Tábua
 Vila Nova de Poiares
+Almalagues
+Brasfemes
+Ceira
+Cernache
+Santo António dos Olivais
+São João do Campo
+São Silvestre
+Torres do Mondego
 Alandroal
 Arraiolos
 Estremoz
@@ -8319,6 +8363,9 @@ São Brás de Alportel
 Tavira
 Vila do Bispo
 Vila Real de Santo António
+Santa Bárbara de Nexe
+Luz
+Odiáxere
 Aguiar da Beira
 Celorico da Beira
 Figueira de Castelo Rodrigo
@@ -8425,6 +8472,8 @@ Trofa
 Valongo
 Vila do Conde
 Vila Nova de Gaia
+Paranhos
+Ramalde
 Abrantes
 Alcanena
 Almeirim
@@ -8471,7 +8520,6 @@ Vila Nova de Cerveira
 Alijó
 Boticas
 Chaves
-Mesão Frio
 Mondim de Basto
 Montalegre
 Murça
