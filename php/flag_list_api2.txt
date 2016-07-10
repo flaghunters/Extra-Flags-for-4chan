@@ -588,15 +588,20 @@ Melbourne
 Melton
 Moonee Valley
 Wyndham
-Goldfields-Esperance Region
-Great Southern Region
-Kimberley Region
-Mid West Gascoyne Region
-Peel Region
+Gascoyne
+Goldfields-Esperance
+Great Southern
+Kimberley
+Mid West
+Peel
 Perth Region
-Pilbara Region
-South West Region
-Wheatbelt Region
+Pilbara
+South West
+Wheatbelt
+Carnarvon
+Exmouth
+Shark Bay
+Upper Gascoyne
 Coolgardie
 Dundas
 Esperance
@@ -622,11 +627,9 @@ Derby-West Kimberley
 Halls Creek
 Wyndham-East Kimberley
 Carnamah
-Carnarvon
 Chapman Valley
 Coorow
 Cue
-Exmouth
 Greater Geraldton
 Irwin
 Meekatharra
@@ -637,9 +640,7 @@ Murchison
 Northampton
 Perenjori
 Sandstone
-Shark Bay
 Three Springs
-Upper Gascoyne
 Wiluna
 Yalgoo
 Boddington
@@ -2047,6 +2048,7 @@ London
 Niagara Region
 Northumberland County
 Ottawa
+Peel Region
 Peterborough County
 Rainy River District
 Renfrew County
@@ -9248,7 +9250,6 @@ Central Singapore
 North East
 North West
 South East
-South West
 Ang Mo Kio
 Bishan-Toa Payoh
 Jalan Besar
