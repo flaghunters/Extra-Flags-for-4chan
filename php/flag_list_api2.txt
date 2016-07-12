@@ -89,6 +89,7 @@ Catamarca Province
 Chaco Province
 Chubut Province
 Córdoba Province
+Corrientes Province
 Entre Ríos Province
 Formosa Province
 Jujuy Province
@@ -106,14 +107,70 @@ Santa Fe Province
 Santiago del Estero Province
 Tierra del Fuego Province
 Tucumán Province
+San Nicolás
+Bahía Blanca
+Berisso
+Carmen de Patagones
+Florencio Varela
+Lanús
 La Plata
+Lomas de Zamora
 Mar del Plata
+Necochea
+Quilmes
+San Fernando
+San Isidro
+San Miguel
+San Nicolás de los Arroyos
+Tandil
+Tigre
+Tres Arroyos
+San Fernando del Valle de Catamarca
+Gaiman
+Rawson
+Trelew
 Córdoba
+Río Cuarto
+Villa María
+Curuzú Cuatiá
+San Salvador de Jujuy
+General Pico
+Santa Rosa
 Mendoza
+Centenario
+Cutral Có
 Neuquén
+Plottier
+Zapala
+Allen
+Cipolletti
+General Roca
+San Antonio Oeste
+San Carlos de Bariloche
+Viedma
+Villa Regina
+Salta
+San Luis
+Villa de Merlo
+Villa Mercedes
+Caleta Olivia
+Cañadón Seco
+El Calafate
+El Chaltén
+Jaramillo
+Las Heras
+Perito Moreno
+Pico Truncado
+Puerto Deseado
+Puerto Santa Cruz
 Río Gallegos
+Río Turbio
+Veintiocho de Noviembre
 Rosario
+Santa Fe
 Santiago del Estero
+Río Grande
+Ushuaia
 San Miguel de Tucumán
 Gyumri
 Vagharshapat
@@ -2212,7 +2269,6 @@ Quirihue
 San Carlos
 San Fabián
 San Ignacio
-San Nicolás
 San Pedro de la Paz
 San Rosendo
 Santa Bárbara
@@ -2303,7 +2359,6 @@ Placilla
 Rancagua
 Rengo
 Requínoa
-San Fernando
 Santa Cruz
 Buin
 Calera de Tango
@@ -2342,7 +2397,6 @@ Renca
 San Bernardo
 San Joaquín
 San José de Maipo
-San Miguel
 San Pedro
 San Ramón
 Santiago
@@ -2541,7 +2595,6 @@ San Francisco
 San Jerónimo
 San José de la Montaña
 San Juan de Urabá
-San Luis
 San Pedro de los Milagros
 San Pedro de Urabá
 San Roque
@@ -2630,7 +2683,6 @@ San Martín de Loba
 San Pablo
 Santa Catalina de Alejandría
 Santa Rosa del Sur
-Santa Rosa
 Simití
 Soplaviento
 Talaigua Nuevo
@@ -8559,7 +8611,6 @@ Peñuelas
 Ponce
 Quebradillas
 Rincón
-Río Grande
 Sabana Grande
 San Germán
 San Juan
@@ -12781,7 +12832,6 @@ Torrance County
 Albuquerque
 Rio Rancho
 Las Cruces
-Santa Fe
 Albany County
 Broome County
 Cattaraugus County
