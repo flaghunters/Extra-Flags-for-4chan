@@ -6800,19 +6800,20 @@ Cetinje
 Danilovgrad
 Gusinje
 Herceg Novi
-Kolasin
+Kolašin
 Kotor
 Mojkovac
-Niksic
+Nikšić
+Petnjica
 Plav
 Pljevlja
-Pluzine
+Plužine
 Podgorica
-Rozaje
-Savnik
+Rožaje
+Šavnik
 Tivat
 Ulcinj
-Zabljak
+Žabljak
 Agadir
 Al Hoceima
 Azilal
@@ -9269,10 +9270,25 @@ Dakar
 Beograd
 Kosovo
 Kragujevac
-Nis
+Niš
 Vojvodina
+Barajevo
+Čukarica
+Grocka
+Lazarevac
+Mladenovac
+Novi Beograd
+Obrenovac
+Palilula
+Savski Venac
+Stari Grad
+Surčin
+Voždovac
+Vračar
+Zemun
+Zvezdara
 Novi Sad
-Pancevo
+Pančevo
 Subotica
 Zrenjanin
 Western Area
