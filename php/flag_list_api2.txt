@@ -186,7 +186,6 @@ South Australia
 Tasmania
 Victoria
 Western Australia
-Australian Capital Territory Region
 Belconnen
 Gunghalin
 Inner South
@@ -350,7 +349,6 @@ Waverley
 Willoughby
 Wollondilly
 Woollahra
-Northern Territory Region
 Alice Springs
 Barkly
 Central Desert
@@ -456,23 +454,43 @@ Fraser Coast
 Gympie
 North Burnett
 South Burnett
-Adelaide Hills, Fleurieu and Kangaroo Island Region
-Adelaide Metropolitan Region
-Barossa Region
-Far North Region
-Limestone Coast Region
-Murraylands and Riverland Region
-Whyalla and Eyre Peninsula Region
-Yorke and Mid North Region
+Central
+Eyre Peninsula
+Metropolitan
+Murray Mallee
+Outback
+South East
+Southern and Hills
+Barossa
+Clare and Gilbert Valleys
+Copper Coast
+Flinders Ranges
+Goyder
+Light
+Mallala
+Mount Remarkable
+Northern Areas
+Orroroo Carrieton
+Peterborough
+Port Pirie
+Yorke Peninsula
+Ceduna
+Cleve
+Elliston
+Franklin Harbour
+Kimba
+Lower Eyre Peninsula
+Port Augusta
+Port Lincoln
+Streaky Bay
+Tumby Bay
+Whyalla
+Wudinna
 Adelaide Hills
-Alexandrina
-Kangaroo Island
-Mount Barker
-Yankalilla
 Adelaide
 Burnside
 Charles Sturt
-Coober Pedy
+Gawler
 Holdfast Bay
 Marion
 Mitcham
@@ -484,25 +502,8 @@ Prospect
 Salisbury
 Tea Tree Gully
 Unley
-Victor Harbor
 Walkerville
 West Torrens
-Wudinna
-Barossa
-Gawler
-Light
-Mallala
-Anangu Pitjantjatjara Yankunytjatjara
-Flinders Ranges
-Port Augusta
-Roxby Downs
-Grant
-Kingston
-Mount Gambier
-Naracoorte Lucindale
-Robe
-Tatiara
-Wattle Range
 Berri Barmera
 Coorong
 Karoonda East Murray
@@ -511,26 +512,21 @@ Mid Murray
 Murray Bridge
 Renmark Paringa
 Southern Mallee
-Ceduna
-Cleve
-Elliston
-Franklin Harbour
-Kimba
-Lower Eyre Peninsula
-Port Lincoln
-Streaky Bay
-Tumby Bay
-Whyalla
-Clare and Gilbert Valleys
-Copper Coast
-Goyder
-Mount Remarkable
-Northern Areas
-Orroroo Carrieton
-Peterborough
-Port Pirie
-Yorke Peninsula
-Tasmania Region
+Anangu Pitjantjatjara Yankunytjatjara
+Coober Pedy
+Roxby Downs
+Grant
+Kingston
+Mount Gambier
+Naracoorte Lucindale
+Robe
+Tatiara
+Wattle Range
+Alexandrina
+Kangaroo Island
+Mount Barker
+Victor Harbor
+Yankalilla
 Break O Day
 Brighton
 Burnie
@@ -655,7 +651,6 @@ Great Southern
 Kimberley
 Mid West
 Peel
-Perth Region
 Pilbara
 South West
 Wheatbelt
@@ -687,28 +682,6 @@ Broome
 Derby-West Kimberley
 Halls Creek
 Wyndham-East Kimberley
-Carnamah
-Chapman Valley
-Coorow
-Cue
-Greater Geraldton
-Irwin
-Meekatharra
-Mingenew
-Morawa
-Mount Magnet
-Murchison
-Northampton
-Perenjori
-Sandstone
-Three Springs
-Wiluna
-Yalgoo
-Boddington
-Mandurah
-Murray
-Serpentine-Jarrahdale
-Waroona
 Armadale
 Bassendean
 Bayswater
@@ -739,6 +712,28 @@ Swan
 Victoria Park
 Vincent
 Wanneroo
+Carnamah
+Chapman Valley
+Coorow
+Cue
+Greater Geraldton
+Irwin
+Meekatharra
+Mingenew
+Morawa
+Mount Magnet
+Murchison
+Northampton
+Perenjori
+Sandstone
+Three Springs
+Wiluna
+Yalgoo
+Boddington
+Mandurah
+Murray
+Serpentine-Jarrahdale
+Waroona
 Ashburton
 East Pilbara
 Karratha
@@ -9300,7 +9295,6 @@ Western Area
 Central Singapore
 North East
 North West
-South East
 Ang Mo Kio
 Bishan-Toa Payoh
 Jalan Besar
