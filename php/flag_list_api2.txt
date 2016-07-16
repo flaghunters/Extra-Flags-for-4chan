@@ -8920,20 +8920,19 @@ Kaluga
 Lyudinovo
 Aleutsky District
 Bystrinsky District
-Elizovo
 Elizovsky District
-Koryak Area
+Karaginsky District
 Milkovsky District
+Olyutorsky District
+Palana
+Penzhinsky District
 Petropavlovsk-Kamchatsky
 Sobolevsky District
+Tigilsky District
 Ust-Bolsheretsky District
 Ust-Kamchatsky District
 Vilyuchinsk
-Karaginsky District
-Olyutorsky District
-Penzhinsky District
-Tigilsky District
-Palana
+Elizovo
 Klyuchi
 Petrozavodsk
 Segezha
@@ -8945,9 +8944,25 @@ Mezhdurechensk
 Novokuznetsk
 Prokopevsk
 Yurga
-Amursk
+Amursky District
+Ayano-Maysky District
+Bikinsky District
+Imeni Lazo District
+Imeni Poliny Osipenko District
 Khabarovsk
+Khabarovsky District
 Komsomolsk-na-Amure
+Komsomolsky District
+Nanaysky District
+Nikolaevsky District
+Okhotsky District
+Solnechny
+Sovetsko-Gavansky District
+Tuguro-Chumikansky District
+Vaninsky District
+Vyazemsky District
+Amursk
+Bikin
 Nikolaevsk-na-Amure
 Sovetskaya Gavan
 Abakan
@@ -8991,7 +9006,6 @@ Krasnoyarsk
 Minusinsk
 Norilsk
 Sharypovo
-Solnechny
 Tura
 Turukhansk
 Uyar
