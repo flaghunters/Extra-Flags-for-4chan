@@ -8883,6 +8883,13 @@ Plast
 Troitsk
 Zlatoust
 Anadyr
+Anadyrsky District
+Bilibinsky District
+Chaunsky District
+Chukotsky District
+Iultinsky District
+Providensky District
+Bilibino
 Cheboksary
 Novocheboksarsk
 Evpatoriya
@@ -8911,10 +8918,23 @@ Sovetsk
 Elista
 Kaluga
 Lyudinovo
+Aleutsky District
+Bystrinsky District
 Elizovo
-Palana
+Elizovsky District
+Koryak Area
+Milkovsky District
 Petropavlovsk-Kamchatsky
+Sobolevsky District
+Ust-Bolsheretsky District
+Ust-Kamchatsky District
 Vilyuchinsk
+Karaginsky District
+Olyutorsky District
+Penzhinsky District
+Tigilsky District
+Palana
+Klyuchi
 Petrozavodsk
 Segezha
 Anzhero-Sudzhensk
@@ -9010,6 +9030,8 @@ Lebedyan
 Lipetsk
 Zadonsk
 Magadan
+Severo-Evensky District
+Susumansky District
 Susuman
 Yoshkar-Ola
 Saransk
