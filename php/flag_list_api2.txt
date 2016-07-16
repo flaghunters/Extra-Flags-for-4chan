@@ -553,15 +553,11 @@ Waratah Wynyard
 West Coast
 West Tamar
 Macquarie Island
-Barwon South West Region
-Gippsland Region
-Grampians Region
-Hume Region
-Loddon Mallee Region
-Melbourne East Region
-Northern Melbourne Region
-Southern Melbourne Region
-Western Melbourne Region
+Barwon South West
+Gippsland
+Grampians
+Hume
+Loddon Mallee
 Colac Otway
 Corangamite
 Glenelg
@@ -615,36 +611,35 @@ Macedon Ranges
 Mildura
 Mount Alexander
 Swan Hill
-Boroondara
-Knox
-Manningham
-Maroondah
-Monash
-Whitehorse
-Yarra Ranges
 Banyule
-Darebin
-Hume
-Moreland
-Nillumbik
-Whittlesea
-Yarra
 Bayside
+Boroondara
+Brimbank
 Cardinia
 Casey
+Darebin
 Frankston
 Glen Eira
 Greater Dandenong
-Mornington Peninsula
-Port Phillip
-Stonnington
-Brimbank
 Hobsons Bay
+Knox
+Manningham
 Maribyrnong
+Maroondah
 Melbourne
 Melton
+Monash
 Moonee Valley
+Moreland
+Mornington Peninsula
+Nillumbik
+Port Phillip
+Stonnington
+Whitehorse
+Whittlesea
 Wyndham
+Yarra
+Yarra Ranges
 Gascoyne
 Goldfields-Esperance
 Great Southern
