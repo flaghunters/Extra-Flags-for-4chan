@@ -5695,9 +5695,10 @@ Valle d'Aosta
 Veneto
 Province of Chieti
 Province of L Aquila
+Province of L'Aquila
 Province of Pescara
 Province of Teramo
-L Aquila
+L'Aquila
 Province of Matera
 Province of Potenza
 Potenza
@@ -5706,6 +5707,7 @@ Province of Catanzaro
 Province of Cosenza
 Province of Crotone
 Province of Vibo Valentia
+Reggio Calabria
 Catanzaro
 Metropolitan City of Napoli
 Province of Avellino
