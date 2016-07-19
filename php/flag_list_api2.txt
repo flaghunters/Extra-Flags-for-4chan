@@ -105,26 +105,153 @@ Santa Fe Province
 Santiago del Estero Province
 Tierra del Fuego Province
 Tucumán Province
+Agronomía
+Almagro
+Balvanera
+Barracas
+Belgrano
+Boedo
+Caballito
+Chacarita
+Coghlan
+Colegiales
+Constitución
+Flores
+Floresta
+La Boca
+La Paternal
+Liniers
+Mataderos
+Monte Castro
+Montserrat
+Nueva Pompeya
+Núñez
+Palermo
+Parque Avellaneda
+Parque Chacabuco
+Parque Chas
+Parque Patricios
+Puerto Madero
+Recoleta
+Retiro
+Saavedra
+San Cristobal
 San Nicolás
+San Telmo
+Velez Sarfield
+Versalles
+Villa Crespo
+Villa del Parque
+Villa Devoto
+Villa General Mitre
+Villa Lugano
+Villa Luro
+Villa Ortuzar
+Villa Pueyrredón
+Villa Real
+Villa Riachuelo
+Villa Santa Rita
+Villa Soldati
+Villa Urquiza
+Adolfo Gonzales Chaves Department
+Almirante Brown Department
+Arrecifes Department
+Bahía Blanca Department
+Berazategui Department
+Berisso Department
+Bragado Department
+Brandsen Department
+Campana Department
+Cañuelas Department
+Carlos Casares Department
+Carmen de Areco Department
+Chivilcoy Department
+Coronel Dorrego Department
+Coronel Suárez Department
+Ensenada Department
+Exaltación de la Cruz Department
+Florencio Varela Department
+Florentino Ameghino Department
+General Belgrano Department
+General Pueyrredón Department
+General San Martín Department
+Ituzaingó Department
+José C. Paz Department
+La Costa Department
+La Matanza Department
+Lanús Department
+La Plata Department
+Las Flores Department
+Lincoln Department
+Lobería Department
+Lomas de Zamora Department
+Malvinas Argentinas Department
+Marcos Paz Department
+Monte Hermoso Department
+Navarro Department
+Necochea Department
+Nueve de Julio Department
+Patagones Department
+Pehuajó Department
+Pellegrini Department
+Pilar Department
+Puan Department
+Punta Indio Department
+Quilmes Department
+Ramallo Department
+Saavedra Department
+Saladillo Department
+San Andrés de Giles Department
+San Antonio de Areco Department
+San Cayetano Department
+San Fernando Department
+San Isidro Department
+San Miguel Department
+San Nicolás Department
+Suipacha Department
+Tandil Department
+Tigre Department
+Tres Arroyos Department
+Tres de Febrero Department
+Tres Lomas Department
+Vicente López Department
 Bahía Blanca
+Berazategui
 Berisso
-Carmen de Patagones
-Florencio Varela
+Campana
+Cañuelas
+Carlos Casares
+Carmen de Areco
+Chivilcoy
+Coronel Dorrego
+Coronel Suárez
+Mar del Plata
+José C. Paz
+Mar del Tuyú
 Lanús
 La Plata
-Lomas de Zamora
-Mar del Plata
+Las Flores
+Navarro
 Necochea
+Nueve de Julio
+Carmen de Patagones
+Pehuajó
+Pilar
 Quilmes
-San Fernando
+San Andrés de Giles
 San Isidro
 San Miguel
 San Nicolás de los Arroyos
+Suipacha
 Tandil
 Tigre
 Tres Arroyos
+Recreo
 San Fernando del Valle de Catamarca
+General Pinedo
+Juan José Castelli
 Gaiman
+Puerto Madryn
 Rawson
 Trelew
 Córdoba
@@ -2208,7 +2335,6 @@ Padre Las Casas
 Pitrufquén
 Pucón
 Purén
-Saavedra
 Temuco
 Traiguén
 Villarrica
@@ -2322,7 +2448,6 @@ Punta Arenas
 San Gregorio
 Cauquenes
 Colbún
-Constitución
 Curicó
 Hualañé
 Licantén
@@ -2333,7 +2458,6 @@ Molina
 Parral
 Pelluhue
 Rauco
-Retiro
 Sagrada Familia
 San Javier
 San Rafael
@@ -2354,6 +2478,7 @@ Placilla
 Rancagua
 Rengo
 Requínoa
+San Fernando
 Santa Cruz
 Buin
 Calera de Tango
@@ -2387,7 +2512,6 @@ Pudahuel
 Puente Alto
 Quilicura
 Quinta Normal
-Recoleta
 Renca
 San Bernardo
 San Joaquín
@@ -2718,7 +2842,6 @@ Duitama
 El Cocuy
 El Espino
 Firavitoba
-Floresta
 Gachantivá
 Gámeza
 Garagoa
@@ -3106,7 +3229,6 @@ Nátaga
 Neiva
 Oporapa
 Paicol
-Palermo
 Pitalito
 Pital
 Rivera
@@ -3327,7 +3449,6 @@ Toro
 Trujillo
 Tuluá
 Ulloa
-Versalles
 Vijes
 Yotoco
 Yumbo
@@ -3609,7 +3730,6 @@ Hato del Yaque
 La Romana
 Nagua
 Ramón Santana
-San Cristobal
 San Francisco de Macorís
 San José de las Matas
 San Pedro de Macorís
@@ -3723,7 +3843,6 @@ Cuscatlán Department
 La Libertad Department
 La Unión Department
 Morazán Department
-San Miguel Department
 San Salvador Department
 Santa Ana Department
 San Vicente Department
@@ -8016,7 +8135,6 @@ Mariano Roque Alonso
 Ñemby
 Caacupé
 Encarnación
-Pilar
 Amazonas Region
 Ancash Region
 Apurímac Region
