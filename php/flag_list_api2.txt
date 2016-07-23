@@ -12795,6 +12795,13 @@ Bunnell
 Chattahoochee
 Tampa
 Temple Terrace
+Hampton Terrace
+Hyde Park
+Palmetto Beach
+Seminole Heights
+Tampa Heights
+West Tampa
+Ybor City
 Bonita Springs
 Cape Coral
 Tallahassee
@@ -12818,6 +12825,8 @@ Juno Beach
 Jupiter
 Lantana
 Palm Beach
+Royal Palm Beach
+West Palm Beach
 Clearwater
 Gulfport
 Largo
