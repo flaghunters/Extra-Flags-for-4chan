@@ -13308,6 +13308,7 @@ Gogebic County
 Grand Traverse County
 Ingham County
 Kalamazoo County
+Livingston County
 Macomb County
 Muskegon County
 Oakland County
@@ -13316,6 +13317,8 @@ Roscommon County
 Wayne County
 Wexford County
 Grand Rapids
+Putnam Township
+Pinckney
 Detroit
 Aitkin County
 Blue Earth County
@@ -13437,7 +13440,6 @@ Delaware County
 Dutchess County
 Erie County
 Herkimer County
-Livingston County
 New York City
 Niagara County
 Onondaga County
