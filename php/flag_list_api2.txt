@@ -1645,6 +1645,10 @@ West Herzegovina Canton
 Zenica-Doboj Canton
 Mostar
 Sarajevo
+Centar
+Novi Grad
+Novo Sarajevo
+Stari Grad
 Tuzla
 Zenica
 Banja Luka
@@ -6922,7 +6926,6 @@ Zrnovci
 Aerodrom
 Butel
 Čair
-Centar
 Gazi Baba
 Gjorče Petrov
 Karpoš
@@ -9787,7 +9790,6 @@ Novi Beograd
 Obrenovac
 Palilula
 Savski Venac
-Stari Grad
 Surčin
 Voždovac
 Vračar
