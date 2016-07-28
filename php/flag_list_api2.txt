@@ -13779,6 +13779,7 @@ Arlington County
 Augusta County
 Bath County
 Bland County
+Botetourt County
 Charles City County
 Charlottesville
 Chesapeake
@@ -13797,6 +13798,7 @@ Hanover County
 Harrisonburg
 Henrico County
 Hopewell
+Isle of Wight County
 James City County
 King George County
 King William County
@@ -13806,13 +13808,16 @@ Manassas
 Nelson County
 New Kent County
 Newport News
+Nottoway County
 Pittsylvania County
 Poquoson
 Powhatan County
 Prince Edward County
+Prince George County
 Prince William County
 Radford
 Roanoke County
+Roanoke
 Shenandoah County
 Southampton County
 Spotsylvania County
@@ -13830,6 +13835,7 @@ Fairfax City
 Herndon
 Ashland
 Leesburg
+Crewe
 Gordonsville
 Vinton
 Strasburg
