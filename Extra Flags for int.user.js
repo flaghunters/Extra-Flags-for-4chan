@@ -9,7 +9,7 @@
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.26
+// @version     0.27
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -45,6 +45,7 @@ var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flags/';
+// remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
 var postUrl = 'int/post_flag_api2.php';
@@ -62,8 +63,8 @@ var setup = {
         var htmlBackButton = '<button name="back">Back</button>';
         var htmlNextButton = '<button name="forward">Next</button>';
         var htmlBackNextButtons = '<div>' + htmlBackButton + htmlNextButton + '</div>';
-        var htmlSaveButton = '<div><button name="save" title="Pressing &#34;Save Region&#34; will save the currently selected region as your region">' +
-            'Save Region</button></div><br/>';
+        var htmlSaveButton = '<div><button name="save" title="Pressing &#34;Save Regions&#34; will set your regions to the ones current displayed below.">' +
+            'Save Regions</button></div><br/>';
         var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
             'For example; United States, California, Los Angeles<br/></label>' +
             '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
@@ -76,16 +77,24 @@ var setup = {
             '</form>';
 
         if (regions.length > 1) {
+            var selectMenuFlags = "Regional flags selected: ";
+            var path = flegsBaseUrl + "/" + regions[0];
+            for (var i = 1; i < regions.length; i++) {
+                path += "/" + regions[i];
+                selectMenuFlags += "<img src='" + path + ".png'" +  " title='" + regions[i] + "'> ";
+            }
+            selectMenuFlags += "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filterRadio;
+                '<br/>' + htmlSaveButton + '</div>' + selectMenuFlags + htmlHelpText + filterRadio;
         }
 
-        if (regions.length > 0) {
+        if (regions.length == 1) {
+            var selectMenuFlags = "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + htmlHelpText + filterRadio;
-        }
+                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText + filterRadio;
+       }
 
         return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
             '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filterRadio;
@@ -101,17 +110,17 @@ var setup = {
                     path += regions[i] + "/";
                 }
             }
-            path += flagListFile;
-            oldPath += flagListFile;
+            var pathNoFlagList = path;
         } else { // end of folder line call
             path = path1;
             oldPath = "";
+            var pathNoFlagList = path;
         }
 
         /* resolve countries which we support */
         GM_xmlhttpRequest({
             method: "GET",
-            url: path,
+            url: path + flagListFile,
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
@@ -119,25 +128,33 @@ var setup = {
                 if (response.status == 404) { // detect if there are no more folders
                     setup.fillHtml(oldPath);
                     setup.q('forward').disabled = true; // disable next button
-                }
-                //hide spam, debug purposes only
-                //console.log(response.responseText);
-                var countrySelect = document.getElementById(shortId + 'countrySelect'),
-                    countriesAvailable = response.responseText.split('\n');
+                } else {
+                    //hide spam, debug purposes only
+                    //console.log(response.responseText);
+                    var countrySelect = document.getElementById(shortId + 'countrySelect'),
+                        countriesAvailable = response.responseText.split('\n');
 
-                for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
-                    var opt = document.createElement('option');
-                    opt.value = countriesAvailable[countriesCounter];
-                    opt.innerHTML = countriesAvailable[countriesCounter];
+                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
+                        var opt = document.createElement('option');
+                        opt.value = countriesAvailable[countriesCounter];
+                        
+                        if (regions.length > 0) {
+                            opt.innerHTML = countriesAvailable[countriesCounter] + " " + "<img src=\"" + flegsBaseUrl + pathNoFlagList + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
+                        } else {
+                            opt.innerHTML = countriesAvailable[countriesCounter]; // remove comment to enable country flags in the selection menu + " " + "<img src=\"" + countryFlegsBaseUrl + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
+                        }
+                        
 
-                    if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
-                        opt.selected = "selected";
-                    } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more
-                        // folders detected
-                        opt.selected = "selected";
+                        if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
+                            opt.selected = "selected";
+                        } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more
+                            // folders detected
+                            opt.selected = "selected";
+                        }
+                        countrySelect.appendChild(opt);
                     }
-                    countrySelect.appendChild(opt);
                 }
+                
             }
         });
     },
@@ -174,7 +191,7 @@ var setup = {
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
-        setup.fillHtml("");
+        setup.fillHtml("", "");
 
         document.body.appendChild(setup_el);
 
@@ -183,18 +200,10 @@ var setup = {
         /* button listeners */
         setup.q('back').addEventListener('click', function () {
             if (regions.length > 0) {
-                //if (lastRegion == "") {
-
                 if (setup.q('forward').disabled == true) {
                     setup.q('forward').disabled = false; // reenable next button
                 }
-                if (regions.length > 2) {
-                    lastRegion = regions[regions.length - 2];
-                    regions.pop();
-                } else {
-                    lastRegion = regions[regions.length - 1];
-                }
-                //regions.pop();
+                lastRegion = regions[regions.length - 1];
                 regions.pop();
                 setup.show();
             }
@@ -218,14 +227,6 @@ var setup = {
         setup.q('save').addEventListener('click', function () {
             var e = document.getElementById(shortId + "countrySelect");
             var temp = e.options[e.selectedIndex].value;
-            if (temp !== "" && temp !== regions[regions.length - 1] && setup.q('forward').disabled !== true) {
-                regions.push(temp);
-            } else if (lastRegion !== "" && lastRegion !== regions[regions.length - 1] && lastRegion !== regions[regions.length - 2] && setup.q('forward').disabled !== true) {
-                regions.push(lastRegion);
-            } else if (setup.q('forward').disabled == true) {
-                regions.pop();
-                regions.push(temp);
-            }
 
             if (regions[regions.length - 1] === "") { //prevent last spot from being blank
                 regions.pop();
@@ -252,7 +253,7 @@ var setup = {
     },
     init: function () {
         //GM_registerMenuCommand('Extra Flags setup', setup.show;
-        GM_registerMenuCommand('Extra Flags setup', setup.removeExtra);
+        GM_registerMenuCommand('Extra Flags setup', setup.show);
     }
 };
 
@@ -331,7 +332,7 @@ function onFlagsLoad(response) {
                    
                     newFlag.target = '_blank';
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-                    newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative; top: 1px;";
+                    newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
 
                     console.log("resolved " + postedRegions[i]);
                 }
