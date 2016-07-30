@@ -6103,32 +6103,37 @@ Connacht
 Leinster
 Munster
 Ulster
-Galway
-Leitrim
-Mayo
-Roscommon
-Sligo
-Carlow
+County Galway
+County Leitrim
+County Mayo
+County Roscommon
+County Sligo
+County Carlow
+County Dublin
+County Kildare
+County Kilkenny
+County Laois
+County Longford
+County Louth
+County Meath
+County Offaly
+County Westmeath
+County Wexford
+County Wicklow
 Dublin
-Kildare
-Kilkenny
-Laois
-Longford
-Louth
-Meath
-Offaly
-Westmeath
-Wexford
-Wicklow
-Clare
+Dún Laoghaire-Rathdown
+Fingal
+South Dublin
+County Clare
+County Cork
+County Kerry
+County Limerick
+County Tipperary
+County Waterford
 Cork
-Kerry
-Limerick
-Tipperary
-Waterford
-Cavan
-Donegal
-Monaghan
+County Cavan
+County Donegal
+County Monaghan
 Arbory Parish
 Braddan Parish
 Castletown
@@ -12796,6 +12801,7 @@ Salem
 Sprague
 Stonington
 Voluntown
+Waterford
 Jewett City
 City of Groton
 Columbia
