@@ -10755,7 +10755,7 @@ Canton of Obwalden
 Canton of Schaffhausen
 Canton of Schwyz
 Canton of Solothurn
-Canton of St Gallen
+Canton of St. Gallen
 Canton of Thurgau
 Canton of Ticino
 Canton of Uri
@@ -13158,6 +13158,7 @@ Gary
 Greenwood
 Hammond
 Hancock County
+Hendricks County
 Indianapolis
 Knox City
 Lafayette
@@ -13178,6 +13179,7 @@ Warsaw
 West Lafayette
 Winona Lake
 Greenfield
+Washington Township
 Mishawaka
 South Bend
 Agua Caliente Band of Cahuilla Indians
