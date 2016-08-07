@@ -1597,8 +1597,8 @@ Pembroke Parish
 Sandys Parish
 Smith's Parish
 Southampton Parish
-St George's Parish
-St George's
+St. George's Parish
+St. George's
 Warwick Parish
 Beni Department
 Chuquisaca Department
@@ -2213,7 +2213,7 @@ Winnipeg
 Fredericton
 Moncton
 Saint John
-St John's
+St. John's
 Yellowknife
 Cape Breton Regional Municipality
 Halifax Regional Municipality
@@ -2255,7 +2255,7 @@ Waterloo Region
 Wellington County
 York Region
 Blind River
-Sault Ste Marie
+Sault Ste. Marie
 Brantford
 Hearst
 Iroquois Falls
@@ -2277,7 +2277,7 @@ Oakville
 Belleville
 Kenora
 Niagara Falls
-St Catharines
+St. Catharines
 Brampton
 Caledon
 Mississauga
@@ -12899,8 +12899,8 @@ Putnam County
 Santa Rosa County
 Sarasota County
 Seminole County
-St Johns County
-St Lucie County
+St. Johns County
+St. Lucie County
 Sumter County
 Suwannee County
 Taylor County
@@ -12977,7 +12977,7 @@ Lakeland
 Gulf Breeze
 North Port
 Sarasota
-Port St Lucie
+Port St. Lucie
 Port Orange
 Alto
 Aragon
@@ -13416,7 +13416,7 @@ Howard County
 Montgomery County
 Prince George's County
 Queen Anne's County
-St Mary's County
+Saint Mary's County
 Talbot County
 Wicomico County
 Worcester County
@@ -13505,8 +13505,8 @@ Greene County
 Phelps County
 Platte County
 Schuyler County
-St Charles County
-St Louis
+St. Charles County
+St. Louis
 Jefferson City
 Billings
 Flathead County
