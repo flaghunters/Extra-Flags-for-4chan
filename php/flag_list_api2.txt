@@ -323,6 +323,7 @@ Upper Murray River
 Central Coast
 Central West
 Far West
+Greater Sydney
 Hunter
 Illawarra
 Mid North Coast
@@ -333,7 +334,6 @@ Orana
 Riverina
 South East
 Southern Highlands and Tablelands
-Sydney Region
 Gosford
 Wyong
 Bathurst
@@ -350,6 +350,40 @@ Parkes
 Weddin
 Broken Hill
 Central Darling
+Blacktown
+Blue Mountains
+Botany Bay
+Burwood
+Camden
+Campbelltown
+Canada Bay
+Canterbury
+Cumberland
+Fairfield
+Georges River
+Hawkesbury
+Hornsby
+Hunters Hill
+Inner West
+Ku-ring-gai
+Lane Cove
+Liverpool
+Mosman
+Northern Beaches
+North Sydney
+Parramatta
+Penrith
+Randwick
+Rockdale
+Ryde
+Strathfield
+Sutherland
+Sydney
+The Hills
+Waverley
+Willoughby
+Wollondilly
+Woollahra
 Cessnock
 Dungog
 Lake Macquarie
@@ -440,40 +474,6 @@ Queanbeyan
 Goulburn Mulwaree
 Upper Lachlan
 Wingecarribee
-Blacktown
-Blue Mountains
-Botany Bay
-Burwood
-Camden
-Campbelltown
-Canada Bay
-Canterbury
-Cumberland
-Fairfield
-Georges River
-Hawkesbury
-Hornsby
-Hunters Hill
-Inner West
-Ku-ring-gai
-Lane Cove
-Liverpool
-Mosman
-Northern Beaches
-North Sydney
-Parramatta
-Penrith
-Randwick
-Rockdale
-Ryde
-Strathfield
-Sutherland
-Sydney
-The Hills
-Waverley
-Willoughby
-Wollondilly
-Woollahra
 Alice Springs
 Barkly
 Central Desert
