@@ -321,19 +321,18 @@ Woden Valley
 Lower Murray River
 Upper Murray River
 Central Coast
-Central Coast Region
-Central West Region
-Far West Region
+Central West
+Far West
 Hunter
 Illawarra
-Mid North Coast Region
-Murray Region
-Northern Inland Region
-Northern Rivers Region
-Orana Region
-Riverina Region
-South Coast Region
-Southern Inland Region
+Mid North Coast
+Murray-Lower Darling
+New England North West
+Northern Rivers
+Orana
+Riverina
+South East
+Southern Highlands and Tablelands
 Sydney Region
 Gosford
 Wyong
@@ -344,6 +343,7 @@ Cowra
 Forbes
 Lachlan
 Lithgow
+Mid-Western
 Oberon
 Orange
 Parkes
@@ -406,7 +406,6 @@ Cobar
 Coonamble
 Dubbo
 Gilgandra
-Mid-Western
 Narromine
 Walgett
 Warren
@@ -424,23 +423,23 @@ Leeton
 Lockhart
 Murrumbidgee
 Narrandera
+Snowy Valleys
 Temora
 Wagga Wagga
-Bega Valley
-Eurobodalla
-Goulburn Mulwaree
-Hilltops
-Queanbeyan-Palerang
-Snowy Monaro
-Snowy Valleys
-Upper Lachlan
-Wingecarribee
-Yass Valley
-Queanbeyan
 Charlotte Pass
 Perisher Blue
 Selwyn
 Thredbo
+Bega Valley
+Eurobodalla
+Hilltops
+Queanbeyan-Palerang
+Snowy Monaro
+Yass Valley
+Queanbeyan
+Goulburn Mulwaree
+Upper Lachlan
+Wingecarribee
 Blacktown
 Blue Mountains
 Botany Bay
@@ -580,7 +579,6 @@ Eyre Peninsula
 Metropolitan
 Murray Mallee
 Outback
-South East
 Southern & Hills
 Barossa
 Clare and Gilbert Valleys
