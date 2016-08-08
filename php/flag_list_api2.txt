@@ -320,11 +320,12 @@ Weston Creek
 Woden Valley
 Lower Murray River
 Upper Murray River
+Central Coast
 Central Coast Region
 Central West Region
 Far West Region
-Hunter Region
-Illawarra Region
+Hunter
+Illawarra
 Mid North Coast Region
 Murray Region
 Northern Inland Region
@@ -361,6 +362,7 @@ Upper Hunter
 Windale
 Kiama
 Shellharbour
+Shoalhaven
 Wollongong
 Bellingen
 Coffs Harbor
@@ -426,7 +428,6 @@ Temora
 Wagga Wagga
 Bega Valley
 Eurobodalla
-Shoal Haven
 Goulburn Mulwaree
 Hilltops
 Queanbeyan-Palerang
@@ -650,7 +651,6 @@ Yankalilla
 Break O Day
 Brighton
 Burnie
-Central Coast
 Circular Head
 Clarence City
 Derwent Valley
