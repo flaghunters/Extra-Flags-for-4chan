@@ -10720,13 +10720,27 @@ Klippan
 Malmö
 Katrineholm
 Nyköping
+Botkyrka
 Danderyd
+Haninge
+Huddinge
+Järfälla
+Lidingö
+Nacka
 Norrtälje
 Nykvarn
+Nynäshamn
+Österåker
+Salem
 Sigtuna
 Södertälje
+Sollentuna
+Solna
 Stockholm
+Sundbyberg
+Täby
 Vallentuna
+Vaxholm
 Håbo
 Skellefteå
 Arboga
@@ -12811,7 +12825,6 @@ Montville
 New London
 North Stonington
 Old Lyme
-Salem
 Sprague
 Stonington
 Voluntown
