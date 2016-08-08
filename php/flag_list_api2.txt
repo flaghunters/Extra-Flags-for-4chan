@@ -580,7 +580,7 @@ Metropolitan
 Murray Mallee
 Outback
 South East
-Southern and Hills
+Southern & Hills
 Barossa
 Clare and Gilbert Valleys
 Copper Coast
@@ -766,6 +766,7 @@ Great Southern
 Kimberley
 Mid West
 Peel
+Perth
 Pilbara
 South West
 Wheatbelt
@@ -797,36 +798,6 @@ Broome
 Derby-West Kimberley
 Halls Creek
 Wyndham-East Kimberley
-Armadale
-Bassendean
-Bayswater
-Belmont
-Cambridge
-Canning
-Claremont
-Cockburn
-Cottesloe
-East Fremantle
-Fremantle
-Gosnells
-Joondalup
-Kalamunda
-Kwinana
-Melville
-Mosman Park
-Mundaring
-Nedlands
-Peppermint Grove
-Perth
-Rockingham
-Rottnest Island
-South Perth
-Stirling
-Subiaco
-Swan
-Victoria Park
-Vincent
-Wanneroo
 Carnamah
 Chapman Valley
 Coorow
@@ -849,6 +820,36 @@ Mandurah
 Murray
 Serpentine-Jarrahdale
 Waroona
+Armadale
+Bassendean
+Bayswater
+Belmont
+Cambridge
+Canning
+Claremont
+Cockburn
+Cottesloe
+East Fremantle
+Fremantle
+Gosnells
+Joondalup
+Kalamunda
+Kwinana
+Melville
+Mosman Park
+Mundaring
+Nedlands
+Peppermint Grove
+Perth (city)
+Rockingham
+Rottnest Island
+South Perth
+Stirling
+Subiaco
+Swan
+Victoria Park
+Vincent
+Wanneroo
 Ashburton
 East Pilbara
 Karratha
