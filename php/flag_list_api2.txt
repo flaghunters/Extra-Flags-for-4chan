@@ -2151,16 +2151,32 @@ Calgary
 Edmonton
 Lloydminster
 Red Deer
+Bulkley-Nechako Regional District
 Capital Regional District
+Cariboo Regional District
+Central Coast Regional District
+Central Kootenay Regional District
 Central Okanagan Regional District
+Columbia-Shuswap Regional District
+Comox Valley Regional District
 Cowichan Valley Regional District
+East Kootenay Regional District
 Fraser-Fort George Regional District
 Fraser Valley Regional District
 Greater Vancouver Regional District
 Kitimat-Stikine Regional District
+Kootenay Boundary Regional District
+Mount Waddington Regional District
 Nanaimo Regional District
+Northern Rockies Regional District
 North Okanagan Regional District
 Okanagan-Similkameen Regional District
+Peace River Regional District
+Powell River Regional District
+Skeena-Queen Charlotte Regional District
+Squamish-Lillooet Regional District
+Strathcona Regional District
+Sunshine Coast Regional District
 Thompson-Nicola Regional District
 Central Saanich District
 Colwood
@@ -2182,7 +2198,6 @@ Bowen Island
 Burnaby
 Coquitlam
 Delta
-Electoral Area A
 Langley
 Langley Township
 Lions Bay
@@ -2198,7 +2213,6 @@ Vancouver
 West Vancouver District
 White Rock
 Tsawwassen
-University Endowment Lands
 Deep Cove
 Dollarton
 Edgemont
@@ -2230,25 +2244,46 @@ Brant County
 Bruce County
 Chatham-Kent
 Cochrane District
+Dufferin County
 Durham Region
+Elgin County
 Essex County
 Frontenac County
 Greater Sudbury
 Grey County
+Haldimand County
+Haliburton County
 Halton Region
 Hastings County
+Huron County
+Kawartha Lakes
 Kenora District
+Lambton County
+Lanark County
+Leeds and Grenville United Counties
+Lennox and Addington County
 London
+Middlesex County
+Muskoka District
 Niagara Region
+Nipissing District
+Norfolk County
 Northumberland County
 Ottawa
+Oxford County
+Parry Sound District
 Peel Region
+Perth County
 Peterborough County
+Prescott and Russell United Counties
+Prince Edward County
 Rainy River District
 Renfrew County
 Simcoe County
-Stormont, Dundas and Glengarry Counties
+Stormont, Dundas and Glengarry United Counties
+Sudbury District
 Thunder Bay District
+Timiskaming District
 Toronto
 Waterloo Region
 Wellington County
@@ -12774,7 +12809,6 @@ Thornton
 Fairfield County
 Hartford County
 Litchfield County
-Middlesex County
 New Haven County
 New London County
 Tolland County
@@ -13468,7 +13502,6 @@ Aroostook County
 Cumberland County
 Kennebec County
 Knox County
-Oxford County
 Penobscot County
 Piscataquis County
 Sagadahoc County
@@ -13520,7 +13553,6 @@ Dukes County
 Hampden County
 Hampshire County
 Nantucket
-Norfolk County
 Plymouth County
 Suffolk County
 Falmouth
@@ -13779,7 +13811,6 @@ Guernsey County
 Henry County
 Highland County
 Hocking County
-Huron County
 Lawrence County
 Licking County
 Lorain County
@@ -14044,7 +14075,6 @@ Nottoway County
 Pittsylvania County
 Poquoson
 Powhatan County
-Prince Edward County
 Prince George County
 Prince William County
 Radford
