@@ -2228,8 +2228,20 @@ Moncton
 Saint John
 St. John's
 Yellowknife
-Cape Breton Regional Municipality
-Halifax Regional Municipality
+Annapolis County
+Antigonish County
+Cape Breton County
+Colchester County
+Cumberland County
+Halifax County
+Inverness County
+Kings County
+Pictou County
+Queens County
+Richmond County
+Victoria County
+Cape Breton
+Halifax
 Kitikmeot Region
 Kivalliq Region
 Qikiqtaaluk Region
@@ -12640,7 +12652,6 @@ Humboldt County
 Imperial County
 Inyo County
 Kern County
-Kings County
 Lake County
 Lassen County
 Los Angeles County
@@ -13499,7 +13510,6 @@ Thibodaux
 Mandeville
 Androscoggin County
 Aroostook County
-Cumberland County
 Kennebec County
 Knox County
 Penobscot County
@@ -13715,9 +13725,7 @@ Ontario County
 Orleans County
 Oswego County
 Otsego County
-Queens County
 Rensselaer County
-Richmond County
 Rockland County
 Saint Lawrence County
 Saratoga County
@@ -13979,7 +13987,6 @@ Terrell County
 Terry County
 Travis County
 Uvalde County
-Victoria County
 Walker County
 Ward County
 Webb County
@@ -14056,7 +14063,6 @@ Fauquier County
 Fluvanna County
 Giles County
 Goochland County
-Halifax County
 Hanover County
 Harrisonburg
 Henrico County
