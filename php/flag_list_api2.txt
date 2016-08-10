@@ -3733,22 +3733,22 @@ Kyrenia
 Morphou
 North Nicosia
 Trikomo
-Central Bohemian Region
-Hradec Kralove Region
-Karlovy Vary Region
-Liberec Region
-Moravian-Silesian Region
-Olomouc Region
-Pardubice Region
-Plzen Region
+Jihocesky Region
+Jihomoravsky Region
+Karlovarsky Region
+Kralovehradecky Region
+Liberecky Region
+Moravskoslezsky Region
+Olomoucky Region
+Pardubicky Region
+Plzensky Region
 Praha
-South Bohemian Region
-South Moravian Region
-Usti nad Labem Region
+Stredocesky Region
+Ustecky Region
 Vysocina Region
-Zlin Region
-Kladno
-Mlada Boleslav
+Zlinsky Region
+Ceske Budejovice
+Brno
 Hradec Kralove
 Liberec
 Frydek-Mistek
@@ -3760,8 +3760,8 @@ Olomouc
 Prerov
 Pardubice
 Plzen
-Ceske Budejovice
-Brno
+Kladno
+Mlada Boleslav
 Chomutov
 Decin
 Most
@@ -8815,101 +8815,412 @@ Dipolog
 Pagadian
 Zamboanga
 Tungawan Municipality
-Dolnoslaskie
-Kujawsko-Pomorskie
-Lodzkie
-Lubelskie
-Lubuskie
-Malopolskie
-Mazowieckie
-Opolskie
-Podkarpackie
-Podlaskie
-Pomorskie
-Slaskie
-Swietokrzyskie
-Warminsko-Mazurskie
-Wielkopolskie
-Zachodniopomorskie
-Glogow
+Dolnoslaskie Voivodeship
+Kujawsko-Pomorskie Voivodeship
+Lodzkie Voivodeship
+Lubelskie Voivodeship
+Lubuskie Voivodeship
+Malopolskie Voivodeship
+Mazowieckie Voivodeship
+Opolskie Voivodeship
+Podkarpackie Voivodeship
+Podlaskie Voivodeship
+Pomorskie Voivodeship
+Slaskie Voivodeship
+Swietokrzyskie Voivodeship
+Warminsko-Mazurskie Voivodeship
+Wielkopolskie Voivodeship
+Zachodniopomorskie Voivodeship
+Boleslawiec County
+Dzierzoniow County
+Glogow County
+Jawor County
+Jelenia Gora County
 Jelenia Gora
+Kamienna Gora County
+Klodzko County
+Legnica County
 Legnica
-Lubin
-Walbrzych
+Luban County
+Lubin County
+Lwowek Slaski County
+Milicz County
+Olawa County
+Olesnica County
+Polkowice County
+Sroda Slaska County
+Strzelin County
+Swidnica County
+Trzebnica County
+Walbrzych County
+Wolow County
+Wroclaw County
 Wroclaw
+Zabkowice Slaskie County
+Zgorzelec County
+Zlotoryja County
+Glogow
+Kamienna Gora
+Klodzko
+Lubin
+Olesnica
+Swidnica
+Walbrzych
+Aleksandrow Kujawski County
+Brodnica County
+Bydgoszcz County
 Bydgoszcz
-Chelmno
-Dobrzyn nad Wisla
+Chelmno County
+Golub-Dobrzyn County
 Grudziadz
-Inowroclaw
-Solec Kujawski
+Inowroclaw County
+Lipno County
+Mogilno County
+Naklo County
+Radziejow County
+Rypin County
+Sepolno County
+Swiecie County
+Torun County
 Torun
+Tuchola County
+Wabrzezno County
+Wloclawek County
 Wloclawek
+Znin County
+Chelmno
+Inowroclaw
+Belchatow County
+Brzeziny County
+Kutno County
+Lask County
+Leczyca County
 Lodz
-Pabianice
+Lodz Wschodnia County
+Lowicz County
+Opoczno County
+Pabianice County
+Pajeczno County
+Piotrkow Trybunalski County
 Piotrkow Trybunalski
-Sieradz
+Poddebice County
+Radomsko County
+Rawa Mazowiecka County
+Sieradz County
+Skierniewice County
 Skierniewice
+Tomaszow Mazowiecki County
+Wielun County
+Wieruszow County
+Zdunska Wola County
+Zgierz County
+Lowicz
+Pabianice
+Grabica
+Radomsko
+Rawa Mazowiecka
+Sieradz
 Tomaszow Mazowiecki
+Biala Podlaska
+Bilgoraj County
+Chelm County
 Chelm
+Janow Lubelski County
+Krasnik County
+Krasnystaw County
+Leczna County
+Lubartow County
+Lublin County
 Lublin
+Lukow County
+Opole Lubelskie County
+Parczew County
+Pulawy County
+Radzyn Podlaski County
+Ryki County
+Swidnik County
+Tomaszow Lubelski County
+Wlodawa County
+Zamosc County
 Zamosc
+Gorzow Wielkopolski County
 Gorzow Wielkopolski
+Krosno Odrzanskie County
+Miedzyrzecz County
+Nowa Sol County
+Slubice County
+Strzelce-Drezdenko County
+Sulecin County
+Swiebodzin County
+Wschowa County
+Zagan County
+Zary County
+Zielona Gora County
 Zielona Gora
+Bochnia County
+Brzesko County
+Chrzanow County
+Dabrowa Tarnowska County
+Gorlice County
+Krakow County
 Krakow
+Limanowa County
+Miechow County
+Myslenice County
+Nowy Sacz County
 Nowy Sacz
-Oswiecim
+Nowy Targ County
+Olkusz County
+Oswiecim County
+Proszowice County
+Sucha Beskidzka County
+Tarnow County
 Tarnow
+Tatra County
+Wadowice County
+Wieliczka County
+Oswiecim
+Bialobrzegi County
+Ciechanow County
+Garwolin County
+Gostynin County
+Grojec County
+Kozienice County
+Legionowo County
+Lipsko County
+Losice County
+Makow County
+Minsk Mazowiecki County
+Mlawa County
+Nowy Dwor Mazowiecki County
+Ostroleka
+Ostrow Mazowiecka County
+Otwock County
+Piaseczno County
+Plock County
 Plock
+Pruszkow County
+Pultusk County
+Radom County
 Radom
 Siedlce
+Sierpc County
+Sochaczew County
+Szydlowiec County
 Warszawa
-Kedzierzyn-Kozle
+Warszawa Zachodnia County
+Wegrow County
+Wolomin County
+Wyszkow County
+Zuromin County
+Zwolen County
+Zyrardow County
+Brzeg County
+Glubczyce County
+Kedzierzyn-Kozle County
+Kluczbork County
+Krapkowice County
+Namyslow County
+Nysa County
+Olesno County
+Opole County
 Opole
+Prudnik County
+Strzelce Opolskie County
+Brzeg
+Kedzierzyn-Kozle
+Bieszczady County
+Brzozow County
+Debica County
+Jaroslaw County
+Kolbuszowa County
+Krosno County
+Krosno
+Lancut County
+Lezajsk County
+Lubaczow County
+Mielec County
+Nisko County
+Przemysl County
 Przemysl
+Przeworsk County
+Ropczyce-Sedziszow County
+Rzeszow County
 Rzeszow
+Sanok County
+Stalowa Wola County
+Strzyzow County
+Tarnobrzeg County
+Tarnobrzeg
 Stalowa Wola
+Augustow County
+Bialystok County
 Bialystok
+Bielsk Podlaski County
+Grajewo County
+Hajnowka County
+Kolno County
+Lomza County
 Lomza
+Monki County
+Sejny County
+Siemiatycze County
+Sokolka County
+Suwalki County
 Suwalki
+Wysokie Mazowieckie County
+Zambrow County
+Bytow County
+Chojnice County
+Czluchow County
+Gdansk County
 Gdansk
 Gdynia
-Hel
+Kartuzy County
+Koscierzyna County
+Kwidzyn County
+Lebork County
+Malbork
+Nowy Dwor Gdanski County
+Puck County
+Slupsk County
 Slupsk
+Starogard County
+Sztum County
+Tczew County
+Wejherowo County
+Lebork
+Malbork County
+Hel
+Puck
+Bedzin County
 Bielsko-Biala
+Bielsko County
 Bytom
 Chorzow
+Cieszyn County
+Czestochowa County
 Czestochowa
 Dabrowa Gornicza
+Gliwice County
 Gliwice
 Jastrzebie-Zdroj
 Jaworzno
 Katowice
+Klobuck County
+Mikolow County
 Myslowice
+Myszkow County
 Piekary Slaskie
+Pszczyna County
+Raciborz County
 Ruda Slaska
+Rybnik County
 Rybnik
 Siemianowice Slaskie
 Sosnowiec
 Swietochlowice
+Tarnowskie Gory County
 Tychy
+Wodzislaw Slaskie County
 Zabrze
+Zawiercie County
+Zory
+Busko-Zdroj County
+Jedrzejow County
+Kazimierza Wielka County
+Kielce County
 Kielce
+Konskie County
+Ostrowiec Swietokrzyski County
+Pinczow County
+Sandomierz County
+Skarzysko-Kamienna County
+Starachowice County
+Staszow County
+Wloszczowa County
 Sandomierz
+Bartoszyce County
+Dzialdowo County
+Elblag County
 Elblag
+Elk County
+Gizycko County
+Goldap County
+Ilawa County
+Ketrzyn County
+Lidzbark County
+Mragowo County
+Nidzica County
+Nowe Miasto County
+Olecko County
+Olsztyn County
 Olsztyn
+Ostroda County
+Pisz County
+Szczytno
 Ostroda
-Gniezno
+Szczytno County
+Chodziez County
+Czarnkow-Trzcianka County
+Gniezno County
+Gostyn County
+Grodzisk Wielkopolski County
+Jarocin County
+Kalisz County
 Kalisz
+Kepno County
+Kolo County
+Konin County
 Konin
+Koscian County
+Krotoszyn County
 Leszno
+Miedzychod County
+Nowy Tomysl County
+Oborniki County
 Ostrow Wielkopolski
-Pila
+Ostrzeszow County
+Pila County
+Pleszew County
+Poznan County
 Poznan
-Kolobrzeg
+Rawicz County
+Slupca County
+Srem County
+Sroda Wielkopolska County
+Szamotuly County
+Turek County
+Wagrowiec County
+Wolsztyn County
+Wrzesnia County
+Gniezno
+Ostrow Wielkopolski County
+Pila
+Bialogard County
+Choszczno County
+Drawsko County
+Gryfice County
+Gryfino County
+Kamien Pomorski County
+Kolobrzeg County
+Koszalin County
 Koszalin
-Stargard
+Lobez County
+Mysliborz County
+Police County
+Pyrzyce County
+Slawno County
+Stargard County
+Swidwin County
+Swinoujscie
+Szczecinek County
 Szczecin
+Walcz County
+Kolobrzeg
+Darlowo
+Stargard
+Szczecinek
 Walcz
 Açores
 Aveiro District
