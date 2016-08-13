@@ -2230,18 +2230,16 @@ St. John's
 Yellowknife
 Annapolis County
 Antigonish County
-Cape Breton County
+Cape Breton Region
 Colchester County
 Cumberland County
-Halifax County
+Halifax Region
 Inverness County
 Kings County
 Pictou County
-Queens County
+Queens Region
 Richmond County
 Victoria County
-Cape Breton
-Halifax
 Kitikmeot Region
 Kivalliq Region
 Qikiqtaaluk Region
@@ -14432,6 +14430,7 @@ Fauquier County
 Fluvanna County
 Giles County
 Goochland County
+Halifax County
 Hanover County
 Harrisonburg
 Henrico County
