@@ -350,20 +350,19 @@ Parkes
 Weddin
 Broken Hill
 Central Darling
-Blacktown
 Blue Mountains
 Botany Bay
 Burwood
 Camden
 Campbelltown
 Canada Bay
-Canterbury
+Canterbury-Bankstown
 Cumberland
 Fairfield
 Georges River
 Hawkesbury
 Hornsby
-Hunters Hill
+Hunter's Hill
 Inner West
 Ku-ring-gai
 Lane Cove
@@ -13319,6 +13318,7 @@ Vernon
 Willington
 Ashford
 Brooklyn
+Canterbury
 Chaplin
 Eastford
 Hampton
