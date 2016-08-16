@@ -13735,8 +13735,10 @@ Cedar Rapids
 Des Moines
 Windsor Heights
 Allen County
+Anderson County
 Atchison County
 Bourbon County
+Brown County
 Crawford County
 Doniphan County
 Finney County
@@ -13747,6 +13749,7 @@ Labette County
 Leavenworth County
 Lyon County
 Miami County
+Nemaha County
 Neosho County
 Osborne County
 Sedgwick County
@@ -13756,9 +13759,14 @@ Elsmore
 Humboldt
 Iola
 Moran
+Garnett
 Atchison
 Effingham
 Fort Scott
+Fairview
+Hiawatha
+Horton
+Sabetha
 Baxter Springs
 Weir
 Arma
@@ -13771,6 +13779,18 @@ Eudora
 Lecompton
 Garden City
 Dodge City
+Wellsville
+Williamsburg
+Holton
+Hoyt
+Mayetta
+Netawaka
+McLouth
+Nortonville
+Oskaloosa
+Ozawkie
+Perry
+Valley Falls
 Bonner Springs
 De Soto
 Edgerton
@@ -13808,6 +13828,8 @@ Pleasanton
 Emporia
 Louisburg
 Osawatomie
+Bern
+Seneca
 Chanute
 Erie
 St. Paul
@@ -14007,7 +14029,6 @@ Gallatin County
 Lewis and Clark County
 Helena
 Yellowstone County
-Brown County
 Chase County
 Colfax County
 Dakota County
@@ -14289,7 +14310,6 @@ Newport County
 Providence County
 East Providence
 Providence
-Anderson County
 Charleston
 Dillon County
 Florence County
