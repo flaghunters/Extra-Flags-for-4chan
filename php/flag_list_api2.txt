@@ -5209,8 +5209,7 @@ Wittmund District
 Wolfenbüttel District
 Wolfsburg
 Burgdorf
-Aachen District
-Aachen
+Aachen Region
 Bielefeld
 Bochum
 Bonn
@@ -5261,6 +5260,7 @@ Viersen District
 Warendorf District
 Wesel District
 Wuppertal
+Aachen
 Düren
 Heimbach
 Inden
