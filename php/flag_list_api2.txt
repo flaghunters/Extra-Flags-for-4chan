@@ -12523,10 +12523,10 @@ Fujairah
 Ras Al-Khaimah
 Sharjah
 Umm Al-Quwain
-England
+England.gif
 Northern Ireland
-Scotland
-Wales
+Scotland.gif
+Wales.gif
 Bedfordshire
 Berkshire
 Bristol
@@ -13334,6 +13334,7 @@ Killingly
 Plainfield
 Pomfret
 Putnam
+Scotland
 Sterling
 Thompson
 Windham
