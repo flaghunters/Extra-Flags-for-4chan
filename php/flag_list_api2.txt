@@ -13602,39 +13602,38 @@ Coeur d'Alene
 Post Falls
 Salmon
 Twin Falls
-Belvidere
+Boone County
 Carroll County
 Clinton County
 Cook County
-Dixon
-Downers Grove
+Crawford County
+DeWitt County
 DuPage County
-Galena
-Godfrey
-Heyworth
-Highland
+Ford County
+Greene County
+Grundy County
+Iroquois County
 Jasper County
-Joliet
+Jersey County
+Jo Daviess County
 Kane County
 Kankakee County
-Lake Zurich
-Libertyville
+Kendall County
+LaSalle County
+Livingston County
 Marshall County
 McHenry County
+McLean County
 Morgan County
 Moultrie County
-Norridge
-Park Ridge
-Plainfield Township
-Plano
-Robinson
-Round Lake
+Ogle County
+Peoria County
 Sangamon County
-Sheridan
 St. Clair County
 Stephenson County
-Wapella
+Will County
 Winnebago County
+Belvidere
 Centralia
 Alsip
 Chicago Heights
@@ -13646,8 +13645,10 @@ Evanston
 Hanover Park
 Lansing
 Maine Township
+Norridge
 Oak Lawn
 Orland Township
+Park Ridge
 Proviso Township
 Rich Township
 River Forest Township
@@ -13655,17 +13656,32 @@ Schaumburg
 Schiller Park
 Thornton Township
 Wheeling Township
+Robinson
+Wapella
 Addison
 Bloomingdale
+Downers Grove
 Glen Ellyn
 Lombard
 Naperville
 West Chicago
 Carbondale
+Galena
+Joliet
+Plano
+Lake Zurich
+Libertyville
+Round Lake
+Sheridan
+Dixon
+Godfrey
+Highland
 Toluca
+Heyworth
 Springfield
 East St. Louis
 Mascoutah
+Plainfield Township
 Avilla
 Batesville
 Beech Grove
@@ -13770,10 +13786,8 @@ Anderson County
 Atchison County
 Bourbon County
 Brown County
-Crawford County
 Doniphan County
 Finney County
-Ford County
 Johnson County
 Kiowa County
 Labette County
@@ -13870,7 +13884,6 @@ Edwardsville
 Kansas City
 Bell County
 Berea
-Boone County
 Breckinridge County
 Bullitt County
 Edgewood
@@ -14015,7 +14028,6 @@ Grand Traverse County
 Hillsdale County
 Ingham County
 Kalamazoo County
-Livingston County
 Macomb County
 Muskegon County
 Oakland County
@@ -14048,12 +14060,13 @@ Branson
 Callaway County
 Cass County
 Gentry County
-Greene County
 Phelps County
 Platte County
 Schuyler County
 St. Charles County
+St. Louis County
 St. Louis
+Warren County
 Jefferson City
 Billings
 Flathead County
@@ -14111,7 +14124,6 @@ Morris County
 Ocean County
 Passaic County
 Salem County
-Warren County
 Mount Laurel Township
 Jersey City
 Manchester Township
