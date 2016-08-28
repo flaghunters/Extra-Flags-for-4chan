@@ -1,12 +1,14 @@
 Amarillo
 Austin County
 Bandera County
+Bastrop County
 Bell County
 Bexar County
 Bosque County
 Brazoria County
 Brazos County
 Briscoe County
+Caldwell County
 Collin County
 Colorado County
 Comal County
@@ -14,31 +16,40 @@ Coryell County
 Dallas County
 Denton County
 Ector County
+Ellis County
 El Paso County
 Falls County
 Fort Bend County
+Galveston County
 Goliad County
 Grayson County
 Gregg County
 Grimes County
+Guadalupe County
 Harris County
+Hays County
 Hidalgo County
 Hockley County
+Hood County
 Houston County
 Jackson County
 Johnson County
 Jones County
+Kaufman County
 Liberty County
 Lipscomb County
 Live Oak County
 Llano County
 Loving County
 Lubbock
+Madison County
 Matagorda County
 McLennan County
 McMullen County
+Medina County
 Milam County
 Montague County
+Montgomery County
 Ochiltree County
 Orange County
 Palo Pinto County
@@ -46,8 +57,10 @@ Panola County
 Parker County
 Rains County
 Red River County
+Rockwall County
 San Patricio County
 Shackelford County
+Somervell County
 Starr County
 Swisher County
 Tarrant County
@@ -57,6 +70,7 @@ Travis County
 Uvalde County
 Victoria County
 Walker County
+Waller County
 Ward County
 Webb County
 Williamson County
