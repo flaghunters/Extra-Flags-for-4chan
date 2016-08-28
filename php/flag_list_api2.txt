@@ -14129,19 +14129,34 @@ Jersey City
 Manchester Township
 Alamogordo
 Bernalillo County
+Catron County
 Chaves County
+Cibola County
 Curry County
+De Baca County
 Doña Ana County
+Eddy County
+Grant County
+Guadalupe County
+Harding County
+Hidalgo County
+Lea County
 Los Alamos County
+Luna County
 McKinley County
 Mora County
+Otero County
+Quay County
 Rio Arriba County
 Roosevelt County
 Sandoval County
 San Juan County
+San Miguel County
 Santa Fe County
+Socorro County
 Taos County
 Torrance County
+Valencia County
 Albuquerque
 Rio Rancho
 Las Cruces
@@ -14422,7 +14437,6 @@ Grayson County
 Gregg County
 Grimes County
 Harris County
-Hidalgo County
 Hockley County
 Houston County
 Lipscomb County
@@ -14580,7 +14594,6 @@ Chelan County
 Clallam County
 Cowlitz County
 Ferry County
-Grant County
 Grays Harbor County
 Island County
 King County
