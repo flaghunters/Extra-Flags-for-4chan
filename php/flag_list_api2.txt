@@ -1018,6 +1018,7 @@ Vlaanderen
 Wallonie
 Anderlecht
 Auderghem
+Brussels (city)
 Elsene
 Etterbeek
 Evere
@@ -1055,6 +1056,7 @@ Brasschaat
 Brecht
 Dessel
 Duffel
+Edegem
 Essen
 Geel
 Grobbendonk
@@ -1107,6 +1109,7 @@ Wommelgem
 Wuustwezel
 Zandhoven
 Zoersel
+Zwijndrecht
 Alken
 As
 Beringen
@@ -1344,6 +1347,7 @@ Wingene
 Zedelgem
 Zonnebeke
 Zuienkerke
+Zwevegem
 Brabant-Wallon
 Hainaut
 Liège
@@ -1361,6 +1365,7 @@ Hélécine
 Incourt
 Ittre
 Jodoigne
+La Hulpe
 Lasne
 Mont-Saint-Guibert
 Nivelles
@@ -1370,6 +1375,7 @@ Perwez
 Ramillies
 Rebecq
 Rixensart
+Tubize
 Villers-la-Ville
 Walhain
 Waterloo
@@ -1440,6 +1446,7 @@ Seneffe
 Silly
 Sivry-Rance
 Soignies
+Thuin
 Tournai
 Amay
 Amblève
@@ -1505,6 +1512,7 @@ Soumagne
 Spa
 Stavelot
 Stoumont
+Theux
 Verviers
 Villers-le-Bouillet
 Visé
@@ -1550,6 +1558,7 @@ Rouvroy
 Sainte-Ode
 Saint-Hubert
 Saint-Léger
+Tintigny
 Vaux-sur-Sûre
 Vielsalm
 Virton
@@ -1564,6 +1573,7 @@ Couvin
 Dinant
 Éghezée
 Fernelmont
+Floreffe
 Florennes
 Fosses-la-Ville
 Gedinne
@@ -8254,7 +8264,6 @@ Zederik
 Zoetermeer
 Zoeterwoude
 Zuidplas
-Zwijndrecht
 Îles Loyauté Province
 Nord Province
 Sud Province
