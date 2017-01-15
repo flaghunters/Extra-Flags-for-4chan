@@ -23,7 +23,6 @@ Jomala
 Kökar
 Kumlinge
 Lemland
-Ávila
 Lumparland
 Mariehamn
 Saltvik
@@ -89,8 +88,6 @@ Chaco Province
 Chubut Province
 Córdoba Province
 Corrientes Province
-Chilliwack
-Mission
 Entre Ríos Province
 Formosa Province
 Jujuy Province
@@ -120,11 +117,6 @@ Coghlan
 Colegiales
 Constitución
 Flores
-Braunau am Inn
-Judenburg
-Moers
-Aarau
-Wettingen
 Floresta
 La Boca
 La Paternal
@@ -927,6 +919,8 @@ Steiermark
 Tirol
 Vorarlberg
 Wien
+Braunau am Inn
+Judenburg
 Baki
 Gence
 Abaco
@@ -1648,7 +1642,27 @@ Sint Eustatius
 Brcko District
 Federation of Bosnia and Herzegovina
 Republika Srpska
+Bosnian-Podrinje Canton Gorazde
+Canton 10
+Central Bosnia Canton
+Herzegovina-Neretva Canton
+Posavina Canton
+Sarajevo Canton
+Tuzla Canton
+Una-Sana Canton
+West Herzegovina Canton
+Zenica-Doboj Canton
+Mostar
+Sarajevo
+Centar
+Novi Grad
+Novo Sarajevo
+Stari Grad
+Tuzla
+Zenica
+Banja Luka
 Berkovici municipality
+Bijeljina
 Bileca municipality
 Bratunac municipality
 Brod municipality
@@ -1688,6 +1702,7 @@ Pelagicevo municipality
 Petrovac municipality
 Petrovo municipality
 Prijavor municipality
+Prijedor
 Ribnik municipality
 Rogatica municipality
 Rudo municipality
@@ -1706,27 +1721,6 @@ Visegrad municipality
 Vlasenica municipality
 Vukosavlje municipality
 Zvornik city
-Bosnian-Podrinje Canton Gorazde
-Canton 10
-Central Bosnia Canton
-Herzegovina-Neretva Canton
-Posavina Canton
-Sarajevo Canton
-Tuzla Canton
-Una-Sana Canton
-West Herzegovina Canton
-Zenica-Doboj Canton
-Mostar
-Sarajevo
-Centar
-Novi Grad
-Novo Sarajevo
-Stari Grad
-Tuzla
-Zenica
-Banja Luka
-Bijeljina
-Prijedor
 Central District
 Chobe District
 Francistown
@@ -2052,8 +2046,6 @@ Ubatuba
 Votorantim
 Água Rasa
 Ipiranga
-Itaim Bibi
-Itaim Paulista
 Jaçanã
 Jardim da Saúde
 Mooca
@@ -2066,6 +2058,8 @@ Tatuapé
 Tremembé
 Vila Mariana
 Vila Prudente
+Itaim Bibi
+Itaim Paulista
 Aracaju
 São Cristóvão
 Araguaína
@@ -2287,6 +2281,8 @@ Sooke District
 View Royal
 Kelowna
 Abbotsford
+Chilliwack
+Mission
 Anmore
 Belcarra
 Bowen Island
@@ -4970,8 +4966,6 @@ Thüringen
 Alb-Donau District
 Baden-Baden
 Biberach District
-Böblingen District
-Altdorf
 Bodensee District
 Breisgau-Hochschwarzwald District
 Calw District
@@ -5012,6 +5006,8 @@ Tuttlingen District
 Ulm
 Waldshut District
 Zollernalb District
+Böblingen District
+Altdorf
 Mittelfranken
 Niederbayern
 Oberbayern
@@ -5059,7 +5055,6 @@ Miesbach District
 Mühldorf am Inn District
 München District
 München
-Garching
 Neuburg-Schrobenhausen District
 Pfaffenhofen an der Ilm District
 Rosenheim District
@@ -5067,6 +5062,7 @@ Rosenheim
 Starnberg District
 Traunstein District
 Weilheim-Schongau District
+Garching
 Bamberg District
 Bamberg
 Bayreuth District
@@ -5499,6 +5495,7 @@ Tönisvorst
 Viersen
 Willich
 Dinslaken
+Moers
 Ahrweiler District
 Altenkirchen District
 Alzey-Worms District
@@ -7658,79 +7655,6 @@ Quintana Roo
 San Luis Potosí
 Sinaloa
 Sonora
-Aconchi
-Agua Prieta
-Álamos
-Altar
-Arivechi
-Arizpe
-Átil
-Bacadéhuachi
-Bacanora
-Bacerac
-Bacoachi
-Bácum
-Banámichi
-Baviácora
-Bavispe
-Benito Juárez
-Benjamín Hill
-Caborca
-Cajeme
-Cananea
-Carbó
-Cucurpe
-Cumpas
-Divisaderos
-Empalme
-Etchojoa
-Fronteras
-General Plutarco Elías Calles
-Granados
-Guaymas
-Hermosillo
-Huachinera
-Huásabas
-Huatabampo
-Huépac
-Imuris
-La Colorada
-Magdalena
-Mazatán
-Moctezuma
-Naco
-Nacozari de García
-Navojoa
-Nogales
-Heroica Nogales
-Ónavas
-Opodepe
-Oquitoa
-Pitiquito
-Puerto Peñasco
-Quiriego
-Rayón
-Rosario
-Sahuaripa
-San Felipe de Jesús
-San Ignacio Río Muerto
-San Javier
-San Luis Río Colorado
-San Luis Río Colorado City
-San Miguel de Horcasitas
-San Pedro de la Cueva
-Santa Ana
-Santa Cruz
-Sáric
-Soyopa
-Suaqui Grande
-Tepache
-Trincheras
-Tubutama
-Ures
-Villa Hidalgo
-Villa Pesqueira
-Yécora
 Tabasco
 Tamaulipas
 Tlaxcala
@@ -7768,6 +7692,74 @@ Othón P Blanco Municipality
 Solidaridad Municipality
 Tulum Municipality
 Chetumal
+Aconchi
+Agua Prieta
+Álamos
+Altar
+Arivechi
+Arizpe
+Átil
+Bacadéhuachi
+Bacanora
+Bacerac
+Bacoachi
+Bácum
+Banámichi
+Baviácora
+Bavispe
+Benjamín Hill
+Caborca
+Cajeme
+Cananea
+Carbó
+Cucurpe
+Cumpas
+Divisaderos
+Empalme
+Etchojoa
+Fronteras
+General Plutarco Elías Calles
+Granados
+Guaymas
+Hermosillo
+Huachinera
+Huásabas
+Huatabampo
+Huépac
+Imuris
+La Colorada
+Magdalena
+Mazatán
+Moctezuma
+Naco
+Nacozari de García
+Navojoa
+Nogales
+Ónavas
+Opodepe
+Oquitoa
+Pitiquito
+Puerto Peñasco
+Quiriego
+Rayón
+Sahuaripa
+San Felipe de Jesús
+San Ignacio Río Muerto
+San Luis Río Colorado
+San Miguel de Horcasitas
+San Pedro de la Cueva
+Sáric
+Soyopa
+Suaqui Grande
+Tepache
+Trincheras
+Tubutama
+Ures
+Villa Hidalgo
+Villa Pesqueira
+Yécora
+Heroica Nogales
+San Luis Río Colorado City
 Anenii Noi District
 Bălti
 Basarabeasca District
@@ -8256,6 +8248,7 @@ Diemen
 Drechterland
 Edam-Volendam
 Enkhuizen
+Gooise Meren
 Haarlemmerliede en Spaarnwoude
 Haarlemmermeer
 Haarlem
@@ -8275,13 +8268,6 @@ Medemblik
 Oostzaan
 Opmeer
 Ouder-Amstel
-Gooise Meren
-Nissewaard
-Nieuwegein
-Rijssen-Holten
-Basel
-Bettingen
-Riehen
 Purmerend
 Schagen
 Stede Broec
@@ -8293,7 +8279,7 @@ Waterland
 Weesp
 Wijdemeren
 Wormerland
-Zaandam
+Zaanstad
 Zandvoort
 Volendam
 Almelo
@@ -8313,6 +8299,7 @@ Oldenzaal
 Olst-Wijhe
 Ommen
 Raalte
+Rijssen-Holten
 Staphorst
 Steenwijkerland
 Tubbergen
@@ -8332,6 +8319,7 @@ IJsselstein
 Leusden
 Lopik
 Montfoort
+Nieuwegein
 Oudewater
 Renswoude
 Rhenen
@@ -8392,6 +8380,7 @@ Maassluis
 Midden-Delfland
 Molenwaard
 Nieuwkoop
+Nissewaard
 Noordwijkerhout
 Noordwijk
 Oegstgeest
@@ -8434,9 +8423,6 @@ Northland Region
 Otago Region
 Southland Region
 Taranaki Region
-Eltham
-Manaia
-Riverton
 Waikato Region
 Wellington Region
 West Coast Region
@@ -8488,9 +8474,12 @@ Lawrence
 Gore District
 Invercargill
 Southland District
+Riverton
 Stewart Island
 New Plymouth District
 South Taranaki District
+Eltham
+Manaia
 Hauraki District
 Matamata-Piako District
 Otorohanga District
@@ -8501,12 +8490,12 @@ Waipa District
 Carterton District
 Kapiti Coast District
 Lower Hutt
-Lower Hutt (city)
 Masterton District
 Porirua
 South Wairarapa District
-Featherston
 Upper Hutt
+Lower Hutt (city)
+Featherston
 Buller District
 Grey District
 Westland District
@@ -8857,76 +8846,6 @@ Tokke
 Vinje
 Balsfjord
 Berg
-Alvesta district
-Skatelöv district
-Hovmantorp locality
-Lessebo locality
-Berga district
-Bolmsö district
-Ljungby district
-Markaryd district
-Traryd district
-Algutsboda district
-Emmaboda district
-Fagerhult locality
-Högsby locality
-Hultsfred locality
-Målilla locality
-Mörlunda locality
-Virserum locality
-Madesjö district
-Nybro district
-Döderhult district
-Misterhult district
-Oskarshamn district
-Gladhammar district
-Hallingeberg district
-Loftahammar district
-Överum district
-Västervik district
-Eksjö locality
-Mariannelund locality
-Gränna locality
-Huskvarna district
-Jönköping locality
-Norrahammar district
-Bodafors locality
-Nässjö locality
-Skillingaryd locality
-Vaggeryd locality
-Bor locality
-Värnamo locality
-Åre district
-Kall district
-Mörsil district
-Undersåker district
-Berg district
-Hackås district
-Oviken district
-Bräcke locality
-Kälarne locality
-Linsell district
-Sveg district
-Tännäs district
-Offerdal district
-Brunflo locality
-Frösö locality
-Lit locality
-Östersund locality
-Fors district
-Ragunda district
-Stugun district
-Fjällsjö district
-Frostviken district
-Hammerdal district
-Ström district
-Tåsjö district
-Härjedalen
-Krokom
-Östersund
-Ragunda
-Strömsund
-Åre
 Bjarkøy
 Dyrøy
 Gaivuotna-Kåfjord
@@ -8999,14 +8918,14 @@ Ngeremlengui
 Ngiwal
 Peleliu
 Sonsorol
-Gaza
+Gaza Strip
+West Bank
 Al-Zahra
 Bani Suheila
 Beit Hanoun
 Beit Lahia
-Gaza Strip
+Gaza
 Khan Yunis
-West Bank
 Al-Bireh
 As Samu
 Beit Jala
@@ -11557,6 +11476,7 @@ Province of Segovia
 Province of Soria
 Province of Valladolid
 Province of Zamora
+Ávila
 Burgos
 Valladolid
 Province of Barcelona
@@ -11668,13 +11588,6 @@ Blekinge County
 Dalarna County
 Gävleborg County
 Gotland County
-Gotland
-Falkenberg
-Halmstad
-Hylte
-Kungsbacka
-Laholm
-Varberg
 Halland County
 Jämtland County
 Jönköping County
@@ -11693,6 +11606,10 @@ Västernorrland County
 Västmanland County
 Västra Götaland County
 Karlshamn
+Karlskrona
+Olofström
+Ronneby
+Sölvesborg
 Karlshamn locality
 Mörrum locality
 Fridlevstad locality
@@ -11707,45 +11624,68 @@ Listerby locality
 Ronneby locality
 Mjällby locality
 Sölvesborg locality
-Äppelbo locality
-Järna locality
-Nås locality
-Vansbro locality
-Norrbärke district
-Söderbärke district
-Gustafs district
-Säter district
-Silvberg district
-Stora Skedvi district
-Boda locality
-Rättvik locality
-Mora locality
-Sollerön locality
-Våmhus locality
-Lima locality
-Malung locality
-Transtrand locality
-Grangärde locality
-Ludvika locality
-Leksand locality
-Siljansnäs locality
-Garpenberg locality
-Hedemora locality
-Husby locality
-Floda locality
-Gagnef locality
+Älvdalen
+Avesta
+Borlänge
+Falun
+Gagnef
+Hedemora
+Leksand
+Ludvika
+Malung-Sälen
+Orsa
+Rättvik
+Säter
+Smedjebacken
+Vansbro
+Älvdalen locality
+Idre locality
+Särna locality
+Borlänge locality
+Torsång locality
 Bjursås locality
 Enviken locality
 Falun locality
 Sundborn locality
 Svärdsjö locality
 Vika locality
-Borlänge locality
-Torsång locality
-Älvdalen locality
-Idre locality
-Särna locality
-Visby locality
+Floda locality
+Gagnef locality
+Garpenberg locality
+Hedemora locality
+Husby locality
+Leksand locality
+Siljansnäs locality
+Grangärde locality
+Ludvika locality
+Lima locality
+Malung locality
+Transtrand locality
+Mora locality
+Sollerön locality
+Våmhus locality
+Boda locality
+Rättvik locality
+Gustafs district
+Säter district
+Silvberg district
+Stora Skedvi district
+Norrbärke district
+Söderbärke district
+Äppelbo locality
+Järna locality
+Nås locality
+Vansbro locality
+Bollnäs
+Gävle
+Hofors
+Hudiksvall
+Ljusdal
+Nordanstig
+Ockelbo
+Ovanåker
+Sandviken
+Söderhamn
 Arbrå locality
 Bollnäs locality
 Gävle locality
@@ -11768,49 +11708,59 @@ Sandviken district
 Norrala district
 Söderala district
 Söderhamn district
-Lindberga district
-Varberg district
+Gotland
+Visby locality
+Falkenberg
+Halmstad
+Hylte
+Kungsbacka
+Laholm
+Varberg
+Halmstad locality
+Harplinge locality
 Laholm locality
 Ränneslöv locality
 Våxtorp locality
-Halmstad locality
-Harplinge locality
-Karlskrona
-Olofström
-Ronneby
-Sölvesborg
-Falun
-Älvdalen
-Avesta
-Borlänge
-Gagnef
-Hedemora
-Leksand
-Ludvika
-Malung-Sälen
-Mora
-Orsa
-Rättvik
-Säter
-Smedjebacken
-Vansbro
-Hudiksvall
-Bollnäs
-Gävle
-Hofors
-Ljusdal
-Nordanstig
-Ockelbo
-Ovanåker
-Sandviken
-Söderhamn
+Lindberga district
+Varberg district
+Åre
 Bräcke
-Eksjö
-Jönköping
+Härjedalen
+Krokom
+Östersund
+Ragunda
+Strömsund
+Åre district
+Kall district
+Mörsil district
+Undersåker district
+Berg district
+Hackås district
+Oviken district
+Bräcke locality
+Kälarne locality
+Linsell district
+Sveg district
+Tännäs district
+Offerdal district
+Brunflo locality
+Frösö locality
+Lit locality
+Östersund locality
+Fors district
+Ragunda district
+Stugun district
+Fjällsjö district
+Frostviken district
+Hammerdal district
+Ström district
+Tåsjö district
 Aneby
+Eksjö
 Gislaved
 Gnosjö
 Habo
+Jönköping
 Mullsjö
 Nässjö
 Sävsjö
@@ -11818,11 +11768,23 @@ Tranås
 Vaggeryd
 Värnamo
 Vetlanda
-Kalmar
+Eksjö locality
+Mariannelund locality
+Gränna locality
+Huskvarna district
+Jönköping locality
+Norrahammar district
+Bodafors locality
+Nässjö locality
+Skillingaryd locality
+Vaggeryd locality
+Bor locality
+Värnamo locality
 Borgholm
 Emmaboda
 Högsby
 Hultsfred
+Kalmar
 Mönsterås
 Mörbylånga
 Nybro
@@ -11830,15 +11792,41 @@ Oskarshamn
 Torsås
 Västervik
 Vimmerby
-Lessebo
+Algutsboda district
+Emmaboda district
+Fagerhult locality
+Högsby locality
+Hultsfred locality
+Målilla locality
+Mörlunda locality
+Virserum locality
+Madesjö district
+Nybro district
+Döderhult district
+Misterhult district
+Oskarshamn district
+Gladhammar district
+Hallingeberg district
+Loftahammar district
+Överum district
+Västervik district
 Älmhult
 Alvesta
+Lessebo
 Ljungby
 Markaryd
 Tingsryd
 Uppvidinge
 Växjö
-Kiruna
+Alvesta district
+Skatelöv district
+Hovmantorp locality
+Lessebo locality
+Berga district
+Bolmsö district
+Ljungby district
+Markaryd district
+Traryd district
 Älvsbyn
 Arjeplog
 Arvidsjaur
@@ -11847,6 +11835,12 @@ Gällivare
 Haparanda
 Jokkmokk
 Kalix
+Kiruna
+Luleå
+Överkalix
+Övertorneå
+Pajala
+Piteå
 Karl Gustav district
 Kalix locality
 Töre locality
@@ -11856,36 +11850,29 @@ Råneå district
 Korpilombolo district
 Pajala district
 Tärendö district
-Frövi locality
-Lindesberg locality
-Ramsberg locality
-Kopparberg locality
-Örebro locality
-Stora Mellösa locality
-Mjölby locality
-Skänninge locality
-Luleå
-Överkalix
-Övertorneå
-Pajala
-Piteå
-Laxå
 Askersund
 Degerfors
 Hällefors
 Hallsberg
 Karlskoga
 Kumla
+Laxå
 Lekeberg
 Lindesberg
 Ljusnarsberg
 Nora
 Örebro
-Finspång
-Linköping
+Frövi locality
+Lindesberg locality
+Ramsberg locality
+Kopparberg locality
+Örebro locality
+Stora Mellösa locality
 Åtvidaberg
 Boxholm
+Finspång
 Kinda
+Linköping
 Mjölby
 Motala
 Norrköping
@@ -11894,25 +11881,27 @@ Söderköping
 Vadstena
 Valdemarsvik
 Ydre
-Bjuv
-Helsingborg
-Kävlinge
-Klippan
-Malmö
+Mjölby locality
+Skänninge locality
 Ängelholm
 Åstorp
 Båstad
+Bjuv
 Bromölla
 Burlöv
 Eslöv
 Hässleholm
+Helsingborg
 Höganäs
 Höör
 Hörby
+Kävlinge
+Klippan
 Kristianstad
 Landskrona
 Lomma
 Lund
+Malmö
 Örkelljunga
 Osby
 Östra Göinge
@@ -11927,17 +11916,18 @@ Tomelilla
 Trelleborg
 Vellinge
 Ystad
-Katrineholm
-Nyköping
 Eskilstuna
 Flen
 Gnesta
+Katrineholm
+Nyköping
 Oxelösund
 Strängnäs
 Trosa
 Vingåker
 Botkyrka
 Danderyd
+Ekerö
 Haninge
 Huddinge
 Järfälla
@@ -11955,16 +11945,15 @@ Solna
 Stockholm
 Sundbyberg
 Täby
-Vallentuna
-Vaxholm
-Ekerö
 Tyresö
-Upplands Väsby
 Upplands-Bro
+Upplands Väsby
+Vallentuna
 Värmdö
-Håbo
+Vaxholm
 Älvkarleby
 Enköping
+Håbo
 Heby
 Knivsta
 Östhammar
@@ -11986,7 +11975,6 @@ Säffle
 Storfors
 Sunne
 Torsby
-Skellefteå
 Åsele
 Bjurholm
 Dorotea
@@ -11995,6 +11983,7 @@ Malå
 Nordmaling
 Norsjö
 Robertsfors
+Skellefteå
 Sorsele
 Storuman
 Umeå
@@ -12014,36 +12003,33 @@ Hallstahammar
 Köping
 Kungsör
 Norberg
-Sala
 Skinnskatteberg
 Surahammar
 Västerås
-Borås
-Göteborg
-Gullspång
-Lidköping
-Mariestad
-Strömstad
-Vårgårda
 Ale
 Alingsås
 Åmål
 Bengstfors
 Bollebygd
+Borås
 Dals-Ed
 Essunga
 Falköping
 Färgelanda
+Göteborg
 Götene
 Grästorp
+Gullspång
 Härryda
 Herrljunga
 Hjo
 Karlsborg
 Kungälv
 Lerum
+Lidköping
 Lilla Edet
 Lysekil
+Mariestad
 Mark
 Mellerud
 Mölndal
@@ -12055,6 +12041,7 @@ Skara
 Skövde
 Sotenäs
 Stenungsund
+Strömstad
 Svenljunga
 Tanum
 Tibro
@@ -12067,6 +12054,7 @@ Uddevalla
 Ulricehamn
 Vänersborg
 Vara
+Vårgårda
 Canton of Aargau
 Canton of Appenzell Ausserrhoden
 Canton of Appenzell Innerrhoden
@@ -12093,6 +12081,11 @@ Canton of Valais
 Canton of Vaud
 Canton of Zug
 Canton of Zürich
+Aarau
+Wettingen
+Basel
+Bettingen
+Riehen
 Al-Hasakah Governorate
 Damascus Governorate
 Changhua County
@@ -14073,7 +14066,6 @@ West Hartford
 Wethersfield
 Windsor Locks
 Barkhamsted
-Bethlehem
 Bridgewater
 Canaan
 Goshen
@@ -14648,7 +14640,6 @@ Leawood
 Lenexa
 Merriam
 Mission Hills
-Mission
 Mission Woods
 Olathe
 Overland Park
@@ -14834,6 +14825,13 @@ Macomb County
 Muskegon County
 Oakland County
 Ottawa County
+Roscommon County
+Wayne County
+Wexford County
+Hillsdale
+Grand Rapids
+Putnam Township
+Pinckney
 Allendale Township
 Coopersville
 Ferrysburg
@@ -14844,14 +14842,6 @@ Hudsonville
 Park Township
 Robinson Township
 Spring Lake
-Zeeland (MI)
-Roscommon County
-Wayne County
-Wexford County
-Hillsdale
-Grand Rapids
-Putnam Township
-Pinckney
 Detroit
 Aitkin County
 Blue Earth County
@@ -15526,13 +15516,13 @@ Salto Department
 San José Department
 Soriano Department
 Tacuarembó Department
-Paso de los Toros
 Treinta y Tres Department
 Carmelo
 Nueva Helvecia
 Maldonado
 Punta del Este
 Montevideo
+Paso de los Toros
 Qoraqalpog'iston
 Samarqand
 Toshkent

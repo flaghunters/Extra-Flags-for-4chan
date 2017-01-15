@@ -1,29 +1,27 @@
-Borås
-Göteborg
-Gullspång
-Lidköping
-Mariestad
-Strömstad
-Vårgårda
 Ale
 Alingsås
 Åmål
 Bengstfors
 Bollebygd
+Borås
 Dals-Ed
 Essunga
 Falköping
 Färgelanda
+Göteborg
 Götene
 Grästorp
+Gullspång
 Härryda
 Herrljunga
 Hjo
 Karlsborg
 Kungälv
 Lerum
+Lidköping
 Lilla Edet
 Lysekil
+Mariestad
 Mark
 Mellerud
 Mölndal
@@ -35,6 +33,7 @@ Skara
 Skövde
 Sotenäs
 Stenungsund
+Strömstad
 Svenljunga
 Tanum
 Tibro
@@ -47,3 +46,4 @@ Uddevalla
 Ulricehamn
 Vänersborg
 Vara
+Vårgårda
