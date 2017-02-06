@@ -1,4 +1,4 @@
-Badakhshan Province
+﻿Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -14206,7 +14206,6 @@ Manatee County
 Marion County
 Martin County
 Miami-Dade County
-Monroe County
 Nassau County
 Okaloosa County
 Okeechobee County
@@ -15164,7 +15163,6 @@ Lebanon County
 Lehigh County
 Luzerne County
 Lycoming County
-McKean County
 Mifflin County
 Montour County
 Northampton County
@@ -15172,7 +15170,6 @@ Philadelphia County
 Potter County
 Schuylkill County
 Snyder County
-Susquehanna County
 Venango County
 Westmoreland County
 Gettysburg
