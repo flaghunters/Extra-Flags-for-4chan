@@ -1,4 +1,4 @@
-﻿Badakhshan Province
+Badakhshan Province
 Baghlan Province
 Bamyan Province
 Daykundi Province
@@ -25,80 +25,6 @@ Kumlinge
 Lemland
 Lumparland
 Mariehamn
-Fremont County
-Adams County
-Alamosa County
-Archuleta County
-Baca County
-Boulder County
-Chaffee County
-Cheyenne County
-Clear Creek County
-Conejos County
-Crowley County
-Eagle County
-El Paso County
-Elbert County
-Fremont County
-Garfield County
-Gunnison County
-Hinsdale County
-Jackson County
-Jefferson County
-La Plata County
-Larimer County
-Las Animas County
-Brown County
-Charlestown
-Elkhart
-Greensburg
-West Baden Springs
-Mesa County
-Mineral County
-Morgan County
-Otero County
-Ouray County
-Park County
-Pitkin County
-Prowers County
-Rio Blanco County
-Rio Grande County
-San Miguel County
-Yuma County
-Beaverhead County
-Big Horn County
-Blaine County
-Broadwater County
-Carbon County
-Cascade County
-Custer County
-Dawson County
-Deer Lodge County
-Fergus County
-Garfield County
-Glacier County
-Granite County
-Hill County
-Lake County
-Lincoln County
-Madison County
-McCone County
-Missoula County
-Musselshell County
-Park County
-Powell County
-Ravalli County
-Richland County
-Roosevelt County
-Rosebud County
-Sanders County
-Silver Bow County
-Stillwater County
-Sweet Grass County
-Toole County
-Teton County
-Valley County
-Yellowstone County
 Saltvik
 Sottunga
 Sund
@@ -5040,6 +4966,7 @@ Thüringen
 Alb-Donau District
 Baden-Baden
 Biberach District
+Böblingen District
 Bodensee District
 Breisgau-Hochschwarzwald District
 Calw District
@@ -5080,7 +5007,6 @@ Tuttlingen District
 Ulm
 Waldshut District
 Zollernalb District
-Böblingen District
 Altdorf
 Mittelfranken
 Niederbayern
@@ -10190,6 +10116,13 @@ Vieques
 Villalba
 Yabucoa
 Yauco
+Frailes
+Guaraguao
+Hato Nuevo
+Mamey
+Pueblo
+Río
+Sonadora
 Bras-Panon
 La Possession
 Saint-Benoît
@@ -11886,28 +11819,6 @@ Loftahammar district
 Västervik district
 Älmhult
 Alvesta
-Albany County
-Benton County
-Crook County
-Curry County
-Deschutes County
-Douglas County
-Gilliam County
-Grant County
-Josephine County
-Klamath County
-Lake County
-Lane County
-Lincoln County
-Malheur County
-Marion County
-Polk County
-Sherman County
-Tillamook County
-Umatilla County
-Union County
-Wasco County
-Yamhill County
 Lessebo
 Ljungby
 Markaryd
@@ -13818,27 +13729,55 @@ Wyoming
 Andalusia
 Atmore
 Auburn
+Autauga County
 Baldwin County
+Bibb County
+Blount County
+Bullock County
+Calhoun County
 Chatom
 Cherokee County
+Clarke County
+Clay County
 Cleburne County
+Coffee County
+Coosa County
 Cullman
+Dale County
+Dallas County
 Dauphin Island
 Decatur
 Elba
+Elmore County
 Enterprise
+Etowah County
 Florence
+Franklin County
 Gadsden
 Greensboro
+Henry County
+Houston County
 Indian Springs
 Jackson
+Jefferson County
+Lee County
+Limestone County
 Macon County
 Madison County
 Mobile County
-Montgomery
+Montgomery County
+Morgan County
 Ozark
 Pelham
+Pickens County
+Randolph County
 Red Bay
+Russell County
+Shelby County
+St. Clair County
+Sumter County
+Talladega County
+Tallapoosa County
 Tuscaloosa County
 Vance
 Vestavia Hills
@@ -14082,32 +14021,62 @@ Fillmore
 Moorpark
 Port Hueneme
 Woodland
+Adams County
+Alamosa County
 Arapahoe County
+Archuleta County
 Arvada
 Aspen
+Baca County
+Boulder County
 Broomfield
+Chaffee County
+Cheyenne County
+Clear Creek County
 Colorado Springs
 Commerce City
+Conejos County
+Crowley County
 Custer County
 Denver
 Dolores County
 Douglas County
+Eagle County
+Elbert County
+El Paso County
 Estes Park
 Fort Collins
+Fremont County
+Garfield County
 Gilpin County
 Golden
 Grand County
+Gunnison County
+Hinsdale County
+Jackson County
 La Junta
+La Plata County
+Larimer County
+Las Animas County
 Loveland
+Mesa County
+Mineral County
 Montrose
+Otero County
+Ouray County
+Park County
 Phillips County
+Pitkin County
+Prowers County
 Pueblo County
+Rio Blanco County
+Rio Grande County
 Saguache County
+San Miguel County
 Summit County
 Teller County
 Weld County
 Centennial
-Pueblo
 Evans
 Thornton
 Fairfield County
@@ -14267,10 +14236,8 @@ Bay County
 Bradford County
 Brevard County
 Broward County
-Calhoun County
 Charlotte County
 Citrus County
-Clay County
 Collier County
 Columbia County
 DeSoto County
@@ -14278,7 +14245,6 @@ Dixie County
 Duval County
 Escambia County
 Flagler County
-Franklin County
 Gadsden County
 Gilchrist County
 Glades County
@@ -14291,10 +14257,7 @@ Highlands County
 Hillsborough County
 Holmes County
 Indian River County
-Jackson County
-Jefferson County
 Lafayette County
-Lee County
 Leon County
 Levy County
 Liberty County
@@ -14302,6 +14265,7 @@ Manatee County
 Marion County
 Martin County
 Miami-Dade County
+Monroe County
 Nassau County
 Okaloosa County
 Okeechobee County
@@ -14316,7 +14280,6 @@ Sarasota County
 Seminole County
 St. Johns County
 St. Lucie County
-Sumter County
 Suwannee County
 Taylor County
 Union County
@@ -14443,7 +14406,6 @@ Kalawao County
 Kauai County
 Maui County
 Ada County
-Adams County
 Bannock County
 Bear Lake County
 Benewah County
@@ -14459,8 +14421,6 @@ Caribou County
 Cassia County
 Clark County
 Clearwater County
-Elmore County
-Fremont County
 Gem County
 Gooding County
 Idaho County
@@ -14512,12 +14472,10 @@ Livingston County
 Marshall County
 McHenry County
 McLean County
-Morgan County
 Moultrie County
 Ogle County
 Peoria County
 Sangamon County
-St. Clair County
 Stephenson County
 Will County
 Winnebago County
@@ -14576,17 +14534,21 @@ Batesville
 Beech Grove
 Berne
 Borden
+Brown County
 Carmel
+Charlestown
 Clarksville
 Danville
 Daviess County
 East Chicago
+Elkhart
 Evansville
 Fairview Park
 Ferdinand
 Fishers
 Fort Wayne
 Gary
+Greensburg
 Greenwood
 Hammond
 Hancock County
@@ -14607,6 +14569,7 @@ Tipton
 Valparaiso
 Vincennes
 Warsaw
+West Baden Springs
 West Lafayette
 Winona Lake
 Greenfield
@@ -14674,7 +14637,6 @@ Allen County
 Anderson County
 Atchison County
 Bourbon County
-Brown County
 Doniphan County
 Finney County
 Johnson County
@@ -14861,7 +14823,6 @@ Frederick County
 Garrett County
 Harford County
 Howard County
-Montgomery County
 Prince George's County
 Queen Anne's County
 Saint Mary's County
@@ -14892,14 +14853,270 @@ Hampshire County
 Nantucket
 Plymouth County
 Suffolk County
+Barnstable
+Bourne
+Brewster
+Chatham
+Dennis
+Eastham
 Falmouth
+Harwich
+Mashpee
+Orleans
+Provincetown
+Sandwich
+Truro
+Wellfleet
+Yarmouth
+Adams
+Alford
+Becket
+Clarksburg
+Dalton
+Egremont
+Great Barrington
+Hancock
+Hinsdale
+Lanesborough
+Lee
+Lenox
+Mount Washington
+New Marlborough
+North Adams
+Otis
+Peru
+Pittsfield
+Sandisfield
+Savoy
+Sheffield
+Stockbridge
+Tyringham
+West Stockbridge
+Williamstown
+Acushnet
+Attleboro
+Berkley
+Dartmouth
+Dighton
+Fairhaven
+Fall River
+Freetown
 New Bedford
+North Attleborough
+Norton
+Raynham
+Seekonk
 Taunton
+Gosnold
+Martha's Vineyard
+Aquinnah
+Chilmark
+Edgartown
+Oak Bluffs
+Tisbury
+West Tisbury
+Amesbury
+Andover
+Beverly
 Boxford
+Danvers
+Georgetown
+Groveland
+Haverhill
+Lynnfield
+Lynn
+Manchester-by-the-Sea
+Marblehead
+Merrimac
+Methuen
+Middleton
+Nahant
+Newbury
+Newburyport
+North Andover
+Peabody
+Rockport
+Rowley
+Saugus
+Swampscott
+Topsfield
+Wenham
+West Newbury
+Bernardston
+Buckland
+Charlemont
+Colrain
+Deerfield
+Erving
+Gill
+Hawley
+Heath
+Leverett
+Leyden
+Montague
+New Salem
+Northfield
+Rowe
+Shelburne
+Shutesbury
+Wendell
+Whately
+Agawam
+Blandford
+Brimfield
+Chicopee
+East Longmeadow
+Granville
+Hampden
+Holland
+Holyoke
+Longmeadow
+Ludlow
+Monson
+Montgomery
+Palmer
+Russell
+Southwick
+Westfield
+West Springfield
+Wilbraham
+Amherst
+Belchertown
+Chesterfield
+Cummington
+Easthampton
+Hadley
+Hatfield
+Huntington
+South Hadley
+Westhampton
+Worthington
+Acton
+Arlington
+Ashby
+Ashland
+Ayer
+Billerica
+Boxborough
+Chelmsford
+Dracut
+Dunstable
+Everett
+Framingham
+Holliston
+Hopkinton
+Hudson
+Lexington
+Littleton
 Lowell
+Malden
+Maynard
 Medford
+Melrose
+Natick
+Newton
+North Reading
+Pepperell
+Sherborn
+Shirley
+Somerville
+Stoneham
+Stow
+Sudbury
+Tewksbury
+Townsend
+Tyngsborough
+Wakefield
+Waltham
+Wayland
+Westford
+Woburn
+Bellingham
+Braintree
+Brookline
+Cohasset
+Dedham
+Foxborough
+Holbrook
+Medfield
+Medway
+Millis
+Needham
+Norwood
+Quincy
+Randolph
+Sharon
+Stoughton
+Walpole
+Wellesley
+Wrentham
+Abington
+Brockton
+Carver
+Duxbury
+East Bridgewater
+Halifax
+Hanover
+Hanson
+Hingham
+Hull
+Lakeville
+Marshfield
+Mattapoisett
+Middleborough
+Norwell
+Plympton
+Rochester
+Rockland
+Scituate
+Wareham
+West Bridgewater
+Whitman
 Boston
+Chelsea
+Revere
+Winthrop
+Ashburnham
+Athol
+Barre
+Blackstone
+Boylston
+Charleton
+East Brookfield
+Fitchburg
+Hardwick
+Harvard
+Holden
+Hopedale
+Hubbardston
+Leicester
+Leomister
+Lunenburg
+Mendon
+Milbury
+Millville
+New Braintree
+Northborough
+Northbridge
+North Brookfield
+Oakham
+Paxton
+Petersham
+Phillipston
+Princeton
+Royalston
+Shrewsbury
+Southborough
+Southbridge
+Spencer
 Sturbridge
+Upton
+Ware
+Webster
+Westborough
+West Boylston
+West Brookfield
+Winchendon
 Alcona County
 Alger County
 Alpena County
@@ -14932,7 +15149,6 @@ Coopersville
 Ferrysburg
 Georgetown Township
 Grand Haven
-Holland
 Hudsonville
 Park Township
 Robinson Township
@@ -14948,7 +15164,6 @@ Olmsted County
 Pipestone County
 Ramsey County
 Minneapolis
-Rochester
 Little Canada
 Saint Paul
 Shoreview
@@ -14972,13 +15187,35 @@ Webster County
 Jefferson City
 Rolla
 Branson
-Marshfield
+Beaverhead County
+Big Horn County
 Billings
+Broadwater County
+Carbon County
+Cascade County
+Deer Lodge County
+Fergus County
 Flathead County
 Gallatin County
+Glacier County
+Granite County
+Hill County
 Lewis and Clark County
-Helena
+McCone County
+Missoula County
+Musselshell County
+Powell County
+Ravalli County
+Richland County
+Roosevelt County
+Rosebud County
+Sanders County
+Silver Bow County
+Stillwater County
+Sweet Grass County
+Toole County
 Yellowstone County
+Helena
 Chase County
 Colfax County
 Dakota County
@@ -14999,7 +15236,6 @@ Elko County
 Esmeralda County
 Eureka County
 Lander County
-Mineral County
 Nye County
 Pershing County
 Storey County
@@ -15050,13 +15286,10 @@ Los Alamos County
 Luna County
 McKinley County
 Mora County
-Otero County
 Quay County
 Rio Arriba County
-Roosevelt County
 Sandoval County
 San Juan County
-San Miguel County
 Santa Fe County
 Socorro County
 Taos County
@@ -15113,7 +15346,6 @@ The Bronx
 Syracuse
 Babylon
 Brookhaven
-Huntington
 Islip
 Riverhead
 Smithtown
@@ -15188,7 +15420,6 @@ Defiance County
 Gallia County
 Geauga County
 Guernsey County
-Henry County
 Highland County
 Hocking County
 Lawrence County
@@ -15205,11 +15436,9 @@ Paulding County
 Pickaway County
 Portage County
 Preble County
-Richland County
 Ross County
 Sandusky County
 Scioto County
-Shelby County
 Stark County
 Trumbull County
 Tuscarawas County
@@ -15233,8 +15462,20 @@ Tulsa
 Broken Arrow
 Clackamas County
 Clatsop County
+Crook County
+Deschutes County
+Gilliam County
 Harney County
+Josephine County
+Klamath County
+Lane County
+Malheur County
 Multnomah County
+Sherman County
+Tillamook County
+Umatilla County
+Wasco County
+Yamhill County
 Allegheny County
 Armstrong County
 Beaver County
@@ -15244,7 +15485,6 @@ Blair County
 Bucks County
 Cambria County
 Cameron County
-Carbon County
 Centre County
 Chester County
 Clarion County
@@ -15256,34 +15496,6 @@ Indiana County
 Juniata County
 Lackawanna County
 Lebanon County
-Autauga County
-Bibb County
-Blount County
-Bullock County
-Calhoun County
-Clarke County
-Clay County
-Coffee County
-Coosa County
-Dale County
-Dallas County
-Elmore County
-Etowah County
-Franklin County
-Henry County
-Houston County
-Jefferson County
-Lee County
-Limestone County
-Morgan County
-Pickens County
-Randolph County
-Russell County
-Shelby County
-St. Clair County
-Sumter County
-Talladega County
-Tallapoosa County
 Lehigh County
 Luzerne County
 Lycoming County
@@ -15329,7 +15541,6 @@ Pierre
 Rapid City
 Sioux Falls
 Vermillion
-Blount County
 Campbell County
 Carter County
 Cheatham County
@@ -15359,11 +15570,9 @@ Collin County
 Colorado County
 Comal County
 Coryell County
-Dallas County
 Denton County
 Ector County
 Ellis County
-El Paso County
 Falls County
 Fort Bend County
 Galveston County
@@ -15375,7 +15584,6 @@ Harris County
 Hays County
 Hockley County
 Hood County
-Houston County
 Kaufman County
 Lipscomb County
 Live Oak County
@@ -15425,7 +15633,6 @@ Houston
 Austin
 Waco
 Corpus Christi
-Arlington
 Euless
 Keller
 Laredo
@@ -15435,7 +15642,6 @@ Daggett County
 Davis County
 Duchesne County
 Emery County
-Garfield County
 Iron County
 Juab County
 Millard County
@@ -15465,7 +15671,6 @@ Grand Isle County
 Lamoille County
 Rutland County
 Windsor County
-Barre
 Accomack County
 Albemarle County
 Amherst County
@@ -15479,7 +15684,6 @@ Charles City County
 Charlottesville
 Chesapeake
 Chesterfield County
-Clarke County
 Colonial Heights
 Culpeper County
 Dinwiddie County
@@ -15530,7 +15734,6 @@ Annandale
 Fairfax City
 Herndon
 Pearisburg
-Ashland
 Leesburg
 Blacksburg
 Christiansburg
@@ -15570,11 +15773,9 @@ Renton
 Seattle
 Puyallup
 Tacoma
-Everett
 Spokane
 Yakima
 Barbour County
-Clarksburg
 Morgantown
 Parkersburg
 Raleigh County
@@ -15590,15 +15791,12 @@ Sheboygan County
 Waukesha County
 Appleton
 Milwaukee
-Big Horn County
 Converse County
-Crook County
 Goshen County
 Hot Springs County
 Laramie County
 Natrona County
 Niobrara County
-Park County
 Sheridan County
 Sublette County
 Sweetwater County

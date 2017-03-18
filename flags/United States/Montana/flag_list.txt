@@ -1,9 +1,6 @@
-Billings
-Flathead County
-Gallatin County
-Lewis and Clark County
 Beaverhead County
 Big Horn County
+Billings
 Blaine County
 Broadwater County
 Carbon County
@@ -12,11 +9,14 @@ Custer County
 Dawson County
 Deer Lodge County
 Fergus County
+Flathead County
+Gallatin County
 Garfield County
 Glacier County
 Granite County
 Hill County
 Lake County
+Lewis and Clark County
 Lincoln County
 Madison County
 McCone County
@@ -32,7 +32,7 @@ Sanders County
 Silver Bow County
 Stillwater County
 Sweet Grass County
-Toole County
 Teton County
+Toole County
 Valley County
 Yellowstone County
