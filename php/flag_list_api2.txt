@@ -14357,49 +14357,128 @@ North Port
 Sarasota
 Port St. Lucie
 Port Orange
-Alto
-Aragon
-Athens
-Augusta
-Bainbridge
-Brunswick
+Athens-Clarke County
+Augusta-Richmond County
+Banks County
+Barrow County
+Bartow County
+Ben Hill County
+Berrien County
+Bryan County
 Bulloch County
+Burke County
+Butts County
 Camden County
-Centerville
-Chickamauga
-Clarkston
+Candler County
+Carroll County
+Catoosa County
+Charlton County
+Chatham County
+Chattahoochee County
+Chattooga County
 Clayton County
 Cobb County
-Columbus
+Colquitt County
+Cook County
 Cordele
-Covington
 Coweta County
+Crawford County
+Dade County
 Dawson County
+Decatur County
 DeKalb County
-Duluth
+Dougherty County
+Echols County
+Effingham County
+Emanuel County
+Evans County
+Fannin County
+Fayette County
+Floyd County
+Forsyth County
 Fulton County
-Gray
-Grayson
-Hahira
-Jekyll Island
-LaFayette
-Lake Park
-Mt. Zion
+Gilmer County
+Glascock County
+Glynn County
+Gordon County
+Grady County
+Greene County
+Gwinnett County
+Habersham County
+Hall County
+Haralson County
+Harris County
+Hart County
+Heard County
+Irwin County
+Jasper County
+Jones County
+Laurens County
+Lincoln County
+Long County
+Lowndes County
+Lumpkin County
+Macon-Bibb County
+McIntosh County
+Meriwether County
+Miller County
+Mitchell County
+Murray County
+Muscogee County
+Newton County
+Oconee County
 Oglethorpe County
-Peachtree
+Paulding County
+Peach County
 Pierce County
-Porterdale
-Savannah
-Summerville
-Swainsboro
-Trenton
+Pike County
+Rabun County
+Rockdale County
+Spalding County
+Stephens County
+Tattnall County
+Thomas County
+Tift County
+Toombs County
+Towns County
+Treutlen County
+Troup County
 Turner County
+Upson County
+Walker County
+Ware County
+Wayne County
+Whitfield County
+Wilkinson County
+Alto
+Mount Zion
+Savannah
 Tybee Island
-Vidalia
-Walnut Grove
+Summerville
+Trenton
+Bainbridge
 Atlanta
+Clarkston
 Douglasville
+Swainsboro
+Peachtree
 Roswell
+Brunswick
+Jekyll Island
+Duluth
+Grayson
+Centerville
+Gray
+Hahira
+Lake Park
+Columbus
+Covington
+Porterdale
+Aragon
+Vidalia
+Chickamauga
+LaFayette
+Walnut Grove
 Hawaii County
 Honolulu
 Kalawao County
@@ -14429,7 +14508,6 @@ Kootenai County
 Latah County
 Lemhi County
 Lewis County
-Lincoln County
 Minidoka County
 Nez Perce County
 Oneida County
@@ -14451,17 +14529,12 @@ Post Falls
 Salmon
 Twin Falls
 Boone County
-Carroll County
 Clinton County
-Cook County
-Crawford County
 DeWitt County
 DuPage County
 Ford County
-Greene County
 Grundy County
 Iroquois County
-Jasper County
 Jersey County
 Jo Daviess County
 Kane County
@@ -14558,7 +14631,6 @@ Lafayette
 Monticello
 Mooresville
 New Albany
-Pike County
 Portage
 Schererville
 Speedway
@@ -14615,10 +14687,8 @@ Black Hawk County
 Davenport
 Dickinson County
 Dubuque County
-Fayette County
 Fort Dodge
 Hardin County
-Jones County
 Linn County
 Mahaska County
 O Brien County
@@ -14807,6 +14877,7 @@ Sagadahoc County
 Somerset County
 Waldo County
 York County
+Augusta
 Bangor
 Lubec
 Biddeford
@@ -15124,7 +15195,6 @@ Ann Arbor
 Baraga County
 Barry County
 Benzie County
-Berrien County
 Cheboygan County
 Chippewa County
 Genesee County
@@ -15138,7 +15208,6 @@ Muskegon County
 Oakland County
 Ottawa County
 Roscommon County
-Wayne County
 Wexford County
 Hillsdale
 Grand Rapids
@@ -15221,7 +15290,6 @@ Colfax County
 Dakota County
 Dodge County
 Garden County
-Hall County
 Keith County
 Lancaster County
 Nuckolls County
@@ -15381,7 +15449,6 @@ Johnston County
 Lenoir County
 McDowell County
 Mecklenburg County
-Mitchell County
 New Hanover County
 Onslow County
 Pitt County
@@ -15432,7 +15499,6 @@ Meigs County
 Morrow County
 Muskingum County
 Noble County
-Paulding County
 Pickaway County
 Portage County
 Preble County
@@ -15451,7 +15517,6 @@ Cleveland
 Cincinnati
 Dayton
 Akron
-Bryan County
 Cleveland County
 Norman
 Oklahoma City
@@ -15535,7 +15600,6 @@ Florence County
 Lexington County
 Myrtle Beach
 North Charleston
-Oconee County
 Rock Hill
 Pierre
 Rapid City
@@ -15557,67 +15621,130 @@ Nashville
 Chattanooga
 Knoxville
 Memphis
-Amarillo
+Andrews County
+Angelina County
+Aransas County
+Atascosa County
 Austin County
 Bandera County
 Bastrop County
 Bexar County
 Bosque County
+Bowie County
 Brazoria County
 Brazos County
 Briscoe County
+Burleson County
+Burnet County
+Chambers County
+Coleman County
 Collin County
 Colorado County
 Comal County
+Comanche County
+Cooke County
 Coryell County
+Crane County
+Crockett County
+Dallam County
 Denton County
+Dimmit County
+Donley County
 Ector County
 Ellis County
+Erath County
 Falls County
+Fisher County
 Fort Bend County
+Frio County
+Gaines County
 Galveston County
+Garza County
+Gillespie County
 Goliad County
+Gonzales County
 Grayson County
 Gregg County
 Grimes County
-Harris County
+Hale County
+Hartley County
+Haskell County
 Hays County
 Hockley County
 Hood County
+Hopkins County
+Hunt County
+Jeff Davis County
+Jim Hogg County
+Jim Wells County
+Karnes County
 Kaufman County
+Kerr County
+Kleberg County
+La Salle County
+Lavaca County
 Lipscomb County
 Live Oak County
 Llano County
 Loving County
-Lubbock
+Lubbock County
+Lynn County
 Matagorda County
+Maverick County
+McCulloch County
 McLennan County
 McMullen County
+Midland County
 Milam County
 Montague County
+Nacogdoches County
+Nolan County
+Nueces County
 Ochiltree County
 Palo Pinto County
 Panola County
 Parker County
+Parmer County
+Pecos County
 Rains County
+Randall County
+Reagan County
 Red River County
 Rockwall County
+Rusk County
+Sabine County
+San Augustine County
 San Patricio County
+Schleicher County
 Shackelford County
+Smith County
 Somervell County
 Starr County
 Swisher County
 Tarrant County
 Terrell County
 Terry County
+Throckmorton County
+Titus County
+Tom Green County
 Travis County
+Tyler County
+Upshur County
 Uvalde County
-Walker County
+Val Verde County
+Van Zandt County
 Waller County
 Ward County
 Webb County
-Wimberley
+Wharton County
+Wheeler County
+Wichita County
+Willacy County
+Winkler County
 Wise County
+Yoakum County
+Zapata County
+Zavala County
 Killeen
 Von Ormy
 College Station
@@ -15631,7 +15758,10 @@ Denton
 Fort Worth
 Houston
 Austin
+Wimberley
+Lubbock
 Waco
+Amarillo
 Corpus Christi
 Euless
 Keller
