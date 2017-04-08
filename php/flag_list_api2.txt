@@ -7114,10 +7114,10 @@ Seirijai
 Šeštokai
 Veisiejai
 Marcinkonys
-Merkinė
+Merkine
 Perlojai
 Valkininkai
-Varėna
+Varena
 Birštonas Municipality
 Jonava District Municipality
 Kaišiadorys District Municipality
@@ -7144,7 +7144,7 @@ Lapes
 Raudondvaris
 Gudžiūnai
 Josvainiai
-Kėdainiai
+Kedainiai
 Ašminta
 Balbieriškis
 Išlaužas
@@ -7159,28 +7159,27 @@ Girkalnis
 Nemakščiai
 Šiluva
 Vidukle
-Klaipėda District Municipality
-Klaipėda
+Klaipeda District Municipality
+Klaipeda
 Kretinga District Municipality
 Neringa Municipality
 Palanga
-Šilutė District Municipality
+Šilute District Municipality
 Skuodas District Municipality
 Gargždai
-Priekulė
 Kretinga
 Salantai
 Degučiai
-Rusnė
-Šilutė
-Švėkšna
+Rusne
+Šilute
+Švekšna
 Vainutas
 Žemaičių Naumiestis
-Mosėdis
+Mosedis
 Ylakiai
 Kalvarija Municipality
 Kazlų Rūda Municipality
-Marijampolė Municipality
+Marijampole Municipality
 Šakiai District Municipality
 Vilkaviškis District Municipality
 Liudvinavas
@@ -7189,7 +7188,7 @@ Barzdai
 Gelgaudiškis
 Griškabūdis
 Kiduliai
-Lekėčiai
+Lekečiai
 Lukšiai
 Plokščiai
 Šakiai
@@ -7203,12 +7202,12 @@ Pilviškiai
 Vilkaviškis
 Biržai District Municipality
 Kupiškis District Municipality
-Panevėžys District Municipality
-Panevėžys
+Panevežys District Municipality
+Panevežys
 Pasvalys District Municipality
 Rokiškis District Municipality
 Biržai
-Nemunėlio Radviliškis
+Nemunelio Radviliškis
 Vabalninkas
 Kupiškis
 Karsakiškis
@@ -7216,15 +7215,15 @@ Krekenava
 Paįstrys
 Raguva
 Ramygala
-Upytė
-Daujėnai
-Joniškėlis
+Upyte
+Daujenai
+Joniškelis
 Pasvalys
 Vaškai
-Juodupė
+Juodupe
 Kamajai
 Obeliai
-Pandėlys
+Pandelys
 Rokiškis
 Akmene District Municipality
 Joniškis District Municipality
@@ -7233,20 +7232,20 @@ Pakruojis District Municipality
 Radviliškis District Municipality
 Šiauliai District Municipality
 Šiauliai
-Akmenė
+Akmene
 Kruopiai
-Naujoji Akmenė
-Papilė
+Naujoji Akmene
+Papile
 Venta
 Joniškis
 Kriukai
 Rudiškiai
 Skaistgirys
 Žagare
-Kelmė
+Kelme
 Kražiai
-Šaukėnai
-Tytuvėnai
+Šaukenai
+Tytuvenai
 Užventis
 Linkuva
 Pakruojis
@@ -7269,26 +7268,26 @@ Meskuiciai
 Raudenai
 Sakyna
 Jurbarkas District Municipality
-Pagėgiai Municipality
-Šilalė District Municipality
-Tauragė District Municipality
+Pagegiai Municipality
+Šilale District Municipality
+Taurage District Municipality
 Jurbarkas
-Raudonė
+Raudone
 Seredžius
-Skirsnemunė
+Skirsnemune
 Veliuona
-Pagėgiai
+Pagegiai
 Stoniškiai
 Vilkyškiai
 Bijotai
-Kvėdarna
+Kvedarna
 Laukuva
-Šilalė
+Šilale
 Batakiai
-Gaurė
+Gaure
 Mažonai
-Skaudvilė
-Tauragė
+Skaudvile
+Taurage
 Žygaičiai
 Mažeikiai District Municipality
 Plunge District Municipality
@@ -7301,7 +7300,7 @@ Viekšniai
 Alsedžiai
 Kuliai
 Plateliai
-Plungė
+Plunge
 Žemaičių Kalvarija
 Rietavas
 Luoke
@@ -7362,8 +7361,8 @@ Lentvaris
 Senieji Trakai
 Trakai
 Siesikai
-Taujėnai
-Ukmergė
+Taujenai
+Ukmerge
 Želva
 Maišiagala
 Nemenčine
