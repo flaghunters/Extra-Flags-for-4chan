@@ -1,8 +1,8 @@
 Alstahaug
 Bindal
 Bodø
-Bø
 Brønnøy
+Bø
 Evenes
 Fauske
 Flakstad
@@ -16,15 +16,14 @@ Lurøy
 Moskenes
 Narvik
 Nesna
-Øksnes
 Rana
 Rødøy
 Røst
 Saltdal
-Sømna
-Sørfold
 Sortland
 Steigen
+Sømna
+Sørfold
 Tjeldsund
 Træna
 Tysfjord
@@ -33,3 +32,4 @@ Vågan
 Vega
 Vestvågøy
 Vevelstad
+Øksnes
