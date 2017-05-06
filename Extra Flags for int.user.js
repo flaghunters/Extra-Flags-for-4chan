@@ -6,10 +6,12 @@
 // @include     http*://boards.4chan.org/int/*
 // @include     http*://boards.4chan.org/sp/*
 // @include     http*://boards.4chan.org/pol/*
+// @include     http*://boards.4chan.org/bant/*
 // @exclude     http*://boards.4chan.org/int/catalog
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
-// @version     0.27
+// @exclude     http*://boards.4chan.org/bant/catalog
+// @version     0.28
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -366,7 +368,7 @@ function onFlagsLoad(response) {
 /** fetch flags from db */
 function resolveRefFlags() {
     var boardID = window.location.pathname.split('/')[1];
-    if (boardID === "int" || boardID === "sp" || boardID === "pol") {
+    if (boardID === "int" || boardID === "sp" || boardID === "pol" || boardID === "bant") {
 
         GM_xmlhttpRequest({
             method: "POST",
