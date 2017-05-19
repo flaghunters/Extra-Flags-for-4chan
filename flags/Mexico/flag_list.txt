@@ -4,7 +4,7 @@ Baja California Sur
 Campeche
 Chiapas
 Chihuahua
-Ciudad de M√©xico
+Ciudad de MÈxico
 Coahuila
 Colima
 Durango
@@ -12,21 +12,21 @@ Guanajuato
 Guerrero
 Hidalgo
 Jalisco
-M√©xico
-Michoac√°n
+MÈxico
+Michoac·n
 Morelos
 Nayarit
-Nuevo Le√≥n
+Nuevo LeÛn
 Oaxaca
 Puebla
-Quer√©taro
+QuerÈtaro
 Quintana Roo
-San Luis Potos√≠
+San Luis PotosÌ
 Sinaloa
 Sonora
 Tabasco
 Tamaulipas
 Tlaxcala
 Veracruz
-Yucat√°n
+Yucat·n
 Zacatecas
