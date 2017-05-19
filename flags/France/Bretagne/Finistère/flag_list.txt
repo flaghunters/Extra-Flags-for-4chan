@@ -3,7 +3,7 @@ Arzano
 Audierne
 Bannalec
 Baye
-Bénodet
+BÃ©nodet
 Berrien
 Beuzec-Cap-Sizun
 Bodilis
@@ -13,7 +13,7 @@ Botmeur
 Botsorhel
 Bourg-Blanc
 Brasparts
-Brélès
+BrÃ©lÃ¨s
 Brennilis
 Brest
 Briec
@@ -22,14 +22,14 @@ Camaret-sur-Mer
 Carantec
 Carhaix-Plouguer
 Cast
-Châteaulin
-Châteauneuf-du-Faou
-Cléden-Cap-Sizun
-Cléden-Poher
-Cléder
-Clohars-Carnoët
+ChÃ¢teaulin
+ChÃ¢teauneuf-du-Faou
+ClÃ©den-Cap-Sizun
+ClÃ©den-Poher
+ClÃ©der
+Clohars-CarnoÃ«t
 Clohars-Fouesnant
-Coat-Méal
+Coat-MÃ©al
 Collorec
 Combrit
 Commana
@@ -38,17 +38,17 @@ Confort-Meilars
 Coray
 Crozon
 Daoulas
-Dinéault
+DinÃ©ault
 Dirinon
 Douarnenez
 Edern
 Elliant
-Ergué-Gabéric
+ErguÃ©-GabÃ©ric
 Fouesnant
 Garlan
 Gouesnac'h
 Gouesnou
-Gouézec
+GouÃ©zec
 Goulien
 Goulven
 Gourlizon
@@ -59,40 +59,40 @@ Guilers
 Guiler-sur-Goyen
 Guilligomarc'h
 Guilvinec
-Guimaëc
+GuimaÃ«c
 Guimiliau
 Guipavas
 Guipronvel
-Guissény
+GuissÃ©ny
 Hanvec
 Henvic
-Hôpital-Camfrout
+HÃ´pital-Camfrout
 Huelgoat
-Île-de-Batz
-Île-de-Sein
-Île-Molène
-Île-Tudy
+Ãle-de-Batz
+Ãle-de-Sein
+Ãle-MolÃ¨ne
+Ãle-Tudy
 Irvillac
 Kergloff
 Kerlaz
 Kerlouan
 Kernilis
-Kernouës
+KernouÃ«s
 Kersaint-Plabennec
-La Feuillée
+La FeuillÃ©e
 La Forest-Landerneau
-La Forêt-Fouesnant
+La ForÃªt-Fouesnant
 La Martyre
 Lampaul-Guimiliau
 Lampaul-Plouarzel
-Lampaul-Ploudalmézeau
+Lampaul-PloudalmÃ©zeau
 Lanarvily
-Landéda
+LandÃ©da
 Landeleau
 Landerneau
-Landévennec
+LandÃ©vennec
 Landivisiau
-Landrévarzec
+LandrÃ©varzec
 Landudal
 Landudec
 Landunvez
@@ -100,35 +100,35 @@ Langolen
 Lanhouarneau
 Lanildut
 Lanmeur
-Lannéanou
-Lannédern
+LannÃ©anou
+LannÃ©dern
 Lanneuffret
 Lannilis
-Lanrivoaré
-Lanvéoc
+LanrivoarÃ©
+LanvÃ©oc
 Laz
-Le Cloître-Pleyben
-Le Cloître-Saint-Thégonnec
+Le CloÃ®tre-Pleyben
+Le CloÃ®tre-Saint-ThÃ©gonnec
 Le Conquet
 Le Drennec
 Le Faou
-Le Folgoët
+Le FolgoÃ«t
 Le Juch
 Lennon
 Lesneven
 Leuhan
-Loc-Brévalaire
+Loc-BrÃ©valaire
 Loc-Eguiner
 Locmaria-Berrien
-Locmaria-Plouzané
-Locmélar
-Locquénolé
+Locmaria-PlouzanÃ©
+LocmÃ©lar
+LocquÃ©nolÃ©
 Locquirec
 Locronan
 Loctudy
-Locunolé
+LocunolÃ©
 Logonna-Daoulas
-Lopérec
+LopÃ©rec
 Loperhet
 Loqueffret
 Lothey
@@ -137,4 +137,4 @@ Melgven
 Mellac
 Mespaul
 Milizac
-Moëlan-sur-Mer
+MoÃ«lan-sur-Mer
