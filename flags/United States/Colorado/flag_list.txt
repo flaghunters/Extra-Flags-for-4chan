@@ -2,16 +2,12 @@ Adams County
 Alamosa County
 Arapahoe County
 Archuleta County
-Arvada
-Aspen
 Baca County
 Boulder County
 Broomfield
 Chaffee County
 Cheyenne County
 Clear Creek County
-Colorado Springs
-Commerce City
 Conejos County
 Crowley County
 Custer County
@@ -21,26 +17,21 @@ Douglas County
 Eagle County
 Elbert County
 El Paso County
-Estes Park
-Fort Collins
 Fremont County
 Garfield County
 Gilpin County
-Golden
 Grand County
 Gunnison County
 Hinsdale County
 Jackson County
 Jefferson County
-La Junta
 Lake County
 La Plata County
 Larimer County
 Las Animas County
-Loveland
 Mesa County
 Mineral County
-Montrose
+Montrose County
 Morgan County
 Otero County
 Ouray County
@@ -56,5 +47,4 @@ San Miguel County
 Summit County
 Teller County
 Weld County
-Westminster
 Yuma County
