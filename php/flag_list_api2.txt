@@ -1532,7 +1532,6 @@ Beacon Falls
 Beaconsfield
 Bear Lake County
 Beato
-Beaufort
 Beaufort County
 Beaufort West
 Beaumont
@@ -1568,6 +1567,7 @@ Bedzin County
 Bedzino commune
 Beebe
 Beech Grove
+Beefort
 Beek
 Beemster
 Beernem
@@ -1828,7 +1828,7 @@ Betterton
 Bettingen
 Betulia
 Betygala
-Betzdorf
+Betzder
 Betzigau
 Beuningen
 Beuzec-Cap-Sizun
@@ -4755,7 +4755,6 @@ Didim
 Diego de Almagro
 Diego Garcia
 Diego Martin Region
-Diekirch
 Diemen
 Dienten am Hochkönig
 Diepenbeek
@@ -4771,6 +4770,9 @@ Dighton
 Dihlabeng
 Dijon
 Dikgatlong
+Dikrech
+Dikrech Distrikter
+Dikrech kanton
 Diksmuide
 Dikson
 Dilbeek
@@ -5699,6 +5701,8 @@ Escambia County
 Es Castell
 Eschen
 Eschenau
+Esch-Uelzecht
+Esch-Uelzecht kanton
 Escondido
 Escorca
 Escuintla Department
@@ -6883,6 +6887,9 @@ Greenwood County
 Gregg County
 Greifenburg
 Greinbach
+Gréiwemaacher
+Gréiwemaacher Distrikter
+Gréiwemaacher kanton
 Greiz District
 Grenaa
 Grenoble
@@ -8306,6 +8313,8 @@ Idil
 Idre locality
 Idrija
 Iecava
+Iechternach
+Iechternach kanton
 Ieper
 Ifrane
 Ifugao
@@ -9236,6 +9245,7 @@ Kapakli
 Kapčiamiestis
 Kapelle
 Kapellen
+Kapellen kanton
 Kapelle-op-den-Bos
 Kapelln
 Kapfenberg
@@ -9857,6 +9867,8 @@ Kleve District
 Klicany
 Klichev
 Klickitat County
+Klierf
+Klierf canton
 Klimkovice
 Klin
 Klinča Sela
@@ -11307,6 +11319,9 @@ Letovice
 Letsemeng
 Lety
 Letychiv district
+Lëtzebuerg
+Lëtzebuerg Distrikter
+Lëtzebuerg kanton
 Leudal
 Leuhan
 Leukada
@@ -12954,6 +12969,8 @@ Mie Prefecture
 Mier
 Miera
 Mieroszow commune
+Miersch
+Miersch kanton
 Miesbach District
 Miesenbach
 Miesenbach bei Birkfeld
@@ -13252,7 +13269,6 @@ Mönchhof
 Monchique
 Moncton
 Mondim de Basto
-Mondorf-les-Bains
 Monforte
 Mongaguá
 Mongmong-Toto-Maite
@@ -13563,6 +13579,7 @@ Mungia
 Münichreith-Laimbach
 Munkedal
 Munkfors
+Munneref
 Munster
 Münster
 Munxar
@@ -17302,7 +17319,11 @@ Rehoboth
 Reichenau
 Reichenau an der Rax
 Reichenfels
+Réiden
+Réiden kanton
 Reigate and Banstead
+Réimech
+Réimech kanton
 Reimerswaal
 Reims
 Reingers
@@ -22257,6 +22278,8 @@ Vegachí
 Vegårshei
 Veghel
 Vehmaa
+Veianen
+Veianen kanton
 Veintiocho de Noviembre
 Veisiejai
 Vejprty
@@ -22467,7 +22490,6 @@ Viamão
 Viana do Alentejo
 Viana do Castelo
 Viana do Castelo District
-Vianden
 Vianen
 Vianí
 Vicenice
@@ -23226,8 +23248,8 @@ Weld County
 Wele-Nzas Province
 Welkenraedt
 Wellen
-Wellenstein
 Wellesley
+Wellesteen
 Wellfleet
 Wellin
 Wellington
@@ -23574,6 +23596,8 @@ Wolsztyn County
 Woluwe-Saint-Lambert
 Woluwe-Saint-Pierre
 Wolverhampton
+Wolz
+Wolz kanton
 Wommelgem
 Wongan-Ballidu
 Wong Tai Sin District
