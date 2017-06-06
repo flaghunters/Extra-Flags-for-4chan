@@ -2373,6 +2373,7 @@ Bledzew commune
 Blegny
 Bleiburg
 Blekinge County
+Blenheim
 Blenio
 Blesno
 Blevice
@@ -7893,6 +7894,7 @@ Gretzenbach
 Grevenbroich
 Grey County
 Grey District
+Greytown
 Grez-Doiceau
 Gries am Brenner
 Gries am Sellrain
@@ -8491,6 +8493,7 @@ Haßberge District
 Hasselt
 Hässleholm
 Hastière
+Hastings City
 Hastings County
 Hastings District
 Hasuda
@@ -8789,6 +8792,7 @@ Highlands County
 Highlands District
 Hiiumaa
 Hiiu Parish
+Hikurangi
 Hildburghausen District
 Hilden
 Hildesheim District
@@ -13808,6 +13812,7 @@ Mandurah
 Manevychi district
 Mangaluru
 Mangaung
+Mangawhai
 Manggarai Barat Regency
 Manggarai Regency
 Manggarai Timur Regency
@@ -14041,6 +14046,7 @@ Martigny-Combe
 Martigues
 Martijanec
 Martin
+Martinborough
 Martin County
 Martinez
 Martinice
@@ -14777,6 +14783,7 @@ Modrisice
 Moëlan-sur-Mer
 Moerbeke
 Moerdijk
+Moerewa
 Moers
 Mogadouro
 Mogalakwena
@@ -17673,6 +17680,7 @@ Petershagen
 Petersham
 Petkovy
 Petnjica
+Petone
 Petra
 Petravec
 Petrijanec
@@ -19062,6 +19070,7 @@ Rafz
 Rägavere Parish
 Raggal
 Ragged Island
+Raglan
 Ragnitz
 Ragonvalia
 Ragunda
@@ -19880,6 +19889,7 @@ Rozvadov
 Rtyne nad Bilinou
 Rtyne v Podkrkonosi
 Ruacana
+Ruakaka
 Ruapehu District
 Rubizhne city
 Rucava
@@ -25702,6 +25712,7 @@ Waimakariri District
 Waimate District
 Waimes
 Waipa District
+Waipu
 Wairoa District
 Waitaki District
 Waitomo District
@@ -26069,6 +26080,7 @@ Weymouth and Portland
 Wezembeek-Oppem
 Whakatane District
 Whanganui District
+Whangarei
 Whangarei District
 Wharton County
 Whatcom County
