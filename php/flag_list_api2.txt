@@ -92,6 +92,7 @@ Acushnet
 Ada
 Adachi
 Ada County
+Adair County
 Adalar
 Adamawa State
 Adamov
@@ -436,6 +437,7 @@ Alleghany County
 Allegheny County
 Allen
 Allen County
+Allendale County
 Allendale Township
 Allen Parish
 Allentown
@@ -4477,6 +4479,7 @@ Chotyne
 Chotysany
 Choulex
 Choustnikovo Hradiste
+Chouteau County
 Chowan County
 Chraberce
 Chrast
@@ -6301,6 +6304,7 @@ Ederswiler
 Edgar County
 Edgartown
 Edgecombe County
+Edgefield County
 Edgemont
 Edgerton
 Edgewood
@@ -7762,6 +7766,7 @@ Gold Coast
 Goldegg im Pongau
 Golden
 Golden Plains
+Golden Valley County
 Goldfields-Esperance
 Golegã
 Golemezli
@@ -9221,6 +9226,7 @@ Honkajoki
 Honnelles
 Honolulu
 Hood County
+Hood River County
 Hoogeveen
 Hoogezand-Sappemeer
 Hooglede
@@ -9794,6 +9800,7 @@ Ingelmunster
 Ingenbohl
 Ingenio
 Ingham County
+Inglewood
 Ingolstadt
 Ingquza Hill
 Ingushetia
@@ -9878,6 +9885,7 @@ Irving
 Irvington
 Irwin
 Irwin County
+Irwindale
 Isaac
 Isabela
 Isabella County
@@ -10386,6 +10394,7 @@ Jubaland
 Jüchen
 Judenau-Baumgarten
 Judenburg
+Judith Basin County
 Juiz de Fora
 Jujuy Province
 Juliaca
@@ -12284,6 +12293,7 @@ Labuty
 La Cabrera
 La Calamine
 La Calera
+La Cañada Flintridge
 La Capilla
 La Carlota
 La Ceja del Tambo
@@ -12351,6 +12361,7 @@ La Guajira Department
 La Guancha
 Laguna
 La Habana
+La Habra Heights
 Laheda Parish
 La Higuera
 La Hiruela
@@ -12388,6 +12399,7 @@ Lake of the Woods County
 Lake Park
 Lake Quivira
 Lakeville
+Lakewood
 Lake Zurich
 Lakshadweep
 Laktasi municipality
@@ -12417,6 +12429,7 @@ La Merced
 Lamerdingen
 La Mesa
 Lamia
+La Mirada
 Lamoille County
 Lamone
 Lamongan Regency
@@ -12554,6 +12567,7 @@ Lapovo
 Lappi
 La Praz
 Lapseki
+La Puente
 Lapu-Lapu
 La Punt-Chamues-ch
 La Quinta
@@ -12671,6 +12685,7 @@ Lavamünd
 Lavant
 Lavassaare
 La Vega
+La Verne
 La Verrerie
 Lavertezzo
 Laverton
@@ -13760,6 +13775,7 @@ Lynn
 Lynn County
 Lynnfield
 Lynn Valley
+Lynwood
 Lyon County
 Lypova Dolyna district
 Lypovets city
@@ -13993,6 +14009,7 @@ Male Zernoseky
 Malheur County
 Malhostovice
 Malhotice
+Malibu
 Mali Bukovec
 Malic
 Mali Idjos
@@ -14087,6 +14104,7 @@ Mangilao
 Mangualde
 Mangystau Region
 Manhattan
+Manhattan Beach
 Manhay
 Manhush district
 Maní
@@ -14445,6 +14463,7 @@ Maynard
 Maynas Province
 Mayrhofen
 Mayrouba
+Maywood
 Mazarrón
 Mazatán
 Mazcuerras
@@ -14472,6 +14491,7 @@ McDowell County
 Mcely
 McHenry County
 McIntosh County
+McKean County
 McKinlay
 McKinley County
 McLean County
@@ -14486,6 +14506,7 @@ Mdhila
 Mdina
 Meade County
 Meadville
+Meagher County
 Mealhada
 Meander Valley
 Meceriz
@@ -18021,6 +18042,7 @@ Petravec
 Petrijanec
 Petrinja
 Petrohrad
+Petroleum County
 Petrolina
 Petronell-Carnuntum
 Petropavl
@@ -18507,6 +18529,7 @@ Pompano Beach
 Pompaples
 Pomy
 Ponce
+Pondera County
 Ponedera
 Ponetovice
 Ponga
@@ -18661,6 +18684,7 @@ Póvoa de Lanhoso
 Póvoa de Varzim
 Povrly
 Poway
+Powder River County
 Powell County
 Powell River Regional District
 Power County
@@ -23255,6 +23279,7 @@ Suscévaz
 Susehri
 Susice
 Susiec commune
+Susquehanna County
 Süssenbrunn
 Sussex County
 Susuman
@@ -24273,6 +24298,7 @@ Trayning
 Trazo
 Trbousany
 Trbovlje
+Treasure County
 Trebarov
 Trebechovice pod Orobem
 Trebelovice
@@ -26242,6 +26268,7 @@ Wallern im Burgenland
 Wallingford
 Wallisellen
 Wallonie
+Wallowa County
 Wallsee-Sindelburg
 Walnut Creek
 Walnut Grove
@@ -26565,6 +26592,7 @@ Wharton County
 Whatcom County
 Whately
 Wheatbelt
+Wheatland County
 Wheeler County
 Wheeling Township
 Whitby
