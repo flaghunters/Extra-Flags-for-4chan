@@ -916,6 +916,7 @@ Argalant
 Arganda del Rey
 Arganil
 Argelia
+Argentine Antarctic Territory
 Arges County
 Argol
 Argoños
@@ -1938,6 +1939,7 @@ Bénodet
 Benov
 Benslimane
 Benson County
+Bent County
 Benton County
 Benzie County
 Beocin
@@ -2989,6 +2991,7 @@ Brevard County
 Breves
 Brewarrina
 Brewster
+Brewster County
 Brezany
 Brezejc
 Brezi
@@ -3871,6 +3874,7 @@ Castro Verde
 Caswell County
 Casy
 Cataguases
+Catahoula Parish
 Catak
 Catalagzi
 Catalca
@@ -4342,6 +4346,7 @@ Chihia
 Chihuahua
 Chihuahua (city)
 Chihuahua Municipality
+Chilean Antarctic Territory
 Chillán
 Chillán Viejo
 Chilliwack
@@ -5158,6 +5163,7 @@ Cuijk
 Cuítiva
 Cukarica
 Cukurova
+Culberson County
 Culebra
 Culemborg
 Culleredo
@@ -5308,6 +5314,7 @@ Danbury
 Dandaragan
 Danderyd
 Dane County
+Daniels County
 Däniken
 Dänikon
 Danilovgrad
@@ -6211,6 +6218,7 @@ East Arnhem
 East Baton Rouge Parish
 East Bridgewater
 East Brookfield
+East Carroll Parish
 East Chicago
 East Coast-Fengshan
 East Devon
@@ -6782,6 +6790,7 @@ Eureka County
 Eurobodalla
 Euskirchen
 Euskirchen District
+Evangeline Parish
 Evans
 Evans County
 Evanston
@@ -6854,6 +6863,7 @@ Falkenstein
 Falköping
 Fällanden
 Fallbach
+Fallon County
 Fall River
 Falls Church
 Falls County
@@ -7173,6 +7183,7 @@ Frankfurt an der Oder
 Franklin
 Franklin County
 Franklin Harbour
+Franklin Parish
 Frankston
 Frantiskovy Lazne
 Frantschach-Sankt Gertraud
@@ -9538,6 +9549,7 @@ Hudlice
 Hudson
 Hudson County
 Hudsonville
+Hudspeth County
 Huechuraba
 Huehuetenango Department
 Huelgoat
@@ -10180,6 +10192,7 @@ Jedrzejow County
 Jeff Davis County
 Jefferson City
 Jefferson County
+Jefferson Davis Parish
 Jefferson Parish
 Jegunovce
 Jehnedi
@@ -10544,6 +10557,7 @@ Kalkan
 Kalkandere
 Kalkar
 Kalkara
+Kalkaska County
 Kalkrand
 Kalksburg
 Kall
@@ -11250,6 +11264,7 @@ Kisumu County
 Kita
 Kitakyushu
 Kitamoto
+Kit Carson County
 Kitchener
 Kitikmeot Region
 Kitimat-Stikine Regional District
@@ -12554,6 +12569,7 @@ La Paternal
 La Paz
 La Paz County
 La Paz Department
+Lapeer County
 La Peña
 Lapes
 Lapinjärvi
@@ -13855,6 +13871,7 @@ Madibeng
 Madinah
 Madison
 Madison County
+Madison Parish
 Madiun
 Madiun Regency
 Madolenihmw
@@ -14636,6 +14653,7 @@ Mengen
 Mengeš
 Ménières
 Menin
+Menominee County
 Menorca
 Menterwolde
 Mentese
@@ -14988,6 +15006,7 @@ Misiones Province
 Miskolc
 Miskovice
 Mislinja
+Missaukee County
 Missen-Wilhams
 Mission
 Mission Hills
@@ -17100,6 +17119,7 @@ Onslow County
 Onsov
 Ontario
 Ontario County
+Ontonagon County
 Onufriivka district
 Oostende
 Oosterhout
@@ -18753,6 +18773,7 @@ Prahova County
 Praia
 Praia da Vitória
 Praia Grande
+Prairie County
 Prairie Village
 Praksice
 Prameny
@@ -18814,6 +18835,7 @@ Presevo
 Presidente Franco
 Presidente Hayes Department
 Presidente Prudente
+Presidio County
 Presinge
 Preskace
 Presov
@@ -19683,6 +19705,7 @@ Red River Parish
 Red Sea Governorate
 Redueña
 Rees
+Reeves County
 Refahiye
 Regen District
 Regensburg
@@ -19876,6 +19899,7 @@ Ricaurte
 Rice County
 Rich County
 Richland County
+Richland Parish
 Richmond
 Richmond County
 Richmond Hill
@@ -21366,6 +21390,7 @@ Schongau
 Schönholzerswilen
 Schönkirchen-Reyersdorf
 Schönwies
+Schoolcraft County
 Schoppernau
 Schoten
 Schottenfeld
@@ -21745,6 +21770,7 @@ Sherman County
 Shetland
 Shevchenkivskyi district
 Shevchenkove district
+Shiawassee County
 Shibayama
 Shibuya
 Shiga Prefecture
@@ -23829,6 +23855,7 @@ Tenjo
 Tennessee
 Tenniken
 Teno
+Tensas Parish
 Tenterfield
 Tentlingen
 Tenza
@@ -26499,6 +26526,7 @@ West Boylston
 West Bridgewater
 Westbrook
 West Brookfield
+West Carroll Parish
 Westchester County
 West Chicago
 West Coast
@@ -26616,6 +26644,7 @@ Whittlesea
 Whyalla
 Wiazow commune
 Wiazowna commune
+Wibaux County
 Wichelen
 Wichita
 Wichita County
@@ -26744,6 +26773,7 @@ Winklern
 Winnebago County
 Winneshiek County
 Winnipeg
+Winn Parish
 Winona County
 Winsko commune
 Winslow
