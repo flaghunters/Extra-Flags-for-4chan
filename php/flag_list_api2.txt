@@ -367,6 +367,7 @@ Alcona County
 Alcorcón
 Alcoutim
 Alcúdia
+Al Daayen Municipality
 Aldana
 Aldão
 Aldea del Fresno
@@ -424,6 +425,7 @@ Aljezur
 Aljunied-Hougang
 Aljustrel
 Alken
+Al Khor & Dhekra Municipality
 Alkmaar
 Allahabad
 Allamakee County
@@ -482,11 +484,14 @@ Alpnach
 Alpthal
 Alpu
 Alpullu
+Al Rayyan Municipality
 Alsasua
 Alsedžiai
 Alsergrund District
 Alservorstadt
+Al Shamal Municipality
 Al Sharqia Governorate
+Al Sheehaniya Municipality
 Alsip
 Alstahaug
 Alsunga
@@ -564,6 +569,7 @@ Alvesta district
 Alvito
 Älvkarleby
 Älvsbyn
+Al Wakrah Municipality
 Alytus
 Alytus County
 Alytus District Municipality
@@ -5769,6 +5775,7 @@ Dobryszyce commune
 Dobrzany commune
 Dobrzyn nad Wisla commune
 Dobsice
+Doddridge County
 Döderhult district
 Dodge City
 Dodge County
@@ -5781,6 +5788,7 @@ Dogansar
 Dogansehir
 Doganyol
 Dohalice
+Doha Municipality
 Dojran
 Doksany
 Doksy
@@ -9862,6 +9870,7 @@ Ionia County
 Ionian Islands
 Iosco County
 Iowa
+Iowa County
 Ipatinga
 Ipekyolu
 Ipiales
@@ -10418,6 +10427,7 @@ Jumilla
 Juncos
 Jundiaí
 Juneau
+Juneau County
 Junee
 Jung District
 Jungholz
@@ -14955,6 +14965,7 @@ Minden-Lübbecke District
 Mineral County
 Minga Guazú
 Mingenew
+Mingo County
 Minidoka County
 Minihof-Liebau
 Minneapolis
@@ -17936,6 +17947,7 @@ Penco
 Pender County
 Pendik
 Pendle
+Pendleton County
 Pend Oreille County
 Penedo
 Penedono
@@ -20006,6 +20018,7 @@ Rîscani District
 Risch
 Rishon LeZion
 Rissa
+Ritchie County
 Ritka
 Ritzing
 Riva San Vitale
@@ -24868,6 +24881,7 @@ Umjindi
 uMkhanyakude
 Umlalazi
 Umm Al-Quwain
+Umm Slal Municipality
 uMngeni
 Umraniye
 uMshwathi
@@ -26404,6 +26418,7 @@ Wattle Range
 Wattwil
 Waukesha County
 Waupaca County
+Waushara County
 Wauwil
 Waverley
 Wavre
@@ -26791,6 +26806,7 @@ Winznau
 Wipkingen
 Wipperfürth
 Wirral
+Wirt County
 Wisconsin
 Wise County
 Wisen
