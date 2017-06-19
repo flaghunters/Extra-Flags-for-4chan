@@ -394,6 +394,7 @@ Alexandria
 Alexandria Governorate
 Alexandrina
 Alexandroupoli
+Alfalfa County
 Alfândega da Fé
 Alford
 Alfoz de Lloredo
@@ -1123,6 +1124,7 @@ Atlantic City
 Atlantic County
 Atlántico Department
 Atmore
+Atoka County
 Atrato
 Atsimo-Andrefana Region
 Atsinanana Region
@@ -2265,6 +2267,7 @@ Biezwil
 Biga
 Bigadic
 Big Horn County
+Big Stone County
 Bihar
 Bihor County
 Bijeljina
@@ -4766,6 +4769,7 @@ Clutha District
 Clyde River
 Cmeliny
 Coahuila
+Coal County
 Coamo
 Coaña
 Coari
@@ -5037,7 +5041,9 @@ Cottbus
 Cottens
 Cottesloe
 Cottle County
+Cotton County
 Cotton Valley
+Cottonwood County
 Countryside
 County Antrim
 County Armagh
@@ -6125,6 +6131,7 @@ Dubnice
 Dubno
 Dubno city
 Dubno district
+Dubois County
 Dubove
 Dubrava
 Dubravica
@@ -6516,6 +6523,7 @@ El Jadida
 Elk County
 El Kelaa des Sraghna
 Elk Grove
+Elkhart County
 Elko County
 El Krib
 El Ksar
@@ -7190,6 +7198,7 @@ Fosnes
 Fosses-la-Ville
 Fouesnant
 Founex
+Fountain County
 Fountain Hills
 Foxborough
 Foz
@@ -7492,6 +7501,7 @@ Garrard County
 Garrett County
 Gars am Kamp
 Garut Regency
+Garvin County
 Garwolin
 Garwolin commune
 Garwolin County
@@ -7855,6 +7865,7 @@ Gonzales
 Gonzales County
 González
 Goochland County
+Goodhue County
 Gooding County
 Goodyear
 Gooik
@@ -8107,6 +8118,7 @@ Greenville County
 Greenwich
 Greenwood
 Greenwood County
+Greer County
 Gregg County
 Greifenburg
 Greifensee
@@ -8683,6 +8695,7 @@ Harlingen
 Harmancik
 Harmanli
 Harmannsdorf
+Harmon County
 Harnett County
 Harney County
 Härnösand
@@ -9640,6 +9653,7 @@ Huntingdon
 Huntingdon County
 Huntingdonshire
 Huntington
+Huntington County
 Huntington Park
 Huntsville
 Hunzenschwil
@@ -10961,6 +10975,7 @@ Kayah State
 Kayakoy
 Kayangel
 Kayapinar
+Kay County
 Kayes Region
 Kayihan
 Kayin State
@@ -11237,6 +11252,7 @@ King
 King and Queen County
 Kingborough
 King County
+Kingfisher County
 King George County
 Kingisepp
 King Island
@@ -11724,6 +11740,7 @@ Kosariska
 Kosatky
 Koscian County
 Koscierzyna County
+Kosciusko County
 Kose Parish
 Kosetice
 Koshigaya
@@ -12383,6 +12400,7 @@ La Colorada
 Laconnex
 La Costa Department
 La Côte-aux-Fées
+Lac qui Parle County
 La Crescenta-Montrose
 La Crosse County
 La Cruz
@@ -12711,6 +12729,7 @@ Latah County
 La Tebaida
 La Tène
 Laterns
+Latimer County
 La Tola
 La Tour-de-Peilz
 Latowicz commune
@@ -12852,6 +12871,7 @@ Leeuwarderdeel
 Le Faou
 Le Flon
 Leflore County
+Le Flore County
 Le Folgoët
 Leganés
 Legau
@@ -13616,6 +13636,7 @@ Lovcovice
 Lovech
 Lovech Province
 Loveckovice
+Love County
 Loveland
 Lovendegem
 Loviisa
@@ -13973,6 +13994,7 @@ Mahikeng
 Mahina
 Mahmudiye
 Mahmutlar
+Mahnomen County
 Mahoning County
 Mahres
 Maia
@@ -14002,6 +14024,7 @@ Majdalena
 Majdan
 Majdanpek
 Majetin
+Major County
 Majšperk
 Majur
 Majuro Atoll
@@ -14527,6 +14550,7 @@ Mayaguana
 Mayagüez
 Mayen-Koblenz District
 Mayenne
+Mayes County
 Mayetta
 Maykop
 Maynard
@@ -15675,6 +15699,7 @@ Musina
 Muskegon County
 Muskingum County
 Muskiz
+Muskogee County
 Muskoka District
 Mus Province
 Musselshell County
@@ -16426,6 +16451,7 @@ Norfolk
 Norfolk County
 Norilsk
 Norman
+Norman County
 Normandia
 Normandie
 Norosí
@@ -17019,6 +17045,7 @@ Okayama
 Okayama Prefecture
 Okeechobee County
 Okegawa
+Okfuskee County
 Okha
 Okhahlamba
 Okhansk
@@ -17029,6 +17056,7 @@ Okinawa Prefecture
 Oklahoma
 Oklahoma City
 Oklahoma County
+Okmulgee County
 Okna
 Okny district
 Okor
@@ -17787,6 +17815,7 @@ Parintins
 Paris
 Parkano
 Park County
+Parke County
 Parker County
 Parkersburg
 Parkes
@@ -17892,6 +17921,7 @@ Pavlovice u Kojetina
 Pavlovice u Prerova
 Pavlovsk
 Pavlovsky Posad
+Pawnee County
 Paxoi
 Paxton
 Paya
@@ -18330,6 +18360,7 @@ Pittem
 Pitten
 Pitt Meadows
 Pittsburg
+Pittsburg County
 Pittsburgh
 Pittsfield
 Pittsylvania County
@@ -18638,6 +18669,7 @@ Poole
 Popasna city
 Popasna district
 Popayán
+Pope County
 Popelin
 Poperinge
 Popice
@@ -18724,6 +18756,7 @@ Porvoo
 Porza
 Posavina Canton
 Poschiavo
+Posey County
 Postat
 Postavy
 Post Falls
@@ -18743,6 +18776,7 @@ Potosí Department
 Potsdam
 Potsdam-Mittelmark District
 Potstejn
+Pottawatomie County
 Pottawattamie County
 Pöttelsdorf
 Pottendorf
@@ -19310,6 +19344,7 @@ Purworejo Regency
 Pušća
 Pushkin
 Pushkino
+Pushmataha County
 Püssi
 Pusta Kamenice
 Pusta Polom
@@ -19760,6 +19795,7 @@ Red River County
 Red River Parish
 Red Sea Governorate
 Redueña
+Redwood County
 Rees
 Reeves County
 Refahiye
@@ -21696,6 +21732,7 @@ Sepekov
 Sepolno County
 Sepolno Krajenskie commune
 Septemvri
+Sequoyah County
 Seraing
 Serang
 Serang Regency
@@ -21827,6 +21864,7 @@ Shepetivka city
 Shepetivka district
 Sherborn
 Sherbrooke
+Sherburne County
 Sheridan
 Sheridan County
 Sherman
@@ -24112,6 +24150,7 @@ Tikhvin
 Tilburg
 Tillabéri Region
 Tillamook County
+Tillman County
 Tillmitsch
 Tilos
 Tiltlil
@@ -26267,6 +26306,8 @@ Waalre
 Waalwijk
 Waarschoot
 Waasmunster
+Wabasha County
+Wabash County
 Wabrzezno
 Wabrzezno commune
 Wabrzezno County
@@ -26468,6 +26509,7 @@ Watermael-Boitsfort
 Watertown
 Watford
 Wathena
+Watonwan County
 Wattenberg
 Wattens
 Wattle Range
@@ -26792,6 +26834,7 @@ Wilhelmsburg
 Wilhelmshaven
 Wiliberg
 Wilkes County
+Wilkin County
 Wilkinson County
 Wilkolaz commune
 Wilkow commune
@@ -26962,7 +27005,9 @@ Wood County
 Woodford County
 Woodland
 Woodmont
+Woods County
 Woodstock
+Woodward County
 Woollahra
 Woorabinda
 Worcester
