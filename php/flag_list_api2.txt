@@ -885,6 +885,7 @@ Aračinovo
 Arad
 Arad County
 Arafo
+Aragatsotn Province
 Aragon
 Aragón
 Aragua
@@ -907,6 +908,7 @@ Arapiraca
 Arar
 Araraquara
 Ararat
+Ararat Province
 Arauca
 Arauca Department
 Araucanía Region
@@ -1014,6 +1016,7 @@ Armadale
 Armamar
 Armañanzas
 Armavir
+Armavir Province
 Armenia
 Armidale
 Armstrong County
@@ -7805,6 +7808,7 @@ Geel
 Geelong
 Geertruidenberg
 Geetbets
+Gegharkunik Province
 Geisleden
 Gelderland
 Geldermalsen
@@ -12146,6 +12150,7 @@ Koszalin County
 Koszyce commune
 Kota Bharu
 Kota Kinabalu
+Kotayk Province
 Kotelnich
 Kotelva district
 Kotka
@@ -13952,6 +13957,7 @@ Loreto Region
 Loretto
 Lorica
 Lorient
+Lori Province
 Lörrach District
 Lorüns
 Los Álamos
@@ -22480,6 +22486,7 @@ Shimla
 Shinagawa
 Shinjuku
 Shirako
+Shirak Province
 Shiraoka
 Shiraz
 Shirley
@@ -24225,6 +24232,7 @@ Syrovice
 Syrovin
 Sysmä
 Sytno
+Syunik Province
 Szabolcs-Szatmar-Bereg County
 Szadek commune
 Szaflary commune
@@ -24511,6 +24519,7 @@ Tavikovice
 Tavira
 Tavriysk city
 Tavsanli
+Tavush Province
 Tawi-Tawi
 Ta Xbiex
 Taxenbach
@@ -26098,6 +26107,7 @@ Vavuniya
 Vaxholm
 Växjö
 Våxtorp locality
+Vayots Dzor Province
 Vaz_Obervaz
 Vazany
 Vazany nad Litavou
@@ -27926,6 +27936,7 @@ Yeongdeungpo District
 Yeonsu District
 Yerbas Buenas
 Yerevan
+Yerevan Province
 Yerkoy
 Yesilhisar
 Yesilli
