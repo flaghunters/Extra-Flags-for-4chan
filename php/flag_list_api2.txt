@@ -572,6 +572,7 @@ Alvito
 Älvkarleby
 Älvsbyn
 Al Wakrah Municipality
+Alwernia
 Alytus
 Alytus County
 Alytus District Municipality
@@ -699,6 +700,7 @@ Andros
 Androscoggin County
 Andrushivka city
 Andrushivka district
+Andrychow
 Andrzejewo commune
 Andwil
 Aneby
@@ -1287,6 +1289,7 @@ Babaeski
 Babahoyo
 Babenhausen in Schwaben
 Babice
+Babice commune
 Babice nad Svitavou
 Babice u Rosic
 Babimost commune
@@ -2240,6 +2243,7 @@ Bialohirsk district
 Bialoleka
 Bialopole commune
 Bialy Bor commune
+Bialy Dunajec commune
 Bialystok
 Bialystok County
 Biarritz
@@ -2255,6 +2259,7 @@ Bichelsee-Balterswil
 Bichlbach
 Biddeford
 Bidingen
+Biecz
 Biedermannsdorf
 Biel (Bienne)
 Bielany
@@ -2386,6 +2391,7 @@ Bishan-Toa Payoh
 Bishkek
 Biskoupky
 Biskupice
+Biskupice commune
 Biskupice-Pulkov
 Bismarck
 Bismil
@@ -2526,6 +2532,7 @@ Bobnice
 Bobolice commune
 Bobonaro District
 Bobov Dol
+Bobowa commune
 Bobrova
 Bobrovytsia city
 Bobrovytsia district
@@ -2540,6 +2547,8 @@ Bocanovice
 Boca Raton
 Bocas del Toro Province
 Bochalema
+Bochnia
+Bochnia commune
 Bochnia County
 Bocholt
 Bochor
@@ -2633,6 +2642,7 @@ Bolehost
 Bolekhiv city
 Boleradice
 Bolesiny
+Boleslaw commune
 Boleslawiec
 Boleslawiec commune
 Boleslawiec County
@@ -2770,6 +2780,7 @@ Bory
 Boryslav city
 Boryspil city
 Boryspil district
+Borzecin commune
 Borzna city
 Borzna district
 Borzya
@@ -3212,7 +3223,9 @@ Brzeg
 Brzeg County
 Brzeg Dolny commune
 Brzesc Kujawski commune
+Brzesko
 Brzesko County
+Brzeszcze
 Brzeziny
 Brzeziny commune
 Brzeziny County
@@ -3275,6 +3288,7 @@ Budisov nad Budisovkou
 Budkov
 Budva
 Budyne nad Ohri
+Budzow commune
 Buenaventura
 Buenavista
 Buena Vista
@@ -3317,6 +3331,8 @@ Bukovinka
 Bukovka
 Bukovnik
 Bukowiec commune
+Bukowina Tatrzanska commune
+Bukowno
 Bukvice
 Bulacan
 Bülach
@@ -3481,6 +3497,7 @@ Byskovice
 Bysovec
 Byst
 Bystrany
+Bystra-Sidzina commune
 Bystre
 Bystrec
 Bystrice
@@ -4252,6 +4269,7 @@ Charlottetown
 Charlton
 Charlton County
 Charrat
+Charsznica commune
 Charters Towers
 Charvatce
 Charvaty
@@ -4306,6 +4324,8 @@ Chelcice
 Chelm City
 Chelm commune
 Chelm County
+Chelmek
+Chelmiec commune
 Chelmno
 Chelmno commune
 Chelmno County
@@ -4570,6 +4590,7 @@ Chrudichromy
 Chrudim
 Chrudim District
 Chrustenice
+Chrzanow
 Chrzanow County
 Chua Chu Kang
 Chubut Province
@@ -4655,6 +4676,7 @@ Cieplowody commune
 Cieszkow commune
 Cieszyn County
 Cieza
+Ciezkowice
 Ciftlik
 Ciftlikkoy
 Cigli
@@ -5293,10 +5315,13 @@ Czarnkow-Trzcianka County
 Czarnocin commune
 Czarnozyly commune
 Czarny Bor commune
+Czarny Dunajec commune
 Czastary commune
+Czchow
 Czemierniki commune
 Czernica commune
 Czernice Borowe commune
+Czernichow commune
 Czerniewice commune
 Czernikowo commune
 Czerwiensk commune
@@ -5307,6 +5332,7 @@ Czestochowa
 Czestochowa County
 Czlopa commune
 Czluchow County
+Czorsztyn commune
 Czosnow commune
 Dabeiba
 Dabie commune
@@ -5315,6 +5341,7 @@ Dabrowa Biskupia commune
 Dabrowa Chelminska commune
 Dabrowa commune
 Dabrowa Gornicza
+Dabrowa Tarnowska
 Dabrowa Tarnowska County
 Dabrowice commune
 Dabrowka commune
@@ -5789,6 +5816,7 @@ Dnipropetrovsk city
 Dnipropetrovsk Region
 Dniprorudne city
 Dniprovskyi district
+Dobczyce
 Dobele
 Dobelice
 Dobersberg
@@ -6146,6 +6174,7 @@ Druzbice commune
 Druzec
 Druzhkivka city
 Druztova
+Drwinia commune
 Dryanovo
 Drysice
 Drzewica commune
@@ -7619,6 +7648,7 @@ Gazligol
 Gbarpolu County
 Gdansk
 Gdansk County
+Gdow commune
 Gdynia
 Geauga County
 Gebenstorf
@@ -7870,6 +7900,7 @@ Gniewoszow commune
 Gniezno
 Gniezno County
 Gnjilane
+Gnojnik commune
 Gnosjö
 Gnowangerup
 Goa
@@ -7895,6 +7926,7 @@ Goksun
 Golbasi
 Golcuk
 Golcuv Jenikov
+Golcza commune
 Golczewo commune
 Goldach
 Goldap County
@@ -7974,6 +8006,8 @@ Görisried
 Gorj County
 Gorje
 Gorki
+Gorlice
+Gorlice commune
 Gorlice County
 Görlitz District
 Gorliz
@@ -8179,6 +8213,7 @@ Great Kei
 Great Southern
 Grebkow commune
 Grebocice commune
+Greboszow commune
 Greeley County
 Green Bay
 Greenbelt
@@ -8249,6 +8284,7 @@ Grobina
 Gröbming
 Grobogan Regency
 Grocka
+Grodek nad Dunajcem commune
 Grödig
 Grodno
 Grodno Region
@@ -8259,6 +8295,7 @@ Grojec commune
 Grojec County
 Grolley
 Gromadka commune
+Gromnik commune
 Grône
 Grong
 Groningen
@@ -8320,6 +8357,8 @@ Gruyère
 Gruyères
 Gruzdziai
 Gryazi
+Grybow
+Grybow commune
 Gryfice commune
 Gryfice County
 Gryfino commune
@@ -9857,6 +9896,7 @@ Igdir
 Igdir Province
 Ignalina District Municipality
 Igneada
+Igolomia-Wawrzenczyce commune
 Igoumenitsa
 Ihorombe Region
 Ihsangazi
@@ -10164,7 +10204,9 @@ Ive
 Iveland
 Ivittuut
 Ivrindi
+Iwanowice commune
 Iwate Prefecture
+Iwkowa commune
 Iyidere
 Iza
 Izabal Department
@@ -10196,6 +10238,7 @@ Jablon commune
 Jablonec nad Jizerou
 Jablonec nad Nisou
 Jablonec nad Nisou District
+Jablonka commune
 Jablonna
 Jablonna commune
 Jablonne nad Orlici
@@ -10407,6 +10450,7 @@ Jerusalem
 Jerusalén
 Jerzens
 Jerzmanowa commune
+Jerzmanowice-Przeginia commune
 Jesenec
 Jesenice
 Jesenik
@@ -10496,6 +10540,7 @@ João Pessoa
 Jochberg
 Jo Daviess County
 Jodhpur
+Jodlownik commune
 Jodoigne
 Joe Gqabi
 Jõelähtme Parish
@@ -10538,6 +10583,8 @@ Jonschwil
 Joondalup
 Jorat-Menthue
 Jorat-Mézières
+Jordanow
+Jordanow commune
 Jordanow Slaski commune
 Jordão
 José C. Paz
@@ -10747,6 +10794,7 @@ Kalush district
 Kaluszyn commune
 Kalvarija Municipality
 Kalwang
+Kalwaria Zebrzydowska
 Kaly
 Kalyan-Dombivali
 Kalymnos
@@ -10788,6 +10836,7 @@ Kamianka-Dniprovska district
 Kamianske city
 Kamien commune
 Kamien County
+Kamienica commune
 Kamieniec Zabkowicki commune
 Kamien Krajenski commune
 Kamienna Gora
@@ -10800,6 +10849,7 @@ Kamikawa
 Kamin-Kashyrskyi city
 Kamin-Kashyrskyi district
 Kamionka commune
+Kamionka Wielka commune
 Kamisato
 Kamloops
 Kammern im Liesingtal
@@ -11234,6 +11284,7 @@ Ketchikan Gateway Borough
 Ketkovice
 Ketrzyn County
 Kettershausen
+Kety
 Keuruu
 Keutschach am See
 Kevelaer
@@ -11481,6 +11532,7 @@ Klagenfurt-Land District
 Klaipeda
 Klaipeda County
 Klaipeda District Municipality
+Klaj commune
 Klaksvík
 Klamath County
 Klamos
@@ -11563,6 +11615,7 @@ Kloten
 Klucenice
 Klucov
 Kluczbork County
+Klucze commune
 Kluisbergen
 Kluki commune
 Kluky
@@ -11635,6 +11688,7 @@ Koci
 Kocierzew Poludniowy commune
 Kock commune
 Koclirov
+Kocmyrzow-Luborzyca commune
 Kocov
 Kodaira
 Koden commune
@@ -11756,6 +11810,7 @@ Königsdorf
 Königstetten
 Konin
 Konin County
+Koniusza commune
 Konjščina 
 Konnevesi
 Konojedy
@@ -11843,10 +11898,12 @@ Korycany
 Korydallos
 Korytna
 Korytnica commune
+Korzenna commune
 Kos
 Kosariska
 Kosatky
 Koscian County
+Koscielisko commune
 Koscierzyna County
 Kosciusko County
 Kose Parish
@@ -11908,6 +11965,7 @@ Kostroma Region
 Kostrzyn nad Odra
 Koszalin
 Koszalin County
+Koszyce commune
 Kota Bharu
 Kota Kinabalu
 Kotelnich
@@ -11973,6 +12031,7 @@ Kozli
 Kozloduy
 Kozlov
 Kozlovice
+Kozlow commune
 Kozlu
 Kozly
 Kozmice
@@ -12178,6 +12237,7 @@ Kronoberg County
 Kropacova Vrutice
 Kropia
 Kropyvnytskyi city
+Kroscienko nad Dunajcem commune
 Krosna
 Krosnice commune
 Krosniewice commune
@@ -12221,6 +12281,7 @@ Krusovice
 Krustpils
 Kruszwica commune
 Kruzberk
+Krynica-Zdroj
 Krynychky district
 Kryry
 Krystofovo Udoli
@@ -12230,6 +12291,7 @@ Kryvyi Rih city
 Kryvyi Rih district
 Kryzhopil district
 Krzecin commune
+Krzeszowice
 Krzeszyce commune
 Krzynowloga Mala commune
 Krzywda commune
@@ -12237,6 +12299,7 @@ Ksar Hellal
 Ksawerow commune
 Ksely
 Ksiazki commune
+Ksiaz Wielki commune
 Ksibet Thrayet
 Kstovo
 Ktis
@@ -12476,6 +12539,7 @@ Labateca
 Labette County
 Labiszyn commune
 La Boca
+Labowa commune
 Labranzagrande
 La Brévine
 La Brillaz
@@ -12507,6 +12571,7 @@ Lackawanna County
 Lack commune
 Lackenbach
 Lackendorf
+Lacko commune
 Laclede County
 Lacnov
 La Colorada
@@ -12656,6 +12721,7 @@ Lancashire
 Lancaster
 Lancaster County
 Lanchkhuti
+Lanckorona commune
 Lancov
 Lancut County
 Lancy
@@ -12747,6 +12813,7 @@ La Oliva
 La Orotava
 La Palma
 La Pampa Province
+Lapanow commune
 La Paternal
 La Paz
 La Paz County
@@ -12768,6 +12835,7 @@ Lapovo
 Lappi
 La Praz
 Lapseki
+Lapsze Nizne commune
 La Puente
 Lapu-Lapu
 La Punt-Chamues-ch
@@ -12820,6 +12888,7 @@ Lask commune
 Lask County
 Laško
 Laskov
+Laskowa commune
 Las Marías
 Lasnamäe
 Lasne
@@ -13258,6 +13327,7 @@ Libesice
 Libez
 Libeznice
 Libhost
+Libiaz
 Libice nad Cidlinou
 Libice nad Doubravou
 Libin
@@ -13358,6 +13428,8 @@ Lima
 Limache
 Lima locality
 Limandere
+Limanowa
+Limanowa commune
 Limanowa County
 Lima Province
 Lima Region
@@ -13418,9 +13490,12 @@ Lipetsk Region
 Lipiany commune
 Lipina
 Lipinka
+Lipinki commune
 Lipinki Luzyckie commune
 Lipkovo
 Lipljan
+Lipnica Murowana commune
+Lipnica Wielka commune
 Lipnice nad Sazavou
 Lipnik
 Lipnik nad Becvou
@@ -13448,6 +13523,7 @@ Lisboa District
 Lisbon
 Lisek
 Lisewo commune
+Lisia Gora commune
 Liski
 Liskovice
 Lismore
@@ -13458,6 +13534,7 @@ Lisov
 Lisse
 Listany
 Listerby locality
+Liszki commune
 Litchfield
 Litchfield County
 Liten
@@ -13705,6 +13782,7 @@ Los Llanos de Aridane
 Los locality
 Los Molinos
 Losone
+Lososina Dolna commune
 Los Patios
 Los Realejos
 Los Ríos Province
@@ -13813,6 +13891,7 @@ Lubenec
 Lubenice
 Lubianka commune
 Lubicz commune
+Lubien commune
 Lubien Kujawski commune
 Lubiewo commune
 Lubin
@@ -13898,6 +13977,7 @@ Lukow
 Lukowa commune
 Lukow commune
 Lukow County
+Lukowica commune
 Lukšiai
 Luleå
 Luleå district
@@ -13976,6 +14056,7 @@ Luzern
 Luzerne County
 Luzice
 Luzna
+Luzna commune
 Luznice
 Lviv city
 Lviv Region
@@ -14179,6 +14260,7 @@ Makov
 Makow commune
 Makow County
 Makow Mazowiecki
+Makow Podhalanski
 Mäksa Parish
 Makueni County
 Malå
@@ -15048,6 +15130,7 @@ Midway Islands
 Mid West
 Mid-Western
 Midyat
+Miechow
 Miechow County
 Mieders
 Miedzna commune
@@ -15336,6 +15419,7 @@ Möggers
 Mogi das Cruzes
 Mogielnica commune
 Mogila
+Mogilany commune
 Mogilev
 Mogilev Region
 Mogilno commune
@@ -15731,6 +15815,8 @@ Msida
 Msinga
 Msukaligwa
 Msunduzi
+Mszana Dolna
+Mszana Dolna commune
 Mszczonow commune
 Mtarfa
 Mthonjaneni
@@ -15739,6 +15825,7 @@ Mtskheta
 Mtubatuba
 Muar
 Mucajaí
+Mucharz commune
 Muckendorf-Wipfing
 Mucur
 Mudanya
@@ -15856,6 +15943,7 @@ Müsterlingen
 Mustjala Parish
 Mustvee
 Muswellbrook
+Muszyna
 Muta
 Mutale
 Mutare
@@ -15895,6 +15983,7 @@ Myrskylä
 Myrtle Beach
 Myslakowice commune
 Myslejovice
+Myslenice
 Myslenice County
 Mysliborz commune
 Mysliborz County
@@ -16103,6 +16192,7 @@ Navis
 Navojna
 Navojoa
 Navsi
+Nawojowa commune
 Naxxar
 Nayarit
 Naypyidaw
@@ -16441,6 +16531,7 @@ Niederwölz
 Niederzier
 Niedrzwica Duza commune
 Niedzwiada commune
+Niedzwiedz commune
 Niegoslawice commune
 Nieheim
 Niel
@@ -16448,6 +16539,7 @@ Nielisz commune
 Niemce commune
 Niemcza commune
 Nienburg-Weser District
+Niepolomice
 Nieporet commune
 Nieszawa
 Nieuwegein
@@ -16862,6 +16954,7 @@ Nowa Sol County
 Nowa Sucha commune
 Nowata County
 Nowa Wies Wielka commune
+Nowe Brzesko
 Nowe commune
 Nowe Miasteczko commune
 Nowe Miasto commune
@@ -16882,8 +16975,11 @@ Nowy Dwor Mazowiecki
 Nowy Dwor Mazowiecki County
 Nowy Sacz
 Nowy Sacz County
+Nowy Targ
+Nowy Targ commune
 Nowy Targ County
 Nowy Tomysl County
+Nowy Wisnicz
 Noyabrsk
 Nquthu
 Ntabankulu
@@ -17099,6 +17195,7 @@ Ochakiv district
 Ocher
 Ochiltree County
 Ochota
+Ochotnica Dolna commune
 Ochoz
 Ochoz u Brna
 Ocihov
@@ -17264,6 +17361,7 @@ Olesnica County
 Olesnice
 Olesnice v Orlickych horach
 Olesnik
+Olesno commune
 Olesno County
 Olevsk city
 Olevsk district
@@ -17276,6 +17374,7 @@ Oliveira de Azeméis
 Oliveira de Bairro
 Oliveira de Frades
 Oliveira do Hospital
+Olkusz
 Olkusz County
 Ollagüe
 Ollersdorf im Burgenland
@@ -17646,6 +17745,7 @@ Osvetimany
 Oswego
 Oswego County
 Oswiecim
+Oswiecim commune
 Oswiecim County
 Ota
 Otago Region
@@ -17854,6 +17954,7 @@ Palawan
 Palayan
 Paldau
 Paldiski
+Palecznica commune
 Palekh
 Pale municipality
 Palermo
@@ -18098,6 +18199,7 @@ Paz de Río
 Pazderna
 Pazos de Borbén
 Pchery
+Pcim commune
 Pcinja District
 Peabody
 Peace River Regional District
@@ -18533,6 +18635,7 @@ Pivijay
 Pivin
 Pivka
 Pivkovice
+Piwniczna-Zdroj
 Pixley ka Seme
 Pixley Ka Seme
 Pizarro
@@ -18584,6 +18687,7 @@ Plenkovice
 Plentzia
 Plese
 Plesna
+Plesna commune
 Plesnice
 Pleß
 Pleszew County
@@ -18653,6 +18757,7 @@ Poddebice commune
 Poddebice County
 Podebrady
 Podedworze commune
+Podegrodzie commune
 Podersdorf am See
 Podesin
 Podgorica
@@ -18727,6 +18832,7 @@ Pokrovsk district
 Pokrovske district
 Pokupsko
 Polanica-Zdroj
+Polanka Wielka commune
 Polanow commune
 Polatli
 Polczyn-Zdroj commune
@@ -18850,6 +18956,7 @@ Porirua
 Porlamar
 Pornainen
 Poronaysk
+Poronin commune
 Poros
 Porrentruy
 Porrentruy District
@@ -19191,6 +19298,7 @@ Prostejov
 Prostejov District
 Prostejovicky
 Prostredni Becva
+Proszowice
 Proszowice County
 Protivanov
 Protivin
@@ -19360,6 +19468,7 @@ Pryvillia city
 Przasnysz
 Przasnysz commune
 Przasnysz County
+Przeciszow commune
 Przedborz commune
 Przelewice commune
 Przemkow commune
@@ -19634,10 +19743,12 @@ Raasepori
 Raasiku Parish
 Rábade
 Rabat
+Raba Wyzna commune
 Rabensburg
 Rabenstein an der Pielach
 Rabi
 Rabino commune
+Rabka-Zdroj
 Rabun County
 Raby
 Raca
@@ -19649,10 +19760,12 @@ Raciazek commune
 Raciborz County
 Racice
 Racice-Pistovice
+Raciechowice commune
 Racine
 Racine County
 Racineves
 Rackova
+Raclawice commune
 Radcliff
 Radeče
 Radecznica commune
@@ -19668,6 +19781,7 @@ Radetice
 Radevormwald
 Radfeld
 Radford
+Radgoszcz commune
 Radhost
 Radic
 Radikov
@@ -19684,6 +19798,7 @@ Radkovy
 Radkow commune
 Radlje ob Dravi
 Radlo
+Radlow
 Radmer
 Radnevo
 Radnice
@@ -19724,6 +19839,7 @@ Radzanowo commune
 Radziejow
 Radziejow commune
 Radziejow County
+Radziemice commune
 Radzymin commune
 Radzyn Chelminski commune
 Radzyn Podlaski
@@ -20443,6 +20559,7 @@ Roosendaal
 Roosevelt County
 Roosna-Alliku Parish
 Root
+Ropa commune
 Ropazi
 Ropczyce-Sedziszow County
 Roper Gulf
@@ -20707,6 +20824,7 @@ Rychnov na Morave
 Rychnov u Jablonce nad Nisou
 Rychvald
 Ryde
+Ryglice
 Ryki commune
 Ryki County
 Rymarov
@@ -20717,15 +20835,18 @@ Rynoltice
 Rypin
 Rypin commune
 Rypin County
+Rytro commune
 Ryzoviste
 Rzasnia commune
 Rzasnik commune
 Rzeczniow commune
 Rzeczyca commune
 Rzekun commune
+Rzepiennik Strzyzewski commune
 Rzepin commune
 Rzeszow
 Rzeszow County
+Rzezawa commune
 Rzgow commune
 Rzhev
 Rzhyshchiv city
@@ -21817,6 +21938,7 @@ Sejong
 Sejrek
 Sekhukhune
 Sekovici municipality
+Sekowa commune
 Selangor
 Selbu
 Selcikler
@@ -22152,6 +22274,7 @@ Siemysl commune
 Siennica commune
 Siennica Rozana commune
 Sienno commune
+Siepraw commune
 Sieradz
 Sieradz commune
 Sieradz County
@@ -22344,6 +22467,7 @@ Skadovsk district
 Skagit County
 Skagway Borough
 Skaistgirys
+Skala
 Skalat city
 Skalice
 Skalice nad Svitavou
@@ -22366,6 +22490,7 @@ Skastice
 Skatelöv district
 Skaudvile
 Skaun
+Skawina
 Skedsmo
 Skeena-Queen Charlotte Regional District
 Skellefteå
@@ -22412,6 +22537,7 @@ Skriveri
 Skrunda
 Skrwilno commune
 Skryje
+Skrzyszow commune
 Skuhrov
 Skuhrov nad Belou
 Skuodas District Municipality
@@ -22425,6 +22551,7 @@ Skwierzyna commune
 Skydra
 Slabce
 Slabcice
+Slaboszow commune
 Slana
 Slanik
 Slantsy
@@ -22473,9 +22600,11 @@ Slivo Pole
 Sliwice commune
 Slobodskoy
 Slochteren
+Slomniki
 Slonim
 Slonsk commune
 Slopne
+Slopnice commune
 Sloup
 Sloupnice
 Sloupno
@@ -22895,6 +23024,7 @@ Spring Lake
 Sprockhövel
 Spydeberg
 Spytihnev
+Spytkowice commune
 Squamish-Lillooet Regional District
 Sračinec 
 Sragen Regency
@@ -23103,6 +23233,7 @@ Stary Oskol
 Stary Petrin
 Stary Plzenec
 Stary Poddvorov
+Stary Sacz
 Stasov
 Staszow County
 Statenice
@@ -23386,6 +23517,8 @@ Stryi city
 Stryi district
 Strykow commune
 Stryn
+Stryszawa commune
+Stryszow commune
 Strzegom commune
 Strzegowo commune
 Strzelce-Drezdenko County
@@ -23435,6 +23568,7 @@ Subotica
 Suceava
 Suceava County
 Sucha
+Sucha Beskidzka
 Sucha Beskidzka County
 Sucha Loz
 Suchan commune
@@ -23515,11 +23649,13 @@ Sulikow commune
 Sulimov
 Sulislav
 Sulkovec
+Sulkowice
 Sullana
 Sullana Province
 Sullens
 Sullivan County
 Suloglu
+Suloszowa commune
 Sultan
 Sultanbeyli
 Sultandagi
@@ -23745,6 +23881,7 @@ Swartland
 Sweet Grass County
 Sweetwater County
 Swellendam
+Swiatniki Gorne
 Swidnica
 Swidnica commune
 Swidnica County
@@ -23796,16 +23933,20 @@ Sysmä
 Sytno
 Szabolcs-Szatmar-Bereg County
 Szadek commune
+Szaflary commune
 Szamotuly County
 Szastarka commune
 Szczaniec commune
 Szczawin Koscielny commune
+Szczawnica
 Szczawno-Zdroj
 Szczebrzeszyn commune
 Szczecin
 Szczecinek
 Szczecinek County
 Szczercow commune
+Szczucin
+Szczurowa commune
 Szczutowo commune
 Szczytna commune
 Szczytno
@@ -23813,6 +23954,7 @@ Szczytno County
 Szeged
 Szekesfehervar
 Szelkow commune
+Szerzyny commune
 Szklarska Poreba
 Szlichtyngowa commune
 Szprotawa commune
@@ -23999,6 +24141,7 @@ Tarnobrzeg
 Tarnobrzeg County
 Tarnogrod commune
 Tarnow
+Tarnow commune
 Tarnow County
 Tarnowskie Gory County
 Tarouca
@@ -24447,6 +24590,7 @@ Toguchin
 Togüí
 Toila Parish
 Toivakka
+Tokarnia commune
 Tokat
 Tokat Province
 Tokigawa
@@ -24484,6 +24628,7 @@ Tombouctou Region
 Tomé
 Tomelilla
 Tom Green County
+Tomice commune
 Tomisato
 Tompkins County
 Tomsk
@@ -24806,17 +24951,20 @@ Trutnov District
 Truttikon
 Trysil
 Tryškiai
+Trzciana commune
 Trzciel commune
 Trzcinsko-Zdroj commune
 Trzebiatow commune
 Trzebiechow commune
 Trzebiel commune
 Trzebieszow commune
+Trzebinia
 Trzebnica commune
 Trzebnica County
 Trzeszczany commune
 Tržič
 Trzin
+Trzyciaz commune
 Trzydnik Duzy commune
 Trøgstad
 Tsageri
@@ -24855,6 +25003,7 @@ Tuchola commune
 Tuchola County
 Tuchomerice
 Tuchorice
+Tuchow
 Tucin
 Tucker County
 Tucson
@@ -25003,6 +25152,7 @@ Tychy
 Tydal
 Tyler County
 Tymakov
+Tymbark commune
 Tymovskoe
 Tynaarlo
 Tynda
@@ -25311,6 +25461,7 @@ Urzedow commune
 Usak
 Usakos
 Usak Province
+Uscie Gorlickie commune
 Ushuaia
 Usiacurí
 Usilne
@@ -26527,6 +26678,7 @@ Waco
 Waddinxveen
 Wadena County
 Wädenswil
+Wadowice
 Wadowice County
 Wadroze Wielkie commune
 Wagait
@@ -26993,9 +27145,11 @@ Wiedikon
 Wiehl
 Wielgie commune
 Wielgomlyny commune
+Wieliczka
 Wieliczka County
 Wieliszew commune
 Wielka Nieszawka commune
+Wielka Wies commune
 Wielkopolskie Voivodeship
 Wielsbeke
 Wielun commune
@@ -27006,12 +27160,14 @@ Wiener Neustadt
 Wiener Neustadt District
 Wienerwald
 Wien-Umgebung District
+Wieprz commune
 Wierden
 Wieruszow commune
 Wieruszow County
 Wierzbica commune
 Wierzbno commune
 Wierzchlas commune
+Wierzchoslawice commune
 Wierzchowo commune
 Wiesbaden
 Wieselburg
@@ -27021,6 +27177,7 @@ Wiesendangen
 Wiesfleck
 Wiesing
 Wiesmath
+Wietrzychowice commune
 Wigan
 Wiggensbach
 Wigoltingen
@@ -27135,6 +27292,7 @@ Wisen
 Wiskitki commune
 Wislikofen
 Wisniew commune
+Wisniowa commune
 Wisznia Mala commune
 Wisznice commune
 Witikon
@@ -27170,6 +27328,7 @@ Wohyn commune
 Wojciechow commune
 Wojcieszkow commune
 Wojcieszow
+Wojnicz
 Wojslawice commune
 Woking
 Woking (town)
@@ -27177,6 +27336,7 @@ Wola Krzysztoporska commune
 Wola Myslowska commune
 Wölbling
 Wolborz commune
+Wolbrom
 Wolcott
 Woleu-Ntem Province
 Wolfau
@@ -27514,11 +27674,13 @@ Zabbar
 Zabcice
 Zaben
 Zabia Wola commune
+Zabierzow commune
 Zabkowice Slaskie commune
 Zabkowice Slaskie County
 Zablati
 Žabljak
 Žabnik
+Zabno
 Zabok
 Zabonosy
 Zabor commune
@@ -27579,7 +27741,9 @@ Zajecov
 Zakarpatska Region
 Zakava
 Zakharivka district
+Zakliczyn
 Zakolany
+Zakopane
 Zakovice
 Zakrany
 Zakroczym commune
@@ -27693,6 +27857,7 @@ Zavrč
 Zawidow
 Zawidz commune
 Zawiercie County
+Zawoja commune
 Zawonia commune
 Zbarazh city
 Zbaszynek commune
@@ -27751,6 +27916,7 @@ Zederik
 Zeeland
 Zeewolde
 Zeglingen
+Zegocina commune
 Zehun
 Zehusice
 Zeihen
@@ -27801,6 +27967,7 @@ Zeltweg
 Zelzate
 Žemaičių Kalvarija
 Žemaičių Naumiestis
+Zembrzyce commune
 Zemendorf-Stöttera
 Zemst
 Zemun
@@ -27873,6 +28040,7 @@ Zielona Gora City
 Zielona Gora commune
 Zielona Gora County
 Zielonka
+Zielonki commune
 Zierbena
 Ziersdorf
 Ziezmariai
