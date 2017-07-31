@@ -40,6 +40,7 @@ Aberdeenshire
 Abertamy
 Abfaltersbach
 Abha
+Abia de las Torres
 Abia State
 Abidjan
 Abiko
@@ -198,6 +199,7 @@ Aguascalientes
 Aguazul
 Águeda
 Aguiar da Beira
+Aguilar de Campoo
 Aguilar de la Frontera
 Águilas
 Agüímes
@@ -323,6 +325,7 @@ Alaska
 Alatskivi Parish
 Albacete
 Alba County
+Alba de Cerrato
 Alba Iulia
 Albán
 Albanchez
@@ -380,6 +383,7 @@ Alcolea
 Alcona County
 Alcóntar
 Alcorcón
+Alcorn County
 Alcoutim
 Alcúdia
 Alcudia de Monteagud
@@ -658,6 +662,7 @@ Amherst
 Amherst County
 Amiens
 Amieva
+Amite County
 Amlach
 Åmli
 Amlikon-Bissegg
@@ -810,6 +815,7 @@ Antene
 Anthering
 Antigonish County
 Antigua
+Antigüedad
 Antiguo Cuscatlán
 Antioch
 Antioquia Department
@@ -1252,6 +1258,7 @@ Austrheim
 Autauga County
 Autazes
 Autigny
+Autilla del Pino
 Autonomous Province of Bolzano
 Autonomous Province of Trento
 Auvergne-Rhône-Alpes
@@ -1523,6 +1530,7 @@ Balsfjord
 Balsthal
 Balta city
 Balta district
+Baltanás
 Bălti
 Baltimore
 Baltimore County
@@ -1666,6 +1674,7 @@ Barrika
 Barron County
 Barrow County
 Barrow-in-Furness
+Barruelo de Santullán
 Barry County
 Bärschwil
 Barstow
@@ -1833,6 +1842,7 @@ Beaver County
 Beaverhead County
 Becej
 Becerril
+Becerril de Campos
 Becerril de la Sierra
 Bechary
 Bechovice
@@ -2598,6 +2608,7 @@ Bnei Brak
 Boaco
 Boaco Department
 Boadilla del Monte
+Boadilla de Rioseco
 Boa Vista
 Boavita
 Böbikon
@@ -2725,6 +2736,7 @@ Bolhrad city
 Bolhrad district
 Bolimow commune
 Bolívar
+Bolivar County
 Bolívar Department
 Bolívar Province
 Boljevac
@@ -3371,6 +3383,7 @@ Buenavista
 Buena Vista
 Buena Vista County
 Buenavista del Norte
+Buenavista de Valdavia
 Bueng Kan Province
 Buenos Aires
 Buenos Aires Province
@@ -3533,6 +3546,7 @@ Bussy-Chardonney
 Bussy-sur-Moudon
 Bustarviejo
 Bustehrad
+Bustillo de la Vega
 Busturia
 Butel
 Butgenbach
@@ -3684,6 +3698,7 @@ Cal
 Cala
 Calabasas
 Calabria
+Calahorra de Boedo
 Calais
 Calama
 Calamar
@@ -3732,6 +3747,7 @@ Calvert County
 Calvià
 Calvos de Randín
 Calw District
+Calzada de los Molinos
 Cama
 Camagüey Province
 Camaleño
@@ -3961,6 +3977,7 @@ Carrathool
 Carrazeda de Ansiães
 Carregal do Sal
 Carreño
+Carrión de los Condes
 Carroll County
 Carrollton
 Carsamba
@@ -4031,6 +4048,8 @@ Castohostice
 Castolovice
 Castrelo do Val
 Castricum
+Castrillo de Don Juan
+Castrillo de Villavega
 Castrillón
 Castro
 Castro Caldelas
@@ -4038,6 +4057,7 @@ Castro County
 Castro Daire
 Castro de Filabres
 Castro Marim
+Castromocho
 Castropol
 Castrop-Rauxel
 Castro-Urdiales
@@ -4235,6 +4255,7 @@ Cerro Gordo County
 Cerro Largo Department
 Cerro Navia
 Cértegui
+Cervatos de la Cueza
 Cervena Hora
 Cervena Lhota
 Cervena Recice
@@ -4247,6 +4268,7 @@ Cerveny Hradek
 Cerveny Kostelec
 Cerveny Ujezd
 Cervera de Buitrago
+Cervera de Pisuerga
 Cervo
 Cesar Department
 Češinovo-Obleševo
@@ -4949,6 +4971,7 @@ Cobanlar
 Cobar
 Cobb County
 Cobeña
+Cobos de Cerrato
 Cobquecura
 Coburg
 Coburg District
@@ -5127,6 +5150,7 @@ Cootamundra
 Copacabana
 Copeland
 Coper
+Copiah County
 Copiapó
 Copper Coast
 Coppet
@@ -7009,6 +7033,8 @@ Espelúy
 Espera
 Esperance
 Espinho
+Espinosa de Cerrato
+Espinosa de Villagonzalo
 Espírito Santo
 Espoo
 Esporles
@@ -7533,6 +7559,7 @@ Fresens
 Fresnedillas de la Oliva
 Fresno
 Fresno County
+Fresno del Río
 Fretterode
 Freudenstadt District
 Freyung-Grafenau District
@@ -7587,6 +7614,8 @@ Fuentedeoro
 Fuente el Saz de Jarama
 Fuenteheridos
 Fuente Palmera
+Fuentes de Nava
+Fuentes de Valdepero
 Fuente Vaqueros
 Fuentidueña de Tajo
 Fuerteventura
@@ -8445,6 +8474,7 @@ Grieskirchen District
 Griffen
 Griffith
 Grigiškes
+Grijota
 Grimbergen
 Grimes County
 Grimisuat
@@ -8605,6 +8635,7 @@ Guayas Province
 Guayatá
 Guaymas
 Guaynabo
+Guaza de Campos
 Gubin
 Gubin commune
 Guce
@@ -9308,6 +9339,8 @@ Heroltice
 Héron
 Herrán
 Herrenhof
+Herrera de Pisuerga
+Herrera de Valdecañas
 Herrera Province
 Herrerías
 Herrliberg
@@ -9701,6 +9734,7 @@ Horni Lhota
 Horni Libchava
 Horni Libochova
 Horni Lidec
+Hornillos de Cerrato
 Horni Lodenice
 Horni Lomna
 Horni Loucky
@@ -10350,6 +10384,7 @@ Isone
 Isparta
 Isparta Province
 Isperih
+Issaquena County
 Istanbul Metropolitan Municipality
 Istanbul Province
 Istmina
@@ -10378,6 +10413,7 @@ Itapúa Department
 Itaquaquecetuba
 Itasca County
 Itasy Region
+Itawamba County
 Itingen
 Itter
 Ittoqqortoormiit
@@ -10601,6 +10637,7 @@ Jedrzejow County
 Jeff Davis County
 Jefferson City
 Jefferson County
+Jefferson Davis County
 Jefferson Davis Parish
 Jefferson Parish
 Jegunovce
@@ -13024,6 +13061,7 @@ Lans
 Lansing
 Lansingerland
 Lanskroun
+Lantadilla
 Lantana
 Lantsch_Lenz
 Lanús
@@ -13226,6 +13264,7 @@ Laznicky
 Lazniky
 Lazsko
 Lea County
+Leake County
 Leavenworth
 Leavenworth County
 Leawood
@@ -14423,6 +14462,7 @@ Magallanes y Antártica Chilena Region
 Magangué
 Magareng
 Magas
+Magaz de Pisuerga
 Magdalena
 Magdalena Department
 Magdalenengrund
@@ -14695,6 +14735,7 @@ Mansfield Shire
 Mansoura
 Manta
 Manteigas
+Mantinos
 Mäntsälä
 Mantsopa
 Mänttä-Vilppula
@@ -14740,6 +14781,7 @@ Marchegg
 Marchigüe
 Marchin
 Marchissy
+Marcilla de Campos
 Marcinkonys
 Marciszow commune
 Marco de Canavezes
@@ -15032,6 +15074,7 @@ Maynas Province
 Mayrhofen
 Mayrouba
 Maywood
+Mazariegos
 Mazarrón
 Mazatán
 Mazcuerras
@@ -15154,6 +15197,7 @@ Melc
 Melcany
 Melekeok
 Melgaço
+Melgar de Yuso
 Melgiew commune
 Melgven
 Melhus
@@ -16588,6 +16632,7 @@ Neringa Municipality
 Nerva
 Nes
 Nesebar
+Neshoba County
 Neslovice
 Nesna
 Nesodden
@@ -17255,6 +17300,7 @@ Nowy Targ commune
 Nowy Targ County
 Nowy Tomysl County
 Nowy Wisnicz
+Noxubee County
 Noyabrsk
 Nquthu
 Ntabankulu
@@ -18241,6 +18287,7 @@ Paldiski
 Palecznica commune
 Palekh
 Pale municipality
+Palencia
 Palenciana
 Palermo
 Palestina
@@ -18340,6 +18387,7 @@ Paragould
 Paraguarí Department
 Paraíba
 Parainen
+Páramo de Boedo
 Paraná
 Paranhos
 Paranoá
@@ -18353,6 +18401,7 @@ Pardubice District
 Pardubicky Region
 Paredes
 Paredes de Coura
+Paredes de Nava
 Parelheiros
 Pargauja
 Parintins
@@ -18609,6 +18658,7 @@ Peppermint Grove
 Peque
 Perak
 Peralec
+Perales
 Perales de Tajuña
 Peralta
 Perama
@@ -18863,6 +18913,7 @@ Pinilla del Valle
 Pinillos
 Pinkafeld
 Pinneberg District
+Pino del Río
 Pinos Puente
 Pinsk
 Pinswang
@@ -19188,6 +19239,7 @@ Polvoreira
 Polyarny
 Polyarnye Zori
 Polzela
+Pomar de Valdivia
 Pomarkku
 Pombal
 Pomezi
@@ -19386,6 +19438,7 @@ Poznan
 Poznan County
 Pozo Alcón
 Pozo Almonte
+Pozo de Urama
 Pozorice
 Pozuelo de Alarcón
 Pozuelo del Rey
@@ -19485,6 +19538,7 @@ Prelovice
 Premier
 Premstätten
 Premyslovice
+Prentiss County
 Prepere
 Prerov
 Prerov District
@@ -20036,6 +20090,7 @@ Quinchao
 Quinchia
 Quincy
 Quindío Department
+Quintana del Puente
 Quintana Roo
 Quinta Normal
 Quinto
@@ -20432,6 +20487,7 @@ Reingers
 Reinholterode
 Reinickendorf
 Reinosa
+Reinoso de Cerrato
 Reinprechtsdorf
 Reinsberg
 Reisenberg
@@ -20465,6 +20521,7 @@ Renče-Vogrsko
 Rendalen
 Rendeux
 Rendsburg-Eckernförde District
+Renedo de la Vega
 Renens
 Renfrew County
 Renfrewshire
@@ -20522,6 +20579,7 @@ Reutlingen District
 Reutov
 Reutte
 Reutte District
+Revenga de Campos
 Revere
 Reverolle
 Revnice
@@ -20565,6 +20623,7 @@ Ribadeo
 Ribadesella
 Ribamontán al Mar
 Ribamontán al Monte
+Ribas de Campos
 Ribas de Sil
 Ribatejada
 Ribble Valley
@@ -21382,6 +21441,7 @@ Salazar de Las Palmas
 Salazie
 Šalčininkai
 Šalčininkai District Municipality
+Saldaña
 Saldanha Bay
 Saldus
 Saldutiškis
@@ -21488,6 +21548,7 @@ San Carlos de Bariloche
 San Carlos de Guaroa
 San Cayetano
 San Cayetano Department
+San Cebrián de Campos
 San Clemente
 San Cristobal
 San Cristóbal
@@ -21733,6 +21794,7 @@ San Pelayo
 Sanpete County
 San Rafael
 San Ramón
+San Román de la Cuba
 San Román Province
 San Roque
 San Rosendo
@@ -21824,6 +21886,7 @@ Santa Tecla
 Santa Teresa del Tuy
 Santa Venera
 San Telmo
+Santervás de la Vega
 Sant Francesc de Formentera
 Santiago
 Santiago de Arma de Rionegro
@@ -21857,6 +21920,7 @@ Santorcaz
 Santos
 Santo Tirso
 Santo Tomás
+Santoyo
 Santuario
 Santurtzi
 San Vicente
@@ -23246,6 +23310,7 @@ Sosuvka
 Sotaquirá
 Sotará
 Sotenäs
+Soto de Cerrato
 Soto del Barco
 Soto del Real
 Sottunga
@@ -24884,6 +24949,7 @@ Tinos
 Tintigny
 Tioga County
 Tipacoque
+Tippah County
 Tippecanoe County
 Tipton County
 Tiquisio
@@ -24902,6 +24968,7 @@ Tis
 Tisa
 Tisbury
 Tisek
+Tishomingo County
 Tisice
 Tišina
 Tismice
@@ -25040,6 +25107,7 @@ Torny
 Toro
 Toronto
 Toroslar
+Torquemada
 Torrance
 Torrance County
 Torre Alháquime
@@ -26027,6 +26095,7 @@ Valladolid
 Valle d'Aosta
 Valle de Egüés
 Valle del Cauca Department
+Valle del Retortillo
 Valle del Zalabí
 Valle de Trápaga-Trapagaran
 Valle de Villaverde
@@ -26238,6 +26307,7 @@ Veliko Trgovišće
 Velikoy
 Veliky Novgorod
 Veliky Ustyug
+Velilla del Río Carrión
 Velilla de San Antonio
 Velim
 Velimese
@@ -26390,6 +26460,7 @@ Verran
 Versalles
 Versmold
 Versoix
+Vertavillo
 Verusicky
 Verviers
 Vervins
@@ -26568,6 +26639,7 @@ Vilkaviškis District Municipality
 Vilkyškiai
 Villa Alegre
 Villa Alemana
+Villabasta de Valdavia
 Villablanca
 Villacaro
 Villacarrillo
@@ -26583,17 +26655,21 @@ Villa del Rosario
 Villa de Merlo
 Villa de Otura
 Villa Devoto
+Villaeles de Valdavia
 Villafranca
 Villafranca de Córdoba
 Villa General Mitre
 Villagómez
 Villa González
 Villa Hermosa
+Villaherreros
 Villa Hidalgo
 Villa Jaragua
 Villalba
 Villalba del Alcor
 Villalbilla
+Villalcázar de Sirga
+Villalobón
 Villa Lugano
 Villa Luro
 Villamanrique de Tajo
@@ -26603,6 +26679,7 @@ Villamaría
 Villa María
 Villamartín
 Villa Mercedes
+Villamoronta
 Villanueva
 Villanueva de la Cañada
 Villanueva de la Reina
@@ -26613,6 +26690,7 @@ Villanueva del Pardillo
 Villanueva del Rey
 Villanueva de Perales
 Villanueva Mesía
+Villanuño de Valdavia
 Villa Ortuzar
 Villa Pesqueira
 Villapinzon
@@ -26635,6 +26713,7 @@ Villars-sous-Yens
 Villars-sur-Glâne
 Villarzel
 Villa Santa Rita
+Villasila de Valdavia
 Villa Soldati
 Villa Urquiza
 Villava
@@ -26643,6 +26722,7 @@ Villaviciosa
 Villaviciosa de Odón
 Villavieja
 Villavieja del Lozoya
+Villaviudas
 Villaz-Saint-Pierre
 Ville-Marie
 Villeneuve
@@ -26654,6 +26734,7 @@ Villigen
 Villmergen
 Villnachern
 Villorsonnens
+Villota del Páramo
 Vilniansk city
 Vilniansk district
 Vilnius
@@ -27195,6 +27276,7 @@ Waltensburg_Vuorz
 Waltenschwil
 Waltershausen
 Walterswil
+Walthall County
 Waltham
 Waltham Forest
 Walton County
