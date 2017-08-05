@@ -485,6 +485,7 @@ Allerdale
 Allerheiligen bei Wildon
 Allhartsberg
 Allier
+Alligator Alley Reservation
 Allin
 Allschwil
 Almada
@@ -1664,6 +1665,7 @@ Barnstable County
 Barnwell County
 Baron
 Barona Group of Capitan Grande Band of Mission Indians
+Barona Reservation
 Barossa
 Barquisimeto
 Barracas
@@ -1823,6 +1825,7 @@ Bayirkoy
 Baykalsk
 Baykonyr
 Baylor County
+Bay Mills Indian Community
 Bay of Plenty Region
 Bayonne
 Bayrakli
@@ -2051,6 +2054,7 @@ Benizalón
 Benjamin Constant
 Benjamín Hill
 Benken
+Bennett County
 Benningen
 Bennington County
 Bennwil
@@ -2381,6 +2385,7 @@ Biezun commune
 Biezwil
 Biga
 Bigadic
+Big Cypress Indian Reservation
 Big Horn County
 Big Stone County
 Bihar
@@ -2419,6 +2424,7 @@ Biliran
 Billens-Hennens
 Billerica
 Billings
+Billings County
 Bilmak district
 Bilohiria district
 Bilokurakyne district
@@ -2785,6 +2791,7 @@ Bonfim
 Bonfol
 Bong County
 Bonheiden
+Bon Homme County
 Boniewo commune
 Boningen
 Boniswil
@@ -2917,6 +2924,7 @@ Bottens
 Bottenwil
 Botterens-Villarbeney
 Bottighofen
+Bottineau County
 Bottmingen
 Bottrop
 Böttstein
@@ -2960,6 +2968,7 @@ Bowen Island
 Bowie
 Bowie County
 Bowling Green
+Bowman County
 Boxborough
 Box Elder County
 Boxford
@@ -3187,6 +3196,7 @@ Brielle
 Brig-Glis
 Brigham
 Brighton
+Brighton Seminole Indian Reservation
 Brigittenau
 Brigittenau District
 Brignogan-Plages
@@ -3672,6 +3682,7 @@ Cácota
 Cadalso de los Vidrios
 Cadaval
 Caddo County
+Caddo Nation
 Caddo Parish
 Cademario
 Cadempino
@@ -3686,6 +3697,7 @@ Cagayan de Oro
 Cagirgan
 Cagliari
 Caguas
+Cahto Rancheria
 Cahuilla Band of Mission Indians of the Cahuilla Reservation
 Cahul District
 Caicedo
@@ -4004,6 +4016,7 @@ Carsamba
 Carsibasi
 Carson
 Carson City
+Carson Colony
 Carson County
 Cartagena
 Cartagena del Chairá
@@ -4111,6 +4124,7 @@ Caucasia
 Cauquenes
 Căuseni District
 Cavalaire-sur-Mer
+Cavalier County
 Cavisov
 Cavite
 Cavite City
@@ -4404,6 +4418,7 @@ Charlemont
 Charleroi
 Charles City County
 Charles County
+Charles Mix County
 Charles Sturt
 Charleston
 Charleston County
@@ -4518,6 +4533,7 @@ Chernogorsk
 Chernushka
 Chernyakhovsk
 Cherokee County
+Cherokee Nation
 Cherven Bryag
 Chervonohrad city
 Chervonopartyzansk city
@@ -4562,6 +4578,7 @@ Chicago Heights
 Chichibu
 Chickamauga
 Chickasaw County
+Chickasaw Nation
 Chiclana de la Frontera
 Chiclayo
 Chiclayo Province
@@ -4622,6 +4639,7 @@ Chistopol
 Chita
 Chitagá
 Chitaraque
+Chitimacha Indian Reservation
 Chittenden County
 Chittering
 Chitungwiza
@@ -4655,6 +4673,7 @@ Chociwel commune
 Chocó Department
 Chocontá
 Choctaw County
+Choctaw Nation
 Chodecz commune
 Chodel commune
 Chodoun
@@ -4911,6 +4930,7 @@ Cista u Horek
 Cisteves
 Citgol
 Citice
+Citizen Potawatomi Nation
 Citoliby
 Citonice
 Citov
@@ -5008,6 +5028,7 @@ Cochabamba Department
 Cochem-Zell District
 Cochin
 Cochise County
+Cochiti Pueblo
 Cochran County
 Cochrane
 Cochrane District
@@ -5105,6 +5126,7 @@ Colusa County
 Colwood
 Comal County
 Comanche County
+Comanche Nation
 Comano
 Comayagua Department
 Combarbalá
@@ -5240,6 +5262,7 @@ Corse-du-Sud
 Corserey
 Corsier
 Corsier-sur-Vevey
+Corson County
 Cortaillod
 Corteconcepción
 Cortegana
@@ -5329,6 +5352,7 @@ Courtenay
 Courtepin
 Courtételle
 Court-Saint-Étienne
+Coushatta Indian Reservation
 Couva-Tabaquite-Talparo Region
 Couvin
 Cova Lima District
@@ -5394,6 +5418,7 @@ Crooked Island
 Crosby County
 Cross County
 Cross River State
+Crow Indian Reservation
 Crowley County
 Crow Wing County
 Croy
@@ -5830,6 +5855,7 @@ Detrichov
 Detrichov nad Bystrici
 Detrichov u Moravske Trebove
 Detroit
+Deuel County
 Deuna
 Deurne
 Deutschfeistritz
@@ -5865,6 +5891,7 @@ Dibër County
 Dibulla
 Dickens County
 Dickenson County
+Dickey County
 Dickinson County
 Dickson County
 Didim
@@ -5974,6 +6001,7 @@ Divaky
 Divcice
 Divci Hrad
 Divec
+Divide County
 Divinópolis
 Divisaderos
 Divisov
@@ -6551,6 +6579,7 @@ Eastern Macedonia and Thrace
 Eastern Province
 Eastern Region
 Eastern Samar
+Eastern Shawnee Tribe
 East Feliciana Parish
 Eastford
 East Fremantle
@@ -6910,6 +6939,7 @@ Emmerich
 Emmersdorf an der Donau
 Emmet County
 Emmetten
+Emmons County
 Emnambithi-Ladysmith
 Emo
 Empalme
@@ -7226,6 +7256,7 @@ Fällanden
 Fallbach
 Fallon County
 Fall River
+Fall River County
 Falls Church
 Falls County
 Falls Creek
@@ -7475,6 +7506,7 @@ Folldal
 Folsom
 Fómeque
 Fond du Lac County
+Fond du Lac Indian Reservation
 Fondón
 Fonelas
 Fono
@@ -7509,11 +7541,14 @@ Forssa
 Forstau
 Forsyth County
 Fortaleza
+Fort Belknap Indian Reservation
 Fort Bend County
+Fort Berthold Indian Reservation
 Fort Bragg
 Fort Collins
 Fort-de-France
 Fort Lauderdale
+Fort Pierce Seminole Indian Reservation
 Fort Scott
 Fort-Shevchenko
 Fort Smith
@@ -7530,6 +7565,7 @@ Fosca
 Foshan
 Fosnes
 Fosses-la-Ville
+Foster County
 Fouesnant
 Founex
 Fountain County
@@ -8417,9 +8453,11 @@ Grand Haven
 Grand Isle County
 Grand Kru County
 Grândola
+Grand Portage Indian Reservation
 Grand Port District
 Grand Prairie
 Grand Rapids
+Grand Ronde Community
 Grand-Saconnex
 Grand-Santi
 Grand Traverse County
@@ -8501,6 +8539,7 @@ Greenwood
 Greenwood County
 Greer County
 Gregg County
+Gregory County
 Greifenburg
 Greifensee
 Greinbach
@@ -8532,6 +8571,7 @@ Gries am Sellrain
 Grieskirchen District
 Griffen
 Griffith
+Griggs County
 Grigiškes
 Grijota
 Grimbergen
@@ -8839,6 +8879,7 @@ Haabersti
 Haacht
 Häädemeeste Parish
 Haag
+Haakon County
 Haaksbergen
 Haaltert
 Haan
@@ -9433,6 +9474,7 @@ Herøy
 Hessen
 Hessequa
 Het Bildt
+Hettinger County
 Hettlingen
 Hetzendorf
 Heugraben
@@ -9672,6 +9714,7 @@ Hollersbach im Pinzgau
 Holliston
 Hollola
 Hollywood
+Hollywood Seminole Indian Reservation
 Holmes County
 Holohlavy
 Holon
@@ -9730,6 +9773,7 @@ Hopewell Township
 Hopferau
 Hopfgarten im Brixental
 Hopfgarten in Defereggen
+Hopi Nation
 Hôpital-Camfrout
 Hopkins County
 Hopkinton
@@ -10269,6 +10313,7 @@ Imbabura Province
 Imeni Lazo District
 Imeni Poliny Osipenko District
 Immenstadt im Allgäu
+Immokalee Seminole Indian Reservation
 Impendle
 Imperatriz
 Imperial County
@@ -11676,10 +11721,14 @@ Khust
 Khust district
 Khyber Pakhtunkhwa
 Khyriv city
+Kialegee Tribal Town
 Kiama
 Kiambu County
 Kičevo
+Kickapoo Indian Reservation
+Kickapoo Tribe
 Kidal Region
+Kidder County
 Kidričevo
 Kiduliai
 Kiel
@@ -12552,6 +12601,7 @@ Krokom
 Krolevets city
 Krolevets district
 Krombach
+Krome Avenue Reservation
 Kromeriz
 Kromeriz District
 Krompach
@@ -12838,6 +12888,7 @@ Kyzylorda Region
 København
 L'Abbaye
 L'Abergement
+L'Anse Indian Reservation
 L'Aquila
 L'Île-Bizard–Sainte-Geneviève
 L'Île-Dorval
@@ -12954,6 +13005,7 @@ La Guajira Department
 La Guancha
 La Guardia de Jaén
 Laguna
+Laguna Pueblo Reservation
 La Habana
 La Habra Heights
 Laheda Parish
@@ -12994,6 +13046,7 @@ Lake Mountain
 Lake of the Woods County
 Lake Park
 Lake Quivira
+Lake Vermilion Indian Reservation
 Lakeville
 Lakewood
 Lake Zurich
@@ -13033,6 +13086,7 @@ La Mojonera
 Lamone
 Lamongan Regency
 La Montañita
+LaMoure County
 Lampa
 Lampang Province
 Lampasas County
@@ -13393,6 +13447,7 @@ Le Drennec
 Ledvice
 Ledyard
 Lee
+Leech Lake Indian Reservation
 Lee County
 Leeds and Grenville United Counties
 Leek
@@ -14436,6 +14491,7 @@ Lyaskovets
 Lycksele
 Lycoming County
 Lyman city
+Lyman County
 Lyman district
 Lyme
 Lynchburg
@@ -15062,6 +15118,7 @@ Mascoutah
 Masein
 Maseru
 Masfjorden
+Mashantucket Pequot Indian Reservation
 Mashhad
 Mashivka district
 Mashpee
@@ -15194,6 +15251,7 @@ Mcely
 McHenry County
 McIntosh County
 McKean County
+McKenzie County
 McKinlay
 McKinley County
 McLean County
@@ -15302,6 +15360,7 @@ Mellac
 Mellau
 Melle
 Mellerud
+Mellette County
 Mellieha
 Mellikon
 Mellingen
@@ -15409,6 +15468,7 @@ Mesen
 Mesetas
 Mesice
 Meskuiciai
+Meskwaki Settlement
 Mesocco
 Mesolongi
 Mespaul
@@ -15612,6 +15672,7 @@ Milkovsky District
 Milkowice commune
 Millard County
 Mille Lacs County
+Mille Lacs Lake Indian Reservation
 Mill en Sint Hubert
 Miller County
 Millington
@@ -15712,6 +15773,7 @@ Mission Viejo
 Mission Woods
 Mississauga
 Mississippi
+Mississippi Choctaw Indian Reservation
 Mississippi County
 Misso Parish
 Missoula County
@@ -15797,6 +15859,7 @@ Modlikov
 Mödling
 Mödling District
 Modoc County
+Modoc Tribe
 Modra
 Modrany
 Modrava
@@ -15827,6 +15890,7 @@ Mogi Mirim
 Moguer
 Mohamedia-Fouchana
 Mohave County
+Mohegan Indian Reservation
 Mohéli
 Mohelnice
 Mohelno
@@ -16008,6 +16072,7 @@ Montville
 Mont-Vully
 Monufia Governorate
 Mooca
+Moody County
 Mook en Middelaar
 Mookgopong
 Moonbeam
@@ -16181,6 +16246,7 @@ Mount Laurel Township
 Mount Lebanon Governorate
 Mount Magnet
 Mount Marshall
+Mountrail County
 Mount Remarkable
 Mount Stirling
 Mount Waddington Regional District
@@ -16545,6 +16611,7 @@ Naro-Fominsk
 Narok County
 Narón
 Narrabri
+Narragansett Indian Reservation
 Narrandera
 Narrillos del Álamo
 Narrogin
@@ -16769,6 +16836,7 @@ Netishyn city
 Netretić 
 Nett
 Nettersheim
+Nett Lake Indian Reservation
 Neubau
 Neubau District
 Neuberg an der Mürz
@@ -17171,6 +17239,7 @@ Northeim District
 Northern Areas
 Northern Beaches
 Northern Cape
+Northern Cheyenne Indian Reservation
 Northern Governorate
 Northern Grampians
 Northern Ireland
@@ -17814,6 +17883,7 @@ Oliveira de Bairro
 Oliveira de Frades
 Oliveira do Hospital
 Oliver
+Oliver County
 Olkusz
 Olkusz County
 Ollagüe
@@ -17889,6 +17959,7 @@ Onjuku
 Onkaparinga
 Onnens
 Onondaga County
+Onondaga Reservation
 Onsernone
 Onslow County
 Onsov
@@ -18057,6 +18128,7 @@ Orzhytsia district
 Os
 Osa
 Osage County
+Osage Nation
 Osaka
 Osaka Prefecture
 Osasco
@@ -18214,6 +18286,7 @@ Otjozondjupa Region
 Otmarov
 Otmice
 Otnice
+Otoe-Missouria Tribe
 Otorohanga District
 Otovice
 Otradnoe
@@ -18226,6 +18299,7 @@ Ottakring
 Ottakring District
 Ottawa
 Ottawa County
+Ottawa Tribe
 Ottenbach
 Ottendorf an der Rittschein
 Ottenschlag
@@ -18567,6 +18641,7 @@ Pasca
 Pasco County
 Pasco Province
 Pasco Region
+Pascua Yaqui Reservation
 Pas-de-Calais
 Paseka
 Paseky
@@ -18581,6 +18656,8 @@ Pasovice
 Pasquotank County
 Passaic County
 Passail
+Passamaquoddy Indian Township Reservation
+Passamaquoddy Pleasant Point Reservation
 Passau
 Passau District
 Passo Fundo
@@ -18641,6 +18718,7 @@ Pavlovice u Prerova
 Pavlovsk
 Pavlovsky Posad
 Pawnee County
+Pawnee Nation
 Paxoi
 Paxton
 Paya
@@ -18729,6 +18807,7 @@ Peloponnese
 Pelotas
 Pemalang Regency
 Pemberton
+Pembina County
 Pembroke
 Pembroke Parish
 Pembrokeshire
@@ -18762,6 +18841,7 @@ Peniche
 Pennington County
 Pennsylvania
 Penobscot County
+Penobscot Indian Island Reservation
 Penrith
 Pensacola
 Pensilvania
@@ -18778,6 +18858,7 @@ Penzing
 Penzing District
 Peoria
 Peoria County
+Peoria Tribe
 Pepin County
 Pepingen
 Pepinster
@@ -18808,6 +18889,7 @@ Perimov
 Perisher Blue
 Peristeri
 Perito Moreno
+Perkins County
 Perlis
 Perlojai
 Perly-Certoux
@@ -19210,6 +19292,7 @@ Pnetluky
 Pniewy commune
 Pnovany
 Pnovice
+Poarch Creek Indian Reservation
 Pobezovice
 Pobezovice u Holic
 Pocahontas County
@@ -20177,7 +20260,9 @@ Qormi
 Qrendi
 Quairading
 Qualicum Beach
+Qualla Boundary
 Quanzhou
+Quapaw Tribe
 Quaregnon
 Quarten
 Quartier Grünau
@@ -20573,6 +20658,7 @@ Redding
 Redditch
 Redenção
 Red Lake County
+Red Lake Indian Reservation
 Redland
 Redonda Dependency
 Redondo
@@ -20781,6 +20867,7 @@ Rîbnita
 Ricany
 Ricaurte
 Rice County
+Richardson County
 Rich County
 Richland County
 Richland Parish
@@ -20935,6 +21022,7 @@ Robertsfors
 Robertson County
 Robeson County
 Robinson
+Robinson Rancheria of Pomo Indians
 Robinson Rancheria of Pomo Indians of California
 Robinson Township
 Robledillo de la Jara
@@ -21040,6 +21128,7 @@ Rokytnice v Orlickych horach
 Rokytno
 Rolândia
 Roldanillo
+Rolette County
 Rolla
 Rollag
 Rolle
@@ -21416,6 +21505,8 @@ Sabrosa
 Sabugal
 Sabu Raijua Regency
 Sácama
+Sac and Fox Nation
+Sac and Fox Reservation
 Sacatepéquez Department
 Sac County
 Sáchica
@@ -21705,6 +21796,7 @@ Sande
 Sandefjord
 Sanders County
 Sandgerði
+Sandia Pueblo Reservation
 San Diego
 San Diego County
 Sandikli
@@ -21721,6 +21813,7 @@ Sandviken
 Sandviken district
 Sandwell
 Sandwich
+Sandy Lake Indian Reservation
 Sandys Parish
 San Eduardo
 San Estanislao de Kostka
@@ -21973,6 +22066,7 @@ Santa Catalina de Alejandría
 Santa Catarina
 Santa Clara
 Santa Clara County
+Santa Clara Pueblo
 Santa Clarita
 Santa Comba
 Santa Comba Dão
@@ -22160,6 +22254,7 @@ Sardice
 Sardinata
 Sardoal
 Sargans
+Sargent County
 Sari
 Sáric
 Saricakaya
@@ -22566,6 +22661,7 @@ Sencelles
 Sendai
 Senec
 Seneca
+Seneca-Cayuga Nation
 Seneca County
 Senèdes
 Seneffe
@@ -22723,6 +22819,7 @@ Shatura
 Shawano County
 Shawnee
 Shawnee County
+Shawnee Tribe
 Shchastya city
 Shchekino
 Shchelkovo
@@ -23180,6 +23277,7 @@ Slochteren
 Slomniki
 Slonim
 Slonsk commune
+Slope County
 Slopne
 Slopnice commune
 Sloup
@@ -23521,6 +23619,7 @@ Southern Leyte
 Southern Mallee
 Southern Province
 Southern Region
+Southern Ute Indian Reservation
 South Gippsland
 South Gloucestershire
 South Governorate
@@ -23680,6 +23779,7 @@ St. Moritz
 St. Niklaus
 St. Paul
 St. Petersburg
+St. Regis Mohawk Reservation
 St. Silvester
 St. Tammany Parish
 St. Ursen
@@ -23732,6 +23832,7 @@ Stanislaus County
 Stanislawow commune
 Stankov
 Stankovice
+Stanley County
 Stanly County
 St Annes-on-the-Sea
 Stanovice
@@ -23914,6 +24015,7 @@ Steuerberg
 Stevenage
 Stevens County
 Steve Tshwete
+Stewart Community
 Stewart County
 Stewart District
 Stewart Island
@@ -24665,6 +24767,7 @@ Tambov Region
 Tame
 Tameside
 Támesis
+Tamiami Trail Reservation
 Tamil Nadu
 Taminango
 Tamins
@@ -24672,6 +24775,7 @@ Tammela
 Tammin
 Tampa
 Tampa Heights
+Tampa Seminole Indian Reservation
 Tampere
 Tampines
 Tamsalu
@@ -25037,6 +25141,7 @@ Thibodaux
 Thiersee
 Thira
 Thiruvananthapuram
+Thlopthlocco Tribal Town
 Tholen
 Thomasberg
 Thomas County
@@ -25502,6 +25607,7 @@ Trinity
 Trinity County
 Trins
 Tripoli
+Tripp County
 Tripura
 Tri Sekery
 Tristach
@@ -25681,6 +25787,7 @@ Tunceli Province
 Tundzha
 Tungawan Municipality
 Tungurahua Province
+Tunica-Biloxi Indian Reservation
 Tunica County
 Tunis
 Tunis Governorate
@@ -25735,6 +25842,7 @@ Turovice
 Turre
 Turrillas
 Tursko
+Turtle Mountain Indian Reservation
 Turtmann-Unterems
 Turtzioz
 Turukhansk
@@ -25742,6 +25850,7 @@ Turuncova
 Tusba
 Tuscaloosa County
 Tuscarawas County
+Tuscarora Reservation
 Tuscola County
 Tussenhausen
 Tuszyn commune
@@ -27462,6 +27571,7 @@ Walnut Grove
 Walpersbach
 Walpole
 Walsall
+Walsh County
 Wals-Siezenheim
 Waltalingen
 Waltenhofen
@@ -27538,6 +27648,8 @@ Washington Parish
 Washington Township
 Washita County
 Washoe County
+Washoe Indian Reservation
+Washoe Ranch
 Washtenaw County
 Wasilla
 Wasosz commune
@@ -27799,6 +27911,7 @@ Whistler Resort
 Whitby
 Whitchurch-Stouffville
 White County
+White Earth Indian Reservation
 Whitehorse
 White Pine County
 White Rock
@@ -27815,6 +27928,7 @@ Wiazowna commune
 Wibaux County
 Wichelen
 Wichita
+Wichita and Affiliated Tribes
 Wichita County
 Wickepin
 Wicomico County
@@ -28074,6 +28188,7 @@ Woodbury
 Woodbury County
 Wood County
 Woodford County
+Woodfords Community
 Woodland
 Woodmont
 Woodruff County
@@ -28131,6 +28246,7 @@ Wuustwezel
 Wyalkatchem
 Wyandot County
 Wyandotte County
+Wyandotte Nation
 Wychavon
 Wymiarki commune
 Wyndham
@@ -28725,12 +28841,14 @@ Zhydachiv district
 Zhytomyr city
 Zhytomyr district
 Zhytomyr Region
+Zia Pueblo
 Ziar nad Hronom
 Zichlinek
 Zichovec
 Zidlochovice
 Zidneves
 Zidovice
+Ziebach County
 Ziebice commune
 Ziefen
 Ziegelheim
