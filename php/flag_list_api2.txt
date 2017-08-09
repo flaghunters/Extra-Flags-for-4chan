@@ -916,6 +916,7 @@ Aranos
 Aransas County
 Aranzazu
 Arapahoe County
+Arapaho Tribe of the Wind River Reservation
 Arapiraca
 Arar
 Araraquara
@@ -1252,6 +1253,7 @@ Aure
 Aurich District
 Aurland
 Aurora
+Aurora County
 Aurukun
 Ausserberg
 Aussersihl
@@ -1840,6 +1842,7 @@ Baztan
 Bdeneves
 Beacon Falls
 Beaconsfield
+Beadle County
 Bear Lake County
 Beas
 Beas de Granada
@@ -3299,6 +3302,7 @@ Bruckneudorf
 Brugelette
 Brugg
 Brugge
+Brule County
 Brummen
 Brumov
 Brumov-Bylnice
@@ -4560,6 +4564,7 @@ Chevroux
 Chexbres
 Cheyenne
 Cheyenne County
+Cheyenne River Indian Reservation
 Cheyres-Châbles
 Cheznovice
 Chhattisgarh
@@ -5692,11 +5697,13 @@ Davidson County
 Davie County
 Daviess County
 Davis County
+Davison County
 Davle
 Davos
 Dawson
 Dawson County
 Dawson Creek
+Day County
 Daykundi Province
 Dayton
 Dazkiri
@@ -6678,6 +6685,7 @@ Edirne Province
 Edlitz
 Edmonson County
 Edmonton
+Edmunds County
 Edna
 Edogawa
 Edo State
@@ -7287,6 +7295,7 @@ Fastiv city
 Fastiv district
 Fatih
 Fatu Hiva
+Faulk County
 Faulkner County
 Fauquier County
 Fauske
@@ -9038,6 +9047,7 @@ Hamilton
 Hamilton County
 Hamilton Parish
 Hamina
+Hamlin County
 Hamm
 Hammam Chott
 Hammamet
@@ -9071,6 +9081,7 @@ Han
 Hanak
 Hancock
 Hancock County
+Hand County
 Hangzhou
 Hanila Parish
 Haninge
@@ -9092,6 +9103,7 @@ Han Pijesak municipality
 Hansford County
 Hansk commune
 Hanson
+Hanson County
 Hanstein-Rusteberg
 Hantam
 Hanusovice
@@ -10794,6 +10806,7 @@ Jenstejn
 Jeollabuk Province
 Jeollanam Province
 Jepara Regency
+Jerauld County
 Jerez de la Frontera
 Jerice
 Jericho
@@ -11120,6 +11133,7 @@ Kaliningrad
 Kaliningrad Region
 Kalinkovichi
 Kalinovik municipality
+Kalispel Reservation
 Kaliste
 Kalisz
 Kalisz County
@@ -11786,6 +11800,7 @@ King Island
 Kingman County
 Kingman Reef
 King Sabata Dalindyebo
+Kingsbury County
 Kings County
 Kingston
 Kingston Parish
@@ -14266,6 +14281,7 @@ Loving County
 Lovosice
 Lovrenc na Pohorju
 Lowell
+Lower Brule Indian Reservation
 Lower Eyre Peninsula
 Lower Hutt
 Lower Hutt (city)
@@ -14671,6 +14687,7 @@ Major County
 Majšperk
 Majur
 Majuro Atoll
+Makah Reservation
 Makana
 Makariv district
 Makarov
@@ -15238,6 +15255,7 @@ Mbonambi
 McBride
 McClain County
 McCone County
+McCook County
 McCormick County
 McCracken County
 McCreary County
@@ -15709,6 +15727,7 @@ Mindelheim
 Minden
 Minden-Lübbecke District
 Mineral County
+Miner County
 Minga Guazú
 Mingenew
 Mingo County
@@ -17947,6 +17966,7 @@ Ondo State
 Ondratice
 Ondrejov
 Oneida County
+Oneida Nation
 Onex
 Ongjin District
 Ongole
@@ -19115,6 +19135,7 @@ Pine County
 Pinecrest
 Pinellas County
 Pinellas Park
+Pine Ridge Indian Reservation
 Pingelly
 Pinggau
 Pingtung County
@@ -19554,6 +19575,7 @@ Port Lincoln
 Port Louis
 Port Louis District
 Port Macquarie-Hastings
+Port Madison Indian Reservation
 Port McNeill
 Port Moody
 Portmore
@@ -20222,6 +20244,7 @@ Putyvl district
 Puurmani Parish
 Puurs
 Puyallup
+Puyallup Indian Reservation
 Puy-de-Dôme
 Pyatigorsk
 Pyhäranta
@@ -20310,6 +20333,7 @@ Quilmes Department
 Quilpie
 Quilpué
 Quimbaya
+Quinault Reservation
 Quinchao
 Quinchia
 Quincy
@@ -21776,6 +21800,7 @@ San Benito County
 San Bernardino County
 San Bernardo
 San Bernardo del Viento
+Sanborn County
 Sancaktepe
 San Calixto
 San Carlos
@@ -22875,6 +22900,7 @@ Shlisselburg
 Shoalhaven
 Shoreview
 Shoshone County
+Shoshone Tribe of the Wind River Reservation
 Shostka city
 Shostka district
 Shpola city
@@ -23685,6 +23711,7 @@ Spielberg
 Spiere-Helkijn
 Spillern
 Spindleruv Mlyn
+Spink County
 Spiringen
 Spiss
 Spital am Semmering
@@ -24348,6 +24375,7 @@ Sullana
 Sullana Province
 Sullens
 Sullivan County
+Sully County
 Suloglu
 Suloszowa commune
 Sultan
@@ -25756,6 +25784,7 @@ Tuineje
 Tujetsch_Sedrun
 Tukums
 Tula
+Tulalip Indian Reservation
 Tulare County
 Tula Region
 Tulbing
@@ -25996,6 +26025,7 @@ Uhrineves
 Uhrinov
 Uinta County
 Uintah County
+Uinta Valley Reservation
 Uiramutã
 Uitgeest
 Uithoorn
@@ -26159,6 +26189,7 @@ Upper Hutt
 Upper Lachlan
 Upper Marlboro
 Upper Murray River
+Upper Skagit Indian Reservation
 Upplands-Bro
 Upplands Väsby
 Uppsala
@@ -28322,6 +28353,7 @@ Yangon
 Yangon Region
 Yankalilla
 Yankton County
+Yankton Indian Reservation
 Yap
 Yaprakli
 Yaracuy
