@@ -187,7 +187,6 @@ Agrinio
 Agri Province
 Agrón
 Agronomía
-Agua Caliente Band of Cahuilla Indians
 Aguachica
 Aguada
 Aguadas
@@ -294,6 +293,7 @@ Aktau
 Aktöbe
 Aktöbe Region
 Akureyri
+Akwesasne
 Akyaka
 Akyazi
 Akyurt
@@ -1243,7 +1243,6 @@ Augusta
 Augusta County
 Augusta-Margaret River
 Augusta-Richmond County
-Augustine Band of Cahuilla Indians
 Augustow County
 Aukra
 Aura
@@ -1666,7 +1665,6 @@ Barnstable
 Barnstable County
 Barnwell County
 Baron
-Barona Group of Capitan Grande Band of Mission Indians
 Barona Reservation
 Barossa
 Barquisimeto
@@ -3651,7 +3649,6 @@ Cabañas Department
 Cabanatuan
 Cabanillas de la Sierra
 Cabarrus County
-Cabazon Band of Mission Indians
 Cabeceiras de Basto
 Cabell County
 Cabezas de Alambre
@@ -3702,7 +3699,6 @@ Cagirgan
 Cagliari
 Caguas
 Cahto Rancheria
-Cahuilla Band of Mission Indians of the Cahuilla Reservation
 Cahul District
 Caicedo
 Caicedonia
@@ -3835,7 +3831,6 @@ Campo de Ourique
 Campofrío
 Campo Grande
 Campohermoso
-Campo Kumeyaay Nation
 Campolide
 Campo Maior
 Campoo de Yuso
@@ -5116,7 +5111,6 @@ Colonial Heights
 Colón Province
 Colorado
 Colorado County
-Colorado River Indian Reservation
 Colorado Springs
 Colquitt County
 Colrain
@@ -7209,7 +7203,6 @@ Evren
 Evrensekiz
 Evrese
 Évreux
-Ewiiaapaayp Band of Kumeyaay Indians
 Exaltación de la Cruz Department
 Exeter
 Exmouth
@@ -8103,6 +8096,7 @@ Ginebra
 Gingelom
 Gingin
 Gingins
+Ging̱olx
 Gingoong
 Ginkunai
 Giornico
@@ -8122,7 +8116,9 @@ Gisikon
 Gislaved
 Gistel
 Giswil
+Gitlax̱t'aamiks
 Gitschtal
+Gitwinksihlkw
 Giurgiu County
 Givatayim
 Givisiez
@@ -10258,7 +10254,6 @@ Igolomia-Wawrzenczyce commune
 Igoumenitsa
 Ihorombe Region
 Ihsangazi
-Iipay Nation of Santa Ysabel
 Iisaku Parish
 Iisalmi
 Iitti
@@ -10337,7 +10332,6 @@ Imuris
 Ina
 Inagi
 Inagua
-Inaja Band of Diegueno Mission Indians
 Inarajan
 Inca
 Incesu
@@ -10444,7 +10438,6 @@ Irkutsk Region
 Irmino city
 Irnfritz-Messern
 Iron County
-Iroquois
 Iroquois County
 Iroquois Falls
 Irpin city
@@ -10669,7 +10662,6 @@ Jamolice
 Jämsä
 Jämshög locality
 Jämtland County
-Jamul Indian Village
 Jamundí
 Jamy
 Janakkala
@@ -11070,6 +11062,7 @@ Kagran
 Kaharlyk city
 Kaharlyk district
 Kahlenbergerdorf
+Kahnawake
 Kahramanmaras Metropolitan Municipality
 Kahramanmaras Province
 Kahta
@@ -12961,6 +12954,7 @@ Lachine
 Lachlan
 La Chorrera
 La Cisterna
+Lac-John
 Lackawanna County
 Lack commune
 Lackenbach
@@ -13048,7 +13042,6 @@ Lajas
 Lajes das Flores
 Lajes do Pico
 Lajkovac
-La Jolla Band of Luiseño Indians
 Lajoux
 La Junta
 Lake and Peninsula Borough
@@ -13243,7 +13236,6 @@ La Plata Department
 La Playa de Belen
 LaPorte County
 La Possession
-La Posta Band of Diegueno Mission Indians
 Lapovo
 Lappi
 La Praz
@@ -13394,6 +13386,7 @@ Lax
 Laxå
 Laxenburg
 Laxey
+Lax̱g̱alts’ap
 Laz
 Laza
 Lazanky
@@ -14199,7 +14192,6 @@ Los Barrios
 Los Blázquez
 Los Córdobas
 Los Corrales de Buelna
-Los Coyotes Band of Cahuilla and Cupeno Indians
 Los Gallardos
 Los Gatos
 Losice commune
@@ -14906,7 +14898,6 @@ Manyas
 Manzanares
 Manzanares el Real
 Manzanilla
-Manzanita Band of Diegueno Mission Indians
 Manzini
 Maó-Mahón
 Maphumulo
@@ -15170,6 +15161,7 @@ Matejov
 Mateur
 Mathod
 Mathon
+Matimekosh
 Matjhabeng
 Matlosana
 Matmata Nouvelle
@@ -15479,7 +15471,6 @@ Merzifon
 Merzig-Wadern District
 Mesa
 Mesa County
-Mesa Grande Band of Diegueno Mission Indians
 Mesão Frio
 Mesegar de Corneja
 Mesen
@@ -15558,6 +15549,7 @@ Mezzovico-Vira
 Međimurje County
 Mgarr
 Mhlontlo
+Mi'kmaq Nation
 Miaczyn commune
 Miami
 Miami County
@@ -15909,6 +15901,7 @@ Mogi Mirim
 Moguer
 Mohamedia-Fouchana
 Mohave County
+Mohawks of the Bay of Quinte
 Mohegan Indian Reservation
 Mohéli
 Mohelnice
@@ -16188,7 +16181,6 @@ Mornington Peninsula
 Morobe Province
 Morona Santiago Province
 Morondava
-Morongo Band of Mission Indians
 Morovis
 Moroyama
 Morphou
@@ -16670,6 +16662,7 @@ Natrona County
 Natschbach-Loipersbach
 Natters
 Nättraby locality
+Natuaqanek First Nation
 Natuna Regency
 Nauders
 Naugatuck
@@ -17112,6 +17105,7 @@ Nippes Department
 Nis
 Nisa
 Nisava District
+Nisga'a Nation
 Nishapur
 Nishitokyo
 Niska Banja
@@ -17967,6 +17961,7 @@ Ondratice
 Ondrejov
 Oneida County
 Oneida Nation
+Oneida of the Thames
 Onex
 Ongjin District
 Ongole
@@ -18488,7 +18483,6 @@ Pakruojis
 Pakruojis District Municipality
 Pakuonis
 Palacios de Goda
-Pala Indian Reservation
 Palaio Faliro
 Palamuse Parish
 Palana
@@ -18720,7 +18714,6 @@ Paudex
 Paudorf
 Paulding County
 Paulista
-Pauma Band of Luiseño Indians
 Pauna
 Pavilosta
 Pavlice
@@ -18770,7 +18763,6 @@ Peachtree
 Pearisburg
 Pearl River County
 Pec
-Pechanga Band of Luiseño Mission Indians
 Pechenga
 Pechenihy district
 Pecherskyi district
@@ -20525,7 +20517,6 @@ Ramirás
 Ramiriquí
 Ramlinsburg
 Rammingen in Bayern
-Ramona Band of Cahuilla
 Ramón Santana
 Ramotshere Moiloa
 Ramsau
@@ -20680,6 +20671,7 @@ Redbridge
 Red Deer
 Redding
 Redditch
+Red Earth Cree Nation
 Redenção
 Red Lake County
 Red Lake Indian Reservation
@@ -20952,7 +20944,6 @@ Rimatara
 Rimov
 Rincón
 Rinconada
-Rincon Band of Luiseño Indians
 Rindal
 Ringelsdorf-Niederabsdorf
 Ringgold County
@@ -21047,7 +21038,6 @@ Robertson County
 Robeson County
 Robinson
 Robinson Rancheria of Pomo Indians
-Robinson Rancheria of Pomo Indians of California
 Robinson Township
 Robledillo de la Jara
 Robledo de Chavela
@@ -22046,7 +22036,6 @@ Sanok County
 Sanov
 San Pablo
 San Pablo de Borbur
-San Pasqual Band of Diegueno Mission Indians
 San Patricio County
 San Pawl il-Bahar
 San Pedro
@@ -22147,7 +22136,6 @@ Santarém
 Santarém District
 Santa Rita
 Santa Rosa
-Santa Rosa Band of Cahuilla Indians
 Santa Rosa County
 Santa Rosa de Cabal
 Santa Rosa del Sur
@@ -23156,6 +23144,7 @@ Sivrice
 Sivrihisar
 Sivry-Rance
 Six-Fours-les-Plages
+Six Nations Indian Reserve
 Siyancuma
 Siyathemba
 Sjælland
@@ -23408,7 +23397,6 @@ Sobienie-Jeziory commune
 Sobinov
 Sobisky
 Sobkovice
-Soboba Band of Luiseño Indians
 Sobolevsky District
 Sobolew commune
 Sobotin
@@ -24635,7 +24623,6 @@ Swisher County
 Switzerland County
 Sychrov
 Sycow commune
-Sycuan Band of the Kumeyaay Nation
 Syddanmark
 Sydney
 Syens
@@ -25016,6 +25003,7 @@ Telšiai
 Telšiai County
 Telšiai District Municipality
 Teltow-Fläming District
+Temagami First Nation
 Temanggung Regency
 Temecula
 Temelin
@@ -25442,7 +25430,6 @@ Torreperogil
 Torres
 Torres de la Alameda
 Torres do Mondego
-Torres-Martinez Desert Cahuilla Indians
 Torres Novas
 Torres Strait Island
 Torres Vedras
@@ -25911,7 +25898,6 @@ Tweeddale
 Tweng
 Twenterand
 Twentynine Palms
-Twenty-Nine Palms Band of Mission Indians of California
 Twiggs County
 Twin Falls
 Twin Falls County
@@ -26886,7 +26872,6 @@ Viedma
 Viehdorf
 Viehhofen
 Vieira do Minho
-Viejas Group of Capitan Grande Band of Mission Indians
 Viekšniai
 Vielsalm
 Vienne
@@ -27532,6 +27517,7 @@ Wahlkreis Wil
 Wahlkreis Willisau
 Währing
 Währing District
+Wahta Mohawk Territory
 Waidhofen an der Thaya
 Waidhofen an der Thaya District
 Waidhofen an der Thaya-Land
