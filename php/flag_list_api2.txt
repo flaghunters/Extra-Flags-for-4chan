@@ -110,6 +110,8 @@ Adanero
 Adapazari
 Adaúfe
 Adazi
+Ad Dakhiliyah Governorate
+Ad Dhahirah Governorate
 Addis Ababa
 Addison
 Addison County
@@ -176,6 +178,7 @@ Agkistri
 Aglasun
 Agli
 Aglona
+Agnéby-Tiassa Region
 Agno
 Agoitz
 Agolada
@@ -337,6 +340,8 @@ Albanchez
 Albania
 Albany
 Albany County
+Al Batinah North Governorate
+Al Batinah South Governorate
 Albay
 Alb-Donau District
 Albeck
@@ -371,6 +376,7 @@ Albula_Alvra
 Albuñol
 Albu Parish
 Albuquerque
+Al Buraimi Governorate
 Albury
 Alcácer do Sal
 Alcala
@@ -465,6 +471,7 @@ Aljunied-Hougang
 Aljustrel
 Alken
 Al Khor & Dhekra Municipality
+Al-Khums
 Alkmaar
 Allahabad
 Allamakee County
@@ -619,6 +626,7 @@ Alvito
 Älvsbyn
 Al Wakrah Municipality
 Alwernia
+Al Wusta Governorate
 Alytus
 Alytus County
 Alytus District Municipality
@@ -1143,6 +1151,8 @@ Ashland
 Ashland County
 Ashley County
 Ashmore and Cartier Islands
+Ash Sharqiyah North Governorate
+Ash Sharqiyah South Governorate
 Ashtabula County
 Asikkala
 Askersund
@@ -1747,6 +1757,7 @@ Baska
 Basnice
 Bas-Rhin
 Bas-Saint-Laurent
+Bas-Sassandra District
 Bass Coast
 Basse-Allaine
 Bassendean
@@ -1989,6 +2000,7 @@ Belford Roxo
 Belgorod
 Belgorod Region
 Belgrano
+Bélier Region
 Belize City
 Belkis
 Belknap County
@@ -2062,6 +2074,7 @@ Benetice
 Benewah County
 Benfica
 Bengaluru
+Benghazi
 Bengkulu
 Bengstfors
 Benguet
@@ -2973,6 +2986,7 @@ Boulder County
 Boulens
 Boulia
 Boundary County
+Bounkani Region
 Bounty Islands
 Bourbon County
 Bourg-Blanc
@@ -3691,6 +3705,7 @@ Cabezon de Liébana
 Cabimas
 Cabinda Province
 Cabo de Hornos
+Cabo Delgado Province
 Cabonne
 Caborca
 Caborca Municipality
@@ -4160,6 +4175,7 @@ Cauquenes
 Căuseni District
 Cavalaire-sur-Mer
 Cavalier County
+Cavally Region
 Cavisov
 Cavite
 Cavite City
@@ -5178,6 +5194,7 @@ Commerce
 Commerce City
 Commewijne District
 Commugny
+Comoé District
 Comox
 Comox Valley Regional District
 Compton
@@ -5831,6 +5848,7 @@ Denderleeuw
 Dendermonde
 Denens
 Denges
+Denguélé District
 Den Haag
 Den Helder
 Denizli Metropolitan Municipality
@@ -7565,6 +7583,7 @@ Fohnsdorf
 Fokino
 Folgoso do Courel
 Folldal
+Folon Region
 Folsom
 Fómeque
 Fond du Lac County
@@ -7997,6 +8016,7 @@ Gaweinstal
 Gawler
 Gaworzyce commune
 Gaza
+Gaza Province
 Gaza Strip
 Gaziantep Metropolitan Municipality
 Gaziantep Province
@@ -8282,6 +8302,7 @@ Goeree-Overflakkee
 Goes
 Göfis
 Gogebic County
+Gôh-Djiboua District
 Göhren
 Goiânia
 Goiás
@@ -8340,6 +8361,7 @@ Gondomar
 Gonen
 Gonten
 Gontenschwil
+Gontougo Region
 Gonzales
 Gonzales County
 González
@@ -9106,6 +9128,7 @@ Hamamatsu
 Hamamozu
 Hamar
 Hamblen County
+Hambol Region
 Hamburg
 Hamden
 Hamedan
@@ -9325,6 +9348,7 @@ Hauteville
 Haut-Intyamon
 Haut-Ogooué Province
 Haut-Rhin
+Haut-Sassandra Region
 Hauts-Bassins Region
 Hauts-de-France
 Hauts-de-Seine
@@ -10460,6 +10484,7 @@ Ingolstadt
 Ingquza Hill
 Ingushetia
 Ingwe
+Inhambane Province
 Inírida
 Inkerman
 Inkoo
@@ -11121,6 +11146,7 @@ Jwaneng
 Jyväskylä
 Kaag en Braassem
 Kaarina
+Kabadougou
 Kabaduz
 Kabale District
 Kabardino-Balkaria
@@ -13076,6 +13102,7 @@ Lac qui Parle County
 La Crescenta-Montrose
 La Crosse County
 La Cruz
+Lacs District
 La Cumbre
 La Cygne
 Ladek-Zdroj commune
@@ -13120,6 +13147,7 @@ La Guancha
 La Guardia de Jaén
 Laguna
 Laguna Pueblo Reservation
+Lagunes District
 La Habana
 La Habra Heights
 Laheda Parish
@@ -13191,6 +13219,7 @@ Lamego
 Lamentin
 La Merced
 Lamerdingen
+La Mé Region
 La Mesa
 Lamia
 La Mirada
@@ -14189,6 +14218,7 @@ Logatec
 Log-Dragomer
 Logonna-Daoulas
 Logroño
+Lôh-Djiboua Region
 Lohja
 Lohn-Ammannsegg
 Löhne
@@ -14969,6 +14999,7 @@ Manhattan Beach
 Manhay
 Manhush district
 Maní
+Manica Province
 Maniitsoq
 Manila
 Manipur
@@ -15020,6 +15051,7 @@ Maple Ridge
 Mapo District
 Mapoon
 Maputo
+Maputo Province
 Maquassi Hills
 Marabá
 Maracaibo
@@ -16125,6 +16157,7 @@ Mons
 Monson
 Mon State
 Mönsterås
+Montagnes District
 Montagny
 Montagny-près-Yverdon
 Montague
@@ -16302,6 +16335,7 @@ Mornington Peninsula
 Morobe Province
 Morona Santiago Province
 Morondava
+Moronou Region
 Morovis
 Moroyama
 Morphou
@@ -16537,6 +16571,7 @@ Murtosa
 Murweh
 Mürzzuschlag
 Mus
+Musandam Governorate
 Musashimurayama
 Musashino
 Musau
@@ -16617,6 +16652,7 @@ Myto
 Mzuzu
 Møre og Romsdal
 N'Djaména
+N'Zi Region
 Naantali
 Naas
 Nabarniz
@@ -16703,6 +16739,7 @@ Namest nad Oslavou
 Namest na Hane
 Namlos
 Nampula
+Nampula Province
 Namur
 Namur (city)
 Namyslow County
@@ -16827,6 +16864,7 @@ Navojna
 Navojoa
 Navojoa Municipality
 Navsi
+Nawa Region
 Nawojowa commune
 Naxxar
 Nayarit
@@ -17133,6 +17171,7 @@ Niagara County
 Niagara Falls
 Niagara Region
 Niamey
+Niassa Province
 Nica
 Nice
 Nicholas County
@@ -19675,6 +19714,7 @@ Porlamar
 Pornainen
 Poronaysk
 Poronin commune
+Poro Region
 Poros
 Porrentruy
 Porrentruy District
@@ -21670,6 +21710,7 @@ Sabine Parish
 Sabnie commune
 Saborsko
 Saboyá
+Sabratha
 Sabrosa
 Sabugal
 Sabu Raijua Regency
@@ -22211,6 +22252,7 @@ San Pedro del Pinatar
 San Pedro de Macorís
 San Pedro Department
 San Pedro de Urabá
+San-Pédro Region
 San Pelayo
 Sanpete County
 San Rafael
@@ -22469,6 +22511,7 @@ Sasaima
 Saskatchewan
 Saskatoon
 Sasnava
+Sassandra-Marahoué District
 Sastamala
 Satakunta
 Satalice
@@ -22504,6 +22547,7 @@ Saunders County
 Sautens
 Sauvo
 Sav
+Savanes District
 Savannah
 Savanne District
 Sava Region
@@ -23600,6 +23644,7 @@ Södertälje
 Sodražica
 Soest
 Soest District
+Sofala Province
 Sofia Region
 Sofiya
 Sofiya Province
@@ -24479,6 +24524,7 @@ Sudak municipality
 Sudargas
 Sudbury
 Sudbury District
+Sud-Comoé
 Sud Department
 Sudeikiai
 Sud-Est Department
@@ -25028,6 +25074,7 @@ Targovishte Province
 Targowek
 Târgu Mures
 Târgu Secuiesc
+Tarhuna
 Tarifa
 Tarija
 Tarija Department
@@ -25285,6 +25332,7 @@ Tessenderlo
 Testour
 Test Valley
 Tetcice
+Tete Province
 Tetiaroa
 Tetiiv city
 Tetiiv district
@@ -25553,6 +25601,7 @@ Tondela
 Tonganoxie
 Tongeren
 Tönisvorst
+Tonkpi Region
 Tonosho
 Tonya
 Toodyay
@@ -26597,6 +26646,7 @@ Valle del Zalabí
 Valle de Trápaga-Trapagaran
 Valle de Villaverde
 Valledupar
+Vallée du Bandama District
 Valle Gran Rey
 Vallehermoso
 Vallejo
@@ -28423,6 +28473,8 @@ Wörgl
 Woringen
 Wormerland
 Worms
+Woroba District
+Worodougou Region
 Wörschach
 Wortegem-Petegem
 Wörterberg
@@ -28533,6 +28585,7 @@ Yamato
 Yambol
 Yambol Province
 Yamhill County
+Yamoussoukro
 Yampil city
 Yampil district
 Yancey County
@@ -28802,6 +28855,7 @@ Zaluzi
 Zama
 Zambales
 Zamberk
+Zambezia Province
 Zambezi Region
 Zamboanga
 Zamboanga del Norte
@@ -28824,6 +28878,7 @@ Zandhoven
 Zandov
 Zandvoort
 Zanjan
+Zanzan District
 Zanzibar
 Zaozerne
 Zapadnobacki District
@@ -29133,6 +29188,7 @@ Zlicin
 Zlin
 Zlin District
 Zlinsky Region
+Zliten
 Zliv
 Zlobice
 Zlocieniec commune
@@ -29223,6 +29279,7 @@ Zushi
 Zutendaal
 Zutphen
 Zuunmod
+Zuwarah
 Zuya
 Žužemberk
 Zuzgen
