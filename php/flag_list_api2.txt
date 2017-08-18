@@ -62,6 +62,7 @@ Abruzzo
 Absam
 Absdorf
 Abtenau
+Abtsbessingen
 Abtwil
 Abu Dhabi
 Acacias
@@ -157,6 +158,7 @@ Aflenz
 Afritz am See
 Afyonkarahisar
 Afyonkarahisar Province
+Aga
 Agacbeyli
 Agacoren
 Agadez Region
@@ -566,6 +568,7 @@ Altena
 Altenburg
 Altenburger Land District
 Altendorf
+Altenfeld
 Altenkirchen District
 Altenmarkt an der Triesting
 Altenmarkt bei Sankt Gallen
@@ -666,6 +669,7 @@ Amberg-Sulzbach District
 Ambite
 Ambla Parish
 Amblève
+Am Brahmetal
 Ambrolauri
 Amden
 Ameland
@@ -700,6 +704,7 @@ Amstelveen
 Amsterdam
 Amstetten
 Amstetten District
+Amt Wachsenburg
 Amur Region
 Amursk
 Amursky District
@@ -739,6 +744,7 @@ Andenne
 Anderlecht
 Anderlues
 Andermatt
+An der Schmücke
 Anderson County
 Andes
 Andhra Pradesh
@@ -770,6 +776,7 @@ Angeles
 Ängelholm
 Angelina County
 Angelópolis
+Angelroda
 Anger
 Angerberg
 Angern an der March
@@ -888,6 +895,7 @@ Apostolove city
 Apostolove district
 Appanoose County
 Äppelbo locality
+Appenrode
 Appenzell
 Appingedam
 Apples
@@ -1065,6 +1073,7 @@ Arnoldstein
 Arnolec
 Arnoltice
 Arnprior
+Arnstadt
 Arnuero
 Aroab
 Aroche
@@ -1099,6 +1108,7 @@ Artem
 Artemisa Province
 Artemivsk city
 Artenara
+Artern-Unstrut
 Artesia
 Arth
 Arthur County
@@ -1263,6 +1273,9 @@ Augusta-Margaret River
 Augusta-Richmond County
 Augustow County
 Aukra
+Auleben
+Auma
+Auma-Weidatal
 Aura
 Aurach bei Kitzbühel
 Aurangabad
@@ -1414,6 +1427,7 @@ Badalona
 Bad Aussee
 Bad Bleiberg
 Bad Blumau
+Bad Colberg-Heldburg
 Bad Deutsch-Altenburg
 Bad Düben
 Bad Dürkheim District
@@ -1425,6 +1439,7 @@ Baden-Württemberg
 Bad Erlach
 Badersdorf
 Bad Fischau-Brunn
+Bad Frankenhausen-Kyffhäuser
 Bad Gastein
 Bad Gleichenberg
 Bad Grönenbach
@@ -1434,6 +1449,7 @@ Bad Hindelang
 Bad Hofgastein
 Bad Kissingen District
 Bad Kleinkirchheim
+Bad Köstritz
 Badkowo commune
 Bad Kreuznach District
 Bad Laasphe
@@ -1441,6 +1457,7 @@ Bad Mitterndorf
 Bad Münstereifel
 Bad Oeynhausen
 Bad Pirawarth
+Badra
 Bad Radkersburg
 Bad Ragaz
 Bad Sankt Leonhard im Lavanttal
@@ -1552,6 +1569,7 @@ Ballarat
 Ballard County
 Ballens
 Ballina
+Ballstädt
 Ballwil
 Balmaseda
 Balm bei Günsberg
@@ -2060,6 +2078,7 @@ Ben Arous Governorate
 Benatky
 Benatky nad Jizerou
 Benavente
+Bendeleben
 Bender
 Bendigo
 Benecko
@@ -2141,6 +2160,7 @@ Berezniki
 Berezovsky
 Berg
 Berga district
+Berga-Elster
 Bergama
 Berg am Irchel
 Bergdietikon
@@ -2246,6 +2266,7 @@ Bethanie
 Bethany
 Bethel
 Bethel Park
+Bethenhausen
 Bethlehem
 Béthune
 Betim
@@ -2513,6 +2534,7 @@ Birkenfeld District
 Birkenfelde
 Birkfeld
 Birkirkara
+Birkungen
 Birmensdorf
 Birmenstorf
 Birmingham
@@ -2527,6 +2549,7 @@ Biržai District Municipality
 Birzebbuga
 Bisamberg
 Bischofferode
+Bischofrod
 Bischofshofen
 Bischofstetten
 Bischofszell
@@ -2625,6 +2648,7 @@ Bledsoe County
 Bledzew commune
 Blegny
 Bleiburg
+Bleicherode
 Blekinge County
 Blenheim
 Blenio
@@ -2753,6 +2777,7 @@ Bohdikov
 Böheimkirchen
 Böhen
 Bohinj
+Böhlen
 Bohodukhiv city
 Bohodukhiv district
 Bohol
@@ -2964,6 +2989,7 @@ Botmeur
 Botosani
 Botosani County
 Botsorhel
+Bottendorf
 Bottens
 Bottenwil
 Botterens-Villarbeney
@@ -3079,6 +3105,7 @@ Brandberg
 Brandenberg
 Brandenburg
 Brandenburg an der Havel
+Branderode
 Brand-Laaben
 Brand-Nagelberg
 Brändö
@@ -3132,6 +3159,7 @@ Bratske district
 Bratunac municipality
 Braunau
 Braunau am Inn District
+Braunichswalde
 Braunschweig
 Bravantice
 Braxton County
@@ -3345,6 +3373,7 @@ Bruckneudorf
 Brugelette
 Brugg
 Brugge
+Brüheim
 Brule County
 Brummen
 Brumov
@@ -3357,6 +3386,7 @@ Brunflo locality
 Brünisried
 Brunn am Gebirge
 Brunn an der Wild
+Brünn-Thür
 Brunssum
 Brunswick
 Brunswick County
@@ -3414,6 +3444,7 @@ Buchanan County
 Buchbach
 Buchberg
 Buchegg
+Bücheloh
 Buchenberg
 Buchillon
 Buch in Tirol
@@ -3464,6 +3495,7 @@ Bueu
 Buffalo
 Buffalo City
 Buffalo County
+Bufleben
 Buga
 Bugalagrande
 Búger
@@ -3633,6 +3665,7 @@ Büttenhardt
 Büttikon
 Buttisholz
 Butts County
+Büttstedt
 Buttwil
 Butuan
 Buus
@@ -3690,6 +3723,7 @@ Caacupé
 Caaguazú
 Caaguazú Department
 Caapiranga
+Caaschwitz
 Caazapá Department
 Caballito
 Cabañas Department
@@ -5047,6 +5081,7 @@ Cleve
 Cleveland
 Cleveland County
 Clinch County
+Clingen
 Clinton
 Clinton County
 Clohars-Carnoët
@@ -5453,6 +5488,7 @@ Creuse
 Crewe
 Crhov
 Crimea
+Crimla
 Crisfield
 Crisnée
 Crisp County
@@ -5617,6 +5653,7 @@ Dabrowice commune
 Dabrowka commune
 Dachau District
 Dachsen
+Dachwig
 Dacice
 Dacorum
 Dade County
@@ -5979,6 +6016,7 @@ Dietmanns
 Dietmannsried
 Dietwil
 Dietzenrode-Vatterode
+Dietzhausen
 Dieveniškes
 Diex
 Diffa Region
@@ -6317,6 +6355,7 @@ Donjimeno
 Donji Zabar municipality
 Donley County
 Donmatías
+Donndorf
 Donneloye
 Donnersberg District
 Donnerskirchen
@@ -6344,6 +6383,7 @@ Dornbach
 Dornbirn
 Dornbirn District
 Dorneck
+Dornheim
 Dornod Province
 Dornogovi Province
 Dorohusk commune
@@ -6419,6 +6459,7 @@ Drazice
 Drazovice
 Drazuvky
 Drechterland
+Drei Gleichen
 Drei Höfe
 Drelow commune
 Drenice
@@ -6685,9 +6726,11 @@ Eaton County
 Eau Claire County
 Ebbs
 Ebéjico
+Ebeleben
 Eben am Achensee
 Ebenau
 Ebenfurth
+Ebenheim
 Eben im Pongau
 Ebenthal
 Ebenthal in Kärnten
@@ -6795,6 +6838,7 @@ Ehenbichl
 Ehime Prefecture
 Ehlanzeni
 Ehrendingen
+Ehrenhain
 Ehrwald
 Eibiswald
 Eich
@@ -6825,6 +6869,7 @@ Eisenerz
 Eisenkappel-Vellach
 Eisenstadt
 Eisenstadt-Umgebung District
+Eisfeld
 Eisgarn
 Eišiškes
 Eisten
@@ -6899,6 +6944,7 @@ Eleuthera
 Elfingen
 El Franco
 El Fresno
+Elgersburg
 Elgeyo-Marakwet County
 Elgg
 Elgin County
@@ -6935,6 +6981,7 @@ Elliott County
 Ellis County
 Elliston
 Ellmau
+Ellrich
 Ellsworth County
 Elmadag
 El-Mahalla El-Kubra
@@ -7155,6 +7202,7 @@ Es Castell
 Eschen
 Eschenau
 Eschenbach
+Eschenbergen
 Eschenz
 Eschlikon
 Escholzmatt-Marbach (Escholzmatt)
@@ -7301,6 +7349,7 @@ Fafe
 Fagerhult locality
 Fagersta
 Faggen
+Fahner Höhe
 Fahrwengen
 Fahy
 Faido
@@ -7401,6 +7450,7 @@ Feldkirch District
 Feldkirchen bei Graz
 Feldkirchen District
 Feldkirchen in Kärnten
+Feldstein
 Felgueiras
 Felipe Carrillo Puerto Municipality
 Felixdorf
@@ -7671,6 +7721,7 @@ Francova Lhota
 Franekeradeel
 Frankenau-Unterpullendorf
 Frankenfels
+Frankenhain
 Frankenthal
 Frankfort
 Frankfurt am Main
@@ -7695,6 +7746,7 @@ Frauenfeld
 Frauenkirchen
 Frauenstein
 Frauental an der Lassnitz
+Frauenwald
 Fraxern
 Frederick
 Frederick County
@@ -7737,8 +7789,10 @@ Fribourg
 Frick
 Fridlevstad locality
 Friedberg
+Friedersdorf
 Friedrichroda
 Friedrichshain-Kreuzberg
+Friedrichswerth
 Friesach
 Friesenberg
 Friesenried
@@ -7848,6 +7902,7 @@ Fyresdal
 Førde
 Gaaden
 Gaal
+Gaberndorf
 Gabersdorf
 Gabes
 Gabes Governorate
@@ -7923,6 +7978,7 @@ Gampel-Bratsch
 Gamprin
 Gams
 Gams bei Hieflau
+Gamstädt
 Gamvik
 Gandhinagar
 Gangbuk District
@@ -8043,6 +8099,9 @@ Geelong
 Geertruidenberg
 Geetbets
 Gegharkunik Province
+Gehlberg
+Gehofen
+Gehren
 Geisdref
 Geisleden
 Gelderland
@@ -8099,8 +8158,10 @@ Georgievsk
 Georgina
 Gera
 Geraardsbergen
+Geraberg
 Geras
 Gerasdorf bei Wien
+Geratal
 Gerbershausen
 Gerede
 Gerersdorf
@@ -8123,6 +8184,7 @@ Gersthof
 Gerterode
 Gert Sibande
 Gerze
+Geschwenda
 Geta
 Getafe
 Gettnau
@@ -8169,6 +8231,7 @@ Gilgandra
 Gilgit
 Gilgit-Baltistan
 Gill
+Gillersdorf
 Gillespie County
 Gillette
 Gilliam County
@@ -8322,6 +8385,7 @@ Golcza commune
 Golczewo commune
 Goldach
 Goldap County
+Goldbach
 Gold Coast
 Goldegg im Pongau
 Golden
@@ -8338,6 +8402,7 @@ Goliad County
 Göllersdorf
 Golling an der Erlauf
 Golling an der Salzach
+Göllingen
 Gollion
 Golpazari
 Gols
@@ -8353,6 +8418,7 @@ Gomel Region
 Gómez Plata
 Göming
 Gommiswald
+Gompertshausen
 Goms
 Gomu
 Gonça
@@ -8416,6 +8482,7 @@ Gornji Petrovci
 Gorno-Badakhshan
 Gorontalo
 Gorredijk
+Gorsleben
 Gorzkow commune
 Gorzkowice commune
 Gorzno commune
@@ -8435,6 +8502,7 @@ Gosper County
 Gosport
 Gosport (town)
 Gossau
+Gossel
 Gössenberg
 Gössendorf
 Gößnitz
@@ -8492,6 +8560,7 @@ Grabow commune
 Grabowiec commune
 Grabow nad Pilica commune
 Grabs
+Grabsleben
 Gracanica
 Grâce-Hollogne
 Grächen
@@ -8504,10 +8573,12 @@ Grafenbach-Sankt Valentin
 Grafendorf bei Hartberg
 Grafenegg
 Gräfenhain
+Gräfenroda
 Grafenschachen
 Grafenschlag
 Grafenstein
 Grafenwörth
+Gräfinau-Angstedt
 Grafschaft Bentheim District
 Grafton
 Grafton County
@@ -8643,6 +8714,7 @@ Greinbach
 Gréiwemaacher
 Gréiwemaacher Canton
 Gréiwemaacher District
+Greiz
 Greiz District
 Grellingen
 Grenaa
@@ -8658,6 +8730,7 @@ Greslove Myto
 Gresten
 Gresten-Land
 Gretzenbach
+Greussen
 Grevenbroich
 Grey County
 Grey District
@@ -8712,11 +8785,15 @@ Grootegast
 Grootfontein
 Grossarl
 Großbartloff
+Grossbreitenbach
 Grossdietmanns
 Grossdietwil
 Grossebersdorf
+Grossenehrich
 Grossengersdorf
+Grossenstein
 Gross-Enzersdorf
+Grossfahner
 Groß-Gerau District
 Gross Gerungs
 Grossgmain
@@ -8727,6 +8804,7 @@ Grossjedlersdorf
 Grosskirchheim
 Grossklein
 Grosskrut
+Grosslohra
 Grossmugl
 Grosspetersdorf
 Grossriedenthal
@@ -8738,6 +8816,7 @@ Gross-Siegharts
 Grosssteinbach
 Grosswangen
 Grosswarasdorf
+Grosswechsungen
 Grossweikersdorf
 Grosswilfersdorf
 Grosuplje
@@ -8907,7 +8986,9 @@ Gunnedah
 Gunnison County
 Günsberg
 Günselsdorf
+Günserode
 Guntersdorf
+Günthersleben
 Günthersleben-Wechmar
 Guntramsdorf
 Guntur
@@ -9002,6 +9083,7 @@ Habry
 Habsburg
 Habscht
 Hacarí
+Hachelbich
 Hachijo
 Hachioji
 Hacibektas
@@ -9048,6 +9130,8 @@ Hainburg an der Donau
 Haines Borough
 Haines Junction
 Hainfeld
+Hainleite
+Hainrode
 Hainzenberg
 Haisyn city
 Haisyn district
@@ -9338,6 +9422,7 @@ Haute-Loire
 Haute-Marne
 Haute Matsiatra Region
 Hauterive
+Hauteroda
 Hautes-Alpes
 Haute-Saône
 Haute-Savoie
@@ -9432,6 +9517,7 @@ Heimertingen
 Heimschuh
 Heinfels
 Heinola
+Heinrichs
 Heinsberg District
 Heischent
 Heist-op-den-Berg
@@ -9444,7 +9530,10 @@ Hekimhan
 Hel
 Helao Nafidi
 Hela Province
+Helbedündorf
+Heldburger Unterland
 Heldenberg
+Heldrungen
 Hélécine
 Helena
 Helgoland
@@ -9453,6 +9542,7 @@ Hellendoorn
 Hellenthal
 Hellevoetsluis
 Hellikon
+Hellingen
 Helmand Province
 Helme Parish
 Helmond
@@ -9518,6 +9608,7 @@ Herford
 Herford District
 Hergiswil
 Hergiswil bei Willisau
+Heringen-Helme
 Herink
 Herisau
 Herk-de-Stad
@@ -9559,6 +9650,7 @@ Herrliberg
 Herrljunga
 Herrnbaumgarten
 Hersberg
+Herschdorf bei Königsee
 Herselt
 Hersfeld-Rotenburg District
 Hersonissos
@@ -9595,6 +9687,7 @@ Heuthen
 Heuvelland
 Heves County
 Hevlin
+Heyda
 Heyersdorf
 Heyworth
 Hialeah
@@ -9625,6 +9718,7 @@ Higuera de la Sierra
 Hiiumaa
 Hiiu Parish
 Hikurangi
+Hildburghausen
 Hildburghausen District
 Hilden
 Hildesheim District
@@ -9787,9 +9881,12 @@ Hoheneich
 Hohenems
 Hohengandern
 Hohenkirchen
+Hohenleuben
 Hohenlohe District
+Hohenölsen
 Hohenrain
 Hohenruppersdorf
+Hohenstein
 Hohentauern
 Hohenthurn
 Hohenwarth-Mühlbach am Manhartsberg
@@ -9797,6 +9894,7 @@ Hohenweiler
 Hohes Kreuz
 Hohe Wand
 Hohnentannen
+Hohnstein-Südharz
 Hoke County
 Hokkaido
 Hol
@@ -10019,6 +10117,8 @@ Horovicky
 Horowhenua District
 Horriwil
 Horry County
+Hörsel
+Hörselgau
 Horsham
 Horsice
 Horska Kvilda
@@ -10338,6 +10438,7 @@ Ichinomiya
 Ichnia city
 Ichnia district
 Ichtegem
+Ichtershausen
 Icmeler
 Icod de los Vinos
 Icogne
@@ -10388,6 +10489,7 @@ Iles
 Îles Éparses
 Îles Loyauté Province
 Île-Tudy
+Ilfeld
 Ilfov County
 Ilgaz
 Ilgin
@@ -10415,6 +10517,8 @@ Illnau
 Illnau-Effretikon
 Illuka Parish
 Ilm District
+Ilmenau
+Ilmtal
 Ilocos Norte
 Ilocos Sur
 Iloilo
@@ -10478,6 +10582,7 @@ Infantas
 Ingelmunster
 Ingenbohl
 Ingenio
+Ingersleben
 Ingham County
 Inglewood
 Ingolstadt
@@ -10940,6 +11045,7 @@ Jessamine County
 Jestrabi
 Jestrabi Lhota
 Jestrebi
+Jesuborn
 Jete
 Jetrichov
 Jetrichovice
@@ -11589,6 +11695,7 @@ Katwijk
 Katy Wroclawskie commune
 Katzelsdorf
 Kauai County
+Kauern
 Kaufbeuren
 Kaufman County
 Kaumberg
@@ -11949,6 +12056,7 @@ Kirchdorf an der Krems District
 Kirchdorf in Tirol
 Kirchgandern
 Kirchhaslach
+Kirchheim
 Kirchheim in Schwaben
 Kirchhundem
 Kirchleerau
@@ -12064,12 +12172,15 @@ Klecany
 Kleinandelfingen
 Kleinarl
 Kleinbartloff
+Kleinbodungen
 Kleinbösingen
+Kleinfurra
 Kleinlützel
 Kleinmürbisch
 Klein-Neusiedl
 Klein-Pöchlarn
 Klein Sankt Paul
+Kleinwerther
 Kleinzell
 Klembow commune
 Klenci pod Cerchovem
@@ -12362,6 +12473,7 @@ Koprubasi
 Kopychyntsi city
 Kopyl
 Korba
+Korbussen
 Korçë
 Korçë County
 Korczew commune
@@ -12561,6 +12673,7 @@ Krabcice
 Krabi Province
 Kraborovice
 Kraftisried
+Kraftsdorf
 Kragujevac
 Krahulci
 Krahulov
@@ -12999,6 +13112,7 @@ Kwun Tong District
 Kyakhta
 Kybartai
 Kyffhäuser District
+Kyffhäuserland
 Kyiv city
 Kyiv Region
 Kyjov
@@ -13305,8 +13419,11 @@ Langenleuba-Niederhain
 Langenlois
 Langenrohr
 Langenwang
+Langenwetzendorf
+Langenwolschendorf
 Langenzersdorf
 Langepas
+Langer Berg
 Langford
 Langkampfen
 Langlade County
@@ -13317,6 +13434,7 @@ Langolen
 Langreo
 Langrickenbach
 Langschlag
+Langwiesen
 Lanhouarneau
 Lanier County
 Lanildut
@@ -13463,6 +13581,7 @@ Latowicz commune
 Latrobe
 Lauben im Oberallgäu
 Lauben im Unterallgäu
+Laucha
 Lauderdale County
 Lauderdale Lakes
 Lauderhill
@@ -13584,6 +13703,7 @@ Lede
 Ledec nad Sazavou
 Ledegem
 Ledenice
+Lederhose
 Lednice
 Le Drennec
 Ledvice
@@ -13741,6 +13861,7 @@ Le Plateau-Mont-Royal
 Lepoglava 
 Le Pontet
 Leposavic
+Lerchenberg
 Lermoos
 Le Roeulx
 Leros
@@ -13936,6 +14057,8 @@ Lidköping
 Lidman
 Lidzbark County
 Liebenfels
+Liebenrode
+Liebenstein
 Lieboch
 Liédena
 Liederkerke
@@ -14004,6 +14127,7 @@ Lincoln County
 Lincoln Department
 Lincoln Parish
 Lincolnshire
+Linda bei Weida
 Lindås
 Lindau
 Lindau District
@@ -14062,6 +14186,7 @@ Lipova
 Lipova-lazne
 Lipovljani 
 Lippe District
+Lipprechterode
 Lipscomb County
 Lipsko commune
 Lipsko County
@@ -15161,6 +15286,7 @@ Maripasoula
 Maripí
 Mariposa County
 Mariscal Nieto Province
+Marisfeld
 Marituba
 Mariupol city
 Märjamaa
@@ -15243,6 +15369,7 @@ Martinice
 Martinice v Krkonosich
 Martinkov
 Martinkovice
+Martinroda
 Martinsberg
 Martinska Ves
 Martinsville
@@ -15286,6 +15413,7 @@ Masovice
 Massac County
 Massachusetts
 Massagno
+Masserberg
 Massongex
 Massonnens
 Masterton District
@@ -15431,6 +15559,7 @@ Meceriz
 Mechelen
 Mechenice
 Mecholupy
+Mechterstädt
 Mecin
 Mecinka commune
 Mecitozu
@@ -15592,6 +15721,7 @@ Merin
 Merishausen
 Meriwether County
 Merizo
+Merkendorf
 Merkezefendi
 Merkine
 Merklin
@@ -15955,11 +16085,13 @@ Mittelberg
 Mittelfranken
 Mittelhausen
 Mittelsachsen District
+Mittelzentrum Artern
 Mitterbach am Erlaufsee
 Mitterberg-Sankt Martin
 Mitterdorf an der Raab
 Mitterndorf an der Fischa
 Mittersill
+Mittleres Nessetal
 Miura
 Miyagi Prefecture
 Miyake
@@ -16058,7 +16190,9 @@ Mohéli
 Mohelnice
 Mohelno
 Möhlin
+Mohlsdorf-Teichwolframsdorf
 Mohokare
+Möhrenbach
 Mohyliv-Podilskyi city
 Mohyliv-Podilskyi district
 Moimenta da Beira
@@ -16102,6 +16236,7 @@ Mölndal
 Molodechno
 Molodohvardiysk city
 Molondin
+Molschleben
 Molsdorf
 Molvízar
 Mombasa
@@ -16485,6 +16620,7 @@ Muhen
 Mühlau
 Mühlbach am Hochkönig
 Mühlbachl
+Mühlberg
 Mühldorf
 Mühldorf am Inn District
 Mühlen
@@ -16514,6 +16650,7 @@ Mümliswil-Ramiswil
 Mumpf
 Muñana
 München
+Münchenbernsdorf
 München District
 Münchendorf
 Münchenstein
@@ -16830,10 +16967,12 @@ Nättraby locality
 Natuaqanek First Nation
 Natuna Regency
 Nauders
+Nauendorf
 Naugatuck
 Naujoji Akmene
 Naujoji Ūta
 Naukseni
+Naundorf
 Nausori
 Naustdal
 Nava
@@ -17001,6 +17140,7 @@ Nespeky
 Nespereira
 Ness County
 Nesse-Apfelstädt
+Nesseaue
 Nesseby
 Nesselwang
 Nesselwängle
@@ -17026,6 +17166,7 @@ Neubuz
 Neuchâtel
 Neuchâtel District
 Neudau
+Neudietendorf
 Neudorf bei Parndorf
 Neudorf bei Staatz
 Neudörfl
@@ -17048,6 +17189,7 @@ Neumarkt am Wallersee
 Neumarkt an der Ybbs
 Neumarkt in der Oberpfalz District
 Neumarkt in der Steiermark
+Neumühle-Elster
 Neumünster
 Neunforn
 Neunkirch
@@ -17059,12 +17201,15 @@ Neuquén Province
 Neusiedl am See
 Neusiedl am See District
 Neusiedl an der Zaya
+Neusiss
 Neuss
 Neuss District
 Neustadt
+Neustadt am Rennsteig
 Neustadt an der Aisch-Bad Windsheim District
 Neustadt an der Waldnaab District
 Neustadt an der Weinstrasse
+Neustadt-Harz
 Neustadtl an der Donau
 Neustift am Walde
 Neustift an der Lafnitz
@@ -17208,6 +17353,7 @@ Niederrhordorf
 Niederrieden
 Niedersachsen
 Niedersimmental
+Niederspier
 Niederweningen
 Niederwil
 Niederwölz
@@ -17330,6 +17476,7 @@ Nogales Municipality
 Noginsk
 Nogliki
 Nograd County
+Nohra
 Noja
 Nokia
 Nolan County
@@ -17362,6 +17509,7 @@ Nord-du-Québec
 Nord-Est Department
 Nordeste
 Nordfriesland District
+Nordhausen
 Nordhausen District
 Nordjylland
 Nordkapp
@@ -17493,6 +17641,7 @@ Nosy Be
 Nötsch im Gailtal
 Nottingham
 Nottinghamshire
+Nottleben
 Nottoway County
 Nottwil
 Nouméa
@@ -17784,6 +17933,7 @@ Oberallgäu District
 Oberalm
 Oberbayern
 Oberbergischer District
+Oberbösa
 Oberbuchsiten
 Oberbüren
 Oberdöbling
@@ -17795,6 +17945,7 @@ Oberembrach
 Oberems
 Oberengstringen
 Oberentfelden
+Oberes Geratal
 Oberfranken
 Obergerlafingen
 Oberglatt
@@ -18034,6 +18185,7 @@ Oldenburg District
 Oldenzaal
 Oldham
 Oldham County
+Oldisleben
 Old Lyme
 Oldrichov
 Oldrichovice
@@ -19032,6 +19184,7 @@ Penghu County
 Penha
 Penha de França
 Peniche
+Pennewitz
 Pennington County
 Pennsylvania
 Penobscot County
@@ -19205,6 +19358,7 @@ Pfaffschwende
 Pfaffstätten
 Pfarrwerfen
 Pfeffingen
+Pferdingsleben
 Pflach
 Pfons
 Pforzen
@@ -19428,6 +19582,7 @@ Plateliai
 Platerow commune
 Plato
 Platte County
+Plaue
 Plav
 Plavec
 Plavinas
@@ -19649,6 +19804,7 @@ Polvoreira
 Polyarny
 Polyarnye Zori
 Polzela
+Pölzig
 Pomar de Valdivia
 Pomarkku
 Pombal
@@ -20903,10 +21059,12 @@ Region Viamala
 Reguengos de Monsaraz
 Rehetobel
 Rehoboth
+Rehungen
 Reichenau
 Reichenau an der Rax
 Reichenburg
 Reichenfels
+Reichstädt
 Reiden
 Réiden
 Réiden Canton
@@ -20924,6 +21082,7 @@ Reinosa
 Reinoso de Cerrato
 Reinprechtsdorf
 Reinsberg
+Reinsdorf
 Reisduerf
 Reisenberg
 Réiser
@@ -20970,6 +21129,7 @@ Renmark Paringa
 Rennaz
 Rennell and Bellona Province
 Rennes
+Rennsteig
 Rennweg am Katschberg
 Reno
 Reno County
@@ -21104,6 +21264,7 @@ Ridec
 Ridelov
 Ridgefield
 Riebini
+Riechheimer Berg
 Ried bei Kerzers
 Ried-Brig
 Rieden am Forggensee
@@ -21144,6 +21305,7 @@ Rinconada
 Rindal
 Ringelsdorf-Niederabsdorf
 Ringgold County
+Ringleben bei Artern
 Riniken
 Rinn
 Río
@@ -21228,6 +21390,7 @@ Roane County
 Roanoke
 Roanoke County
 Robe
+Roben
 Roberto Payan
 Roberts County
 Robertsfors
@@ -21263,6 +21426,7 @@ Rockland
 Rockland County
 Rockport
 Rock Springs
+Rockstedt
 Rockville
 Rockwall County
 Rocky Hill
@@ -21302,6 +21466,7 @@ Rohatyn district
 Rohenice
 Rohle
 Rohnert Park
+Rohnstedt
 Rohov
 Rohovladova Bela
 Rohozec
@@ -21350,6 +21515,7 @@ Romaniv district
 Romanshorn
 Romblon
 Römerswil
+Römhild
 Rommerskirchen
 Romny city
 Romny district
@@ -21363,6 +21529,7 @@ Ronfe
 Rongelap Atoll
 Rongellen
 Rõngu Parish
+Ronneberg
 Ronneby
 Ronneby locality
 Ronov nad Doubravou
@@ -21382,6 +21549,7 @@ Roper Gulf
 Ropice
 Roppen
 Ropraz
+Röpsen
 Roquetas de Mar
 Roraima
 Rorainopolis
@@ -21423,6 +21591,7 @@ Rossenges
 Roßhaupten
 Rossinière
 Rossland
+Rossleben
 Rossosh
 Rossosz commune
 Rosteni
@@ -21454,6 +21623,7 @@ Rottal-Inn District
 Rottenmann
 Rottenschwil
 Rotterdam
+Rottleben
 Rottnest Island
 Rottweil District
 Roubanina
@@ -21526,6 +21696,7 @@ Ruapehu District
 Rubite
 Rubizhne city
 Rucava
+Rückersdorf
 Rückholz
 Rucphen
 Ruda
@@ -21729,6 +21900,7 @@ Sachkhere
 Sachseln
 Sachsen
 Sachsen-Anhalt
+Sachsenbrunn
 Sachsenburg
 Sächsische Schweiz-Osterzgebirge District
 Sacramento
@@ -22642,6 +22814,8 @@ Schleinikon
 Schleitheim
 Schleswig-Flensburg District
 Schleswig-Holstein
+Schleusegrund
+Schleusingen
 Schley County
 Schlierbach
 Schlieren
@@ -22651,7 +22825,9 @@ Schloss Holte-Stukenbrock
 Schlossrued
 Schluein
 Schmalkalden-Meiningen District
+Schmeheim
 Schmerikon
+Schmiedefeld am Rennsteig
 Schmiedrued
 Schmirn
 Schmitten
@@ -22791,15 +22967,18 @@ See
 See (Lac)
 Seebach
 Seebenstein
+Seebergen
 Seeboden am Millstätter See
 Seedorf
 Seefeld in Tirol
 Seefeld-Kadolz
 Seeg
+Seega
 Seegräben
 Seeham
 Seekirchen am Wallersee
 Seekonk
+Seelingstädt
 Seelisberg
 Seengen
 Seewen
@@ -23284,6 +23463,7 @@ Sindi
 Sindirgi
 Sines
 Singburi Province
+Singen
 Sîngerei District
 Singleton
 Sinj
@@ -23708,6 +23888,7 @@ Sollenau
 Sollentuna
 Sóller
 Sollerön locality
+Sollstedt
 Solna
 Solnechny
 Solnice
@@ -23753,10 +23934,12 @@ Somosierra
 Somoto
 Sonadora
 Sonda Parish
+Sondershausen
 Son en Breugel
 Songkhla Province
 Songpa District
 Sonneberg District
+Sonneborn
 Sonnenstein
 Sonntag
 Sonntagberg
@@ -24037,6 +24220,7 @@ Stadlau
 Stadlec
 Stadl-Predlitz
 Stadskanaal
+Stadtilm
 Stadtschlaining
 Stadt Zug.jpg
 Stadt Zürich
@@ -24184,6 +24368,7 @@ Stavoren
 Stavropol
 Stavropol Territory
 Stavyshche district
+St Bernhard
 Ste. Genevieve County
 Stearns County
 Stebno
@@ -24227,6 +24412,7 @@ Steinhausen
 Steinheuterode
 Steinkjer
 Steinmaur
+Steinthaleben
 Steken
 Stekene
 Stellenbosch
@@ -24284,11 +24470,13 @@ Stitov
 Stity
 Stiwoll
 Stjørdal
+St Kilian
 Stochov
 Stockbridge
 Stockenboi
 Stockerau
 Stöckey
+Stockhausen
 Stockholm
 Stockholm County
 Stockport
@@ -24387,6 +24575,7 @@ Stratov
 Stratzing
 Straubing
 Straubing-Bogen District
+Straufhain
 Straz
 Straža
 Strazek
@@ -24487,6 +24676,7 @@ Sturbridge
 Stüsslingen
 Stutsman County
 Stuttgart
+Stützerbach
 Stvolinky
 Stykkishólmur
 Stylida
@@ -24649,6 +24839,7 @@ Sunday's River Valley
 Sundborn locality
 Sundbyberg
 Sunderland
+Sundhausen
 Sundsvall
 Sunflower County
 Sunja 
@@ -25199,6 +25390,7 @@ Tefenni
 Tegal
 Tegal Regency
 Tegerfelden
+Tegkwitz
 Tegucigalpa
 Tegueste
 Teguise
@@ -25206,6 +25398,7 @@ Tehama County
 Tehov
 Tehovec
 Tehran
+Teichwolframsdorf
 Teignbridge
 Teinainano
 Teistungen
@@ -25383,6 +25576,7 @@ The Big Five False Bay
 The Bronx
 Theewaterskloof
 The Hills
+Themar
 Thembelihle
 Thembisile Hani
 Theresienfeld
@@ -25610,6 +25804,7 @@ Tonganoxie
 Tongeren
 Tönisvorst
 Tonkpi Region
+Tonna
 Tonosho
 Tonya
 Toodyay
@@ -25622,6 +25817,7 @@ Tópaga
 Topaipí
 Topeiros
 Topeka
+Topfstedt
 Toplica District
 Topola
 Topolany
@@ -25789,6 +25985,7 @@ Trebon
 Trebosice
 Trebovice
 Trebovle
+Trebra
 Trebsko
 Trebujena
 Trebusin
@@ -25839,6 +26036,7 @@ Trhovy Stepanov
 Tribrichy
 Tri Dvory
 Trieben
+Triebes
 Triemli
 Triengen
 Trient
@@ -26117,6 +26315,7 @@ Tutak
 Tutasá
 Tutin
 Tutrakan
+Tüttleben
 Tuttlingen District
 Tuusula
 Tux
@@ -26327,6 +26526,7 @@ Umjindi
 uMkhanyakude
 Umlalazi
 Umm Al-Quwain
+Ummerstadt
 Umm Slal Municipality
 uMngeni
 Umraniye
@@ -26821,6 +27021,7 @@ Veghel
 Vehmaa
 Veianen
 Veianen Canton
+Veilsdorf
 Veintiocho de Noviembre
 Veisiejai
 Vejer de la Frontera
@@ -27860,12 +28061,14 @@ Walworth County
 Walzenhausen
 Wan Chai District
 Wandering
+Wandersleben
 Wandsworth
 Wang
 Wangaratta
 Wangen
 Wangen bei Olten
 Wangen-Brüttisellen
+Wangenheim
 Wängi
 Wängle
 Wanneroo
@@ -27908,6 +28111,7 @@ Wartmannstetten
 Warwick
 Warwick Parish
 Warwickshire
+Warza
 Wasatch County
 Wasco County
 Waseca County
@@ -27929,6 +28133,7 @@ Wasseiges
 Wassen
 Wassenaar
 Wassenberg
+Wasserthaleben
 Wasterkingen
 Watauga County
 Waterberg
@@ -27982,6 +28187,7 @@ Wegrow County
 Wehnde
 Weiach
 Weichselbaum
+Weida
 Weiden am See
 Weiden bei Rechnitz
 Weiden in der Oberpfalz
@@ -28107,8 +28313,11 @@ Westerwald-Obereichsfeld
 West Feliciana Parish
 Westfield
 Westford
+Westgreussen
 Westhampton
 West Hartford
+Westhausen
+Westhausen bei Gotha
 West Haven
 West Herzegovina Canton
 West Hollywood
@@ -28217,6 +28426,7 @@ Wieden
 Wieden District
 Wiedergeltingen
 Wiedikon
+Wiehe
 Wiehl
 Wielgie commune
 Wielgomlyny commune
@@ -28273,7 +28483,9 @@ Wilcox County
 Wildalpen
 Wildberg
 Wildendürnbach
+Wildenspring
 Wildermieming
+Wildetaube
 Wildhaus-Alt St. Johann
 Wildpoldsried
 Wildschönau
@@ -28318,6 +28530,7 @@ Wimpassing im Schwarzatale
 Winchendon
 Winchester
 Windale
+Windehausen
 Winden am See
 Windham
 Windham County
@@ -28360,6 +28573,7 @@ Winton
 Winzendorf-Muthmannsdorf
 Winznau
 Wipkingen
+Wipperdorf
 Wipperfürth
 Wirral
 Wirt County
@@ -28437,6 +28651,7 @@ Wolhusen
 Wolin commune
 Wolka commune
 Wolkersdorf im Weinviertel
+Wolkramshausen
 Wollerau
 Wöllersdorf-Steinabrückl
 Wollishofen
@@ -28509,8 +28724,10 @@ Wujal Wujal
 Wülfrath
 Wulkaprodersdorf
 Wullersdorf
+Wümbach
 Wundschuh
 Wünnewil-Flamatt
+Wünschendorf-Elster
 Wunsiedel im Fichtelgebirge District
 Wuppenau
 Wuppertal
@@ -29011,6 +29228,7 @@ Zebrak
 Zedelgem
 Zederhaus
 Zederik
+Zedlitz
 Zeeland
 Zeewolde
 Zeglingen
@@ -29088,6 +29306,7 @@ Zestafoni
 Žetale
 Zetaquirá
 Zetzwil
+Zeulenroda-Triebes
 Zevenaar
 Zeytinbagi
 Zeytinburnu
