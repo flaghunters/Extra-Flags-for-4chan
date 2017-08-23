@@ -228,6 +228,7 @@ Ahmetbey
 Ahmetli
 Ahrweiler District
 Ahuachapán Department
+Ahumada Municipality
 Ahuntsic-Cartierville
 Ahvaz
 Aibonito
@@ -426,6 +427,8 @@ Alcoutim
 Alcúdia
 Alcudia de Monteagud
 Al Daayen Municipality
+Aldama
+Aldama Municipality
 Aldana
 Aldão
 Aldea del Fresno
@@ -514,6 +517,7 @@ Allen
 Allen County
 Allendale County
 Allendale Township
+Allende Municipality
 Allen Parish
 Allentown
 Allentsteig
@@ -945,6 +949,7 @@ Aprelevka
 Apulo
 Apure
 Apurímac Region
+Aquiles Serdán Municipality
 Aquinnah
 Aquitania
 Araba
@@ -1182,6 +1187,7 @@ Asakuchi
 Asakura
 Asan-Maina
 Asansol
+Ascención Municipality
 Ascension Island
 Ascension Parish
 Aschaffenburg
@@ -1471,6 +1477,7 @@ Bacerac Municipality
 Bacetin
 Bach
 Bachenbülach
+Bachíniva Municipality
 Bachs
 Bacice
 Backa Palanka
@@ -1630,6 +1637,7 @@ Ballaigues
 Ballarat
 Ballard County
 Ballens
+Balleza Municipality.pdn
 Ballina
 Ballstädt
 Ballwil
@@ -1879,6 +1887,7 @@ Batna
 Batnovice
 Batocina
 Baton Rouge
+Batopilas Municipality
 Batorz commune
 Batres
 Båtsfjord
@@ -2794,6 +2803,7 @@ Bochum
 Bockelnhagen
 Bockfliess
 Böckten
+Bocoyna Municipality
 Bodafors locality
 Boda locality
 Boddington
@@ -3547,6 +3557,7 @@ Budva
 Budyne nad Ohri
 Budzow commune
 Buenaventura
+Buenaventura Municipality
 Buenavista
 Buena Vista
 Buena Vista County
@@ -3936,6 +3947,7 @@ Câmara de Lobos
 Camardi
 Camaret-sur-Mer
 Camargo
+Camargo Municipality
 Camarines Norte
 Camarines Sur
 Camarma de Esteruelas
@@ -4133,6 +4145,7 @@ Caribe Norte Autonomous Region
 Caribe Sur Autonomous Region
 Cariboo Regional District
 Caribou County
+Carichi Municipality
 Cariño
 Carlisle
 Carlisle County
@@ -4190,6 +4203,8 @@ Casablanca
 Casal de Cambra
 Casanare Department
 Casarrubuelos
+Casas Grandes
+Casas Grandes Municipality
 Casavieja
 Cascade County
 Cascais
@@ -4786,6 +4801,7 @@ Chinavita
 Chinchina
 Chinchón
 Chingola
+Chínipas Municipality
 Chino
 Chin State
 Chinú
@@ -5413,6 +5429,7 @@ Cornol
 Cornwall
 Cornwall (district)
 Coronado
+Coronado Municipality
 Coronel
 Coronel Dorrego
 Coronel Dorrego Department
@@ -5541,6 +5558,7 @@ Cowichan Valley Regional District
 Cowley County
 Cowlitz County
 Cowra
+Coyame del Sotol Municipality
 Coyhaique
 Coyoacán
 Cozumel Municipality
@@ -5613,6 +5631,7 @@ Cuarnens
 Cuarny
 Cuaspud-Carlosama
 Cuauhtémoc
+Cuauhtémoc Municipality
 Cuba
 Cuballing
 Cubará
@@ -5690,6 +5709,7 @@ Cuscatlán Department
 Cusco
 Cusco Province
 Cusco Region
+Cusihuiriachi Municipality
 Custer County
 Cutler Bay
 Cutral Có
@@ -5944,6 +5964,8 @@ Delfzijl
 Delgerkhaan
 Delhi
 Delice
+Delicias
+Delicias Municipality
 Dellach
 Dellach im Drautal
 Delley-Portalban
@@ -6515,6 +6537,7 @@ Dowerin
 Downers Grove
 Downey
 Dozwil
+Dr. Belisario Domínguez Municipality
 Drabiv district
 Drachkov
 Dracut
@@ -7115,6 +7138,7 @@ El Tarra
 Eltendorf
 Eltham
 El Tiemblo
+El Tule Municipality
 Elundini
 Elva
 El Valle
@@ -8074,6 +8098,7 @@ Galatsi
 Galax
 Galdakao
 Gáldar
+Galeana Municipality.jpg
 Galena
 Galewice commune
 Galgenen
@@ -8553,6 +8578,7 @@ Gombe State
 Gomec
 Gomel
 Gomel Region
+Gómez Farías Municipality
 Gómez Plata
 Göming
 Gommiswald
@@ -8782,6 +8808,7 @@ Grangettes
 Gränichen
 Granite County
 Granma Province
+Gran Morelos Municipality
 Gränna locality
 Grant
 Grant County
@@ -9003,6 +9030,8 @@ Guacara
 Guacarí
 Guachené
 Guachetá
+Guachochi
+Guachochi Municipality
 Guachucal
 Guadahortuna
 Guadalajara
@@ -9011,6 +9040,8 @@ Guadalcázar
 Guadalix de la Sierra
 Guadalupe
 Guadalupe County
+Guadalupe Municipality
+Guadalupe y Calvo Municipality
 Guadarrama
 Guaduas
 Guainía Department
@@ -9058,6 +9089,7 @@ Guaymas
 Guaymas Municipality
 Guaynabo
 Guaza de Campos
+Guazapares Municipality
 Gubin
 Gubin commune
 Guce
@@ -9072,6 +9104,7 @@ Guengat
 Guerlesquin
 Guernsey County
 Guerrero
+Guerrero Municipality
 Güevéjar
 Guía de Isora
 Guican
@@ -9875,6 +9908,8 @@ Hidaka
 Hidakagawa
 Hidalgo
 Hidalgo County
+Hidalgo del Parral
+Hidalgo del Parral Municipality
 Hiddenhausen
 Hidden Hills
 Hiefenech
@@ -10528,6 +10563,7 @@ Hudspeth County
 Huechuraba
 Huécija
 Huehuetenango Department
+Huejotitán Municipality
 Huelgoat
 Huelva
 Huéneja
@@ -10705,6 +10741,7 @@ Iga
 Igarka
 Igdir
 Igdir Province
+Ignacio Zaragoza Municipality
 Ignalina District Municipality
 Igneada
 Igolomia-Wawrzenczyce commune
@@ -11201,6 +11238,7 @@ Janakkala
 Janikowo commune
 Jankov
 Jankovice
+Janos Municipality
 Janousov
 Janov
 Janova
@@ -11404,6 +11442,8 @@ Jilovice
 Jiloviste
 Jimena
 Jimena de la Frontera
+Jiménez
+Jiménez Municipality
 Jim Hogg County
 Jimlin
 Jimramov
@@ -11528,6 +11568,7 @@ Judith Basin County
 Juiz de Fora
 Jujuy Province
 Juliaca
+Julimes Municipality
 Jumilla
 Jun
 Juncos
@@ -13738,6 +13779,7 @@ La Crescenta-Montrose
 La Crosse
 La Crosse County
 La Cruz
+La Cruz Municipality
 Lacs District
 La Cumbre
 La Cygne
@@ -14943,6 +14985,7 @@ Lopera
 Lopérec
 Loperhet
 López de Micay
+López Municipality
 Lopiennik Gorny commune
 Lopik
 Loppa
@@ -15368,7 +15411,9 @@ Madarcos
 Madeira
 Madenli
 Mäder
+Madera
 Madera County
+Madera Municipality
 Madesjö district
 Madhya Pradesh
 Madibeng
@@ -15418,6 +15463,7 @@ Magliaso
 Magnitogorsk
 Magnuszew commune
 Magoffin County
+Maguarichi Municipality
 Maguindanao
 Magüí-Payán
 Magway Region
@@ -15691,6 +15737,7 @@ Mäntsälä
 Mantsopa
 Mänttä-Vilppula
 Manu'a Islands
+Manuel Benavides Municipality
 Manufahi District
 Manus Province
 Manyas
@@ -15956,12 +16003,14 @@ Mastov
 Masuda
 Maszewo commune
 Måsøy
+Matachi Municipality
 Mataderos
 Matagalpa
 Matagalpa Department
 Matagorda County
 Matale
 Matamata-Piako District
+Matamoros Municipality
 Matanuska-Susitna Borough
 Matanzas Province
 Mátape
@@ -16244,6 +16293,8 @@ Menzies
 Menziken
 Menzingen
 Menznau
+Meoqui
+Meoqui Municipality
 Meppel
 Merafong City
 Meråker
@@ -17066,6 +17117,7 @@ Moreland
 Mörel-Filet
 Morelia
 Morelos
+Morelos Municipality
 Moreno Valley
 Moretele
 Moreton Bay
@@ -17081,6 +17133,7 @@ Möriken-Wildegg
 Moriles
 Morinka
 Morioka
+Moris Municipality
 Moriya
 Moriyama
 Morkov
@@ -17554,6 +17607,7 @@ Namerikawa
 Namest nad Oslavou
 Namest na Hane
 Namie
+Namiquipa Municipality
 Namlos
 Nampula
 Nampula Province
@@ -18214,6 +18268,7 @@ Nomme
 Nong Bua Lamphu Province
 Nong Khai Province
 Nongoma
+Nonoava Municipality
 Nonoichi
 Nonthaburi Province
 Nõo Parish
@@ -18581,6 +18636,8 @@ Nueva Vizcaya
 Nueve de Julio
 Nueve de Julio Department
 Nuevo Baztán
+Nuevo Casas Grandes
+Nuevo Casas Grandes Municipality
 Nuevo Chimbote
 Nuevo Colón
 Nuevo León
@@ -18772,6 +18829,7 @@ Obuse
 Obyctov
 Obytce
 Ocaklar
+Ocampo Municipality
 Ocaña
 Occidental Mindoro
 Occitanie
@@ -18899,6 +18957,7 @@ Oita Prefecture
 Oizumi
 Oji
 Ojika
+Ojinaga Municipality
 Ojiya
 Ojós
 Ojrzen commune
@@ -20897,6 +20956,7 @@ Pravia
 Pravice
 Pravlov
 Pravonin
+Práxedis G. Guerrero Municipality
 Prazmo
 Prazmow commune
 Preble County
@@ -22181,6 +22241,7 @@ Ritchie County
 Ritka
 Ritto
 Ritzing
+Riva Palacio Municipality
 Riva San Vitale
 Rivas-Vaciamadrid
 Rivaz
@@ -22382,6 +22443,7 @@ Rorbas
 Rorschach
 Rorschacherberg
 Rosal de la Frontera
+Rosales Municipality
 Rosario
 Rosario Municipality
 Rosas
@@ -23072,6 +23134,9 @@ San Fernando de Henares
 San Fernando del Valle de Catamarca
 San Fernando Department
 San Francisco
+San Francisco de Borja Municipality
+San Francisco de Conchos Municipality
+San Francisco del Oro Municipality
 San Francisco de Macorís
 San Gabriel
 Sangamon County
@@ -23313,6 +23378,7 @@ Santa Bárbara
 Santa Barbara County
 Santa Bárbara de Casa
 Santa Bárbara de Nexe
+Santa Bárbara Municipality
 Santa Brígida
 Santa Catalina de Alejandría
 Santa Catarina
@@ -23340,6 +23406,7 @@ Santa Elena
 Santa Elena Province
 Santa Eufémia de Prazins
 Santa Eugènia
+Santa Eulalia.jpg
 Santa Eulalia de Oscos
 Santa Eulària des Riu
 Santa Fe
@@ -23348,6 +23415,7 @@ Santa Fe de Antioquia
 Santa Fe de Mondújar
 Santa Fe Province
 Santa Isabel
+Santa Isabel Municipality
 Santa Juana
 Santa Lucía
 Santa Lucía de Tirajana
@@ -23557,6 +23625,7 @@ Sátão
 Satbaev
 Säter
 Säter district
+Satevó Municipality
 Satigny
 Sativanorte
 Sativasur
@@ -23571,6 +23640,8 @@ Sattel
 Satu Mare County
 Satun Province
 Saubraz
+Saucillo
+Saucillo Municipality
 Sauda
 Saue
 Saue Parish
@@ -26463,6 +26534,7 @@ Temelin
 Temice
 Temirtau
 Temora
+Temósachi Municipality
 Temotu Province
 Tempe
 Tempelhof-Schöneberg
@@ -27765,6 +27837,7 @@ Urgezes
 Urgup
 Uribe
 Uribia
+Urique Municipality
 Urjala
 Urk
 Urla
@@ -27777,6 +27850,7 @@ Urrao
 Ursins
 Ursy
 Ursynow
+Uruachi Municipality
 Urugi
 Uruma
 Urumita
@@ -27978,12 +28052,14 @@ Valky city
 Valky district
 Valladolid
 Valle d'Aosta
+Valle de Allende
 Valle de Egüés
 Valle del Cauca Department
 Valle del Retortillo
 Valle del Zalabí
 Valle de Trápaga-Trapagaran
 Valle de Villaverde
+Valle de Zaragoza Municipality
 Valledupar
 Vallée du Bandama District
 Valle Gran Rey
@@ -28526,6 +28602,7 @@ Viljandi Parish
 Vilkaviškis
 Vilkaviškis District Municipality
 Vilkyškiai
+Villa Ahumada
 Villa Alegre
 Villa Alemana
 Villabasta de Valdavia
