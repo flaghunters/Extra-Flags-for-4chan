@@ -943,6 +943,7 @@ Appenzell
 Appingedam
 Apples
 Appleton
+Apple Valley
 Appling County
 Appomattox County
 Aprelevka
@@ -2745,6 +2746,7 @@ Blonie commune
 Blons
 Bloomfield
 Bloomingdale
+Bloomington
 Blora Regency
 Blouberg
 Blount County
@@ -3420,6 +3422,7 @@ Brookline
 Brooklyn
 Brooks County
 Brookton
+Brookyln Park
 Broome
 Broome County
 Broomehill-Tambellup
@@ -3692,6 +3695,7 @@ Burnie
 Burnley
 Burnside
 Burns Lake
+Burnsville
 Büron
 Bürs
 Bursa Metropolitan Municipality
@@ -5381,6 +5385,7 @@ Coolamon
 Coolgardie
 Coomalie
 Coonamble
+Coon Rapids
 Cooper City
 Cooper County
 Coopersville
@@ -5620,6 +5625,7 @@ Crozon
 Cruzeiro
 Cruzeiro do Sul
 Crveni Krst
+Crystal
 Csongrad County
 Ctibor
 Ctidruzice
@@ -6780,6 +6786,7 @@ Dzierzoniow commune
 Dzierzoniow County
 Dziwnow commune
 Ea
+Eagan
 Eagle County
 Eagle Rock
 Ealing
@@ -6896,6 +6903,7 @@ Edgefield County
 Edgemont
 Edgerton
 Edgewood
+Edina
 Edinburgh
 Edincik
 Edinet District
@@ -7515,6 +7523,7 @@ Farciennes
 Fareham
 Färgelanda
 Fargo
+Faribault
 Faribault County
 Faridabad
 Färila locality
@@ -9579,6 +9588,7 @@ Haßberge District
 Hasselt
 Hässleholm
 Hastière
+Hastings
 Hastings City
 Hastings County
 Hastings District
@@ -10925,6 +10935,7 @@ Intsika Yethu
 Inuyama
 Invercargill
 Inverell
+Inver Grove Heights
 Inverness County
 Inverness-shire
 Inwil
@@ -15712,6 +15723,7 @@ Maniwa
 Manizales
 Manjimup
 Mank
+Mankato
 Mankivka district
 Mankovice
 Mannar District
@@ -15748,6 +15760,7 @@ Manzini
 Maó-Mahón
 Maphumulo
 Mapiripán
+Maple Plain
 Maple Ridge
 Mapo District
 Mapoon
@@ -16648,6 +16661,7 @@ Minihof-Liebau
 Minneapolis
 Minnehaha County
 Minnesota
+Minnetonka
 Mino
 Minobu
 Minoh
@@ -19593,6 +19607,7 @@ Ovruch district
 Owani
 Owariasahi
 Owase
+Owatonna
 Owen County
 Owensboro
 Owsley County
@@ -21910,6 +21925,7 @@ Red River Parish
 Red Sea Governorate
 Redueña
 Red Willow County
+Red Wing
 Redwood County
 Rees
 Reeves County
@@ -22122,6 +22138,7 @@ Ricaurte
 Rice County
 Richardson County
 Rich County
+Richfield
 Richland County
 Richland Parish
 Richmond
@@ -22457,6 +22474,7 @@ Rosebud Indian Reservation
 Rosec
 Rosegg
 Rosemont–La Petite-Patrie
+Rosemount
 Rosenburg-Mold
 Rosenheim
 Rosenheim District
@@ -25071,6 +25089,7 @@ South Ribble
 South Sinai Governorate
 South Somerset
 South Staffordshire
+South St Paul
 South Taranaki District
 South Tyneside
 South Waikato District
@@ -29571,6 +29590,7 @@ West Somerset
 West Springfield
 Weststellingwerf
 West Stockbridge
+West St Paul
 West Sussex
 West Tamar
 West Tampa
@@ -30783,6 +30803,7 @@ Zulte
 Zululand
 Žumberak
 Zumberk
+Zumbrota
 Zumikon
 Zundert
 Zunzgen
