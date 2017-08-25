@@ -29,6 +29,7 @@ Abanilla
 Abanto Ciérvana
 Abaqulusi
 Abasha
+Abashiri
 Abay
 Abbeville
 Abbeville County
@@ -47,6 +48,7 @@ Abidjan
 Abiko
 Abington
 Abington Township
+Abira
 Abitibi-Témiscamingue
 Abja-Paluoja
 Abja Parish
@@ -232,6 +234,7 @@ Ahuachapán Department
 Ahumada Municipality
 Ahuntsic-Cartierville
 Ahvaz
+Aibetsu
 Aibonito
 Aich
 Aichach-Friedberg District
@@ -277,6 +280,8 @@ Ajman
 Ajuda
 Aka
 Akaa
+Akabira
+Akaigawa
 Akaiwa
 Akashi
 Akbez
@@ -302,6 +307,7 @@ Akishima
 Akita
 Akitakata
 Akita Prefecture
+Akkeshi
 Akkisla
 Akköl
 Akkus
@@ -1186,6 +1192,7 @@ As
 Asagiri
 Asago
 Asahi
+Asahikawa
 Asaka
 Asakawa
 Asakuchi
@@ -1215,6 +1222,7 @@ Ashe County
 Asheville
 Ashfield
 Ashford
+Ashibetsu
 Ashikaga
 Ashikita
 Ashiya
@@ -1223,6 +1231,7 @@ Ashland
 Ashland County
 Ashley County
 Ashmore and Cartier Islands
+Ashoro
 Ash Sharqiyah North Governorate
 Ash Sharqiyah South Governorate
 Ashtabula County
@@ -1244,6 +1253,7 @@ Aspern
 Aspindza
 As Pontes de García Rodríguez
 Aspropyrgos
+Assabu
 Assam
 As Samu
 Assa-Zag Province
@@ -1295,7 +1305,10 @@ Atoka County
 Atrato
 Atsimo-Andrefana Region
 Atsinanana Region
+Atsubetsu
 Atsugi
+Atsuma
+Atsuta
 Attala County
 Attalens
 Attard
@@ -2357,6 +2370,7 @@ Bethlehem
 Béthune
 Betim
 Betio
+Betsukai
 Bettendorf
 Bettenduerf
 Bettens
@@ -2495,6 +2509,7 @@ Bialystok
 Bialystok County
 Biarritz
 Biasca
+Bibai
 Bibb County
 Biberach District
 Biberbach
@@ -2508,6 +2523,7 @@ Biddeford
 Bidingen
 Biecz
 Biedermannsdorf
+Biei
 Biekerech
 Biel (Bienne)
 Bielany
@@ -2531,6 +2547,7 @@ Bieszczady County
 Bièvre
 Biezun commune
 Biezwil
+Bifuka
 Biga
 Bigadic
 Big Cypress Indian Reservation
@@ -2538,6 +2555,7 @@ Big Horn County
 Big Stone County
 Bihar
 Bihor County
+Bihoro
 Biissen
 Bijeljina
 Bijelo Polje
@@ -2612,6 +2630,7 @@ Bioko Norte Province
 Bioko Sur Province
 Bioley-Magnoux
 Bioley-Orjulaz
+Biratori
 Birecik
 Birgitz
 Birgu
@@ -4833,6 +4852,7 @@ Chipaque
 Chipiona
 Chippewa County
 Chippis
+Chippubetsu
 Chíquiaz
 Chiquimula Department
 Chiquinquirá
@@ -4847,6 +4867,7 @@ Chita
 Chitagá
 Chitaraque
 Chitimacha Indian Reservation
+Chitose
 Chittenden County
 Chittering
 Chitungwiza
@@ -6883,6 +6904,7 @@ Ebersberg District
 Ebersdorf
 Ebersecken
 Eberstein
+Ebetsu
 Ebikon
 Ebina
 Ebino
@@ -7219,6 +7241,7 @@ Emporia
 Emsland District
 Emthanjeni
 Ena
+Enbetsu
 Encamp
 Encarnación
 Encinasola
@@ -7232,6 +7255,7 @@ Enez
 Enfida
 Enfield
 Enga Province
+Engaru
 Engcobo
 Enge
 Engelberg
@@ -7246,6 +7270,7 @@ Engis
 England
 Engure
 Eniseysk
+Eniwa
 Enix
 Enkhuizen
 Enköping
@@ -7304,6 +7329,7 @@ Erglu
 Ergué-Gabéric
 Erie
 Erie County
+Erimo
 Erkelenz
 Erkheim
 Erkilet
@@ -7347,6 +7373,7 @@ Erzincan
 Erzincan Province
 Erzurum Metropolitan Municipality
 Erzurum Province
+Esashi
 Escacena del Campo
 Escalante
 Escaldes-Engordany
@@ -8030,6 +8057,7 @@ Fujisaka
 Fujisato
 Fujisawa
 Fujiyoshida
+Fukagawa
 Fukaura
 Fukaya
 Fukuchi
@@ -8063,6 +8091,7 @@ Funes
 Fünfhaus
 Funza
 Fúquene
+Furano
 Furna
 Furnas County
 Fürstenau
@@ -8072,6 +8101,7 @@ Fürth
 Furth an der Triesting
 Furth bei Göttweig
 Fürth District
+Furubira
 Furudono
 Fusa
 Fusagasugá
@@ -9302,6 +9332,7 @@ Habersham County
 Habikino
 Habo
 Håbo
+Haboro
 Habrina
 Habrovany
 Habruvka
@@ -9381,6 +9412,7 @@ Haj u Duchcova
 Haj ve Slezsku
 Hakkari
 Hakkari Province
+Hakodate
 Hakone
 Hakuba
 Hakui
@@ -9444,9 +9476,12 @@ Halych district
 Halze
 Ham
 Hamada
+Hamamasu
 Hamamatsu
 Hamamozu
+Hamanaka
 Hamar
+Hamatonbetsu
 Hamblen County
 Hambol Region
 Hamburg
@@ -9952,6 +9987,7 @@ Hickory County
 Hida
 Hidaka
 Hidakagawa
+Hidaka subprefecture
 Hidalgo
 Hidalgo County
 Hidalgo del Parral
@@ -9969,6 +10005,8 @@ Higashidori
 Higashihiroshima
 Higashi Izu
 Higashikagawa
+Higashikagura
+Higashikawa
 Higashikurume
 Higashikushira
 Higashimatsushima
@@ -10058,6 +10096,7 @@ Hirm
 Hirogawa
 Hirokawa
 Hirono
+Hiroo
 Hirosaki
 Hiroshima
 Hiroshima Prefecture
@@ -10084,6 +10123,7 @@ Hittnau
 Hitzendorf
 Hitzkirch
 Hiva Oa
+Hiyama subprefecture
 Hjartdal
 Hjo
 Hlabisa
@@ -10206,6 +10246,7 @@ Hoke County
 Hokkaido
 Hokota
 Hokuei
+Hokuryu
 Hokuto
 Hol
 Holany
@@ -10267,6 +10308,7 @@ Homole
 Homole u Panny
 Honau
 Honaz
+Honbetsu
 Honetice
 Honeyville
 Honezovice
@@ -10418,9 +10460,11 @@ Horodok city
 Horodok district
 Horodyshche city
 Horodyshche district
+Horokanai
 Horokhiv city
 Horokhiv district
 Horomerice
+Horonobe
 Horousany
 Horovice
 Horovicky
@@ -10745,6 +10789,7 @@ Ibestad
 Ibias
 Ibigawa
 Ibriktepe
+Iburi subprefecture
 Ibusuki
 Ica
 Ica Province
@@ -10876,6 +10921,7 @@ Ilza commune
 Ilztal
 Imabari
 Imabetsu
+Imakane
 Imari
 Imavere Parish
 Imbabazane
@@ -11055,6 +11101,8 @@ Isezaki
 Isfahan
 Ishigaki
 Ishii
+Ishikari
+Ishikari subprefecture
 Ishikawa
 Ishikawa Prefecture
 Ishinomaki
@@ -11167,6 +11215,8 @@ Iwaki
 Iwakuni
 Iwakura
 Iwami
+Iwamizawa
+Iwanai
 Iwanowice commune
 Iwanuma
 Iwata
@@ -11874,24 +11924,29 @@ Kamienna Gora County
 Kamien Pomorski commune
 Kamiensk commune
 Kamiesberg
+Kamifurano
 Kamigori
 Kamiichi
 Kamiita
 Kamijima
 Kamikatsu
 Kamikawa
+Kamikawa subprefecture
 Kamikitayama
 Kamikoani
 Kamimine
 Kamin-Kashyrskyi city
 Kamin-Kashyrskyi district
 Kaminokawa
+Kaminokuni
 Kaminoseki
 Kaminoyama
 Kamionka commune
 Kamionka Wielka commune
 Kamisato
+Kamishihoro
 Kamisu
+Kamisunagawa
 Kamitonda
 Kamiyama
 Kamloops
@@ -11900,6 +11955,7 @@ Kammersrohr
 Kammlach
 Kamnik
 Kamo
+Kamoenai
 Kamogawa
 Kampala
 Kampen
@@ -12325,6 +12381,7 @@ Kemper County
 Kempsey
 Kempten
 Kenai Peninsula Borough
+Kenbuchi
 Kendall County
 Kendal Regency
 Kenedy County
@@ -12507,6 +12564,7 @@ Kijo
 Kikai
 Kikinda
 Kikol commune
+Kikonai
 Kikuchi
 Kikugawa
 Kikuyo
@@ -12531,6 +12589,7 @@ Kimberley
 Kimble County
 Kimino
 Kimitsu
+Kimobetsu
 Kimotsuki
 Kimovsk
 Kin
@@ -12639,6 +12698,7 @@ Kitajima
 Kitakami
 Kitakata
 Kitakyushu
+Kitami
 Kitamoto
 Kitanagoya
 Kitanakagusuku
@@ -12671,8 +12731,10 @@ Kiviõli
 Kiyama
 Kiyikoy
 Kiyokawa
+Kiyosato
 Kiyose
 Kiyosu
+Kiyota
 Kizel
 Kizilca
 Kizilcahamam
@@ -13104,6 +13166,7 @@ Kose Parish
 Kosetice
 Koshi
 Koshigaya
+Koshimizu
 Koshu
 Kosice
 Kosice Region
@@ -13610,6 +13673,7 @@ Kunisaki
 Kunitachi
 Kunitomi
 Kunkovice
+Kunneppu
 Kunohe
 Kunovice
 Kunratice
@@ -13644,8 +13708,10 @@ Kurim
 Kurimska Nova Ves
 Kurimske Jestrabi
 Ku-ring-gai
+Kuriyama
 Kurobe
 Kuroishi
+Kuromatsunai
 Kuroshio
 Kurotaki
 Kurovice
@@ -13666,6 +13732,9 @@ Kusatsu
 Kusel District
 Kushima
 Kushimoto
+Kushiro (city)
+Kushiro (town)
+Kushiro subprefecture
 Küsnacht
 Küssnacht
 Kustavi
@@ -13673,6 +13742,7 @@ Kusu
 Kutahya
 Kutahya Province
 Kutaisi
+Kutchan
 Kutina
 Kutna Hora
 Kutna Hora District
@@ -13733,12 +13803,14 @@ Kyjovice
 Kymenlaakso
 Kynsperk nad Ohri
 Kyogle
+Kyogoku
 Kyonan
 Kyotamba
 Kyotanabe
 Kyotango
 Kyoto
 Kyoto Prefecture
+Kyowa
 Kyrenia
 Kyrkhult locality
 Kyselka
@@ -15590,6 +15662,7 @@ Makiivka city
 Makinohara
 Makira-Ulawa Province
 Makkah
+Makkari
 Makole
 Makotrasy
 Makov
@@ -15598,6 +15671,7 @@ Makow County
 Makow Mazowiecki
 Makow Podhalanski
 Mäksa Parish
+Makubetsu
 Makueni County
 Makurazaki
 Malå
@@ -16042,6 +16116,7 @@ Maseru
 Masfjorden
 Mashantucket Pequot Indian Reservation
 Mashhad
+Mashike
 Mashiki
 Mashiko
 Mashivka district
@@ -16102,6 +16177,7 @@ Matsudo
 Matsue
 Matsukawa (town)
 Matsukawa (village)
+Matsumae
 Matsumoto
 Matsuno
 Matsusaka
@@ -16324,6 +16400,7 @@ Melville
 Memmingen
 Memmingerberg
 Memphis
+Memuro
 Menabe Region
 Mena city
 Mena district
@@ -16586,6 +16663,7 @@ Miharu
 Miho
 Mihovljan
 Mijares
+Mikasa
 Mikawa
 Mikhaylovka
 Mikhaylovsk
@@ -16680,6 +16758,7 @@ Minamiboso
 Minamichita
 Minamidaito
 Minamiechizen
+Minamifurano
 Minami Ise
 Minami Izu
 Minamikyushu
@@ -16992,6 +17071,7 @@ Monastir Governorate
 Monastyryshche district
 Monastyryska city
 Monastyryska district
+Monbetsu
 Monção
 Mönchaltorf
 Monchegorsk
@@ -17247,6 +17327,7 @@ Moscow Region
 Mosedis
 Moselle
 Moses Kotane
+Moseushi
 Mosfellsbær
 Moskenes
 Mosman
@@ -17383,6 +17464,7 @@ Muhu Parish
 Mukacheve city
 Mukacheve district
 Mukarov
+Mukawa
 Mukdahan Province
 Mukinbudin
 Muko
@@ -17449,6 +17531,7 @@ Murindó
 Murmansk
 Murmansk Region
 Muro
+Muroran
 Muros de Nalón
 Muroto
 Murovani Kurylivtsi district
@@ -17594,6 +17677,7 @@ Nagaland
 Nagano
 Naganohara
 Nagano Prefecture
+Naganuma
 Nagaoka
 Nagaokakyo
 Nagara
@@ -17622,12 +17706,14 @@ Nahant
 Nahari
 Nahorany
 Nahosovice
+Naie
 Nairnshire
 Nairobi
 Nairobi County
 Najran
 Naka
 Nakadomari
+Nakafurano
 Nakagawa
 Nakagusuku
 Nakai
@@ -17636,7 +17722,10 @@ Nakama
 Nakano
 Nakanojo
 Nakanoto
+Nakasatsunai
+Nakashibetsu
 Nakatane
+Nakatonbetsu
 Nakatosa
 Nakatsu
 Nakatsugawa
@@ -17683,6 +17772,7 @@ Nampula Province
 Namur
 Namur (city)
 Namyslow County
+Nanae
 Nanaimo
 Nanaimo Regional District
 Nanao
@@ -17700,6 +17790,7 @@ Nanmoku
 Nannestad
 Nannup
 Nanortalik
+Nanporo
 Nan Province
 Nantan
 Nantes
@@ -17828,6 +17919,7 @@ Nawa Region
 Nawojowa commune
 Naxxar
 Nayarit
+Nayoro
 Naypyidaw
 Nazaré
 Nazareth
@@ -17925,6 +18017,8 @@ Nemojany
 Nemojov
 Nemotice
 Nemunelio Radviliškis
+Nemuro
+Nemuro subprefecture
 Nemyriv city
 Nemyriv district
 Nemyslovice
@@ -18208,6 +18302,7 @@ Niigata
 Niigata Prefecture
 Niihama
 Niijima
+Niikappu
 Niimi
 Niiza
 Nijkerk
@@ -18216,6 +18311,7 @@ Nijmegen
 Nikaho
 Nikaia-Agios Ioannis Rentis
 Nikel
+Niki
 Nikitsch
 Nikko
 Niklasdorf
@@ -18251,6 +18347,7 @@ Nirasaki
 Nis
 Nisa
 Nisava District
+Niseko
 Nisga'a Nation
 Nishapur
 Nishi
@@ -18267,6 +18364,7 @@ Nishinomiya
 Nishinoomote
 Nishinoshima
 Nishio
+Nishiokoppe
 Nishitokyo
 Nishiwaga
 Nishiwaki
@@ -18315,6 +18413,7 @@ Nobeoka
 Nobitz
 Noble County
 Nobles County
+Noboribetsu
 Nobsa
 Nocaima
 Noda
@@ -18876,8 +18975,10 @@ Oberwil
 Oberwil-Lieli
 Obfelden
 Óbidos
+Obihiro
 Obilic
 Obion County
+Obira
 Öblarn
 Obolonskyi district
 Obora
@@ -19045,10 +19146,12 @@ Okayama Prefecture
 Okazaki
 Okeechobee County
 Okegawa
+Oketo
 Okfuskee County
 Okha
 Okhahlamba
 Okhansk
+Okhotsk subprefecture
 Okhotsky District
 Okhtyrka city
 Okhtyrka district
@@ -19062,6 +19165,7 @@ Oklahoma County
 Okmulgee County
 Okna
 Okny district
+Okoppe
 Okor
 Okounov
 Okresice
@@ -19073,6 +19177,7 @@ Oktibbeha County
 Okuizumo
 Okuma
 Okura
+Okushiri
 Okutama
 Okuwa
 Olaine
@@ -19190,6 +19295,7 @@ Ommen
 Ömnögovi Province
 Omsk
 Omsk Region
+Omu
 Omura
 Omurtag
 Omusati Region
@@ -19424,12 +19530,14 @@ Oselin
 Osen
 Osh
 Oshakati
+Oshamambe
 Oshana Region
 Oshawa
 Oshika
 Oshikoto Region
 Oshikuku
 Oshima
+Oshima subprefecture
 Oshino
 Osh Region
 Oshu
@@ -19549,6 +19657,7 @@ Otaki
 Otama
 Otanche
 Otari
+Otaru
 Otaslavice
 Otavi
 Otawara
@@ -19570,8 +19679,11 @@ Otmarov
 Otmice
 Otnice
 Oto
+Otobe
 Otoe County
 Otoe-Missouria Tribe
+Otofuke
+Otoineppu
 Otorohanga District
 Otovice
 Otoyo
@@ -19698,6 +19810,7 @@ Ozawkie
 Ozersk
 Ozkonak
 Ozolnieki
+Ozora
 Ozorkow
 Ozorkow commune
 Ozu
@@ -20441,6 +20554,7 @@ Piotrkow County
 Piotrkow Kujawski commune
 Piotrkow Trybunalski City
 Pipestone County
+Pippu
 Piracicaba
 Pirae
 Piran
@@ -21853,6 +21967,7 @@ Rangiroa
 Rangitikei District
 Ranilug
 Rankin County
+Rankoshi
 Rankovce
 Rankweil
 Ränneslöv locality
@@ -21919,6 +22034,7 @@ Raudone
 Rauma
 Rauna
 Rauris
+Rausu
 Ravalli County
 Rava-Ruska city
 Ravels
@@ -21955,6 +22071,7 @@ Rebecq
 Rebesovice
 Rebeuvelier
 Rebstein
+Rebun
 Recany nad Labem
 Recetor
 Recherswil
@@ -22259,6 +22376,7 @@ Rijswijk
 Rikonin
 Rikov
 Rikovice
+Rikubetsu
 Rikuzentakata
 Riley County
 Rimatara
@@ -22315,6 +22433,8 @@ Risaralda
 Risaralda Department
 Rîscani District
 Risch
+Rishiri
+Rishirifuji
 Rishon LeZion
 Rising Sun
 Rissa
@@ -22716,6 +22836,8 @@ Rumes
 Rümikon
 Rümlang
 Rümlingen
+Rumoi
+Rumoi subprefecture
 Rumsiskes
 Rumst
 Runavík
@@ -22756,6 +22878,7 @@ Rustavi
 Rust District
 Rustenburg
 Rustenfelde
+Rusutsu
 Ruswil
 Rute
 Rüte
@@ -23107,6 +23230,7 @@ Samacá
 Samac municipality
 Samaná
 Samangan Province
+Samani
 Samaniego
 Samar
 Samara
@@ -23631,6 +23755,7 @@ Sa Pobla
 Sapporo
 Sapucaia do Sul
 Sapuyes
+Sarabetsu
 Saraburi Province
 Sarah Baartman
 Saraj
@@ -23687,12 +23812,14 @@ Särna locality
 Sarnen
 Sarny city
 Sarny district
+Saroma
 Sarovy
 Sarpsborg
 Sarpy County
 Sarria
 Sart
 Sarthe
+Sarufutsu
 Saruhanli
 Sasaguri
 Sasaima
@@ -24191,6 +24318,7 @@ Sestajovice
 Sestao
 Šeštokai
 Setagaya
+Setana
 Setenil de las Bodegas
 Seto
 Setouchi
@@ -24242,6 +24370,7 @@ Shakhtarsk city
 Shakhtarsk district
 Shakhtersk
 Shakhtinsk
+Shakotan
 Sham Shui Po District
 Shandong
 Shanghai
@@ -24297,6 +24426,8 @@ Shevchenkove district
 Shiawassee County
 Shibata
 Shibayama
+Shibecha
+Shibetsu
 Shibukawa
 Shibushi
 Shibuya
@@ -24304,10 +24435,13 @@ Shichigahama
 Shichikashuku
 Shichinohe
 Shiga Prefecture
+Shihoro
 Shiiba
 Shijonawate
 Shika
+Shikabe
 Shikama
+Shikaoi
 Shiki
 Shikokuchuo
 Shilka
@@ -24315,6 +24449,7 @@ Shillong
 Shima
 Shimabara
 Shimada
+Shimamaki
 Shimamoto
 Shimane Prefecture
 Shimanto (city)
@@ -24326,24 +24461,30 @@ Shimoda
 Shimogo
 Shimoichi
 Shimojo
+Shimokawa
 Shimokitayama
 Shimonita
 Shimonoseki
 Shimosuwa
 Shimotsuke
 Shimotsuma
+Shimukappu
 Shin'onsen
 Shinagawa
 Shinano
 Shinchi
 Shingo
 Shingu
+Shinhidaka
 Shinjo
 Shinjuku
 Shin-Kamigoto
+Shinshinotsu
 Shinshiro
 Shinto
+Shintoku
 Shintomi
+Shintotsukawa
 Shiogama
 Shiojiri
 Shioya
@@ -24353,9 +24494,13 @@ Shirakawa (town)
 Shirakawa (village)
 Shirako
 Shirak Province
+Shiranuka
+Shiraoi
 Shiraoka
 Shirataka
 Shiraz
+Shiribechi subprefecture
+Shiriuchi
 Shirley
 Shiroi
 Shiroishi
@@ -24375,6 +24520,7 @@ Shodoshima
 Shonai
 Shoo
 Shoreview
+Shosanbetsu
 Shoshone County
 Shoshone Tribe of the Wind River Reservation
 Shostka city
@@ -24890,6 +25036,7 @@ Sobesice
 Sobeslav
 Sobesovice
 Sobesuky
+Sobetsu
 Sobetuchy
 Sobienie-Jeziory commune
 Sobinov
@@ -25070,6 +25217,7 @@ Sopotnice
 Soprec
 Sora
 Soracá
+Sorachi subprefecture
 Soral
 Sorengo
 Sorens
@@ -25182,6 +25330,7 @@ Sovetsky
 Sovietskyi district
 Sovinky
 Sowa
+Soya subprefecture
 Soyhières
 Soyopa
 Soyopa Municipality
@@ -25945,6 +26094,7 @@ Sumvitg
 Sumy city
 Sumy district
 Sumy Region
+Sunagawa
 Sun City West
 Sund
 Sunday's River Valley
@@ -26015,6 +26165,7 @@ Sutter County
 Sutton
 Sutton Coldfield
 Sutton County
+Suttsu
 Suure-Jaani
 Suure-Jaani Parish
 Suva
@@ -26326,6 +26477,7 @@ Takarazuka
 Takasago
 Takasaki
 Takashima
+Takasu
 Takatori
 Takatsuki
 Takayama
@@ -26335,6 +26487,8 @@ Taketa
 Taketomi
 Taketoyo
 Taki
+Takikawa
+Takinoue
 Takizawa
 Takko
 Tako
@@ -26598,6 +26752,7 @@ Tehran
 Teichwolframsdorf
 Teignbridge
 Teinainano
+Teine
 Teistungen
 Tejeda
 Tekeli
@@ -26727,6 +26882,8 @@ Terzialan
 Tesalia
 Tesany
 Tesetice
+Teshikaga
+Teshio
 Teskov
 Teskovice
 Teslic municipality
@@ -26948,6 +27105,7 @@ Tobadill
 Tobaj
 Tobe
 Tobel-Tägerschen
+Tobetsu
 Tobishima
 Tobolsk
 Toca
@@ -26972,6 +27130,7 @@ Tohoku
 Toila Parish
 Toin
 Toivakka
+Tokachi subprefecture
 Tokai
 Tokamachi
 Tokarnia commune
@@ -27003,7 +27162,10 @@ Tolna County
 Tolochenaz
 Toluca
 Tolyatti
+Toma
 Tomakivka district
+Tomakomai
+Tomamae
 Tomar
 Tomari
 Tomashpil city
@@ -27162,18 +27324,23 @@ Towns County
 Townsend
 Townsville
 Towong Shire
+Toyako
 Toyama
 Toyama Prefecture
 Toyo
 Toyoake
 Toyohashi
+Toyohira
 Toyokawa
+Toyokoro
 Toyonaka
 Toyone
 Toyono
 Toyooka
 Toyosato
 Toyota
+Toyotomi
+Toyoura
 Toyoyoma
 Tozawa
 Tozeur
@@ -27426,9 +27593,11 @@ Tsolwana
 Tsu
 Tsubame
 Tsubata
+Tsubetsu
 Tsuchiura
 Tsuen Wan District
 Tsugaru
+Tsukigata
 Tsukuba
 Tsukubamirai
 Tsukumi
@@ -27441,6 +27610,7 @@ Tsuru
 Tsuruga
 Tsurugashima
 Tsurugi
+Tsurui
 Tsuruoka
 Tsuruta
 Tsushima
@@ -27925,10 +28095,13 @@ Upson County
 Upton
 Upton County
 Upyte
+Urahoro
+Urakawa
 Uralla
 Uramita
 Urana
 Urasoe
+Urausu
 Urayasu
 Urbanice
 Urcice
@@ -27961,6 +28134,7 @@ Uruma
 Urumita
 Urus
 Urvaste Parish
+Uryu
 Urzedow commune
 Usa
 Usak
@@ -27999,6 +28173,8 @@ Usuki
 Usulután Department
 Utah
 Utah County
+Utanobori
+Utashinai
 Utazu
 Utcubamba Province
 Utechov
@@ -29309,6 +29485,7 @@ Wakefield
 Wake Island
 Waki
 Wakiso District
+Wakkanai
 Wako
 Wakool
 Wakulla County
@@ -29450,6 +29627,7 @@ Washoe Ranch
 Washtenaw County
 Wasilla
 Wasosz commune
+Wassamu
 Wasseiges
 Wassen
 Wassenaar
@@ -30117,6 +30295,7 @@ Yakage
 Yakakent
 Yakima
 Yakima County
+Yakumo
 Yakushima
 Yakutat
 Yakutiye
@@ -30276,6 +30455,7 @@ Yoakum County
 Yobe State
 Yogyakarta
 Yogyakarta (city)
+Yoichi
 Yokkaichi
 Yokneam
 Yokohama
@@ -30328,6 +30508,8 @@ Ystad
 Ysyk-Köl Region
 Yuasa
 Yuba County
+Yubari
+Yubetsu
 Yubileyny
 Yucatán
 Yuen Long District
@@ -30345,6 +30527,7 @@ Yuma County
 Yumbel
 Yumbo
 Yungay
+Yuni
 Yunlin County
 Yunnan
 Yunomae
