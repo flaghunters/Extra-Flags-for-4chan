@@ -165,6 +165,7 @@ Agacbeyli
 Agacoren
 Agadez Region
 Agadir
+Agadir-Ida Ou Tanane Prefecture
 Agana Heights
 Aganang
 Agano
@@ -483,9 +484,11 @@ Alhama de Almería
 Alhama de Granada
 Alhama de Murcia
 Alhambra
+Al Haouz Province
 Al-Hasakah Governorate
 Alhendín
 Al Hoceima
+Al Hoceïma Province
 Aliaga
 Alibunar
 Alicante
@@ -915,6 +918,7 @@ Aomori
 Aomori Prefecture
 Aosta
 Aousja
+Aousserd Province
 Apače
 Apache County
 Apache Junction
@@ -1242,6 +1246,7 @@ As Pontes de García Rodríguez
 Aspropyrgos
 Assam
 As Samu
+Assa-Zag Province
 Asse
 Assen
 Assenede
@@ -1440,6 +1445,7 @@ Azambuja
 Azcapotzalco
 Azdavay
 Azilal
+Azilal Province
 Aziziye
 Azov
 Azua de Compostela
@@ -2175,7 +2181,9 @@ Ben Hill County
 Benice
 Beni Department
 Beniel
-Beni Mellal
+Béni Mellal
+Béni Mellal-Khénifra
+Béni Mellal Province
 Benishangul-Gumuz Region
 Beni Suef Governorate
 Benitagla
@@ -2193,6 +2201,7 @@ Bennwil
 Bénodet
 Benov
 Benslimane
+Benslimane Province
 Benson County
 Bentarique
 Bent County
@@ -2259,6 +2268,7 @@ Berisso
 Berisso Department
 Berja
 Berkakit
+Berkane Province
 Berkeley
 Berkeley County
 Berkelland
@@ -2298,6 +2308,7 @@ Beromünster
 Beroun
 Beroun District
 Berovo
+Berrechid Province
 Berriatua
 Berri Barmera
 Berrien
@@ -3086,7 +3097,9 @@ Bougainville Autonomous Region
 Bougy-Villars
 Bouhajar
 Bouillon
+Boujdour Province
 Boulder County
+Boulemane Province
 Boulens
 Boulia
 Boundary County
@@ -4205,6 +4218,8 @@ Carver
 Carver County
 Cary
 Casablanca
+Casablanca Prefecture
+Casablanca-Settat
 Casal de Cambra
 Casanare Department
 Casarrubuelos
@@ -4658,6 +4673,7 @@ Cheboygan County
 Chechelnyk district
 Chechnya
 Chefchaouen
+Chefchaouen Province
 Cheiry
 Chelan County
 Chelcice
@@ -4753,6 +4769,7 @@ Chibolo
 Chibu
 Chicago
 Chicago Heights
+Chichaoua Province
 Chichibu
 Chickamauga
 Chickasaw County
@@ -4959,6 +4976,7 @@ Chrudim District
 Chrustenice
 Chrzanow
 Chrzanow County
+Chtouka Ait Baha Province
 Chua Chu Kang
 Chubut Province
 Chucena
@@ -5788,6 +5806,7 @@ Dakahlia Governorate
 Dakar
 Dakar Region
 Dakhla
+Dakhla-Oued Ed-Dahab
 Dakota County
 Dalaas
 Dalabyggð
@@ -6545,6 +6564,7 @@ Downers Grove
 Downey
 Dozwil
 Dr. Belisario Domínguez Municipality
+Drâa-Tafilalet
 Drabiv district
 Drachkov
 Dracut
@@ -6598,6 +6618,7 @@ Drhovle
 Drhovy
 Drimmelen
 Drinov
+Driouch Province
 Drisy
 Dritec
 Driten
@@ -7078,6 +7099,7 @@ El Granado
 El Guamo
 El Guettar
 El Guijo
+El Hajeb Province
 El Hierro
 El Hornillo
 Elhovo
@@ -7090,8 +7112,10 @@ Elixhausen
 Elizovo
 Elizovsky District
 El Jadida
+El Jadida Province
 Elk County
-El Kelaa des Sraghna
+El Kelâa des Sraghna
+El Kelâa des Sraghna Province
 Elk Grove
 Elkhart County
 Elko County
@@ -7309,6 +7333,7 @@ Erpe-Mere
 Erpuzice
 Erquelinnes
 Errachidia
+Errachidia Province
 Errigoiti
 Erschwil
 Ershausen
@@ -7369,6 +7394,8 @@ Esporles
 Esposende
 Esquimalt Township
 Essaouira
+Essaouira Province
+Es-Semara Province
 Essen
 Essertes
 Essertines-sur-Rolle
@@ -7480,6 +7507,7 @@ Fagersta
 Faggen
 Fahner Höhe
 Fahrwengen
+Fahs-Anjra Province
 Fahy
 Faido
 Faimes
@@ -7620,6 +7648,8 @@ Ferrysburg
 Ferschnitz
 Ferwerderadiel
 Feschbech
+Fès-Meknès
+Fès Prefecture
 Fet
 Fetakgomo
 Fethiye
@@ -7645,6 +7675,7 @@ Figueira da Foz
 Figueira de Castelo Rodrigo
 Figueiró dos Vinhos
 Figuig
+Figuig Province
 Filadelfia
 Filandia
 Filipstad
@@ -7691,6 +7722,7 @@ Fjaler
 Fjällsjö district
 Fjarðabyggð
 Fjell
+Fkih Ben Salah Province
 Flaach
 Flachau
 Flacq District
@@ -9108,9 +9140,12 @@ Gudul
 Gudžiūnai
 Guelma
 Guelmim
+Guelmim-Oued Noun
+Guelmim Province
 Guelph
 Güeñes
 Guengat
+Guercif Province
 Guerlesquin
 Guernsey County
 Guerrero
@@ -10746,6 +10781,7 @@ Ieper
 Iermsdref
 Ierpeldeng op der Sauer
 Ifrane
+Ifrane Province
 Ifugao
 Ig
 Iga
@@ -10897,6 +10933,7 @@ Industry
 Ine
 Inebolu
 Inegol
+Inezgane-Aït Melloul Prefecture
 Infantas
 Ingelmunster
 Ingenbohl
@@ -11381,6 +11418,7 @@ Jenstejn
 Jeollabuk Province
 Jeollanam Province
 Jepara Regency
+Jerada Province
 Jerauld County
 Jerez de la Frontera
 Jerice
@@ -12291,6 +12329,7 @@ Kendall County
 Kendal Regency
 Kenedy County
 Kenitra
+Kénitra Province
 Kennebec County
 Kennelbach
 Kenner
@@ -12392,7 +12431,9 @@ Khatumo
 Kheis
 Khelvachauri
 Khemisset
-Khenifra
+Khemisset Province
+Khénifra
+Khénifra Province
 Khentii Province
 Kherson city
 Kherson Region
@@ -12419,6 +12460,7 @@ Khost Province
 Khotyn city
 Khotyn district
 Khouribga
+Khouribga Province
 Khovd Province
 Khövsgöl Province
 Khrystynivka city
@@ -13735,7 +13777,9 @@ Laarbeek
 La Argentina
 Laarne
 Laax
-Laayoune
+Laâyoune
+Laâyoune-Boujdour-Sakia El Hamra
+Laâyoune Province
 La Baie
 La Baroche
 Labateca
@@ -14075,6 +14119,7 @@ La Punt-Chamues-ch
 La Quinta
 Lara
 Larache
+Larache Province
 Laramie County
 Laranjal do Jari
 Lardal
@@ -15370,6 +15415,7 @@ Lyuban
 Lyubertsy
 Lyudinovo
 Lørenskog
+M'diq-Fnideq Prefecture
 Maardu
 Maarkedal
 Maasdriel
@@ -15927,6 +15973,8 @@ Marquesas Islands
 Marquetalia
 Marquette County
 Marrakesh
+Marrakesh Prefecture
+Marrakesh-Safi
 Marratxi
 Marsa
 Marsabit County
@@ -16196,6 +16244,7 @@ Medio Atrato
 Medio Baudó
 Medio Cudeyo
 Medio San Juan
+Médiouna Province
 Medjez el-Bab
 Medlice
 Medlov
@@ -16233,7 +16282,8 @@ Meiwa
 Meix-devant-Virton
 Mejillones
 Mejorada del Campo
-Meknes
+Meknès
+Meknès Prefecture
 Melaka
 Melaky Region
 Meland
@@ -16475,6 +16525,7 @@ Middlefield
 Middlesex County
 Middleton
 Middletown
+Midelt Province
 Midland
 Midland County
 Midlothian
@@ -16867,6 +16918,7 @@ Mogilno County
 Mogi Mirim
 Moguer
 Mohamedia-Fouchana
+Mohammadia Prefecture
 Mohave County
 Mohawks of the Bay of Quinte
 Mohegan Indian Reservation
@@ -17232,6 +17284,7 @@ Mötz
 Mouchnice
 Moudon
 Moulares
+Moulay Yacoub Province
 Moultrie County
 Mound City
 Mound Valley
@@ -17523,6 +17576,7 @@ Nadarzyn commune
 Nadejov
 Nadi
 Nador
+Nador Province
 Nadryby
 Nadur
 Nadvirna city
@@ -18448,6 +18502,7 @@ Nottinghamshire
 Nottleben
 Nottoway County
 Nottwil
+Nouaceur Province
 Nouméa
 Noumer
 Nousiainen
@@ -19271,6 +19326,7 @@ Orhaneli
 Orhangazi
 Orhei District
 Oria
+Oriental
 Oriental Mindoro
 Origlio
 Orikhiv city
@@ -19549,6 +19605,7 @@ Ouachita Parish
 Ouagadougou
 Ouanary
 Ouarzazate
+Ouarzazate Province
 Oucmanice
 Oud-Beijerland
 Oude IJsselstreek
@@ -19560,10 +19617,13 @@ Oud-Heverlee
 Oudolen
 Oudtshoorn
 Oud-Turnhout
+Oued Ed-Dahab Province
 Oued Ellil
 Oueslatia
 Ouest Department
+Ouezzane Province
 Oujda
+Oujda-Angad Prefecture
 Oulens-sous-Échallens
 Oupeye
 Ouray County
@@ -21589,6 +21649,8 @@ Raasepori
 Raasiku Parish
 Rábade
 Rabat
+Rabat Prefecture
+Rabat-Salé-Kénitra
 Raba Wyzna commune
 Rabensburg
 Rabenstein an der Pielach
@@ -21953,6 +22015,7 @@ Region Prättigau-Davos
 Region Surselva
 Region Viamala
 Reguengos de Monsaraz
+Rehamna Province
 Rehetobel
 Rehoboth
 Rehungen
@@ -22828,6 +22891,7 @@ Safenwil
 Säffle
 Safi
 Safiental
+Safi Province
 Safov
 Safranbolu
 Saga
@@ -23000,6 +23064,7 @@ Salem
 Salem County
 Salenstein
 Salento
+Salé Prefecture
 Sâles
 Salford
 Salgamli
@@ -23941,6 +24006,7 @@ Seewen
 Seewis im Prättigau
 Sefaatli
 Seferihisar
+Sefrou Province
 Seftigen
 Sefton
 Segeberg District
@@ -24130,6 +24196,7 @@ Seto
 Setouchi
 Setsoto
 Settat
+Settat Province
 Settsu
 Setúbal
 Setúbal District
@@ -24352,11 +24419,15 @@ Sid
 Sidabravas
 Side
 Sidi Bel Abbes
+Sidi Bennour Province
 Sidi Bou Ali
 Sidi Bou Said
 Sidi Bouzid
 Sidi Bouzid Governorate
+Sidi Ifni Province
 Sidi Kacem
+Sidi Kacem Province
+Sidi Slimane Province
 Sidi Thabet
 Sidney
 Sidoarjo Regency
@@ -24610,6 +24681,7 @@ Skeena-Queen Charlotte Regional District
 Skellefteå
 Skepe commune
 Skhira
+Skhirate-Témara Prefecture
 Ski
 Skidel
 Skien
@@ -25039,6 +25111,7 @@ Sousedovice
 Sousel
 Sousse
 Sousse Governorate
+Souss-Massa
 South Aegean
 Southampton
 Southampton County
@@ -26338,7 +26411,9 @@ Taney County
 Tangerang
 Tangerang Regency
 Tangerang Selatan
+Tanger-Tetouan-Al Hoceima
 Tangier
+Tangier-Assilah Prefecture
 Tangipahoa Parish
 Tangua
 Tangub
@@ -26351,10 +26426,13 @@ Tannheim
 Tano
 Tanohata
 Tan-Tan
+Tan-Tan Province
 Tanum
 Tanvald
 Taos County
 Taounate
+Taounate Province
+Taourirt Province
 Taoyuan City
 Tapa
 Tapa Parish
@@ -26376,6 +26454,7 @@ Taraz
 Tarazá
 Tarczyn commune
 Tärendö district
+Tarfaya Province
 Targovishte
 Targovishte Province
 Targowek
@@ -26400,6 +26479,7 @@ Tarnow County
 Tarnowskie Gory County
 Tarouca
 Taroudant
+Taroudant Province
 Tarqui
 Tarragona
 Tarrant County
@@ -26437,6 +26517,7 @@ Tasucu
 Tata
 Tataouine
 Tataouine Governorate
+Tata Province
 Tatarbunary city
 Tatarbunary district
 Tatarsk
@@ -26485,6 +26566,7 @@ Taylor District
 Tayshet
 Taza
 Tazacorte
+Taza Province
 Tazewell County
 Tbilisi
 Tczew County
@@ -26661,6 +26743,7 @@ Tetiiv district
 Tetin
 Teton County
 Tetouan
+Tetouan Province
 Tetov
 Tetovo
 Tetritsqaro
@@ -26794,6 +26877,7 @@ Timor Tengah Utara Regency
 Timrå
 Tinajo
 Tineo
+Tinghir Province
 Tingsryd
 Tinian
 Tinja
@@ -26839,6 +26923,7 @@ Titus County
 Tivat
 Tiwi Islands
 Tiznit
+Tiznit Province
 Tjeldsund
 Tjörn
 Tjøme
@@ -30234,6 +30319,7 @@ Yoshkar-Ola
 Yotoco
 Yotsukaido
 Young County
+Youssoufia Province
 Yozgat
 Yozgat Province
 Ypäjä
@@ -30336,6 +30422,7 @@ Zagan County
 Zagersdorf
 Zaghouan
 Zaghouan Governorate
+Zagora Province
 Zagorje ob Savi
 Zagra
 Zagreb
