@@ -1730,6 +1730,7 @@ Baños de la Encina
 Banov
 Banska Bystrica
 Banska Bystrica Region
+Banteay Meanchey Province
 Banten
 Bantice
 Bantul Regency
@@ -1913,6 +1914,7 @@ Batres
 Båtsfjord
 Batsümber
 Battalgazi
+Battambang Province
 Batticaloa
 Bättwil
 Batu
@@ -11962,6 +11964,11 @@ Kampen
 Kampenhout
 Kamphaeng Phet Province
 Kampinos commune
+Kampong Cham Province
+Kampong Chhnang Province
+Kampong Speu Province
+Kampong Thom Province
+Kampot Province
 Kamwenge District
 Kamyk
 Kamyk nad Vltavou
@@ -11974,6 +11981,7 @@ Kanazawa
 Kanchanaburi Province
 Kanda
 Kandalaksha
+Kandal Province
 Kandava
 Kandira
 Kandiyohi County
@@ -12406,6 +12414,7 @@ Kenzeg
 Keokuk County
 Kepez
 Kepno County
+Kep Province
 Kepsut
 Kepulauan Anambas Regency
 Kepulauan Bangka Belitung
@@ -12943,6 +12952,7 @@ Kohfidisch
 Kohila
 Kohila Parish
 Kohima
+Koh Kong Province
 Kohoku
 Kohoutov
 Kohtla-Järve
@@ -13401,6 +13411,7 @@ Krasov
 Krasova
 Krasyliv city
 Krasyliv district
+Kratié Province
 Kratochvilka
 Kratonohy
 Kratovo
@@ -17081,6 +17092,7 @@ Monchique
 Moncton
 Mondim de Basto
 Mondoñedo
+Mondulkiri Province
 Monfero
 Monforte
 Monforte de Lemos
@@ -19031,6 +19043,7 @@ Odai
 Odate
 Odawara
 Odda
+Oddar Meanchey Province
 Odemira
 Odemis
 Odense
@@ -19859,6 +19872,7 @@ Paide
 Paide Parish
 Päijät-Häme
 Paikuse Parish
+Pailin Province
 Pailitas
 Paillaco
 Pailly
@@ -21149,6 +21163,8 @@ Pravonin
 Práxedis G. Guerrero Municipality
 Prazmo
 Prazmow commune
+Preah Sihanouk Province
+Preah Vihear Province
 Preble County
 Prebold
 Preborov
@@ -21214,6 +21230,7 @@ Preveza
 Prévondavaux
 Prévonloup
 Prevysov
+Prey Veng Province
 Prezletice
 Prez-vers-Noréaz
 Pribice
@@ -21615,6 +21632,7 @@ Purísima
 Purkersdorf
 Purmerend
 Pursaklar
+Pursat Province
 Purwakarta Regency
 Purworejo Regency
 Pušća
@@ -22011,6 +22029,7 @@ Rastenfeld
 Raszyn commune
 Rataje
 Rataje nad Sazavou
+Ratanakiri Province
 Ratbor
 Ratchaburi Province
 Ratenice
@@ -24596,6 +24615,7 @@ Siemianowice Slaskie
 Siemiatycze County
 Siemien commune
 Siemkowice commune
+Siem Reap Province
 Siemysl commune
 Siennica commune
 Siennica Rozana commune
@@ -25925,6 +25945,7 @@ Stugun district
 Stuhlfelden
 Stumm
 Stummerberg
+Stung Treng Province
 Stupava
 Stupnik
 Sturbridge
@@ -26202,6 +26223,7 @@ Svaty Jan nad Malsi
 Svaty Jan pod Skalou
 Svaty Jiri
 Svaty Mikulas
+Svay Rieng Province
 Svebohov
 Svedala
 Svedasai
@@ -26483,6 +26505,7 @@ Takatsuki
 Takayama
 Takehara
 Takeo
+Takéo Province
 Taketa
 Taketomi
 Taketoyo
@@ -26723,6 +26746,7 @@ Tazacorte
 Taza Province
 Tazewell County
 Tbilisi
+Tboung Khmum Province
 Tczew County
 Tczow commune
 Tearce
@@ -26933,6 +26957,7 @@ Thaur
 Thaya
 Thayer County
 Thayngen
+Thebes
 The Big Five False Bay
 The Bronx
 Theewaterskloof
