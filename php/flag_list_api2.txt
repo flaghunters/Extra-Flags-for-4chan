@@ -2846,6 +2846,7 @@ Boden
 Bodensee District
 Bodilis
 Bodio
+Bodolz
 Bodrum
 Bodzanow commune
 Bodø
@@ -8412,6 +8413,7 @@ Gerterode
 Gert Sibande
 Gerze
 Geschwenda
+Gestratz
 Geta
 Getafe
 Gettnau
@@ -9082,6 +9084,7 @@ Gruna
 Grünbach am Schneeberg
 Grundlsee
 Grundy County
+Grünenbach
 Grüningen
 Grüsch
 Gruta commune
@@ -9802,6 +9805,7 @@ Heiligenstadt
 Heilongjiang
 Heiloo
 Heimbach
+Heimenkirch
 Heimertingen
 Heimschuh
 Heinfels
@@ -9896,6 +9900,8 @@ Herentals
 Herenthout
 Herford
 Herford District
+Hergatz
+Hergensweiler
 Hergiswil
 Hergiswil bei Willisau
 Heringen-Helme
@@ -14837,6 +14843,7 @@ Lindau
 Lindau District
 Lindberga district
 Lindenberg-Eichsfeld
+Lindenberg im Allgäu
 Lindesberg
 Lindesberg locality
 Lindesnes
@@ -15629,6 +15636,7 @@ Maia
 Maibara
 Maicao
 Maienfeld
+Maierhöfen
 Mailberg
 Maine
 Maine-et-Loire
@@ -18448,6 +18456,7 @@ Nomme
 Nong Bua Lamphu Province
 Nong Khai Province
 Nongoma
+Nonnenhorn
 Nonoava Municipality
 Nonoichi
 Nonthaburi Province
@@ -18961,6 +18970,7 @@ Oberperfuss
 Oberpfalz
 Oberpullendorf
 Oberpullendorf District
+Oberreute
 Oberrieden
 Oberriet
 Oberrohrdorf
@@ -19372,6 +19382,7 @@ Opatovice
 Opatovice nad Labem
 Opava
 Opava District
+Opfenbach
 Opfikon
 Opglabbeek
 Opinogora Gorna commune
@@ -20347,6 +20358,7 @@ Person County
 Personico
 Perstejn
 Perstorp
+Pertek
 Perth
 Perth (city)
 Perth and Kinross
@@ -22718,6 +22730,7 @@ Rotenburg District
 Rote Ndao Regency
 Rotenturm an der Pinka
 Roth District
+Röthenbach im Allgäu
 Rothenbrunnen
 Rothenburg
 Rothenfluh
@@ -23948,6 +23961,7 @@ Scheffleng
 Scheibbs
 Scheibbs District
 Scheiblingkirchen-Thernberg
+Scheidegg
 Scheifling
 Schelle
 Schellenberg
@@ -24646,6 +24660,7 @@ Siglap
 Sigless
 Siglistorf
 Sigmaringen District
+Sigmarszell
 Sigmundsherberg
 Signau
 Signy-Avenex
@@ -25731,6 +25746,7 @@ Stezyca commune
 St Helens
 Stichovice
 Stichtse Vecht
+Stiefenhofen
 Stihlice
 Stillwater County
 Stimlje
@@ -29657,6 +29673,7 @@ Wasseiges
 Wassen
 Wassenaar
 Wassenberg
+Wasserburg am Bodensee
 Wasserthaleben
 Wasterkingen
 Watarai
@@ -29722,6 +29739,7 @@ Weihai
 Weikendorf
 Weikersdorf am Steinfelde
 Weiler
+Weiler-Simmerberg
 Weiler zum Tuerm
 Weilheim-Schongau District
 Weimar
@@ -29741,6 +29759,7 @@ Weissenbach an der Triesting
 Weißenborn-Lüderode
 Weißenburg-Gunzenhausen District
 Weissenkirchen in der Wachau
+Weißensberg
 Weissensee
 Weissenstein
 Weissgerber
