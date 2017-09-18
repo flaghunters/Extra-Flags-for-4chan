@@ -310,6 +310,7 @@ Akershus
 Akhalgori
 Akhalkalaki
 Akhaltsikhe
+Akhaltsikhe Municipality
 Akhisar
 Akhmeta
 Aki
@@ -739,6 +740,7 @@ Ambla Parish
 Amblève
 Am Brahmetal
 Ambrolauri
+Ambrolauri Municipality
 Amden
 Ameland
 Amelia County
@@ -4927,6 +4929,7 @@ Chiang Mai Province
 Chiang Rai Province
 Chiapas
 Chiasso
+Chiatura
 Chiayi City
 Chiayi County
 Chiba
@@ -8962,6 +8965,7 @@ Gorenja Vas-Poljane
 Gorgier
 Gori
 Göriach
+Gori Municipality
 Gorinchem
 Gorišnica
 Görisried
@@ -9532,6 +9536,7 @@ Gure
 Gurevsk
 Gurgaon
 Gurgentepe
+Guria
 Guriezo
 Gurjaani
 Gurk
@@ -11251,6 +11256,7 @@ Imbabazane
 Imbabura Province
 Imeni Lazo District
 Imeni Poliny Osipenko District
+Imereti
 Imizu
 Immenstadt im Allgäu
 Immokalee Seminole Indian Reservation
@@ -12141,6 +12147,7 @@ Kakamigahara
 Kakanui
 Kakegawa
 Kakejcov
+Kakheti
 Kakhovka city
 Kakhovka district
 Kakinada
@@ -14159,6 +14166,7 @@ Kvasice
 Kvasiny
 Kvasnovice
 Kvedarna
+Kvemo Kartli
 Kvetna
 Kvetnice
 Kvicovice
@@ -17931,6 +17939,8 @@ Mtarfa
 Mthonjaneni
 Mtsensk
 Mtskheta
+Mtskheta Mtianeti
+Mtskheta Municipality
 Mtubatuba
 Muar
 Mucajaí
@@ -20394,6 +20404,7 @@ Ozorkow
 Ozorkow commune
 Ozu
 Ozurgeti
+Ozurgeti Municipality
 Ozyory
 Paamiut
 Pabenice
@@ -22421,6 +22432,7 @@ Raby
 Raca
 Rače-Fram
 Racetice
+Racha Lechkhumi and Kvemo Svaneti
 Rachanie commune
 Raciaz
 Raciazek commune
@@ -23923,6 +23935,7 @@ Sambreville
 Samburu County
 Samedan
 Samegawa
+Samegreli Zemo Svaneti
 Sammu
 Samnanger
 Samnaun
@@ -23935,6 +23948,7 @@ Sampson County
 Samsun Metropolitan Municipality
 Samsun Province
 Samtredia
+Samtskhe Javakheti
 Samuil
 Samukawa
 Samut Prakan Province
@@ -25128,6 +25142,7 @@ Shibuya
 Shichigahama
 Shichikashuku
 Shichinohe
+Shida Kartli
 Shiga Prefecture
 Shihoro
 Shiiba
@@ -27536,6 +27551,7 @@ Te Kuiti
 Telangana
 Telatyn commune
 Telavi
+Telavi Municipality
 Tel Aviv
 Telc
 Telde
@@ -27754,6 +27770,7 @@ Thrissur
 Throckmorton County
 Thuin
 Thulamela
+Thumbs.db
 Thun
 Thunder Bay
 Thunder Bay District
@@ -29193,6 +29210,7 @@ Vändra
 Vändra Parish
 Vänersborg
 Vang
+Vani
 Vaninsky District
 Van Metropolitan Municipality
 Vännäs
@@ -31966,6 +31984,7 @@ Zuchwil
 Zufikon
 Zufre
 Zugdidi
+Zugdidi Municipality
 Zuhres city
 Zuia
 Zuid-Holland
