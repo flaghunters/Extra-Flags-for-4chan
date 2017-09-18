@@ -144,6 +144,7 @@ Adolfo Gonzales Chaves Department
 Adra
 Adrspach
 Aduna
+Adur
 Adutiškis
 Adygea
 Aedermannsdorf
@@ -730,6 +731,7 @@ Amberg
 Amberg in Schwaben
 Amberg-Sulzbach District
 Amberley
+Amber Valley
 Ambite
 Ambla Parish
 Amblève
@@ -984,6 +986,7 @@ Appanoose County
 Appenrode
 Appenzell
 Appingedam
+Appleby-in-Westmorland
 Apples
 Appleton
 Apple Valley
@@ -1224,6 +1227,7 @@ Artvin
 Artvin Province
 Arue
 Arujá
+Arun
 Arunachal Pradesh
 Arundel
 Arvada
@@ -1497,6 +1501,7 @@ Aydintepe
 Ayent
 Ayer
 Ayeyarwady Region
+Aylesbury Vale
 Ayranci
 Ayrshire
 Aysén
@@ -1859,6 +1864,7 @@ Barnet
 Barneveld
 Barnim District
 Bärnkopf
+Barnsley
 Barnstable
 Barnstable County
 Barnwell County
@@ -2860,6 +2866,7 @@ Blora Regency
 Blouberg
 Blount County
 Blovice
+Bloxwich
 Blsany
 Blsany u Loun
 Blucina
@@ -3031,6 +3038,7 @@ Bolnisi
 Bologna
 Bolotnoe
 Bolshoy Kamen
+Bolsover
 Bolsterlang
 Bolton
 Bolu
@@ -3271,6 +3279,7 @@ Brabant-Wallon
 Bräcke
 Bräcke locality
 Bracken County
+Bracknell Forest
 Bradbury
 Braddan Parish
 Bradford
@@ -3374,6 +3383,7 @@ Brebes Regency
 Brecht
 Breckerfeld
 Breckinridge County
+Breckland
 Breclav
 Breclav District
 Brecqhou
@@ -3498,6 +3508,7 @@ Brniste
 Brno
 Brno-mesto District
 Brno-venkov District
+Broadland
 Broadwater County
 Broc
 Broceni
@@ -4039,6 +4050,7 @@ Caldas da Rainha
 Caldas Department
 Caldelas
 Caldera
+Calderdale
 Caldiran
 Caldono
 Caldwell
@@ -4061,6 +4073,7 @@ Callao Region
 Callaway
 Callaway County
 Calloway County
+Calne
 Caloocan
 Caloto
 Calumet County
@@ -4420,6 +4433,7 @@ Catania
 Cataño
 Catanzaro
 Catawba County
+Caterham
 Cat Island
 Catoira
 Catoosa County
@@ -4850,6 +4864,7 @@ Chertsey
 Cherven Bryag
 Chervonohrad city
 Chervonopartyzansk city
+Cherwell
 Chesapeake
 Cheseaux-Noréaz
 Cheseaux-sur-Lausanne
@@ -4892,6 +4907,7 @@ Chibu
 Chicago
 Chicago Heights
 Chichaoua Province
+Chichester
 Chichibu
 Chickamauga
 Chickasaw County
@@ -4926,6 +4942,7 @@ Chillán
 Chillán Viejo
 Chilliwack
 Chilmark
+Chiltern
 Chilton County
 Chimá
 Chimaltenango
@@ -5567,6 +5584,7 @@ Coray
 Corban
 Corbeyrier
 Corbières
+Corby
 Corcelles-Cormondrèche
 Corcelles-le-Jorat
 Corcelles-près-Concise
@@ -5732,11 +5750,13 @@ Crans-Montana
 Crans-près-Céligny
 Crassier
 Crato
+Craven
 Craven County
 Cravinhos
 Cravo Norte
 Crawford County
 Crawinkel
+Crawley
 Crcovice
 Crecente
 Creek County
@@ -5764,6 +5784,7 @@ Crna Trava
 Crockett County
 Crofton Downs
 Croglio
+Cromford
 Cromstrijen
 Cromwell
 Cronay
@@ -6059,6 +6080,7 @@ Davao del Norte
 Davao del Sur
 Davao Oriental
 Davenport
+Daventry
 Daverdisse
 David
 Davidson County
@@ -6194,6 +6216,7 @@ Derazhnia district
 Derbent
 Derby
 Derbyshire
+Derbyshire Dales
 Derby-West Kimberley
 Derecine
 Dereli
@@ -6623,6 +6646,7 @@ Donat
 Donaufeld
 Donau-Ries District
 Donaustadt District
+Doncaster
 Donceel
 Donduseni District
 Donetsk
@@ -6972,6 +6996,7 @@ East Arnhem
 East Baton Rouge Parish
 East Bridgewater
 East Brookfield
+East Cambridgeshire
 East Carroll Parish
 East Chicago
 East Coast-Fengshan
@@ -7004,10 +7029,12 @@ East Kootenay Regional District
 East Lampeter Township
 Eastland County
 Eastleigh
+East Lindsey
 East Longmeadow
 East Lothian
 East Lyme
 East New Britain Province
+East Northamptonshire
 Easton
 East Pilbara
 East Providence
@@ -7465,6 +7492,7 @@ Erechim
 Eregli
 Erenler
 Eretria
+Erewash
 Érezée
 Erfelek
 Erfurt
@@ -7643,6 +7671,7 @@ Evanston
 Evansville
 Evciler
 Evenes
+Evenley
 Evere
 Everett
 Evergem
@@ -7799,6 +7828,7 @@ Felsberg
 Fendalton
 Fendels
 Fene
+Fenland
 Fenoarivo Atsinanana
 Fentress County
 Feodosiya
@@ -7867,6 +7897,7 @@ Fillmore County
 Filyos
 Filzmoos
 Fiñana
+Finchley
 Findikli
 Finegand
 Fines
@@ -7940,6 +7971,7 @@ Fljótsdalshérað
 Flobecq
 Floda locality
 Floing
+Flore
 Floreffe
 Florence
 Florence County
@@ -9111,6 +9143,7 @@ Greater Tzaneen
 Greater Vancouver Regional District
 Great Kei
 Great Southern
+Great Yarmouth
 Grebkow commune
 Grebocice commune
 Greboszow commune
@@ -9674,6 +9707,7 @@ Hamanaka
 Hamar
 Hamatonbetsu
 Hamblen County
+Hambleton
 Hambol Region
 Hamburg
 Hamden
@@ -9805,6 +9839,7 @@ Harrisburg
 Harris County
 Harrisonburg
 Harrison County
+Harrogate
 Harrow
 Härryda
 Harry Gwala
@@ -10235,6 +10270,7 @@ Highland
 Highland County
 Highlands County
 Highlands District
+High Peak
 Higuera de Calatrava
 Higuera de las Dueñas
 Higuera de la Sierra
@@ -12715,6 +12751,7 @@ Ketchikan
 Ketchikan Gateway Borough
 Ketkovice
 Ketrzyn County
+Kettering
 Kettershausen
 Kety
 Keuruu
@@ -12863,6 +12900,7 @@ Kinda
 Kindberg
 Kineshma
 King
+King's Lynn & West Norfolk
 King and Queen County
 Kingborough
 King County
@@ -12880,6 +12918,7 @@ Kingston
 Kingston Parish
 Kingston upon Hull
 Kingston upon Thames
+Kingswinford
 King William County
 Kinik
 Kinko
@@ -12928,6 +12967,7 @@ Kirkkonummi
 Kirkland
 Kirklareli
 Kirklareli Province
+Kirklees
 Kirkop
 Kirnberg an der Mank
 Kirov
@@ -14696,6 +14736,7 @@ Ledyard
 Lee
 Leech Lake Indian Reservation
 Lee County
+Leeds
 Leeds and Grenville United Counties
 Leek
 Leelanau County
@@ -16942,6 +16983,7 @@ Middleborough
 Middlebury
 Middlefield
 Middlemarch
+Middlesborough
 Middlesex County
 Middleton
 Middletown
@@ -16954,6 +16996,7 @@ Mid North Coast
 Midori
 Midoun
 Midsund
+Midsussex
 Midtjylland
 Midvaal
 Midway
@@ -17083,6 +17126,7 @@ Mils bei Imst
 Milson
 Miltenberg District
 Milton
+Milton Keynes
 Milvignes
 Milwaukee
 Milwaukee County
@@ -18396,6 +18440,7 @@ Nendaz
 Nenets Autonomous Area
 Nengsen
 Nenkovice
+Nenthead
 Nenzing
 Nenzlingen
 Neosho County
@@ -18907,7 +18952,9 @@ North Devon
 North District
 North Dorset
 North East
+North East Derbyshire
 North-East District
+North East Lincolnshire
 Northeim District
 Northern Areas
 Northern Beaches
@@ -18933,11 +18980,14 @@ North Hempstead
 North Hertfordshire
 North Hwanghae Province
 North Kazakhstan Region
+North Kesteven
 North Kurdufan State
 Northland Region
 North Lauderdale
+North Lincolnshire
 North Little Rock
 North Nicosia
+North Norfolk
 North Okanagan Regional District
 North Ossetia-Alania
 North Pole
@@ -20873,6 +20923,7 @@ Pettneu am Arlberg
 Petzenkirchen
 Peumo
 Pevek
+Pewsey
 Peymeinade
 Pfäfers
 Pfaffenhausen
@@ -22584,6 +22635,7 @@ Recz commune
 Reczno commune
 Red Bay
 Redbridge
+Redcar & Cleveland
 Red Deer
 Redding
 Redditch
@@ -22823,6 +22875,7 @@ Richland Parish
 Richmond
 Richmond County
 Richmond Hill
+Richmondshire
 Richmond upon Thames
 Richmond Valley
 Richtersveld
@@ -23208,6 +23261,7 @@ Rothenbrunnen
 Rothenburg
 Rothenfluh
 Rothenthurm
+Rotherham
 Röthis
 Rothneusiedl
 Rothrist
@@ -23421,6 +23475,7 @@ Rychnov na Morave
 Rychnov u Jablonce nad Nisou
 Rychvald
 Ryde
+Ryedale
 Ryglice
 Ryki commune
 Ryki County
@@ -24414,6 +24469,7 @@ Sazomin
 Sazovice
 Sbiba
 Sbikha
+Scarborough
 Scenic Rim
 Schaan
 Schachendorf
@@ -24686,6 +24742,7 @@ Sekovici municipality
 Sekowa commune
 Selangor
 Selbu
+Selby
 Selcikler
 Selcuk
 Selcuklu
@@ -25463,6 +25520,7 @@ Slonsk commune
 Slope County
 Slopne
 Slopnice commune
+Slough
 Sloup
 Sloupnice
 Sloupno
@@ -25793,12 +25851,15 @@ South Australia
 South Bend
 Southborough
 Southbridge
+South Bucks
 South Burnett
 Southbury
+South Cambridgeshire
 South Carolina
 South Cotabato
 South Dakota
 South Delhi
+South Derbyshire
 South Dublin
 South East
 South-East District
@@ -25823,13 +25884,18 @@ South Governorate
 South Hadley
 South Hamgyong Province
 South Hams
+South Holland
 South Hwanghae Province
 Southington.jpg
 South Kazakhstan Region
+South Kesteven
 South Kurdufan State
 South Lakeland
 Southland District
 Southland Region
+South Norfolk
+South Northamptonshire
+South Oxfordshire
 South Pasadena
 South Perth
 South Pyongan Province
@@ -26016,6 +26082,7 @@ Stafford County
 Staffordshire
 Staffordshire Moorlands
 Stahlavy
+Staining
 Stainz
 Staj
 Stakhanov city
@@ -28910,6 +28977,7 @@ Valencia
 Valencia County
 Valenciennes
 Vale of Glamorgan
+Vale of White Horse
 Våler
 Valera
 Valeyres-sous-Montagny
@@ -30387,6 +30455,7 @@ Wellesley
 Wellesteen
 Wellfleet
 Wellin
+Wellingborough
 Wellington
 Wellington Central
 Wellington County
@@ -30433,6 +30502,7 @@ West Bank
 West Baton Rouge Parish
 West Bay
 West Bengal
+West Berkshire
 Westborough
 West Boylston
 West Bridgewater
@@ -30482,6 +30552,7 @@ West Lancashire
 Westland
 Westland District
 Westlich Raron
+West Lindsey
 West Lothian
 West Maas en Waal
 West Melbourne
@@ -30499,6 +30570,7 @@ Westonaria
 Weston County
 Weston Creek
 Westonia
+West Oxfordshire
 West Palm Beach
 West Pokot County
 Westport
@@ -30708,6 +30780,7 @@ Windischholzhausen
 Windischleuba
 Windmühle
 Windsor
+Windsor and Maidenhead
 Windsor County
 Windsor Heights
 Windsor Locks
@@ -30791,6 +30864,7 @@ Wojnicz
 Wojslawice commune
 Woking
 Woking (town)
+Wokingham
 Wola Krzysztoporska commune
 Wola Myslowska commune
 Wölbling
@@ -30872,6 +30946,7 @@ Wörschach
 Wortegem-Petegem
 Wörterberg
 Worth County
+Worthing
 Worthington
 Woudenberg
 Woudrichem
@@ -30915,6 +30990,7 @@ Wyandot County
 Wyandotte County
 Wyandotte Nation
 Wychavon
+Wycombe
 Wymiarki commune
 Wyndham
 Wyndham-East Kimberley
