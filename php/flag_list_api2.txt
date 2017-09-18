@@ -326,6 +326,7 @@ Akkisla
 Akköl
 Akkus
 Aklan
+Aklavik
 Akmene
 Akmene District Municipality
 Akmola Region
@@ -2142,6 +2143,7 @@ Begonte
 Behamberg
 Beharov
 Beharovice
+Behchokǫ̀
 Beheira Governorate
 Beijing
 Beinwil
@@ -5495,6 +5497,7 @@ Cole County
 Colegiales
 Coleman County
 Coles County
+Coleville Lake
 Colfax County
 Colfontaine
 Colima
@@ -6204,6 +6207,7 @@ Deggendorf District
 Degtyarsk
 Degučiai
 De Haan
+Dehcho Region
 Dehesas de Guadix
 Dehesas Viejas
 Dehiwala-Mount Lavinia
@@ -6226,6 +6230,7 @@ Delhi
 Delice
 Delicias
 Delicias Municipality
+Deline
 Dellach
 Dellach im Drautal
 Delley-Portalban
@@ -6326,6 +6331,7 @@ Detrichov
 Detrichov nad Bystrici
 Detrichov u Moravske Trebove
 Detroit
+Dettah
 Deuel County
 Deuna
 Deurne
@@ -8137,12 +8143,18 @@ Fort Berthold Indian Reservation
 Fort Bragg
 Fort Collins
 Fort-de-France
+Fort Good Hope
 Fort Lauderdale
+Fort Liard
+Fort McPherson
 Fort Pierce Seminole Indian Reservation
+Fort Providence
+Fort Resolution
 Fortrose
 Fort Saskatchewan
 Fort Scott
 Fort-Shevchenko
+Fort Simpson
 Fort Smith
 Fort St. James
 Fort St. John
@@ -8473,6 +8485,7 @@ Gamarra
 Gambarogno
 Gambela Region
 Gambier Islands
+Gameti
 Gámeza
 Gaming
 Gamlitz
@@ -10087,6 +10100,7 @@ Hayle
 Haymana
 Haynrode
 Hayrabolu
+Hay River
 Hays County
 Hayward
 Haywood County
@@ -11394,6 +11408,8 @@ Instinción
 Inta
 Interlaken
 Intsika Yethu
+Inuvik
+Inuvik Region
 Inuyama
 Invercargill
 Inverell
@@ -11794,6 +11810,7 @@ Jay County
 Jayena
 Jayuya
 Jazan
+Jean Marie River
 Jeddah
 Jedenspeigen
 Jedla
@@ -12191,6 +12208,7 @@ Kakheti
 Kakhovka city
 Kakhovka district
 Kakinada
+Kakisa
 Kakogawa
 Kakolewnica commune
 Kakuda
@@ -15904,6 +15922,7 @@ Luton
 Lutonina
 Lutopecny
 Lutry
+Lutselk'e
 Lutsk city
 Lutsk district
 Lutter
@@ -18263,6 +18282,7 @@ Nagua
 Naguabo
 Naguanagua
 Naha
+Nahanni Butte
 Nahant
 Nahari
 Nahorany
@@ -19069,6 +19089,7 @@ Norman
 Norman County
 Normandia
 Normandie
+Norman Wells
 Norosí
 Norrahammar district
 Norrala district
@@ -19155,6 +19176,7 @@ North Reading
 North Saanich District
 North Shore Ward
 North Sinai Governorate
+North Slave Region
 North Slope Borough
 North Somerset
 North Stonington
@@ -20785,6 +20807,7 @@ Patumahoe
 Pau
 Paudex
 Paudorf
+Paulatuk
 Paulding County
 Paulista
 Pauna
@@ -23759,6 +23782,7 @@ Sachsen
 Sachsen-Anhalt
 Sachsenbrunn
 Sachsenburg
+Sachs Harbour
 Sächsische Schweiz-Osterzgebirge District
 Sackville
 Sacramento
@@ -23798,6 +23822,7 @@ Saguenay
 Saguenay-Lac-Saint-Jean
 Sahagún
 Sahinbey
+Sahtu Region
 Sahuaripa
 Sahuaripa Municipality
 Sai
@@ -24014,6 +24039,7 @@ Samar
 Samara
 Samara Region
 Samarqand
+Sambaa K'e
 Sambir city
 Sambir district
 Sambreville
@@ -26122,6 +26148,7 @@ South Perth
 South Pyongan Province
 South Ribble
 South Sinai Governorate
+South Slave Region
 South Somerset
 South Staffordshire
 South St Paul
@@ -28494,6 +28521,7 @@ Tschanigraben
 Tschappina
 Tschiertschen-Praden
 Tseel
+Tsiigehtchic
 Tskaltubo
 Tsolwana
 Tsu
@@ -28564,6 +28592,7 @@ Tuhelj
 Tui
 Tuineje
 Tujetsch_Sedrun
+Tuktoyaktuk
 Tukums
 Tula
 Tulalip Indian Reservation
@@ -28576,6 +28605,7 @@ Tulcea County
 Tulchyn city
 Tulchyn district
 Tulfes
+Tulita
 Tulkarem
 Tulle
 Tulln an der Donau
@@ -28881,6 +28911,7 @@ Ulster County
 Ulubey
 Uluborlu
 Uludere
+Ulukhaktok
 Ulundi
 Ulus
 Ulvik
@@ -30710,6 +30741,7 @@ Weitra
 Weiz
 Weiz District
 Wejherowo County
+Wekweti
 Weld County
 Wele-Nzas Province
 Welkenraedt
@@ -30891,6 +30923,7 @@ Wharton County
 Whataroa
 Whatcom County
 Whately
+Whatì
 Whau Local Board
 Wheatbelt
 Wheatland County
@@ -31229,6 +31262,7 @@ Wrentham
 Wrexham
 Wreys Bush
 Wright County
+Wrigley
 Wroblew commune
 Wroclaw City
 Wroclaw County
