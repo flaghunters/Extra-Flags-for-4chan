@@ -1,3 +1,4 @@
+'Amran
 100 Mile House District
 A'ana District
 Aachen
@@ -70,6 +71,7 @@ Abtsbessingen
 Abtwil
 Abu
 Abu Dhabi
+Abyan
 Acacias
 Acadia Municipal District
 Acadia Parish
@@ -129,6 +131,7 @@ Adelaide
 Adelaide Hills
 Adelanto
 Adélie Land
+Aden
 Aderklaa
 Adigeni
 Adilcevaz
@@ -396,6 +399,7 @@ Albany Ward
 Al Batinah North Governorate
 Al Batinah South Governorate
 Albay
+Al Bayda
 Alb-Donau District
 Albeck
 Albemarle County
@@ -522,6 +526,7 @@ Al-Hasakah Governorate
 Alhendín
 Al Hoceima
 Al Hoceïma Province
+Al Hudaydah
 Aliaga
 Alibunar
 Alicante
@@ -532,6 +537,7 @@ Alijó
 Alimos
 Alingsås
 Aljaraque
+Al Jawf
 Aljezur
 Aljunied-Hougang
 Aljustrel
@@ -570,6 +576,8 @@ Alma
 Almada
 Almagro
 Almaguer
+Al Mahrah
+Al Mahwit
 Almalagues
 Almaty
 Almaty Region
@@ -719,6 +727,7 @@ Amalfi
 Amaliendorf-Aalfang
 Amambay Department
 Amami
+Amanat Al Asimah
 Amapá
 Amarante
 Amares
@@ -6372,6 +6381,8 @@ Dewey County
 DeWitt County
 De Wolden
 Dhaka
+Dhale
+Dhamar
 Dhanbad
 Dhanpuri
 Dhofar Governorate
@@ -9715,6 +9726,7 @@ Hadiach city
 Hadiach district
 Hadim
 Hadley
+Hadramaut
 Hadres
 Hadsel
 Haebaru
@@ -9759,6 +9771,7 @@ Hajdu-Bihar County
 Haje
 Hajeb el Ayoun
 Hajek
+Hajjah
 Hajnice
 Hajnowka County
 Haj u Duchcova
@@ -11183,6 +11196,7 @@ Ibaraki
 Ibaraki Prefecture
 Ibarra
 Ibarrangelu
+Ibb
 Iberia Parish
 Iberville Parish
 Ibestad
@@ -14449,6 +14463,7 @@ La Habra Heights
 Laheda Parish
 Lahiguera
 La Higuera
+Lahij
 La Hiruela
 Lahn-Dill District
 Laholm
@@ -16018,6 +16033,7 @@ Lyubertsy
 Lyudinovo
 Lørenskog
 M'diq-Fnideq Prefecture
+Ma'rib
 Maardu
 Maarkedal
 Maasdriel
@@ -22842,6 +22858,7 @@ Rawson
 Raxendorf
 Raychikhinsk
 Ray County
+Raymah
 Raymond
 Raynham
 Rayón
@@ -23765,6 +23782,7 @@ Rzhev
 Rzhyshchiv city
 Rødøy
 Røst
+Sa'dah
 Saalbach-Hinterglemm
 Saale District
 Saale-Holzland District
@@ -24103,6 +24121,7 @@ Samukawa
 Samut Prakan Province
 Samut Sakhon Province
 Samut Songkhram Province
+Sana'a
 San Adrián
 Sanagochi
 San Agustín
@@ -25219,6 +25238,7 @@ Sfax
 Sfax Governorate
 Shaanxi
 Shabla
+Shabwah
 Shackelford County
 Shadrinsk
 Shah Alam
@@ -25933,6 +25953,7 @@ Sochocin commune
 Society Islands
 Socorro County
 Socotá
+Socotra
 Sodegaura
 Söderala district
 Söderbärke district
@@ -27382,6 +27403,7 @@ Taito
 Taitung County
 Taivassalo
 Taiwa
+Taiz
 Tajerouine
 Tajimi
 Tajiri
