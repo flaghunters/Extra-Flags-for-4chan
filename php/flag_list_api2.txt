@@ -1,4 +1,5 @@
 100 Mile House District
+A'ana District
 Aachen
 Aachen Region
 Aadorf
@@ -248,6 +249,7 @@ Aibonito
 Aich
 Aichach-Friedberg District
 Aichi Prefecture
+Aiga-i-le-Tai District
 Aigen im Ennstal
 Aigina
 Aigle
@@ -584,6 +586,7 @@ Almonaster la Real
 Almonte
 Almuñécar
 Alo
+Alofi
 Aloja
 Alojzov
 Alor Regency
@@ -1383,6 +1386,7 @@ Attert
 Attica
 Attinghausen
 Attleboro
+Atua District
 Åtvidaberg
 Atyrau
 Atyrau Region
@@ -1451,6 +1455,7 @@ Auvergne-Rhône-Alpes
 Auw
 Avalon
 Avanos
+Avatele
 Avcilar
 Avdan
 Avdiivka city
@@ -7792,6 +7797,7 @@ Ežerelis
 Ezine
 Ezinqoleni
 Ezzahra
+Fa'asaleleaga District
 Faaa
 Faaborg-Midtfyn
 Fabianki commune
@@ -8444,6 +8450,8 @@ Gadsden County
 Gadzin Han
 Gafsa
 Gafsa Governorate
+Gaga'emauga District
+Gaga'ifomauga District
 Găgăuzia
 Gage County
 Gagetown
@@ -10410,6 +10418,7 @@ Hikari
 Hikawa
 Hikone
 Hikurangi
+Hikutavake
 Hildburghausen
 Hildburghausen District
 Hilden
@@ -14474,6 +14483,7 @@ Lakeland
 Lake Macquarie
 Lake Mountain
 Lake of the Woods County
+Lakepa
 Lake Park
 Lake Quivira
 Lake Vermilion Indian Reservation
@@ -15293,6 +15303,7 @@ Lihula Parish
 Lija
 Líjar
 Lika-Senj County
+Liku
 Lilienfeld
 Lilienfeld District
 Lilla Edet
@@ -16183,6 +16194,7 @@ Makassar
 Makatea
 Makedonska Kamenica
 Makedonski Brod
+Makefu
 Maketu
 Makhachkala
 Makhado
@@ -18169,6 +18181,7 @@ Mustvee
 Muswellbrook
 Muszyna
 Muta
+Mutalau
 Mutale
 Mutare
 Mutatá
@@ -18367,6 +18380,7 @@ Namiquipa Municipality
 Namlos
 Nampula
 Nampula Province
+Namukulu
 Namur
 Namur (city)
 Namyslow County
@@ -20583,6 +20597,7 @@ Palana
 Palandoken
 Palanga
 Pala Parish
+Palauli District
 Palawan
 Palayan
 Paldau
@@ -24681,6 +24696,7 @@ Satteins
 Sattel
 Satu Mare County
 Satun Province
+Satupa'itea District
 Saubraz
 Saucillo
 Saucillo Municipality
@@ -27436,6 +27452,7 @@ Taltal
 Tama
 Tama County
 Tamahere
+Tamakautoga
 Tamakawa
 Tamaki
 Tamalameque
@@ -28082,6 +28099,7 @@ Toguchin
 Togüí
 Toho
 Tohoku
+Toi
 Toila Parish
 Toin
 Toivakka
@@ -28580,7 +28598,9 @@ Tsuyama
 Tswaing
 Tswelopele
 Tuakau
+Tuamasaga District
 Tuamotu Islands
+Tuapa
 Tuatapere
 Tübach
 Tuban Regency
@@ -29206,6 +29226,7 @@ Uzunkopru
 Užventis
 Uzwil
 Uzyn city
+Va'a-o-Fonoti District
 Vaals
 Väätsa Parish
 Vabalninkas
@@ -29230,9 +29251,11 @@ Vagharshapat
 Vagos
 Vågsøy
 Vágur
+Vaiea
 Väike-Maarja Parish
 Vainode
 Vainutas
+Vaisigano District
 Vaivara Parish
 Vakfikebir
 Vakinankaratra Region
