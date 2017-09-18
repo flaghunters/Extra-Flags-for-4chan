@@ -1076,6 +1076,7 @@ Archlebov
 Archuleta County
 Arconciel
 Arcos de Valdevez
+Arctic Bay
 Ardabil
 Ardagger
 Ardahan
@@ -1240,6 +1241,7 @@ Arun
 Arunachal Pradesh
 Arundel
 Arvada
+Arviat
 Arvidsjaur
 Arvika
 Arys
@@ -1683,6 +1685,7 @@ Baker
 Baker Brook
 Baker County
 Baker Island
+Baker Lake
 Bakersfield
 Bakhchysarai
 Bakhchysarai district
@@ -4142,6 +4145,7 @@ Camboriú
 Cambre
 Cambria County
 Cambridge
+Cambridge Bay
 Cambridge-Narrows
 Cambridgeshire
 Camdeboo
@@ -4287,6 +4291,7 @@ Cape Agulhas
 Cape Bojador
 Cape Breton Region
 Cape Coral
+Cape Dorset
 Cape Girardeau County
 Capel
 Capelle aan den IJssel
@@ -4934,6 +4939,7 @@ Chester
 Chester County
 Chesterfield
 Chesterfield County
+Chesterfield Inlet
 Chestermere
 Chestertown
 Chetopa
@@ -5643,6 +5649,7 @@ Coquimbo
 Coquimbo Region
 Coquitlam
 Coral Gables
+Coral Harbour
 Coral Sea Islands
 Coral Springs
 Corangamite
@@ -8809,6 +8816,7 @@ Gizycko County
 Gjerdrum
 Gjerstad
 Gjirokastër County
+Gjoa Haven
 Gjorče Petrov
 Glabbeek
 Glacier County
@@ -9333,6 +9341,7 @@ Grinzens
 Grinzing
 Grise Fiord
 Griškabūdis
+Griss Fiord
 Griswold
 Grobbendonk
 Grobina
@@ -9783,6 +9792,7 @@ Halkapinar
 Hall
 Halland County
 Hallau
+Hall Beach
 Hall County
 Halle
 Halle an der Saale
@@ -11215,6 +11225,7 @@ Iga
 Igarka
 Igdir
 Igdir Province
+Igloolik
 Ignacio Zaragoza Municipality
 Ignalina District Municipality
 Igneada
@@ -13029,6 +13040,7 @@ Kimble County
 Kimbolton
 Kimino
 Kimitsu
+Kimmirut
 Kimobetsu
 Kimotsuki
 Kimovsk
@@ -14051,6 +14063,8 @@ Kudus Regency
 Kudymkar
 Kufstein
 Kufstein District
+Kugaaruk
+Kugluktuk
 Kuhmoinen
 Kujalleq
 Kujavy
@@ -18464,6 +18478,7 @@ Natuna Regency
 Nauders
 Nauendorf
 Naugatuck
+Naujaat
 Naujoji Akmene
 Naujoji Ūta
 Naukseni
@@ -20642,6 +20657,7 @@ Panevežys County
 Panevežys District Municipality
 Pangandaran Regency
 Pangasinan
+Pangnirtung
 Panguipulli
 Panipat
 Panjshir Province
@@ -21612,6 +21628,7 @@ Pomy
 Ponatahi
 Ponce
 Pondera County
+Pond Inlet
 Ponedera
 Ponetovice
 Ponga
@@ -22424,6 +22441,7 @@ Qena Governorate
 Qeqertarsuaq
 Qeqqata
 Qikiqtaaluk Region
+Qikiqtarjuaq
 Qingdao
 Qinghai
 Qom
@@ -22722,6 +22740,7 @@ Rangiroa
 Rangitikei District
 Ranilug
 Rankin County
+Rankin Inlet
 Rankoshi
 Rankovce
 Rankweil
@@ -24172,6 +24191,7 @@ San Ignacio de Velasco
 San Ignacio Province
 San Ignacio Río Muerto
 San Ignacio Río Muerto Municipality
+Sanikiluaq
 Sanilac County
 San Isidro
 San Isidro Department
@@ -27410,6 +27430,7 @@ Tallinn
 Talne city
 Talne district
 Talofofo
+Taloyoak
 Talsi
 Taltal
 Tama
@@ -30919,6 +30940,7 @@ Wezembeek-Oppem
 Whakamaru
 Whakarongo
 Whakatane District
+Whale Cove
 Whangamata
 Whanganui District
 Whangaparaoa Peninsula
