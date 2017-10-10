@@ -72,6 +72,8 @@ Abtsbessingen
 Abtwil
 Abu
 Abu Dhabi
+Abu Ghosh
+Abu Sinan
 Abyan
 Acacias
 Acadia Municipal District
@@ -171,6 +173,7 @@ Affoltern bei Zürich
 Åfjord
 Aflenz
 Afritz am See
+Afula
 Afyonkarahisar
 Afyonkarahisar Province
 Aga
@@ -401,6 +404,7 @@ Albany County
 Albany Ward
 Al Batinah North Governorate
 Al Batinah South Governorate
+al-Batuf
 Albay
 Al Bayda
 Alb-Donau District
@@ -502,6 +506,7 @@ Alexeyevsky District
 Alfacar
 Alfalfa County
 Alfândega da Fé
+Alfei Menashe
 Alford
 Alfoz de Lloredo
 Alfred Nzo
@@ -545,6 +550,7 @@ Al Jawf
 Aljezur
 Aljunied-Hougang
 Aljustrel
+Al-Kasom
 Alken
 Al Khor & Dhekra Municipality
 Al-Khums
@@ -601,6 +607,7 @@ Alo
 Alofi
 Aloja
 Alojzov
+Alona
 Alor Regency
 Alor Setar
 Alosno
@@ -1026,6 +1033,8 @@ Apurímac Region
 Aquiles Serdán Municipality
 Aquinnah
 Aquitania
+Ar'ara
+Ar'arat an-Naqab
 Araba
 Arabako Lautadako Region
 Araban
@@ -1150,6 +1159,7 @@ Arico
 Arida
 Aridagawa
 Ariège
+Ariel
 Arifegazili
 Arifiye
 Ariguaní
@@ -1220,6 +1230,7 @@ Arouca
 Aro Valley
 Arpacay
 Arquillos
+Arraba
 Arraia-Maeztu
 Arraiolos
 Arratzua-Ubarrundia
@@ -1559,6 +1570,7 @@ Azilal
 Azilal Province
 Aziziye
 Azkoitia
+Azor
 Azov
 Azpeitia
 Azua de Compostela
@@ -1850,6 +1862,7 @@ Banyule
 Banyumas Regency
 Banyuwangi Regency
 Ba-Phalaborwa
+Baqa El-Gharbiyye
 Bar
 Barabinsk
 Baraga County
@@ -1983,7 +1996,9 @@ Basingstoke and Deane
 Bas-Intyamon
 Basiskele
 Baska
+Basma
 Basmanny District
+Basmat Tab'un
 Basnice
 Bas-Rhin
 Bas-Saint-Laurent
@@ -2105,6 +2120,8 @@ Bayswater
 Bayview
 Baztan
 Bdeneves
+Be'er Tuvia
+Be'er Ya'akov
 Beacon Falls
 Beaconsfield
 Beadle County
@@ -2192,10 +2209,13 @@ Beira
 Beires
 Beirut
 Beirut Governorate
+Beit Dagan
 Beit Hanoun
 Beit Jala
+Beit Jann
 Beit Lahia
 Beit Sahour
+Beit Shemesh
 Beitunya
 Béiwen-Atert
 Beizama
@@ -2504,6 +2524,8 @@ Bestovice
 Betancuria
 Betania
 Betanzos
+Betar Illit
+Bet Arye-Ofarim
 Betéitiva
 Bethanie
 Bethany
@@ -2514,6 +2536,7 @@ Bethlehem
 Béthune
 Betim
 Betio
+Bet She'an
 Betsukai
 Bettendorf
 Bettenduerf
@@ -2631,6 +2654,7 @@ Bezverov
 Bhavnagar
 Bhopal
 Bhubaneswar
+Bi'ina
 Biala commune
 Bialaczow commune
 Biala Podlaska City
@@ -2714,6 +2738,7 @@ Biissen
 Bijeljina
 Bijelo Polje
 Bijotai
+Bik'at HaYarden
 Bikin
 Bikini Atoll
 Bikinsky District
@@ -2778,12 +2803,14 @@ Binn
 Binnenmaas
 Binningen
 Bintan Regency
+Binyamina-Giv'at Ada
 Biobío Region
 Bioggio
 Bioko Norte Province
 Bioko Sur Province
 Bioley-Magnoux
 Bioley-Orjulaz
+Bir al-Maksur
 Biratori
 Birch Hills
 Birch Hills County
@@ -2968,7 +2995,9 @@ Bluff
 Blumau-Neurisshof
 Blumenau
 Blyzniuky district
+Bnei Ayish
 Bnei Brak
+Bnei Shimon
 Boaco
 Boaco Department
 Boadilla del Monte
@@ -3520,6 +3549,7 @@ Bremerhaven
 Bremgarten
 Breña Alta
 Breña Baja
+Brenner
 Brennilis
 Brent
 Brentwood
@@ -3735,6 +3765,7 @@ Brzkov
 Brzozie commune
 Brzozow County
 Brønnøy
+Bu'eine Nujeidat
 Buada District
 Bubendorf
 Bubenec
@@ -3882,6 +3913,7 @@ Bünzen
 Buochs
 Buona Vista
 Bupyeong District
+Buq'ata
 Buraidah
 Burbank
 Bürchen
@@ -3972,6 +4004,7 @@ Bussigny-près-Lausanne
 Bussnang
 Bussy-Chardonney
 Bussy-sur-Moudon
+Bustan al-Marj
 Bustarviejo
 Bustehrad
 Bustillo de la Vega
@@ -4648,11 +4681,13 @@ Centar
 Centar Župa
 Centenario
 Centennial
+Center District
 Centerville
 Centovalli
 Central
 Central Administrative Area
 Central and Western District
+Central Arava
 Central Bedfordshire
 Central Bosnia Canton
 Central Coast
@@ -6102,6 +6137,7 @@ Dabrowa Tarnowska
 Dabrowa Tarnowska County
 Dabrowice commune
 Dabrowka commune
+Daburiyya
 Dachau District
 Dachsen
 Dachwig
@@ -6148,6 +6184,8 @@ Dalhousie
 Dalian
 Dalías
 Dalikow commune
+Daliyat al-Karmel
+Daliyat El-Karmel
 Dallam County
 Dallas
 Dallas County
@@ -6311,6 +6349,8 @@ Dehradun
 Dehylov
 Déifferdeng
 Deinze
+Deir al-Asad
+Deir Hanna
 Deitingen
 DeKalb County
 Delaware
@@ -6523,6 +6563,7 @@ Dily
 Dima
 Dimitrovgrad
 Dimmit County
+Dimona
 Dinan
 Dinant
 Dinar
@@ -6987,6 +7028,7 @@ Drogheda
 Drohobych city
 Drohobych district
 Drôme
+Drom HaSharon
 Dronten
 Drosendorf-Zissersdorf
 Drösing
@@ -7334,6 +7376,7 @@ Effingham
 Effingham County
 Effretikon
 Eflani
+Efrat
 Egerkingen
 Egg
 Egg an der Günz
@@ -7382,8 +7425,11 @@ Eigersund
 Eiheiji
 Eijsden-Margraten
 Eiken
+Eilabun
 Eilat
 Eindhoven
+Ein Mahil
+Ein Qiniyye
 Einsiedeln
 Eirunepe
 Eischoll
@@ -7408,6 +7454,7 @@ Ekiti State
 Eksjö
 Eksjö locality
 Ekurhuleni
+El'ad
 El Aguila
 El Ain
 El Álamo
@@ -7497,6 +7544,7 @@ Elizovo
 Elizovsky District
 El Jadida
 El Jadida Province
+Elkana
 Elk County
 El Kelâa des Sraghna
 El Kelâa des Sraghna Province
@@ -7568,6 +7616,7 @@ Elverum
 Elvillar
 El Viso
 Elwen
+Elyakhin
 El Zulia
 eMadlangeni
 Emakhazeni
@@ -7580,6 +7629,7 @@ Embrach
 Embu County
 Embu das Artes
 Emden
+Emek HaYarden
 Emerald
 Emery County
 Emet
@@ -7771,6 +7821,7 @@ Esen
 Esenler
 Esenyurt
 Esetce
+Eshkol
 Eskil
 Eskilstuna
 Eskipazar
@@ -7870,6 +7921,7 @@ Evansville
 Evciler
 Evenes
 Evenley
+Even Yehuda
 Evere
 Everett
 Evergem
@@ -7978,6 +8030,7 @@ Far North Queensland
 Faro
 Faro District
 Far West
+Fassuta
 Fastiv city
 Fastiv district
 Fatih
@@ -8632,6 +8685,7 @@ Gams bei Hieflau
 Gamstädt
 Gamvik
 Gandhinagar
+Ganei Tikva
 Gangbuk District
 Gangdong District
 Ganghwa District
@@ -8639,12 +8693,14 @@ Gangnam District
 Gangseo District
 Gangwon Province
 Gannawarra
+Gan Rave
 Gänsbrunnen
 Gänserndorf
 Gänserndorf District
 Ganshoren
 Gansingen
 Gansu
+Gan Yavne
 Gao Region
 Garachico
 Garafía
@@ -8744,6 +8800,8 @@ Geary County
 Geauga County
 Gebenstorf
 Gebze
+Gedera
+Gederot
 Gedersdorf
 Gedinne
 Gediz
@@ -8856,7 +8914,9 @@ Gevgelija
 Geyikceli
 Geyikli
 Geyve
+Gezer
 Gföhl
+Ghajar
 Ghajnsielem
 Ghanzi District
 Gharb
@@ -8886,6 +8946,7 @@ Gifu Prefecture
 Gigante
 Gijón
 Gila County
+Gilboa
 Gilchrist County
 Gildeskal
 Giles County
@@ -8936,6 +8997,8 @@ Gitlax̱t'aamiks
 Gitschtal
 Gitwinksihlkw
 Giurgiu County
+Giv'at Shmuel
+Giv'at Ze'ev
 Givatayim
 Givisiez
 Givrins
@@ -9065,6 +9128,7 @@ Gokceada
 Gokcebey
 Gokceyazi
 Goksun
+Golan
 Golbasi
 Golcuk
 Golcuv Jenikov
@@ -9753,6 +9817,7 @@ Gursu
 Gurtnellen
 Gurupi
 Gusev
+Gush Etzion
 Gusinje
 Gus-Khrustalny
 Güssing
@@ -9843,6 +9908,7 @@ Hackney
 Hacky
 Hadano
 Haddam
+Hadera
 Hadersdorf-Kammern
 Hadersdorf-Weidlingau
 Haderslev
@@ -9874,6 +9940,7 @@ Hagi
 Hahira
 Haidershofen
 Haifa
+Haifa District
 Hail
 Haiming
 Hainaut
@@ -10062,6 +10129,7 @@ Happyland
 Happy Valley
 Haputale
 Hara
+Har Adar
 Haralson County
 Haram
 Harana
@@ -10086,10 +10154,12 @@ Harelbeke
 Haren
 Harford County
 Harghita County
+Har Hebron
 Haría
 Harima
 Haringey
 Haringsee
+Harish
 Harjavalta
 Härjedalen
 Harjumaa
@@ -10269,6 +10339,7 @@ Hazel Dell
 Hazelton
 Hazelwood
 Hazlov
+Hazor HaGelilit
 Healdsburg
 Heard County
 Hearst
@@ -10293,6 +10364,7 @@ Heerlen
 Heers
 Heeze-Leende
 Hefenhofen
+Hefer Valley
 Heguri
 Heide District
 Heidelberg
@@ -10495,6 +10567,9 @@ Heusden
 Heusden-Zolder
 Heuthen
 Heuvelland
+Hevel Eilot
+Hevel Modi'in
+Hevel Yavne
 Heves County
 Hevlin
 Heyda
@@ -10724,6 +10799,7 @@ Hockley County
 Hodatsushimizu
 Hodejice
 Hodgeman County
+Hod HaSharon
 Hodice
 Hodiskov
 Hodkovice nad Mohelkou
@@ -10738,9 +10814,12 @@ Hoeselt
 Hof
 Hof am Leithaberge
 Hofamt Priel
+Hof Ashkelon
 Hof bei Salzburg
 Hof District
 Höfen
+Hof HaCarmel
+Hof HaSharon
 Höflein
 Höflein an der Hohen Wand
 Hofors
@@ -11263,7 +11342,9 @@ Huntly
 Huntsville
 Hunzenschwil
 Huon Valley
+Hura
 Hurdal
+Hurfeish
 Hurky
 Hürm
 Huron
@@ -11319,6 +11400,7 @@ Hyuga
 Hyvinkää
 Høyanger
 Høylandet
+I'billin
 Ialomita County
 Ialoveni
 Ialoveni District
@@ -11414,6 +11496,7 @@ Iki
 Ikizce
 Iklin
 Ikoma
+Iksal
 Ikskile
 Ikusaka
 Ikwezi
@@ -11468,6 +11551,7 @@ Ilowa commune
 Ilow commune
 Ilukste
 Ilulissat
+Ilut
 Ilz
 Ilza commune
 Ilztal
@@ -11482,6 +11566,7 @@ Imeni Lazo District
 Imeni Poliny Osipenko District
 Imereti
 Imizu
+Immanuel
 Immenstadt im Allgäu
 Immokalee Seminole Indian Reservation
 Impendle
@@ -11670,6 +11755,7 @@ Isère
 Iserlohn
 Isezaki
 Isfahan
+Isfiya
 Ishigaki
 Ishii
 Ishikari
@@ -11864,6 +11950,7 @@ Jackson
 Jackson County
 Jackson Parish
 Jacksonville
+Jadeidi-Makr
 Jadow commune
 Jaén
 Jaffna
@@ -11892,6 +11979,7 @@ Jalan Besar
 Jalan Kayu
 Jalapa Department
 Jalisco
+Jaljulia
 Jalubi
 Jalžabet
 Jambaló
@@ -11968,6 +12056,7 @@ Jastrzab commune
 Jastrzebia commune
 Jastrzebie-Zdroj
 Jasz-Nagykun-Szolnok County
+Jatt
 Jaun
 Jaunjelgava
 Jaunpiebalga
@@ -12060,6 +12149,7 @@ Jerramungup
 Jersey City
 Jersey County
 Jerusalem
+Jerusalem District
 Jerusalén
 Jerzens
 Jerzmanowa commune
@@ -12099,6 +12189,7 @@ Jezkovice
 Jezov
 Jezow commune
 Jezow Sudecki commune
+Jezreel Valley
 Jhansi
 Jharkhand
 Jiangsu
@@ -12149,6 +12240,8 @@ Jirikov
 Jirikovice
 Jirkov
 Jirny
+Jish
+Jisr az-Zarqa
 Jistebnice
 Jistebnik
 Jitkov
@@ -12241,6 +12334,7 @@ Juazeiro
 Juazeiro do Norte
 Jubaland
 Jüchen
+Judea and Samaria Area
 Judenau-Baumgarten
 Judenburg
 Judith Basin County
@@ -12248,6 +12342,7 @@ Juiz de Fora
 Jujuy Province
 Juliaca
 Julimes Municipality
+Julis
 Jumilla
 Jun
 Juncos
@@ -12293,6 +12388,7 @@ Kabadougou
 Kabaduz
 Kabale District
 Kabardino-Balkaria
+Kabul
 Kacanik
 Kacanovy
 Kačergine
@@ -12318,7 +12414,12 @@ Kadriye
 Kaduna State
 Kaerch
 Kaesong Industrial Region
+Kafar Qara
 Kafr el-Sheikh Governorate
+Kafr Kanna
+Kafr Manda
+Kafr Qasim
+Kafr Yasif
 Kaga
 Kagamiishi
 Kagamino
@@ -12739,6 +12840,7 @@ Karmelava
 Karmiel
 Karnal
 Karnataka
+Karnei Shomron
 Karnes County
 Karnice commune
 Kärnten
@@ -12838,10 +12940,12 @@ Kattankudy
 Katwijk
 Katy Wroclawskie commune
 Katzelsdorf
+Katzrin
 Kauai County
 Kauern
 Kaufbeuren
 Kaufman County
+Kaukab Abu al-Hija
 Kaukapakapa
 Kaumberg
 Kaunas
@@ -12938,6 +13042,7 @@ Kedgwick
 Kediri
 Kediri Regency
 Kedrovy
+Kedumim
 Kedzierzyn-Kozle
 Kedzierzyn-Kozle County
 Keel
@@ -12945,6 +13050,7 @@ Keelung City
 Keerbergen
 Keetmanshoop
 Kef
+Kefar Vradim
 Kefferhausen
 Kef Governorate
 Kegalle
@@ -13078,7 +13184,12 @@ Keweenaw County
 Keya Paha County
 Keys
 Key West
+Kfar Bara
+Kfar Kama
 Kfar Saba
+Kfar Shamryahu
+Kfar Tavor
+Kfar Yona
 Kgalagadi District
 Kgatelopele
 Kgatleng District
@@ -13309,7 +13420,20 @@ Kirsehir
 Kirsehir Province
 Kiruna
 Kirwee
+Kiryat Arba
+Kiryat Ata
+Kiryat Bialik
+Kiryat Ekron
 Kiryat Gat
+Kiryat Haim
+Kiryat Malakhi
+Kiryat Motzkin
+Kiryat Ono
+Kiryat Shmona
+Kiryat Shmuel
+Kiryat Tivon
+Kiryat Yam
+Kiryat Ye'arim
 Kiryu
 Kisarazu
 Kisela Voda
@@ -13318,6 +13442,7 @@ Kisii County
 Kiso (town)
 Kiso (village)
 Kisosaki
+Kisra-Sumei
 Kisumu County
 Kita
 Kitaaiki
@@ -13597,6 +13722,7 @@ Koka
 Kökar
 Kokasice
 Kokemäki
+Kokhav Ya'ir
 Koknese
 Kokonoe
 Kokorin
@@ -14388,6 +14514,7 @@ Kurunegala
 Kusa
 Kusadasi
 Kusatsu
+Kuseife
 Kusel District
 Kushima
 Kushimoto
@@ -14682,6 +14809,8 @@ Lakeview
 Lakeville
 Lakewood
 Lake Zurich
+Lakhish
+Lakiya
 Lakshadweep
 Laktasi municipality
 Lalapasa
@@ -15134,6 +15263,7 @@ Legnica City
 Legnica County
 Legnickie Pole commune
 Le Goulet
+Lehavim
 Le Havre
 Lehigh County
 Leiben
@@ -15347,6 +15477,7 @@ Leuze-en-Hainaut
 Le Vaud
 Leverett
 Leverkusen
+Lev HaSharon
 Levin
 Levinska Olesnice
 Lévis
@@ -15739,6 +15870,7 @@ Locquirec
 Locronan
 Loctudy
 Locunolé
+Lod
 Loddon
 Loddon Mallee
 Lodenice
@@ -15747,6 +15879,7 @@ Lodherov
 Lodi
 Lodin
 Lodosa
+Lod Valley
 Lodz City
 Lodzkie Voivodeship
 Lodz Wschodnia County
@@ -15968,6 +16101,7 @@ Lovrenc na Pohorju
 Lowell
 Lower Brule Indian Reservation
 Lower Eyre Peninsula
+Lower Galilee
 Lower Hutt
 Lower Hutt (city)
 Lower Murray River
@@ -16230,6 +16364,11 @@ Lyublino District
 Lyudinovo
 Lørenskog
 M'diq-Fnideq Prefecture
+Ma'ale Adummim
+Ma'ale Efraim
+Ma'ale Iron
+Ma'ale Yosef
+Ma'alot-Tarshiha
 Ma'rib
 Maardu
 Maarkedal
@@ -16336,6 +16475,7 @@ Magelang Regency
 Mägenwil
 Magetan Regency
 Maggia
+Maghar
 Magliaso
 Magnitogorsk
 Magnuszew commune
@@ -16390,6 +16530,8 @@ Maizuru
 Majadahonda
 Majalengka Regency
 Majdalena
+Majd al-Krum
+Majdal Shams
 Majdan
 Majdanpek
 Majetin
@@ -16883,6 +17025,7 @@ Maryland
 Maryland County
 Marz
 Marzahn-Hellersdorf
+Mas'ade
 Masaki
 Masandra
 Masaya
@@ -16940,6 +17083,7 @@ Mátape
 Mataram
 Matatiele
 Mataura
+Mateh Binyamin
 Matejov
 Mateur
 Mathod
@@ -16974,6 +17118,8 @@ Matsuura
 Matsuyama
 Matsuzaki
 Mattapoisett
+Matte Asher
+Matteh Yehuda
 Mattersburg
 Mattersburg District
 Matthews
@@ -17038,8 +17184,10 @@ Mažeikiai
 Mažeikiai District Municipality
 Mazgirt
 Mazidagi
+Mazkeret Batya
 Mažonai
 Mazowieckie Voivodeship
+Mazra'a
 Mazsalaca
 Mbabane
 Mbhashe
@@ -17141,6 +17289,8 @@ Meeting Lake
 Meeuwen-Gruitrode
 Meggen
 Meghalaya
+Megiddo
+Megilot Dead Sea
 Megion
 Megrine
 Meguro
@@ -17155,6 +17305,7 @@ Meise
 Meiseldorf
 Meissen District
 Meisterschwanden
+Meitar
 Meito
 Meiwa
 Meix-devant-Virton
@@ -17212,6 +17363,7 @@ Meñaka
 Menameradiel
 Menany
 Menard County
+Menashe
 Mendaro
 Menden
 Menderes
@@ -17261,6 +17413,7 @@ Meremäe Parish
 Meremere
 Merenschwand
 Mergoscia
+Merhavim
 Meric
 Mérida
 Meriden
@@ -17276,6 +17429,7 @@ Merkezefendi
 Merkine
 Merklin
 Merksplas
+Merom HaGalil
 Merosina
 Merotin
 Merovice nad Hanou
@@ -17356,6 +17510,7 @@ Mettet
 Mettmann
 Mettmann District
 Mettmenstetten
+Metula
 Metylovice
 Metz
 Metzerlen
@@ -17363,6 +17518,9 @@ Meulebeke
 Meurthe-et-Moselle
 Meuse
 Meuselwitz
+Mevaseret Zion
+Mevo'ot HaHermon
+Mevo Hama
 Mex
 México
 Meyriez
@@ -17382,6 +17540,7 @@ Mezzovico-Vira
 Međimurje County
 Mgarr
 Mhlontlo
+Mi'ilya
 Mi'kmaq Nation
 Miaczyn commune
 Miami
@@ -17469,6 +17628,8 @@ Mieszkowice commune
 Mietkow commune
 Mifflin County
 Mifune
+Migdal
+Migdal HaEmek
 Miglieglia
 Migori County
 Miguel Hidalgo
@@ -17669,6 +17830,7 @@ Misato (town)
 Misawa
 Mischendorf
 Misery-Courtion
+Misgav
 Mishawaka
 Mishima
 Misiones Department
@@ -17720,6 +17882,7 @@ Mitterdorf an der Raab
 Mitterndorf an der Fischa
 Mittersill
 Mittleres Nessetal
+Mitzpe Ramon
 Miura
 Miyada
 Miyagi Prefecture
@@ -17786,6 +17949,8 @@ Moctezuma
 Moctezuma Municipality
 Modalen
 Modave
+Modi'in Illit
+Modi'in-Maccabim-Re'ut
 Modimolle
 Modlany
 Modletice
@@ -18573,9 +18738,12 @@ Nagua
 Naguabo
 Naguanagua
 Naha
+Nahal Sorek
 Nahanni Butte
 Nahant
 Nahari
+Nahariyya
+Nahf
 Nahorany
 Nahosovice
 Naie
@@ -18800,6 +18968,7 @@ Nayoro
 Naypyidaw
 Nazaré
 Nazareth
+Nazareth Illit
 Nazarje
 Nazilli
 Nazran
@@ -18925,6 +19094,7 @@ Neringa Municipality
 Nerva
 Nes
 Nesebar
+Nesher
 Neshoba County
 Neslovice
 Nesna
@@ -18940,6 +19110,7 @@ Nesselwang
 Nesselwängle
 Nesset
 Nesslau
+Ness Ziona
 Nestelbach bei Graz
 Nesuchyne
 Nesvacilka
@@ -18947,6 +19118,7 @@ Netanya
 Netawaka
 Netin
 Netishyn city
+Netivot
 Netretić 
 Nett
 Nettersheim
@@ -19020,6 +19192,7 @@ Nevarenai
 Neveklov
 Nevele
 Nevelsk
+Neve Midbar
 Nevesinje municipality
 Nevezice
 Nevis
@@ -19436,6 +19609,7 @@ Northern Areas
 Northern Beaches
 Northern Cape
 Northern Cheyenne Indian Reservation
+Northern District
 Northern Governorate
 Northern Grampians
 Northern Ireland
@@ -19996,6 +20170,7 @@ Oetwil am See
 Oetwil an der Limmat
 Oetz
 Of
+Ofakim
 Offenbach am Main
 Offenbach District
 Offerdal district
@@ -20225,6 +20400,7 @@ Omakau
 Omarama
 Omaruru
 Ome
+Omer
 Omerli
 Omi
 Omice
@@ -20347,6 +20523,7 @@ Oracov
 Oradea
 Orahovac
 Orakei Local Board
+Or Akiva
 Oral
 Oran
 Orana
@@ -20354,6 +20531,7 @@ Orange
 Orangeburg County
 Orange County
 Orange Park
+Oranit
 Oranjemund
 Oratia
 Orativ district
@@ -21011,6 +21189,8 @@ Parauapebas
 Parbasdorf
 Parczew commune
 Parczew County
+Pardes Hanna-Karkur
+Pardesiya
 Pardubice
 Pardubice District
 Pardubicky Region
@@ -21225,6 +21405,7 @@ Péiteng
 Pekalongan
 Pekalongan Regency
 Pekela
+Peki'in
 Pelagicevo municipality
 Pelaya
 Pelayos de la Presa
@@ -21387,6 +21568,7 @@ Pesnica
 Peso da Régua
 Pesquera
 Pest County
+Petah Tikva
 Petäjävesi
 Petaling Jaya
 Petaluma
@@ -22754,6 +22936,7 @@ Pysely
 Qaanaaq
 Qaasuitsup
 Qala
+Qalansawe
 Qalqilya
 Qalyubia Governorate
 Qaqortoq
@@ -22844,6 +23027,7 @@ Quiros
 Quispamsis
 Quitman County
 Quito
+Ra'annana
 Raabs an der Thaya
 Raach am Hochgebirge
 Raalte
@@ -22971,6 +23155,7 @@ Ragonvalia
 Ragunda
 Ragunda district
 Raguva
+Rahat
 Rahden
 Raiatea
 Raiding
@@ -23018,11 +23203,14 @@ Ramallah
 Ramallo Department
 Ramat Gan
 Ramat HaSharon
+Ramat Yishai
+Rameh
 Ramenki District
 Ramillies
 Ramingstein
 Ramirás
 Ramiriquí
+Ramla
 Ramlinsburg
 Rammerech
 Rammingen in Bayern
@@ -23244,6 +23432,7 @@ Reguengos de Monsaraz
 Rehamna Province
 Rehetobel
 Rehoboth
+Rehovot
 Rehungen
 Reichenau
 Reichenau an der Rax
@@ -23261,6 +23450,7 @@ Réimech Canton
 Reimerswaal
 Reims
 Reinach
+Reineh
 Reingers
 Reinholterode
 Reinickendorf
@@ -23283,6 +23473,7 @@ Rejowiec Fabryczny
 Rejowiec Fabryczny commune
 Rejstejn
 Reka
+Rekhasim
 Rekingen
 Rekovac
 Remaufens
@@ -23794,6 +23985,8 @@ Roseneath
 Rosenheim
 Rosenheim District
 Rosental an der Kainach
+Rosh HaAyin
+Rosh Pinna
 Rosice
 Rosicka
 Rositz
@@ -24161,6 +24354,7 @@ Sadovo
 Sadowne commune
 Sadska
 Saedinenie
+Safed
 Safenwil
 Säffle
 Safi
@@ -24290,6 +24484,7 @@ Saipan
 Saitama
 Saitama Prefecture
 Saito
+Sajur
 Saka
 Sakado
 Sakae
@@ -24308,6 +24503,7 @@ Sakegawa
 Sakha
 Sakhalin Region
 Sakhisizwe
+Sakhnin
 Sakhnovshchyna district
 Šakiai
 Šakiai District Municipality
@@ -25063,6 +25259,7 @@ Sävsjö
 Savski Venac
 Savyolki District
 Savyolovsky District
+Savyon
 Sawin commune
 Sawyer County
 Saxon
@@ -25258,6 +25455,7 @@ Screven County
 Scugog
 Scuol
 Scurry County
+Sderot
 Seacliff
 Searcy County
 Seaside
@@ -25556,6 +25754,7 @@ Sezimovo Usti
 Sfakia
 Sfax
 Sfax Governorate
+Sha'ab
 Shaanxi
 Shabla
 Shabwah
@@ -25578,6 +25777,7 @@ Shannon County
 Shan State
 Shantytown
 Shanxi
+Shaqib al-Salam
 Sharhorod city
 Sharhorod district
 Sharjah
@@ -25606,6 +25806,7 @@ Shchukino District
 Shebekino
 Sheboygan County
 Shediac
+Shefa-'Amr
 Shefa Province
 Sheffield
 Shelburne
@@ -25634,6 +25835,7 @@ Shibata
 Shibayama
 Shibecha
 Shibetsu
+Shibli-Umm al-Ghanam
 Shibukawa
 Shibushi
 Shibuya
@@ -25723,8 +25925,11 @@ Shizuoka Prefecture
 Shkodër
 Shkodër County
 Shlisselburg
+Shlomi
 Shoalhaven
 Shodoshima
+Shoham
+Shomron
 Shonai
 Shoo
 Shoreview
@@ -27856,6 +28061,7 @@ Tampa Heights
 Tampa Seminole Indian Reservation
 Tampere
 Tampines
+Tamra
 Tamsalu
 Tamsalu Parish
 Tamsweg
@@ -28093,10 +28299,12 @@ Tekman
 Tekstilshchiki District
 Te Kuiti
 Telangana
+Tel as-Sabi
 Telatyn commune
 Telavi
 Telavi Municipality
 Tel Aviv
+Tel Aviv District
 Telc
 Telde
 Teleci
@@ -28111,6 +28319,7 @@ Telkwa
 Tell City
 Teller County
 Tello
+Tel Mond
 Telnice
 Telšiai
 Telšiai County
@@ -28336,6 +28545,7 @@ Tianjin
 Tibacuy
 Tibaná
 Tibasosa
+Tiberias
 Tibet
 Tibirita
 Tibro
@@ -28400,9 +28610,11 @@ Tippah County
 Tippecanoe County
 Tipton County
 Tiquisio
+Tira
 Tiranë
 Tiranë County
 Tiraspol
+Tirat Carmel
 Tirau
 Tire
 Tirebolu
@@ -28994,6 +29206,7 @@ Tuatapere
 Tübach
 Tuban Regency
 Tubará
+Tuba-Zangariyye
 Tubbergen
 Tübingen District
 Tubize
@@ -29078,6 +29291,7 @@ Tupiza
 Tuplice commune
 Túquerres
 Tur
+Tur'an
 Tura
 Turakina
 Turangi
@@ -29207,6 +29421,7 @@ Tyumen Region
 Tyva
 Tyvriv district
 Tywyn
+Tzoran-Kadima
 Tønsberg
 Uaboe District
 Ua Huka
@@ -29375,6 +29590,7 @@ Umi
 Umjindi
 uMkhanyakude
 Umlalazi
+Umm al-Fahm
 Umm Al-Quwain
 Ummerstadt
 Umm Slal Municipality
@@ -29465,6 +29681,7 @@ Upata
 Upernavik
 uPhongolo
 Upice
+Upper Galilee
 Upper Gascoyne
 Upper Harbour Local Board
 Upper Hunter
@@ -29749,6 +29966,7 @@ Valleseco
 Valletta
 Valley County
 Valley Falls
+Valley of Springs
 Vallon
 Vallorbe
 Val Marie
@@ -31811,6 +32029,7 @@ Yacuanquer
 Yacuíba
 Yadkin County
 Yaese
+Yafa an-Naseriyye
 Yaguará
 Yahaba
 Yahiko
@@ -31881,6 +32100,7 @@ Yangon Region
 Yankalilla
 Yankton County
 Yankton Indian Reservation
+Yanuh-Jat
 Yao
 Yaotsu
 Yap
@@ -31920,6 +32140,8 @@ Yatta
 Yauco
 Yau Tsim Mong District
 Yavapai County
+Yavne
+Yavne'el
 Yavoriv city
 Yavoriv district
 Yavuzeli
@@ -31940,6 +32162,7 @@ Ydre
 Yecla
 Yécora
 Yécora Municipality
+Yehud-Monosson
 Yelanets district
 Yelegen
 Yell County
@@ -31971,11 +32194,13 @@ Yerbas Buenas
 Yerevan
 Yerevan Province
 Yerkoy
+Yeroham
 Yesilhisar
 Yesilli
 Yesilova
 Yesilyurt
 Yesilyuva
+Yesud HaMa'ala
 Yevpatoria municipality
 Yew Tee
 Yigilca
@@ -31983,6 +32208,7 @@ Yigo
 Yilan County
 Yildirim
 Yilgarn
+Yirka
 Ylakiai
 Ylöjärvi
 Yoakum County
@@ -32267,6 +32493,7 @@ Zary commune
 Zary County
 Zarzal
 Zarzalejo
+Zarzir
 Zarzis
 Zas
 Zasada
@@ -32409,6 +32636,7 @@ Zelzate
 Žemaičių Naumiestis
 Zembrzyce commune
 Zemendorf-Stöttera
+Zemer
 Zemst
 Zemun
 Zeneggen
@@ -32435,6 +32663,7 @@ Zetaquirá
 Zetzwil
 Zeulenroda-Triebes
 Zevenaar
+Zevulun
 Zeytinbagi
 Zeytinburnu
 Zeytinli
@@ -32493,6 +32722,7 @@ Ziezmariai
 Zihle
 Zihlschlacht-Sitterdorf
 Zihobce
+Zikhron Ya'aqov
 Zile
 Zilina
 Zilina Region
