@@ -1698,6 +1698,7 @@ Baglar
 Bagnes
 Bago
 Bago Region
+Bagradionovsk
 Baguio
 Bahah
 Bahce
@@ -1805,6 +1806,7 @@ Bălti
 Baltimore
 Baltimore County
 Baltinava
+Baltiysk
 Baltschieder
 Balvanera
 Balve
@@ -9901,6 +9903,7 @@ Guro District
 Gursu
 Gurtnellen
 Gurupi
+Guryevsk
 Gusev
 Gush Etzion
 Gusinje
@@ -9923,6 +9926,7 @@ Güttingen
 Guwahati
 Guzelbahce
 Guzelyurt
+Gvardeysk
 Gvozd
 Gwadar
 Gwalior
@@ -14265,6 +14269,7 @@ Krasnoufimsk
 Krasnouralsk
 Krasnoyarsk
 Krasnoyarsk Territory
+Krasnoznamensk
 Krasny Dvur
 Krasnyi Luch city
 Krasny Les
@@ -14818,6 +14823,7 @@ Ladendorf
 Ladis
 Ladna
 La Dorada
+Ladushkin
 Ladyzhyn city
 Laekvere Parish
 Lærdal
@@ -16788,6 +16794,7 @@ Mamblas
 Mamer
 Mamey
 Mammern
+Mamonovo
 Mamurogawa
 Mamusa
 Mana
@@ -19176,6 +19183,7 @@ Nelson Mandela Bay
 Nelson-Tasman Region
 Nemaha County
 Nemakščiai
+Neman
 Nemanice
 Ñemby
 Nemcany
@@ -19237,6 +19245,7 @@ Nesset
 Nesslau
 Ness Ziona
 Nestelbach bei Graz
+Nesterov
 Nesuchyne
 Nesvacilka
 Netanya
@@ -21108,6 +21117,7 @@ Ozorkow commune
 Ozu
 Ozurgeti
 Ozurgeti Municipality
+Ozyorsk
 Ozyory
 Paamiut
 Pabenice
@@ -21909,6 +21919,7 @@ Pinto Creek
 Piñuécar-Gandullas
 Pinware
 Piojó
+Pionerskiy
 Pionki
 Piotrkow County
 Piotrkow Kujawski commune
@@ -22193,6 +22204,7 @@ Polen
 Polepy
 Polerady
 Polesovice
+Polessk
 Polevsko
 Polevskoy
 Pölfing-Brunn
@@ -22533,6 +22545,7 @@ Prato (Leventina)
 Pratt County
 Pratteln
 Pravcice
+Pravdinsk
 Pravets
 Pravia
 Pravice
@@ -26495,6 +26508,7 @@ Slavkov u Brna
 Slavonice
 Slavonov
 Slavonski Brod
+Slavsk
 Slavuta city
 Slavuta district
 Slavutych city
@@ -27935,6 +27949,7 @@ Svetla nad Sazavou
 Svetla pod Jestedem
 Svetlik
 Svetlogorsk
+Svetly
 Svetnov
 Svetogorsk
 Sviadnov
@@ -32322,6 +32337,7 @@ Yangon Region
 Yankalilla
 Yankton County
 Yankton Indian Reservation
+Yantarny
 Yanuh-Jat
 Yao
 Yaotsu
@@ -32830,6 +32846,7 @@ Zelenikovo
 Zelenodolsk
 Zelenodolsk city
 Zelenogorsk
+Zelenogradsk
 Zelenokumsk
 Zelesice
 Zeletava
