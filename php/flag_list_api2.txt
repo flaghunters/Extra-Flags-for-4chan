@@ -22,6 +22,7 @@ Aarwangen
 Aasiaat
 Abaco
 Abadiño
+Abadzekhskoye
 Abaetetuba
 Abakan
 Abaltzisketa
@@ -156,6 +157,7 @@ Aduna
 Adur
 Adutiškis
 Adygea
+Adygeysk
 Aedermannsdorf
 Aegviidu
 Aerodrom
@@ -171,6 +173,7 @@ Affeltrangen
 Affligem
 Affoltern am Albis
 Affoltern bei Zürich
+Afipsipskoye
 Åfjord
 Aflenz
 Afritz am See
@@ -1567,6 +1570,7 @@ Ayeyarwady Region
 Aylesbury Vale
 Ayranci
 Ayrshire
+Ayryumovskoye
 Aysén
 Aysén Region
 Aytos
@@ -2321,6 +2325,7 @@ Beloeil
 Belogorsk
 Belo Horizonte
 Belokurikha
+Beloselskoye
 Beloslav
 Belotin
 Belov
@@ -5061,6 +5066,7 @@ Chernogolovka
 Chernogorsk
 Chernushka
 Chernyakhovsk
+Chernyshev
 Cherokee County
 Cherokee Nation
 Cherry County
@@ -6734,6 +6740,7 @@ Dlugoleka commune
 Dlugosiodlo commune
 Dlutow commune
 Dmanisi
+Dmitriyevskoye
 Dmitrov
 Dmitrovsky District
 Dmosin commune
@@ -6940,6 +6947,7 @@ Donau-Ries District
 Donaustadt District
 Doncaster
 Donceel
+Dondukovskoye
 Donduseni District
 Donetsk
 Donetsk city
@@ -7187,6 +7195,7 @@ Duisburg
 Duitama
 Duiven
 Dukes County
+Dukmasovskoye
 Dukovany
 Dulantzi
 Dulkadiroglu
@@ -9020,6 +9029,9 @@ Ghasri
 Ghaxaq
 Ghaziabad
 Ghor Province
+Giaginskaya
+Giaginskoye
+Giaginsky District
 Gianyar Regency
 Gibbons
 Gibeon
@@ -11581,6 +11593,7 @@ Igdir Province
 Igloolik
 Ignacio Zaragoza Municipality
 Ignalina District Municipality
+Ignatyevskoye
 Igneada
 Igolomia-Wawrzenczyce commune
 Igoumenitsa
@@ -12707,6 +12720,7 @@ Kamenna Horka
 Kamenna Lhota
 Kamenne Zbozi
 Kamenne Zehrovice
+Kamennomostskoye
 Kamenny Most
 Kamenny Privoz
 Kamenny Ujezd
@@ -13191,6 +13205,7 @@ Kelantan
 Kelburn
 Kelc
 Kelcany
+Kelermesskoye
 Kelheim District
 Kelibia
 Kelkit
@@ -13321,6 +13336,7 @@ Khabarovsk Territory
 Khabarovsky District
 Khâi-Ma
 Khakassia
+Khakurinokhablskoye
 Khamovniki District
 Khandallah
 Khanty-Mansi Autonomous Area
@@ -13541,6 +13557,7 @@ Kirovsk
 Kirovsk city
 Kirovske city
 Kirovske district
+Kirovskoye
 Kirsehir
 Kirsehir Province
 Kiruna
@@ -14059,6 +14076,7 @@ Kosciusko County
 Kose
 Kose Parish
 Kosetice
+Koshekhablsky District
 Koshi
 Koshigaya
 Koshimizu
@@ -14275,6 +14293,8 @@ Krasnodar Territory
 Krasnodon city
 Krasnodon district
 Krasnogorsk
+Krasnogvardeyskoye
+Krasnogvardeysky District
 Krasnohrad city
 Krasnohrad district
 Krasnohvardiiske district
@@ -14288,6 +14308,7 @@ Krasnoselsky District
 Krasnosielc commune
 Krasnoturinsk
 Krasnoufimsk
+Krasnoulskoye
 Krasnouralsk
 Krasnoyarsk
 Krasnoyarsk Territory
@@ -17320,11 +17341,13 @@ Mayes County
 Mayetta
 Mayfield
 Maykop
+Maykopsky District
 Maynard
 Maynas Province
 Mayo
 Mayrhofen
 Mayrouba
+Mayskoye
 Maywood
 Mazariegos
 Mazarrón
@@ -19078,6 +19101,7 @@ Nättraby locality
 Natuaqanek First Nation
 Natuashish
 Natuna Regency
+Natyrbovskoye
 Nauders
 Nauendorf
 Naugatuck
@@ -25877,6 +25901,7 @@ Sergelen
 Sergey
 Sergiev Posad
 Sergipe
+Sergyevskoye
 Serik
 Serinhisar
 Serkovice
@@ -26147,6 +26172,7 @@ Shoshone Tribe of the Wind River Reservation
 Shostka city
 Shostka district
 Shoubara
+Shovgenovskiy District
 Showa
 Shpola city
 Shpola district
@@ -28246,6 +28272,7 @@ Takéo Province
 Taketa
 Taketomi
 Taketoyo
+Takhtamukaysky District
 Taki
 Takikawa
 Takinoue
@@ -28700,6 +28727,7 @@ Tetouan Province
 Tetov
 Tetovo
 Tetritsqaro
+Teuchezhsky District
 Teufen
 Teufenthal
 Teva I Uta
@@ -28918,6 +28946,8 @@ Tlumach district
 Tlumacov
 Tlustice
 Tluszcz commune
+Tlyustenkhabl
+Tlyustenkhablskoye
 Tman
 Toa Alta
 Toa Baja
@@ -29522,6 +29552,8 @@ Tullnerbach
 Tullymet
 Tulsa
 Tulsa County
+Tulskoye
+Tulsky
 Tuluá
 Tulum Municipality
 Tulungagung Regency
@@ -31072,6 +31104,7 @@ Volkhov
 Volkovysk
 Vollèges
 Vollenborn
+Volnenskoye
 Volnovakha city
 Volnovakha district
 Volochysk city
@@ -32437,10 +32470,12 @@ Ydre
 Yecla
 Yécora
 Yécora Municipality
+Yegerukhayskoye
 Yehud-Monosson
 Yei River
 Yelanets district
 Yelegen
+Yelenovskoye
 Yell County
 Yellowhead County
 Yellowknife
@@ -32757,6 +32792,7 @@ Zaravice
 Zaraysk
 Zaraza
 Zareby Koscielne commune
+Zarevskoye
 Zarichne district
 Zarici
 Zarnow commune
