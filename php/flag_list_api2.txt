@@ -1591,6 +1591,7 @@ Babadag
 Babaeski
 Babahoyo
 Babenhausen in Schwaben
+Babergh
 Babice
 Babice commune
 Babice nad Svitavou
@@ -1997,6 +1998,7 @@ Bashtanka city
 Bashtanka district
 Basilan
 Basilan City
+Basildon
 Basilicata
 Basingstoke and Deane
 Bas-Intyamon
@@ -3619,6 +3621,7 @@ Brielle
 Brig-Glis
 Brigham
 Brighton
+Brighton and Hove
 Brighton Seminole Indian Reservation
 Brigittenau
 Brigittenau District
@@ -4578,6 +4581,7 @@ Castilléjar
 Casti-Wergenstein
 Castkov
 Castlepoint
+Castle Point
 Castletown
 Castohostice
 Castolovice
@@ -6297,6 +6301,7 @@ Darlowo commune
 Darmstadt
 Darmstadt-Dieburg District
 Darnytsia district
+Dartford
 Dartmouth
 Darwin
 Dasice
@@ -7281,6 +7286,7 @@ Early County
 Earnscleugh
 East Arnhem
 East Baton Rouge Parish
+Eastbourne
 East Bridgewater
 East Brookfield
 East Cambridgeshire
@@ -7783,6 +7789,7 @@ Ephraim Mogale
 Epirus
 Epitaciolândia
 Eppenberg-Wöschnau
+Epping Forest
 Eppishausen
 Epsom
 Epsom and Ewell
@@ -8369,6 +8376,7 @@ Ford County
 Forel
 Forest
 Forest County
+Forest Heath
 Forest of Dean
 Forjães 
 Formentera
@@ -9028,6 +9036,7 @@ Gillersdorf
 Gillespie County
 Gillette
 Gilliam County
+Gillingham
 Gilly
 Gilmer County
 Gilpin County
@@ -9508,6 +9517,7 @@ Grave
 Gravelbourg
 Gravesano
 Graves County
+Gravesham
 Gray
 Gray County
 Grays Harbor County
@@ -9611,6 +9621,7 @@ Grimbergen
 Grimes County
 Grimisuat
 Grimmenstein
+Grimsby
 Grimshaw
 Grindavík
 Grindel
@@ -10243,6 +10254,7 @@ Härkingen
 Harku Parish
 Harlan County
 Harlingen
+Harlow
 Harmancik
 Harmanli
 Harmannsdorf
@@ -10503,6 +10515,7 @@ Helsingborg
 Helsinki
 Helvikovice
 Hemberg
+Hemel Hempstead
 Hemet
 Hemiksem
 Hemishofen
@@ -11340,6 +11353,7 @@ Hubei
 Hubersdorf
 Hückeswagen
 Hudcice
+Huddersfield
 Huddinge
 Hudiksvall
 Hudiksvall district
@@ -16602,6 +16616,7 @@ Mahres
 Maia
 Maibara
 Maicao
+Maidstone
 Maienfeld
 Maierhöfen
 Mailberg
@@ -16701,6 +16716,7 @@ Malbork County
 Malczyce commune
 Maldegem
 Malden
+Maldon
 Maldonado
 Maldonado Department
 Malé
@@ -17687,6 +17703,7 @@ Mid Murray
 Mid North Coast
 Midori
 Midoun
+Mid Suffolk
 Midsund
 Midsussex
 Midtjylland
@@ -23470,6 +23487,7 @@ Rawson
 Raxendorf
 Raychikhinsk
 Ray County
+Rayleigh
 Raymah
 Raymond
 Raynham
@@ -23940,6 +23958,7 @@ Rochdale
 Roche
 Rochefort
 Rochester
+Rochford
 Rochlov
 Rociana del Condado
 Rockbridge County
@@ -24168,6 +24187,7 @@ Rothenbrunnen
 Rothenburg
 Rothenfluh
 Rothenthurm
+Rother
 Rotherham
 Rothesay
 Röthis
@@ -24681,6 +24701,7 @@ Saldaña
 Saldanha Bay
 Saldus
 Saldutiškis
+Sale
 Salekhard
 Salem
 Salem County
@@ -25860,6 +25881,7 @@ Seuzach
 Sevastopol
 Sévaz
 Sevelen
+Sevenoaks
 Sever do Vouga
 Severnobacki District
 Severnobanatski District
@@ -25959,6 +25981,7 @@ Shenyang
 Shenzhen
 Shepetivka city
 Shepetivka district
+Shepway
 Sherborn
 Sherbrooke
 Sherburne County
@@ -26859,6 +26882,7 @@ South-East District
 South-Eastern Administrative Area
 South Eastern Region
 South East Queensland
+Southend-on-Sea
 Southern & Hills
 Southern Administrative Area
 Southern District
@@ -26893,6 +26917,7 @@ South Northamptonshire
 South Oxfordshire
 South Pasadena
 South Perth
+Southport
 South Pyongan Province
 South Qu'Appelle
 South Ribble
@@ -27037,6 +27062,7 @@ St. Charles County
 St. Charles Parish
 St. Clair County
 St. Croix County
+St. Edmundsbury
 St. Francis County
 St. Francois County
 St. Gallen
@@ -27661,6 +27687,7 @@ Suez Governorate
 Sufers
 Suffield
 Suffolk
+Suffolk Coastal
 Suffolk County
 Suflí
 Suginami
@@ -27949,6 +27976,7 @@ Swain County
 Swainsboro
 Swains Island
 Swakopmund
+Swale
 Swampscott
 Swan
 Swan Hill
@@ -28521,6 +28549,7 @@ Tena
 Tenali
 Ten Boer
 Tendo
+Tendring
 Tene
 Tenei
 Tenerife
@@ -28648,6 +28677,7 @@ Thalwil
 Thames
 Thames-Coromandel District
 Thane
+Thanet
 Thannhausen
 Tharaka-Nithi County
 Thaur
@@ -28710,6 +28740,7 @@ Thüringen
 Thüringerberg
 Thurn
 Thürnen
+Thurrock
 Thurston County
 Thurygrund
 Thusis
@@ -28940,6 +28971,7 @@ Tomsk
 Tomsk Region
 Tonaki
 Tonami
+Tonbridge and Malling
 Tondabayashi
 Tondela
 Tone
@@ -29452,6 +29484,7 @@ Tumbes Region
 Tumbler Ridge District
 Tumby Bay
 Tunapuna-Piarco Region
+Tunbridge Wells
 Tunceli
 Tunceli Province
 Tundzha
@@ -29986,6 +30019,7 @@ Uttaradit Province
 Uttarakhand
 Uttar Pradesh
 Uttendorf
+Uttlesford
 Uttwil
 Utuado
 Uturoa
@@ -31525,6 +31559,7 @@ Waukesha County
 Waupaca County
 Waushara County
 Wauwil
+Waveney
 Waverley
 Wavre
 Wawer
@@ -31535,6 +31570,7 @@ Wayne County
 Waynesboro
 Wazuka
 Weakley County
+Wealden
 Weatherford
 Webb
 Webb County
@@ -31734,6 +31770,7 @@ Westonaria
 Weston County
 Weston Creek
 Westonia
+Weston-super-Mare
 West Oxfordshire
 West Palm Beach
 West Pokot County
