@@ -5039,6 +5039,7 @@ Chelsea
 Cheltenham
 Chelyabinsk
 Chelyabinsk Region
+Chemalsky District
 Chemerivtsi district
 Chemnitz
 Chemung County
@@ -5312,6 +5313,7 @@ Choulex
 Choustnikovo Hradiste
 Chouteau County
 Chowan County
+Choysky District
 Chraberce
 Chrast
 Chrastany
@@ -9359,6 +9361,7 @@ Gornji Grad
 Gornji Kneginec
 Gornji Milanovac
 Gornji Petrovci
+Gorno-Altaysk
 Gorno-Badakhshan
 Gorontalo
 Gorredijk
@@ -14087,6 +14090,9 @@ Kosciusko County
 Kose
 Kose Parish
 Kosetice
+Kosh-Agach
+Kosh-Agachskoye
+Kosh-Agachsky District
 Koshekhablsky District
 Koshi
 Koshigaya
@@ -14638,6 +14644,7 @@ Kurakhove city
 Kurashiki
 Kurate
 Kurayoshi
+Kurayskoye
 Kurchatov
 Kurdejov
 Kure
@@ -17355,6 +17362,7 @@ Mayetta
 Mayfield
 Maykop
 Maykopsky District
+Mayminsky District
 Maynard
 Maynas Province
 Mayo
@@ -20651,6 +20659,7 @@ Onex
 Onga
 Ongjin District
 Ongole
+Ongudaysky District
 Ongwediva
 Onhaye
 Oni
@@ -26057,6 +26066,7 @@ Shcholkine
 Shchuchinsk
 Shchuchye
 Shchukino District
+Shebalinsky District
 Shebekino
 Sheboygan County
 Shediac
@@ -29647,6 +29657,7 @@ Turnišče
 Türnitz
 Turnov
 Turobin commune
+Turochaksky District
 Turón
 Turov
 Turovec
@@ -29863,6 +29874,7 @@ Ukrainka city
 Ukrainsk city
 Ula
 Ulaanbaatar
+Ulagansky District
 Ulalar
 Ulan-Majorat commune
 Ulan-Ude
@@ -30093,6 +30105,8 @@ Usti nad Labem District
 Usti nad Orlici
 Usti nad Orlici District
 Ust-Kamchatsky District
+Ust-Kansky District
+Ust-Koksinsky District
 Ust-Kut
 Ustronie Morskie commune
 Ustyluh city
