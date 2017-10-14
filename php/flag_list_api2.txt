@@ -1926,6 +1926,8 @@ Barendrecht
 Bäretswil
 Bareyo
 Bargen
+Barguzinskoye
+Barguzinsky District
 Bari
 Barice-Velke Tesany
 Barilović 
@@ -2085,6 +2087,7 @@ Baulmes
 Bauma
 Baumgarten
 Baumkirchen
+Bauntovsky District
 Bauru
 Bauschelt
 Bauska
@@ -2717,6 +2720,7 @@ Bibirevo District
 Bibrka city
 Bichelsee-Balterswil
 Bichlbach
+Bichursky District
 Bidania-Goiatz
 Biddeford
 Bideford
@@ -6186,6 +6190,7 @@ Czlopa commune
 Czluchow County
 Czorsztyn commune
 Czosnow commune
+Dabatuyskoye
 Dabeiba
 Dabie commune
 Dablice
@@ -7288,6 +7293,7 @@ Dzerzhinsk
 Dzhankoy district
 Dzhebariki-Khaya
 Dzherzhinsky
+Dzhidinsky District
 Dziadowa Kloda commune
 Dzialdowo County
 Dzialoszyn commune
@@ -11999,6 +12005,7 @@ Ivdel
 Ive
 Iveland
 Ivittuut
+Ivolginsky District
 Ivrindi
 Iwade
 Iwaizumi
@@ -12520,6 +12527,7 @@ Kaarina
 Kabadougou
 Kabaduz
 Kabale District
+Kabansky District
 Kabardino-Balkaria
 Kabul
 Kacanik
@@ -12736,6 +12744,7 @@ Kamianka-Buzka district
 Kamianka city
 Kamianka district
 Kamianka-Dniprovska district
+Kamianske
 Kamianske city
 Kamien commune
 Kamien County
@@ -13374,6 +13383,7 @@ Kholmsk
 Khomas Region
 Khoni
 Khon Kaen Province
+Khorinsky District
 Khorixas
 Khorol city
 Khorol district
@@ -13637,6 +13647,7 @@ Kiyose
 Kiyosu
 Kiyota
 Kizel
+Kizhinginsky District
 Kizilca
 Kizilcahamam
 Kizilcasogut
@@ -14659,6 +14670,7 @@ Kurtun
 Kurucasile
 Kurudere
 Kurume
+Kurumkansky District
 Kurunegala
 Kusa
 Kusadasi
@@ -14731,6 +14743,7 @@ Kwidzyn County
 Kwinana
 Kwun Tong District
 Kyakhta
+Kyakhtinsky District
 Kybartai
 Kyffhäuser District
 Kyffhäuserland
@@ -18673,6 +18686,7 @@ Mukacheve district
 Mukarov
 Mukawa
 Mukdahan Province
+Mukhorshibirsky District
 Mukinbudin
 Muko
 Mula
@@ -18804,6 +18818,7 @@ Mutten
 Muttenz
 Mutters
 Muurame
+Muysky District
 Muzaffarabad
 Muzo
 Muzzano
@@ -20461,6 +20476,7 @@ Oki
 Okinawa
 Okinawa Prefecture
 Okinoshima
+Okinsky District
 Oklahoma
 Oklahoma City
 Oklahoma County
@@ -22481,6 +22497,7 @@ Postrekov
 Postrelmov
 Postrelmuvek
 Postrizin
+Potaninskoye
 Potec
 Potenza
 Potes
@@ -22681,6 +22698,7 @@ Prevysov
 Prey Veng Province
 Prezletice
 Prez-vers-Noréaz
+Pribaykalsky District
 Pribice
 Priboj
 Pribor
@@ -24591,6 +24609,7 @@ Sagadahoc County
 Sagae
 Sagaing Region
 Sagamihara
+Sagannurskoye
 Saga Prefecture
 Sagara
 Sagarejo
@@ -25788,6 +25807,8 @@ Selcuklu
 Selebi-Phikwe
 Selendi
 Selenge Province
+Selenginskoye
+Selenginsky District
 Selesovice
 Seletice
 Selje
@@ -25958,6 +25979,8 @@ Severnoye Izmaylovo District
 Severnoye Medvedkovo District
 Severnoye Tushino District
 Severny District
+Severobaykalsk
+Severo-Baykalsky District
 Severo-Evensky District
 Severo-Kurilsk
 Severomorsk
@@ -25987,6 +26010,7 @@ Sfax Governorate
 Sha'ab
 Shaanxi
 Shabla
+Shaburskoye
 Shabwah
 Shackelford County
 Shadrinsk
@@ -28401,6 +28425,7 @@ Taratahi
 Tarauacá
 Taraz
 Tarazá
+Tarbagataysky District
 Tarczyn commune
 Tärendö district
 Tarfaya Province
@@ -29575,6 +29600,7 @@ Tunica County
 Tunis
 Tunis Governorate
 Tunja
+Tunkinsky District
 Tununguá
 Tuolumne County
 Tupadly
@@ -32401,6 +32427,7 @@ Yanagawa
 Yanai
 Yanaizu
 Yancey County
+Yanchukan
 Yangcheon District
 Yangon
 Yangon Region
@@ -32501,6 +32528,7 @@ Yenisoloz
 Yens
 Yeongdeungpo District
 Yeonsu District
+Yeravninsky District
 Yerbas Buenas
 Yerevan
 Yerevan Province
@@ -32698,11 +32726,13 @@ Zahornice
 Zahorovice
 Zahradka
 Zahradky
+Zaigrayevsky District
 Zajecar
 Zajecar District
 Zajeci
 Zajecice
 Zajecov
+Zakamensky District
 Žakanje
 Zakarpatska Region
 Zakava
