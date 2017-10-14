@@ -75,6 +75,7 @@ Abu Dhabi
 Abu Ghosh
 Abu Sinan
 Abyan
+Abyei Special Administrative Area
 Acacias
 Acadia Municipal District
 Acadia Parish
@@ -725,6 +726,7 @@ Alytus District Municipality
 Al-Zahra
 Alzey-Worms District
 Ama
+Amadi
 Amadora
 Amador County
 Amagá
@@ -1533,6 +1535,8 @@ Awapuni
 Awara
 Awashimaura
 Awdalland
+Aweil
+Aweil East
 Awhitu
 Axams
 Aya
@@ -3179,6 +3183,7 @@ Bolu
 Bolu Province
 Bolvadin
 Bolyarovo
+Boma
 Bombarral
 Bomet County
 Bomi County
@@ -7298,10 +7303,13 @@ East Coast-Fengshan
 East Devon
 East Dorset
 Eastern Administrative Okrug
+Eastern Bieh
 Eastern Cape
 Eastern District
 Eastern Highlands Province
+Eastern Lakes
 Eastern Macedonia and Thrace
+Eastern Nile
 Eastern Province
 Eastern Region
 Eastern Samar
@@ -8081,6 +8089,7 @@ Falmouth
 Falun
 Falun locality
 Famagusta
+Fangak
 Fannin County
 Faoug
 Farah Province
@@ -8871,6 +8880,7 @@ Gaziosmanpasa
 Gazipasa
 Gazligol
 Gbarpolu County
+Gbudwe
 Gdansk
 Gdansk County
 Gdow commune
@@ -9194,6 +9204,7 @@ Goeree-Overflakkee
 Goes
 Göfis
 Gogebic County
+Gogrial
 Gôh-Djiboua District
 Göhren
 Goiânia
@@ -9205,6 +9216,7 @@ Góis
 Gójar
 Gojo
 Gojome
+Gok
 Goka
 Gokase
 Gokceada
@@ -11655,6 +11667,7 @@ Imabari
 Imabetsu
 Imakane
 Imari
+Imatong
 Imavere Parish
 Imbabazane
 Imbabura Province
@@ -12385,6 +12398,7 @@ Jonava District Municipality
 Jondal
 Jonen
 Jones County
+Jonglei
 Jonglenster
 Jongno District
 Jongny
@@ -12431,6 +12445,7 @@ Juárez Municipality
 Juazeiro
 Juazeiro do Norte
 Jubaland
+Jubek
 Jüchen
 Judea and Samaria Area
 Judenau-Baumgarten
@@ -15203,6 +15218,7 @@ La Tebaida
 La Tène
 Laterns
 Latimer County
+Latjoor
 La Tola
 La Tour-de-Peilz
 Latowicz commune
@@ -16039,6 +16055,7 @@ Loket
 Lokhvytsia city
 Lokhvytsia district
 Loksa
+Lol
 Lolol
 Lom
 Lomas de Zamora Department
@@ -17002,6 +17019,7 @@ Maribyrnong
 Maricao
 Maricopa
 Maricopa County
+Maridi
 Marie Byrd Land
 Mariehamn
 Mari El
@@ -18938,6 +18956,7 @@ Namest na Hane
 Namie
 Namiquipa Municipality
 Namlos
+Namorunyang
 Nampula
 Nampula Province
 Namukulu
@@ -19751,6 +19770,7 @@ Northern Governorate
 Northern Grampians
 Northern Ireland
 Northern Islands
+Northern Liech
 Northern Lights County
 Northern Midlands
 Northern Peninsula Area
@@ -24396,6 +24416,7 @@ Rüti
 Rutland
 Rutland County
 Rüttenen
+Ruweng
 Ruzdka
 Ruzena
 Ruzhyn district
@@ -26906,6 +26927,7 @@ Southern Grampians
 Southern Highlands and Tablelands
 Southern Highlands Province
 Southern Leyte
+Southern Liech
 Southern Mallee
 Southern Province
 Southern Region
@@ -28599,6 +28621,7 @@ Teplysovice
 Te Puke
 Terebovlia city
 Terebovlia district
+Terekeka
 Terengganu
 Teresina
 Teresin commune
@@ -28993,6 +29016,7 @@ Tone
 Tonganoxie
 Tongeren
 Tönisvorst
+Tonj
 Tonkpi Region
 Tonna
 Tono
@@ -29607,6 +29631,7 @@ Tweeddale
 Tweng
 Twenterand
 Twentynine Palms
+Twic
 Twiggs County
 Twillingate
 Twin Falls
@@ -31570,6 +31595,7 @@ Wattenberg
 Wattens
 Wattle Range
 Wattwil
+Wau
 Waukesha County
 Waupaca County
 Waushara County
@@ -31738,7 +31764,9 @@ Western Downs
 Western Greece
 Western Highlands Province
 Western Isles
+Western Lakes
 Western Macedonia
+Western Nile
 Western Province
 Western Region
 Westerveld
@@ -32401,6 +32429,7 @@ Yecla
 Yécora
 Yécora Municipality
 Yehud-Monosson
+Yei River
 Yelanets district
 Yelegen
 Yell County
