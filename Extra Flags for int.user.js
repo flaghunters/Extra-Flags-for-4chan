@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.28
+// @version     0.29
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -139,13 +139,13 @@ var setup = {
                     for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
                         var opt = document.createElement('option');
                         opt.value = countriesAvailable[countriesCounter];
-                        
+
                         if (regions.length > 0) {
                             opt.innerHTML = countriesAvailable[countriesCounter] + " " + "<img src=\"" + flegsBaseUrl + pathNoFlagList + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
                         } else {
                             opt.innerHTML = countriesAvailable[countriesCounter]; // remove comment to enable country flags in the selection menu + " " + "<img src=\"" + countryFlegsBaseUrl + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
                         }
-                        
+
 
                         if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
                             opt.selected = "selected";
@@ -156,7 +156,7 @@ var setup = {
                         countrySelect.appendChild(opt);
                     }
                 }
-                
+
             }
         });
     },
@@ -303,7 +303,7 @@ function onFlagsLoad(response) {
             currentFlag = nameBlock.getElementsByClassName('flag')[0],
             postedRegions = post.region.split(regionDivider);
 
-        if (postedRegions.length > 0) {
+        if (postedRegions.length > 0 && !(currentFlag === undefined)) {
             var path = currentFlag.title;
             for (var i = 0; i < postedRegions.length; i++) {
                 path += "/" + postedRegions[i];
@@ -325,13 +325,13 @@ function onFlagsLoad(response) {
 
                     newFlag.innerHTML = "<img src=\"" + flegsBaseUrl + path + ".png\"" + newFlagImgOpts + " title=\"" + postedRegions[i] + "\">";
                     newFlag.className = "extraFlag";
-                    
+
                     if (i > 0) {
                         newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + postedRegions[i - 1];
                     } else {
                         newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
                     }
-                   
+
                     newFlag.target = '_blank';
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
