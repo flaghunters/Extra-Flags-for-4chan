@@ -1399,6 +1399,7 @@ Atchison County
 Ath
 Athabasca
 Athabasca County
+Athang
 Athens-Clarke County
 Athens County
 Athina
@@ -1762,6 +1763,7 @@ Balabancik
 Balaklava
 Balakliia city
 Balakliia district
+Balam
 Balanegra
 Balashikha
 Balashov
@@ -1882,8 +1884,10 @@ Banyule
 Banyumas Regency
 Banyuwangi Regency
 Ba-Phalaborwa
+Bapisa
 Baqa El-Gharbiyye
 Bar
+Bara
 Barabinsk
 Baraga County
 Barajevo
@@ -1920,6 +1924,7 @@ Bar city
 Barco
 Barcoo
 Bar district
+Bardo
 Bardo commune
 Bardonnex
 Barendrecht
@@ -1994,6 +1999,7 @@ Bartosovice
 Bartoszyce County
 Bartow County
 Bartreng
+Bartsham
 Baruchowo commune
 Barvinkove city
 Barvinkove district
@@ -2001,6 +2007,7 @@ Barwice commune
 Barwon South West
 Baryshivka district
 Barzdai
+Barzhong
 Basadingen-Schlattingen
 Basaksehir
 Basarabeasca District
@@ -2560,6 +2567,7 @@ Betanzos
 Betar Illit
 Bet Arye-Ofarim
 Betéitiva
+Beteni
 Bethanie
 Bethany
 Bethel
@@ -2687,6 +2695,7 @@ Bezverov
 Bhavnagar
 Bhopal
 Bhubaneswar
+Bhur
 Bi'ina
 Biala commune
 Bialaczow commune
@@ -2726,6 +2735,7 @@ Bidania-Goiatz
 Biddeford
 Bideford
 Bidingen
+Bidung
 Biecz
 Biedermannsdorf
 Biei
@@ -2871,6 +2881,7 @@ Birrhard
 Birrwil
 Birsfelden
 Birštonas Municipality
+Biru
 Birwinken
 Biryulyovo Vostochnoye District
 Biryulyovo Zapadnoye District
@@ -2919,10 +2930,14 @@ Bizen
 Bizerte
 Bizerte Governorate
 Bizkaia
+Bjachho
 Bjarkøy
 Bjelovar
 Bjelovar-Bilogora County
+Bjena
 Bjerkreim
+Bji
+Bjoka
 Bjorkdale
 Bjugn
 Bjuråker district
@@ -3215,6 +3230,7 @@ Bönen
 Bonfim
 Bonfol
 Bong County
+Bongo
 Bonheiden
 Bon Homme County
 Boniewo commune
@@ -3940,6 +3956,8 @@ Bulloo
 Bulls
 Buloke
 Bulovka
+Bumdeling
+Bumthang
 Bunbury
 Buncombe County
 Bundaberg
@@ -4930,6 +4948,7 @@ Chanchamayo Province
 Chancy
 Chandigarh
 Chandler
+Chang
 Change Islands
 Changhua County
 Chania
@@ -4937,6 +4956,7 @@ Channel-Port aux Basques
 Chanovice
 Chanthaburi Province
 Chanute
+Chapchha
 Chapecó
 Chapel Hill
 Chapelle
@@ -4949,6 +4969,7 @@ Chapmanville
 Chardonne
 Charente
 Charente-Maritime
+Chargharay
 Chariton County
 Charlemont
 Charleroi
@@ -4978,6 +4999,7 @@ Charvatce
 Charvaty
 Chase County
 Chasiv Yar city
+Chaskhar
 Chasno commune
 Chastre
 Chatan
@@ -5052,6 +5074,7 @@ Chêne-Bougeries
 Chêne-Bourg
 Chénens
 Chêne-Pâquier
+Chengmari
 Chenini Nahal
 Chennai
 Cher
@@ -5117,7 +5140,14 @@ Cheyenne County
 Cheyenne River Indian Reservation
 Cheyres-Châbles
 Cheznovice
+Chhali
 Chhattisgarh
+Chhimung
+Chhoekhor
+Chhubu
+Chhukha
+Chhume
+Chhuzagang
 Chia
 Chiang Mai Province
 Chiang Rai Province
@@ -5267,6 +5297,7 @@ Chojnice County
 Chojnow
 Chojnow commune
 Chokhatauri
+Chokhorling
 Cholenice
 Cholina
 Choltice
@@ -5277,6 +5308,7 @@ Chomyz
 Chonan
 Chonburi Province
 Chongqing
+Chongshing
 Chop city
 Chorley
 Chornobai district
@@ -6220,6 +6252,9 @@ Dade County
 Dadra and Nagar Haveli
 Daegu
 Daejeon
+Daga
+Dagala
+Dagana
 Daganzo de Arriba
 Dagda
 Dägerlen
@@ -6240,6 +6275,7 @@ Dakar Region
 Dakhla
 Dakhla-Oued Ed-Dahab
 Dakota County
+Dala
 Dalaas
 Dalabyggð
 Dalama
@@ -6291,6 +6327,7 @@ Danbury
 Dandaragan
 Danderyd
 Dane County
+Dangchhu
 Daniel's Harbour
 Daniels County
 Däniken
@@ -6394,6 +6431,7 @@ Decani
 Decatur
 Decatur County
 Dechantskirchen
+Dechhenling
 Decin
 Decin District
 Dededo
@@ -6428,6 +6466,7 @@ Deir al-Asad
 Deir Hanna
 Deitingen
 DeKalb County
+Dekiling
 Delaware
 Delaware County
 Delbrück
@@ -6468,6 +6507,7 @@ Demydivka district
 Denali Borough
 Denbighshire
 Den Bosch
+Denchhukha
 Den Den
 Denderleeuw
 Dendermonde
@@ -6488,6 +6528,7 @@ Dentergem
 Denton
 Denton County
 Denver
+Deorali
 De Panne
 Dependencias Federales
 De Pinte
@@ -6567,6 +6608,7 @@ Devonport
 Devonport-Takapuna Local Board
 Devonshire Parish
 Devrek
+Dewathang
 Dewey County
 DeWitt County
 De Wolden
@@ -6765,6 +6807,7 @@ Dnipropetrovsk Region
 Dniprorudne city
 Dniprovskyi district
 Doaktown
+Doban
 Dobczyce
 Dobele
 Dobelice
@@ -6836,6 +6879,7 @@ Dodge County
 Dodurga
 Doesburg
 Doetinchem
+Doga
 Dogancayir
 Doganhisar
 Dogansar
@@ -6990,6 +7034,7 @@ Dooly County
 Doomadgee
 Door County
 Doppelschwand
+Dopshari
 Dorado
 Doral
 Dorchester
@@ -7014,6 +7059,8 @@ Dornod Province
 Dornogovi Province
 Dorogomilovo District
 Dorohusk commune
+Dorokha
+Dorona
 Dorotea
 Dorset
 Dortdivan
@@ -7024,6 +7071,7 @@ Dosemealti
 Doshi
 Dosquebradas
 Dosso Region
+Doteng
 Dottikon
 Döttingen
 Douai
@@ -7061,6 +7109,7 @@ Dracut
 Dragacz commune
 Draganić
 Dragas
+Dragteng
 Drahanovice
 Drahany
 Drahelcice
@@ -7073,6 +7122,7 @@ Drahonuv Ujezd
 Drahotin
 Drahous
 Drakenstein
+Drametse
 Drammen
 Drangedal
 Drasenhofen
@@ -7094,6 +7144,7 @@ Drei Höfe
 Drelow commune
 Drenice
 Drenthe
+Drepung
 Dresden
 Dresin
 Dretovice
@@ -7135,6 +7186,7 @@ Drouzkovice
 Drozdov
 Dr Ruth Segomotsi Mompati
 Drslavice
+Drugyelgang
 Druhanov
 Drumheller
 Drummond
@@ -7232,7 +7284,11 @@ Dundgovi Province
 Dundurn
 Dundy County
 Dunedin
+Dunglegang
+Dungmin
+Dungna
 Dungog
+Dungtoe
 Dunkelsteinerwald
 Dunkerque
 Dunklin County
@@ -7310,6 +7366,7 @@ Dzierzoniow
 Dzierzoniow commune
 Dzierzoniow County
 Dziwnow commune
+Dzoma
 Ea
 Eagan
 Eagle County
@@ -8757,6 +8814,7 @@ Gaishorn am See
 Gaissau
 Gaithersburg
 Gaivuotna-Kåfjord
+Gakiling
 Galapa
 Galapagar
 Galápagos Province
@@ -8809,7 +8867,9 @@ Gangdong District
 Ganghwa District
 Gangnam District
 Gangseo District
+Gangte
 Gangwon Province
+Gangzur
 Gannawarra
 Gan Rave
 Gänsbrunnen
@@ -8867,6 +8927,7 @@ Garwolin County
 Gary
 Garza County
 Garzón
+Gasa
 Gasawa commune
 Gaschurn
 Gasconade County
@@ -8874,6 +8935,8 @@ Gascones
 Gascoyne
 Ga-Segonyana
 Gasen
+Gasetsho Gom
+Gasetsho Om
 Gaspé
 Gaspésie–Îles-de-la-Madeleine
 Gastern
@@ -8941,8 +9004,10 @@ Geldermalsen
 Geldrop-Mierlo
 Gelendost
 Gelendzhik
+Gelephu
 Gelgaudiškis
 Gelibolu
+Geling
 Gelsenkirchen
 Gelterkinden
 Geltwil
@@ -8978,6 +9043,7 @@ Genova
 Gent
 Genthod
 Gentry County
+Genye
 George
 George County
 Georgenthal
@@ -9019,10 +9085,12 @@ Gersthof
 Gerterode
 Gert Sibande
 Gerze
+Gesarling
 Geschwenda
 Gestratz
 Geta
 Getafe
+Getana
 Getaria
 Gettnau
 Gettysburg
@@ -9233,6 +9301,9 @@ Gocek
 Godfrey
 Godo
 Godziszow commune
+Goenkhame
+Goenkhatoe
+Goenshari
 Goeree-Overflakkee
 Goes
 Göfis
@@ -9295,6 +9366,7 @@ Golub-Dobrzyn County
 Golyaka
 Golyanovo District
 Gombe State
+Gomdar
 Gomec
 Gomel
 Gomel Region
@@ -9309,6 +9381,7 @@ Gonça
 Gondar
 Gondomar
 Gonen
+Gongdue
 Gonohe
 Gonten
 Gontenschwil
@@ -9380,6 +9453,7 @@ Gorzno commune
 Gorzow Wielkopolski City
 Gorzow Wielkopolski County
 Gorzyca commune
+Gosarling
 Göschenen
 Goscieradow commune
 Goscino commune
@@ -9449,6 +9523,8 @@ Goynuk
 Gozd commune
 Gozdnica
 Gozdowo commune
+Gozhi
+Gozhing
 Gozón
 Gozo Region
 Grabern
@@ -9900,6 +9976,7 @@ Gulluk
 Gulpen-Wittem
 Gulpinar
 Gulsehir
+Guma
 Gummersbach
 Gumpendorf
 Gumpoldskirchen
@@ -9996,6 +10073,7 @@ Györ-Moson-Sopron County
 Gyumri
 Gzira
 Hå
+Haa
 Haabersti
 Haacht
 Häädemeeste Parish
@@ -10785,6 +10863,7 @@ Hildburghausen District
 Hilden
 Hildesheim District
 Hildisrieden
+Hiley
 Hill County
 Hille
 Hillegom
@@ -11469,6 +11548,7 @@ Hundwil
 Hunedoara County
 Hünenberg
 Hungelbrunn
+Hungrel
 Hüniken
 Hunt County
 Hunter
@@ -12137,6 +12217,7 @@ Jambi
 James City County
 Jämijärvi
 Jämjö locality
+Jamkhar
 Jammu
 Jammu and Kashmir
 Jamne
@@ -12148,6 +12229,7 @@ Jämtland County
 Jamundí
 Jamy
 Janakkala
+Jangchhubling
 Janikowo commune
 Jankov
 Jankovice
@@ -12168,6 +12250,7 @@ Janske Lazne
 Januv Dul
 Japons
 Jaramillo
+Jaray
 Järbo district
 Jarcova
 Jardim Botânico
@@ -12348,6 +12431,7 @@ Jicin
 Jicin District
 Jieznas
 Jigawa State
+Jigmichhoeling
 Jihlava
 Jihlava District
 Jihocesky Region
@@ -12519,6 +12603,7 @@ Jurbarkas
 Jurbarkas District Municipality
 Juriens
 Jurmala
+Jurmey
 Jurong Central
 Jurong-Clementi
 Jurong Spring
@@ -12541,6 +12626,7 @@ Kabaduz
 Kabale District
 Kabansky District
 Kabardino-Balkaria
+Kabjisa
 Kabul
 Kacanik
 Kacanovy
@@ -12659,6 +12745,7 @@ Kalek
 Kalenice
 Kalgoorlie-Boulder
 Kalhov
+Kalidzingkha
 Kalilangan
 Kalimantan Barat
 Kalimantan Selatan
@@ -12839,6 +12926,8 @@ Kangaatsiaq
 Kangal
 Kangaroo Island
 Kangasala
+Kanglung
+Kangpara
 Kani
 Kanice
 Kanie
@@ -13087,6 +13176,7 @@ Katov
 Katovice
 Katowice
 Katrineholm
+Katsho
 Katsina State
 Katsuragi
 Katsurao
@@ -13139,6 +13229,7 @@ Kawamata
 Kawaminami
 Kawamoto
 Kawanehon
+Kawang
 Kawanishi
 Kawara
 Kawartha Lakes
@@ -13167,6 +13258,7 @@ Kazanka district
 Kazanlak
 Kazanow commune
 Kazbegi
+Kazhi
 Kazidlo commune
 Kazimierza Wielka County
 Kazimierz Dolny commune
@@ -13260,6 +13352,7 @@ Kenbuchi
 Kendall County
 Kendal Regency
 Kenedy County
+Kengkhar
 Kenitra
 Kénitra Province
 Kennebec County
@@ -13359,11 +13452,14 @@ Khabarovsky District
 Khâi-Ma
 Khakassia
 Khakurinokhablskoye
+Khaling
+Khamdang
 Khamovniki District
 Khandallah
 Khanty-Mansi Autonomous Area
 Khanty-Mansysk
 Khan Yunis
+Khar
 Kharagauli
 Khara Hais
 Kharkiv city
@@ -13385,6 +13481,7 @@ Khentii Province
 Kherson city
 Kherson Region
 Khimki
+Khipisa
 Khmelnytskyi city
 Khmelnytskyi district
 Khmelnytskyi Region
@@ -13394,6 +13491,7 @@ Khobi
 Khodoriv city
 Khoiniki
 Kholmsk
+Khoma
 Khomas Region
 Khoni
 Khon Kaen Province
@@ -13460,6 +13558,7 @@ Kikai
 Kikinda
 Kikol commune
 Kikonai
+Kikorthang
 Kikuchi
 Kikugawa
 Kikuyo
@@ -14072,6 +14171,7 @@ Korostyshiv district
 Korouhev
 Korouzne
 Korozluky
+Korphu
 Korpilombolo district
 Korsakov
 Korschenbroich
@@ -14684,6 +14784,7 @@ Kursk Region
 Kursumlija
 Kurtamysh
 Kurtbey
+Kurtoe
 Kurtun
 Kurucasile
 Kurudere
@@ -14964,6 +15065,7 @@ Lainz
 Laird
 Laitila
 Laja
+Lajab
 La Jagua de Ibirico
 La Jagua del Pilar
 Lajas
@@ -15028,6 +15130,7 @@ La Merced
 Lamerdingen
 La Mé Region
 La Mesa
+Lamgong
 Lamia
 La Mirada
 Lamoille County
@@ -15101,6 +15204,7 @@ La Neuveville
 Lang
 Langa
 Langau
+Langchhenphu
 Langeberg
 Langedijk
 Langemark-Poelkapelle
@@ -15131,6 +15235,7 @@ Langolen
 Langreo
 Langrickenbach
 Langschlag
+Langthil
 Langwiesen
 Lanhouarneau
 Lanier County
@@ -15310,6 +15415,7 @@ Laurel County
 Laurens County
 Laurentides
 Laurenzergrund
+Lauri
 Laurier
 Lausanne
 Lausen
@@ -15348,6 +15454,7 @@ Laxå
 Laxenburg
 Laxey
 Lax̱g̱alts’ap
+Laya
 Laz
 Laza
 Lazanky
@@ -15692,6 +15799,7 @@ Lezajsk County
 Lezayre Parish
 Lezhë County
 Lezo
+Lhamoizingkha
 Lhanice
 Lhenice
 L Hospitalet de Llobregat
@@ -15707,6 +15815,7 @@ Lhotka nad Labem
 Lhotka u Litultovic
 Lhotsko
 Lhoty u Potstejna
+Lhuentse
 Lianozovo District
 Liaoning
 Liba
@@ -15880,6 +15989,8 @@ Lingenau
 Lingewaal
 Lingewaard
 Lingga Regency
+Lingmukha
+Lingzhi
 Linhartice
 Liniers
 Linkebeek
@@ -16085,6 +16196,7 @@ Logan
 Logan County
 Logan Lake District
 Logatec
+Logchina
 Log-Dragomer
 Logonna-Daoulas
 Logroño
@@ -16439,6 +16551,7 @@ Luleburgaz
 Lulec
 Lully
 Lumajang Regency
+Lumang
 Lumby
 Lumiar
 Lumino
@@ -16450,6 +16563,7 @@ Lumpzig
 Lumsden
 Lün
 Luna County
+Lunana
 Lund
 Lundy Island
 Lüneburg District
@@ -16457,6 +16571,7 @@ Lünen
 Lunenburg
 Lunenburg County
 Lungern
+Lungnyi
 Luninets
 Lunner
 Lunz am See
@@ -17209,6 +17324,7 @@ Martinsville
 Martna Parish
 Marton
 Martos
+Martshala
 Marttila
 Martvili
 Marugame
@@ -17572,6 +17688,7 @@ Menameradiel
 Menany
 Menard County
 Menashe
+Menbi
 Mendaro
 Menden
 Menderes
@@ -17581,6 +17698,7 @@ Mendocino County
 Mendon
 Mendoza
 Mendoza Province
+Mendrelgang
 Mendrisio
 Menemen
 Menen
@@ -17605,6 +17723,7 @@ Meoqui Municipality
 Meota
 Meppel
 Merafong City
+Merak
 Meråker
 Meram
 Merbes-le-Château
@@ -17685,6 +17804,7 @@ Mesto Touskov
 Meta Department
 Metallostroy
 Metamorfosi
+Metap
 Metcalfe County
 Metchosin District
 Methuen
@@ -17710,6 +17830,7 @@ Metropolitan City of Reggio Calabria
 Metropolitan City of Roma
 Metropolitan City of Torino
 Metropolitan City of Venezia
+Metsho
 Metsimaholo
 Mettauertal
 Mettembert
@@ -17729,6 +17850,7 @@ Meuselwitz
 Mevaseret Zion
 Mevo'ot HaHermon
 Mevo Hama
+Mewang
 Mex
 México
 Meyriez
@@ -17985,6 +18107,7 @@ Mingo County
 Mingorría
 Minidoka County
 Minihof-Liebau
+Minjay
 Minneapolis
 Minnehaha County
 Minnesota
@@ -18297,6 +18420,8 @@ Monfero
 Monforte
 Monforte de Lemos
 Mongaguá
+Mongar
+Monggar
 Mongmong-Toto-Maite
 Möngönmorit
 Mongua
@@ -18962,12 +19087,14 @@ Nahant
 Nahari
 Nahariyya
 Nahf
+Nahi
 Nahorany
 Nahosovice
 Naie
 Nairnshire
 Nairobi
 Nairobi County
+Naja
 Najran
 Naka
 Nakadomari
@@ -19022,6 +19149,7 @@ Namegawa
 Namerikawa
 Namest nad Oslavou
 Namest na Hane
+Namgyel Chhoeling
 Namie
 Namiquipa Municipality
 Namlos
@@ -19042,6 +19170,7 @@ Nance County
 Nancy
 Nandi County
 Nandrin
+Nangkor
 Nanjing
 Nanjo
 Nankan
@@ -19049,6 +19178,7 @@ Nankoku
 Nanmoku
 Nannestad
 Nannup
+Nanong
 Nanortalik
 Nanporo
 Nan Province
@@ -19074,6 +19204,7 @@ Naracoorte Lucindale
 Naraha
 Naramec
 Naranbulag
+Narang
 Naranjito
 Nara Prefecture
 Narashino
@@ -19083,6 +19214,7 @@ Nariño
 Nariño Department
 Narita
 Narlidere
+Naro
 Narodychi district
 Naro-Fominsk
 Narok County
@@ -19504,6 +19636,7 @@ Ngada Regency
 Ngahere
 Ngaio
 Ngaka Modiri Molema
+Ngangla
 Nganjuk Regency
 Ngapara
 Ngaraard
@@ -19512,6 +19645,7 @@ Ngardmau
 Ngaruawahia
 Ngatea
 Ngatpang
+Ngatshang
 Ngauranga
 Ngawi Regency
 Ngchesar
@@ -19531,6 +19665,7 @@ Nica
 Nice
 Nichinan
 Nicholas County
+Nichula
 Nickelsdorf
 Nickerie District
 Nicollet County
@@ -19750,6 +19885,7 @@ Noosa
 Nora
 Norbercany
 Norberg
+Norbugang
 Norcasia
 Norco
 Nord
@@ -20115,6 +20251,7 @@ Nozawaonsen
 Nquthu
 Ntabankulu
 Ntambanana
+Nubi
 Nucice
 Nuckolls County
 Núcleo Bandeirante
@@ -20183,6 +20320,7 @@ Nybro district
 Nydek
 Nye County
 Nyiregyhaza
+Nyisho
 Nyklovice
 Nyköping
 Nykvarn
@@ -21256,6 +21394,7 @@ Page County
 Pagegiai
 Pagegiai Municipality
 Paget Parish
+Pagli
 Pahang
 Pahiatua
 Paicol
@@ -21373,6 +21512,7 @@ Panevežys County
 Panevežys District Municipality
 Pangandaran Regency
 Pangasinan
+Pangkhar
 Pangnirtung
 Panguipulli
 Panipat
@@ -21459,6 +21599,7 @@ Parndorf
 Parnell
 Pärnu
 Pärnumaa
+Paro
 Paroa
 Paroo
 Paros
@@ -21519,6 +21660,7 @@ Pasvalys District Municipality
 Pašvitinys
 Paszowice commune
 Patagones Department
+Patakla
 Patea
 Patek
 Paterna del Campo
@@ -21660,7 +21802,9 @@ Pellegrini Department
 Pelluhue
 Peloponnese
 Pelotas
+Pemagatshel
 Pemalang Regency
+Pemathang
 Pemberton
 Pembina County
 Pembroke
@@ -21891,6 +22035,7 @@ Pfunds
 Pfungen
 Pfyn
 Phang Nga Province
+Phangyuel
 Phatthalung Province
 Phayao Province
 Phelps County
@@ -21904,12 +22049,17 @@ Phillips County
 Phillipston
 Phitsanulok Province
 Phnom Penh
+Phobji
 Phoenix
 Phokwane
+Phongme
 Phrae Province
 Phra Nakhon Si Ayutthaya Province
+Phuentenchhu
+Phuentsholing
 Phuket Province
 Phumelela
+Phuntsthothang
 Piamonte
 Pians
 Piapot
@@ -23108,6 +23258,7 @@ Pultusk commune
 Pultusk County
 Pulyny district
 Puna'auia
+Punakha
 Pune
 Punia
 Punitaqui
@@ -23341,6 +23492,7 @@ Radfeld
 Radford
 Radgoszcz commune
 Radhost
+Radi
 Radic
 Radikov
 Radikovice
@@ -23473,6 +23625,7 @@ Ramillies
 Ramingstein
 Ramirás
 Ramiriquí
+Ramjar
 Ramla
 Ramlinsburg
 Rammerech
@@ -23512,6 +23665,7 @@ Ranggen
 Rangiora
 Rangiroa
 Rangitikei District
+Rangthangling
 Ranilug
 Rankin County
 Rankin Inlet
@@ -24425,6 +24579,7 @@ Rudo municipality
 Rudy
 Rue
 Ruen
+Ruepisa
 Ruesga
 Rueyres
 Rüfenach
@@ -24782,6 +24937,7 @@ Sakhnovshchyna district
 Šakiai District Municipality
 Sakiet Ezzit
 Sakon Nakhon Province
+Sakteng
 Saku
 Sakuho
 Saku Parish
@@ -24821,6 +24977,7 @@ Sale
 Salekhard
 Salem
 Salem County
+Saleng
 Salenstein
 Salento
 Salé Prefecture
@@ -24864,6 +25021,7 @@ Salzgitter
 Salzkotten
 Salzland District
 Salzwedel District
+Sama
 Samacá
 Samac municipality
 Samaná
@@ -24879,10 +25037,12 @@ Sambir city
 Sambir district
 Sambreville
 Samburu County
+Samdrupjongkhar
 Samedan
 Samegawa
 Samegreli Zemo Svaneti
 Samiajij Miawpukek
+Samkhar
 Sammu
 Samnanger
 Samnaun
@@ -24891,10 +25051,13 @@ Samokov
 Samos
 Samotisky
 Sampang Regency
+Samphelling
 Sampson County
+Samrang
 Samsun Metropolitan Municipality
 Samsun Province
 Samtredia
+Samtse
 Samtskhe Javakheti
 Samuil
 Samukawa
@@ -25461,6 +25624,7 @@ Sarny city
 Sarny district
 Saroma
 Sarovy
+Sarpang
 Sarpsborg
 Sarpy County
 Sarria
@@ -25899,6 +26063,7 @@ Senèdes
 Seneffe
 Senetarov
 Senftenberg
+Senge
 Senice na Hane
 Senicka
 Senieji Trakai
@@ -25931,6 +26096,7 @@ Seongbuk District
 Seongdong District
 Seoul
 Sepekov
+Sephu
 Sepolno County
 Sepolno Krajenskie commune
 Septemvri
@@ -25975,6 +26141,7 @@ Serravalle
 Serres
 Sers
 Sertã
+Serthig
 Sertolovo
 Servion
 Serzedelo
@@ -26061,6 +26228,7 @@ Shannon County
 Shan State
 Shantytown
 Shanxi
+Shapa
 Shaqib al-Salam
 Sharhorod city
 Sharhorod district
@@ -26099,7 +26267,9 @@ Shelby County
 Shellbrook
 Shellharbour
 Shelton
+Shemjong
 Shenandoah County
+Shengabjimi
 Shenyang
 Shenzhen
 Shepetivka city
@@ -26112,7 +26282,9 @@ Sheridan
 Sheridan County
 Sherman
 Sherman County
+Shermung
 Sherwood
+Sherzhong
 Sheshatshiu
 Shetland
 Shevchenkivskyi district
@@ -26169,6 +26341,7 @@ Shin'onsen
 Shinagawa
 Shinano
 Shinchi
+Shingkhar
 Shingo
 Shingu
 Shinhidaka
@@ -26217,8 +26390,10 @@ Shoalhaven
 Shodoshima
 Shoham
 Shoinsky
+Shompangkha
 Shomron
 Shonai
+Shongphu
 Shoo
 Shoreview
 Shosanbetsu
@@ -26238,6 +26413,7 @@ Shropshire (district)
 Shuakhevi
 Shumen
 Shumen Province
+Shumer
 Shumikha
 Shumsk city
 Shumsk district
@@ -26343,6 +26519,7 @@ Sikka Regency
 Sikkim
 Šilale
 Šilale District Municipality
+Silambi
 Šilavotas
 Silberhausen
 Silbertal
@@ -26450,6 +26627,7 @@ Siparia Region
 Sipí
 Sipoo
 Sipovo municipality
+Sipsu
 Sipy
 Siquijor
 Sira
@@ -26789,6 +26967,7 @@ Söderköping
 Södermanland County
 Södertälje
 Sodražica
+Soe
 Soeda
 Soest
 Soest District
@@ -26877,6 +27056,7 @@ Sölvesborg locality
 Soma
 Somaliland
 Somali Region
+Sombey
 Sombor
 Sombreffe
 Someren
@@ -28246,6 +28426,7 @@ Tacoronte
 Tacuarembó Department
 Tadami
 Tadaoka
+Tading
 Tadó
 Tadotsu
 Tadten
@@ -28337,6 +28518,7 @@ Takikawa
 Takinoue
 Takizawa
 Takko
+Taklai
 Tako
 Tak Province
 Taku
@@ -28360,6 +28542,7 @@ Tallapoosa County
 Tallinn
 Talne city
 Talne district
+Talo
 Talofofo
 Taloyoak
 Talsi
@@ -28412,6 +28595,7 @@ Tandil
 Tandil Department
 Tandridge
 Taney County
+Tang
 Tangerang
 Tangerang Regency
 Tangerang Selatan
@@ -28419,6 +28603,7 @@ Tanger-Tetouan-Al Hoceima
 Tangier
 Tangier-Assilah Prefecture
 Tangipahoa Parish
+Tangsibji
 Tangua
 Tangub
 Tanintharyi Region
@@ -28683,6 +28868,7 @@ Tenali
 Ten Boer
 Tendo
 Tendring
+Tendu
 Tene
 Tenei
 Tenerife
@@ -28814,6 +29000,7 @@ Thames
 Thames-Coromandel District
 Thane
 Thanet
+Thangrong
 Thannhausen
 Tharaka-Nithi County
 Thaur
@@ -28823,6 +29010,7 @@ Thayngen
 Thebes
 The Big Five False Bay
 The Bronx
+Thedtsho
 Theewaterskloof
 The Gap
 The Hills
@@ -28838,6 +29026,7 @@ Thessaly
 Theux
 Thibodaux
 Thiersee
+Thimphu
 Thira
 Thiruvananthapuram
 Thlopthlocco Tribal Town
@@ -28863,6 +29052,7 @@ Three Hills
 Three Lakes
 Three Rivers
 Three Springs
+Thrimshing
 Thrissur
 Throckmorton County
 Thuin
@@ -29033,6 +29223,9 @@ Tocopilla
 Toda
 Todd County
 Toei
+Toepisa
+Toetsho
+Toewang
 Togane
 Togitsu
 Togo
@@ -29107,6 +29300,7 @@ Tomiya
 Tompkins County
 Tomsk
 Tomsk Region
+Tomzhangtshen
 Tonaki
 Tonami
 Tonbridge and Malling
@@ -29296,6 +29490,9 @@ Tranøy
 Traplice
 Traryd district
 Trasadingen
+Trashiding
+Trashigang
+Trashiyangtse
 Trat Province
 Trattenbach
 Traunstein District
@@ -29444,6 +29641,8 @@ Trollhättan
 Troms
 Tromsø
 Trondheim
+Trong
+Trongsa
 Troparyovo-Nikulino District
 Trosa
 Troškūnai
@@ -29505,8 +29704,11 @@ Trzyciaz commune
 Trzydnik Duzy commune
 Trøgstad
 Tsageri
+Tsakaling
 Tsalenjikha
 Tsalka
+Tsamang
+Tsangkha
 Tsantsabane
 Tsarevo
 Tsaritsyno District
@@ -29517,7 +29719,14 @@ Tschanigraben
 Tschappina
 Tschiertschen-Praden
 Tseel
+Tsendagang
+Tsenkhar
+Tsento
+Tseza
+Tsholingkhor
 Tsiigehtchic
+Tsirang
+Tsirangtoe
 Tskaltubo
 Tsolwana
 Tsu
@@ -29822,6 +30031,7 @@ Udlice
 Udligenswil
 Udmurtia
 Udon Thani Province
+Udzorong
 Ueberstorf
 Ueda
 Uedem
@@ -29831,11 +30041,13 @@ Ueno
 Uenohara
 Uerkheim
 Uesslingen-Buch
+Uesu
 Uetikon am See
 Uezwil
 Ufa
 Ufhusen
 Ugarchin
+Ugentse
 Uglegorsk
 Uglegorsky District
 Ugljevik municipality
@@ -29948,6 +30160,7 @@ Umi
 Umjindi
 uMkhanyakude
 Umlalazi
+Umling
 Umm al-Fahm
 Umm Al-Quwain
 Ummerstadt
@@ -30061,6 +30274,7 @@ Upson County
 Upton
 Upton County
 Upyte
+Ura
 Urahoro
 Urakawa
 Uralla
@@ -31608,12 +31822,15 @@ Wang
 Wangaloa
 Wanganui
 Wangaratta
+Wangchang
+Wangduephodrang
 Wangen
 Wangen bei Olten
 Wangen-Brüttisellen
 Wangenheim
 Wängi
 Wängle
+Wangphu
 Wanneroo
 Wanouchi
 Wanseler
@@ -32428,6 +32645,7 @@ Yakutat
 Yakutiye
 Yakutsk
 Yakymivka district
+Yalang
 Yala Province
 Yalgoo
 Yali
@@ -32474,8 +32692,10 @@ Yanaizu
 Yancey County
 Yanchukan
 Yangcheon District
+Yangnyer
 Yangon
 Yangon Region
+Yangtse
 Yankalilla
 Yankton County
 Yankton Indian Reservation
@@ -32597,6 +32817,7 @@ Ylakiai
 Ylöjärvi
 Yoakum County
 Yobe State
+Yoeseltse
 Yogyakarta
 Yogyakarta (city)
 Yoichi
@@ -32684,6 +32905,7 @@ Yurihama
 Yurihonjo
 Yurivka district
 Yurtbeyli
+Yurung
 Yusharsky
 Yusuhara
 Yusui
@@ -33072,6 +33294,7 @@ Zhdanivka city
 Zhejiang
 Zheleznodorozhny
 Zheleznogorsk
+Zhemgang
 Zhezkazgan
 Zhitikara
 Zhlobin
@@ -33188,6 +33411,7 @@ Znin commune
 Znin County
 Znojmo
 Znojmo District
+Zobel
 Zöbern
 Zöblen
 Zoersel
