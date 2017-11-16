@@ -1,76 +1,74 @@
+Aprelevka
 Balashikha
 Bronnitsy
-Chekhovsky District
 Chernogolovka
-Dmitrovsky District
-Dolgoprudny
-Domodedovo
+Dedovsk
+Dmitrov
 Dubna
 Dzherzhinsky
-Elektrogorsk
+Egorevsk
 Elektrostal
 Fryazino
-Istrinsky District
-Ivanteyevka
-Kashirsky District
+Istra
+Kashira
 Khimki
-Klimiovsk
-Klinsky District
-Kolomensky District
+Klin
 Kolomna
 Korolev
-Kotelniki
-Krasnoarmeysk
-Krasnogorasky District
-Krasnoznamensk
-Leninsky District
+Krasnogorsk
 Lobnya
-Losino-Petrovsky
-Lotoshinksy District
-Lukhovitsky District
-Lytkarino
-Lyuberetsky District
-Molodyozhny
-Mozhaysky District
+Lotoshino
+Lyubertsy
+Mozhaysk
 Mytishchi
+<<<<<<< HEAD
 Mytishchinsky District
 Naro-Fominsky District
 Noginsk
 Noginsky District
 Odintsovsky District
+=======
+Naro-Fominsk
+Noginsk
+Odintsovo
+>>>>>>> parent of 25bfdba39... added some russian 1st and 2nd level administrative regions
 Orekhovo-Zuevo
-Orekhovo-Zuyevsky District
 Ozyory
+<<<<<<< HEAD
 Pavlovo-Posadsky District
+=======
+>>>>>>> parent of 25bfdba39... added some russian 1st and 2nd level administrative regions
 Pavlovsky Posad
 Podolsk
-Podolsky District
-Protvino
 Pushkino
-Pushkinsky District
-Ramensky District
 Reutov
+<<<<<<< HEAD
 Roshal
 Ruzsky District
 Serebryano-Prudsky District
 Sergiev Posad
 Sergiyevo-Posadsky District
+=======
+Sergiev Posad
+>>>>>>> parent of 25bfdba39... added some russian 1st and 2nd level administrative regions
 Serpukhov
-Serpukhovsky District
-Shakhovskoy District
-Shatursky District
-Shchyolkovsky District
-Solnechnogorsky District
-Stupinsky District
-Taldomsky District
-Vlasikha
-Volokolamsky District
+Shatura
+Shchelkovo
+Taldom
+Verbilki
+Vereya
+Vidnoe
+Volokolamsk
 Voskhod
+<<<<<<< HEAD
 Voskresensky District
 Yegoryevsky District
 Yubileyny
 Zaraysky District
+=======
+Voskresensk
+Yubileyny
+Zaraysk
+>>>>>>> parent of 25bfdba39... added some russian 1st and 2nd level administrative regions
 Zheleznodorozhny
 Zhukovsky
-Zvenigorod
-Zvyozdny gorodok
