@@ -1635,7 +1635,6 @@ Ayer
 Ayeyarwady Region
 Aylesbury Vale
 Ayranci
-Ayrshire
 Ayryumovskoye
 Aysén
 Aysén Region
@@ -1926,7 +1925,6 @@ Bandung
 Bandung Barat Regency
 Bandung Regency
 Banff
-Banffshire
 Bangkalan Regency
 Bangkok
 Bangli Regency
@@ -2649,7 +2647,6 @@ Bertrand
 Bertrix
 Berunice
 Berwang
-Berwickshire
 Beryozovskoye
 Beryslav city
 Beryslav district
@@ -4363,7 +4360,6 @@ Caieiras
 Cairns
 Cairo
 Cairo Governorate
-Caithness
 Cajamarca
 Cajamarca Province
 Cajamarca Region
@@ -7477,12 +7473,11 @@ Duluth
 Dumaguete
 Dumbleyung
 Dumbría
-Dumfriesshire
+Dumfries and Galloway
 Dunaivtsi city
 Dunaivtsi district
 Dunback
 Dunbar
-Dunbartonshire
 Duncan
 Dundaga
 Dundas
@@ -7592,6 +7587,7 @@ Ealing
 Early County
 Earnscleugh
 East Arnhem
+East Ayrshire
 East Baton Rouge Parish
 East Berbice-Corentyne
 Eastbourne
@@ -7603,6 +7599,7 @@ East Chicago
 East Coast-Fengshan
 East Devon
 East Dorset
+East Dunbartonshire
 Eastern Administrative Okrug
 Eastern Bieh
 Eastern Cape
@@ -7643,6 +7640,7 @@ East Northamptonshire
 Easton
 East Pilbara
 East Providence
+East Renfrewshire
 East Riding of Yorkshire
 East Riding of Yorkshire (district)
 East Sepik Province
@@ -8391,6 +8389,7 @@ Fălesti District
 Falher
 Falkenberg
 Falkenstein
+Falkirk
 Falköping
 Fällanden
 Fallbach
@@ -12186,12 +12185,12 @@ Inuvik
 Inuvik Region
 Inuyama
 Invercargill
+Inverclyde
 Inverell
 Invergordon
 Inver Grove Heights
 Invermay
 Inverness County
-Inverness-shire
 Inwil
 Inxuba Yethemba
 Inyo County
@@ -13947,7 +13946,6 @@ Kimobetsu
 Kimotsuki
 Kimovsk
 Kin
-Kincardineshire
 Kinda
 Kindberg
 Kindersley
@@ -14019,7 +14017,6 @@ Kirillov
 Kirishi
 Kirishima
 Kirkagac
-Kirkcudbrightshire
 Kirkham
 Kirkkonummi
 Kirkland
@@ -15626,7 +15623,6 @@ Lanaken
 Lanao del Norte
 Lanao del Sur
 Lanark County
-Lanarkshire
 Lanarvily
 Lanaudière
 La Nava
@@ -19659,12 +19655,12 @@ Nahanni Butte
 Nahant
 Nahari
 Nahariyya
+Na h-Eileanan Siar
 Nahf
 Nahi
 Nahorany
 Nahosovice
 Naie
-Nairnshire
 Nairobi
 Nairobi County
 Naja
@@ -20550,6 +20546,7 @@ Northampton County
 Northamptonshire
 North Andover
 North Attleborough
+North Ayrshire
 North Battleford
 Northborough
 North Branford
@@ -20606,6 +20603,7 @@ North Hwanghae Province
 North Kazakhstan Region
 North Kesteven
 North Kurdufan State
+North Lanarkshire
 Northland Region
 North Las Vegas.jpg
 North Lauderdale
@@ -25237,7 +25235,6 @@ Roslyn
 Rosoman
 Rosovice
 Rossa
-Ross and Cromarty
 Rossatz-Arnsdorf
 Rossau
 Ross County
@@ -25321,7 +25318,6 @@ Rowan County
 Rowe
 Rowley
 Roxburgh
-Roxburgh, Ettrick and Lauderdale
 Roxbury
 Roxby Downs
 Royal Oak
@@ -26730,6 +26726,7 @@ Scotland
 Scotland County
 Scott
 Scott County
+Scottish Borders
 Scotts Bluff County
 Scottsdale
 Scranton
@@ -28091,6 +28088,7 @@ Southampton
 Southampton County
 Southampton Parish
 South Australia
+South Ayrshire
 South Bend
 Southborough
 Southbridge
@@ -28139,6 +28137,7 @@ South Kazakhstan Region
 South Kesteven
 South Kurdufan State
 South Lakeland
+South Lanarkshire
 Southland District
 Southland Region
 South Norfolk
@@ -28631,7 +28630,6 @@ Stimlje
 Stinatz
 Štip
 Stirling
-Stirling and Falkirk
 Stitary
 Stitina
 Stitna nad Vlari-Popov
@@ -30966,7 +30964,6 @@ Tvrdonice
 Tvøroyri
 Twardogora commune
 Tweed
-Tweeddale
 Tweng
 Twenterand
 Twentynine Palms
@@ -33201,6 +33198,7 @@ West Coast
 West Coast Region
 West Devon
 West Dorset
+West Dunbartonshire
 Westendorf
 Westerheim im Unterallgäu
 Westerlo
@@ -33212,7 +33210,6 @@ Western Cape
 Western Downs
 Western Greece
 Western Highlands Province
-Western Isles
 Western Lakes
 Western Macedonia
 Western Nile
@@ -33406,7 +33403,6 @@ Wietrzychowice commune
 Wigan
 Wiggensbach
 Wigoltingen
-Wigtownshire
 Wijchen
 Wijdemeren
 Wijk bij Duurstede
@@ -34019,6 +34015,7 @@ Yuasa
 Yuba County
 Yubari
 Yubetsu
+Yubileyny
 Yucatán
 Yuen Long District
 Yufu
