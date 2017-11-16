@@ -2011,6 +2011,7 @@ Barguzinsky District
 Bari
 Barice-Velke Tesany
 Barilović 
+Barima-Waini
 Barinas
 Barinas (city)
 Baringo County
@@ -6372,6 +6373,7 @@ Cutral Có
 Cuttack
 Cuxhaven District
 Cuyahoga County
+Cuyuni-Mazaruni
 Cvikov
 Cvrcovice
 Cybinka commune
@@ -6677,11 +6679,8 @@ Delta County
 Delta State
 Demak Regency
 De Marne
-<<<<<<< HEAD
 Demerara-Mahaica
 Demihovskoye
-=======
->>>>>>> parent of 4d6199b27... added 1st level guyana proposed flags (attempt 2)
 Demirci
 Demir Hisar
 Demir Kapija
@@ -7590,6 +7589,7 @@ Earnscleugh
 East Arnhem
 East Ayrshire
 East Baton Rouge Parish
+East Berbice-Corentyne
 Eastbourne
 East Bridgewater
 East Brookfield
@@ -8238,6 +8238,7 @@ Essaouira
 Essaouira Province
 Es-Semara Province
 Essen
+Essequibo Islands-West Demerara
 Essertes
 Essertines-sur-Rolle
 Essertines-sur-Yverdon
@@ -17297,6 +17298,7 @@ Maguarichi Municipality
 Maguindanao
 Magüí-Payán
 Magway Region
+Mahaica-Berbice
 Mahajanga
 Mahalon
 Maharagama
@@ -23254,6 +23256,7 @@ Pölzig
 Pomar de Valdivia
 Pomarkku
 Pombal
+Pomeroon-Supenaam
 Pomezi
 Pomezi nad Ohri
 Pomfret
@@ -23432,6 +23435,7 @@ Postrelmov
 Postrelmuvek
 Postrizin
 Potaninskoye
+Potaro-Siparuni
 Potec
 Potenza
 Potes
@@ -28503,10 +28507,7 @@ Stary Poddvorov
 Stary Sacz
 Stasov
 Staszow County
-<<<<<<< HEAD
 State College
-=======
->>>>>>> parent of 4d6199b27... added 1st level guyana proposed flags (attempt 2)
 Statenice
 Staten Island
 Stattegg
@@ -31293,12 +31294,9 @@ Upata
 Upernavik
 uPhongolo
 Upice
-<<<<<<< HEAD
 Upornaya
 Upornenskoye
 Upper Demerara-Berbice
-=======
->>>>>>> parent of 4d6199b27... added 1st level guyana proposed flags (attempt 2)
 Upper Galilee
 Upper Gascoyne
 Upper Harbour Local Board
@@ -31309,6 +31307,7 @@ Upper Marlboro
 Upper Miramichi
 Upper Murray River
 Upper Skagit Indian Reservation
+Upper Takutu-Upper Essequibo
 Upplands-Bro
 Upplands Väsby
 Uppsala
