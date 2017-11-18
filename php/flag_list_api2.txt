@@ -327,6 +327,7 @@ Ajax
 Ajdovščina
 Ajigasawa
 Ajim
+Ajka District
 Ajman
 Ajuda
 Aka
@@ -951,6 +952,7 @@ Angostura
 Angra do Heroismo
 Ang Thong Province
 Angus
+Angyalfold-Ujlipotvaros-Vizafogo District
 Anhalt-Bitterfeld District
 Anhée
 Anhui
@@ -1447,6 +1449,7 @@ Asuka
 Asunción
 Aswan Governorate
 Asyut Governorate
+Aszod District
 Atabey
 Atacama Region
 Atakum
@@ -1703,6 +1706,7 @@ Backov
 Bacoachi
 Bacoachi Municipality
 Bacon County
+Bacsalmas District
 Bacs-Kiskun County
 Bácum
 Bácum Municipality
@@ -1803,6 +1807,7 @@ Baisweil
 Baitsi District
 Baja California
 Baja California Sur
+Baja District
 Baja Verapaz Department
 Bajina Basta
 Bajo Baudó
@@ -1827,6 +1832,7 @@ Bakio
 Bakirkoy
 Baklan
 Bakov nad Jizerou
+Baktaloranthaza District
 Bala
 Balabancik
 Balaklava
@@ -1837,6 +1843,9 @@ Balam
 Balanegra
 Balashikha
 Balashov
+Balassagyarmat District
+Balatonalmadi District
+Balatonfured District
 Balbieriškis
 Balboa
 Balchik
@@ -1875,6 +1884,7 @@ Ballstädt
 Ballwil
 Ballymena
 Balmaseda
+Balmazuvjaros District
 Balm bei Günsberg
 Balmoral
 Balneário Camboriú
@@ -1998,6 +2008,7 @@ Barcin commune
 Bar city
 Barco
 Barcoo
+Barcs District
 Bar district
 Bardo
 Bardo commune
@@ -2150,6 +2161,7 @@ Batna
 Batnovice
 Batocina
 Baton Rouge
+Batonyterenye District
 Batopilas Municipality
 Batorz commune
 Batres
@@ -2348,6 +2360,9 @@ Bekalta
 Bekasi
 Bekasi Regency
 Bekes County
+Bekescsaba
+Bekescsaba District
+Bekes District
 Bekkevoort
 Bela
 Bela-Bela
@@ -2357,6 +2372,7 @@ Belalcázar
 Bela nad Rudbuzou
 Bela nad Svitavou
 Bela Palanka
+Belapatfalva District
 Bela pod Bezdezem
 Bela pod Pradedem
 Bela u Jevicka
@@ -2447,6 +2463,7 @@ Beltrami County
 Beltrán
 Belu Regency
 Belusice
+Belvaros-Lipotvaros District
 Belvidere
 Belz city
 Belzec commune
@@ -2543,6 +2560,7 @@ Berehove district
 Beresford
 Berestechko city
 Beretinec 
+Berettyoujfalu District
 Bereza
 Berezan city
 Berezanka district
@@ -2837,6 +2855,7 @@ Bibrka city
 Bichelsee-Balterswil
 Bichlbach
 Bichursky District
+Bicske District
 Bidania-Goiatz
 Biddeford
 Bideford
@@ -3340,6 +3359,7 @@ Bolu
 Bolu Province
 Bolvadin
 Bolyarovo
+Boly District
 Boma
 Bombarral
 Bomet County
@@ -3372,6 +3392,7 @@ Bonnyville
 Bonnyville Municipal District
 Bonstetten
 Bonvillars
+Bonyhad District
 Boom
 Boone County
 Boortmeerbeek
@@ -4001,6 +4022,8 @@ Buckten
 Bucovice
 Bucuresti
 Buczek commune
+Budafok-Teteny District
+Budakeszi District
 Buda-Koshelevo
 Budapest
 Budec
@@ -4858,6 +4881,7 @@ Cederberg
 Ceduna
 Cedynia commune
 Cee
+Cegled District
 Ceglow commune
 Cehegín
 Cehnice
@@ -4885,6 +4909,7 @@ Céligny
 Celikhan
 Celinac municipality
 Celje
+Celldomolk District
 Celle District
 Celles
 Celorico da Beira
@@ -5644,6 +5669,7 @@ Cieza
 Ciezkowice
 Ciftlik
 Ciftlikkoy
+Cigand District
 Cigli
 Cihalin
 Cihan
@@ -6273,7 +6299,12 @@ Cruzeiro
 Cruzeiro do Sul
 Crveni Krst
 Crystal
+Csenger District
+Csepel District
 Csongrad County
+Csongrad District
+Csorna District
+Csurgo District
 Ctibor
 Ctidruzice
 Ctineves
@@ -6404,6 +6435,7 @@ Czlopa commune
 Czluchow County
 Czorsztyn commune
 Czosnow commune
+Dabas District
 Dabatuyskoye
 Dabeiba
 Dabie commune
@@ -6609,6 +6641,7 @@ Debno commune
 Debowa Kloda commune
 Debowa Laka commune
 Debrecen
+Debrecen District
 Decani
 Decatur
 Decatur County
@@ -6728,6 +6761,7 @@ Derbyshire
 Derbyshire Dales
 Derby-West Kimberley
 Derecine
+Derecske District
 Dereli
 Derendingen
 Derepazari
@@ -6786,6 +6820,7 @@ Deutschlandsberg District
 Deutsch Schützen-Eisenberg
 Deutsch-Wagram
 Deux-Sèvres
+Devecser District
 Develi
 Develier
 Deventer
@@ -7184,6 +7219,7 @@ Domat_Ems
 Domazelice
 Domazlice
 Domazlice District
+Dombovar District
 Domeikava
 Domingo Pérez de Granada
 Domleschg
@@ -7476,6 +7512,8 @@ Dumbría
 Dumfries and Galloway
 Dunaivtsi city
 Dunaivtsi district
+Dunakeszi District
+Dunaujvaros District
 Dunback
 Dunbar
 Duncan
@@ -7699,6 +7737,7 @@ Edam-Volendam
 Eddy County
 Ede
 Edegem
+Edeleny District
 Edelsbach bei Feldbach
 Edelschrott
 Edelstal
@@ -7752,6 +7791,8 @@ Effingham County
 Effretikon
 Eflani
 Efrat
+Eger
+Eger District
 Egerkingen
 Egg
 Egg an der Günz
@@ -8044,6 +8085,7 @@ Enbetsu
 Encamp
 Encarnación
 Encinasola
+Encs District
 Enderby
 Ende Regency
 Endingen
@@ -8092,6 +8134,7 @@ Entroncamento
 Enugu State
 Envigado
 Enviken locality
+Enying District
 Enz District
 Enzenreith
 Enzersdorf an der Fischa
@@ -8114,6 +8157,7 @@ Eravur
 Erbaa
 Ercis
 Erdberg
+Erd District
 Erdek
 Erdemli
 Erdene
@@ -8184,6 +8228,7 @@ Erzgebirgskreis
 Erzin
 Erzincan
 Erzincan Province
+Erzsebetvaros District
 Erzurum Metropolitan Municipality
 Erzurum Province
 Esashi
@@ -8264,6 +8309,7 @@ Estremera
 Estremoz
 Estrie
 Estuaire Province
+Esztergom District
 Étagnières
 Etajima
 Étalle
@@ -8451,6 +8497,7 @@ Fedinskoye
 Fedje
 Fedoskinskoye
 Feelen
+Fehergyarmat District
 Fehraltorf
 Fehren
 Fehring
@@ -8490,6 +8537,7 @@ Fentress County
 Feodosiya
 Feodosiya municipality
 Ferden
+Ferencvaros District
 Fergus County
 Ferizli
 Ferlach
@@ -8697,6 +8745,7 @@ Fontalovskoye
 Fontana
 Fontanella
 Fontenais
+Fonyod District
 Foothills Municipal District
 Forbes
 Forcarei
@@ -8999,6 +9048,7 @@ Futaba
 Futaleufú
 Futrono
 Futtsu
+Fuzesabony District
 Fuzhou
 Fylde
 Fyli
@@ -9136,6 +9186,7 @@ Garden County
 Garden Grove
 Garden River
 Gardner
+Gardony District
 Garðabær
 Garður
 Garfield County
@@ -9551,6 +9602,7 @@ Gobo
 Gocek
 Godfrey
 Godo
+Godollo District
 Godziszow commune
 Goenkhame
 Goenkhatoe
@@ -9634,6 +9686,7 @@ Gompertshausen
 Goms
 Gomu
 Gonça
+Gonc District
 Gondar
 Gondomar
 Gonen
@@ -10342,6 +10395,7 @@ Gwinnett County
 Gwydir
 Gwynedd
 Gy
+Gyal District
 Gyeonggi Province
 Gyeongsangbuk Province
 Gyeongsangnam Province
@@ -10349,8 +10403,12 @@ Gyeyang District
 Gympie
 Gyoda
 Gyokuto
-Györ
+Gyomaendrod District
+Gyongyos District
+Gyor
+Gyor District
 Györ-Moson-Sopron County
+Gyula District
 Gyumri
 Gzhelskoye
 Gzira
@@ -10454,6 +10512,10 @@ Haivoron district
 Hajany
 Hajdina
 Hajdu-Bihar County
+Hajduboszormeny District
+Hajduhadhaz District
+Hajdunanas Distict
+Hajduszoboszlo District
 Haje
 Hajeb el Ayoun
 Hajek
@@ -10754,6 +10816,7 @@ Hattfjelldal
 Hatting
 Hattingen
 Hattula
+Hatvan District
 Hauenstein-Ifenthal
 Haugesund
 Haugschlag
@@ -10867,6 +10930,8 @@ Heeze-Leende
 Hefenhofen
 Hefer Valley
 Heguri
+Hegyhat District
+Hegyvidek District
 Heide District
 Heidelberg
 Heiden
@@ -11073,6 +11138,7 @@ Hevel Eilot
 Hevel Modi'in
 Hevel Yavne
 Heves County
+Heves District
 Hevlin
 Heyda
 Heyersdorf
@@ -11306,6 +11372,7 @@ Hod HaSharon
 Hodice
 Hodiskov
 Hodkovice nad Mohelkou
+Hodmezovasarhely District
 Hodonice
 Hodonin
 Hodonin District
@@ -11924,6 +11991,7 @@ Iberville Parish
 Ibestad
 Ibias
 Ibigawa
+Ibrany District
 Ibriktepe
 Iburi subprefecture
 Ibusuki
@@ -12532,6 +12600,7 @@ Jangchhubling
 Janikowo commune
 Jankov
 Jankovice
+Janoshalma District
 Janos Municipality
 Janousov
 Janov
@@ -12587,6 +12656,8 @@ Jastrebarsko
 Jastrzab commune
 Jastrzebia commune
 Jastrzebie-Zdroj
+Jaszapati District
+Jaszberenyi District
 Jasz-Nagykun-Szolnok County
 Jatt
 Jaun
@@ -12858,6 +12929,7 @@ Jozefow
 Jozefow commune
 Jozefow nad Wisla commune
 Jozini
+Jozsefvaros District
 Juab County
 Juana Díaz
 Juan de Acosta
@@ -13094,6 +13166,7 @@ Kalmthout
 Kalmunai
 Kalmykia
 Kalnibolotskoye
+Kalocsa District
 Kaloyanovo
 Kals am Grossglockner
 Kalsdorf bei Graz
@@ -13293,6 +13366,7 @@ Kapfenstein
 Kapingamarangi
 Kapiti Coast District
 Kaplice
+Kaposvar District
 Kapotnya District
 Kappel
 Kappel am Albis
@@ -13302,6 +13376,7 @@ Kaprijke
 Kaprun
 Kapshagay
 Kapuskasing
+Kapuvar District
 Karaagac
 Karabaglar
 Kara-Balta
@@ -13356,6 +13431,7 @@ Karawang Regency
 Karayazi
 Karazhal
 Karbinci
+Karcag District
 Karczew commune
 Karczmiska commune
 Kardasova Recice
@@ -13601,6 +13677,7 @@ Kazidlo commune
 Kazimierza Wielka County
 Kazimierz Dolny commune
 Kazimkarabekir
+Kazincbarcika District
 Kazlų Rūda Municipality
 Kaznejov
 Kazo
@@ -13621,6 +13698,7 @@ Kebumen Regency
 Keciborlu
 Kecioren
 Kecskemet
+Kecskemet District
 Keda
 Kedah
 Kedainiai
@@ -13676,6 +13754,7 @@ Kemah
 Kemalpasa
 Kematen an der Ybbs
 Kematen in Tirol
+Kemecse District
 Kemer
 Kemerovo
 Kemerovo Region
@@ -13759,6 +13838,7 @@ Kesswil
 Kestel
 Kestenholz
 Kestrany
+Keszthely District
 Ketchikan
 Ketchikan Gateway Borough
 Ketkovice
@@ -14057,15 +14137,23 @@ Kiryat Yam
 Kiryat Ye'arim
 Kiryu
 Kisarazu
+Kisber District
 Kisela Voda
 Kishiwada
 Kisii County
+Kiskoros District
+Kiskunfelegyhaza District
+Kiskunhalas District
+Kiskunmajsa District
 Kislyakovskoye
 Kiso (town)
 Kiso (village)
 Kisosaki
+Kispest District
 Kisra-Sumei
+Kistelek District
 Kisumu County
+Kisvarda District
 Kita
 Kitaaiki
 Kitaakita
@@ -14262,6 +14350,7 @@ Knutwil
 Knyazhevo
 Knyazhpogostsky District
 Knysna
+Kobanya District
 Kobarid
 Kobayashi
 Kobe
@@ -14414,6 +14503,7 @@ Komagane
 Komaki
 Komarno
 Komarno city
+Komarom District
 Komarom-Esztergom County
 Komarov
 Komarovice
@@ -14426,6 +14516,7 @@ Komen
 Komenda
 Komendantsky Aerodrom
 Komi
+Komlo District
 Kommunar
 Komna
 Komono
@@ -14539,6 +14630,7 @@ Koriyama
 Korkino
 Korkuteli
 Korkyne
+Kormend District
 Kornatice
 Korneuburg
 Korneuburg District
@@ -14660,6 +14752,7 @@ Kostrzyn nad Odra
 Kosuge
 Koszalin
 Koszalin County
+Koszeg District
 Koszyce commune
 Kota
 Kota Bharu
@@ -15163,6 +15256,7 @@ Kungota
 Kungsbacka
 Kungsör
 Kungur
+Kunhegyes District
 Kunice
 Kunice commune
 Kunigami
@@ -15179,6 +15273,8 @@ Kunovice
 Kunratice
 Kunratice u Cvikova
 Kunstat
+Kunszentmarton District
+Kunszentmiklos District
 Künten
 Kuntsevo District
 Kunvald
@@ -16130,6 +16226,7 @@ Lensky District
 Lentegí
 Lentekhi
 Lentgen
+Lenti District
 Lentvaris
 Lenvik
 Lenzburg
@@ -16220,6 +16317,7 @@ Leszno
 Leszno commune
 Lesznowola commune
 Letcher County
+Letenye District
 Lethbridge
 Lethbridge County
 Leticia
@@ -17379,6 +17477,7 @@ Makira-Ulawa Province
 Makkah
 Makkari
 Makkovik
+Mako District
 Makole
 Makotrasy
 Makov
@@ -17648,6 +17747,7 @@ Marbach an der Donau
 Marbella
 Marblehead
 Marburg-Biedenkopf District
+Marcali District
 Marchal
 Marche
 Marche-en-Famenne
@@ -17836,6 +17936,7 @@ Martinska Ves
 Martinsville
 Martna Parish
 Marton
+Martonvasar District
 Martos
 Martshala
 Marttila
@@ -17922,6 +18023,7 @@ Matatiele
 Mataura
 Mateh Binyamin
 Matejov
+Mateszalka District
 Mateur
 Mathod
 Mathon
@@ -18397,6 +18499,10 @@ Mezina
 Mezitli
 Mezmayskoye
 Mezna
+Mezocsat District
+Mezokovacshaza District
+Mezokovesd District
+Mezotur District
 Mezoun
 Mezzovico-Vira
 Međimurje County
@@ -18715,6 +18821,7 @@ Mishkinsky District
 Misiones Department
 Misiones Province
 Miskolc
+Miskolc District
 Miskovice
 Mislinja
 Missaukee County
@@ -18873,6 +18980,7 @@ Mogi Mirim
 Mogochinsky District
 Mogoytuysky District
 Moguer
+Mohacs District
 Mohamedia-Fouchana
 Mohammadia Prefecture
 Mohave County
@@ -18995,6 +19103,7 @@ Mono County
 Monona County
 Monongah
 Monongolia County
+Monor District
 Monroe
 Monroe County
 Monrovia
@@ -19116,6 +19225,7 @@ Moquegua
 Moquegua Region
 Mora
 Mora County
+Morahalom District
 Moraleja de Enmedio
 Morales
 Mora locality
@@ -19153,6 +19263,7 @@ Mörbisch am See
 Mörbylånga
 Morcín
 Morcote
+Mor District
 Mordovia
 Mordy commune
 Moreda
@@ -19247,6 +19358,7 @@ Mosman
 Mosman Park
 Mosnang
 Mosnov
+Mosonmagyarovar District
 Mosquera
 Mosrentgen
 Moss
@@ -19648,6 +19760,11 @@ Nagpur
 Nagua
 Naguabo
 Naguanagua
+Nagyatad District
+Nagykallo District
+Nagykanizsa District
+Nagykata District
+Nagykoros District
 Naha
 Nahabino
 Nahal Sorek
@@ -20978,7 +21095,9 @@ Nybro
 Nybro district
 Nydek
 Nye County
+Nyirbator District
 Nyiregyhaza
+Nyiregyhaza District
 Nyisho
 Nyklovice
 Nyköping
@@ -21128,6 +21247,7 @@ Obrowo commune
 Obruchevsky District
 Obsteig
 Obu
+Obuda-Bekasmegyer District
 Obukhiv city
 Obukhiv district
 Obukhovo
@@ -21680,8 +21800,10 @@ Oronsko commune
 Oro Province
 Oroquieta
 O Rosal
+Oroshaza District
 Oroslavje
 Oroso
+Oroszlany District
 Oro Valley
 Orozko
 Orp-Jauche
@@ -22039,6 +22161,7 @@ Ozark County
 Ozarow Mazowiecki commune
 Ozaukee County
 Ozawkie
+Ozd District
 Ozero Dolgoye
 Ozersk
 Ozherelje
@@ -22127,6 +22250,7 @@ Pakiri
 Pakosc commune
 Pakruojis
 Pakruojis District Municipality
+Paks District
 Pakuonis
 Pakuranga
 Palacios de Goda
@@ -22219,12 +22343,14 @@ Panipat
 Panjshir Province
 Pankow
 Panmure
+Pannonhalma District
 Panola County
 Panosi Ujezd
 Panqueba
 Panske Dubenky
 Pantalej
 Paola
+Papa District
 Papagou-Cholargos
 Papaïchton
 Papaioea
@@ -22363,6 +22489,7 @@ Pasvalys
 Pasvalys District Municipality
 Pašvitinys
 Paszowice commune
+Paszto District
 Patagones Department
 Patakla
 Patea
@@ -22469,6 +22596,8 @@ Pecos County
 Pec pod Snezkou
 Pecq
 Pecs
+Pecs District
+Pecsvarad District
 Peczniew commune
 Pedraza
 Pedrezuela
@@ -22677,7 +22806,9 @@ Pesochny
 Peso da Régua
 Pesquera
 Pest County
+Pesterzsebet District
 Pestrikovo
+Pestszentlorinc-Pestszentimre District
 Petah Tikva
 Petäjävesi
 Petaling Jaya
@@ -22691,6 +22822,7 @@ Petersburg Borough
 Petersfield
 Petershagen
 Petersham
+Petervasara District
 Petitcodiac
 Petit-Rocher
 Petkovy
@@ -22860,6 +22992,7 @@ Pilgersdorf
 Pill
 Pilleys Island
 Pillichsdorf
+Pillisvorosvar District
 Pilnikov
 Pilviškiai
 Pima County
@@ -24093,6 +24226,7 @@ Pushkino
 Pushkinskoye
 Pushkinsky District
 Pushmataha County
+Puspokladany District
 Püssi
 Pusta Kamenice
 Pusta Polom
@@ -24110,6 +24244,7 @@ Putim
 Putnam
 Putnam County
 Putnam Township
+Putnot District
 Putrajaya
 Putre
 Putte
@@ -24268,6 +24403,7 @@ Raciechowice commune
 Racine
 Racine County
 Racineves
+Rackeve District
 Rackova
 Raclawice commune
 Radchenskoye
@@ -24396,6 +24532,8 @@ Rakhiv district
 Rakhmanovskoye
 Rakitovo
 Rakke Parish
+Rakosmente District
+Rakospalota-Pestujhely-Ujpalota District
 Rakov
 Rakova u Konice
 Rakovec
@@ -24770,6 +24908,7 @@ Rethymno
 Retie
 Retiro
 Retova
+Retsag District
 Rettenbach
 Rettenberg
 Rettenegg
@@ -25345,6 +25484,7 @@ Rozmital pod Tremsinem
 Rozna
 Roznov pod Radhostem
 Rozprza commune
+Rozsadomb District
 Rozsec nad Kunstatem
 Rozsicka
 Rozsochatec
@@ -25817,6 +25957,8 @@ Salgamli
 Salgar
 Salgen
 Salgesch
+Salgotarjan
+Salgotarjan District
 Salihli
 Salinas
 Saline County
@@ -26424,6 +26566,7 @@ Sarayduzu
 Saraykent
 Saraykoy
 Sarayonu
+Sarbogard District
 Sardegna
 Sardice
 Sardinata
@@ -26447,6 +26590,7 @@ Sariyar
 Sariyer
 Sariz
 Sark
+Sarkad District
 Sarkikaraagac
 Sarkisla
 Sarkoy
@@ -26458,6 +26602,7 @@ Sarnia
 Sarny city
 Sarny district
 Saroma
+Sarospatak District
 Sarovy
 Sarpang
 Sarpsborg
@@ -26467,9 +26612,11 @@ Sart
 Sarthe
 Sarufutsu
 Saruhanli
+Sarvar District
 Sasaguri
 Sasaima
 Sasayama
+Sasd
 Sasebo
 Saskatchewan
 Saskatchewan Landing
@@ -26489,6 +26636,7 @@ Satevó Municipality
 Satigny
 Sativanorte
 Sativasur
+Satoraljuajhely District
 Satosho
 Satov
 Satovcha
@@ -26848,6 +26996,7 @@ Seljord
 Selkovskoye
 Sell
 Sellrain
+Sellye District
 Selm
 Selnica ob Dravi
 Seloutky
@@ -27409,6 +27558,7 @@ Siirt Province
 Sikasso Region
 Sikka Regency
 Sikkim
+Siklos District
 Šilale
 Šilale District Municipality
 Silambi
@@ -27513,6 +27663,7 @@ Sintra
 Sint-Truiden
 Sinuiju Special Administrative Region
 Sinyavskoye
+Siofok District
 Sion
 Sioux City
 Sioux County
@@ -28033,6 +28184,7 @@ Soportújar
 Sopot
 Sopotnice
 Soprec
+Sopron District
 Sora
 Soracá
 Sorachi subprefecture
@@ -28043,6 +28195,7 @@ Sorgun
 Soriano Department
 Sorocaba
 Soroca District
+Soroksar District
 Sorsele
 Sorsogon
 Sortland
@@ -29029,6 +29182,7 @@ Sumba Timur Regency
 Sumbawa Barat Regency
 Sumbawa Regency
 Sumedang Regency
+Sumeg Districy
 Sumenep Regency
 Sumice
 Sumida
@@ -29324,6 +29478,7 @@ Szabolcs-Szatmar-Bereg County
 Szadek commune
 Szaflary commune
 Szamotuly County
+Szarvas District
 Szastarka commune
 Szczaniec commune
 Szczawin Koscielny commune
@@ -29340,12 +29495,31 @@ Szczutowo commune
 Szczytna commune
 Szczytno
 Szczytno County
+Szecseny District
 Szeged
+Szeged District
+Szeghalom District
 Szekesfehervar
+Szekesfehervar District
+Szekszard
+Szekszard District
 Szelkow commune
+Szentendre District
+Szentes District
+Szentgotthard District
+Szentlorinc District
+Szerencs District
 Szerzyny commune
+Szigetszentmiklos District
+Szigetvar District
+Szikszo District
 Szklarska Poreba
 Szlichtyngowa commune
+Szob District
+Szolnok
+Szolnok District
+Szombathely
+Szombathely District
 Szprotawa commune
 Szrensk commune
 Sztum County
@@ -29365,6 +29539,7 @@ Sør-Varanger
 Tabanan Regency
 Tabasco
 Tabayama
+Tab District
 Taber
 Taber Municipal District
 Tabernas
@@ -29532,6 +29707,7 @@ Tamana
 Tamano
 Támara
 Tamarac
+Tamasi District
 Tamaulipas
 Tamba
 Tambach-Dietharz
@@ -29601,6 +29777,7 @@ Tapa
 Tapanui
 Tapa Parish
 Tapia de Casariego
+Tapolca District
 Tapora
 Taputapuatea
 Tara
@@ -29687,6 +29864,9 @@ Tasova
 Tasovice
 Tasucu
 Tata
+Tatabanya
+Tatabanya District
+Tata District
 Tataouine
 Tataouine Governorate
 Tata Province
@@ -29904,6 +30084,7 @@ Terespol commune
 Teresva
 Tereszpol commune
 Terezin
+Terezvaros District
 Terfens
 Terlicko
 Termal
@@ -29955,6 +30136,7 @@ Tessenderlo
 Testour
 Test Valley
 Tetcice
+Tet District
 Tete Province
 Tetiaroa
 Tetiiv city
@@ -30170,6 +30352,10 @@ Tisnov
 Tisova
 Tisovec
 Tistin
+Tiszafured District
+Tiszakecske District
+Tiszaujvaros District
+Tiszavasvari District
 Titel
 Titirangi
 Titiribí
@@ -30237,6 +30423,7 @@ Toin
 Toivakka
 Tokachi subprefecture
 Tokai
+Tokaj District
 Tokamachi
 Tokarnia commune
 Tokashiki
@@ -30266,6 +30453,7 @@ Tolland County
 Tõlliste Parish
 Tolmin
 Tolna County
+Tolna District
 Tolochenaz
 Tolosa
 Toluca
@@ -30356,6 +30544,7 @@ Torma Parish
 Tornadizos de Ávila
 Torny
 Toro
+Torokszentmiklos District
 Toronto
 Toroslar
 Torquemada
@@ -31120,6 +31309,7 @@ Uithoorn
 Uitikon Waldegg
 Ujae Atoll
 Ujazd commune
+Ujbuda District
 Ujcov
 Ujezd
 Ujezdec
@@ -31137,6 +31327,7 @@ Ujezd u Tisnova
 Uji
 Ujitawara
 Ujjain
+Ujpest District
 Uken
 Ukhta
 Uki
@@ -31483,6 +31674,7 @@ Vaals
 Väätsa Parish
 Vabalninkas
 Vacallo
+Vac District
 Vacenovice
 Vaclavice
 Vaclavovice
@@ -31685,6 +31877,7 @@ Vårgårda
 Vargas
 Varkaus
 Varkava
+Varkerulet District
 Värmdö
 Värmland County
 Varna
@@ -31693,6 +31886,7 @@ Värnamo locality
 Varna Province
 Varniai
 Varnsdorf
+Varpalota District
 Varsak
 Varsinais-Suomi
 Värska Parish
@@ -31702,6 +31896,7 @@ Varvarin
 Várzea Grande
 Vasai-Virar
 Vasalemma Parish
+Vasarosnameny District
 Vas County
 Vashkivtsi city
 Vasileostrovsky District
@@ -31722,6 +31917,7 @@ Västmanland County
 Västra Götaland County
 Vastse-Kuuste Parish
 Vastseliina Parish
+Vasvar District
 Vasylivka city
 Vasylivka district
 Vasylkiv city
@@ -31757,6 +31953,7 @@ Vechnov
 Vechta District
 Vecov
 Vecpiebalga
+Vecses District
 Vecumnieki
 Vedomice
 Vedra
@@ -32019,7 +32216,9 @@ Vestre Slidre
 Vestre Toten
 Vestvågøy
 Vesyolovskoye
+Veszprem
 Veszprem County
+Veszprem District
 Veternik
 Veterov
 Vetlanda
@@ -33729,6 +33928,7 @@ Xhariep
 Xinjiang
 Xinzo de Limia
 Xochimilco
+XVI District
 Yablanitsa
 Yabu
 Yabucoa
@@ -34141,6 +34341,7 @@ Zagubica
 Zahaji
 Zahedan
 Zahnasovice
+Zahony District
 Zahorany
 Zahori
 Zahornice
@@ -34171,7 +34372,10 @@ Zakrzowek commune
 Zakupy
 Zakynthos
 Zala County
+Zalaegerszeg
+Zalaegerszeg District
 Zalamea la Real
+Zalaszentgrot District
 Zaldibar
 Zaldibia
 Žalec
@@ -34536,6 +34740,7 @@ Zinkiv district
 Zinkovy
 Ziortza-Bolibar
 Zipacón
+Zirc District
 Žiri
 Zirl
 Žirovnica
@@ -34638,6 +34843,7 @@ Zufikon
 Zufre
 Zugdidi
 Zugdidi Municipality
+Zuglo District
 Zuhres city
 Zuia
 Zuid-Holland
