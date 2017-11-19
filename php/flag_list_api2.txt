@@ -918,6 +918,7 @@ Andreevka
 Andrespol commune
 Andrew County
 Andrews County
+Andreyevka
 Andriivka
 Andrijevica
 Andros
@@ -1773,6 +1774,7 @@ Bagadó
 Bagayevsky District
 Bagcilar
 Bagé
+Bagerovo
 Baghdad
 Baghdati
 Baghlan Province
@@ -1821,6 +1823,8 @@ Baker County
 Baker Island
 Baker Lake
 Bakersfield
+Bakhchisaray
+Bakhchisaray district
 Bakhchysarai
 Bakhchysarai district
 Bakhmach city
@@ -2438,6 +2442,7 @@ Belmopan
 Beloeil
 Beloglinsky District
 Belogorsk
+Belogorsk district
 Belogorsky District
 Belo Horizonte
 Belokalitvinsky District
@@ -5282,6 +5287,7 @@ Chernivtsi Region
 Chernoerkovskoye
 Chernogolovka
 Chernogorsk
+Chernomorsk district
 Chernomorsky
 Chernoyarsky District
 Chernushka
@@ -8367,7 +8373,6 @@ Evje og Hornnes
 Evolène
 Évora
 Évora District
-Evpatoriya
 Evren
 Evrensekiz
 Evrese
@@ -9086,6 +9091,7 @@ Gafuriysky District
 Gaga'emauga District
 Gaga'ifomauga District
 Gagarinskoe
+Gagarinsky
 Gagarinsky District
 Găgăuzia
 Gage County
@@ -9232,6 +9238,7 @@ Gasetsho Om
 Gashunskoye
 Gaspé
 Gaspésie–Îles-de-la-Madeleine
+Gaspra
 Gastern
 Gaston County
 Gatchina
@@ -10359,6 +10366,7 @@ Gursu
 Gurtnellen
 Gurupi
 Guryevsk
+Gurzuf
 Gusev
 Gush Etzion
 Gusinje
@@ -13801,7 +13809,6 @@ Kepulauan Seribu Regency
 Kerala
 Kerava
 Kercem
-Kerch
 Kerch municipality
 Kergloff
 Kerguelen
@@ -14112,6 +14119,7 @@ Kirovohrad Region
 Kirov Region
 Kirovsk
 Kirovsk city
+Kirovsk district
 Kirovske city
 Kirovske district
 Kirovskoye
@@ -14919,6 +14927,7 @@ Krasnodon city
 Krasnodon district
 Krasnogorasky District
 Krasnogorsk
+Krasnogvardeyevsky district
 Krasnogvardeyskoye
 Krasnogvardeysky District
 Krasnohrad city
@@ -16210,8 +16219,11 @@ Lenine district
 Leningrad Region
 Leningradskoye
 Leningradsky District
+Lenino
+Lenino district
 Leninsk-Kuznetsky
 Leninskoye
+Leninsky
 Leninsky District
 Lenneng
 Lennik
@@ -17992,6 +18004,7 @@ Masovice
 Massac County
 Massachusetts
 Massagno
+Massandra
 Masserberg
 Massey
 Massongex
@@ -18790,6 +18803,7 @@ Miren-Kostanjevica
 Miretice
 Mirna Peč
 Mirny
+Mirnyy
 Miroslav
 Miroslavas
 Miroslavske Kninice
@@ -19801,6 +19815,7 @@ Nakatosa
 Nakatsu
 Nakatsugawa
 Nakayama
+Nakhimovsky
 Nakhimovsky District
 Nakhodka
 Nakhom Pathom Province
@@ -20537,6 +20552,8 @@ Nizhegorodsky District
 Nizhnebakanskoye
 Nizhnedevitsk
 Nizhnedevitsky District
+Nizhnegorsky
+Nizhnegorsky district
 Nizhnevartovsk
 Nizhnevedugskoye
 Nizhniye Sergi
@@ -20912,6 +20929,7 @@ Novomyshastovskoye
 Novonikolaevskoye
 Novo Orakhovo
 Novoozerne
+Novoozyornoye
 Novopashkovskoye
 Novopavlovka
 Novo-Peredelkino District
@@ -20980,6 +20998,7 @@ Novy Port
 Novy Prerov
 Novy Rychnov
 Novy Saldorf-Sedlesovice
+Novy Svet
 Novy Urengoy
 Novy Vestec
 Nowa Brzeznica commune
@@ -21777,6 +21796,7 @@ Orlicke Podhuri
 Orlicke Zahori
 Orlicky
 Orlik nad Vltavou
+Orlinoye
 Orlova
 Orlovice
 Orlovsky District
@@ -22783,6 +22803,7 @@ Péruwelz
 Pervomaisk city
 Pervomaisk district
 Pervomaiske district
+Pervomaiskoye district
 Pervomaisky District
 Pervomaiskyi city
 Pervomaiskyi district
@@ -23816,6 +23837,7 @@ Primorsko-Akhtarsk
 Primorsko-Akhtarsky District
 Primorsko-Kuinsky
 Primorskoye
+Primorsky
 Primorsky District
 Primorsky Territory
 Prince Albert
@@ -24706,6 +24728,7 @@ Rayong Province
 Rayón Municipality
 Razanj
 Razdolnenskoye
+Razdolnoye district
 Razgrad
 Razgrad Province
 Razice
@@ -25903,7 +25926,9 @@ Sakhnin
 Sakhnovshchyna district
 Šakiai
 Šakiai District Municipality
+Saki district
 Sakiet Ezzit
+Saki municipality
 Sakon Nakhon Province
 Sakteng
 Saku
@@ -27278,6 +27303,7 @@ Shcholkine
 Shchuchinsk
 Shchuchye
 Shchukino District
+Shchyolkino
 Shchyolkovsky District
 Shebalinsky District
 Shebekino
@@ -27605,7 +27631,6 @@ Simanov
 Simav
 Simcoe County
 Simeiz
-Simferopol
 Simferopol district
 Simferopol municipality
 Simijaca
@@ -28327,6 +28352,7 @@ Sovetsko-Gavansky District
 Sovetskoye
 Sovetsky
 Sovetsky District
+Sovietsky district
 Sovietskyi district
 Sovinky
 Sowa
@@ -30099,6 +30125,7 @@ Ternivka city
 Ternopil city
 Ternopil district
 Ternopil Region
+Ternovka
 Ternovskaya
 Ternovsky District
 Terque
@@ -32152,6 +32179,7 @@ Verkhivtseve city
 Verkhnedonskoy District
 Verkhnekhavsky District
 Verkhnemamonsky District
+Verkhnesadovoye
 Verkhnetoyemsky District
 Verkhniy Rohachyk district
 Verkhnodniprovsk city
@@ -34142,6 +34170,8 @@ Yesilyurt
 Yesilyuva
 Yesud HaMa'ala
 Yevpatoria municipality
+Yevpatoriya
+Yevpatoriya municipality
 Yew Tee
 Yeysk
 Yeyskoye
@@ -34426,6 +34456,7 @@ Zanzibar
 Zao
 Zaostrovskoye
 Zaozerne
+Zaozyornoye
 Zapadnobacki District
 Zapadnoye
 Zapadnoye Degunino District
