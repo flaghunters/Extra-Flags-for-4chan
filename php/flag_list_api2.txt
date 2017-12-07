@@ -99,6 +99,8 @@ Accomack County
 Accra
 Aceh
 Acevedo
+Achada
+Achadinha
 Acharnes
 Achau
 Achenheim
@@ -246,12 +248,16 @@ Agronomía
 Aguachica
 Aguada
 Aguadas
+Água de Alto
 Agua de Dios
+Água de Pau
 Aguadilla
+Agualva
 Agua Prieta
 Agua Prieta Municipality
 Água Rasa
 A Guarda
+Água Retorta
 Aguas Buenas
 Aguascalientes
 Aguazul
@@ -637,6 +643,7 @@ Allin
 Allschwil
 Alma
 Almada
+Almagreira
 Almagro
 Almaguer
 Al Mahrah
@@ -699,6 +706,7 @@ Altamira
 Altamont
 Altanbulag
 Altar
+Altares
 Altar Municipality
 Altaussee
 Alta Verapaz Department
@@ -971,6 +979,7 @@ Angostura
 Angra do Heroismo
 Ang Thong Province
 Angus
+Angústias
 Angyalfold-Ujlipotvaros-Vizafogo District
 Anhalt-Bitterfeld District
 Anhée
@@ -1334,6 +1343,7 @@ Arrecifes Department
 Arredondo
 Arriach
 Arrieta
+Arrifes
 Arrigorriaga
 Arroios
 Arronches
@@ -2003,6 +2013,7 @@ Banaz
 Bandai
 Bandar Abbas
 Bandar Anzali
+Bandeiras
 Bandera County
 Bandera de Navatalgordo
 Banderalena
@@ -3158,6 +3169,7 @@ Bischofstetten
 Bischofszell
 Bischwihr
 Bischwiller
+Biscoitos
 Bisel
 Bisert
 Bishan-Toa Payoh
@@ -4528,12 +4540,14 @@ Cabezón de la Sal
 Cabezon de Liébana
 Cabimas
 Cabinda Province
+Cabo da Praia
 Cabo de Hornos
 Cabo Delgado Province
 Cabonne
 Caborca
 Caborca Municipality
 Cabo Rojo
+Cabouco
 Cabra
 Cabrales
 Cabranes
@@ -4634,6 +4648,8 @@ Calera de Tango
 Caleta Olivia
 Calgary
 Calheta
+Calheta de Nesquim
+Calhetas
 Calhoun County
 Cali
 Calicasas
@@ -4753,6 +4769,7 @@ Candamo
 Candangolândia
 Candarli
 Candelaria
+Candelária
 Candeleda
 Candir
 Candler County
@@ -4946,7 +4963,9 @@ Cape Coral
 Cape Dorset
 Cape Girardeau County
 Capel
+Capelas
 Capelle aan den IJssel
+Capelo
 Cape May County
 Capestang
 Cape Town
@@ -5203,6 +5222,7 @@ Cecovice
 Cedar County
 Cedar Rapids
 Cederberg
+Cedros
 Ceduna
 Cedynia commune
 Cee
@@ -6035,6 +6055,7 @@ Cimer
 Cimislia District
 Cinarcik
 Cincinnati
+Cinco Ribeiras
 Cine
 Ciney
 Cinfães
@@ -6350,6 +6371,7 @@ Comrat
 Comunidad de Madrid
 Conakry
 Concarneau
+Conceição
 Concepción
 Concepción Department
 Conception Bay South
@@ -6586,6 +6608,7 @@ Covilhã
 Covina
 Covington
 Covington County
+Covoada
 Coweta County
 Cow Head
 Cowichan Valley Regional District
@@ -6631,6 +6654,7 @@ Creuse
 Crevin
 Crewe
 Crhov
+Criação Velha
 Crimea
 Crimla
 Crisfield
@@ -7746,6 +7770,7 @@ Dovre
 Dowerin
 Downers Grove
 Downey
+Doze Ribeiras
 Dozwil
 Dr. Belisario Domínguez Municipality
 Drâa-Tafilalet
@@ -8872,6 +8897,7 @@ Fahner Höhe
 Fahrwengen
 Fahs-Anjra Province
 Fahy
+Faial da Terra
 Faido
 Faimes
 Fairbanks
@@ -8891,7 +8917,11 @@ Fairway
 Faisalabad
 Faistenau
 Faiyum Governorate
+Fajã de Baixo
+Fajã de Cima
+Fajã Grande
 Fajardo
+Fajãzinha
 Fajslawice commune
 Falcón
 Falera
@@ -8953,6 +8983,7 @@ Favoriten
 Favoriten District
 Fayette County
 Fayetteville
+Fazenda
 Featherston
 Féchy
 Federal Capital Territory
@@ -8997,6 +9028,8 @@ Fellering
 Fellheim
 Fels am Wagram
 Felsberg
+Fenais da Ajuda
+Fenais da Luz
 Fendalton
 Fendels
 Fene
@@ -9043,6 +9076,8 @@ Fessenheim
 Fessenheim-les-Bas
 Fet
 Fetakgomo
+Feteira
+Feteiras
 Fethiye
 Fétigny
 Feuerthalen
@@ -9130,6 +9165,7 @@ Flagler County
 Flagstaff
 Flagstaff County
 Flakstad
+Flamengos
 Fläsch
 Flatanger
 Flathead County
@@ -9222,7 +9258,9 @@ Fontaines-sur-Grandson
 Fontalovskoye
 Fontana
 Fontanella
+Fonte do Bastardo
 Fontenais
+Fontinhas
 Fonyod District
 Foothills Municipal District
 Forbes
@@ -9523,6 +9561,7 @@ Furano
 Furchhausen
 Furdenheim
 Furna
+Furnas
 Furnas County
 Fürstenau
 Fürstenfeld
@@ -9974,6 +10013,7 @@ Gilze en Rijen
 Gimel
 Ginan
 Ginebra
+Ginetes
 Gingelom
 Gingin
 Gingins
@@ -16362,6 +16402,8 @@ Lajab
 La Jagua de Ibirico
 La Jagua del Pilar
 Lajas
+Lajedo
+Lajes
 Lajes das Flores
 Lajes do Pico
 Lajkovac
@@ -17536,6 +17578,7 @@ Livingston
 Livingston County
 Livingstone
 Livingston Parish
+Livramento
 Livre-sur-Changeon
 Liw commune
 Lizartza
@@ -17673,6 +17716,10 @@ Lolol
 Lom
 Lomas de Zamora Department
 Lomazy commune
+Lomba
+Lomba da Fazenda
+Lomba da Maia
+Lomba de São Pedro
 Lombard
 Lombardia
 Lombok Barat Regency
@@ -18935,6 +18982,7 @@ Matoury
 Matran
 Matrei am Brenner
 Matrei in Osttirol
+Matriz
 Matrouh Governorate
 Matsubara
 Matsubushi
@@ -20342,6 +20390,7 @@ Mosta
 Mostaganem
 Mostar
 Most District
+Mosteiro
 Mosteiros
 Mostek
 Mostkovice
@@ -21691,6 +21740,8 @@ Norrtälje
 Norsewood
 Norsjö
 Norte de Santander Department
+Norte Grande
+Norte Pequeno
 North Adams
 North Aegean
 Northam
@@ -21811,6 +21862,9 @@ Nosislav
 Nosivka city
 Nosivka district
 Nosovice
+Nossa Senhora da Conceição
+Nossa Senhora do Rosário
+Nossa Senhora dos Remédios
 Nostang
 Nosy Be
 Nothalten
@@ -23708,6 +23762,7 @@ Pedro Bernardo
 Pedroche
 Pedrógão Grande
 Pedro Juan Caballero
+Pedro Miguel
 Pedro Rodriguez
 Peel
 Peel en Maas
@@ -24060,6 +24115,7 @@ Pickaway County
 Pickens County
 Pickering
 Pickett County
+Pico da Pedra
 Pico Rivera
 Pico Truncado
 Picton
@@ -24070,6 +24126,7 @@ Pidhaitsi district
 Pidhorodne city
 Pidvolochysk district
 Piechowice
+Piedade
 Piedrahíta
 Piedralaves
 Piekary Slaskie
@@ -24625,6 +24682,7 @@ Ponsonby
 Pont-à-Celles
 Ponta Delgada
 Ponta do Sol
+Ponta Garça
 Ponta Grossa
 Pont-Aven
 Pont-Croix
@@ -24738,7 +24796,9 @@ Porto Alegre
 Portobello
 Porto de Mós
 Porto District
+Porto Formoso
 Port of Spain
+Porto Judeu
 Portomarín
 Porto Moniz
 Port Orange
@@ -24778,6 +24838,7 @@ Post Falls
 Postojna
 Postoloprty
 Postomino commune
+Posto Santo
 Postrekov
 Postrelmov
 Postrelmuvek
@@ -24890,7 +24951,10 @@ Praha-zapad District
 Prahova County
 Praia
 Praia da Vitória
+Praia do Almoxarife
+Praia do Norte
 Praia Grande
+Prainha
 Prairie County
 Prairiedale
 Prairie Rose
@@ -25532,6 +25596,7 @@ Quaregnon
 Quarten
 Quartier Grünau
 Quatre Bornes
+Quatro Ribeiras
 Quatzenheim
 Quay County
 Queanbeyan
@@ -25625,6 +25690,7 @@ Rabenstein an der Pielach
 Rabi
 Rabino commune
 Rabka-Zdroj
+Rabo de Peixe
 Rabun County
 Raby
 Raca
@@ -25803,6 +25869,7 @@ Ramenskoye
 Ramensky District
 Ramillies
 Ramingstein
+Raminho
 Ramirás
 Ramiriquí
 Ramjar
@@ -26247,10 +26314,16 @@ Ribble Valley
 Ribeauville
 Ribeira
 Ribeira Brava
+Ribeira Chã
+Ribeira das Tainhas
 Ribeira de Pena
 Ribeira Grande
 Ribeirão das Neves
 Ribeirão Preto
+Ribeira Quente
+Ribeiras
+Ribeira Seca
+Ribeirinha
 Ribera Baja
 Ribera de Arriba
 Ribnica
@@ -26647,6 +26720,7 @@ Rorbas
 Rorschach
 Rorschacherberg
 Rorschwihr
+Rosais
 Rosal de la Frontera
 Rosales Municipality
 Rosario
@@ -27406,6 +27480,7 @@ Salamanca
 Salamina
 Salangen
 Salantai
+Salão
 Salar
 Salas
 Salaspils
@@ -27430,6 +27505,7 @@ Salento
 Salé Prefecture
 Sâles
 Salford
+Salga
 Salgamli
 Salgar
 Salgen
@@ -27849,6 +27925,7 @@ Santa Barbara
 Santa Bárbara
 Santa Barbara County
 Santa Bárbara de Casa
+Santa Bárbara de Manadas
 Santa Bárbara de Nexe
 Santa Bárbara Municipality
 Santa Brígida
@@ -27892,6 +27969,7 @@ Santa Juana
 Santa Lucía
 Santa Lucía de Tirajana
 Santa Lucija
+Santa Luzia
 Santa Maria
 Santa María
 Santa Maria da Feira
@@ -27948,13 +28026,17 @@ Sant Joan de Labritja
 Sant Josep de sa Talaia
 Sant Julià de Lòria
 Sant Lluís
+Santo Amaro
 Santo André
+Santo Antão
+Santo António
 Santo António dos Olivais
 Santo Domingo
 Santo Domingo de las Posadas
 Santo Domingo de los Colorados
 Santo Domingo de los Tsáchilas Province
 Santo Domingo Este
+Santo Espírito
 Santok commune
 Santomera
 Santoña
@@ -27978,9 +28060,13 @@ Sanxenxo
 Sany
 Sanyo-Onoda
 San Zenón
+São Bartolomeu dos Regatos
+São Bento
 São Bento do Sul
 São Bernardo do Campo
+São Brás
 São Brás de Alportel
+São Caetano
 São Caetano do Sul
 São Carlos
 São Cristóvão
@@ -27988,11 +28074,13 @@ São Cristóvão de Selho
 São Domingos de Benfica
 São Gabriel da Cachoeira
 São Gonçalo
+São João
 São João da Baliza
 São João da Madeira
 São João da Pesqueira
 São João de Meriti
 São João do Campo
+São Jorge
 São Jorge de Selho
 São José do Rio Preto
 São José dos Campos
@@ -28002,18 +28090,23 @@ São Luiz
 São Martinho de Candoso
 São Martinho de Sande
 São Mateus
+São Mateus da Calheta
 São Miguel
 São Miguel Paulista
 Saône-et-Loire
 São Paulo
 São Paulo (city)
+São Pedro
 São Pedro do Sul
+São Roque
 São Roque do Pico
+São Sebastião
 São Sebastião do Uatumã
 São Silvestre
 São Tomé
 São Torcato
 São Vicente
+São Vicente Ferreira
 Sapanca
 Saplava
 Sa Pobla
@@ -28398,6 +28491,7 @@ Scugog
 Scuol
 Scurry County
 Sderot
+Sé
 Seacliff
 Searcy County
 Seaside
@@ -28669,6 +28763,7 @@ Serranillos
 Serranillos del Valle
 Serravalle
 Serres
+Serreta
 Sers
 Sertã
 Serthig
@@ -28688,6 +28783,7 @@ Sestao
 Sestroretsk
 Setagaya
 Setana
+Sete Cidades
 Setenil de las Bodegas
 Seto
 Setouchi
@@ -31684,6 +31780,7 @@ Ternovskaya
 Ternovsky District
 Terque
 Terrace
+Terra Chã
 Terras de Bouro
 Terrassa
 Terre Adélie
@@ -32108,6 +32205,7 @@ Topeka
 Topfstedt
 Topkanovskoye
 Toplica District
+Topo
 Topola
 Topolany
 Topolka commune
@@ -33190,6 +33288,7 @@ Urus
 Urvaste Parish
 Uryu
 Urzedow commune
+Urzelina
 Usa
 Usak
 Usakos
@@ -33992,6 +34091,7 @@ Vilalba
 Vila Mariana
 Vilani
 Vilankulo
+Vila Nova
 Vila Nova da Barquinha
 Vila Nova de Cerveira
 Vila Nova de Famalicão
