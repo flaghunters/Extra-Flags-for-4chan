@@ -894,6 +894,7 @@ Americana
 Amersfoort
 Ames
 Amesbury
+Ameyugo
 Amezketa
 Amhara Region
 Amherst
@@ -1925,6 +1926,7 @@ Bagradionovsk
 Baguer-Morvan
 Baguer-Pican
 Baguio
+Bahabón de Esgueva
 Bahah
 Bahce
 Bahcelievler
@@ -4371,6 +4373,7 @@ Buffalo County
 Bufleben
 Buga
 Bugalagrande
+Bugedo
 Búger
 Buggenhout
 Buharkent
@@ -5294,6 +5297,7 @@ Castelo de Paiva
 Castelo de Vide
 Castel San Pietro
 Castilblanco
+Castil de Peones
 Castilla-La Mancha
 Castilla la Nueva
 Castilla y León
@@ -6223,6 +6227,7 @@ Cikov
 Cilacap Regency
 Cilec
 Cilegon
+Cilleruelo de Abajo
 Cim
 Cimahi
 Cimarron County
@@ -6439,6 +6444,7 @@ Coffey County
 Coffs Harbor
 Coghlan
 Cogles
+Cogollos
 Cogua
 Cohasset
 Coihueco
@@ -6568,6 +6574,7 @@ Concord
 Concordia
 Concordia Parish
 Concoret
+Condado de Treviño
 Condeixa-a-Nova
 Condorcanqui Province
 Condoto
@@ -9678,6 +9685,7 @@ Fresnedoso de Ibor
 Fresno
 Fresno County
 Fresno del Río
+Fresno de Rodilla
 Fretterode
 Freudenstadt District
 Freyung-Grafenau District
@@ -9758,6 +9766,7 @@ Fuenteheridos
 Fuente Palmera
 Fuentes de Nava
 Fuentes de Valdepero
+Fuentespina
 Fuente Vaqueros
 Fuentidueña de Tajo
 Fuerteventura
@@ -17010,6 +17019,7 @@ Lappi
 La Praz
 Lapseki
 Lapsze Nizne commune
+La Puebla de Arganzón
 Lapuebla de Labarca
 La Puente
 Lapu-Lapu
@@ -17470,6 +17480,7 @@ Leposavic
 Lerchenberg
 Le Relecq-Kerhuon
 Le Rheu
+Lerma
 Lermoos
 Le Roc-Saint-Andre
 Le Roeulx
@@ -20023,6 +20034,7 @@ Mikulovice
 Mikuluvka
 Mikurajima
 Milagro
+Milagros
 Milam County
 Milán
 Milano
@@ -20476,6 +20488,7 @@ Monachil
 Monaco
 Monagas
 Monash
+Monasterio de Rodilla
 Monastir
 Monastir Governorate
 Monastyrshchinskoye
@@ -23297,6 +23310,7 @@ Opua
 Opunake
 Opuwo
 Opwijk
+Oquillas
 Oquitoa
 Oquitoa Municipality
 Ora
@@ -23960,6 +23974,7 @@ Panamá Province
 Pance
 Pancevo
 Panchkula
+Pancorbo
 Pandeglang Regency
 Pandelys
 Pandi
@@ -24035,6 +24050,7 @@ Parczew commune
 Parczew County
 Pardes Hanna-Karkur
 Pardesiya
+Pardilla
 Pardines
 Pardubice
 Pardubice District
@@ -25434,6 +25450,7 @@ Prachinburi Province
 Prachovice
 Prachuap Khiri Khan Province
 Prackovice nad Labem
+Prádanos de Bureba
 Pradejón
 Prádena del Rincón
 Pradera
@@ -26194,6 +26211,7 @@ Quinchia
 Quincy
 Quindío Department
 Quintana del Puente
+Quintanapalla
 Quintana Roo
 Quinta Normal
 Quinto
@@ -27458,6 +27476,7 @@ Ruacana
 Ruakaka
 Ruapehu District
 Ruatoria
+Rubena
 Rubí
 Rubió
 Rubite
@@ -28056,6 +28075,7 @@ Salazie
 Šalčininkai
 Šalčininkai District Municipality
 Saldaña
+Saldaña de Burgos
 Saldanha Bay
 Saldus
 Saldutiškis
@@ -28541,6 +28561,7 @@ Santa Fe de Antioquia
 Santa Fe del Penedès
 Santa Fe de Mondújar
 Santa Fe Province
+Santa Gadea del Cid
 Sant Agustí de Lluçanès
 Santa Isabel
 Santa Isabel Municipality
@@ -28557,6 +28578,7 @@ Santa María
 Santa Maria d'Oló
 Santa Maria da Feira
 Santa Maria de Cayón
+Santa María de Huerta
 Santa María de la Alameda
 Santa María del Cubillo
 Santa María de los Caballeros
@@ -28565,6 +28587,7 @@ Santa Maria de Martorelles
 Santa María de Nieva
 Santa Maria in Calanca
 Santa Maria Maior
+Santa María Ribarredonda
 Santa Marta
 Santa Marta de los Barros
 Santa Marta de Magasca
@@ -28576,6 +28599,7 @@ Santander de Quilichao
 Sant Andreu de la Barca
 Sant Andreu de Llavaneres
 Sant Aniol de Finestres
+Santa Olalla de Bureba
 Santa Olalla del Cala
 Santa Pau
 Santa Perpètua de Mogoda
@@ -28816,6 +28840,7 @@ Sarovy
 Sarpang
 Sarpsborg
 Sarpy County
+Sarracín
 Sarre-Union
 Sarrewerden
 Sarria
@@ -34210,6 +34235,7 @@ Valdilecha
 Valdivia
 Val do Dubra
 Val-d Oise
+Valdorros
 Vale
 Valec
 Vale de Cambra
@@ -34930,6 +34956,7 @@ Villalba del Alcor
 Villalba de los Barros
 Villalbilla
 Villalcázar de Sirga
+Villalmanzo
 Villalobón
 Villa Lugano
 Villa Luro
@@ -34939,6 +34966,7 @@ Villamantilla
 Villamaría
 Villa María
 Villamartín
+Villamayor de los Montes
 Villamediana de Iregua
 Villamee
 Villa Mercedes
@@ -34959,6 +34987,7 @@ Villanueva de los Castillejos
 Villanueva del Pardillo
 Villanueva del Rey
 Villanueva de Perales
+Villanueva de Teba
 Villanueva Mesía
 Villanuño de Valdavia
 Villa Ortuzar
@@ -34975,6 +35004,7 @@ Villarejo del Valle
 Villarejo de Salvanés
 Villa Riachuelo
 Villa Rica
+Villariezo
 Villarrasa
 Villarrica
 Villarsel-sur-Marly
