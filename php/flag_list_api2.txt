@@ -425,6 +425,7 @@ Alacati
 Alachua County
 Aladag
 Alagoas
+Alagón
 Alagón del Río
 Alaior
 Alájar
@@ -589,6 +590,7 @@ Alexandrovsk-Sakhalinsky
 Alexandrovsk-Sakhalinsky District
 Alexeyevsky District
 Alfacar
+Alfajarín
 Alfalfa County
 Alfândega da Fé
 Alfara de Carles
@@ -617,6 +619,7 @@ Algueirão-Mem Martins
 Algutsboda district
 Alhabia
 Alhama de Almería
+Alhama de Aragón
 Alhama de Granada
 Alhama de Murcia
 Alhambra
@@ -1326,6 +1329,7 @@ Aristau
 Arita
 Arivechi
 Arivechi Municipality
+Ariza
 Arizona
 Arizpe
 Arizpe Municipality
@@ -1584,6 +1588,7 @@ Atasehir
 Ataun
 Atchison
 Atchison County
+Ateca
 Ateptsevskoye
 Ath
 Athabasca
@@ -3281,6 +3286,7 @@ Bisert
 Bishan-Toa Payoh
 Bishkek
 Bishop's Falls
+Bisimbre
 Biskoupky
 Biskupice
 Biskupice commune
@@ -3677,6 +3683,7 @@ Boos in Schwaben
 Bootzheim
 Boppelsen
 Boquerón Department
+Boquiñeni
 Bor
 Bora Bora
 Borac
@@ -4297,6 +4304,7 @@ Buada District
 Bubendorf
 Bubenec
 Bubiai
+Bubierca
 Bubikon
 Bublava
 Bubovice
@@ -4384,6 +4392,7 @@ Buin
 Buitrago del Lozoya
 Bujalance
 Bujanovac
+Bujaraloz
 Bujari
 Bujesily
 Bujumbura
@@ -4750,6 +4759,8 @@ Călărasi
 Călărasi County
 Călărasi District
 Calarca
+Calatayud
+Calatorao
 Calaveras County
 Calbayog
 Calbuco
@@ -4909,6 +4920,7 @@ Cancale
 Candamo
 Candangolândia
 Candarli
+Candasnos
 Candelaria
 Candelária
 Candeleda
@@ -5275,6 +5287,7 @@ Castanhal
 Castanheira de Pera
 Castaño del Robledo
 Castejón
+Castejón de las Armas
 Castel
 Castellar
 Castellar de la Frontera
@@ -5598,6 +5611,7 @@ Cestice
 Cestin
 Cestlice
 Cesvaine
+Cetina
 Cetingrad 
 Cetinje
 Cetkovice
@@ -6557,6 +6571,7 @@ Comox
 Comox Valley Regional District
 Compton
 Comrat
+Comunidad de Calatayud
 Comunidad de Madrid
 Conakry
 Conca de Barberà
@@ -6597,6 +6612,7 @@ Constanzana
 Constitución
 Contadero
 Contagem
+Contamina
 Conters
 Conthey
 Contra Costa County
@@ -8617,6 +8633,7 @@ Eleuthera
 El Figueró i Montmany
 Elfingen
 El Franco
+El Frasno
 El Fresno
 Elfros
 Elgersburg
@@ -8849,6 +8866,7 @@ Epe
 Ependes
 Epfig
 Ephraim Mogale
+Épila
 Epiniac
 Epirus
 Epitaciolândia
@@ -9347,6 +9365,7 @@ Figueira de Castelo Rodrigo
 Figueiró dos Vinhos
 Figueres
 Figuerola del Camp
+Figueruelas
 Figuig
 Figuig Province
 Filadelfia
@@ -9598,6 +9617,7 @@ Fox Valley
 Foz
 Foz do Iguaçu
 Fraena
+Fraga
 Frailes
 Frameries
 Framingham
@@ -9934,6 +9954,7 @@ Gallia County
 Gallifa
 Gällivare
 Gallizien
+Gallur
 Gallzein
 Galmaarden
 Galmiz
@@ -16553,6 +16574,8 @@ La Adrada
 Laakdal
 La Aldea de San Nicolás
 La Aldehuela
+La Almolda
+La Almunia de Doña Godina
 La Ametlla de Mar
 Läänemaa
 Lääne-Nigula Parish
@@ -16759,6 +16782,7 @@ Lajkovac
 La Jonquera
 Lajord
 Lajoux
+La Joyosa
 La Junta
 Lake Alma
 Lake and Peninsula Borough
@@ -16847,6 +16871,7 @@ Lamphun Province
 Lamprechtshausen
 Lampung
 Lamta
+La Muela
 Lanaken
 Lanao del Norte
 Lanao del Sur
@@ -17019,6 +17044,7 @@ Lappi
 La Praz
 Lapseki
 Lapsze Nizne commune
+La Puebla de Alfindén
 La Puebla de Arganzón
 Lapuebla de Labarca
 La Puente
@@ -18382,6 +18408,7 @@ Luce County
 Lucelle
 Lucena
 Lucena del Puerto
+Luceni
 Lucens
 Luchevoye
 Luchinskoye
@@ -18698,6 +18725,7 @@ Magacela
 Magadan
 Magadan Region
 Magallanes y Antártica Chilena Region
+Magallón
 Magangué
 Magareng
 Magas
@@ -18900,6 +18928,7 @@ Mallabia
 Mallala
 Mallama-Piedrancha
 Malle
+Mallén
 Mallnitz
 Mallorca
 Malmedy
@@ -20702,6 +20731,7 @@ Mora locality
 Moralzarzal
 Moran
 Morasice
+Morata de Jalón
 Morata de Tajuña
 Moravany
 Moravče
@@ -23481,6 +23511,7 @@ Oselce
 Oselin
 Osen
 Osenbach
+Osera de Ebro
 Osh
 Oshakati
 Oshamambe
@@ -24271,6 +24302,7 @@ Pedro Bernardo
 Pedroche
 Pedrógão Grande
 Pedro Juan Caballero
+Pedrola
 Pedro Miguel
 Pedro Rodriguez
 Pedroso de Acim
@@ -24321,6 +24353,7 @@ Peñacerrada
 Penacova
 Penafiel
 Peñaflor
+Peñalba
 Penal-Debe Region
 Peñalolén
 Peñalsordo
@@ -24686,6 +24719,7 @@ Pillisvorosvar District
 Pilnikov
 Pilviškiai
 Pima County
+Pina de Ebro
 Pinal County
 Pinarbasi
 Pinar del Río Province
@@ -26884,6 +26918,7 @@ Ribeiras
 Ribeira Seca
 Ribeirinha
 Ribera Baja
+Ribera Baja del Ebro
 Ribera d'Ebre
 Ribera d'Urgellet
 Ribera de Arriba
@@ -26917,6 +26952,7 @@ Rickenbach
 Rickenbach bei Winterthur
 Ricky
 Ricky v Orlickych horach
+Ricla
 Ridala Parish
 Ridder
 Ridderkerk
@@ -30314,6 +30350,7 @@ Sobotin
 Sobotka
 Sobotka commune
 Sobotovice
+Sobradiel
 Sobradinho
 Sobrado
 Sobral
@@ -32498,6 +32535,7 @@ Terre di Pedemonte
 Terre Haute
 Terrell
 Terrell County
+Terrer
 Territoire de Belfort
 Terry County
 Terschelling
@@ -32979,6 +33017,7 @@ Torrent
 Torre-Pacheco
 Torreperogil
 Torres
+Torres de Berrellén
 Torres de la Alameda
 Torres do Mondego
 Torres Novas
@@ -34084,6 +34123,7 @@ Utanobori
 Utashinai
 Utazu
 Utcubamba Province
+Utebo
 Utechov
 Utechovice
 Utena
@@ -34318,6 +34358,7 @@ Valsot
 Valsov
 Val Terbi
 Valtice
+Valtorres
 Valtrovice
 Val Verde County
 Valverde de Alcalá
@@ -34940,6 +34981,7 @@ Villaeles de Valdavia
 Villaflor
 Villafranca
 Villafranca de Córdoba
+Villafranca de Ebro
 Villafranca de la Sierra
 Villafranca de los Barros
 Villa General Mitre
