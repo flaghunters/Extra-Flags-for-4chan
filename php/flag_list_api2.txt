@@ -462,6 +462,7 @@ Albany
 Albanyà
 Albany County
 Albany Ward
+Albatàrrec
 Al Batinah North Governorate
 Al Batinah South Governorate
 al-Batuf
@@ -1447,6 +1448,7 @@ Artemivsk city
 Artenara
 Artern-Unstrut
 Artés
+Artesa de Lleida
 Artesa de Segre
 Artesia
 Arth
@@ -1728,6 +1730,7 @@ Avignon
 Avilés
 Avinurme Parish
 Avinyó
+Avinyonet del Penedès
 Avinyonet de Puigventós
 Avis
 Avolsheim
@@ -5292,6 +5295,7 @@ Castel
 Castellar
 Castellar de la Frontera
 Castellar del Vallès
+Castellbisbal
 Castellcir
 Castelldans
 Castelldefels
@@ -5304,6 +5308,7 @@ Castellón de la Plana
 Castell-Platja d'Aro
 Castellterçol
 Castellví de la Marca
+Castellví de Rosanes
 Castelo Branco
 Castelo Branco District
 Castelo de Paiva
@@ -16555,6 +16560,7 @@ København
 L'Abbaye
 L'Abergement
 L'Albagés
+L'Albi
 L'Albiol
 L'Aldea
 L'Ametlla del Vallès
@@ -16563,8 +16569,10 @@ L'Anse au Clair
 L'Anse au Loup
 L'Anse Indian Reservation
 L'Aquila
+L'Arboç
 L'Armentera
 L'Escala
+L'Espluga de Francolí
 L'Esquirol
 L'Hermitage
 L'Île-Bizard–Sainte-Geneviève
@@ -16603,6 +16611,7 @@ Labette County
 Labinsk
 Labinsky District
 La Bisbal d'Empordà
+La Bisbal del Penedès
 Labiszyn commune
 La Boca
 La Bosse-de-Bretagne
@@ -20657,6 +20666,7 @@ Montmartre
 Montmeló
 Montmorency County
 Mont-Noble
+Montoliu de Lleida
 Montornès del Vallès
 Montoro
 Montour County
@@ -26038,6 +26048,7 @@ Puigcerdà
 Puigdàlber
 Puiggròs
 Puigpelat
+Puigverd de Lleida
 Puka Parish
 Pukekohe
 Puketapapa Local Board
@@ -27194,6 +27205,7 @@ Rodkov
 Rodney Local Board
 Rodniki
 Rodnikovskoye
+Rodonyà
 Rodopi
 Rodrigues
 Rodrigues Alves
@@ -28705,6 +28717,7 @@ Sant Josep de sa Talaia
 Sant Julià de Cerdanyola
 Sant Julià del Llor i Bonmatí
 Sant Julià de Lòria
+Sant Just Desvern
 Sant Llorenç de la Muga
 Sant Llorenç de Morunys
 Sant Lluís
@@ -28744,6 +28757,7 @@ Sant Pere Pescador
 Sant Quirze de Besora
 Sant Quirze del Vallès
 Sant Quirze Safaja
+Sant Sadurní d'Anoia
 Santuario
 Santurtzi
 Sant Vicenç de Castellet
@@ -30566,6 +30580,7 @@ Sortland
 Sorvilán
 Sosa
 Sosenskoye
+Soses
 Sosnivka city
 Sosno commune
 Sosnogorsk
@@ -33023,6 +33038,7 @@ Torreperogil
 Torres
 Torres de Berrellén
 Torres de la Alameda
+Torres de Segre
 Torres do Mondego
 Torres Novas
 Torres Strait Island
@@ -34905,6 +34921,7 @@ Vila do Porto
 Viladrau
 Vila Flor
 Vilafranca de Bonany
+Vilafranca del Penedès
 Vila Franca de Xira
 Vila Franca do Campo
 Vilagarcía de Arousa
@@ -34939,6 +34956,7 @@ Vilardevós
 Vila Real
 Vila Real de Santo António
 Vila Real District
+Vila-rodona
 Vila-sana
 Vilasar de Dalt
 Vilas County
@@ -35102,11 +35120,13 @@ Vilters-Wangs
 Vilvoorde
 Vilyuchinsk
 Vilyuysk
+Vimbodí i Poblet
 Vimioso
 Vimmerby
 Vimovskoye
 Vimperk
 Viña del Mar
+Vinaixa
 Vinare
 Vinarice
 Vinary
