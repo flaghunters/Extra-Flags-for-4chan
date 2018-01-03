@@ -40,6 +40,7 @@ Abaltzisketa
 Abana
 Abancay
 Abancay Province
+Abangares
 Abanilla
 Abanto Ciérvana
 Abaqulusi
@@ -125,6 +126,7 @@ Aconchi
 Aconchi Municipality
 Açores
 A Coruña
+Acosta
 Acquarossa
 Acquaviva
 Acre
@@ -445,6 +447,7 @@ Alajeró
 Alajõe Parish
 Alajuela
 Alajuela Province
+Alajuelita
 Alamance County
 Alambari
 Alameda
@@ -842,6 +845,7 @@ Alushta
 Alushta municipality
 Alvaiázere
 Alvalade
+Alvarado
 Álvares Florence
 Álvares Machado
 Álvaro de Carvalho
@@ -1549,6 +1553,7 @@ Ascona
 Åsele
 Åseral
 Aseri Parish
+Aserrí
 Asgabat
 Ashanti Region
 Ashburnham
@@ -1642,6 +1647,7 @@ Ataun
 Atchison
 Atchison County
 Ateca
+Atenas
 Ateptsevskoye
 Ath
 Athabasca
@@ -1976,6 +1982,7 @@ Bærum
 Baeza
 Bafa
 Bafra
+Bagaces
 Bagadó
 Bagayevsky District
 Bagcilar
@@ -2349,6 +2356,7 @@ Bartreng
 Bartsham
 Baruchowo commune
 Barueri
+Barva
 Barvichinskoye
 Barvinkove city
 Barvinkove district
@@ -5048,6 +5056,7 @@ Cananéia
 Cáñar
 Cañar Province
 Canas
+Cañas
 Cañasgordas
 Cañaveral de León
 Cancale
@@ -5357,6 +5366,7 @@ Carrathool
 Carrazeda de Ansiães
 Carregal do Sal
 Carreño
+Carrillo
 Carrión de los Condes
 Carroll County
 Carrollton
@@ -6870,6 +6880,7 @@ Corps-Nuds
 Corpus Christi
 Corral
 Corrales
+Corredores
 Corrèze
 Corrientes Province
 Corrigin
@@ -6917,6 +6928,7 @@ Côte-Saint-Luc
 Côtes-d'Armor
 Cotia
 Cotkytle
+Coto Brus
 Cotonou
 Cotopaxi Province
 Cotorra
@@ -7172,6 +7184,7 @@ Curicó
 Curillo
 Curio
 Curitiba
+Curridabat
 Currie
 Currituck County
 Curry County
@@ -8149,6 +8162,7 @@ Dosrius
 Dossenheim-Kochersberg
 Dossenheim-sur-Zinsel
 Dosso Region
+Dota
 Doteng
 Dottikon
 Döttingen
@@ -8845,6 +8859,7 @@ Elgoibar
 El Gordo
 El Granado
 El Guamo
+El Guarco
 El Guettar
 El Guijo
 El Hajeb Province
@@ -9178,6 +9193,7 @@ Escalante
 Escaldes-Engordany
 Escambia County
 Es Castell
+Escazú
 Eschau
 Eschbach
 Eschbach-au-Val
@@ -9218,6 +9234,7 @@ Esmeraldas Province
 Esneux
 Esparragalejo
 Esparreguera
+Esparza
 Espelúy
 Espera
 Esperance
@@ -10236,6 +10253,7 @@ Gansu
 Ganusovskoye
 Gan Yavne
 Gao Region
+Garabito
 Garachico
 Garafía
 Garagoa
@@ -10766,6 +10784,7 @@ Golemezli
 Goleniow commune
 Goleniow County
 Goleta
+Golfito
 Golhisar
 Goliad County
 Golitsyno
@@ -11127,6 +11146,7 @@ Grebkow commune
 Grebnevo
 Grebocice commune
 Greboszow commune
+Grecia
 Greeley County
 Green Bay
 Greenbelt
@@ -11327,6 +11347,7 @@ Guachetá
 Guachochi
 Guachochi Municipality
 Guachucal
+Guácimo
 Guadahortuna
 Guadalajara
 Guadalcanal Province
@@ -11389,6 +11410,7 @@ Guatemala Department
 Guateque
 Guatica
 Guatire
+Guatuso
 Guaviare Department
 Guayabal de Síquima
 Guayabetal
@@ -12698,6 +12720,7 @@ Hohfrankenheim
 Hohnentannen
 Hohnstein-Südharz
 Hohrod
+Hojancha
 Hoke County
 Hokitika
 Hokkaido
@@ -17868,6 +17891,7 @@ León
 Leonardtown
 Leonardville
 Leoncin commune
+León Cortés Castro
 Leon County
 León Department
 Leonora
@@ -18628,6 +18652,7 @@ Los Arcos
 Losar de la Vera
 Los Barrios
 Los Blázquez
+Los Chiles
 Los Córdobas
 Los Corrales de Buelna
 Losevskoye
@@ -19841,6 +19866,7 @@ Mateur
 Mathod
 Mathon
 Matimekosh
+Matina
 Matjhabeng
 Matlosana
 Matmata Nouvelle
@@ -21067,6 +21093,8 @@ Monterrey
 Monterroso
 Montertelot
 Montes Claros
+Montes de Oca
+Montes de Oro
 Montesquiu
 Montet
 Montevideo
@@ -21181,6 +21209,7 @@ Moravany
 Moravče
 Moravec
 Moravecke Pavlovice
+Moravia
 Moravica District
 Moravicany
 Moravice
@@ -21843,6 +21872,7 @@ Nanaysky District
 Nanbu
 Nance County
 Nancy
+Nandayure
 Nandi County
 Nandrin
 Nangkor
@@ -21882,6 +21912,7 @@ Naranbulag
 Narandiba
 Narang
 Naranjito
+Naranjo
 Nara Prefecture
 Narashino
 Narathiwat Province
@@ -22396,6 +22427,7 @@ Nickelsdorf
 Nickerie District
 Nicollet County
 Nicosia
+Nicoya
 Nidau
 Nidderaanwen
 Nidderkaerjeng
@@ -23861,6 +23893,7 @@ Ordis
 Ordu Metropolitan Municipality
 Orduña
 Ordu Province
+Oreamuno
 Örebro
 Örebro County
 Örebro locality
@@ -23949,6 +23982,7 @@ Oroshaza District
 Oroslavje
 Oroso
 Oroszlany District
+Orotina
 Oro Valley
 Orozko
 Orp-Jauche
@@ -24462,6 +24496,7 @@ Pallars Jussà
 Pallars Sobirà
 Palma del Río
 Palmar de Valera
+Palmares
 Palmas
 Palm Beach
 Palm Beach County
@@ -24576,6 +24611,7 @@ Paraguarí Department
 Paraíba
 Paraibuna
 Parainen
+Paraíso
 Páramo de Boedo
 Paraná
 Paranapuã
@@ -24642,6 +24678,7 @@ Parral
 Parramatta
 Parrega
 Parres
+Parrita
 Parry Sound District
 Parson's Pond
 Parsons
@@ -25562,6 +25599,7 @@ Pnovany
 Pnovice
 Poá
 Poarch Creek Indian Reservation
+Poás
 Pobezovice
 Pobezovice u Holic
 Pocahontas County
@@ -26631,6 +26669,7 @@ Purbeck
 Purcellville
 Purén
 Purgstall an der Erlauf
+Puriscal
 Purísima
 Purkersdorf
 Purmerend
@@ -26756,6 +26795,7 @@ Queluz
 Quemchi
 Quemeneven
 Quéntar
+Quepos
 Queralbs
 Querétaro
 Querrien
@@ -29429,6 +29469,7 @@ Sarajevo Canton
 Saran
 Sarandë
 Saransk
+Sarapiquí
 Sarapul
 Sarasota
 Sarasota County
@@ -30644,6 +30685,7 @@ Sipovo municipality
 Sipsu
 Sipy
 Siquijor
+Siquirres
 Sira
 Siran
 Sirejovice
@@ -32883,6 +32925,7 @@ Tarragona
 Tarragonès
 Tarrant County
 Tarras
+Tarrazú
 Tàrrega
 Tarrenz
 Tarrés
@@ -33331,6 +33374,7 @@ Tianeti
 Tianjin
 Tibacuy
 Tibaná
+Tibás
 Tibasosa
 Tiberias
 Tibet
@@ -33367,6 +33411,7 @@ Tikhoretsk
 Tikhoretskoye
 Tikhoretsky District
 Tikhvin
+Tilarán
 Tilburg
 Tillabéri Region
 Tillamook County
@@ -34260,7 +34305,9 @@ Turov
 Turovec
 Turovice
 Turre
+Turrialba
 Turrillas
+Turrubares
 Tursko
 Turtle Mountain Indian Reservation
 Turtle River
@@ -34647,6 +34694,7 @@ Unzen
 Unzmarkt-Frauenburg
 Uonuma
 Uozu
+Upala
 Upata
 Upernavik
 uPhongolo
@@ -35033,6 +35081,7 @@ Valverde de Alcalá
 Valverde del Camino
 Valverde de Leganés
 Valverde del Fresno
+Valverde Vega
 Valvettithurai
 Valy
 Vamberk
@@ -37850,6 +37899,7 @@ Zaravice
 Zaraysk
 Zaraysky District
 Zaraza
+Zarcero
 Zareby Koscielne commune
 Zareche
 Zarevskoye
