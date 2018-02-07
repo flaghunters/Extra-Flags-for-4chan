@@ -549,6 +549,7 @@ Alcobaça
 Alcobendas
 Alcochete
 Alcolea
+Alcolea del Pinar
 Alcoletge
 Alcollarín
 Alcona County
@@ -636,6 +637,7 @@ Algiers
 Algodonales
 Algolsheim
 Algoma District
+Algora
 Alguazas
 Algueirão-Mem Martins
 Algutsboda district
@@ -705,6 +707,7 @@ Allschwil
 Alma
 Almacelles
 Almada
+Almadrones
 Almagreira
 Almagro
 Almaguer
@@ -737,6 +740,7 @@ Alona
 Alor Regency
 Alor Setar
 Alosno
+Alovera
 Alpbach
 Alpedrete
 Alpena County
@@ -1362,6 +1366,7 @@ Aretxabaleta
 Argalant
 Arganda del Rey
 Arganil
+Argecilla
 Argelaguer
 Argelia
 Argentine Antarctic Territory
@@ -4812,9 +4817,11 @@ Caazapá Department
 Cabaceiras do Paraguaçu
 Caballito
 Cabanabona
+Cabañas de la Sagra
 Cabañas Department
 Cabanatuan
 Cabanillas de la Sierra
+Cabanillas del Campo
 Cabarrus County
 Cabeceiras de Basto
 Cabell County
@@ -13566,6 +13573,7 @@ Illapel
 Illawarra
 Ille-et-Vilaine
 Illes Balears
+Illescas.PNG
 Illfurth
 Illgau
 Illhaeusern
@@ -17857,6 +17865,7 @@ Leczna County
 Leczyca
 Leczyca commune
 Leczyca County
+Ledanca
 Ledce
 Ledcice
 Lede
@@ -19306,6 +19315,7 @@ Magadan
 Magadan Region
 Magallanes y Antártica Chilena Region
 Magallón
+Magán
 Magangué
 Magareng
 Magas
@@ -19590,6 +19600,7 @@ Mandach
 Mandal
 Mandalay Region
 Mandaue
+Mandayona
 Mandelieu-la-Napoule
 Mandeni
 Mandera County
@@ -19722,6 +19733,7 @@ Marchegg
 Marchigüe
 Marchin
 Marchissy
+Marchomalo
 Marcilla
 Marcilla de Campos
 Marcille-Raoul
@@ -21643,6 +21655,7 @@ Mucharz commune
 Muckendorf-Wipfing
 Mucur
 Mudanya
+Muduex
 Mudurnu
 Muel
 Muespach
@@ -23338,6 +23351,7 @@ Nuevo León
 Nufenen
 Nuglar-St. Pantaleon
 Nuku Hiva
+Numancia de la Sagra
 Numata
 Numazu
 Nümbrecht
@@ -23840,6 +23854,7 @@ Olginskoye
 Olginsky District
 Olhão
 Olho d'Água das Flores
+Olías del Rey
 Olímpia
 Olinda
 Oliola
@@ -27007,6 +27022,7 @@ Quemchi
 Quemeneven
 Quéntar
 Quepos
+Quer
 Queralbs
 Querétaro
 Querrien
@@ -29818,6 +29834,7 @@ Satu Mare County
 Satun Province
 Satupa'itea District
 Saubraz
+Saúca
 Saucillo
 Saucillo Municipality
 Sauda
@@ -33929,6 +33946,7 @@ Torgu Parish
 Torhout
 Toribío
 Toride
+Torija.PNG
 Toril
 Torino
 Tori Parish
@@ -33967,6 +33985,7 @@ Torremayor
 Torremejía
 Torremenga
 Torremocha de Jarama
+Torremocha del Campo
 Torrent
 Torre-Pacheco
 Torreperogil
@@ -34229,6 +34248,7 @@ Triesenberg
 Trieste
 Trigg County
 Trigueros
+Trijueque
 Trikomo
 Trimbach
 Trimble County
@@ -35994,6 +36014,7 @@ Villalbilla
 Villalcázar de Sirga
 Villalmanzo
 Villalobón
+Villaluenga de la Sagra
 Villa Lugano
 Villa Luro
 Villamanrique de Tajo
@@ -36017,6 +36038,7 @@ Villanueva de la Reina
 Villanueva del Arzobispo
 Villanueva de las Cruces
 Villanueva de la Serena
+Villanueva de la Torre
 Villanueva de la Vera
 Villanueva de lla Sierra
 Villanueva de los Castillejos
@@ -37944,6 +37966,8 @@ Yukuhashi
 Yuma County
 Yumbel
 Yumbo
+Yuncler
+Yuncos
 Yungay
 Yuni
 Yunlin County
