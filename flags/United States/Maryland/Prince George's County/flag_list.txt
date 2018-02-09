@@ -1,3 +1,4 @@
+.DS_Store
 Bowie
 Brentwood
 College Park
@@ -7,4 +8,7 @@ Glenarden
 Greenbelt
 Hyattsville
 Laurel
+Mount Rainier
+New Carrollton
+Seat Pleasant
 Upper Marlboro
