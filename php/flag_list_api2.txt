@@ -2292,6 +2292,7 @@ Bar district
 Bardo
 Bardo commune
 Bardonnex
+Bardymsky District
 Barembach
 Barendrecht
 Bäretswil
@@ -3021,6 +3022,7 @@ Bertrix
 Berunice
 Berwang
 Beryozovskoye
+Beryozovsky District
 Beryslav city
 Beryslav district
 Berzocana
@@ -3763,6 +3765,7 @@ Bolshaya Okhta
 Bolshebeysugskoye
 Bolsheneclinovskoye
 Bolsherogachevskoye
+Bolshesosnovsky District
 Bolshevereyskoye
 Bolshie Dvory
 Bolshie Vyazemy
@@ -5948,6 +5951,7 @@ Chasiv Yar city
 Chaskhar
 Chasne-sur-Illet
 Chasno commune
+Chastinsky District
 Chastre
 Chastsovskoye
 Chatan
@@ -5993,6 +5997,7 @@ Chavantes
 Chaves
 Chaves County
 Chavornay
+Chaykovsky
 Chbany
 Cheatham County
 Cheb
@@ -6044,6 +6049,7 @@ Chepiginskoye
 Cher
 Chercos
 Cherdyn
+Cherdynsky District
 Cheremkhovo
 Cherepovets
 Cherkasy city
@@ -6051,7 +6057,6 @@ Cherkasy district
 Cherkasy Region
 Cherkessk
 Cherkizovo
-Chermoz
 Cherniakhiv district
 Chernigovskoye
 Chernigovsky District
@@ -6068,6 +6073,7 @@ Chernogorsk
 Chernomorsk district
 Chernomorsky
 Chernoyarsky District
+Chernushinsky District
 Chernushka
 Chernyakhovsk
 Chernyshev
@@ -6417,6 +6423,7 @@ Chyne
 Chynice
 Chynov
 Chynow commune
+Chyormoz
 Chyornaya rechka
 Chyse
 Chysky
@@ -10452,6 +10459,7 @@ Gavres
 Gaweinstal
 Gawler
 Gaworzyce commune
+Gaynsky District
 Gaza
 Gaza Province
 Gaza Strip
@@ -10991,6 +10999,7 @@ Gornji Milanovac
 Gornji Petrovci
 Gorno-Altaysk
 Gorno-Badakhshan
+Gornozavodsky District
 Gorny
 Gornye Klyuchi
 Gorontalo
@@ -11282,6 +11291,7 @@ Greiz
 Greiz District
 Grellingen
 Gremyachenskoye
+Gremyachinsk
 Grenaa
 Grenada
 Grenada County
@@ -13605,6 +13615,7 @@ Ilsky
 Ilukste
 Ilulissat
 Ilut
+Ilyinsky District
 Ilz
 Ilza commune
 Ilztal
@@ -14999,6 +15010,7 @@ Karadeniz Eregli
 Karadere
 Karagandy
 Karagandy Region
+Karagaysky District
 Karaginsky District
 Karahalli
 Karaidelsky District
@@ -15760,6 +15772,7 @@ Kiryu
 Kisarazu
 Kisber District
 Kisela Voda
+Kishertsky District
 Kishiwada
 Kisii County
 Kiskoros District
@@ -16016,6 +16029,7 @@ Kochanky
 Kochanov
 Kochi
 Kochi Prefecture
+Kochyovsky District
 Koci
 Kocierzew Poludniowy commune
 Kock commune
@@ -16147,6 +16161,7 @@ Komen
 Komenda
 Komendantsky Aerodrom
 Komi
+Komi-Permyak Okrug
 Komlo District
 Kommunar
 Komna
@@ -16329,6 +16344,7 @@ Kosice Region
 Kosik
 Kosiky
 Kosino-Ukhtomsky District
+Kosinsky District
 Kosiv city
 Kosiv district
 Kosjeric
@@ -16580,6 +16596,7 @@ Krasnoturinsk
 Krasnoufimsk
 Krasnoulskoye
 Krasnouralsk
+Krasnovishersky District
 Krasnoyarsk
 Krasnoyarsk Territory
 Krasnoyarsky District
@@ -16821,6 +16838,7 @@ Kudowa-Zdroj
 Kudoyama
 Kudus Regency
 Kudymkar
+Kudymkarsky District
 Kufstein
 Kufstein District
 Kugaaruk
@@ -16896,6 +16914,7 @@ Kungota
 Kungsbacka
 Kungsör
 Kungur
+Kungursky District
 Kunhegyes District
 Kunheim
 Kunice
@@ -17018,6 +17037,7 @@ Kuwana
 Kuybyshev
 Kuybyshevskoye
 Kuybyshevsky District
+Kuyedinsky District
 Kuyucak
 Kuyurgazinsky District
 Kuzelov
@@ -23420,10 +23440,12 @@ Nymburk District
 Nynäshamn
 Nyon
 Nyrany
+Nyrob
 Nyrov
 Nyrsko
 Nysa County
 Nytva
+Nytvensky District
 Nyuzen
 Nyzhni Sirohozy district
 Nyzhnohirskyi
@@ -23606,13 +23628,14 @@ Ochagavía
 Ochakiv city
 Ochakiv district
 Ochakovo-Matveyevskoye District
-Ocher
 Ochi
 Ochiltree County
 Ochota
 Ochotnica Dolna commune
 Ochoz
 Ochoz u Brna
+Ochyor
+Ochyorsky District
 Ocihov
 Ockelbo
 Öckerö
@@ -23765,6 +23788,7 @@ Okfuskee County
 Okha
 Okhahlamba
 Okhansk
+Okhansky District
 Okhinsky District
 Okhotsk subprefecture
 Okhotsky District
@@ -24096,6 +24120,7 @@ Orbe
 Orbey
 Ordes
 Ordino
+Ordinsky District
 Ordis
 Ordu Metropolitan Municipality
 Orduña
@@ -24278,6 +24303,7 @@ Osik
 Osiky
 Osilnica
 Osina commune
+Osinsky District
 Osipovichi
 Osjakow commune
 Oskaloosa
@@ -25229,6 +25255,7 @@ Perlojai
 Perly-Certoux
 Perlyovskoye
 Perm
+Permsky District
 Perm Territory
 Perna
 Pernambuco
@@ -25946,6 +25973,7 @@ Polanica-Zdroj
 Polanka Wielka commune
 Polanow commune
 Polatli
+Polazna
 Polczyn-Zdroj commune
 Polen
 Polepy
@@ -30997,6 +31025,7 @@ Sivas Province
 Siverek
 Siversk city
 Sivice
+Sivinsky District
 Siviriez
 Sivrice
 Sivrihisar
@@ -31384,6 +31413,7 @@ Solidaridad Municipality
 Soligorsk
 Solihull
 Solikamsk
+Solikamsky District
 Soliman
 Solingen
 Solita
@@ -32468,6 +32498,7 @@ Sükhbaatar Province
 Sukhothai Province
 Sukoharjo Regency
 Sukorady
+Suksunsky District
 Sukumo
 Sula
 Sulawesi Barat
@@ -34799,6 +34830,7 @@ Uhricice
 Uhrineves
 Uhrinov
 Uhrwiller
+Uinsky District
 Uinta County
 Uintah County
 Uinta Valley Reservation
@@ -35086,7 +35118,8 @@ Usinsk
 Uskudar
 Usobi
 Usobrno
-Usole
+Usolsky District
+Usolye
 Usov
 Uspenskoye
 Uspensky District
@@ -35711,6 +35744,7 @@ Verdun
 Verea
 Vereiskoye
 Vereshchagino
+Vereshchaginsky District
 Vereya
 Vergara
 Vergeal
@@ -37850,6 +37884,7 @@ Yellowhead County
 Yellowknife
 Yellow Medicine County
 Yellowstone County
+Yelovsky District
 Yemilchyne district
 Yenakiieve city
 Yenicaga
@@ -37993,6 +38028,7 @@ Yurga
 Yurihama
 Yurihonjo
 Yurivka district
+Yurlinsky District
 Yurlovskoye
 Yurtbeyli
 Yurtcovskoye
@@ -38000,6 +38036,7 @@ Yurung
 Yusharsky
 Yusuhara
 Yusui
+Yusvinsky District
 Yuza
 Yuzawa
 Yuzhne city
@@ -38656,13 +38693,13 @@ Zverevo
 Zverinek
 Zverkovice
 Zvezdara
-Zvezdny
 Zvikov
 Zvikovec
 Zvikovske Podhradi
 Zvole
 Zvornik city
 Zvyozdnoe
+Zvyozdny
 Zvyozdny gorodok
 Zwaagwesteinde
 Zwagerbos
