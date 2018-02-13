@@ -1270,6 +1270,7 @@ Aramaio
 Aramil
 Aramina
 Aramoana
+Aranda de Duero
 Arandis
 Arandjelovac
 Arandu
@@ -1325,6 +1326,7 @@ Archlebov
 Archuleta County
 Arco-Íris
 Arconciel
+Arcos de Jalón
 Arcos de Valdevez
 Arctic Bay
 Ardabil
@@ -1863,6 +1865,7 @@ Aydincik
 Aydindere
 Aydin Province
 Aydintepe
+Ayegui
 Ayent
 Ayer
 Ayeyarwady Region
@@ -2267,6 +2270,7 @@ Barásoain
 Baraya
 Barbacoas
 Barbadás
+Barbarin
 Barbaros
 Barberà de la Conca
 Barberà del Vallès
@@ -2298,6 +2302,7 @@ Barendrecht
 Bäretswil
 Bareyo
 Bargen
+Bargota
 Barguzinskoye
 Barguzinsky District
 Bari
@@ -3617,6 +3622,7 @@ Bocaina
 Bocanovice
 Boca Raton
 Bocas del Toro Province
+Boceguillas
 Bochalema
 Bochnia
 Bochnia commune
@@ -4305,6 +4311,7 @@ British Columbia
 Brito
 Britswerd
 Brittnau
+Briviesca
 Brixen im Thale
 Brixlegg
 Briza
@@ -9404,6 +9411,7 @@ Etterbeek
 Ettingen
 Ettringen an der Wertach
 Ettswil
+Etxauri2
 Etxebarri
 Etxebarria
 Etziken
@@ -11129,6 +11137,7 @@ Grafton County
 Graham County
 Grainger County
 Grajaú
+Grajera
 Grajewo County
 Gralla
 Gramada
@@ -11570,6 +11579,7 @@ Guern
 Guernsey County
 Guerrero
 Guerrero Municipality
+Guesálaz
 Güevéjar
 Guevenatten
 Guewenheim
@@ -13514,6 +13524,7 @@ Igoumenitsa
 Igualada
 Iguape
 Iguatu
+Igúzquiza
 Iheya
 Ihorombe Region
 Ihsangazi
@@ -17821,6 +17832,7 @@ Lax̱g̱alts’ap
 Laya
 Laz
 Laza
+Lazagurría
 Lazanky
 Lazany
 Lazarevac
@@ -19124,6 +19136,7 @@ Lupstein
 Luqa
 Luque
 Luquillo
+Luquin
 Lurnfeld
 Luruaco
 Lurøy
@@ -20247,6 +20260,7 @@ Medford
 Medicine Hat
 Medijana
 Medina
+Medinaceli
 Medina County
 Medina-Sidonia
 Medio Atrato
@@ -20867,6 +20881,7 @@ Miralcamp
 Miramar
 Miramichi
 Miranda
+Miranda de Ebro
 Miranda do Corvo
 Miranda do Douro
 Mirandela
@@ -29030,6 +29045,7 @@ Salgotarjan
 Salgotarjan District
 Salihli
 Salinas
+Salinas de Oro
 Saline County
 Salisbury
 Sallingberg
@@ -29657,6 +29673,7 @@ Santorcaz
 Santos
 Santo Tirso
 Santo Tomás
+Santo Tomé del Puerto
 Santo Tomé de Zabarcos
 Santoyo
 Sant Pau de Segúries
@@ -34035,6 +34052,7 @@ Torreperogil
 Torres
 Torres de Berrellén
 Torres de la Alameda
+Torres del Río
 Torres de Segre
 Torres do Mondego
 Torres Novas
@@ -35360,6 +35378,7 @@ Valle del Zalabí
 Valle de Santa Ana
 Valle de Trápaga-Trapagaran
 Valle de Villaverde
+Valle de Yerri
 Valle de Zaragoza Municipality
 Valledupar
 Vallée du Bandama District
@@ -36125,6 +36144,7 @@ Villasbuenas de Gata
 Villasila de Valdavia
 Villa Soldati
 Villatoro
+Villatuerta
 Villa Urquiza
 Villava
 Villavicencio
