@@ -508,6 +508,7 @@ Alberto Adriani
 Alberton
 Albesa
 Albinen
+Albion
 Al-Bireh
 Albisrieden
 Albiztur
@@ -8747,6 +8748,7 @@ Edgemont
 Edgerton
 Edgewood
 Edina
+Edinboro
 Edinburgh
 Edincik
 Edinet District
@@ -8978,6 +8980,7 @@ El Jadida Province
 Eljas
 Elkana
 Elk County
+Elk Creek Township
 El Kelâa des Sraghna
 El Kelâa des Sraghna Province
 Elk Grove
@@ -9508,6 +9511,7 @@ Fairview
 Fairview Heights
 Fairview Municipal District
 Fairview Park
+Fairview Township
 Fairway
 Faisalabad
 Faistenau
@@ -9999,6 +10003,7 @@ Franklin County
 Franklin Harbour
 Franklin Local Board
 Franklin Parish
+Franklin Township
 Frankston
 Frantiskovy Lazne
 Frantschach-Sankt Gertraud
@@ -10708,6 +10713,7 @@ Giradota
 Giraldo
 Girard
 Girardot
+Girard Township
 Giresun
 Giresun Province
 Girey
@@ -11273,6 +11279,7 @@ Greenbrier County
 Green County
 Greene County
 Greenfield
+Greenfield Township
 Greenhithe
 Green Lake County
 Greenlee County
@@ -12043,6 +12050,7 @@ Harana
 Harare
 Harari Region
 Harbin
+Harborcreek Township
 Harbour Grace
 Harburg District
 Hard
@@ -17374,6 +17382,7 @@ La Junta
 Lake Alma
 Lake and Peninsula Borough
 Lake Charles
+Lake City
 Lake County
 Lakedemonovskoye
 Lake Ferry
@@ -17823,6 +17832,7 @@ La Wantzenau
 Lawndale
 Lawrence
 Lawrence County
+Lawrence Park
 Lawtonia
 Lax
 Laxå
@@ -20209,6 +20219,7 @@ Mcely
 McHenry County
 McIntosh County
 McKean County
+McKean Township
 McKenzie County
 McKillop
 McKinlay
@@ -20759,6 +20770,7 @@ Milkovo
 Milkovsky District
 Milkowice commune
 Millard County
+Millcreek Township
 Mille Lacs County
 Mille Lacs Lake Indian Reservation
 Mill en Sint Hubert
@@ -23000,6 +23012,7 @@ North East Derbyshire
 North-East District
 North-Eastern Administrative Area
 North East Lincolnshire
+North East Township
 Northeim District
 Northern Administrative Area
 Northern Areas
@@ -32584,6 +32597,7 @@ Summers County
 Summerside
 Summerville
 Summit County
+Summit Township
 Sumna
 Sumner
 Sumner County
@@ -34984,6 +34998,7 @@ Unicoi County
 Unicov
 Uniejow commune
 Unin
+Union City
 Union County
 Unión Panamericana
 Union Parish
@@ -35728,6 +35743,7 @@ Velykyi Bereznyi district
 Velykyi Burluk district
 Vemyslice
 Venango County
+Venango Township
 Venda Nova do Imigrante
 Vendas Novas
 Vendée
@@ -36949,6 +36965,7 @@ Watauga County
 Waterberg
 Waterbury
 Waterford
+Waterford Township
 Waterland
 Waterloo
 Waterloo Region
@@ -36978,6 +36995,7 @@ Wawolnica commune
 Wayland
 Wayne County
 Waynesboro
+Wayne Township
 Wazuka
 Weakley County
 Wealden
@@ -37112,6 +37130,7 @@ Wervik
 Wesel District
 Wesermarsch District
 Wesley
+Wesleyville
 Wesola
 West Arnhem
 West Arthur
