@@ -307,6 +307,7 @@ Ahmedabad
 Ahmetbey
 Ahmetli
 Ahmetovskoye
+Ahome
 Ahrweiler District
 Ahtanizovskoye
 Ahuachapán Department
@@ -1090,6 +1091,7 @@ Angiari
 Ang Mo Kio
 Angol
 Angostura
+Angostura Municipality
 Angra do Heroismo
 Ang Thong Province
 Anguillara Veneta
@@ -2009,6 +2011,8 @@ Bad Hofgastein
 Badia Calaverna
 Badia del Vallès
 Badia Polesine
+Badiraguato
+Badiraguato Municipality
 Bad Kissingen District
 Bad Kleinkirchheim
 Bad Köstritz
@@ -6427,6 +6431,8 @@ Chodsky Ujezd
 Chodziez County
 Chofu
 Choiseul Province
+Choix
+Choix Municipality
 Chojna commune
 Chojnice County
 Chojnow
@@ -6995,6 +7001,7 @@ Conco
 Concón
 Concord
 Concordia
+Concordia Municipality
 Concordia Parish
 Concordia Sagittaria
 Concoret
@@ -7160,6 +7167,8 @@ Corvera de Asturias
 Corvo
 Corydon Township
 Coryell County
+Cosalá
+Cosalá Municipality
 Coshocton County
 Coslada
 Cosmópolis
@@ -7415,6 +7424,7 @@ Cukurova
 Culberson County
 Culebra
 Culemborg
+Culiacán
 Cúllar Vega
 Culleredo
 Cullman
@@ -9132,6 +9142,8 @@ El Franco
 El Frasno
 El Fresno
 Elfros
+El Fuerte
+El Fuerte Municipality
 Elgersburg
 Elgeta
 Elgeyo-Marakwet County
@@ -9202,6 +9214,7 @@ El Morell
 El Mourouj
 Elmsthorpe
 El Oro Province
+Elota
 El Papiol
 El Paso
 El Paso County
@@ -9501,6 +9514,8 @@ Esch-Uelzecht Canton
 Eschwiller
 Escondido
 Escorca
+Escuinapa
+Escuinapa de Hidalgo
 Escuintla Department
 Escurial
 Escúzar
@@ -11731,6 +11746,7 @@ Guajeru
 Gualmatan
 Gualta
 Guamal
+Guamúchil
 Guanacaste Province
 Guanajuato
 Guangdong
@@ -11766,6 +11782,8 @@ Guárico
 Guarne
 Guarujá
 Guarulhos
+Guasave
+Guasave Municipality
 Guasca
 Guatapará
 Guatapé
@@ -19136,6 +19154,7 @@ Los Lagos Region
 Los Llanos de Aridane
 Los Llanos de Tormes
 Los locality
+Los Mochis
 Los Molinos
 Losone
 Lososina Dolna commune
@@ -20468,6 +20487,8 @@ Mazariegos
 Mazarrón
 Mazatán
 Mazatán Municipality
+Mazatlán
+Mazatlán Municipality
 Mazcuerras
 Mažeikiai
 Mažeikiai District Municipality
@@ -21352,6 +21373,8 @@ Mochilskoye
 Mochov
 Mochowo commune
 Mococa
+Mocorito
+Mocorito Municipality
 Moctezuma
 Moctezuma Municipality
 Modalen
@@ -22588,6 +22611,8 @@ Navis
 Navojna
 Navojoa
 Navojoa Municipality
+Navolato
+Navolato Municipality
 Navsi
 Nawa Region
 Nawojowa commune
@@ -29514,6 +29539,7 @@ Saltukova
 Saltvik
 Saluda County
 Salvador
+Salvador Alvarado
 Salvaleón
 Salvan
 Salvaterra de Magos
@@ -29687,6 +29713,7 @@ Sanguinetto
 San Gwann
 San Ignacio
 San Ignacio de Velasco
+San Ignacio Municipality
 San Ignacio Province
 San Ignacio Río Muerto
 San Ignacio Río Muerto Municipality
@@ -31448,6 +31475,7 @@ Simsbury
 Sinabelkirchen
 Sinajana
 Sinaloa
+Sinaloa Municipality
 Sinanli
 Sinanpasa
 Sincan
