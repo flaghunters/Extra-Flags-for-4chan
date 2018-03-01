@@ -6754,6 +6754,7 @@ City of London
 City of Sevastopol
 City of Tshwane
 Ciudad Bolívar
+Ciudad Constitución
 Ciudad del Este
 Ciudad de México
 Ciudad Juárez
@@ -7020,6 +7021,7 @@ Commerce City
 Commewijne District
 Commugny
 Comoé District
+Comondú Municipality
 Comox
 Comox Valley Regional District
 Compton
@@ -9423,7 +9425,9 @@ Ennetmoos
 Enniskillen
 Ennsdorf
 Enschede
+Ensenada
 Ensenada Department
+Ensenada Municipality
 Ensisheim
 Enterprise
 Entlebuch
@@ -17959,6 +17963,7 @@ La Paternal
 La Paz
 La Paz County
 La Paz Department
+La Paz Municipality
 Lapeer County
 La Peña
 Lapes
@@ -19197,6 +19202,8 @@ Lo-Reninge
 Lorentzen
 Lorenzago di Cadore
 Loreo
+Loreto
+Loreto Municipality
 Loreto Region
 Loretto
 Loria
@@ -19219,6 +19226,7 @@ Los Arcos
 Losar de la Vera
 Los Barrios
 Los Blázquez
+Los Cabos Municipality
 Los Chiles
 Los Córdobas
 Los Corrales de Buelna
@@ -20981,6 +20989,8 @@ Mevo'ot HaHermon
 Mevo Hama
 Mewang
 Mex
+Mexicali
+Mexicali Municipality
 México
 Meyenheim
 Meyriez
@@ -22191,6 +22201,7 @@ Mukinbudin
 Muko
 Mula
 Mulchén
+Mulegé Municipality
 Mulhausen
 Mülheim an der Ruhr
 Mulhouse
@@ -26246,6 +26257,7 @@ Plavec
 Plavinas
 Plavsko
 Plavy
+Playas de Rosarito Municipality
 Playford
 Plazy
 Plchov
@@ -28835,6 +28847,7 @@ Rosales Municipality
 Rosana
 Rosario
 Rosario Municipality
+Rosarito
 Rosas
 Roscanvel
 Röschenz
@@ -29888,6 +29901,7 @@ San José
 San José de la Mariquina
 San José de la Montaña
 San José de las Matas
+San José del Cabo
 San José del Fragua
 San José del Valle
 San José de Maipo
@@ -30249,6 +30263,7 @@ Santa Rosa de Osos
 Santa Rosa Department
 Santa Rosa de Viterbo
 Santa Rosa do Purus
+Santa Rosalía
 Santa Sofía
 Santa Tecla
 Santa Teresa
@@ -34107,6 +34122,8 @@ Tea Tree Gully
 Te Awamutu
 Teboulba
 Teboursouk
+Tecate
+Tecate Municipality
 Techarovice
 Techelsberg am Wörther See
 Techlovice
@@ -34479,6 +34496,8 @@ Tigre Department
 Tijarafe
 Tijnje
 Tíjola
+Tijuana
+Tijuana Municipality
 Tikhoretsk
 Tikhoretskoye
 Tikhoretsky District
