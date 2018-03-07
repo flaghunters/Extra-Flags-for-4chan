@@ -144,7 +144,7 @@ Adamow commune
 Adams
 Adams County
 Adamswiller
-Adana Metropolitan Municipality
+Adana
 Adana Province
 Adanero
 Adapazari
@@ -600,9 +600,9 @@ Aleksandrovo
 Aleksandrovskoye
 Aleksandrovsk-Sakhalinsky
 Aleksandrow commune
+Aleksandrów County
 Aleksandrow Kujawski
 Aleksandrow Kujawski commune
-Aleksandrow Kujawski County
 Aleksandrow Lodzki commune
 Alekseevskoye
 Aleksinac
@@ -1119,7 +1119,7 @@ Anjo
 Anjou
 Anjouan
 Anjum
-Ankara Metropolitan Municipality
+Ankara
 Ankara Province
 Anmore
 Anna
@@ -2187,7 +2187,7 @@ Balfour
 Balgach
 Balgau
 Bali
-Balikesir Metropolitan Municipality
+Balikesir
 Balikesir Province
 Baliklicesme
 Balilihan
@@ -4791,7 +4791,7 @@ Burnsville
 Büron
 Burrillville
 Bürs
-Bursa Metropolitan Municipality
+Bursa
 Bursa Province
 Bürserberg
 Burshtyn city
@@ -5849,7 +5849,6 @@ Centar Župa
 Centelles
 Centenario
 Centennial
-Center District
 Centerville
 Centovalli
 Central
@@ -6631,7 +6630,6 @@ Cicenice
 Cicero
 Cicevac
 Cichov
-Cicolo di Malvaglia
 Cicovice
 Cicuco
 Cidlina
@@ -6715,6 +6713,7 @@ Circolo di Lavizzara
 Circolo di Locarno
 Circolo di Lugano est
 Circolo di Lugano ovest
+Circolo di Malvaglia
 Circolo di Mendrisio
 Circolo di Olivone
 Circolo di Onsernone
@@ -7891,7 +7890,7 @@ Denguélé District
 Den Haag
 Den Helder
 Denigomodu District
-Denizli Metropolitan Municipality
+Denizli
 Denizli Province
 Denmark
 Dennis
@@ -8173,7 +8172,7 @@ Divrigi
 Dixie County
 Dixon
 Dixon County
-Diyarbakir Metropolitan Municipality
+Diyarbakir
 Diyarbakir Province
 Dizy
 Djakovica
@@ -9550,7 +9549,7 @@ Erzin
 Erzincan
 Erzincan Province
 Erzsebetvaros District
-Erzurum Metropolitan Municipality
+Erzurum
 Erzurum Province
 Esashi
 Escacena del Campo
@@ -9591,7 +9590,7 @@ Eshkol
 Eskil
 Eskilstuna
 Eskipazar
-Eskisehir Metropolitan Municipality
+Eskisehir
 Eskisehir Province
 Eslöv
 Esme
@@ -10788,7 +10787,7 @@ Gaynsky District
 Gaza
 Gaza Province
 Gaza Strip
-Gaziantep Metropolitan Municipality
+Gaziantep
 Gaziantep Province
 Gazi Baba
 Gaziemir
@@ -12499,7 +12498,7 @@ Hastings District
 Hasuda
 Hasvik
 Hat
-Hatay Metropolitan Municipality
+Hatay
 Hatay Province
 Hatfield
 Hatillo
@@ -14260,7 +14259,7 @@ Isperih
 Issaquena County
 Issenhausen
 Issenheim
-Istanbul Metropolitan Municipality
+Istanbul
 Istanbul Province
 Istmina
 Istocna Ilidza municipality
@@ -14412,7 +14411,7 @@ Izmail city
 Izmail district
 Izmaylovo District
 Izmaylovskoye
-Izmir Metropolitan Municipality
+Izmir
 Izmir Province
 Izmit
 Iznájar
@@ -15015,7 +15014,7 @@ Kaharlyk district
 Kahlenbergerdorf
 Kahnawake
 Kahoku
-Kahramanmaras Metropolitan Municipality
+Kahramanmaras
 Kahramanmaras Province
 Kahta
 Kai
@@ -15638,7 +15637,7 @@ Kayihan
 Kayin State
 Kaynarca
 Kaynasli
-Kayseri Metropolitan Municipality
+Kayseri
 Kayseri Province
 Kaysersberg
 Kazamaura
@@ -16377,7 +16376,7 @@ Kocaali
 Kocaavsar
 Kocabas
 Kocadere
-Kocaeli Metropolitan Municipality
+Kocaeli
 Kocaeli Province
 Kočani
 Kocarli
@@ -16586,8 +16585,8 @@ Konstanz District
 Konstem
 Konter
 Kontich
+Konya
 Konyaalti
-Konya Metropolitan Municipality
 Konya Province
 Koochiching County
 Koonga Parish
@@ -16929,8 +16928,8 @@ Krasnodar
 Krasnodar Territory
 Krasnodon city
 Krasnodon district
-Krasnogorasky District
 Krasnogorsk
+Krasnogorsky District
 Krasnogvardeyevsky district
 Krasnogvardeyskoye
 Krasnogvardeysky District
@@ -17519,8 +17518,8 @@ La Argentina
 Laarne
 Laax
 Laâyoune
-Laâyoune-Boujdour-Sakia El Hamra
 Laâyoune Province
+Laâyoune-Sakia El Hamra
 La Baie
 Labaroche
 La Baroche
@@ -18294,7 +18293,7 @@ Leeton
 Leeuwarden
 Leeuwarden (city)
 Leeuwarden-Westeinde
-Leeuwarderdeel
+Leeuwarderadeel
 Le Faou
 Le Faouet
 Le Flon
@@ -19268,8 +19267,8 @@ Lot
 Lota
 Lot-et-Garonne
 Lothey
-Lotoshinksy District
 Lotoshino
+Lotoshinsky District
 Loucany
 Loucen
 Loucka
@@ -19893,7 +19892,7 @@ Malansac
 Mala Roudka
 Mala Stahle
 Mala Strana
-Malatya Metropolitan Municipality
+Malatya
 Malatya Province
 Mala Upa
 Mala Vrbka
@@ -19903,7 +19902,6 @@ Mala Wies commune
 Malaya Okhta
 Malazgirt
 Malborghetto-Valbruna
-Malbork
 Malbork County
 Malcesine
 Malczyce commune
@@ -20065,7 +20063,7 @@ Manica Province
 Maniitsoq
 Manila
 Manipur
-Manisa Metropolitan Municipality
+Manisa
 Manisa Province
 Manistee County
 Manitoba
@@ -20187,7 +20185,7 @@ Marcos Paz Department
 Mardan
 Mar del Plata
 Mar del Tuyú
-Mardin Metropolitan Municipality
+Mardin
 Mardin Province
 Marechal Thaumaturgo
 Mareeba
@@ -20894,7 +20892,7 @@ Merrimack
 Merrimack County
 Merritt
 Merseyside
-Mersin Metropolitan Municipality
+Mersin
 Mersin Province
 Mersrags
 Merthyr Tydfil
@@ -22174,7 +22172,7 @@ Muespach-le-Haut
 Muggendorf
 Muggia
 Mugi
-Mugla Metropolitan Municipality
+Mugla
 Mugla Province
 Muharraq Governorate
 Muhen
@@ -24627,7 +24625,7 @@ Ordes
 Ordino
 Ordinsky District
 Ordis
-Ordu Metropolitan Municipality
+Ordu
 Orduña
 Ordu Province
 Oreamuno
@@ -24905,8 +24903,8 @@ Ostrow Lubelski commune
 Ostrow Mazowiecka
 Ostrow Mazowiecka commune
 Ostrow Mazowiecka County
-Ostrow Wielkopolski
 Ostrow Wielkopolski County
+Ostrów Wielkopolski County
 Ostrozska Lhota
 Ostrozska Nova Ves
 Ostruzna
@@ -26211,8 +26209,8 @@ Placer County
 Plácido de Castro
 Placilla
 Pla d'Urgell
+Pla de l'Estany
 Pla de Santa Maria
-Pla d l'Estany
 Plaffeien
 Plaine
 Plaines Wilhems District
@@ -26913,28 +26911,28 @@ Prado del Rey
 Praga-Polnoc
 Prägraten am Grossvenediger
 Praha
-Praha-10 district
-Praha-11 district
-Praha-12 district
-Praha-13 district
-Praha-14 district
-Praha-15 district
-Praha-16 district
-Praha-17 district
-Praha-18 district
-Praha-19 district
-Praha-1 district
-Praha-20 district
-Praha-21 district
-Praha-22 district
-Praha-2 district
-Praha-3 district
-Praha-4 district
-Praha-5 district
-Praha-6 district
+Praha-10 District
+Praha-11 District
+Praha-12 District
+Praha-13 District
+Praha-14 District
+Praha-15 District
+Praha-16 District
+Praha-17 District
+Praha-18 District
+Praha-19 District
+Praha-1 District
+Praha-20 District
+Praha-21 District
+Praha-22 District
+Praha-2 District
+Praha-3 District
+Praha-4 District
+Praha-5 District
+Praha-6 District
 Praha-7 District
-Praha-8 district
-Praha-9 district
+Praha-8 District
+Praha-9 District
 Praha-vychod District
 Praha-zapad District
 Prahova County
@@ -27638,7 +27636,7 @@ Queens County
 Queensland
 Queens Region
 Queenstown
-Queenstown Lakes District
+Queenstown-Lakes District
 Queilén
 Quel
 Quelimane
@@ -29491,7 +29489,6 @@ Saint-Martin
 Saint-Martin-des-Champs
 Saint-Martin-sur-Oust
 Saint Mary
-Saint Mary's County
 Saint Mary Parish
 Saint Marys Bay
 Saint-Maugan
@@ -29586,7 +29583,7 @@ Sakaide
 Sakaiminato
 Sakakah
 Sakaki
-Sakarya Metropolitan Municipality
+Sakarya
 Sakarya Province
 Sakata
 Sakawa
@@ -29745,7 +29742,7 @@ Samphelling
 Sampson County
 Sampsoniyevskoye
 Samrang
-Samsun Metropolitan Municipality
+Samsun
 Samsun Province
 Samtredia
 Samtse
@@ -30020,7 +30017,7 @@ Sankt Veit in Defereggen
 San Lawrenz
 San Leandro
 San Leonardo
-Sanliurfa Metropolitan Municipality
+Sanliurfa
 Sanliurfa Province
 San Lorenzo
 San Lorenzo de El Escorial
@@ -32574,6 +32571,7 @@ St. Margrethen
 St. Martin Parish
 St. Martins
 St. Martinville
+St. Mary's County
 St. Mary Parish
 St. Moritz
 St. Niklaus
@@ -33631,7 +33629,6 @@ Szczucin
 Szczurowa commune
 Szczutowo commune
 Szczytna commune
-Szczytno
 Szczytno County
 Szecseny District
 Szeged
@@ -34158,7 +34155,7 @@ Teistungen
 Tejeda
 Te Kauwhata
 Tekeli
-Tekirdag Metropolitan Municipality
+Tekirdag
 Tekirdag Province
 Tekirova
 Tekkekoy
@@ -34915,7 +34912,7 @@ Tozeur Governorate
 Trabada
 Trabiju
 Traboch
-Trabzon Metropolitan Municipality
+Trabzon
 Trabzon Province
 Tracadie-Sheila
 Trachselwald
@@ -36252,6 +36249,7 @@ Valvettithurai
 Valy
 Vamberk
 Våmhus locality
+Van
 Van Buren County
 Vance
 Vance County
@@ -36266,7 +36264,6 @@ Vänersborg
 Vang
 Vani
 Vaninsky District
-Van Metropolitan Municipality
 Vännäs
 Vannes
 Vannovskoye
@@ -38394,7 +38391,6 @@ Wlen commune
 Wlochy
 Wloclawek City
 Wloclawek commune
-Wloclawek County
 Wlodawa
 Wlodawa County
 Wloszczowa County
@@ -38581,6 +38577,7 @@ Wyszkow commune
 Wyszkow County
 Wyszogrod commune
 Wythe County
+Włocławek County
 Xaghra
 Xai-Xai
 Xanthi
