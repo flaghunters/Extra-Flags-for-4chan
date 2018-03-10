@@ -2794,8 +2794,8 @@ Belgorod Region
 Belgrano
 Belianes
 Bélier Region
-Belize
 Belize City
+Belize District
 Belkis
 Belknap County
 Belkovice-Lastany
@@ -5767,6 +5767,7 @@ Cay
 Caybasi
 Caycuma
 Caydegirmeni
+Caye Caulker
 Cayeli
 Cayenne
 Cayey
@@ -5774,7 +5775,7 @@ Cayiralan
 Cayirhan
 Cayirova
 Caykara
-Cayo
+Cayo District
 Cayuga County
 Cazalilla
 Cazis
@@ -7186,6 +7187,7 @@ Coronel Suárez
 Coronel Suárez Department
 Coronie District
 Corozal
+Corozal District
 Corpa
 Corps-Nuds
 Corpus Christi
@@ -7680,6 +7682,7 @@ Danderyd
 Dane County
 Dangchhu
 Dangolsheim
+Dangriga
 Daniel's Harbour
 Daniels County
 Däniken
@@ -24617,7 +24620,8 @@ Orange
 Orangeburg County
 Orange County
 Orange Park
-Orange Walk
+Orange Walk District
+Orange Walk Town
 Oranit
 Oranjemund
 Oranjewoud
@@ -30544,6 +30548,7 @@ Sarria
 Sarrià de Ter
 Sarroca de Bellera
 Sart
+Sarteneja
 Sarthe
 Sarufutsu
 Saruhanli
@@ -32649,7 +32654,7 @@ Stankovice
 Stanley
 Stanley County
 Stanly County
-Stann Creek
+Stann Creek District
 St Annes-on-the-Sea
 Stanovice
 Stanoviste
@@ -34674,6 +34679,7 @@ Tokushima Prefecture
 Tokyo
 Tolaga Bay
 Toledo
+Toledo District
 Tolga
 Toliara
 Tolima Department
