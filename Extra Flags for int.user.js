@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.32
+// @version     0.31
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -288,7 +288,6 @@ function parseOriginalPosts() {
 /** the function to get the flags from the db uses postNrs
  *  member variable might not be very nice but it's the easiest approach here */
 function onFlagsLoad(response) {
-
     //exit on error
     if (response.status !== 200) {
         console.log("Could not fetch flags, status: " + response.status);
@@ -305,8 +304,6 @@ function onFlagsLoad(response) {
             nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
             currentFlag = nameBlock.getElementsByClassName('flag')[0],
             postedRegions = post.region.split(regionDivider);
-		var postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
-            nameBlockM = postInfoM.getElementsByClassName('nameBlock')[0];
 
         if (postedRegions.length > 0 && !(currentFlag === undefined)) {
             var path = currentFlag.title;
@@ -316,6 +313,7 @@ function onFlagsLoad(response) {
                 // this is probably quite a dirty fix, but it's fast
                 if ((radio === "all") || (radio === "first" && i === 0) || (radio === "last" && i === (postedRegions.length - 1))) {
                     var newFlag = document.createElement('a');
+                    nameBlock.appendChild(newFlag);
 
                     var lastI = i;
                     if (radio === 'last') {
@@ -339,9 +337,6 @@ function onFlagsLoad(response) {
                     newFlag.target = '_blank';
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
-
-                    nameBlock.appendChild(newFlag);
-					nameBlockM.appendChild(newFlag.cloneNode(true));
 
                     console.log("resolved " + postedRegions[i]);
                 }
