@@ -1061,7 +1061,7 @@ Andreis
 Andrespol commune
 Andrew County
 Andrews County
-Andreyevka
+Andreyevsky
 Andriivka
 Andrijevica
 Andros
@@ -2150,6 +2150,8 @@ Bala
 Balabancik
 Balaguer
 Balaklava
+Balaklava District
+Balaklavsky
 Balaklavsky District
 Balakliia city
 Balakliia district
@@ -10580,6 +10582,7 @@ Gafsa Governorate
 Gafuriysky District
 Gaga'emauga District
 Gaga'ifomauga District
+Gagarin District
 Gagarinskoe
 Gagarinsky
 Gagarinsky District
@@ -18418,6 +18421,7 @@ Lengenwang
 Lengnau
 Lenguazaque
 Lengwil
+Lenin District
 Lenine district
 Leningrad Region
 Leningradskoye
@@ -22520,6 +22524,7 @@ Nakatosa
 Nakatsu
 Nakatsugawa
 Nakayama
+Nakhimov District
 Nakhimovsky
 Nakhimovsky District
 Nakhodka
@@ -24707,7 +24712,7 @@ Orlicke Podhuri
 Orlicke Zahori
 Orlicky
 Orlik nad Vltavou
-Orlinoye
+Orlinovsky
 Orlova
 Orlovice
 Orlovsky District
@@ -34310,8 +34315,8 @@ Ternivka city
 Ternopil city
 Ternopil district
 Ternopil Region
-Ternovka
 Ternovskaya
+Ternovsky
 Ternovsky District
 Terque
 Terra Alta
@@ -36626,7 +36631,7 @@ Verkhivtseve city
 Verkhnedonskoy District
 Verkhnekhavsky District
 Verkhnemamonsky District
-Verkhnesadovoye
+Verkhnesadovsky
 Verkhnetoyemsky District
 Verkhniy Rohachyk district
 Verkhnodniprovsk city
