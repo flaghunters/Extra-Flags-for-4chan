@@ -158,6 +158,7 @@ Addington
 Addis Ababa
 Addison
 Addison County
+Addison Township
 Adeje
 Adelaide
 Adelaide Hills
@@ -3636,6 +3637,7 @@ Blonie commune
 Blons
 Bloomfield
 Bloomingdale
+Bloomingdale Township
 Bloomington
 Blora Regency
 Blotzheim
@@ -8550,6 +8552,7 @@ Dover
 Dovre
 Dowerin
 Downers Grove
+Downers Grove Township
 Downey
 Downingtown
 Doze Ribeiras
@@ -18919,6 +18922,7 @@ Lisia Gora commune
 Liski
 Liskinsky District
 Liskovice
+Lisle Township
 Lismore
 Lisna
 Lisnice
@@ -21240,6 +21244,7 @@ Milson
 Miltenberg District
 Milton
 Milton Keynes
+Milton Township
 Milutinsky District
 Milvignes
 Milwaukee
@@ -22616,6 +22621,7 @@ Naoshima
 Napa County
 Napajedla
 Naperville
+Naperville Township
 Napier
 Naples
 Napoli
@@ -38354,6 +38360,7 @@ Windsor Heights
 Windsor Locks
 Windstein
 Windwhistle
+Winfield Township
 Wing
 Wingecarribee
 Wingen
@@ -38891,6 +38898,7 @@ York County
 Yorke Peninsula
 York Region
 Yorkton
+York Township
 Yoro
 Yoron
 Yosano
