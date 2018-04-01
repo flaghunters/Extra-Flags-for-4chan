@@ -1966,6 +1966,7 @@ Azov
 Azovskoye
 Azovsky District
 Azpeitia
+Azua
 Azua de Compostela
 Azuaga
 Azuay Province
@@ -2123,6 +2124,7 @@ Bahia
 Bahía Blanca
 Bahía Blanca Department
 Bahía Solano
+Bahoruco
 Bahsili
 Baião
 Baie-D’Urfé
@@ -2346,6 +2348,7 @@ Bara
 Barabashkoye
 Barabinsk
 Baraga County
+Barahona
 Barajevo
 Barakaldo
 Baralla
@@ -7827,6 +7830,7 @@ Daillens
 Dairy Flat
 Daisen
 Daito
+Dajabón
 Dakahlia Governorate
 Dakar
 Dakar Region
@@ -8354,6 +8358,7 @@ District Heights
 District of Columbia
 Distrito Capital
 Distrito Federal
+Distrito Nacional
 Dithmarschen District
 Ditsobotla
 Dittingen
@@ -9448,6 +9453,7 @@ El Hoyo de Pinares
 Elías
 Elias Fausto
 Elias Motsoaledi
+Elías Piña
 Elin Pelin
 Elisiário
 Elista
@@ -9525,6 +9531,7 @@ Elsau
 El Sauzal
 Elsbethen
 El Segundo
+El Seibo
 Elsene
 Elsenheim
 Elsloo
@@ -9823,6 +9830,7 @@ Esmeralda County
 Esmeraldas
 Esmeraldas Province
 Esneux
+Espaillat
 Esparragalejo
 Esparreguera
 Esparza
@@ -12792,6 +12800,7 @@ Hatillo de Loba
 Hato Corozal
 Hato del Yaque
 Hatohobei
+Hato Mayor
 Hatonuevo
 Hato Nuevo
 Hatoyama
@@ -13076,6 +13085,7 @@ Herkimer County
 Herm
 Hermagor District
 Hermagor-Pressegger See
+Hermanas Mirabal
 Hermance
 Hermanice
 Hermanice u Oder
@@ -17797,6 +17807,7 @@ La Aldea de San Nicolás
 La Aldehuela
 La Almolda
 La Almunia de Doña Godina
+La Altagracia
 La Ametlla de Mar
 Läänemaa
 Lääne-Nigula Parish
@@ -20559,6 +20570,7 @@ Maria Saal
 Mariasdorf
 Mariastein
 Maria Taferl
+María Trinidad Sánchez
 Maria Wörth
 Mariazell
 Maribojoc
@@ -22056,6 +22068,7 @@ Monrupino
 Mons
 Monselice
 Monsenhor Tabosa
+Monseñor Nouel
 Monson
 Mon State
 Mönsterås
@@ -22101,6 +22114,7 @@ Montecchio Precalcino
 Monteceneri
 Montechiarugolo
 Montecreto
+Monte Cristi
 Monte di Malo
 Montefiore Conca
 Montefiorino
@@ -22125,6 +22139,7 @@ Montenars
 Montenegro
 Monteneuf
 Monte Patria
+Monte Plata
 Monterblanc
 Montereale Valcellina
 Montérégie
@@ -26040,6 +26055,7 @@ Pecsvarad District
 Peczniew commune
 Pedavena
 Pedemonte
+Pedernales
 Pederneiras
 Pederobba
 Pedraza
@@ -26181,6 +26197,7 @@ Peralta
 Perama
 Peramola
 Perarolo di Cadore
+Peravia
 Perca
 Perchtoldsdorf
 Perdue
@@ -27907,6 +27924,7 @@ Puerto Nariño
 Puerto Octay
 Puerto Peñasco
 Puerto Peñasco Municipality
+Puerto Plata
 Puerto Princesa
 Puerto Real
 Puerto Rico
@@ -30315,6 +30333,7 @@ San Cayetano
 San Cayetano Department
 San Cebrián de Campos
 San Cesario sul Panaro
+Sánchez Ramírez
 Sanchidrián
 Sanchorreja
 San Clemente
@@ -30428,6 +30447,7 @@ San José del Cabo
 San José del Fragua
 San José del Valle
 San José de Maipo
+San José de Ocoa
 San José de Palmar
 San José de Pare
 San José Department
@@ -30849,6 +30869,7 @@ Santiago de los Caballeros
 Santiago del Teide
 Santiago do Cacém
 Santiago Metropolitan Region
+Santiago Rodríguez
 Santibañez el Bajo
 Santillana del Mar
 Sant Iscle de Vallalta
@@ -36887,6 +36908,7 @@ Valtierra
 Valtorres
 Valtrovice
 Valvasone Arzene
+Valverde
 Val Verde County
 Valverde de Alcalá
 Valverde del Camino
