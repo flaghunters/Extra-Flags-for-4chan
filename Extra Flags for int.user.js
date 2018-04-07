@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.31
+// @version     0.32
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -51,7 +51,7 @@ var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flags/';
 // remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
-var backendBaseUrl = 'https://whatisthisimnotgoodwithcomputers.com/';
+var backendBaseUrl = 'https://flagtism.drunkensailor.org/';
 var postUrl = 'int/post_flag_api2.php';
 var getUrl = 'int/get_flags_api2.php';
 var shortId = 'witingwc.ef.';
