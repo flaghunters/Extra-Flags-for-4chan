@@ -11568,7 +11568,6 @@ Gombe State
 Gomdar
 Gomec
 Gomel
-Gomel Region
 Gómez Farías Municipality
 Gómez Plata
 Göming
@@ -12028,7 +12027,6 @@ Grocka
 Grodek nad Dunajcem commune
 Grödig
 Grodno
-Grodno Region
 Grodzisk Mazowiecki commune
 Grodzisk Mazowiecki County
 Grodzisk Wielkopolski County
@@ -13598,6 +13596,7 @@ Hombrechtikon
 Homburg
 Homer
 Homestead
+Homiel Region
 Homole
 Homole u Panny
 Honau
@@ -13896,6 +13895,7 @@ Hrobce
 Hrobcice
 Hrobice
 Hrochuv Tynec
+Hrodna Region
 Hronov
 Hrotovice
 Hroubovice
@@ -20195,6 +20195,7 @@ Mahdalynivka District
 Mahdia
 Mahdia Governorate
 Mahikeng
+Mahiloŭ Region
 Mahina
 Mahmudiye
 Mahmutlar
@@ -21972,7 +21973,6 @@ Mogi Guaçu
 Mogila
 Mogilany commune
 Mogilev
-Mogilev Region
 Mogilno commune
 Mogilno County
 Mogi Mirim
@@ -37546,6 +37546,7 @@ Vich
 Vichada Department
 Vichova nad Jizerou
 Vichuquén
+Viciebsk Region
 Vico Morcote
 Viçosa
 Viçosa do Ceará
@@ -37952,7 +37953,6 @@ Vitanje
 Vitanov
 Vitcice
 Vitebsk
-Vitebsk Region
 Vitejeves
 Vitejovice
 Viterbo
