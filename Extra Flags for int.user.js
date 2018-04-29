@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.32
+// @version     0.33
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -85,7 +85,7 @@ var setup = {
             var path = flegsBaseUrl + "/" + regions[0];
             for (var i = 1; i < regions.length; i++) {
                 path += "/" + regions[i];
-                selectMenuFlags += "<img src='" + path + ".png'" +  " title='" + regions[i] + "'> ";
+                selectMenuFlags += "<img src=\"" + path + ".png\"" + " title=\"" + regions[i] + "\"> ";
             }
             selectMenuFlags += "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
