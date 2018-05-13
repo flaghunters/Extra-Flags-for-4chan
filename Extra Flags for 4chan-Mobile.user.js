@@ -18,8 +18,8 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
-// @downloadURL https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%20int.user.js
+// @updateURL   https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
+// @downloadURL https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
 // ==/UserScript==
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
