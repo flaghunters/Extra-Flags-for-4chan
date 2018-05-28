@@ -1,8 +1,14 @@
+.DS_Store
 Bonavista
+Centreville-Wareham-Trinity
 Clarenville
 Dover
+Eastport
 Gambo
 Glovertown
+Hare Bay
+New-Wes-Valley
+Sandringham
 Subdivision A
 Subdivision B
 Subdivision D
@@ -15,4 +21,6 @@ Subdivision K
 Subdivision L
 Subdivision M
 Subdivision N
+Traytown
 Trinity
+Trinity Bay North

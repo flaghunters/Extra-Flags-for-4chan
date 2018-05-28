@@ -1,6 +1,10 @@
+.DS_Store
 Burin
 Fortune
+Garnish
+Grand Bank
 Marystown
+St. Lawrence
 Subdivision C
 Subdivision D
 Subdivision E
@@ -11,3 +15,4 @@ Subdivision I
 Subdivision J
 Subdivision K
 Subdivision L
+Winterland
