@@ -1,3 +1,4 @@
+.DS_Store
 Aquaforte
 Arnold's Cove
 Avondale
@@ -10,15 +11,30 @@ Carbonear
 Clarke's Beach
 Come by Chance
 Conception Bay South
+Fermeuse
+Ferryland
 Flatrock
+Hant's Harbour
 Harbour Grace
+Harbour Main-Chapel's Cove-Lakeview
+Heart's Content
+Heart's Delight-Islington
+Holyrood
 Logy Bay-Middle Cove-Outer Cove
+Long Harbour-Mount Arlington Heights
 Mount_Pearl
+New Perlican
+Norman's Cove-Long Cove
 Old Perlican
 Paradise
 Petty Harbour-Maddox Cove
+Placentia
 Portugal Cove-St. Philip's
 Pouch Cove
+Renews-Cappahayden
+Small Point-Adam's Cove-Blackhead-Broad Cove
+Southern Harbour
+South River
 Spaniard's Bay
 St. John's
 Subdivision A
@@ -43,6 +59,11 @@ Subdivision W
 Subdivision X
 Subdivision Y
 Torbay
+Trepassey
+Upper Island Cove
 Victoria
 Wabana
+Whitbourne
+Whiteway
+Winterton
 Witless Bay

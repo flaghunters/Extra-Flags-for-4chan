@@ -2106,6 +2106,7 @@ Badersdorf
 Bad Fischau-Brunn
 Bad Frankenhausen-Kyffhäuser
 Bad Gastein
+Badger
 Bad Gleichenberg
 Bad Grönenbach
 Bad Grosspertholz
@@ -4226,6 +4227,7 @@ Bottmingen
 Bottrop
 Böttstein
 Botucatu
+Botwood
 Bouarada
 Bouches-du-Rhône
 Bouctouche
@@ -6268,6 +6270,7 @@ Centre Department
 Centre-du-Québec
 Centre-Val de Loire
 Centreville
+Centreville-Wareham-Trinity
 Centro Sur Province
 Cep
 Cepagatti
@@ -7634,6 +7637,7 @@ Corinto
 Corippo
 Cork
 Corlu
+Cormack
 Corman Park
 Corminboeuf
 Cormons
@@ -7865,6 +7869,7 @@ Creixell
 Creixomil
 Crenshaw County
 Črenšovci
+Crescent City
 Crespadoro
 Crespano del Grappa
 Crespino
@@ -8325,6 +8330,7 @@ Deep River
 Deerfield
 Deer Forks
 Deering
+Deer Lake
 Deerlijk
 Deer Lodge County
 Deersum
@@ -9448,6 +9454,7 @@ East New Britain Province
 East Northamptonshire
 Easton
 East Pilbara
+Eastport
 East Providence
 East Renfrewshire
 East Riding of Yorkshire
@@ -10501,6 +10508,7 @@ Fergus County
 Ferizli
 Ferlach
 Fermentões
+Fermeuse
 Fermignano
 Fermo
 Ferna
@@ -10529,6 +10537,7 @@ Ferriere
 Ferrières
 Ferrol
 Ferry County
+Ferryland
 Ferrysburg
 Ferschnitz
 Fertile Belt
@@ -11369,6 +11378,7 @@ Garmisch-Partenkirchen District
 Garnech
 Garnett
 Garniga Terme
+Garnish
 Garpenberg locality
 Garraf
 Garrard County
@@ -11419,6 +11429,7 @@ Gatteo
 Gaubitsch
 Gaudenzdorf
 Gaular
+Gaultois
 Gaure
 Gausdal
 Gauteng
@@ -11655,6 +11666,7 @@ Gilgandra
 Gilgit
 Gilgit-Baltistan
 Gill
+Gillams
 Gillersdorf
 Gillespie County
 Gillette
@@ -12159,6 +12171,7 @@ Grancia
 Grancy
 Grand Anse Department
 Grand Bahama
+Grand Bank
 Grand Bassa County
 Grand Bay-Westfield
 Grand Canyon Village
@@ -13056,6 +13069,7 @@ Hansk commune
 Hanson
 Hanson County
 Hanstein-Rusteberg
+Hant's Harbour
 Hantam
 Hantum
 Hantumhuizen
@@ -13080,7 +13094,9 @@ Harare
 Harari Region
 Harbin
 Harborcreek Township
+Harbour Breton
 Harbour Grace
+Harbour Main-Chapel's Cove-Lakeview
 Harburg District
 Hard
 Hardap Region
@@ -13096,6 +13112,7 @@ Hardinxveld-Giessendam
 Hardisty
 Hardwick
 Hardy County
+Hare Bay
 Harelbeke
 Haren
 Harford County
@@ -13308,6 +13325,8 @@ Hazor HaGelilit
 Healdsburg
 Heard County
 Hearst
+Heart's Content
+Heart's Delight-Islington
 Heart's Hill
 Heath
 Hebei
@@ -13948,6 +13967,7 @@ Holubice
 Holubov
 Holwerd
 Holyoke
+Holyrood
 Holysov
 Holzgau
 Holzgünz
@@ -14372,6 +14392,7 @@ Hultsfred locality
 Humacao
 Humaitá
 Humanes de Madrid
+Humber Arm South
 Humboldt
 Humboldt County
 Humburky
@@ -18377,6 +18398,7 @@ Ladogskoye
 La Dominelais
 La Dorada
 Ladushkin
+Ladysmith
 Ladyzhyn
 Laekvere Parish
 Lærdal
@@ -18787,6 +18809,7 @@ La Rioja
 La Rioja Province
 La Rippe
 Larissa
+Lark Harbour
 Larmor-Baden
 Larmor-Plage
 Larnaka
@@ -19972,6 +19995,7 @@ Long Beach
 Longburn
 Long County
 Longerhouw
+Long Harbour-Mount Arlington Heights
 Longiano
 Longirod
 Long Island
@@ -21317,6 +21341,7 @@ Massandra
 Massanzago
 Masserberg
 Massey
+Massey Drive
 Massignano
 Massimeno
 Massongex
@@ -21504,6 +21529,7 @@ McDuffie County
 Mcely
 McHenry County
 McIntosh County
+McIvers
 McKean County
 McKean Township
 McKenzie County
@@ -21525,6 +21551,7 @@ Mdina
 Meade County
 Meadowbank
 Meadow Lake
+Meadows
 Meadville
 Meagher County
 Mealhada
@@ -24097,6 +24124,7 @@ New Maryland
 New Mexico
 New Milford
 New Orleans
+New Perlican
 New Plymouth
 New Plymouth District
 Newport
@@ -24112,6 +24140,7 @@ Newton County
 Newtown
 New Valley Governorate
 New Westminster
+New-Wes-Valley
 New Windsor
 New York
 New York City
@@ -24483,6 +24512,7 @@ Norfolk
 Norfolk County
 Norilsk
 Norman
+Norman's Cove-Long Cove
 Norman County
 Normandia
 Normandie
@@ -24493,6 +24523,7 @@ Norrala District
 Norrbärke District
 Norrbotten County
 Norridge
+Norris Arm
 Norris Point
 Norrköping
 Norrtälje
@@ -27024,6 +27055,7 @@ Petersfield
 Petershagen
 Petersham
 Petervasara District
+Peterview
 Petitcodiac
 Petit-Landau
 Petit-Rocher
@@ -27393,6 +27425,7 @@ Pizzoferrato
 Pizzoli
 Pizzone
 Plabennec
+Placentia
 Placer County
 Plácido de Castro
 Placilla
@@ -29150,6 +29183,7 @@ Ramallo Department
 Ramat Gan
 Ramat HaSharon
 Ramat Yishai
+Ramea
 Rameh
 Ramenki District
 Ramenskoye
@@ -29441,6 +29475,7 @@ Reichstett
 Reiden
 Réiden
 Réiden Canton
+Reidville
 Reigate and Banstead
 Reigoldswil
 Reihoku
@@ -29506,6 +29541,7 @@ Rendeux
 Rendsburg-Eckernförde District
 Renedo de la Vega
 Renens
+Renews-Cappahayden
 Renfrew County
 Renfrewshire
 Rengo
@@ -33500,6 +33536,7 @@ Slusovice
 Sluzovice
 Smalavičy
 Smallingerland
+Small Point-Adam's Cove-Blackhead-Broad Cove
 Smarhoń
 Šmarje pri Jelšah
 Šmarješke Toplice
@@ -33905,6 +33942,7 @@ Southern District
 Southern Downs
 Southern Governorate
 Southern Grampians
+Southern Harbour
 Southern Highlands and Tablelands
 Southern Highlands Province
 Southern Leyte
@@ -33940,6 +33978,7 @@ Southport
 South Pyongan Province
 South Qu'Appelle
 South Ribble
+South River
 South Sinai Governorate
 South Slave Region
 South Somerset
@@ -34105,6 +34144,7 @@ Sroda Wielkopolska County
 Srpska Crnja
 Srpski Krstur
 Srubec
+St. Alban's
 St. Albert
 St. Andrews
 St. Antoni
@@ -34122,6 +34162,7 @@ St. George
 St. George's
 St. George's Parish
 St. Helena Parish
+St. Jacques-Coomb's Cove
 St. James Parish
 St. John's
 St. Johns
@@ -34129,6 +34170,7 @@ St. Johns County
 St. John the Baptist Parish
 St. Joseph County
 St. Landry Parish
+St. Lawrence
 St. Lawrence County
 St. Lewis
 St. Louis
@@ -34345,6 +34387,7 @@ Stavropol Territory
 Stavyshche District
 St Bernhard
 Ste. Genevieve County
+Steady Brook
 Stearns County
 Stebno
 Stebnyk
@@ -36622,6 +36665,7 @@ Travis County
 Travo
 Trawniki commune
 Trayning
+Traytown
 Trazo
 Trbousany
 Trbovlje
@@ -36706,6 +36750,7 @@ Trento
 Trenton
 Treogat
 Treouergat
+Trepassey
 Treppo Grande
 Treppo Ligosullo
 Treptow-Köpenick
@@ -36775,6 +36820,7 @@ Trinec
 Trinidad
 Trinidad Sánchez Nagua
 Trinity
+Trinity Bay North
 Trinity County
 Trins
 Tripoli
@@ -37522,6 +37568,7 @@ Upper Gascoyne
 Upper Harbour Local Board
 Upper Hunter
 Upper Hutt
+Upper Island Cove
 Upper Lachlan
 Upper Marlboro
 Upper Merion Township
@@ -39913,6 +39960,7 @@ Whenuapai
 Whiritoa
 Whiska Creek
 Whistler Resort
+Whitbourne
 Whitby
 Whitchurch-Stouffville
 Whitecliffs
@@ -39923,6 +39971,7 @@ White Pine County
 White Rock
 Whiteside County
 White Valley
+Whiteway
 Whitfield County
 Whitianga
 Whitley County
@@ -40115,6 +40164,7 @@ Winslow
 Winston County
 Winston-Salem
 Winsum
+Winterland
 Winter Park
 Winterrieden
 Wintersdorf
@@ -40122,6 +40172,7 @@ Wintershouse
 Wintersingen
 Winterswijk
 Winterthur
+Winterton
 Winthrop
 Winton
 Wintzenbach
@@ -40632,6 +40683,7 @@ Yorii
 York
 York County
 Yorke Peninsula
+York Harbour
 York Region
 Yorkton
 York Township
