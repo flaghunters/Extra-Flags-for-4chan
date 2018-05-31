@@ -1943,6 +1943,7 @@ Avers
 Avery County
 Averøy
 Avesta
+Avetrana
 Aveyron
 Avezzano
 Avià
@@ -5833,6 +5834,7 @@ Carolina
 Caroline County
 Caroll County
 Caron
+Carosino
 Carouge
 Carovilli
 Carpaneto Piacentino
@@ -5987,6 +5989,7 @@ Castel Ivano
 Castell'Arquato
 Castellafiume
 Castellalto
+Castellaneta
 Castellar
 Castellarano
 Castellar de la Frontera
@@ -7896,6 +7899,7 @@ Crimla
 Crisfield
 Crisnée
 Crisp County
+Crispiano
 Crissier
 Cristais Paulista
 Cristalina
@@ -10340,6 +10344,7 @@ Fagagna
 Fagerhult locality
 Fagersta
 Faggen
+Faggiano
 Fagnano Alto
 Fahner Höhe
 Fahrwengen
@@ -10913,6 +10918,7 @@ Foza
 Foz do Iguaçu
 Fraena
 Fraga
+Fragagnano
 Frailes
 Fraine
 Frameries
@@ -11702,6 +11708,7 @@ Gingins
 Ging̱olx
 Gingoong
 Ginkunai
+Ginosa
 Ginowan
 Ginoza
 Gioia dei Marsi
@@ -12455,6 +12462,7 @@ Grossweikersdorf
 Grosswilfersdorf
 Grosuplje
 Groton
+Grottaglie
 Grottammare
 Grottazzolina
 Groussbus
@@ -18912,6 +18920,7 @@ Latah County
 La Tebaida
 La Tène
 Laterns
+Laterza
 Latimer County
 Latisana
 Latjoor
@@ -19300,6 +19309,7 @@ Le Plateau-Mont-Royal
 Lepoglava 
 Le Pontet
 Le Ponthou
+Leporano
 Leposavic
 Lerchenberg
 Le Relecq-Kerhuon
@@ -19811,6 +19821,7 @@ Livre-sur-Changeon
 Liw commune
 Lizartza
 Lizio
+Lizzano
 Lizzano in Belvedere
 Ljig
 Ljubešćica
@@ -20936,6 +20947,7 @@ Mandera County
 Mandeville
 Mandurah
 Manduri
+Manduria
 Manevychi District
 Mangakino
 Mangaluru
@@ -21262,6 +21274,7 @@ Martigny-Combe
 Martigues
 Martijanec
 Martin
+Martina Franca
 Martinborough
 Martin County
 Martinez
@@ -21288,6 +21301,7 @@ Marttila
 Martvili
 Martynovsky District
 Marugame
+Maruggio
 Marulanda
 Maruleng
 Marum
@@ -21350,6 +21364,7 @@ Massac County
 Massachusetts
 Massa d'Albe
 Massa Fermana
+Massafra
 Massagno
 Massa Lombarda
 Massa Martana
@@ -22756,6 +22771,7 @@ Monte Grimano Terme
 Montegrotto Terme
 Montehermoso
 Monte Hermoso Department
+Monteiasi
 Monteiro Lobato
 Monteiropolis
 Montejícar
@@ -22771,6 +22787,7 @@ Montelparo
 Montelupone
 Montemarciano
 Montemayor
+Montemesola
 Montemitro
 Montemonaco
 Monte Mor
@@ -22783,6 +22800,7 @@ Montenerodomo
 Montenero Val Cocchiara
 Monteneuf
 Monteodorisio
+Monteparano
 Monte Patria
 Monte Plata
 Monte Plata Province
@@ -23133,6 +23151,7 @@ Motoyama
 Motreff
 Motril
 Motta di Livenza
+Mottola
 Motuca
 Motueka
 Mötz
@@ -26359,6 +26378,8 @@ Palacios de Goda
 Palafolls
 Palafrugell
 Palagano
+Palagianello
+Palagiano
 Palaio Faliro
 Palamuse Parish
 Palana
@@ -28774,6 +28795,7 @@ Pulkau
 Pulkovsky meridian
 Pully
 Pulpí
+Pulsano
 Pultusk commune
 Pultusk County
 Pulversheim
@@ -29983,6 +30005,7 @@ Rocca di Botte
 Rocca di Cambio
 Rocca di Mezzo
 Roccafluvione
+Roccaforzata
 Roccamandolfi
 Roccamontepiano
 Roccamorice
@@ -31296,6 +31319,7 @@ San Giorgio delle Pertiche
 San Giorgio di Nogaro
 San Giorgio di Piano
 San Giorgio in Bosco
+San Giorgio Ionico
 San Giorgio Piacentino
 San Giovanni al Natisone
 San Giovanni Ilarione
@@ -31516,6 +31540,7 @@ San Martino in Rio
 San Martino sulla Marrucina
 San Martín Province
 San Martín Region
+San Marzano di San Giuseppe
 San Massimo
 San Mateo
 San Mateo County
@@ -32157,6 +32182,7 @@ Sautens
 Sauvo
 Sauzon
 Sav
+Sava
 Savallà del Comtat
 Savanes District
 Savannah
@@ -34392,6 +34418,7 @@ Staszow County
 State College
 Statenice
 Staten Island
+Statte
 Stattegg
 Stattmatten
 Statzendorf
@@ -35602,6 +35629,7 @@ Tarakli
 Tarama
 Taranaki Region
 Taranta Peligna
+Taranto
 Tarapacá Region
 Tarapoto
 Tararua District
@@ -36538,6 +36566,7 @@ Torres Novas
 Torres Strait Island
 Torres Vedras
 Torrevecchia Teatina
+Torricella
 Torricella Peligna
 Torricella Sicura
 Torricella-Taverne
