@@ -996,6 +996,7 @@ Amelia
 Amelia County
 Amélia Rodrigues
 Americana
+American Canyon
 Américo Brasiliense
 Américo de Campos
 Amersfoort
@@ -3040,6 +3041,7 @@ Benguet
 Benhar
 Ben Hill County
 Benice
+Benicia
 Beni Department
 Beniel
 Béni Mellal
@@ -5309,6 +5311,7 @@ Calhoun County
 Cali
 Calicasas
 California
+Calistoga
 Callahan County
 Callao
 Callao Province
@@ -23663,6 +23666,7 @@ Nantou County
 Nantucket
 Nanyo
 Naoshima
+Napa
 Napa County
 Napajedla
 Naperville
@@ -29873,6 +29877,7 @@ Riotuerto
 Río Turbio
 Rio Verde
 Río Viejo
+Rio Vista
 Ripa
 Ripabottoni
 Ripalimosani
@@ -34177,6 +34182,7 @@ St. Gallen
 St. George
 St. George's
 St. George's Parish
+St. Helena
 St. Helena Parish
 St. Jacques-Coomb's Cove
 St. James Parish
@@ -34873,6 +34879,7 @@ Suhr
 Suhut
 Suipacha
 Suipacha Department
+Suisun City
 Suita
 Sukabumi
 Sukabumi Regency
@@ -37808,6 +37815,7 @@ Vaals
 Väätsa Parish
 Vabalninkas
 Vacallo
+Vacaville
 Vac District
 Vacenovice
 Vaclavice
@@ -40721,6 +40729,7 @@ Yotoco
 Yotsukaido
 Young County
 Youngsville
+Yountville
 Youssoufia Province
 Yozgat
 Yozgat Province
