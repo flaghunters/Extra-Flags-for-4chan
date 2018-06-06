@@ -18,7 +18,7 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js           
+// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
 // @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
@@ -48,7 +48,7 @@ var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
-var flegsBaseUrl = 'https://gitlab.com/api/v4/projects/6845130/repository/files/flags';
+var flegsBaseUrl = 'https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/flags/';
 // remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://flagtism.drunkensailor.org/';
@@ -82,11 +82,10 @@ var setup = {
 
         if (regions.length > 1) {
             var selectMenuFlags = "Regional flags selected: ";
-            // note: currently not converting everything to work in a URL!!! must use a method to fix this
-            var path = "/" + regions[0];
+            var path = flegsBaseUrl + "/" + regions[0];
             for (var i = 1; i < regions.length; i++) {
                 path += "/" + regions[i];
-                selectMenuFlags += "<img src=\"" + flegsBaseUrl + encodeURIComponent(path) + ".png?ref=master\"" + " title=\"" + regions[i] + "\"> ";
+                selectMenuFlags += "<img src=\"" + path + ".png\"" + " title=\"" + regions[i] + "\"> ";
             }
             selectMenuFlags += "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
@@ -495,3 +494,4 @@ if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
 setup.init();
 parseOriginalPosts();
 resolveRefFlags();
+

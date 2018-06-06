@@ -2,7 +2,7 @@
 // name and namespace cannot be changed - it would break the update mechanism, that's why we will leave the name at Extra Flags for int
 // @name        Extra Flags for int
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
-// @description Extra Flags for int v2 "City flags were a mistake" edition
+// @description Extra Flags for 4chan v2 "City flags were a mistake" edition
 // @include     http*://boards.4chan.org/int/*
 // @include     http*://boards.4chan.org/sp/*
 // @include     http*://boards.4chan.org/pol/*
@@ -18,8 +18,8 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
-// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
+// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
+// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
 // ==/UserScript==
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
@@ -48,7 +48,7 @@ var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
-var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-int-/master/flags/';
+var flegsBaseUrl = 'https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/flags/';
 // remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
 var backendBaseUrl = 'https://flagtism.drunkensailor.org/';
