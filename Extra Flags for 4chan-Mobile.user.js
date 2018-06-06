@@ -11,15 +11,15 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.33
+// @version     0.34
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
-// @downloadURL https://github.com/flaghunters/Extra-Flags-for-int-/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
+// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
+// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
@@ -72,8 +72,8 @@ var setup = {
         var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
             'For example; United States, California, Los Angeles<br/></label>' +
             '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
-            '<a href="https://github.com/flaghunters/Extra-Flags-for-4chan/issues" style="color:blue">' +
-            'https://github.com/flaghunters/Extra-Flags-for-4chan/issues</a></label>';
+            '<a href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues" style="color:blue">' +
+            'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues</a></label>';
         var filterRadio = '<br/><br/><form id="filterRadio">' +
             '<input type="radio" name="filterRadio" id="filterRadioall" style="display: inline !important;" value="all"><label>Show country + ALL regions.</label>' +
             '<br/><input type="radio" name="filterRadio" id="filterRadiofirst" style="display: inline !important;" value="first"><label>Only show country + FIRST region.</label>' +
