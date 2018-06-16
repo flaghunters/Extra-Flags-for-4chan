@@ -1,3 +1,4 @@
 Extra Flags for 4chan.
 ==========
-We are moving our front page to GitLab pages. Hang tight!
+Instructions are at the link below, (until one of us figures out Jekyll):
+https://flaghunters.github.io/Extra-Flags-for-4chan/
