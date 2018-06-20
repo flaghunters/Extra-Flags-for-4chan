@@ -5,6 +5,7 @@
 's-Heer Arendskerke
 's-Heerenhoek
 's-Heer Hendrikskinderen
+'t Zandt
 100 Mile House District
 A'ana District
 Aachen
@@ -205,9 +206,11 @@ Admiralteysky District
 Adnet
 Adolfo
 Adolfo Gonzales Chaves Department
+Adorp
 Adra
 Adria
 Adrspach
+Aduard
 Aduna
 Adur
 Adutiškis
@@ -2159,6 +2162,7 @@ Bad Kreuznach District
 Bad Laasphe
 Bad Mitterndorf
 Bad Münstereifel
+Bad Nieuweschans
 Bad Oeynhausen
 Bad Pirawarth
 Badra
@@ -2185,6 +2189,7 @@ Baerendorf
 Bærum
 Baeza
 Bafa
+Baflo
 Bafra
 Bagaces
 Bagadó
@@ -2866,6 +2871,7 @@ Beers
 Beerse
 Beersel
 Beersheba
+Beerta
 Beesel
 Beetebuerg
 Beets
@@ -2987,7 +2993,7 @@ Bell Gardens
 Bellikon
 Bellingen
 Bellingham
-Bellingwedde
+Bellingwolde
 Bellinzona
 Bellmunt d'Urgell
 Bello
@@ -3517,6 +3523,7 @@ Bienville Parish
 Bierazino
 Bierbeek
 Bière
+Bierum
 Bierutow commune
 Biervliet
 Bierzwnik commune
@@ -3939,6 +3946,7 @@ Boekel
 Boelenslaan
 Boeny Region
 Boer
+Boerakker
 Boermereng
 Boersch
 Boesenbiesen
@@ -8652,6 +8660,7 @@ Dewathang
 Dewey County
 De Wijk
 De Wilgen
+De Wilp
 DeWitt County
 De Wolden
 Dhaka
@@ -9713,6 +9722,7 @@ Eemnes
 Eemsmond
 Een
 Eenhana
+Eenrum
 Eernewoude
 Eersel
 Eeschweller
@@ -10463,6 +10473,7 @@ Eywiller
 Eyyubiye
 Ežerelis
 Ezine
+Ezinge
 Ezinqoleni
 Ezzahra
 Fa'asaleleaga District
@@ -10572,6 +10583,7 @@ Farindola
 Farini
 Farkaševac
 Farmington
+Farmsum
 Farmville
 Far North District
 Far North Queensland
@@ -10778,6 +10790,7 @@ Finney County
 Finnmark
 Finspång
 Finsterbergen
+Finsterwolde
 Finström
 Fiorano Modenese
 Fiorentino
@@ -12541,6 +12554,7 @@ Grigiškes
 Grigno
 Grigorevskoye
 Grijota
+Grijpskerk
 Grijpskerke
 Grimacco
 Grimbergen
@@ -13611,6 +13625,7 @@ Hellenthal
 Hellevoetsluis
 Hellikon
 Hellingen
+Hellum
 Helmand Province
 Helme Parish
 Helmond
@@ -14201,8 +14216,10 @@ Hood River County
 Hoofdplaat
 Hoogelande
 Hoogeveen
+Hoogezand
 Hoogezand-Sappemeer
 Hoogkarspel
+Hoogkerk
 Hooglede
 Hoogstraten
 Hoogwoud
@@ -15811,6 +15828,7 @@ Joniškelis
 Joniškis
 Joniškis District Municipality
 Jonkersland
+Jonkersvaart
 Jönköping
 Jönköping County
 Jönköping locality
@@ -16291,6 +16309,7 @@ Kansk
 Kanta-Häme
 Kantemirovka
 Kantemirovsky District
+Kantens
 Kanuma
 Kanzaki
 Kaohsiung City
@@ -16934,6 +16953,7 @@ Kielce
 Kielce County
 Kielczyglow commune
 Kielen
+Kiel-Windeweer
 Kienberg
 Kienheim
 Kié-Ntem Province
@@ -17285,6 +17305,7 @@ Klokoci
 Klokocov
 Klokot
 Klonowa commune
+Kloosterburen
 Klopina
 Klopotovice
 Kloštar Ivanić
@@ -19338,6 +19359,7 @@ Leeds
 Leeds and Grenville United Counties
 Leek
 Leelanau County
+Leens
 Leepchanskoye
 Leerdam
 Leer District
@@ -20495,6 +20517,7 @@ Lubycza Krolewska commune
 Lucainena de las Torres
 Lucani
 Lucas County
+Lucaswolde
 Luče
 Luce County
 Lucélia
@@ -21888,6 +21911,7 @@ Medvezhe-Ozyerskoye
 Medvode
 Medvyodovskoye
 Medway
+Meeden
 Meekatharra
 Meeker County
 Meeksi Parish
@@ -22258,6 +22282,7 @@ Mid-Coast
 Middelburg
 Middelie
 Middelkerke
+Middelstum
 Midden-Delfland
 Midden-Drenthe
 Mid Devon
@@ -22287,6 +22312,7 @@ Midway
 Midway Islands
 Mid West
 Mid-Western
+Midwolda
 Midwoud
 Midyat
 Miechow
@@ -23596,6 +23622,7 @@ Muñomer del Peco
 Munster
 Münster
 Muntelier
+Muntendam
 Muntzenheim
 Munwiller
 Munxar
@@ -24514,6 +24541,7 @@ Nidau
 Nidderaanwen
 Nidderkaerjeng
 Nidzica County
+Niebert
 Nieborow commune
 Niechlow commune
 Niederbayern
@@ -24573,9 +24601,11 @@ Nieuwekerk
 Nieuwekerken
 Nieuwe Niedorp
 Nieuw- en Sint Joosland
+Nieuwe Pekela
 Nieuwerkerke
 Nieuweschoot
 Nieuwkoop
+Nieuwolda
 Nieuwpoort
 Nieuwvliet
 Nièvre
@@ -24784,6 +24814,8 @@ Nõo Parish
 Noordbergum
 Noord-Beveland
 Noord-Brabant
+Noordbroek
+Noorddijk
 Noordenveld
 Noordgouwe
 Noord-Holland
@@ -25292,6 +25324,7 @@ Nuevo Colón
 Nuevo León
 Nufenen
 Nuglar-St. Pantaleon
+Nuis
 Nuku Hiva
 Numana
 Numancia de la Sagra
@@ -25766,6 +25799,7 @@ Oldambt
 Oldeberkoop
 Oldeboorn
 Oldebroek
+Oldekerk
 Oldenburg
 Oldenburg District
 Oldenzaal
@@ -25948,6 +25982,7 @@ Onoway
 Onsernone
 Onslow County
 Onsov
+Onstwedde
 Ontario
 Ontario County
 Ontonagon County
@@ -26474,6 +26509,7 @@ Oudenaarde
 Oudenburg
 Oudendijk
 Oude Niedorp
+Oude Pekela
 Ouder-Amstel
 Oudewater
 Oud-Heverlee
@@ -32392,6 +32428,7 @@ Sapanca
 Saplava
 Sa Pobla
 Sappada
+Sappemeer
 Sapporo
 Sapucaia do Sul
 Sapuyes
@@ -32635,6 +32672,7 @@ Schattwald
 Schaumburg
 Schaumburg District
 Schaumburgergrund
+Scheemda
 Scheffau am Tennengebirge
 Scheffau am Wilden Kaiser
 Scheffleng
@@ -34861,6 +34899,7 @@ Stechovice
 Steckborn
 Stede Broec
 Stedra
+Stedum
 Steeg
 Steele County
 Steenbergen
@@ -36411,6 +36450,7 @@ Termen
 Termeno sulla Strada del Vino
 Térmens
 Termoli
+Termunten
 Ternat
 Terneuzen
 Terneysky District
@@ -37871,6 +37911,8 @@ Uinta Valley Reservation
 Uiramutã
 Uitgeest
 Uithoorn
+Uithuizen
+Uithuizermeeden
 Uitikon Waldegg
 Ujae Atoll
 Ujazd commune
@@ -37924,6 +37966,7 @@ Ulm
 Ulmiz
 Ulricehamn
 Ulrichskirchen-Schleinbach
+Ulrum
 Ulsan
 Ulstein
 Ulster
@@ -38174,6 +38217,7 @@ Usolye
 Usov
 Uspenskoye
 Uspensky District
+Usquert
 Ussita
 Ussurysk
 Ust-Abakansky District
@@ -40097,6 +40141,7 @@ Waregem
 Wareham
 Waremme
 Warendorf District
+Warffum
 Warfstermolen
 Warga
 Warka commune
@@ -40210,6 +40255,7 @@ Webster
 Webster County
 Webster Parish
 Weckolsheim
+Wedde
 Wedderburn
 Weddin
 Weer
@@ -40381,6 +40427,7 @@ Westerveld
 Westervoort
 Westerwaldkreis
 Westerwald-Obereichsfeld
+Westerwolde
 West Feliciana Parish
 Westfield
 Westford
@@ -40617,6 +40664,7 @@ Wildenspring
 Wildenstein
 Wildermieming
 Wildersbach
+Wildervank
 Wildetaube
 Wildhaus-Alt St. Johann
 Wildpoldsried
@@ -40708,6 +40756,7 @@ Winneshiek County
 Winnipeg
 Winn Parish
 Winona County
+Winschoten
 Winsko commune
 Winslow
 Winston County
@@ -41744,6 +41793,7 @@ Zetaquirá
 Zetzwil
 Zeulenroda-Triebes
 Zevenaar
+Zevenhuizen
 Zevio
 Zevulun
 Zeya
@@ -41964,6 +42014,7 @@ Zuglio
 Zuglo District
 Zuhres
 Zuia
+Zuidbroek
 Zuiddorpe
 Zuid-Holland
 Zuidhorn
