@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.34
+// @version     0.36
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
