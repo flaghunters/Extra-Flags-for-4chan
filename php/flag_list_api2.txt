@@ -49,6 +49,7 @@ Abaqulusi
 Abaré
 Abasha
 Abashiri
+Abasolo
 Abay
 Abaza
 Abazinsky District
@@ -155,6 +156,7 @@ Acre
 Acrelândia
 Acreúna
 Acton
+Acuña
 Acushnet
 Ada
 Adachi
@@ -1656,6 +1658,7 @@ Arsita
 Arsuz
 Artà
 Arta Terme
+Arteaga
 Artegna
 Artem
 Artemisa Province
@@ -6084,6 +6087,7 @@ Castañeda
 Castanhal
 Castanheira de Pera
 Castaño del Robledo
+Castaños
 Castañuela
 Castegnero
 Castejón
@@ -8127,6 +8131,7 @@ Cuando Cubango Province
 Cuarnens
 Cuarny
 Cuaspud-Carlosama
+Cuatrociénegas
 Cuauhtémoc
 Cuautitlán de García Barragán
 Cuautla
@@ -10340,6 +10345,7 @@ Esch-Sauer
 Esch-Uelzecht
 Esch-Uelzecht Canton
 Eschwiller
+Escobedo
 Escondido
 Escorca
 Escuinapa
@@ -11132,6 +11138,7 @@ Francestown
 Franches-Montagnes District
 Francis
 Francisco Beltrão
+Francisco I. Madero
 Francisco Morato
 Francisco Morazán Department
 Francistown
@@ -11260,6 +11267,7 @@ Fröndenberg
 Fronteira
 Frontenac
 Frontenac County
+Frontera
 Fronteras
 Frontier
 Frontier County
@@ -11753,6 +11761,7 @@ Genappe
 Génave
 Gence
 General Belgrano Department
+General Cepeda
 General Lagos
 General Pico
 General Pinedo
@@ -18883,6 +18892,7 @@ Lalleu
 La Louvière
 La Macarena
 Lama dei Peligni
+Lamadrid
 La Magdalena Contreras
 Lama Mocogno
 La Manzanilla de la Paz
@@ -22988,6 +22998,7 @@ Mönchhof
 Monchio delle Corti
 Monchique
 Monción
+Monclova
 Monções
 Moncton
 Mondaino
@@ -23828,6 +23839,7 @@ Muysky District
 Muzaffarabad
 Muzillac
 Muzo
+Múzquiz
 Muzzana del Turgnano
 Muzzano
 Mwoakilloa
@@ -23893,6 +23905,7 @@ Nackawic
 Naco
 Nacogdoches County
 Nacozari de García
+Nadadores
 Nadarzyn commune
 Nadejov
 Nadezhdinsky District
@@ -27071,6 +27084,7 @@ Parque Patricios
 Parral
 Parramatta
 Parrano
+Parras
 Parrega
 Parres
 Parrita
@@ -27720,6 +27734,7 @@ Piedade
 Piedra Blanca
 Piedrahíta
 Piedralaves
+Piedras Negras
 Piegaro
 Piekary Slaskie
 Piélagos
@@ -28948,6 +28963,7 @@ Prochowice county
 Prodasice
 Proença-a-Nova
 Profondeville
+Progreso
 Progress
 Prokhladnensky District
 Prokhladny
@@ -29732,6 +29748,7 @@ Rammingen in Bayern
 Ramon
 Ramón Santana
 Ramonsky District
+Ramos Arizpe
 Ramotshere Moiloa
 Ramsau
 Ramsau am Dachstein
@@ -31188,6 +31205,7 @@ Sabaragamuwa Province
 Sabbioneta
 Sabetha
 Sabina
+Sabinas
 Sabine County
 Sabine Parish
 Sabnie commune
@@ -31740,6 +31758,7 @@ San Biagio di Callalta
 San Biase
 San Bonifacio
 Sanborn County
+San Buenaventura
 San Buono
 Sancaktepe
 San Calixto
@@ -31914,6 +31933,7 @@ San Juan de la Rambla
 San Juan del Cesar
 San Juan de los Lagos
 San Juan de Rioseco
+San Juan de Sabinas
 San Juan de Urabá
 San Juanito
 San Juanito de Escobedo
@@ -33745,6 +33765,7 @@ Sierra County
 Sierra de Fuentes
 Sierra Gorda
 Sierra Madre
+Sierra Mojada
 Sierre
 Sierro
 Siesikai
@@ -37179,6 +37200,7 @@ Torremenga
 Torremocha de Jarama
 Torremocha del Campo
 Torrent
+Torreón
 Torre-Pacheco
 Torreperogil
 Torres
@@ -39270,6 +39292,7 @@ Vieques
 Vierchniadzvinsk
 Viersen
 Viersen District
+Viesca
 Vieselbach
 Viešintos
 Viesite
@@ -39527,6 +39550,7 @@ Villa Soldati
 Villa Tapia
 Villatoro
 Villatuerta
+Villa Unión
 Villa Urquiza
 Villava
 Villavallelonga
