@@ -11,7 +11,7 @@
 // @exclude     http*://boards.4chan.org/sp/catalog
 // @exclude     http*://boards.4chan.org/pol/catalog
 // @exclude     http*://boards.4chan.org/bant/catalog
-// @version     0.37
+// @version     0.38
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -51,7 +51,7 @@ var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://github.com/flaghunters/Extra-Flags-for-4chan/raw/master/flags/';
 // remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
-var backendBaseUrl = 'http://flagtism.drunkensailor.org/';
+var backendBaseUrl = 'http://176.126.78.161/';
 var postUrl = 'int/post_flag_api2.php';
 var getUrl = 'int/get_flags_api2.php';
 var shortId = 'witingwc.ef.';
