@@ -53,6 +53,7 @@ Abasolo
 Abay
 Abaza
 Abazinsky District
+Abbadia Lariana
 Abbateggio
 Abbekerk
 Abbeville
@@ -380,6 +381,7 @@ Airai
 Airdrie
 Aïre-la-Ville
 Airolo
+Airuno
 Aisai
 Aiseau-Presles
 Aisho
@@ -1220,6 +1222,7 @@ Annesbrook
 Anninsky District
 Anniviers
 Annobón Province
+Annone di Brianza
 Annone Veneto
 Annopol commune
 Anoeta
@@ -2363,6 +2366,7 @@ Baliseyh
 Balk
 Balkansky
 Balkash
+Ballabio
 Ballaigues
 Ballarat
 Ballard County
@@ -2641,8 +2645,11 @@ Barwice commune
 Barwon South West
 Barysaŭ
 Baryshivka District
+Barzago
+Barzanò
 Barzdai
 Barzhong
+Barzio
 Basadingen-Schlattingen
 Basaksehir
 Basarabeasca District
@@ -3006,6 +3013,7 @@ Belkovice-Lastany
 Bell
 Bellach
 Bellaguarda
+Bellano
 Bellante
 Bellaria-Igea
 Bellburns
@@ -4314,6 +4322,7 @@ Bosilegrad
 Bosiljevo 
 Bosilovo
 Bösingen
+Bosisio Parini
 Boskovice
 Boskovstejn
 Bosnian-Podrinje Canton Gorazde
@@ -4723,6 +4732,7 @@ Britswerd
 Brittnau
 Brittoli
 Briviesca
+Brivio
 Brixen im Thale
 Brixlegg
 Briza
@@ -5019,6 +5029,7 @@ Bülach
 Bulanik
 Bulatnikovskoye
 Bulawayo
+Bulciago
 Buldan
 Buleleng Regency
 Buleon
@@ -5422,6 +5433,7 @@ Calbayog
 Calbuco
 Calcasieu Parish
 Calceranica al Lago
+Calco
 Caldarola
 Caldaro sulla Strada del Vino
 Caldas
@@ -5474,6 +5486,7 @@ Calldetenes
 Calliano
 Calloway County
 Calne
+Calolziocorte
 Calonge de Segarra
 Caloocan
 Caloto
@@ -5956,6 +5969,7 @@ Cardston
 Cardston County
 Carei
 Careiro
+Carenno
 Carentoir
 Carepa
 Carhaix-Plouguer
@@ -6085,6 +6099,7 @@ Casanare Department
 Casarano
 Casar de Cáceres
 Casar de Palomero
+Casargo
 Casarile
 Casarrubuelos
 Casarsa della Delizia
@@ -6094,6 +6109,7 @@ Casas de Don Pedro
 Casas de Millán
 Casas Grandes
 Casatejada
+Casatenovo
 Casavieja
 Cascade County
 Cascais
@@ -6120,12 +6136,14 @@ Casoli
 Casorezzo
 Casper
 Cassacco
+Cassago Brianza
 Cassano d'Adda
 Cassano delle Murge
 Cass County
 Cassia County
 Cassilândia
 Cassina de' Pecchi
+Cassina Valsassina
 Cassinetta di Lugagnano
 Cassola
 Cassowary Coast
@@ -6197,6 +6215,7 @@ Castellino del Biferno
 Castellnou de Bages
 Castello d'Argile
 Castelló d'Empúries
+Castello di Brianza
 Castello di Godego
 Castello-Molina di Fiemme
 Castellón de la Plana
@@ -6552,6 +6571,7 @@ Cernotin
 Cernousy
 Cernovice
 Cernozice
+Cernusco Lombardone
 Cernusco sul Naviglio
 Cernvir
 Cerny Dul
@@ -6594,6 +6614,7 @@ Cervia
 Cervignano del Friuli
 Cervo
 Čerykaŭ
+Cesana Brianza
 Cesano Boscone
 Cesano Maderno
 Cesar Department
@@ -7418,6 +7439,7 @@ Ciudad Juárez
 Ciudad Obregón
 Ciutadella de Menorca
 Ciutadilla
+Civate
 Civezzano
 Cividale del Friuli
 Civitacampomarano
@@ -7612,6 +7634,7 @@ Colfax
 Colfax County
 Colfontaine
 Coli
+Colico
 Colijnsplaat
 Colima
 Colina
@@ -7624,6 +7647,7 @@ Collado Villalba
 Collarmele
 Collazzone
 Colldejou
+Colle Brianza
 Collecchio
 Collecorvino
 Colle d'Anchise
@@ -7949,6 +7973,7 @@ Corteconcepción
 Cortegana
 Cortelazor
 Cortemaggiore
+Cortenova
 Cortes
 Cortes de Baza
 Cortés Department
@@ -7980,6 +8005,7 @@ Costa
 Costabissara
 Costacciaro
 Costa di Rovigo
+Costa Masnaga
 Costa Mesa
 Costermano sul Garda
 Costilla County
@@ -8095,6 +8121,7 @@ Craighead County
 Craigieburn
 Craik
 Cranbrook
+Crandola Valsassina
 Crane County
 Cranendonck
 Crans-Montana
@@ -8120,6 +8147,8 @@ Creek County
 Creil
 Creixell
 Creixomil
+Cremella
+Cremeno
 Crenshaw County
 Črenšovci
 Crescent City
@@ -8716,6 +8745,7 @@ Dernekpazari
 De Ronde Venen
 Deruta
 Derventa municipality
+Dervio
 Derwent Valley
 Desamparados
 Descalvado
@@ -9189,6 +9219,7 @@ Dölsach
 Dolyna
 Dolynska
 Dolynska District
+Dolzago
 Dolzhanskoye
 Domagnano
 Domagne
@@ -9276,6 +9307,7 @@ Dorfbeuern
 Dorfgastein
 Dörflingen
 Dorfstetten
+Dorio
 Dorlisheim
 Dormagen
 Dornava
@@ -10095,6 +10127,7 @@ Elliston
 El Llano
 El Lloar
 Ellmau
+Ello
 Ellrich
 Ellsworth County
 Elmadag
@@ -10388,6 +10421,7 @@ Ertil
 Ertilsky District
 Ertl
 Erto e Casso
+Erve
 Erving
 Erzgebirgskreis
 Erzin
@@ -10435,6 +10469,7 @@ Esenler
 Esenyurt
 Esetce
 Eshkol
+Esino Lario
 Eskil
 Eskilstuna
 Eskipazar
@@ -11564,6 +11599,7 @@ Galatina
 Galatone
 Galatsi
 Galax
+Galbiate
 Galdakao
 Gáldar
 Galeana.jpg
@@ -11652,6 +11688,7 @@ Garafía
 Garagoa
 Garai
 Garbagnate Milanese
+Garbagnate Monastero
 Garbatka-Letnisko commune
 Garbow commune
 Garça
@@ -11685,6 +11722,7 @@ Garkalne
 Garlan
 Garland
 Garland County
+Garlate
 Garliava
 Garlitos
 Garmisch-Partenkirchen District
@@ -15085,6 +15123,7 @@ Imatong
 Imavere Parish
 Imbabazane
 Imbabura Province
+Imbersago
 Imbert
 Imeni Lazo District
 Imeni Poliny Osipenko District
@@ -15202,6 +15241,7 @@ Insk commune
 Instinción
 Inta
 Interlaken
+Introbio
 Introdacqua
 Intsika Yethu
 Inúbia Paulista
@@ -19392,6 +19432,7 @@ Laval
 La Valle
 La Valle Agordina
 Lavalleja Department
+La Valletta Brianza
 Lavamünd
 La Vancelle
 Lavant
@@ -19481,6 +19522,7 @@ Lebu
 Le Carbet
 Lecce
 Lecce nei Marsi
+Lecco
 Le Cerneux-Pequignot
 Lech
 Le Chapelle-Caro
@@ -19999,6 +20041,7 @@ Liepvre
 Lier
 Lierde
 Liérganes
+Lierna
 Lierneux
 Liesberg
 Liesing
@@ -20400,6 +20443,7 @@ Lollum
 Lolol
 Lom
 Loma de Cabrera
+Lomagna
 Lomas de Zamora Department
 Lomazy commune
 Lomba
@@ -21278,6 +21322,7 @@ Male Zernoseky
 Malgobek
 Malgobeksky District
 Malgrat de Mar
+Malgrate
 Malguenac
 Malheur County
 Malhostovice
@@ -21385,6 +21430,7 @@ Mandalay Region
 Mandaue
 Mandayona
 Mandelieu-la-Napoule
+Mandello del Lario
 Mandeni
 Mandera County
 Mandeville
@@ -21565,6 +21611,7 @@ Margarita
 Margate
 Margherita di Savoia
 Margibi County
+Margno
 Margraten
 Marhanets
 María
@@ -22260,6 +22307,7 @@ Meråker
 Meram
 Meranges
 Merano
+Merate
 Merbes-le-Château
 Merboltice
 Mercaderes
@@ -22809,6 +22857,7 @@ Miskolc
 Miskolc District
 Miskovice
 Mislinja
+Missaglia
 Missaukee County
 Missen-Wilhams
 Mission
@@ -22967,6 +23016,7 @@ Mogami
 Mogán
 Mogersdorf
 Möggers
+Moggio
 Moggio Udinese
 Mogi das Cruzes
 Mogielnica commune
@@ -23066,6 +23116,7 @@ Molondin
 Molschleben
 Molsdorf
 Molsheim
+Molteno
 Molvena
 Molveno
 Molvízar
@@ -23273,6 +23324,7 @@ Montelongo
 Montelparo
 Montelupone
 Montemarciano
+Monte Marenzo
 Montemayor
 Montemesola
 Montemitro
@@ -23329,6 +23381,7 @@ Montesilvano
 Montesquiu
 Montet
 Monte Urano
+Montevecchia
 Monteviale
 Montevideo
 Montevideo Department
@@ -23353,6 +23406,7 @@ Monti
 Montiano
 Monticelli d'Ongina
 Monticello
+Monticello Brianza
 Monticello Conte Otto
 Montigny-le-Tilleul
 Montijo
@@ -23582,6 +23636,7 @@ Morskoy
 Mortágua
 Mortantsch
 Mortegliano
+Morterone
 Morton County
 Mörtschach
 Mortsel
@@ -24745,6 +24800,7 @@ Niassa Province
 Niasviž
 Niawier
 Nibbixwoud
+Nibionno
 Nibok District
 Nica
 Nice
@@ -25894,6 +25950,7 @@ Ogawara
 Ogemaw County
 Ogens
 Oggau am Neusiedler See
+Oggiono
 Ogi
 Ogíjares
 Ogimi
@@ -26070,6 +26127,8 @@ Olesno County
 Olevsk
 Olevsk District
 Olga
+Olgiate Molgora
+Olginate
 Olginskoye
 Olginsky District
 Olhão
@@ -26090,6 +26149,7 @@ Oliveira do Hospital
 Olivenza
 Oliver
 Oliver County
+Oliveto Lario
 Olkhovatka
 Olkhovatsky District
 Olkusz
@@ -26541,6 +26601,7 @@ Osmaniye
 Osmaniye Province
 Osnabruck
 Osnabrück District
+Osnago
 Osno Lubuskie commune
 Osoblaha
 Osona
@@ -26895,6 +26956,7 @@ Paddockwood
 Paderborn
 Paderborn District
 Paderne
+Paderno d'Adda
 Paderno del Grappa
 Paderno Dugnano
 Padiernos
@@ -26919,6 +26981,7 @@ Paget Parish
 Pagli
 Paglieta
 Pagnacco
+Pagnona
 Pahang
 Pahiatua
 Paicol
@@ -27186,6 +27249,7 @@ Parksville
 Park Township
 Park Way
 Parla
+Parlasco
 Parlavà
 Parma
 Parmer County
@@ -27261,6 +27325,7 @@ Pastaza Province
 Pasto
 Pastrengo
 Pastrevys
+Pasturo
 Pastviny
 Pasuruan
 Pasuruan Regency
@@ -27584,6 +27649,7 @@ Perisher Blue
 Peristeri
 Perito Moreno
 Perkins County
+Perledo
 Perlis
 Perlojai
 Perly-Certoux
@@ -27653,6 +27719,7 @@ Pesca
 Pescantina
 Pescara
 Pescasseroli
+Pescate
 Pescecostanzo
 Peschanoye
 Pesche
@@ -28947,6 +29014,7 @@ Prelic
 Prellenkirchen
 Prelouc
 Prelovice
+Premana
 Premariacco
 Premier
 Premilcuore
@@ -29038,6 +29106,7 @@ Prilepy
 Prilly
 Priluka
 Priluzsky District
+Primaluna
 Primda
 Primelin
 Primiero San Martino di Castrozza
@@ -30629,6 +30698,7 @@ Roana
 Roane County
 Roanoke
 Roanoke County
+Robbiate
 Robe
 Robecchetto con Induno
 Robecco sul Naviglio
@@ -30742,6 +30812,7 @@ Rogaška Slatina
 Rogašovci
 Rogatec
 Rogatica municipality
+Rogeno
 Roger Mills County
 Rogers
 Rogers County
@@ -32463,6 +32534,7 @@ Santa María del Tiétar
 Santa Maria de Martorelles
 Santa María de Nieva
 Santa Maria di Sala
+Santa Maria Hoè
 Santa Maria Imbaro
 Santa Maria in Calanca
 Santa Maria la Longa
@@ -34103,6 +34175,8 @@ Sirnak Province
 Siroka Niva
 Siroky Dul
 Sirolo
+Sirone
+Sirtori
 Širvintos
 Širvintos District Municipality
 Sisak
@@ -35669,6 +35743,8 @@ Sudslava
 Súdwest Fryslân
 Südwestpfalz District
 Sue
+Sueglio
+Suello
 Suesca
 Suessem
 Suez
@@ -36155,6 +36231,7 @@ Tabuaço
 Tabuk
 Tabuse
 Täby
+Taceno
 Tachiarai
 Tachikawa
 Táchira
@@ -38810,6 +38887,7 @@ Valfornace
 Valga
 Valgamaa
 Valgjärve Parish
+Valgreghentino
 Valinhos
 Valjala Parish
 Valjevo
@@ -38875,6 +38953,7 @@ Vallon
 Vallorbe
 Vallromanes
 Valls
+Valmadrera
 Val Marie
 Valmazzola
 Valmiera
@@ -38899,6 +38978,7 @@ Valtierra
 Valtopina
 Valtorres
 Valtrovice
+Valvarrone
 Valvasone Arzene
 Val Verde County
 Valverde de Alcalá
@@ -38965,6 +39045,7 @@ Varen
 Varena
 Varena Municipality
 Varenikovskoye
+Varenna
 Varenovskoye
 Vårgårda
 Vargas
@@ -39236,6 +39317,7 @@ Vendel
 Vendenheim
 Vendlincourt
 Vendoli
+Vendrogno
 Vendryne
 Venecia
 Venecia (Ospina Perez)
@@ -39265,7 +39347,9 @@ Veraguas Province
 Verano
 Verano Brianza
 Verbilki
+Vercurago
 Verden District
+Verderio
 Verdun
 Verea
 Vereiskoye
@@ -39481,6 +39565,7 @@ Vieux-Vy-sur-Couesnon
 Vievis
 View Royal
 Vigala Parish
+Viganò
 Vigantice
 Vigarano Mainarda
 Vigasio
