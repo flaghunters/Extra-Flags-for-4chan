@@ -53,6 +53,7 @@ Abasolo
 Abay
 Abaza
 Abazinsky District
+Abbadia Cerreto
 Abbadia Lariana
 Abbateggio
 Abbekerk
@@ -3321,6 +3322,7 @@ Bertinoro
 Bertioga
 Bertiolo
 Bertogne
+Bertonico
 Bertrand
 Bertrix
 Berunice
@@ -4006,6 +4008,7 @@ Boermereng
 Boersch
 Boesenbiesen
 Bofete
+Boffalora d'Adda
 Boffalora sopra Ticino
 Bofflens
 Bogan
@@ -4233,6 +4236,7 @@ Borgarbyggð
 Borger
 Borger-Odoorn
 Borgharen
+Borghetto Lodigiano
 Borghi
 Borgholm
 Borgholzhausen
@@ -4246,6 +4250,7 @@ Borgo Mantovano
 Borgonovo Val Tidone
 Borgo Pace
 Borgoricco
+Borgo San Giovanni
 Borgo Tossignano
 Borgo Val di Taro
 Borgo Valsugana
@@ -4627,6 +4632,7 @@ Breitenworbis
 Brejo Santo
 Breles
 Bremanger
+Brembio
 Bremblens
 Bremen
 Bremen (city)
@@ -6095,12 +6101,15 @@ Casalecchio di Reno
 Casale di Scodosia
 Casaleone
 Casale sul Sile
+Casaletto Lodigiano
 Casalfiumanese
 Casalgrande
 Casalincontrada
+Casalmaiocco
 Casalmoro
 Casalnuovo Monterotaro
 Casaloldo
+Casalpusterlengo
 Casalromano
 Casalserugo
 Casalvecchio di Puglia
@@ -6127,6 +6136,8 @@ Cascanditella
 Cascante
 Cascavel
 Cascia
+Caselle Landi
+Caselle Lurani
 Case-Pilote
 Casey
 Casey County
@@ -6197,6 +6208,7 @@ Castelfondo
 Castelfranco Emilia
 Castelfranco Veneto
 Castel Frentano
+Castelgerundo
 Castel Giorgio
 Castel Goffredo
 Castelgomberto
@@ -6245,6 +6257,7 @@ Castelnovo Bariano
 Castelnovo di Sotto
 Castelnovo ne' Monti
 Castelnuovo
+Castelnuovo Bocca d'Adda
 Castelnuovo del Friuli
 Castelnuovo del Garda
 Castelnuovo della Daunia
@@ -6273,6 +6286,7 @@ Castelvetro Piacentino
 Castel Viscardo
 Castenaso
 Castiglione a Casauria
+Castiglione d'Adda
 Castiglione dei Pepoli
 Castiglione del Lago
 Castiglione delle Stiviere
@@ -6289,6 +6303,7 @@ Castilla y León
 Castilléjar
 Castillo
 Castions di Strada
+Castiraga Vidardo
 Casti-Wergenstein
 Castkov
 Castlepoint
@@ -6368,6 +6383,7 @@ Cavasso Nuovo
 Cavazzo Carnico
 Cavedago
 Cavedine
+Cavenago d'Adda
 Cavenago di Brianza
 Cavezzo
 Cavisov
@@ -6621,6 +6637,7 @@ Cervera del Río Alhama
 Cervera de Pisuerga
 Cervia
 Červień
+Cervignano d'Adda
 Cervignano del Friuli
 Cervo
 Čerykaŭ
@@ -7598,6 +7615,7 @@ Codevigo
 Codigoro
 Codington County
 Codognè
+Codogno
 Codroipo
 Coelemu
 Coesfeld District
@@ -7741,6 +7759,7 @@ Comanche Nation
 Comano
 Comano Terme
 Comayagua Department
+Comazzo
 Combarbalá
 Cómbita
 Comblain-au-Pont
@@ -7929,13 +7948,16 @@ Cornate d'Adda
 Cornaux
 Cornedo all'Isarco
 Cornedo Vicentino
+Cornegliano Laudense
 Cornellà de Llobregat
 Cornellà del Terri
 Corner Brook
 Corniglio
 Cornille
 Corno di Rosazzo
+Corno Giovine
 Cornol
+Cornovecchio
 Cornuda
 Cornwall
 Cornwall (district)
@@ -7984,6 +8006,7 @@ Cortegana
 Cortelazor
 Cortemaggiore
 Cortenova
+Corte Palasio
 Cortes
 Cortes de Baza
 Cortés Department
@@ -8164,6 +8187,7 @@ Crenshaw County
 Crescent City
 Crespadoro
 Crespano del Grappa
+Crespiatica
 Crespino
 Crespos
 Cressier
@@ -11108,6 +11132,7 @@ Follina
 Folon Region
 Folsgare
 Folsom
+Fombio
 Fómeque
 Fond du Lac County
 Fond du Lac Indian Reservation
@@ -11623,6 +11648,7 @@ Galena
 Galeton
 Galewice commune
 Galfingue
+Galgagnano
 Galgenen
 Gália
 Galich
@@ -12531,6 +12557,7 @@ Grafenschachen
 Grafenschlag
 Grafenstein
 Grafenwörth
+Graffignana
 Grafhorst
 Gräfinau-Angstedt
 Grafschaft Bentheim District
@@ -12954,6 +12981,7 @@ Guararema
 Guaratinguetá
 Guarda
 Guarda District
+Guardamiglio
 Guarda Veneta
 Guardea
 Guardiagrele
@@ -20312,6 +20340,7 @@ Livingston County
 Livingstone
 Livingston Parish
 Livo
+Livraga
 Livramento
 Livre-sur-Changeon
 Liw commune
@@ -20418,6 +20447,7 @@ Lodeynoe Pole
 Lodherov
 Lodi
 Lodin
+Lodi Vecchio
 Lodosa
 Lod Valley
 Lodz City
@@ -21053,6 +21083,7 @@ Macarani
 Macas
 Macatuba
 Macaubal
+Maccastorna
 Macchia d'Isernia
 Macchiagodena
 Macchia Valfortore
@@ -21230,6 +21261,7 @@ Mainz-Bingen District
 Maiolati Spontini
 Maiolo
 Maipú
+Mairago
 Mairangi Bay
 Mairinque
 Mairiporã
@@ -21343,6 +21375,7 @@ Male Kysice
 Malem
 Malenice
 Malenovice
+Maleo
 Male Pritocno
 Malesov
 Malesovice
@@ -21838,6 +21871,7 @@ Martshala
 Marttila
 Martvili
 Martynovsky District
+Marudo
 Marugame
 Maruggio
 Marulanda
@@ -21905,6 +21939,7 @@ Massa d'Albe
 Massa Fermana
 Massafra
 Massagno
+Massalengo
 Massa Lombarda
 Massa Martana
 Massandra
@@ -22241,6 +22276,7 @@ Melegnano
 Melekeok
 Melendugno
 Melesse
+Meleti
 Meleuz
 Meleuzovsky District
 Melfort
@@ -22383,6 +22419,7 @@ Merksplas
 Merkwiller-Pechelbronn
 Merlara
 Merlevenez
+Merlino
 Mernel
 Merom HaGalil
 Merosina
@@ -23269,6 +23306,7 @@ Montalto delle Marche
 Montana
 Montanaire
 Montana Province
+Montanaso Lombardo
 Montánchez
 Montanha
 Montappone
@@ -23884,6 +23922,7 @@ Mukhorshibirsky District
 Mukinbudin
 Muko
 Mula
+Mulazzano
 Mulchén
 Mulegé
 Mulhausen
@@ -26468,6 +26507,7 @@ Orikhiv
 Orikhiv District
 Orimattila
 Orio
+Orio Litta
 Oripää
 Orís
 Orissaare Parish
@@ -26654,9 +26694,11 @@ Osove
 Osoyoos
 Ospedaletto
 Ospedaletto Euganeo
+Ospedaletto Lodigiano
 Ospina
 Ospitale di Cadore
 Oss
+Ossago Lodigiano
 Ossana
 Ossenisse
 Ossiach
@@ -27998,6 +28040,7 @@ Pieve di Cadore
 Pieve di Cento
 Pieve di Soligo
 Pieve Emanuele
+Pieve Fissiraga
 Pievepelago
 Pieve Tesino
 Pieve Torina
@@ -30252,6 +30295,7 @@ Reguisheim
 Rehamna Province
 Rehetobel
 Rehoboth
+Rehoboth Beach
 Rehovot
 Rehungen
 Reichenau
@@ -31856,6 +31900,7 @@ Saleng
 Salenstein
 Salento
 Salé Prefecture
+Salerano sul Lambro
 Sâles
 Salesópolis
 Salford
@@ -32098,6 +32143,7 @@ San Fernando del Valle de Catamarca
 San Fernando de Monte Cristi
 San Fernando Department
 San Fior
+San Fiorano
 San Floriano del Collio
 San Francisco
 San Francisco de Bánica
@@ -32344,6 +32390,7 @@ San Martino in Badia
 San Martino in Passiria
 San Martino in Pensilis
 San Martino in Rio
+San Martino in Strada
 San Martino sulla Marrucina
 San Martín Province
 San Martín Region
@@ -32430,6 +32477,7 @@ San Quirino
 San Rafael
 San Rafael del Yuma
 San Ramón
+San Rocco al Porto
 San Román de la Cuba
 San Román Province
 San Roque
@@ -32461,6 +32509,7 @@ Sant'Angelo di Piove di Sacco
 Sant'Angelo in Pontano
 Sant'Angelo in Vado
 Sant'Angelo Limosano
+Sant'Angelo Lodigiano
 Sant'Anna d'Alfaedo
 Sant'Antonino
 Sant'Egidio alla Vibrata
@@ -32552,6 +32601,7 @@ Santa Isabel
 Santa Juana
 Santa Leopoldina
 Santa Llogaia d'Àlguema
+Santa Lodigiana
 Santa Lucía
 Santa Lúcia
 Santa Lucía de Tirajana
@@ -32718,6 +32768,7 @@ Santorso
 Santos
 Santo Stefano di Cadore
 Santo Stefano di Sessanio
+Santo Stefano Lodigiano
 Santo Stefano Ticino
 Santo Tirso
 Santo Tomás
@@ -33312,6 +33363,7 @@ Sechura Province
 Secinaro
 Seckau
 Seclì
+Secugnago
 Seda
 Seddon
 Sedegliano
@@ -34701,6 +34753,7 @@ Solvang
 Sölvesborg
 Sölvesborg locality
 Soma
+Somaglia
 Somaliland
 Somali Region
 Sombey
@@ -34777,6 +34830,7 @@ Soraga di Fassa
 Soragna
 Soral
 Sorbolo
+Sordio
 Sorengo
 Sorens
 Sorgà
@@ -36690,6 +36744,7 @@ Taurisano
 Tausa
 Tavagnacco
 Tavas
+Tavazzano con Villavesco
 Tavenna
 Tavèrnoles
 Taviano
@@ -36924,6 +36979,7 @@ Terra Alta
 Terrace
 Terra Chã
 Terragnolo
+Terranova dei Passerini
 Terra Roxa
 Terras de Bouro
 Terrassa
@@ -38109,6 +38165,7 @@ Tura
 Turakina
 Turan
 Turangi
+Turano Lodigiano
 Turany
 Turaŭ
 Turbaco
@@ -38928,6 +38985,7 @@ Vale of Glamorgan
 Vale of White Horse
 Våler
 Valera
+Valera Fratta
 Valeyres-sous-Montagny
 Valeyres-sous-Ursins
 Valfabbrica
@@ -39803,6 +39861,7 @@ Villa Montellano
 Villamoronta
 Villandro
 Villanova del Ghebbo
+Villanova del Sillaro
 Villanova di Camposanpiero
 Villanova Marchesana
 Villanova sull'Arda
@@ -42261,6 +42320,7 @@ Zellenberg
 Zellerndorf
 Zellwiller
 Zelnava
+Zelo Buon Persico
 Zelo Surrigone
 Zelow commune
 Zeltweg
