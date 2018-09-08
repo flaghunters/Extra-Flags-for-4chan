@@ -912,6 +912,8 @@ Altinova
 Altinozu
 Altintas
 Altinyayla
+Altipiano Est
+Altipiano Ovest
 Altishofen
 Altissimo
 Altivole
@@ -1534,6 +1536,7 @@ Argelaguer
 Argelato
 Argelia
 Argenta
+Argentario
 Argentine Antarctic Territory
 Argentona
 Argentre-du-Plessis
@@ -2638,6 +2641,7 @@ Barretos
 Barrhead
 Barrhead County
 Barrie
+Barriera Vecchia-San Giacomo
 Barriere District
 Barrier Valley
 Barrigada
@@ -6641,6 +6645,9 @@ Centre-du-Québec
 Centre-Val de Loire
 Centreville
 Centreville-Wareham-Trinity
+Centro-Piani-Rencio
+Centro Storico
+Centro Storico-Piedicastello
 Centro Sur Province
 Centro Valle Intelvi
 Cep
@@ -7204,6 +7211,7 @@ Chíquiaz
 Chiquilistlán
 Chiquimula Department
 Chiquinquirá
+Chirignago-Zelarino
 Chiriguaná
 Chiriquí Province
 Chirongui
@@ -7570,6 +7578,7 @@ Citrus Heights
 Cittadella
 Città della Pieve
 Città di Castello
+Città Nuova-Barriera Nuova-San Vito-Città Vecchia
 Città Sant'Angelo
 City of Cape Town
 City of Groton
@@ -9444,6 +9453,7 @@ Donaufeld
 Donau-Ries District
 Donaustadt District
 Don Benito
+Don Bosco
 Doncaster
 Donceel
 Dondukovskoye
@@ -10710,6 +10720,7 @@ Essling
 Esslingen District
 Essonne
 Essunga
+Est
 Estación Central
 Estaimpuis
 Estamariu
@@ -10781,6 +10792,7 @@ Eure-et-Loir
 Eureka
 Eureka County
 Eurobodalla
+Europa-Novacella
 Euskirchen
 Euskirchen District
 Evangeline Parish
@@ -10965,6 +10977,7 @@ Faulkner County
 Fauquier County
 Fauske
 Fauvillers
+Favaro Veneto
 Favona
 Favoriten
 Favoriten District
@@ -11915,6 +11928,7 @@ Garden County
 Garden Grove
 Garden River
 Gardner
+Gardolo
 Gardony District
 Garðabær
 Garður
@@ -12961,6 +12975,7 @@ Griesbach-au-Val
 Griesheim-pres-Molsheim
 Griesheim-sur-Souffel
 Grieskirchen District
+Gries-San Quirino
 Griffen
 Griffin
 Griffith
@@ -20278,6 +20293,7 @@ Lidice
 Lidingö
 Lidköping
 Lidman
+Lido-Pellestrina
 Lidzbark County
 Liebenfels
 Liebenrode
@@ -21892,6 +21908,7 @@ Margareten
 Margareten District
 Margarita
 Margate
+Marghera
 Margherita di Savoia
 Margibi County
 Margno
@@ -22244,6 +22261,7 @@ Matsuura
 Matsuyama
 Matsuzaki
 Mattapoisett
+Mattarello
 Matte Asher
 Matteh Yehuda
 Mattersburg
@@ -22381,6 +22399,7 @@ Meadville
 Meagher County
 Mealhada
 Meander Valley
+Meano
 Mece
 Meceriz
 Mechelen
@@ -22699,6 +22718,7 @@ Mestec Kralove
 Mestia
 Mesto Albrechtice
 Mesto Touskov
+Mestre-Carpenedo
 Mestrino
 Meta Department
 Metallostroy
@@ -25441,6 +25461,7 @@ Norddal
 Nord Department
 Norddjurs
 Nord-du-Québec
+Nord-est
 Nord-Est Department
 Nordeste
 Nordestina
@@ -25455,6 +25476,7 @@ Nordland
 Nordmaling
 Nord-Odal
 Nord-Ouest Department
+Nord-ovest
 Nord Province
 Nordre Land
 Nordrhein-Westfalen
@@ -26523,8 +26545,10 @@ Olt County
 Olten
 Oltingen
 Oltingue
+Oltrefersina
 Oltre il Colle
 Oltressenda Alta
+Oltrisarco-Aslago
 Oltrona di San Mamette
 Oltu
 Oludeniz
@@ -27215,6 +27239,7 @@ Overton County
 Överum District
 Ovesna Lhota
 Ovesne Kladruby
+Ovest
 Ovezande
 Ovidiopol District
 Oviedo
@@ -29211,6 +29236,7 @@ Pove del Grappa
 Povegliano
 Povegliano Veronese
 Poviglio
+Povo
 Povoação
 Póvoa de Lanhoso
 Póvoa de Varzim
@@ -30469,6 +30495,7 @@ Ravenna
 Ravensburg District
 Ravensthorpe
 Raveo
+Ravina-Romagnano
 Ravne na Koroškem
 Rawa County
 Rawalpindi
@@ -31242,6 +31269,7 @@ Röhrig
 Rohr im Gebirge
 Rohrwiller
 Rohy
+Roiano-Gretta-Barcola-Cologna-Scorcola
 Roi Et Province
 Roio del Sangro
 Roja
@@ -32486,6 +32514,7 @@ San Giorgio Piacentino
 San Giorgio su Legnano
 San Giovanni al Natisone
 San Giovanni Bianco
+San Giovanni-Chiadino-Rozzol
 San Giovanni del Dosso
 San Giovanni Ilarione
 San Giovanni in Galdo
@@ -32498,6 +32527,7 @@ San Giovanni Teatino
 San Giuliano del Sannio
 San Giuliano di Puglia
 San Giuliano Milanese
+San Giuseppe-Santa Chiara
 San Giustino
 Sango
 San Gregorio
@@ -33244,6 +33274,7 @@ Saraykoy
 Sarayonu
 Sarbogard District
 Sarcedo
+Sardagna
 Sardegna
 Sardice
 Sardinata
@@ -34002,6 +34033,7 @@ Serthig
 Sertolovo
 Servigliano
 Servion
+Servola-Chiarbola-Valmaura-Borgo San Sergio
 Servon-sur-Vilaine
 Seryshevsky District
 Serzedelo
@@ -36161,6 +36193,7 @@ Suchy Dul
 Sucre
 Sucre Department
 Sucumbíos Province
+Sud
 Sudak
 Sudak City Municipality
 Sudargas
@@ -36169,6 +36202,7 @@ Sudbury District
 Sud-Comoé
 Sud Department
 Sudeikiai
+Sud-est
 Sud-Est Department
 Sudice
 Sudislavl
@@ -36182,6 +36216,7 @@ Sudomerice u Bechyne
 Sudomerice u Tabora
 Südoststeiermark District
 Sudova Vyshnia
+Sud-ovest
 Sudovo Hlavno
 Sud Province
 Sudslava
@@ -39808,6 +39843,7 @@ Venecia (Ospina Perez)
 Veneto
 Venets
 Venezia
+Venezia-Murano-Burano
 Veniano
 Venlo
 Venray
@@ -40327,6 +40363,7 @@ Villavieja
 Villavieja del Lozoya
 Villaviudas
 Villaz-Saint-Pierre
+Villazzano
 Ville
 Ville d'Anaunia
 Ville-Marie
