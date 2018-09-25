@@ -61,6 +61,7 @@ Abbeville
 Abbeville County
 Abbiategrasso
 Abbotsford
+Abcoude
 Abdera
 Abdipasa
 Abejorral
@@ -132,6 +133,7 @@ Achi
 Achí
 Achinsk
 Achtkarspelen
+Achttienhoven
 Achuevskoye
 Acigne
 Acigol
@@ -1050,6 +1052,7 @@ Americana
 American Canyon
 Américo Brasiliense
 Américo de Campos
+Amerongen
 Amersfoort
 Ames
 Amesbury
@@ -3201,6 +3204,7 @@ Benodet
 Benokovskoye
 Benov
 Benquerencia
+Benschop
 Benslimane
 Benslimane Province
 Benson
@@ -4736,6 +4740,7 @@ Bretigny-sur-Morrens
 Bretonnières
 Bretten
 Bretzwil
+Breukelen
 Breuschwickersheim
 Brevard County
 Breves
@@ -8212,6 +8217,7 @@ Côte-des-Neiges–Notre-Dame-de-Grâce
 Côte-Nord
 Côte-Saint-Luc
 Côtes-d'Armor
+Cothen
 Cotia
 Cotignola
 Cotkytle
@@ -8731,6 +8737,7 @@ Darmstadt
 Darmstadt-Dieburg District
 Darnytsia District
 Dartford
+Darthuizen
 Dartmouth
 Darwin
 Dashkovskoye
@@ -9499,6 +9506,7 @@ Donskoy District
 Dooly County
 Doomadgee
 Door County
+Doorn
 Doppelschwand
 Dopshari
 Dorado
@@ -9650,6 +9658,8 @@ Drezdenko commune
 Drezna
 Drhovle
 Drhovy
+Driebergen
+Driebergen-Rijsenburg
 Driesum
 Driewegen
 Drimmelen
@@ -10817,6 +10827,7 @@ Evciler
 Evenes
 Evenley
 Even Yehuda
+Everdingen
 Evere
 Everett
 Evergem
@@ -13472,6 +13483,7 @@ Haarlem
 Haarlemmerliede
 Haarlemmerliede en Spaarnwoude
 Haarlemmermeer
+Haarzuilens
 Haaslava Parish
 Haast
 Habartice
@@ -13536,6 +13548,7 @@ Hägendorf
 Hagenthal-le-Bas
 Hagenthal-le-Haut
 Hagerstown
+Hagestein
 Hagfors
 Häggenschwil
 Hägglingen
@@ -13798,6 +13811,7 @@ Harlow
 Harmancik
 Harmanli
 Harmannsdorf
+Harmelen
 Harmon County
 Harnett County
 Harney County
@@ -14068,6 +14082,7 @@ Heiwiller
 Hejna
 Hejnice
 Hejtmankovice
+Hekendorp
 Hekimhan
 Hekinan
 Hel
@@ -14538,6 +14553,7 @@ Hoegaarden
 Hoeilaart
 Hoek
 Hoenheim
+Hoenkoop
 Hoensbroek
 Hoerdt
 Hoeselt
@@ -14689,6 +14705,8 @@ Hoogezand
 Hoogezand-Sappemeer
 Hoogkarspel
 Hoogkerk
+Hoogland
+Hooglanderveen
 Hooglede
 Hoogstraten
 Hoogwoud
@@ -15876,6 +15894,7 @@ Izumizaki
 Izumo
 Izumozaki
 Izunokuni
+Jaarsveld
 Jabalpur
 Jabbeke
 Jabeek
@@ -16664,6 +16683,7 @@ Kamensk-Shakhtinsky
 Kamensk-Uralsky
 Kamensky District
 Kameoka
+Kamerik
 Kameyama
 Kami
 Kamiamakusa
@@ -16775,6 +16795,7 @@ Kanifing
 Kani-Kéli
 Kanina
 Kaninsky
+Kanis
 Kaniv
 Kaniv District
 Kanjiza
@@ -17890,6 +17911,7 @@ Kochyovsky District
 Koci
 Kocierzew Poludniowy commune
 Kock commune
+Kockengen
 Koclirov
 Kocmyrzow-Luborzyca commune
 Kocov
@@ -19424,6 +19446,7 @@ Lang
 Langa
 Langan
 Langau
+Langbroek
 Langchhenphu
 Langeberg
 Langedijk
@@ -19867,6 +19890,7 @@ Leens
 Leepchanskoye
 Leerdam
 Leer District
+Leersum
 Leesburg
 Leeton
 Leeuwarden
@@ -20448,6 +20472,7 @@ Linne
 Linnich
 Linn Valley
 Lins
+Linschoten
 Linsdorf
 Linsell District
 Lint
@@ -20697,6 +20722,7 @@ Lodzkie Voivodeship
 Lodz Wschodnia County
 Loeches
 Loei Province
+Loenersloot
 Lofa County
 Lofer
 Loftahammar District
@@ -21314,6 +21340,10 @@ Ma'rib
 Ma'uke
 Maardu
 Maarkedal
+Maarn
+Maarssen
+Maarsseveen
+Maartensdijk
 Maasbracht
 Maasbree
 Maasdriel
@@ -22953,6 +22983,7 @@ Miharu
 Miho
 Mihovljan
 Mijares
+Mijdrecht
 Mikasa
 Mikawa
 Mikhaylovka
@@ -25266,6 +25297,7 @@ Nigde
 Nigde Province
 Nightcaps
 Nigrán
+Nigtevecht
 Niharra
 Nihonmatsu
 Nihov
@@ -26277,6 +26309,7 @@ Oderzo
 Odessa
 Odessa Region
 Odiáxere
+Odijk
 Odintsovo
 Odintsovsky District
 Odisha
@@ -27206,6 +27239,7 @@ Oudenaarde
 Oudenburg
 Oudendijk
 Oude Niedorp
+Oudenrijn
 Oude Pekela
 Ouder-Amstel
 Oudewater
@@ -27575,6 +27609,7 @@ Papatoetoe
 Papatowai
 Papawai
 Papeete
+Papekop
 Papendrecht
 Paphos
 Papile
@@ -28949,6 +28984,7 @@ Polonne
 Polonne District
 Polonuevo
 Polopos
+Polsbroek
 Polski Trambesh
 Polste
 Poltava
@@ -30672,6 +30708,7 @@ Reidville
 Reigate and Banstead
 Reigoldswil
 Reihoku
+Reijerscop
 Réimech
 Réimech Canton
 Reimerswaal
@@ -30981,6 +31018,7 @@ Rijeka
 Rijkevorsel
 Rijnwaarden
 Rijperkerk
+Rijsenburg
 Rijssen
 Rijssen-Holten
 Rijswijk
@@ -33505,6 +33543,7 @@ Schafisheim
 Schagen
 Schalkendorf
 Schalksmuhle
+Schalkwijk
 Schandorf
 S-chanf
 Schänis
@@ -34963,6 +35002,7 @@ Snåsa
 Snedovice
 Sneek
 Snegiri
+Snelrewaard
 Snezhnogorsk
 Snezne
 Sniatyn
@@ -35875,6 +35915,7 @@ Stepnovsky
 Stepnoye
 Sterboholy
 Sterdyn commune
+Sterkenburg
 Sterlibashevsky District
 Sterling
 Sterling County
@@ -35995,6 +36036,7 @@ Stotzing
 Stoŭbcy
 Stoughton
 Stoumont
+Stoutenburg
 Stow
 Stozec
 St Pauls
@@ -37597,6 +37639,7 @@ Tielmes
 Tielt
 Tielt-Winge
 Tienen
+Tienhoven
 Tierp
 Tierra Amarilla
 Tierra del Fuego Province
@@ -40459,6 +40502,7 @@ Vinica
 Vinica 
 Vinicne Sumice
 Vinje
+Vinkeveen
 Vinkivtsi District
 Vinkovci
 Vinni Parish
@@ -40578,7 +40622,9 @@ Vlckova
 Vlcnov
 Vledder
 Vleteren
+Vleuten
 Vlieland
+Vliet
 Vlissingen
 Vlkos
 Vlkov
@@ -40800,6 +40846,8 @@ Vrchotovy Janovice
 Vrchovany
 Vrchy
 Vrdy
+Vreeland
+Vreeswijk
 Vresina
 Vreskovice
 Vresova
@@ -41267,6 +41315,7 @@ Waushara County
 Wauwil
 Waveney
 Waverley
+Waverveen
 Wavre
 Wawer
 Wawken
@@ -41403,6 +41452,7 @@ Werentzhouse
 Werfen
 Werfenweng
 Werkendam
+Werkhoven
 Wernberg
 Werndorf
 Werne
@@ -41428,6 +41478,7 @@ West Berkshire
 Westborough
 West Boylston
 West Bridgewater
+Westbroek
 Westbrook
 West Brookfield
 West Carroll Parish
@@ -41729,6 +41780,7 @@ Willendorf
 Willenhall
 Willer
 Willer-sur-Thur
+Willeskop
 Willgottheim
 Williams
 Williamsburg
@@ -41738,6 +41790,7 @@ Williamson County
 Williamsport
 Williamstown
 Willich
+Willige Langerak
 Willington
 Willisau
 Willits
@@ -41748,6 +41801,7 @@ Willow Creek
 Willow Creek Municipal District
 Willowdale
 Wilmington
+Wilnis
 Wilson
 Wilson County
 Wilsum
@@ -42746,6 +42800,7 @@ Zeeland
 Zeewolde
 Zeglingen
 Zegocina commune
+Zegveld
 Zehnacker
 Zehun
 Zehusice
