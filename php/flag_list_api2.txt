@@ -758,6 +758,7 @@ Al Khor & Dhekra Municipality
 Al-Khums
 Alkiza
 Alkmaar
+Allagash
 Allahabad
 Allaire
 Allamakee County
@@ -1067,6 +1068,7 @@ Ami
 Amiens
 Amieva
 Amite County
+Amity
 Amlach
 Åmli
 Amlikon-Bissegg
@@ -1639,6 +1641,7 @@ Aroche
 Arogno
 Arona
 Aroostook
+Aroostook Band of Micmac
 Aroostook County
 Arosa
 Arosio
@@ -3890,6 +3893,7 @@ Blagoveshchensk
 Blagoveshchensky District
 Blahovishchenske District
 Blaichach
+Blaine
 Blaine County
 Blaine Lake
 Blair County
@@ -6101,6 +6105,7 @@ Cariacica
 Caribe Norte Autonomous Region
 Caribe Sur Autonomous Region
 Cariboo Regional District
+Caribou
 Caribou County
 Carichi
 Carimate
@@ -6434,6 +6439,7 @@ Castions di Strada
 Castiraga Vidardo
 Casti-Wergenstein
 Castkov
+Castle Hill
 Castlepoint
 Castle Point
 Castletown
@@ -6464,6 +6470,7 @@ Castro-Urdiales
 Castrov
 Castro Verde
 Castuera
+Caswell
 Caswell County
 Casy
 Cataguases
@@ -6909,6 +6916,7 @@ Chapelle-lez-Herlaimont
 Chapinería
 Chaplin
 Chaplynka District
+Chapman
 Chapman Valley
 Chapmanville
 Chã Preta
@@ -9893,6 +9901,7 @@ Dvur Kralove nad Labem
 Dwingeloo
 Dyachenkovskoye
 Dyadkovskoye
+Dyer Brook
 Dyer County
 Dygowo commune
 Dyjakovice
@@ -9929,6 +9938,7 @@ Ea
 Eagan
 Eagle County
 Eagle Creek
+Eagle Lake
 Eagle Rock
 Ealing
 Eance
@@ -11441,8 +11451,10 @@ Fort Bragg
 Fort Collins
 Fort-de-France
 Fortezza
+Fort Fairfield
 Fort Good Hope
 Fortim
+Fort Kent
 Fort Lauderdale
 Fort Liard
 Fort-Louis
@@ -11593,6 +11605,7 @@ Fremantle
 Fremont
 Fremont County
 Frenchman Butte
+Frenchville
 Frenkendorf
 Frenstat pod Radhostem
 Fresach
@@ -12854,6 +12867,7 @@ Grand Forks County
 Grand-Fougeray
 Grand Gedeh County
 Grand Haven
+Grand Isle
 Grand Isle County
 Grand Kru County
 Grand Manan
@@ -12954,6 +12968,7 @@ Greenbelt
 Greenbrier County
 Greenbush
 Green County
+Greene
 Greene County
 Greenfield
 Greenfield Township
@@ -13695,6 +13710,7 @@ Hamilton County
 Hamilton Parish
 Hamina
 Hamitler
+Hamlin
 Hamlin County
 Hamm
 Hammam Chott
@@ -14010,6 +14026,7 @@ Hayashima
 Hayes County
 Hayle
 Haymana
+Haynesville
 Haynrode
 Hayrabolu
 Hay River
@@ -14259,6 +14276,7 @@ Herrnbaumgarten
 Hersberg
 Herschdorf bei Königsee
 Herselt
+Hersey
 Hersfeld-Rotenburg District
 Hersonissos
 Herspice
@@ -14556,6 +14574,7 @@ Hocking County
 Hockley County
 Hodatsushimizu
 Hodejice
+Hodgdon
 Hodgeman County
 Hod HaSharon
 Hodice
@@ -14936,6 +14955,8 @@ Houghton County
 Houghton Valley
 Houk
 Houki
+Houlton
+Houlton Band of Maliseet
 Houmt Souk
 Hounslow
 Houschent
@@ -15707,6 +15728,7 @@ Islamabad Capital Territory
 Isla Mujeres
 Island Bay
 Island County
+Island Falls
 Islands District
 Isla Saona
 Islas Canarias
@@ -20251,6 +20273,7 @@ Lewis and Clark County
 Lewis County
 Lewisham
 Lewisporte
+Lewiston
 Lexington
 Lexington County
 Lexington-Fayette Urban County
@@ -20449,6 +20472,7 @@ Limena
 Limerick
 Limersheim
 Limerzel
+Limestone
 Limestone County
 Limido Comasco
 Limington
@@ -20495,6 +20519,7 @@ Liniers
 Linkebeek
 Linköping
 Linkuva
+Linnaeus
 Linn County
 Linne
 Linnich
@@ -20625,6 +20650,7 @@ Livadeia
 Livani
 Live Oak County
 Livermore
+Livermore Falls
 Liverpool
 Liverpool Plains
 Livinallongo del Col di Lana
@@ -21440,6 +21466,7 @@ Madalena
 Madan
 Madang Province
 Madarcos
+Madawaska
 Madawaska County
 Madeira
 Madenli
@@ -21911,6 +21938,7 @@ Maple Bush
 Maple Creek
 Maple Plain
 Maple Ridge
+Mapleton
 Mapo District
 Mapoon
 Maputo
@@ -22139,6 +22167,7 @@ Marsella
 Marsens
 Marshall County
 Marshfield
+Mars Hill
 Marsiling-Yew Tee
 Marsov
 Marsovice
@@ -22214,6 +22243,7 @@ Marzan
 Mas'ade
 Masaki
 Masandra
+Masardis
 Masate
 Masaya
 Masaya Department
@@ -22484,6 +22514,7 @@ Meander Valley
 Meano
 Mece
 Meceriz
+Mechanic Falls
 Mechelen
 Mechenice
 Mechetlinsky District
@@ -22752,6 +22783,7 @@ Merovice nad Hanou
 Merredin
 Merriam
 Merrick County
+Merrill
 Merrimac
 Merrimack
 Merrimack County
@@ -23181,6 +23213,7 @@ Mino
 Minobu
 Minoh
 Minokamo
+Minot
 Minowa
 Minsk
 Minsk Mazowiecki
@@ -25130,6 +25163,7 @@ Newburgh
 Newbury
 Newburyport
 New Canaan
+New Canada
 New Carrollton
 Newcastle
 New Castle County
@@ -25157,6 +25191,7 @@ New Ireland Province
 New Jersey
 New Kent County
 Newlands
+New Limerick
 New London
 New London County
 New Lynn
@@ -25177,6 +25212,7 @@ New Providence
 New Salem
 New Shoreham
 New South Wales
+New Sweden
 New Taipei City
 Newton
 Newton County
@@ -26132,6 +26168,7 @@ O'Higgins Region
 Oak Bay District
 Oak Bluffs
 Oakdale
+Oakfield
 Oakham
 Oakland
 Oakland County
@@ -26884,6 +26921,7 @@ Orhangazi
 Orhei District
 Oria
 Oricola
+Orient
 Oriental
 Oriental Bay
 Oriental Mindoro
@@ -28133,6 +28171,7 @@ Pérez Zeledón
 Perg District
 Pergine Valsugana
 Pergola
+Perham
 Perimov
 Perisher Blue
 Peristeri
@@ -28970,6 +29009,7 @@ Pokrovskoye
 Pokrovskoye-Streshnevo District
 Pokupsko
 Polack
+Poland
 Polanica-Zdroj
 Polanka Wielka commune
 Polanow commune
@@ -29192,6 +29232,7 @@ Porspoder
 Port Adelaide Enfield
 Portage
 Portage County
+Portage Lake
 Portage Township
 Portaje
 Port Alberni
@@ -29560,6 +29601,7 @@ Presnensky District
 Presov
 Presovice
 Presov Region
+Presque Isle
 Presque Isle County
 Pressana
 Pressbaum
@@ -31955,6 +31997,7 @@ Sabana Yegua
 Sabaneta
 Sabanozu
 Sabaragamuwa Province
+Sabattus
 Sabbioneta
 Sabetha
 Sabina
@@ -35041,6 +35084,7 @@ Smrk
 Smrzice
 Smrzovka
 Smyadovo
+Smyrna
 Smyth County
 Smøla
 Snæfellsbær
@@ -35633,6 +35677,7 @@ Sroda Wielkopolska County
 Srpska Crnja
 Srpski Krstur
 Srubec
+St. Agatha
 St. Alban's
 St. Albert
 St. Andrews
@@ -35644,6 +35689,7 @@ St. Charles Parish
 St. Clair County
 St. Croix County
 St. Edmundsbury
+St. Francis
 St. Francis County
 St. Francois County
 St. Gallen
@@ -38726,6 +38772,7 @@ Turmalina
 Turmequé
 Turmero
 Turnau
+Turner
 Turner County
 Turnhout
 Turnišče
@@ -39640,6 +39687,7 @@ Valy
 Vamberk
 Våmhus locality
 Van
+Van Buren
 Van Buren County
 Vance
 Vance County
@@ -41046,6 +41094,7 @@ Wachtendonk
 Waco
 Waddington
 Waddinxveen
+Wade
 Wadena County
 Wädenswil
 Wadestown
@@ -41198,6 +41247,7 @@ Walkerville
 Wallace
 Wallace County
 Wallacetown
+Wallagrass
 Walla Walla County
 Wallbach
 Waller County
@@ -41312,6 +41362,7 @@ Wasco County
 Waseca County
 Wasewo commune
 Washakie County
+Washburn
 Washburn County
 Washington
 Washington County
@@ -41599,6 +41650,7 @@ Westlock
 Westlock County
 West Lothian
 West Maas en Waal
+Westmanland
 West Melbourne
 West Melton
 West Memphis
