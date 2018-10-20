@@ -787,6 +787,7 @@ Allegany County
 Alleghany County
 Alleghe
 Allegheny County
+Allein
 Allen
 Allen County
 Allendale County
@@ -1308,6 +1309,7 @@ Antelope County
 Antelope Park
 Antene
 Anterivo
+Antey-Saint-André
 Anthering
 Antigonish County
 Antigua
@@ -1653,6 +1655,7 @@ Armuña de Almanzora
 Armutalan
 Armutlu
 Armyansk City Municipality
+Arnad
 Arnavutkoy
 Arnedo
 Arnemuiden
@@ -1777,6 +1780,7 @@ Arundel
 Arvada
 Arviat
 Arvidsjaur
+Arvier
 Arvika
 Arys
 Arzago d'Adda
@@ -2099,6 +2103,7 @@ Avinyonet del Penedès
 Avinyonet de Puigventós
 Avio
 Avis
+Avise
 Avolsheim
 Avon
 Avondale
@@ -2150,6 +2155,7 @@ Ayent
 Ayer
 Ayeyarwady Region
 Aylesbury Vale
+Aymavilles
 Ayotlán
 Ayranci
 Ayryumovskoye
@@ -2633,6 +2639,7 @@ Barcis
 Barco
 Barcoo
 Barcs District
+Bard
 Bardello
 Bardi
 Bar District
@@ -3828,6 +3835,7 @@ Bioko Norte Province
 Bioko Sur Province
 Bioley-Magnoux
 Bioley-Orjulaz
+Bionaz
 Bione
 Biorki
 Biosca
@@ -4932,6 +4940,7 @@ Brisighella
 Brislach
 Brissago
 Brissago-Valtravaglia
+Brissogne
 Bristol
 Bristol Bay Borough
 Bristol County
@@ -5090,6 +5099,7 @@ Brusne
 Brusperk
 Brussels
 Brussels (city)
+Brusson
 Brusyliv District
 Brütten
 Bruz
@@ -7091,20 +7101,26 @@ Chalatenango
 Chalatenango Department
 Chalkida
 Chalkidona
+Challand-Saint-Anselme
+Challand-Saint-Victor
 Châlons-en-Champagne
 Chaloupky
 Cham
 Chamartín
+Chambave
 Chambers County
 Chamblon
 Cham District
 Chámeza
 Chamlykskaya
+Chamois
 Chamoson
 Champagne
 Champaign County
+Champdepraz
 Champeaux
 Champéry
+Champorcher
 Champtauroz
 Champvent
 Chamusca
@@ -7171,6 +7187,7 @@ Charters Towers
 Chartres-de-Bretagne
 Charvatce
 Charvaty
+Charvensod
 Chase County
 Chasiv Yar
 Chaskhar
@@ -7194,6 +7211,7 @@ Chatham
 Chatham County
 Chatham Islands
 Chatham-Kent
+Chatillon
 Châtillon
 Chatillon-en-Vendelais
 Chatom
@@ -8030,6 +8048,7 @@ Coffs Harbor
 Coghlan
 Cogles
 Cogliate
+Cogne
 Cogollo del Cengio
 Cogollos
 Cogua
@@ -8557,6 +8576,7 @@ Courchapoix
 Courchavon
 Courgenay
 Courgevaux
+Courmayeur
 Cournon
 Courrendlin
 Courroux
@@ -9804,6 +9824,7 @@ Donji Zabar municipality
 Donkerbroek
 Donley County
 Donmatías
+Donnas
 Donndorf
 Donneloye
 Donnenheim
@@ -9883,6 +9904,7 @@ Doubravnik
 Doubravy
 Doubs
 Doudleby nad Orlici
+Doues
 Dougherty County
 Douglas
 Douglas County
@@ -10760,6 +10782,7 @@ Emalahleni
 Emanouil Pappas
 Emanuel County
 Emanzhelinsk
+Emarèse
 Embaúba
 Embd
 Emberá-Wounaan Comarca
@@ -11116,6 +11139,7 @@ Etnedal
 Etowah County
 Etoy
 Etrelles
+Etroubles
 Ettadhamen-Mnihla
 Ettelbréck
 Ettendorf
@@ -11400,6 +11424,7 @@ Fendalton
 Fendels
 Fene
 Fenegrò
+Fénis
 Fenland
 Fenoarivo Atsinanana
 Fentress County
@@ -11698,6 +11723,7 @@ Fonelas
 Fono
 Fonseca
 Fontaine-l'Évêque
+Fontainemore
 Fontaines-sur-Grandson
 Fontalovskoye
 Fontana
@@ -12152,6 +12178,7 @@ Gabriel Monteiro
 Gabrovo
 Gabrovo Province
 Gabú
+Gaby
 Gachalá
 Gachancipá
 Gachantivá
@@ -12664,6 +12691,7 @@ Gifhorn District
 Gifu
 Gifu Prefecture
 Gigante
+Gignod
 Gijón
 Gila County
 Gilbert
@@ -13387,6 +13415,9 @@ Greonterp
 Greppen
 Gresik Regency
 Greslove Myto
+Gressan
+Gressoney-La-Trinité
+Gressoney-Saint-Jean
 Gresswiller
 Gresten
 Gresten-Land
@@ -15114,6 +15145,7 @@ Honaz
 Honbetsu
 Hondarribia
 Hondo Valle
+Hône
 Honetice
 Honeyville
 Honezovice
@@ -15976,6 +16008,7 @@ Instinción
 Inta
 Interlaken
 Introbio
+Introd
 Introdacqua
 Intsika Yethu
 Inúbia Paulista
@@ -16164,7 +16197,9 @@ Ispra
 Issaquena County
 Issenhausen
 Issenheim
+Issime
 Isso
+Issogne
 Istanbul
 Istanbul Province
 Istmina
@@ -16813,6 +16848,7 @@ Josvainiai
 Jouswier
 Joutsa
 Jouxtens-Mézery
+Jovençan
 Jowzjan Province
 Joyo
 Jozefow
@@ -19807,6 +19843,7 @@ La Macarena
 Lama dei Peligni
 Lamadrid
 La Magdalena Contreras
+La Magdeleine
 Lama Mocogno
 La Manzanilla de la Paz
 Lamar County
@@ -20092,6 +20129,7 @@ Lasa
 La Sagne
 La Salina
 LaSalle
+La Salle
 LaSalle County
 La Salle County
 LaSalle Parish
@@ -20160,6 +20198,7 @@ La Tebaida
 La Tène
 Laterns
 Laterza
+La Thuile
 Latiano
 Latimer County
 Latisana
@@ -20884,6 +20923,7 @@ Lille
 Lillehammer
 Lillemer
 Lillesand
+Lillianes
 Lilongwe
 Lima
 Limache
@@ -24375,6 +24415,7 @@ Montillana
 Montilliez
 Montirone
 Montizón
+Montjovet
 Mont-la-Ville
 Montmajor
 Montmartre
@@ -24538,6 +24579,7 @@ Morgan Hill
 Morgano
 Morgantown
 Morges
+Morgex
 Mori
 Moriago della Battaglia
 Morice
@@ -26671,6 +26713,7 @@ Nurimanovsky District
 Nurmijärvi
 Nürnberg
 Nürnberger Land District
+Nus
 Nusa Tenggara Barat
 Nusa Tenggara Timur
 Nusaybin
@@ -27211,6 +27254,7 @@ Olkusz
 Olkusz County
 Ollagüe
 Ollersdorf im Burgenland
+Ollomont
 Ollon
 Olmeda de las Fuentes
 Olmeneta
@@ -27989,6 +28033,7 @@ Oxford
 Oxford County
 Oxfordshire
 Oyabe
+Oyace
 Oyama
 Oyamazaki
 Oy-Mittelberg
@@ -28783,6 +28828,7 @@ Perkins County
 Perledo
 Perlis
 Perlojai
+Perloz
 Perly-Certoux
 Perlyovskoye
 Perm
@@ -29681,6 +29727,7 @@ Pölla
 Pöllau
 Pöllauberg
 Pollegio
+Pollein
 Pollença
 Pollenza
 Polling in Tirol
@@ -29768,6 +29815,7 @@ Ponta do Sol
 Ponta Garça
 Ponta Grossa
 Pont-Aven
+Pontboset
 Pont-Croix
 Pont-de-Buis-les-Quimerch
 Pont de Molins
@@ -29799,6 +29847,7 @@ Ponte San Pietro
 Ponte Tresa
 Pontevedra
 Pontevico
+Pontey
 Ponthaux
 Pontida
 Pontirolo Nuovo
@@ -29813,6 +29862,7 @@ Pontons
 Pontotoc County
 Pont-Pean
 Pontresina
+Pont-Saint-Martin
 Pont-Scorff
 Ponzano di Fermo
 Ponzano Veneto
@@ -30234,6 +30284,7 @@ Prepotto
 Prerov
 Prerov District
 Prerov nad Labem
+Pré-Saint-Didier
 Prescott and Russell United Counties
 Preseglie
 Presevo
@@ -30429,7 +30480,6 @@ Province of Alessandria
 Province of Alicante
 Province of Almeria
 Province of Ancona
-Province of Aosta
 Province of Arezzo
 Province of Ascoli Piceno
 Province of Asti
@@ -30850,6 +30900,7 @@ Qualla Boundary
 Quanzhou
 Quapaw Tribe
 Quaregnon
+Quart
 Quarten
 Quartier Grünau
 Quarto d'Altino
@@ -31644,6 +31695,8 @@ Rheinland-Pfalz
 Rhein-Neckar District
 Rhein-Pfalz District
 Rhein-Sieg District
+Rhêmes-Notre-Dame
+Rhêmes-Saint-Georges
 Rhenen
 Rhinau
 Rho
@@ -32125,6 +32178,7 @@ Rohy
 Roiano-Gretta-Barcola-Cologna-Scorcola
 Roi Et Province
 Roio del Sangro
+Roisan
 Roja
 Rojetin
 Rojewo commune
@@ -32827,6 +32881,7 @@ Saint-Broladre
 Saint-Caradec-Tregomel
 Saint Catherine Parish
 Saint-Cergue
+Saint-Christophe
 Saint-Christophe-des-Bois
 Saint-Christophe-de-Valains
 Saint Clément
@@ -32958,12 +33013,14 @@ Saint-Meloir-des-Ondes
 Saint Nabor
 Saint-Nazaire
 Saint-Nic
+Saint-Nicolas
 Saint-Nicolas-du-Tertre
 Saint-Nolff
 Saint-Onen-la-Chapelle
 Saint Ouen
 Saint-Ouen-des-Alleux
 Saint-Ouen-la-Rouerie
+Saint-Oyen
 Saint-Oyens
 Saint-Pabu
 Saint Patrick Parish
@@ -32993,6 +33050,7 @@ Saint-Prex
 Saint-Quentin
 Saint-Remy-du-Plain
 Saint-Renan
+Saint-Rhémy-en-Bosses
 Saint-Rivoal
 Saint Sampson
 Saint-Saphorin
@@ -33021,6 +33079,7 @@ Saint-Tugdual
 Saint Ulrich
 Saint-Uniac
 Saint-Urbain
+Saint-Vincent
 Saint-Vincent-sur-Oust
 Saint-Vith
 Saint-Vougay
@@ -34228,6 +34287,7 @@ Sarpang
 Sarpsborg
 Sarpy County
 Sarracín
+Sarre
 Sarre-Union
 Sarrewerden
 Sarria
@@ -38864,6 +38924,7 @@ Töre locality
 Toretsk
 Torfaen
 Torgiano
+Torgnon
 Torgu Parish
 Torhout
 Toribío
@@ -40439,6 +40500,7 @@ Valganna
 Valgjärve Parish
 Valgoglio
 Valgreghentino
+Valgrinseche
 Valinhos
 Valjala Parish
 Valjevo
@@ -40525,9 +40587,11 @@ Valparaiso
 Valparaíso
 Valparaíso de Goiás
 Valparaíso Region
+Valpelline
 Val Rezzo
 Vals
 Valsamoggia
+Valsavarenche
 Valsequillo de Gran Canaria
 Valsolda
 Valsot
@@ -40539,6 +40603,7 @@ Valtierra
 Valtopina
 Valtorres
 Valtorta
+Valtournenche
 Valtrovice
 Valvarrone
 Valvasone Arzene
@@ -40997,6 +41062,8 @@ Vérossaz
 Verovany
 Verovice
 Verran
+Verrayes
+Verrès
 Verretto
 Verrua Po
 Versalles
