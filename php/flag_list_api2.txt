@@ -3,6 +3,7 @@
 's-Gravenpolder
 's-Heer Abtskerke
 's-Heer Arendskerke
+'s-Heerenberg
 's-Heerenhoek
 's-Heer Hendrikskinderen
 't Zandt
@@ -159,6 +160,7 @@ Acquaviva Collecroce
 Acquaviva d'Isernia
 Acquaviva delle Fonti
 Acquaviva Picena
+Acquoy
 Acre
 Acrelândia
 Acreúna
@@ -683,6 +685,7 @@ Aleksandrow Kujawski commune
 Aleksandrow Lodzki commune
 Alekseevskoye
 Aleksinac
+Alem
 Alenquer
 Alert
 Aleskee-Tenginskoye
@@ -1098,6 +1101,7 @@ Amman
 Ammerland District
 Ammerschwihr
 Ammerswil
+Ammerzoden
 Amnat Charoen Province
 Am Ohmberg
 Amorebieta-Etxano
@@ -1225,6 +1229,7 @@ Angelroda
 Anger
 Angera
 Angerberg
+Angerlo
 Angern an der March
 Angers
 Angiari
@@ -1393,6 +1398,7 @@ Apostolove District
 Appanoose County
 Äppelbo locality
 Appelscha
+Appeltern
 Appenrode
 Appenwihr
 Appenzell
@@ -1881,6 +1887,7 @@ Aspang-Markt
 Asparn an der Zaya
 Aspásia
 Aspen
+Asperen
 Asperhofen
 Aspern
 Aspindza
@@ -2360,6 +2367,7 @@ Bahía Blanca
 Bahía Blanca Department
 Bahía Solano
 Bahoruco Province
+Bahr
 Bahsili
 Baião
 Baie-D’Urfé
@@ -2839,6 +2847,7 @@ Batang Regency
 Batatais
 Bataysk
 Batelov
+Batenburg
 Baterno
 Bates County
 Batesville
@@ -3036,6 +3045,7 @@ Beerse
 Beersel
 Beersheba
 Beerta
+Beesd
 Beesel
 Beetebuerg
 Beets
@@ -3215,6 +3225,7 @@ Belsk Duzy commune
 Beltinci
 Beltrami County
 Beltrán
+Beltrum
 Belu Regency
 Belusice
 Belvaros-Lipotvaros District
@@ -3225,6 +3236,7 @@ Belzec commune
 Belzyce commune
 Bema
 Bemelen
+Bemmel
 Bemowo
 Benahadux
 Benalla
@@ -3279,6 +3291,7 @@ Benjamin Constant
 Benjamín Hill
 Benken
 Bennebroek
+Bennekom
 Bennett County
 Benningen
 Bennington
@@ -3364,6 +3377,7 @@ Bergen County
 Berg en Dal
 Bergen Op Zoom
 Bergern im Dunkelsteinerwald
+Bergharen
 Bergheim
 Bergholtz
 Bergholtzzell
@@ -3543,6 +3557,7 @@ Beuda
 Beuningen
 Beuren
 Beurnevésin
+Beusichem
 Beuzec-Cap-Sizun
 Bevagna
 Bevaix
@@ -4385,6 +4400,7 @@ Borba
 Borborema
 Borca di Cadore
 Borcka
+Borculo
 Bordano
 Bordeaux
 Börde District
@@ -4797,6 +4813,7 @@ Brecqhou
 Breda
 Breda di Piave
 Bredene
+Bredevoort
 Bree
 Breede Valley
 Bregaglia
@@ -5463,6 +5480,7 @@ Buturlinovka
 Buturlinovsky District
 Buturlinsky District
 Butyrsky District
+Buurmalsen
 Buus
 Buxheim in Schwaben
 Buxton
@@ -9188,6 +9206,7 @@ De Hoeve
 Dehradun
 Dehylov
 Déifferdeng
+Deil
 Deinze
 Deir al-Asad
 Deir Hanna
@@ -9386,6 +9405,7 @@ Dickenson County
 Dickey County
 Dickinson County
 Dickson County
+Didam
 Diddeleng
 Didenheim
 Didim
@@ -9474,6 +9494,7 @@ Dinskoy District
 Dinslaken
 Dintikon
 Dinwiddie County
+Dinxperlo
 Dion-Olympos
 Dipaleseng
 Dipolog
@@ -9666,6 +9687,7 @@ Dobrzyn nad Wisla commune
 Dobsice
 Doddridge County
 Döderhult District
+Dodewaard
 Dodge City
 Dodge County
 Dodonis
@@ -9859,6 +9881,9 @@ Dooly County
 Doomadgee
 Door County
 Doorn
+Doornenburg
+Doornspijk
+Doorwerth
 Doppelschwand
 Dopshari
 Dorado
@@ -10005,6 +10030,7 @@ Dresano
 Dresden
 Dresin
 Dretovice
+Dreumel
 Drevcice
 Drevenice
 Drevniky
@@ -10397,6 +10423,7 @@ Echizen (town)
 Echols County
 Echsenbach
 Echt
+Echteld
 Echt-Susteren
 Eckartsau
 Eckartswiller
@@ -10520,6 +10547,7 @@ Ehrendingen
 Ehrenhain
 Ehrwald
 Eibar
+Eibergen
 Eibiswald
 Eich
 Eichberg
@@ -10628,6 +10656,7 @@ El Cocuy
 El Cogul
 El Colegio
 El Copey
+Elden
 Eldiginskoye
 Eldivan
 Eldon
@@ -10776,6 +10805,7 @@ Elsmore
 El Soleràs
 Els Omells de na Gaià
 Els Pallaresos
+Elst
 El Tablon
 El Tambo
 El Tarra
@@ -10903,6 +10933,7 @@ Enschede
 Ensenada
 Ensenada Department
 Ensisheim
+Enspijk
 Enterprise
 Entlebuch
 Entratico
@@ -11224,6 +11255,7 @@ Evrese
 Évreux
 Evriguet
 Ewa District
+Ewijk
 Exaltación de la Cruz Department
 Excel
 Excelsior
@@ -12324,6 +12356,7 @@ Gambo
 Gambolò
 Gambsheim
 Gambugliano
+Gameren
 Gameti
 Gámeza
 Gaming
@@ -12528,6 +12561,7 @@ Geel
 Geelong
 Geersdijk
 Geertruidenberg
+Geesteren
 Geetbets
 Gegharkunik Province
 Gehlberg
@@ -12552,6 +12586,7 @@ Gelgaudiškis
 Gelibolu
 Gelida
 Geling
+Gellicum
 Gelsenkirchen
 Gelterkinden
 Geltwil
@@ -12568,6 +12603,8 @@ Gempenach
 Genappe
 Génave
 Gence
+Gendringen
+Gendt
 Genemuiden
 General Belgrano Department
 General Cepeda
@@ -13117,6 +13154,7 @@ Gorozhanskoye
 Gorredijk
 Gorskoye
 Gorsleben
+Gorssel
 Goryachy Klyuch
 Gorzkow commune
 Gorzkowice commune
@@ -13517,6 +13555,9 @@ Grodzisk Mazowiecki commune
 Grodzisk Mazowiecki County
 Grodzisk Wielkopolski County
 Groede
+Groenlo
+Groesbeek
+Groessen
 Groet
 Grojec commune
 Grojec County
@@ -13949,6 +13990,7 @@ Haa
 Haabersti
 Haacht
 Häädemeeste Parish
+Haaften
 Haag
 Haakon County
 Haaksbergen
@@ -14314,6 +14356,7 @@ Harrow
 Härryda
 Harry Gwala
 Harsewinkel
+Harskamp
 Harskirchen
 Harstad
 Hart
@@ -14497,6 +14540,7 @@ Heby
 Hechtel-Eksel
 Hecken
 Hede-Bazouges
+Hedel
 Hedemora
 Hedemora locality
 Hedesunda locality
@@ -14510,6 +14554,7 @@ Heemstede
 Heer
 Heerde
 Heerenveen
+Heerewaarden
 Heerhugowaard
 Heerlen
 Heers
@@ -14601,6 +14646,7 @@ Hemel Hempstead
 Hemet
 Hemiksem
 Hemishofen
+Hemmen
 Hemmiken
 Hemne
 Hemnes
@@ -14736,6 +14782,7 @@ Hertsa District
 Hertsmere
 Hervás
 Herve
+Herwijnen
 Herzebrock-Clarholz
 Herzegovina-Neretva Canton
 Herzele
@@ -14750,11 +14797,13 @@ Hessen
 Hessenheim
 Hessequa
 Het Bildt
+Heteren
 Hettenschlag
 Hettinger County
 Hettlingen
 Hetzendorf
 Heugraben
+Heukelum
 Heukewalde
 Heumen
 Heusden
@@ -15045,6 +15094,7 @@ Hoenkoop
 Hoensbroek
 Hoerdt
 Hoeselt
+Hoevelaken
 Hof
 Hof am Leithaberge
 Hofamt Priel
@@ -15169,6 +15219,7 @@ Homer
 Homestead
 Homiel
 Homiel Region
+Homoet
 Homole
 Homole u Panny
 Honau
@@ -15362,6 +15413,7 @@ Horsham
 Horsice
 Horska Kvilda
 Horsovsky Tyn
+Horssen
 Horst
 Horst aan de Maas
 Horta
@@ -15572,6 +15624,7 @@ Huétor Vega
 Hughes County
 Huila Department
 Huins-Lions
+Huissen
 Huittinen
 Huizen
 Huizum
@@ -15643,6 +15696,7 @@ Huron County
 Hurtigheim
 Hurum
 Hurunui District
+Hurwenen
 Hury
 Hurzuf
 Husby locality
@@ -15821,6 +15875,7 @@ Ijsselmuiden
 IJsselstein
 Ijuw District
 Ijzendijke
+IJzendoorn
 Ikaalinen
 Ikamatua
 Ikaruga
@@ -17821,9 +17876,11 @@ Kergrist
 Kerguelen
 Kericho County
 Kerikeri
+Kerkdriel
 Kerken
 Kerkrade
 Kerkwerve
+Kerkwijk
 Kerkyra
 Kerlaz
 Kerlouan
@@ -17858,6 +17915,7 @@ Kesseldorf
 Kesswil
 Kestel
 Kestenholz
+Kesteren
 Kestrany
 Keszthely District
 Ketchikan
@@ -19589,6 +19647,7 @@ Laa an der Thaya
 Laab im Walde
 La Acebeda
 La Adrada
+Laag-Keppel
 Laakdal
 La Aldea de San Nicolás
 La Aldehuela
@@ -20425,6 +20484,7 @@ Ledce
 Ledcice
 Lede
 Ledec nad Sazavou
+Lede en Oudewaard
 Ledegem
 Ledenice
 Lederhose
@@ -20758,6 +20818,7 @@ Leutenheim
 Leutschach an der Weinstrasse
 Leutwil
 Leuven
+Leuvenum
 Leuze-en-Hainaut
 Levant
 Levashovo
@@ -20886,6 +20947,7 @@ Lichtenegg
 Lichtenfels District
 Lichtensteig
 Lichtental
+Lichtenvoorde
 Lichtenwörth
 Lichtervelde
 Liciborice
@@ -20914,6 +20976,7 @@ Liège (city)
 Lieĺčycy
 Lielvarde
 Lienchiang County
+Lienden
 Liendo
 Lienz
 Lienz District
@@ -21292,6 +21355,7 @@ Lodzkie Voivodeship
 Lodz Wschodnia County
 Loeches
 Loei Province
+Loenen
 Loenersloot
 Lofa County
 Lofer
@@ -21320,6 +21384,7 @@ Lohr
 Lohusuu Parish
 Loiano
 Loich
+Loil
 Loimaa
 Loipersbach im Burgenland
 Loipersdorf bei Fürstenfeld
@@ -21779,6 +21844,7 @@ Lungern
 Lungnyi
 Luniniec
 Lunner
+Lunteren
 Lunyevskoye
 Lunz am See
 Luoke
@@ -21930,6 +21996,7 @@ Maarn
 Maarssen
 Maarsseveen
 Maartensdijk
+Maasbommel
 Maasbracht
 Maasbree
 Maasdriel
@@ -22974,6 +23041,7 @@ Mauraz
 Maure-de-Bretagne
 Mauren
 Mauricie
+Maurik
 Mauriti
 Mauron
 Maury County
@@ -23413,6 +23481,7 @@ Metamorfosi
 Metap
 Metcalfe County
 Metchosin District
+Meteren
 Methuen
 Methven
 Metlaoui
@@ -23694,6 +23763,7 @@ Miller County
 Millerovo
 Millerovsky District
 Millers Flat
+Millingen aan de Rijn
 Millington
 Millinocket
 Millis
@@ -25541,6 +25611,7 @@ Nedre Eiker
 Nedryhailiv District
 Nedvedice
 Nedvezi
+Neede
 Needham
 Ñeembucú Department
 Neer
@@ -25674,6 +25745,7 @@ Netishyn
 Netivot
 Netretić 
 Nett
+Netterden
 Nettersheim
 Nett Lake Indian Reservation
 Neubau
@@ -25990,6 +26062,7 @@ Nieuwstadt
 Nieuwvliet
 Nièvre
 Niffer
+Niftrik
 Nigadoo
 Nigde
 Nigde Province
@@ -26007,6 +26080,7 @@ Niikappu
 Niimi
 Niiza
 Nij Beets
+Nijbroek
 Nijega
 Nijeholtpade
 Nijeveen
@@ -27469,6 +27543,7 @@ Opera
 Opfenbach
 Opfikon
 Opglabbeek
+Ophemert
 Ophir
 Opi
 Opinogora Gorna commune
@@ -28036,6 +28111,7 @@ Ovansjö District
 Ovar
 Ovaro
 Ovcary
+Overasselt
 Overberg
 Overbetuwe
 Overhalla
@@ -28347,6 +28423,7 @@ Panipat
 Panjshir Province
 Pankow
 Panmure
+Pannerden
 Panni
 Pannonhalma District
 Panola County
@@ -29667,6 +29744,7 @@ Podulsi
 Podunavlje District
 Podveky
 Podvelka
+Poederoijen
 Poggersdorf
 Poggiardo
 Poggiodomo
@@ -31748,6 +31826,7 @@ Rhein-Sieg District
 Rhêmes-Notre-Dame
 Rhêmes-Saint-Georges
 Rhenen
+Rhenoy
 Rhinau
 Rho
 Rhode Island
@@ -32419,6 +32498,7 @@ Rossleben
 Rossosh
 Rossoshansky District
 Rossosz commune
+Rossum
 Rosteig
 Rosteni
 Rostenice-Zvonovice
@@ -32639,6 +32719,7 @@ Rümlingen
 Rumo
 Rumoi
 Rumoi subprefecture
+Rumpt
 Rumsiskes
 Rumst
 Runavík
@@ -32699,6 +32780,7 @@ Rutland
 Rutland County
 Rutten
 Rüttenen
+Ruurlo
 Ruvo di Puglia
 Ruweng
 Ruza
@@ -34498,6 +34580,7 @@ Schalkwijk
 Schandorf
 S-chanf
 Schänis
+Schans
 Scharans
 Schardam
 Schärding District
@@ -36856,6 +36939,7 @@ Stedum
 Steeg
 Steele County
 Steenbergen
+Steenderen
 Steenokkerzeel
 Steenwijk
 Steenwijkerland
@@ -38426,6 +38510,7 @@ Teplysovice
 Te Puke
 Tequila
 Teramo
+Terborg
 Terebovlia
 Terebovlia District
 Terekeka
@@ -39380,6 +39465,7 @@ Tribrichy
 Tricase
 Tricesimo
 Trichiana
+Tricht
 Tri Dvory
 Trieben
 Triebes
@@ -39811,6 +39897,7 @@ Tvrdonice
 Tvøroyri
 Twardogora commune
 Tweed
+Twello
 Tweng
 Twenterand
 Twentynine Palms
@@ -39881,6 +39968,7 @@ Ubalá
 Ubaque
 Ubaté
 Ubatuba
+Ubbergen
 Ube
 Übelbach
 Uberaba
@@ -40422,6 +40510,7 @@ Uzwil
 Uzyn
 Va'a-o-Fonoti District
 Vaals
+Vaassen
 Väätsa Parish
 Vabalninkas
 Vacallo
@@ -40479,6 +40568,7 @@ Val Brembilla
 Valbrembo
 Valbrona
 Valbroye
+Valburg
 Vâlcea County
 Valchi Dol
 Valchov
@@ -40752,6 +40842,7 @@ Vårgårda
 Vargas
 Vargem Grande do Sul
 Vargem Grande Paulista
+Varik
 Varjota
 Varkaus
 Varkava
@@ -41894,11 +41985,13 @@ Vonoklasy
 Von Ormy
 Voorschoten
 Voorst
+Voorthuizen
 Vopnafjörður
 Voranava
 Vorarlberg
 Vorau
 Vordemwald
+Vorden
 Vorderhornbach
 Vordernberg
 Vorderthal
@@ -42056,6 +42149,7 @@ Vulkaneifel District
 Vulliens
 Vullierens
 Vully-les-Lacs
+Vuren
 Vuzenica
 Vvedensky
 Vyalkovskoye
@@ -42129,6 +42223,7 @@ Waal
 Waalre
 Waalwijk
 Waarde
+Waardenburg
 Waarschoot
 Waasmunster
 Waaxens
@@ -42148,6 +42243,7 @@ Waddington
 Waddinxveen
 Wade
 Wadena County
+Wadenoijen
 Wädenswil
 Wadestown
 Wadomari
@@ -42332,6 +42428,7 @@ Waltrop
 Walvis Bay
 Walworth County
 Walzenhausen
+Wamel
 Wanaka
 Wan Chai District
 Wandering
@@ -42510,6 +42607,7 @@ Wegorzyno commune
 Wegrow
 Wegrow County
 Wegscheid
+Wehl
 Wehnde
 Weiach
 Weichselbaum
@@ -43957,6 +44055,7 @@ Zeballos
 Zebbug
 Zebrak
 Zeccone
+Zeddam
 Zedelgem
 Zederhaus
 Zederik
@@ -44004,6 +44103,7 @@ Zelezne
 Zeleznice
 Železniki
 Zelezny Brod
+Zelhem
 Želino
 Zeliv
 Zelizy
@@ -44239,6 +44339,7 @@ Zöblen
 Zocca
 Žodzina
 Zoebersdorf
+Zoelen
 Zoersel
 Zoetermeer
 Zoeterwoude
@@ -44303,6 +44404,7 @@ Zuid-Scharwoude
 Zuidwolde
 Zuidzande
 Zuienkerke
+Zuilichem
 Zukowice commune
 Zulia
 Zullwil
