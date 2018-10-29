@@ -61,6 +61,7 @@ Abbekerk
 Abbeville
 Abbeville County
 Abbiategrasso
+Abbot
 Abbotsford
 Abcoude
 Abdera
@@ -694,6 +695,7 @@ Alessano
 Ålesund
 Aleutians East Borough
 Aleutsky District
+Alexander
 Alexander County
 Alexandra
 Alexandreia
@@ -842,6 +844,7 @@ Almonte
 Almopia
 Almuñécar
 Almyros
+Alna
 Alo
 Aloândia
 Alofi
@@ -1151,6 +1154,7 @@ Anapoima
 Anápolis
 Añasco
 Anastasievskoye
+Anatoliki Makedonia - Thraki
 Ancarano
 Ancash Region
 Anchorage
@@ -1735,6 +1739,7 @@ Arrondissement Strasbourg
 Arrondissement Thann-Guebwiller
 Arrondissement Vannes
 Arrone
+Arrowsic
 Arrowtown
 Arroyo
 Arroyo del Ojanco
@@ -1962,6 +1967,7 @@ Atikokan
 Átil
 Atiu
 Atkaracalar
+Atkinson
 Atkinson County
 Atlanta
 Atlantic City
@@ -1985,8 +1991,8 @@ Attard
 Attelwil
 Attenschwiller
 Attert
-Attica
 Attigliano
+Attiki
 Attimis
 Attinghausen
 Attleboro
@@ -2377,6 +2383,7 @@ Baijum
 Baildon
 Bailén
 Bailey County
+Baileyville
 Baille
 Bainbridge
 Bain-de-Bretagne
@@ -2683,6 +2690,7 @@ Barima-Waini
 Barinas
 Barinas (city)
 Baringo County
+Baring Plantation
 Bariri
 Barisciano
 Barkhamsted
@@ -2969,6 +2977,7 @@ Be'er Ya'akov
 Beacon Falls
 Beaconsfield
 Beadle County
+Beals
 Bear Lake County
 Beas
 Beasain
@@ -2985,6 +2994,7 @@ Beauregard Parish
 Beauvechain
 Beaver
 Beaver County
+Beaver Cove
 Beaverhead County
 Beaverlodge
 Beaver River
@@ -3010,6 +3020,7 @@ Becov
 Becov nad Teplou
 Becvary
 Bedano
+Beddington
 Bedee
 Bedekovčina
 Bedenica
@@ -4385,6 +4396,8 @@ Boom
 Boone County
 Boortmeerbeek
 Boos in Schwaben
+Boothbay
+Boothbay Harbor
 Bootzheim
 Boppelsen
 Boquerón Department
@@ -4631,7 +4644,10 @@ Bovisio Masciago
 Bovolenta
 Bovolone
 Bowden
+Bowdoin
+Bowdoinham
 Bowen Island
+Bowerbank
 Bowie
 Bowie County
 Bow Island
@@ -5066,6 +5082,7 @@ Brown County
 Brownfield
 Browning
 Browns Bay
+Brownville
 Broxbourne
 Broxtowe
 Broye
@@ -6361,6 +6378,7 @@ Carpineto della Nora
 Carpineto Sinello
 Carpino
 Carpinone
+Carrabassett Valley
 Carrathool
 Carrazeda de Ansiães
 Carrè
@@ -6904,13 +6922,11 @@ Central Desert
 Central District
 Central Falls
 Central Goldfields
-Central Greece
 Central Hawke's Bay District
 Central Highlands
 Centralia
 Central Karoo
 Central Kootenay Regional District
-Central Macedonia
 Central Okanagan Regional District
 Central Otago District
 Central Province
@@ -7362,6 +7378,7 @@ Cherokee County
 Cherokee Nation
 Cherrueix
 Cherry County
+Cherryfield
 Chertanovo Severnoye District
 Chertanovo Tsentralnoye District
 Chertanovo Yuzhnoye District
@@ -7391,6 +7408,7 @@ Chesterfield County
 Chesterfield Inlet
 Chestermere
 Chestertown
+Chesterville
 Chetopa
 Chetumal
 Chetwynd District
@@ -8071,6 +8089,7 @@ Codington County
 Codognè
 Codogno
 Codroipo
+Codyville Plantation
 Coelemu
 Coesfeld District
 Coesmes
@@ -8206,6 +8225,7 @@ Colroy-la-Roche
 Colturano
 Columbia
 Columbia County
+Columbia Falls
 Columbiana County
 Columbia-Shuswap Regional District
 Columbus
@@ -8344,6 +8364,7 @@ Coolgardie
 Coomalie
 Coonamble
 Coon Rapids
+Cooper
 Cooper City
 Cooper County
 Coopersville
@@ -8669,6 +8690,7 @@ Craven
 Craven County
 Cravinhos
 Cravo Norte
+Crawford
 Crawford County
 Crawinkel
 Crawley
@@ -8700,7 +8722,6 @@ Crespino
 Crespos
 Cressier
 Crésuz
-Crete
 Creuse
 Crevalcore
 Crevin
@@ -8890,6 +8911,7 @@ Cusino
 Cusio
 Custer County
 Cut Knife
+Cutler
 Cutler Bay
 Cutral Có
 Cutrofiano
@@ -9025,6 +9047,7 @@ Dalyan
 Daly City
 Daman and Diu
 Damanhur
+Damariscotta
 Damascus
 Damascus Governorate
 Dambach
@@ -9044,6 +9067,7 @@ Danbury
 Dandaragan
 Danderyd
 Dane County
+Danforth
 Dangchhu
 Dangolsheim
 Dangriga
@@ -9157,6 +9181,7 @@ Debica County
 De Bilt
 De Blesse-Peperga
 Deblin
+Deblois
 Debno commune
 Debowa Kloda commune
 Debowa Laka commune
@@ -9277,6 +9302,7 @@ Denizli Province
 Denmark
 Dennis
 Denno
+Dennysville
 Denpasar
 Densbüren
 Dent County
@@ -9963,6 +9989,7 @@ Douz
 Dovadola
 Dover
 Dovera
+Dover-Foxcroft
 Dovre
 Dowerin
 Downers Grove
@@ -10278,6 +10305,8 @@ Dymokury
 Dynin
 Dyrøy
 Dysina
+Dytiki Ellada
+Dytiki Makedonia
 Dyurtyuli
 Dyurtyulinsky District
 Dzaoudzi
@@ -10334,7 +10363,6 @@ Eastern Cape
 Eastern District
 Eastern Highlands Province
 Eastern Lakes
-Eastern Macedonia and Thrace
 Eastern Nile
 Eastern Province
 Eastern Region
@@ -10365,6 +10393,7 @@ East Lindsey
 East Longmeadow
 East Lothian
 East Lyme
+East Machias
 East Millinocket
 East New Britain Province
 East Northamptonshire
@@ -10456,6 +10485,7 @@ Ederswiler
 Edessa
 Edgar County
 Edgartown
+Edgecomb
 Edgecombe County
 Edgecumbe
 Edgefield County
@@ -10959,7 +10989,6 @@ Epfig
 Ephraim Mogale
 Épila
 Epiniac
-Epirus
 Epitaciolândia
 Eppenberg-Wöschnau
 Epping Forest
@@ -11230,6 +11259,7 @@ Eurobodalla
 Europa-Novacella
 Euskirchen
 Euskirchen District
+Eustis
 Evangeline Parish
 Evans
 Evans County
@@ -11994,6 +12024,7 @@ Frederikssund
 Fredonia
 Fredrikstad
 Freeborn County
+Freedom
 Freeport
 Free State
 Freestone County
@@ -13336,6 +13367,7 @@ Grand Haven
 Grand Isle
 Grand Isle County
 Grand Kru County
+Grand Lake Stream
 Grand Manan
 Grândola
 Grandola ed Uniti
@@ -14345,6 +14377,7 @@ Harpers Ferry
 Harplinge locality
 Harpswell
 Harrachov
+Harrington
 Harris
 Harrisburg
 Harris County
@@ -14823,6 +14856,7 @@ Heyworth
 Hialeah
 Hiaure
 Hiawatha
+Hibberts Gore
 Hibiscus and Bays Local Board
 Hibiscus Coast
 Hichiso
@@ -16127,13 +16161,13 @@ Inzinzac-Lochrist
 Ioannina
 Iola
 Ionia County
-Ionian Islands
 Iosco County
 Iowa
 Iowa County
 Ipameri
 Ipatinga
 Ipaussu
+Ipeiros
 Ipekyolu
 Iperó
 Ipeúna
@@ -16258,6 +16292,7 @@ Isle of Anglesey
 Isle of Portland
 Isle of Wight
 Isle of Wight County
+Islesboro
 Isles of Scilly
 Isleton
 Islington
@@ -16653,6 +16688,7 @@ Jawor
 Jawor County
 Jaworzno
 Jaworzyna Slaska commune
+Jay
 Jay County
 Jayena
 Jayuya
@@ -16673,6 +16709,7 @@ Jedousov
 Jedovnice
 Jedrzejow County
 Jeff Davis County
+Jefferson
 Jefferson City
 Jefferson County
 Jefferson Davis County
@@ -16896,7 +16933,9 @@ Jonava
 Jonava District Municipality
 Jondal
 Jonen
+Jonesboro
 Jones County
+Jonesport
 Jonglei
 Jonglenster
 Jongno District
@@ -17855,6 +17894,8 @@ Kent County
 Kent District
 Kentish
 Kenton County
+Kentriki Ellada
+Kentriki Makedonia
 Kentucky
 Kenzeg
 Keokuk County
@@ -18124,6 +18165,7 @@ King and Queen County
 Kingborough
 King County
 Kingersheim
+Kingfield
 Kingfisher County
 King George
 King George County
@@ -19185,6 +19227,7 @@ Kristianstad
 Kristiansund
 Kristiine
 Kristinehamn
+Kriti
 Kriukai
 Kriva Palanka
 Kriviandinskoye
@@ -20897,6 +20940,7 @@ Liberecky Region
 Liberia
 Liberk
 Libertador
+Liberty
 Liberty County
 Libertyville
 Libesice
@@ -21067,6 +21111,7 @@ Lincoln County
 Lincoln Department
 Lincoln Parish
 Lincolnshire
+Lincolnville
 Linda bei Weida
 Lindås
 Lindau
@@ -22037,6 +22082,8 @@ Machala
 Machelen
 Macherio
 Machetá
+Machias
+Machiasport
 Machico
 Machida
 Machiques
@@ -23162,6 +23209,7 @@ Meclov
 Meco
 Mecosta County
 Meda
+Meddybemps
 Mede
 Medea
 Medel (Lucmagn)
@@ -23726,6 +23774,7 @@ Milanowek commune
 Milas
 Milasin
 Milavce
+Milbridge
 Milbury
 Milcice
 Mildam
@@ -23772,6 +23821,7 @@ Millstatt am See
 Millville
 Millwater
 Milne Bay Province
+Milo
 Milonice
 Milonovice
 Milos
@@ -24272,6 +24322,7 @@ Mongua
 Monguelfo-Tesido
 Monguí
 Monguzzo
+Monhegan Plantation
 Monheim
 Mönichkirchen
 Moniga del Garda
@@ -24728,6 +24779,7 @@ Morozovsky District
 Morphou
 Morra
 Morrens
+Morrill
 Morrill County
 Morrinhos
 Morrinsville
@@ -25908,6 +25960,7 @@ Newport News
 New Providence
 Newry
 New Salem
+New Sharon
 New Shoreham
 New South Wales
 New Sweden
@@ -25916,6 +25969,7 @@ Newton
 Newton County
 Newtown
 New Valley Governorate
+New Vineyard
 New Westminster
 New-Wes-Valley
 New Windsor
@@ -26158,6 +26212,7 @@ Nishiokoppe
 Nishitokyo
 Nishiwaga
 Nishiwaki
+Nisia Ioniou
 Niska Banja
 Nisko County
 Nisovice
@@ -26223,6 +26278,7 @@ Noale
 Noarootsi Parish
 Nobeoka
 Nobitz
+Nobleboro
 Noble County
 Nobles County
 Noboribetsu
@@ -26350,7 +26406,6 @@ Norte de Santander Department
 Norte Grande
 Norte Pequeno
 North Adams
-North Aegean
 Northam
 Northampton
 Northampton County
@@ -26431,6 +26486,7 @@ North Norfolk
 North Okanagan Regional District
 North Ossetia-Alania
 North Pole
+Northport
 North Port
 North Providence
 North Pyongan Province
@@ -26490,6 +26546,7 @@ Nostang
 Nosy Be
 Notaresco
 Nothalten
+Notio Aigaio
 Noto
 Notodden
 Nötsch im Gailtal
@@ -28528,6 +28585,7 @@ Parkersburg
 Parkes
 Parkland
 Parkland County
+Parkman
 Parkovskoye
 Park Ridge
 Parksville
@@ -28818,7 +28876,7 @@ Pellegrini Department
 Pellegrino Parmense
 Pellizzano
 Pelluhue
-Peloponnese
+Peloponnisos
 Pelotas
 Pelugo
 Pemagatshel
@@ -29175,8 +29233,10 @@ Philadelphia
 Philadelphia County
 Philippeville
 Philippine
+Phillips
 Phillips County
 Phillipston
+Phippsburg
 Phitsanulok Province
 Phnom Penh
 Phobji
@@ -31387,6 +31447,7 @@ Råneå District
 Ranfurly
 Rangárþing eystra
 Rangárþing ytra
+Rangeley
 Rangen
 Rangersdorf
 Ranggen
@@ -32139,6 +32200,7 @@ Roane County
 Roanoke
 Roanoke County
 Robbiate
+Robbinston
 Robbio
 Robe
 Robecchetto con Induno
@@ -32419,6 +32481,7 @@ Roppenheim
 Roppentzwiller
 Ropraz
 Röpsen
+Roque Bluffs
 Roquetas de Mar
 Roraima
 Rorainopolis
@@ -33578,6 +33641,7 @@ San Genesio Atesino
 San Genesio ed Uniti
 San Germán
 San Gervasio Bresciano
+Sangerville
 San Giacomo degli Schiavoni
 San Giacomo delle Segnate
 San Giacomo Filippo
@@ -34803,6 +34867,8 @@ Sderot
 Sé
 Seacliff
 Searcy County
+Searsmont
+Searsport
 Seaside
 Seatoun
 Seat Pleasant
@@ -34810,6 +34876,7 @@ Seattle
 Sebago
 Sebastian County
 Sebastopol
+Sebec
 Seben
 Seberov
 Sebetov
@@ -36418,7 +36485,6 @@ Sousel
 Sousse
 Sousse Governorate
 Souss-Massa
-South Aegean
 Southampton
 Southampton County
 Southampton Parish
@@ -36428,6 +36494,7 @@ South Bend
 South Berwick
 Southborough
 Southbridge
+South Bristol
 South Brook
 South Bucks
 South Burnett
@@ -37025,6 +37092,7 @@ Stetten in Schwaben
 Stettfurt
 Stettler
 Stettler County
+Steuben
 Steuben County
 Steuerberg
 Stevenage
@@ -37072,6 +37140,7 @@ Stockholm County
 Stockport
 Stockton
 Stockton-on-Tees
+Stockton Springs
 Stoczek commune
 Stoczek Lukowski
 Stoczek Lukowski commune
@@ -37243,6 +37312,7 @@ Stromiec commune
 Strömstad
 Strömsund
 Stroncone
+Strong
 Stronie Slaskie commune
 Stronsdorf
 Stroossen
@@ -37753,6 +37823,7 @@ Swan Hill
 Swan Hills
 Swannanoa
 Swansea
+Swanville
 Swartland
 Sweden
 Sweet Grass County
@@ -38053,6 +38124,7 @@ Tallahassee
 Tallahatchie County
 Tallapoosa County
 Tallinn
+Talmadge
 Talmassons
 Talne
 Talne District
@@ -38449,6 +38521,7 @@ Temotu Province
 Tempe
 Tempelhof-Schöneberg
 Tempi
+Temple
 Temple City
 Temple Terrace
 Templeton
@@ -38678,8 +38751,8 @@ Thermaikos
 Thermi
 Therwil
 The Snares
+Thessalia
 Thessaloniki
-Thessaly
 Theux
 Thibodaux
 Thiene
@@ -38702,6 +38775,7 @@ Thorigne-Fouillard
 Thörl
 Thorn
 Thornbury
+Thorndike
 Thorndon
 Thorne Bay
 Thornton
@@ -39057,6 +39131,7 @@ Topolka commune
 Topolna
 Toprakkale
 Topsfield
+Topsham
 Topusko
 Torano Nuovo
 Torbali
@@ -40218,6 +40293,7 @@ Unión Panamericana
 Union Parish
 Unislaw commune
 United Nations Buffer Zone
+Unity
 University of Trieste
 University Park
 Unken
@@ -40782,6 +40858,7 @@ Van
 Van Buren
 Van Buren County
 Vance
+Vanceboro
 Vance County
 Vancouver
 Vandans
@@ -41996,6 +42073,7 @@ Vorderhornbach
 Vordernberg
 Vorderthal
 Voreia Kynouria
+Voreio Aigaio
 Vorkuta
 Vormsi Parish
 Vorobyovsky District
@@ -42327,6 +42405,7 @@ Waitakere Ward
 Waitaki District
 Waitara
 Waitati
+Waite
 Waitemata and Gulf Ward
 Waitemata Local Board
 Waitomo District
@@ -42378,6 +42457,8 @@ Waldighofen
 Wald im Pinzgau
 Waldkirch
 Waldkirchen an der Thaya
+Waldo
+Waldoboro
 Waldo County
 Waldolwisheim
 Waldronville
@@ -42661,6 +42742,7 @@ Weiz
 Weiz District
 Wejherowo County
 Wekweti
+Weld
 Weld County
 Wele-Nzas Province
 Welkenraedt
@@ -42725,6 +42807,7 @@ Wessem
 West Arnhem
 West Arthur
 West Bank
+West Bath
 West Baton Rouge Parish
 West Bay
 West Bengal
@@ -42757,10 +42840,8 @@ Western Australia
 Western Bay of Plenty District
 Western Cape
 Western Downs
-Western Greece
 Western Highlands Province
 Western Lakes
-Western Macedonia
 Western Nile
 Western Province
 Western Region
@@ -42826,6 +42907,7 @@ West Palm Beach
 West Paris
 West Pokot County
 Westport
+Westport Island
 West Rand
 West Somerset
 West-Souburg
@@ -42904,6 +42986,7 @@ Whitchurch-Stouffville
 Whitecliffs
 White County
 White Earth Indian Reservation
+Whitefield
 Whitehorse
 White Pine County
 White Rock
@@ -42912,9 +42995,11 @@ White Valley
 Whiteway
 Whitfield County
 Whitianga
+Whiting
 Whitley County
 Whitman
 Whitman County
+Whitneyville
 Whitsunday
 Whittlesea
 Whyalla
@@ -43048,6 +43133,7 @@ Williamsport
 Williamstown
 Willich
 Willige Langerak
+Willimantic
 Willington
 Willisau
 Willits
@@ -43120,6 +43206,7 @@ Winsum
 Winter Harbor
 Winterland
 Winter Park
+Winterport
 Winterrieden
 Wintersdorf
 Wintershouse
@@ -43140,6 +43227,7 @@ Wipperfürth
 Wirdum
 Wirral
 Wirt County
+Wiscasset
 Wisches
 Wisconsin
 Wise County
@@ -43285,6 +43373,7 @@ Woodville
 Woodward County
 Woody Point
 Woollahra
+Woolwich
 Woonsocket
 Woorabinda
 Worbis
