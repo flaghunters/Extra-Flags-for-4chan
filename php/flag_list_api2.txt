@@ -171,6 +171,7 @@ Acreúna
 Acton
 Acuña
 Acushnet
+Acworth
 Ada
 Adachi
 Ada County
@@ -802,6 +803,7 @@ Allendale County
 Allendale Township
 Allende
 Allen Parish
+Allenstown
 Allentown
 Allentsteig
 Aller
@@ -892,6 +894,7 @@ Al Sheehaniya Municipality
 Alsheyevsky District
 Alsip
 Alstahaug
+Alstead
 Alsunga
 Alta
 Altach
@@ -1601,6 +1604,7 @@ Argenta
 Argentario
 Argentine Antarctic Territory
 Argentona
+Argenton-sur-Creuse
 Argentre-du-Plessis
 Argeș County
 Argithea
@@ -1836,6 +1840,7 @@ Aschaffenburg District
 Aschau im Zillertal
 Aschbach
 Aschbach-Markt
+Ascheres-le-Marché
 Ascoli Piceno
 Ascoli Satriano
 Ascona
@@ -2004,6 +2009,7 @@ Attiki
 Attimis
 Attinghausen
 Attleboro
+Attray
 Atua District
 Åtvidaberg
 Atyrau
@@ -2050,6 +2056,8 @@ Aukra
 Auleben
 Auma
 Auma-Weidatal
+Auneau
+Auneau-Bleury-Saint-Symphorien
 Aura
 Aurach bei Kitzbühel
 Aurangabad
@@ -2077,6 +2085,7 @@ Austral Islands
 Austrheim
 Autauga County
 Autazes
+Authon-du-Perche
 Autigny
 Autilla del Pino
 Autlán de Navarro
@@ -2719,6 +2728,7 @@ Bärnkopf
 Barnsley
 Barnstable
 Barnstable County
+Barnstead
 Barnwell County
 Baron
 Barona Reservation
@@ -2771,6 +2781,7 @@ Bartholomäberg
 Bartholomew County
 Bartin
 Bartin Province
+Bartlett
 Bartniczka commune
 Bartninkai
 Barton County
@@ -2998,7 +3009,9 @@ Beaubassin East
 Beauce
 Beaufort County
 Beaufort West
+Beaugency
 Beaumont
+Beaumont-les-Autels
 Beauraing
 Beauregard Parish
 Beauvechain
@@ -4552,6 +4565,7 @@ Borzna
 Borzna District
 Borzya
 Bosaro
+Boscawen
 Boschi Sant'Anna
 Boschkapelle
 Bosco_Gurin
@@ -4660,6 +4674,7 @@ Bovino
 Bovisio Masciago
 Bovolenta
 Bovolone
+Bow
 Bowden
 Bowdoin
 Bowdoinham
@@ -5088,6 +5103,7 @@ Broomehill-Tambellup
 Broomfield
 Brotas
 Brot-Plamboz
+Brou
 Broualan
 Broumov
 Broumy
@@ -5238,6 +5254,7 @@ Bucksport
 Buckten
 Bucovice
 Bucuresti
+Bucy-le-Roi
 Buczek commune
 Budafok-Teteny District
 Buda-Kašaliova
@@ -5261,6 +5278,7 @@ Budrio
 Budva
 Budyne nad Ohri
 Budzow commune
+Bueil-en-Touraine
 Buenaventura
 Buenavista
 Buena Vista
@@ -5963,6 +5981,7 @@ Campospinoso
 Campotéjar
 Campotosto
 Campo Tures
+Campton
 Camrose
 Camrose County
 Camugnano
@@ -6002,6 +6021,7 @@ Candela
 Candelaria
 Candelária
 Candeleda
+Candia
 Candia Lomellina
 Candiana
 Cândido Mota
@@ -6405,6 +6425,7 @@ Carregal do Sal
 Carreño
 Carrillo
 Carrión de los Condes
+Carroll
 Carroll County
 Carrollton
 Carsamba
@@ -6905,6 +6926,7 @@ Celle District
 Celles
 Cellino Attanasio
 Cellino San Marco
+Celon
 Celorico da Beira
 Celorico de Basto
 Cembra Lisignago
@@ -6924,6 +6946,7 @@ Centar Župa
 Centelles
 Centenario
 Centennial
+Center Harbor
 Centerville
 Cento
 Centovalli
@@ -7180,6 +7203,7 @@ Chamartín
 Chambave
 Chambers County
 Chamblon
+Chambray-lès-Tours
 Cham District
 Chámeza
 Chamlykskaya
@@ -7254,6 +7278,9 @@ Charqueada
 Charrat
 Charsznica commune
 Charters Towers
+Chartres
+Chartres-1
+Chartres-2
 Chartres-de-Bretagne
 Charvatce
 Charvaty
@@ -7273,6 +7300,9 @@ Chateaugiron
 Chateaulin
 Chateauneuf-d'Ille-et-Vilaine
 Chateauneuf-du-Faou
+Château-Renault
+Châteauroux
+Châteauroux-1
 Châtelet
 Châtel-Saint-Denis
 Châtel-sur-Montsalvens
@@ -7294,6 +7324,7 @@ Chattooga County
 Chaudfontaine
 Chaudière-Appalaches
 Chaumont-Gistoux
+Chaumont-sur-Tharonne
 Chaunsky District
 Chautauqua County
 Chauvigne
@@ -7512,6 +7543,7 @@ Childress County
 Chilean Antarctic Territory
 Chillán
 Chillán Viejo
+Chilleurs-aux-Bois
 Chilliwack
 Chilmark
 Chiltern
@@ -7537,6 +7569,7 @@ Chinchón
 Chingola
 Chínipas
 Chino
+Chinon
 Chin State
 Chinú
 Chiny
@@ -8147,6 +8180,7 @@ Colchester County
 Cold Lake
 Coldrerio
 Coldstream District
+Colebrook
 Cole County
 Colegiales
 Coleman County
@@ -8783,6 +8817,7 @@ Cross County
 Crossfield
 Cross River State
 Crotta d'Adda
+Crottes-en-Pithiverais
 Croviana
 Crow Head
 Crow Indian Reservation
@@ -9332,6 +9367,7 @@ Dentergem
 Denton
 Denton County
 Denver
+Déols
 Deorali
 De Panne
 Dependencias Federales
@@ -9362,6 +9398,7 @@ De Rips
 Dernekpazari
 De Ronde Venen
 Derovere
+Derry
 Deruta
 Derventa municipality
 Dervio
@@ -10235,6 +10272,7 @@ Dumbleyung
 Dumbría
 Dumenza
 Dumfries and Galloway
+Dummer
 Dumont
 Dunaivtsi
 Dunaivtsi District
@@ -10242,6 +10280,7 @@ Dunakeszi District
 Dunaujvaros District
 Dunback
 Dunbar
+Dunbarton
 Duncan
 Dundaga
 Dundalk
@@ -10417,6 +10456,7 @@ East Hartford
 East Haven
 East Hertfordshire
 East Kazakhstan Region
+East Kingston
 East Kootenay Regional District
 East Lampeter Township
 Eastland County
@@ -10444,6 +10484,7 @@ East Sussex
 East Tamaki
 East Windsor
 Eastwood Ria
+Eaton
 Eaton County
 Eau Claire County
 Ebbs
@@ -10970,6 +11011,7 @@ Engelhartstetten
 Engels
 Engelskirchen
 Engenheiro Coelho
+Engenville
 Enger
 Engerdal
 Enges
@@ -11027,6 +11069,7 @@ Ephraim Mogale
 Epiniac
 Epitaciolândia
 Eppenberg-Wöschnau
+Epping
 Epping Forest
 Eppishausen
 Epsom
@@ -11111,6 +11154,7 @@ Errachidia Province
 Errenteria
 Erriberagoitia
 Errigoiti
+Errol
 Erschwil
 Ershausen
 Ershausen-Geismar
@@ -11159,6 +11203,7 @@ Eschwiller
 Escobedo
 Escondido
 Escorca
+Escrennes
 Escuinapa
 Escuinapa de Hidalgo
 Escuintla Department
@@ -11718,6 +11763,7 @@ Fiss
 Fitchburg
 Fitero
 Fitjar
+Fitzwilliam
 Fiumalbo
 Fiume Veneto
 Fiumicello Villa Vicentina
@@ -12011,6 +12057,7 @@ Francisco Morato
 Francisco Morazán Department
 Francistown
 Franco da Rocha
+Franconia
 Francova Lhota
 Franeker
 Franekeradeel
@@ -12558,6 +12605,7 @@ Gasselte
 Gastão Vidigal
 Gastern
 Gaston County
+Gasville-Oisème
 Gata
 Gatchina
 Gates County
@@ -12817,6 +12865,7 @@ Gibraleón
 Gibson County
 Gibsons
 Gidle commune
+Gidy
 Giebenach
 Giekerk
 Gielniow commune
@@ -12843,6 +12892,7 @@ Gildone
 Gildwiller
 Gilead
 Giles County
+Gilford
 Gilgandra
 Gilgit
 Gilgit-Baltistan
@@ -12854,9 +12904,11 @@ Gillette
 Gilliam County
 Gillingham
 Gilly
+Gilmanton
 Gilmer County
 Gilpin County
 Gilroy
+Gilsum
 Gilučiai
 Gilze en Rijen
 Gimel
@@ -13336,6 +13388,7 @@ Grabow nad Pilica commune
 Grabs
 Grabsleben
 Gracanica
+Graçay
 Grâce-Hollogne
 Grächen
 Gradara
@@ -13440,6 +13493,7 @@ Gränna locality
 Granollers
 Grant
 Grant County
+Grantham
 Grantola
 Grantorto
 Grant Parish
@@ -13521,6 +13575,7 @@ Greenfield
 Greenfield Township
 Greenhithe
 Green Lake County
+Greenland
 Greenlee County
 Green River
 Greensboro
@@ -14203,6 +14258,7 @@ Haldenstein
 Haldenwang im Allgäu
 Halderberge
 Haldimand County
+Hale's Location
 Hale County
 Halen
 Halenkov
@@ -14299,6 +14355,7 @@ Hampshire County
 Hampstead
 Hampton
 Hampton County
+Hampton Falls
 Hampton Poyle
 Hampton Terrace
 Hamr na Jezere
@@ -14433,6 +14490,7 @@ Harris County
 Harrison
 Harrisonburg
 Harrison County
+Harrisville
 Harrogate
 Harrow
 Härryda
@@ -14442,6 +14500,7 @@ Harskamp
 Harskirchen
 Harstad
 Hart
+Hart's Location
 Hart bei Graz
 Hartberg
 Hartberg-Fürstenfeld District
@@ -14769,6 +14828,7 @@ Hennebont
 Hennepin County
 Hennersdorf
 Henniez
+Henniker
 Henrico County
 Henry County
 Hensbroek
@@ -14987,6 +15047,7 @@ Hilden
 Hildesheim District
 Hildisrieden
 Hiley
+Hill
 Hill County
 Hille
 Hillegom
@@ -15252,6 +15313,7 @@ Holbrook
 Holcovice
 Holden
 Holderbank
+Holderness
 Holdfast Bay
 Hole
 Holedec
@@ -15343,6 +15405,7 @@ Hooglede
 Hoogstraten
 Hoogwoud
 Hooker County
+Hooksett
 Höör
 Hoorn
 Hopa
@@ -16029,6 +16092,7 @@ Illescas.PNG
 Illfurth
 Illgau
 Illhaeusern
+Illiers-Combray
 Illinois
 Illintsi
 Illintsi District
@@ -16154,6 +16218,7 @@ Inglewood
 Ingolsheim
 Ingolstadt
 Ingquza Hill
+Ingré
 Inguiniel
 Ingushetia
 Ingwe
@@ -16381,6 +16446,7 @@ Issenheim
 Issime
 Isso
 Issogne
+Issoudun
 Istanbul
 Istanbul Province
 Istmina
@@ -16597,6 +16663,7 @@ Jadeidi-Makr
 Jadow commune
 Jaén
 Jaffna
+Jaffrey
 Jagadhri
 Jagerberg
 Jägerzeile
@@ -17031,9 +17098,11 @@ Josipdol
 Joso
 Josselin
 Josvainiai
+Joué-lès-Tours
 Jouswier
 Joutsa
 Jouxtens-Mézery
+Jouy-le-Potier
 Jovençan
 Jowzjan Province
 Joyo
@@ -17872,6 +17941,7 @@ Kedzierzyn-Kozle
 Kedzierzyn-Kozle County
 Keel
 Keelung City
+Keene
 Keerbergen
 Keetmanshoop
 Kef
@@ -19824,6 +19894,7 @@ La Chapelle-des-Fougeretz
 La Chapelle-du-Lou-du-Lac
 La Chapelle-Janson
 La Chapelle-Neuve
+La Chapelle-Saint-Mesmin
 La Chapelle-Thouarault
 La Chappelle-Erbree
 Láchar
@@ -19851,6 +19922,7 @@ La Colilla
 La Colorada
 Lacombe
 Lacombe County
+Laconia
 Laconnex
 La Costa Department
 La Côte-aux-Fées
@@ -19888,6 +19960,7 @@ LaFayette
 Lafayette County
 Lafayette Parish
 La Febró
+La Ferté-Saint-Aubin
 La Feuillee
 La Floresta
 La Florida
@@ -20076,6 +20149,7 @@ Lamongan Regency
 Lamont
 La Montañita
 Lamont County
+Lamotte-Beuvron
 LaMoure County
 Lampa
 Lampang Province
@@ -20111,6 +20185,7 @@ Lanckorona commune
 Lancov
 Lancut County
 Lancy
+Landaff
 Landau
 Landaul
 Landavran
@@ -20158,6 +20233,7 @@ Langan
 Langau
 Langbroek
 Langchhenphu
+Langdon
 Langeberg
 Langedijk
 Langemark-Poelkapelle
@@ -20369,6 +20445,7 @@ Lasnamäe
 Las Navas del Marqués
 Lasne
 Lasnigo
+La Sologne
 La Sonnaz
 Las Palmas
 Las Palmas de Gran Canaria
@@ -20548,6 +20625,7 @@ Lebedyn
 Lebedyn District
 Le Bémont
 Lebesby
+Le Blanc
 Le Bonhomme
 Le Bono
 Lebork
@@ -20721,6 +20799,7 @@ Le Mont-sur-Lausanne
 Le Moule
 Le Mouret
 Lempäälä
+Lempster
 Lena
 Lenart
 Lenawee County
@@ -20942,6 +21021,7 @@ Lévis
 Le Vivier-sur-Mer
 Levoberezhny District
 Levoncourt
+Levroux
 Levski
 Levy County
 Lewes
@@ -21702,6 +21782,7 @@ Loucky
 Loucna nad Desnou
 Loucna pod Klinovcem
 Loucovice
+Loudon
 Loudon County
 Loudoun County
 Louisa County
@@ -21783,6 +21864,7 @@ Lozzo di Cadore
 Lsteni
 Luanda
 Luanda Province
+Luant
 Lubaczow County
 Luban
 Lubana
@@ -21894,6 +21976,7 @@ Luhanka
 Luhansk
 Luhansk Region
 Luhyny District
+Luigny
 Luino
 Luins
 Luisago
@@ -22187,6 +22270,7 @@ Madang Province
 Madarcos
 Madawaska
 Madawaska County
+Madbury
 Madeira
 Madenli
 Mäder
@@ -22308,6 +22392,7 @@ Maidstone
 Maienfeld
 Maierhöfen
 Mailberg
+Maillé
 Maimón
 Main Brook
 Maine
@@ -22442,6 +22527,7 @@ Malenice
 Malenovice
 Maleo
 Male Pritocno
+Malesherbes
 Malesov
 Malesovice
 Malestroit
@@ -22867,6 +22953,7 @@ Marlborough
 Marlborough District
 Marlengo
 Marlenheim
+Marlow
 Marly
 Marmara
 Marmaracik
@@ -23025,6 +23112,7 @@ Masku
 Maslianico
 Maslojedy
 Maslovice
+Mason
 Mason County
 Mason Vicentino
 Masovice
@@ -23039,6 +23127,7 @@ Massa Lombarda
 Massa Martana
 Massandra
 Massanzago
+Massay
 Masserberg
 Massey
 Massey Drive
@@ -23349,6 +23438,7 @@ Megliadino San Vitale
 Megrine
 Meguro
 Mehedinți County
+Mehun-sur-Yèvre
 Meidling District
 Meierijstad
 Meierskappel
@@ -23504,6 +23594,8 @@ Mercer County
 Merchanskoye
 Merchtem
 Mercier–Hochelaga-Maisonneuve
+Méreau
+Meredith
 Merefa
 Merelbeke
 Meremäe Parish
@@ -23647,6 +23739,7 @@ Metzeral
 Metzerlen
 Meucon
 Meulebeke
+Meung-sur-Loire
 Meurthe-et-Moselle
 Meuse
 Meuselwitz
@@ -23793,6 +23886,7 @@ Miera
 Mieres
 Mierlo
 Mierlo-Hout
+Miermaigne
 Mieroszow commune
 Miersch
 Miersch Canton
@@ -23844,6 +23938,7 @@ Milagres
 Milagro
 Milagros
 Milam County
+Milan
 Milán
 Milano
 Milanow commune
@@ -24418,6 +24513,7 @@ Monkton
 Monmouth
 Monmouth County
 Monmouthshire
+Monnaie
 Monnerech
 Monnickendam
 Monno
@@ -24647,6 +24743,8 @@ Monticello
 Monticello Brianza
 Monticello Conte Otto
 Montichiari
+Montigny
+Montigny-le-Chartif
 Montigny-le-Tilleul
 Montijo
 Montillana
@@ -24655,6 +24753,7 @@ Montirone
 Montizón
 Montjovet
 Mont-la-Ville
+Montlouis-sur-Loire
 Montmajor
 Montmartre
 Montmeló
@@ -24691,6 +24790,7 @@ Mont-roig del Camp
 Montrose
 Montrose County
 Mont-Royal
+Monts
 Mont-Saint-Guibert
 Montserrado County
 Montserrat
@@ -24970,6 +25070,7 @@ Moudon
 Moulares
 Moulay Yacoub Province
 Moulins
+Moultonborough
 Moultrie County
 Mound City
 Mound Valley
@@ -25908,6 +26009,7 @@ Neuhaus am Klausenbach
 Neuhausen am Rheinfall
 Neuheim
 Neuhofen an der Ybbs
+Neuillé-Pont-Pierre
 Neukirchen am Grossvenediger
 Neukölln
 Neulengbach
@@ -25947,7 +26049,9 @@ Neustift-Innermanzing
 Neutal
 Neu-Ulm District
 Neuve-Eglise
+Neuville-aux-Bois
 Neuviller-la-Roche
+Neuvy-le-Roi
 Neuwaldegg
 Neuwied District
 Neuwiller
@@ -25994,20 +26098,24 @@ New Canaan
 New Canada
 New Carrollton
 Newcastle
+New Castle
 New Castle County
 Newcastle-under-Lyme
 Newcastle-upon-Tyne
 Newcombe
+New Durham
 Newell County
 New England North West
 New Fairfield
 Newfield
+Newfields
 New Forest
 Newfoundland
 Newfoundland and Labrador
 New Gloucester
 Newham
 New Hampshire
+New Hampton
 New Hanover County
 New Hartford
 New Haven
@@ -26382,6 +26490,7 @@ Nogarole Rocca
 Nogarole Vicentino
 Nogata
 Nogaysky District
+Nogent-le-Rotrou
 Nogi
 Noginsk
 Noginsky District
@@ -26550,6 +26659,7 @@ Northern Territory
 Northfield
 North Governorate
 North Hamgyong Province
+North Hampton
 North Haven
 North Hempstead
 North Hertfordshire
@@ -26600,6 +26710,7 @@ North-Western Administrative Area
 North Western Province
 North West River
 Northwest Territories
+Northwood
 North Yarmouth
 North Yorkshire
 Norton
@@ -26639,6 +26750,8 @@ Nottleben
 Nottoway County
 Nottwil
 Nouaceur Province
+Nouan-le-Fuzelier
+Nouâtre
 Nouméa
 Noumer
 Nousiainen
@@ -27505,6 +27618,7 @@ Oliveira do Hospital
 Olivenza
 Oliver
 Oliver County
+Olivet
 Oliveto Lario
 Olivia Gessi
 Olkhovatka
@@ -27787,6 +27901,7 @@ Orestida
 Orewa
 Orexa
 Oreye
+Orford
 Organyà
 Orgeres
 Orges
@@ -27827,6 +27942,7 @@ Orland Township
 Orle
 Orleans
 Orléans
+Orléans-3
 Orleans County
 Orleans Parish
 Orlicke Podhuri
@@ -28018,6 +28134,7 @@ Ossenisse
 Ossiach
 Ossimo
 Ossingen
+Ossipee
 Ossona
 Ostalb District
 Ostallgäu District
@@ -28640,6 +28757,7 @@ Paratebueno
 Paratico
 Parauapebas
 Parbasdorf
+Parçay-Meslay
 Parce
 Parcines
 Parczew commune
@@ -28687,6 +28805,7 @@ Parlasco
 Parlavà
 Parma
 Parmer County
+Parnac
 Parnassus
 Parndorf
 Parnell
@@ -29409,6 +29528,7 @@ Piendamó
 Piensk commune
 Pieranica
 Pierce County
+Piermont
 Pierrafortscha
 Pierre
 Pierrefonds-Roxboro
@@ -29588,6 +29708,8 @@ Piszczac commune
 Pital
 Pitalito
 Piteå
+Pithiviers
+Pithiviers-le-Vieil
 Piti
 Pitin
 Pitiquito
@@ -29641,6 +29763,7 @@ Plainfeld
 Plainfield
 Plainfield Township
 Plainville
+Plaistow
 Plana
 Planaltina
 Planaltino
@@ -32143,6 +32266,7 @@ Rincón
 Rinconada
 Rincón de Soto
 Rindal
+Rindge
 Ringebu
 Ringeldorf
 Ringelsdorf-Niederabsdorf
@@ -32494,6 +32618,7 @@ Rolla
 Rollag
 Rolle
 Rolleston
+Rollinsford
 Rolo
 Roma
 Romagne
@@ -32524,6 +32649,7 @@ Romny
 Romny District
 Romont
 Romoos
+Romorantin-Lanthenay
 Ronago
 Roncà
 Roncade
@@ -32732,6 +32858,7 @@ Rousmerov
 Rouspert
 Routt County
 Rouvroy
+Rouziers-de-Touraine
 Rovaniemi
 Rovato
 Rovellasca
@@ -32877,6 +33004,7 @@ Rumford
 Rümikon
 Rümlang
 Rümlingen
+Rumney
 Rumo
 Rumoi
 Rumoi subprefecture
@@ -32975,6 +33103,7 @@ Rychnov na Morave
 Rychnov u Jablonce nad Nisou
 Rychvald
 Ryde
+Rye
 Ryedale
 Rygge
 Ryglice
@@ -33159,6 +33288,7 @@ Saint-Aubin-des-Landes
 Saint-Aubin-du-Cormier
 Saint-Aubin-Sauges
 Saint-Ave
+Saint-Avertin
 Saint-Barthelemy
 Saint-Barthélemy
 Saint-Benoît
@@ -33178,6 +33308,7 @@ Saint-Cergue
 Saint-Christophe
 Saint-Christophe-des-Bois
 Saint-Christophe-de-Valains
+Saint-Christophe-sur-le-Nais
 Saint Clément
 Saint-Congard
 Saint Cosme
@@ -33205,7 +33336,9 @@ Saint-Eloy
 Sainte-Marie
 Sainte-Marie-aux-Mines
 Sainte-Marie-Saint-Raphaël
+Sainte-Maure-de-Touraine
 Sainte-Ode
+Saint-Épain
 Saint-Erblon
 Sainte-Rose
 Sainte-Seve
@@ -33213,6 +33346,7 @@ Saint-Étienne
 Saint-Evarzec
 Saint-François-de-Madawaska
 Saint-Fregant
+Saint-Gaultier
 Saint-George
 Saint George Parish
 Saint-Georges
@@ -33250,6 +33384,7 @@ Saint-Jacques-de-la-Lande
 Saint-Jacut-les-Pins
 Saint James Parish
 Saint-Jean-Brevelay
+Saint-Jean-de-la-Ruelle
 Saint-Jean-du-Doigt
 Saint-Jean-la-Poterie
 Saint-Jean-Saverne
@@ -33279,6 +33414,7 @@ Saint-Louis
 Saint-Louis-de-Kent
 Saint Luke Parish
 Saint-Lunaire
+Saint-Lyé-la-Forêt
 Saint-M'Herve
 Saint-M'Hervon
 Saint-Malo
@@ -33298,6 +33434,7 @@ Saint Mary
 Saint Mary Parish
 Saint Marys Bay
 Saint-Maugan
+Saint-Maur
 Saint Maurice
 Saint-Maurice
 Saint-Medard-sur-Ille
@@ -33337,6 +33474,7 @@ Saint Pierre
 Saint-Pierre
 Saint-Pierre-Bois
 Saint-Pierre-de-Plesguen
+Saint-Pierre-des-Corps
 Saint Pierre du Bois
 Saint-Pierre-Quiberon
 Saint-Pol-de-Leon
@@ -33373,6 +33511,7 @@ Saint-Tugdual
 Saint Ulrich
 Saint-Uniac
 Saint-Urbain
+Saint-Viâtre
 Saint-Vincent
 Saint-Vincent-sur-Oust
 Saint-Vith
@@ -33446,6 +33585,7 @@ Salavat
 Salavatsky District
 Salazar de Las Palmas
 Salazie
+Salbris
 Salcedo
 Šalčininkai
 Šalčininkai District Municipality
@@ -33633,6 +33773,7 @@ San Biagio di Callalta
 San Biase
 San Bonifacio
 Sanborn County
+Sanbornton
 San Buenaventura
 San Buono
 Sancaktepe
@@ -33690,6 +33831,7 @@ San Donato Milanese
 San Dorligo della Valle
 Sandoval County
 Sandovalina
+Sandown
 Sandoy
 Sandrigo
 Sandringham
@@ -34290,6 +34432,7 @@ Sant Cebrià de Vallalta
 Sant Celoni
 Sant Climent de Llobregat
 Sant Cugat del Vallès
+Santeau
 Santec
 San Telmo
 Sante Marie
@@ -34966,6 +35109,7 @@ Scurelle
 Scurry County
 Sderot
 Sé
+Seabrook
 Seacliff
 Searcy County
 Searsmont
@@ -35105,6 +35249,7 @@ Sell
 Sella Giudicarie
 Sellano
 Sellero
+Selles-sur-Cher
 Sellrain
 Sellye District
 Selm
@@ -36437,6 +36582,7 @@ Sõmerpalu Parish
 Somers
 Somerset
 Somerset County
+Somersworth
 Sõmeru Parish
 Somervell County
 Somerville
@@ -36518,6 +36664,7 @@ Sorgà
 Sorgun
 Soriano Department
 Sorico
+Sorigny
 Soriguera
 Sorisole
 Sormano
@@ -36634,6 +36781,7 @@ South Gloucestershire
 South Governorate
 South Hadley
 South Hamgyong Province
+South Hampton
 South Hams
 South Holland
 South Hwanghae Province
@@ -37020,6 +37168,7 @@ Stargard
 Stargard County
 Staric
 Stari Grad
+Stark
 Stark County
 Starke County
 Starkenberg
@@ -37206,6 +37355,7 @@ Stewart Community
 Stewart County
 Stewart District
 Stewart Island
+Stewartstown
 Steyr District
 Stezery
 Stezyca commune
@@ -37249,6 +37399,7 @@ Stoczek commune
 Stoczek Lukowski
 Stoczek Lukowski commune
 Stod
+Stoddard
 Stoddard County
 Stojice
 Stoke
@@ -37314,6 +37465,7 @@ Stracov
 Stradella
 Straden
 Straelen
+Strafford
 Strafford County
 Strahovice
 Strakonice
@@ -37348,6 +37500,7 @@ Strasswalchen
 Stratford
 Stratford District
 Stratford-on-Avon
+Stratham
 Strathbogie
 Strathcona County
 Strathcona Regional District
@@ -37589,6 +37742,7 @@ Suffolk Coastal
 Suffolk County
 Suflí
 Sugar Grove
+Sugar Hill
 Suginami
 Sugito
 Suhl
@@ -37697,6 +37851,7 @@ Sumy
 Sumy District
 Sumy Region
 Sunagawa
+Sunapee
 Sunbury County
 Sun City West
 Sund
@@ -37931,6 +38086,7 @@ Swan Hills
 Swannanoa
 Swansea
 Swanville
+Swanzey
 Swartland
 Sweden
 Sweet Grass County
@@ -38851,6 +39007,7 @@ Theewaterskloof
 The Gap
 Thehillac
 The Hills
+Theillay
 Theix
 Themar
 Thembelihle
@@ -38973,6 +39130,7 @@ Tillmitsch
 Tilos
 Tilt Cove
 Tiltlil
+Tilton
 Timaná
 Timansky
 Timaru
@@ -39908,6 +40066,7 @@ Tuen Mun District
 Tufanbeyli
 Tufara
 Tufillo
+Tuftonboro
 Tuggen
 Tuggeranong
 Tuglie
@@ -41091,6 +41250,7 @@ Vasylkiv
 Vasylkiv District
 Vasylkivka District
 Vasyurinskoye
+Vatan
 Vatin
 Vatovavy-Fitovinany Region
 Vatutine
@@ -41157,6 +41317,7 @@ Veglie
 Vehmaa
 Veianen
 Veianen Canton
+Veigné
 Veilsdorf
 Veintiocho de Noviembre
 Veisiejai
@@ -41574,6 +41735,8 @@ Vierchniadzvinsk
 Vierlingsbeek
 Viersen
 Viersen District
+Vierzon
+Vierzon-2
 Viesca
 Vieselbach
 Viešintos
@@ -41873,6 +42036,7 @@ Ville d'Anaunia
 Ville-Marie
 Villeneuve
 Villeray–Saint-Michel–Parc-Extension
+Villereau
 Villers-la-Ville
 Villers-le-Bouillet
 Villesse
@@ -42227,8 +42391,10 @@ Votice
 Votkinsk
 Votorantim
 Votuporanga
+Vouvray
 Vouvry
 Vouzela
+Vouzon
 Vovchansk
 Vovchansk District
 Voykovsky District
@@ -42682,6 +42848,7 @@ Warman
 Warmenhuizen
 Warminsko-Mazurskie Voivodeship
 Warnambool
+Warner
 Warner County
 Warnes
 Warnice commune
@@ -42754,6 +42921,7 @@ Watermael-Boitsfort
 Watertown
 Waterview
 Waterville
+Waterville Valley
 Watford
 Wathena
 Watonwan County
@@ -43013,6 +43181,7 @@ West Melton
 West Memphis
 West Midlands
 Westminster
+Westmoreland
 Westmoreland County
 Westmoreland Parish
 Westmorland County
@@ -43269,6 +43438,7 @@ Willow Creek
 Willow Creek Municipal District
 Willowdale
 Wilmington
+Wilmot
 Wilnis
 Wilson
 Wilson County
@@ -43424,6 +43594,7 @@ Wolbrom
 Wolcott
 Woleu-Ntem Province
 Wolfau
+Wolfeboro
 Wolfe County
 Wolfenbüttel District
 Wolfenschiessen
