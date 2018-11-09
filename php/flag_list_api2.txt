@@ -62,6 +62,7 @@ Abbateggio
 Abbekerk
 Abbeville
 Abbeville County
+Abbéville-la-Rivière
 Abbiategrasso
 Abbot
 Abbotsford
@@ -1246,6 +1247,7 @@ Angerberg
 Angerlo
 Angern an der March
 Angers
+Angervilliers
 Angiari
 Ang Mo Kio
 Angol
@@ -1710,6 +1712,7 @@ Arosio
 Arouca
 Aro Valley
 Arpacay
+Arpajon
 Arquà Petrarca
 Arquà Polesine
 Arquata del Tronto
@@ -2145,6 +2148,7 @@ Avolsheim
 Avon
 Avondale
 Avoyelles Parish
+Avrainville
 Avren
 Avry
 Avsa
@@ -2517,6 +2521,7 @@ Balkansky
 Balkash
 Ballabio
 Ballaigues
+Ballainvilliers
 Ballarat
 Ballard County
 Ballens
@@ -4304,6 +4309,8 @@ Boikoponura
 Boise
 Boise County
 Boisgervilly
+Boissy-la-Rivière
+Boissy-sous-Saint-Yon
 Boistrudan
 Boituva
 Bojacá
@@ -4946,6 +4953,7 @@ Bretagne
 Bretcu
 Breteil
 Bretigny-sur-Morrens
+Bretigny-sur-Orge
 Bretonnières
 Bretten
 Bretzwil
@@ -5008,6 +5016,7 @@ Brignac
 Brignano Gera d'Adda
 Brignogan-Plages
 Brigus
+Briis-sous-Forges
 Brijdorpe
 Brimbank
 Brimfield
@@ -7212,6 +7221,7 @@ Challand-Saint-Victor
 Châlons-en-Champagne
 Chaloupky
 Cham
+Chamarande
 Chamartín
 Chambave
 Chambers County
@@ -7227,6 +7237,7 @@ Champaign County
 Champdepraz
 Champeaux
 Champéry
+Champlan
 Champorcher
 Champtauroz
 Champvent
@@ -10066,6 +10077,7 @@ Douglasville
 Dour
 Dourado
 Dourdain
+Dourdan
 Douz
 Dovadola
 Dover
@@ -10652,6 +10664,7 @@ Egirdir
 Eglingen
 Eglisau
 Egliswil
+Égly
 Egmond aan Zee
 Egmond-Binnen
 Egna
@@ -11309,6 +11322,7 @@ Esztergom District
 Étagnières
 Etajima
 Étalle
+Étampes
 Etchojoa
 Eteimbes
 Etel
@@ -11323,6 +11337,7 @@ Etne
 Etnedal
 Etowah County
 Etoy
+Étréchy
 Etrelles
 Etroubles
 Ettadhamen-Mnihla
@@ -11911,6 +11926,7 @@ Fonelas
 Fono
 Fonseca
 Fontaine-l'Évêque
+Fontaine-la-Rivière
 Fontainemore
 Fontaines-sur-Grandson
 Fontalovskoye
@@ -11953,6 +11969,7 @@ Forest Heights
 Forest of Dean
 Foresto Sparso
 Forgaria nel Friuli
+Forges-les-Bains
 Forjães 
 Forlì
 Forlì del Sannio
@@ -20992,6 +21009,7 @@ Lestizza
 Lestkov
 Le Sud-Ouest
 Le Sueur County
+Les Ulis
 Lesunky
 Les Valls d'Aguilar
 Les Verrières
@@ -21281,6 +21299,7 @@ Limpias
 Limpopo
 Linares
 Linarolo
+Linas
 Lincent
 Lincoln
 Lincoln (Canterbury)
@@ -21690,10 +21709,12 @@ Longhena
 Longiano
 Longirod
 Long Island
+Longjumeau
 Longlaketon
 Longmeadow
 Longone al Segrino
 Longos
+Longpont-sur-Orge
 Longreach
 Longueuil
 Longyearbyen
@@ -22856,6 +22877,7 @@ Marco Island
 Marcon
 Marcona
 Marcos Paz Department
+Marcoussis
 Mardan
 Mar del Plata
 Mar del Tuyú
@@ -23170,6 +23192,7 @@ Massignano
 Massimeno
 Massongex
 Massonnens
+Massy
 Masterton
 Masterton District
 Mastnik
@@ -24791,6 +24814,7 @@ Montirone
 Montizón
 Montjovet
 Mont-la-Ville
+Montlhéry
 Montlouis-sur-Loire
 Montmajor
 Montmartre
@@ -24960,6 +24984,7 @@ Morgex
 Mori
 Moriago della Battaglia
 Morice
+Morigny-Champigny
 Moriguchi
 Möriken-Wildegg
 Moriles
@@ -28000,6 +28025,7 @@ Ormoc
 Ormondville
 Ormont-Dessous
 Ormont-Dessus
+Ormoy-la-Rivière
 Ormož
 Ornago
 Orne
@@ -28600,6 +28626,7 @@ Palagano
 Palagianello
 Palagiano
 Palaio Faliro
+Palaiseau
 Palamas
 Palamuse Parish
 Palana
@@ -33403,6 +33430,7 @@ Saint-Georges-de-Reintembault
 Saint-Gerand
 Saint-Germain-du-Pinel
 Saint-Germain-en-Cogles
+Saint-Germain-lès-Arpajon
 Saint-Germain-sur-Ille
 Saint-Ghislain
 Saint-Gildas-de-Rhuys
@@ -34852,6 +34880,7 @@ Saül
 Saulcy
 Saulkrasti
 Saulnieres
+Saulx-les-Chartreux
 Saulxures
 Saunders County
 Sauris
@@ -34873,6 +34902,7 @@ Savièse
 Savignano sul Panaro
 Savignano sul Rubicone
 Savigny
+Savigny-sur-Orge
 Saviore dell'Adamello
 Šavnik
 Savogna
@@ -42092,7 +42122,9 @@ Villaviudas
 Villaz-Saint-Pierre
 Villazzano
 Ville
+Villebon-sur-Yvette
 Ville d'Anaunia
+Villejust
 Ville-Marie
 Villeneuve
 Villeray–Saint-Michel–Parc-Extension
@@ -43596,6 +43628,7 @@ Wisniowa commune
 Wissekerke
 Wissembourg
 Wissenkerke
+Wissous
 Wisznia Mala commune
 Wisznice commune
 Witikon
