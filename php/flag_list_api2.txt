@@ -94,6 +94,7 @@ Abja-Paluoja
 Abja Parish
 Abkhazia
 Abla
+Ablis
 Ablitas
 Abra
 Abrantes
@@ -1376,6 +1377,7 @@ Antofagasta Region
 Antoing
 Antônio Cardoso
 Antonovo
+Antony
 Antrain
 Antratsyt
 Antratsyt District
@@ -1580,6 +1582,7 @@ Arcos de Jalón
 Arcos de Valdevez
 Arcoverde
 Arctic Bay
+Arcueil
 Arcugnano
 Ardabil
 Ardagger
@@ -2948,6 +2951,7 @@ Bath County
 Bathinda
 Bathmen
 Bathurst
+Batignolles-Monceau
 Batiovo
 Batken
 Batken Region
@@ -4255,6 +4259,7 @@ Boa Vista
 Boavita
 Boazum
 Bobbio
+Bobigny
 Böbikon
 Böblingen District
 Bobnice
@@ -4746,6 +4751,7 @@ Boulder County
 Boulemane Province
 Boulens
 Boulia
+Boulogne-Billancourt
 Boundary County
 Bounkani Region
 Bounty Islands
@@ -4766,6 +4772,7 @@ Bourne
 Bournemouth
 Bournens
 Bourrignon
+Bourse
 Bou Salem
 Bousin
 Bousov
@@ -5644,8 +5651,10 @@ Butrimonys
 Bütschwil-Ganterschwil
 Buttapietra
 Butte County
+Butte-Montmartre
 Butten
 Büttenhardt
+Buttes-Chaumont
 Büttikon
 Buttinge
 Buttisholz
@@ -5774,6 +5783,7 @@ Caçapava
 Cáceres
 Čačersk
 Čačersk District
+Cachan
 Cache County
 Cachipay
 Cáchira
@@ -7516,6 +7526,7 @@ Chavannes-sur-Moudon
 Chavantes
 Chaves
 Chaves County
+Chaville
 Chavornay
 Chaykovsky
 Chbany
@@ -7641,6 +7652,7 @@ Chetwynd District
 Chevaigne
 Cheverly
 Chevilly
+Chevilly-Larue
 Cheviot
 Chevroux
 Chexbres
@@ -11187,6 +11199,7 @@ El Viso
 Elwen
 Ely
 Elyakhin
+Élysée
 El Zulia
 eMadlangeni
 Emakhazeni
@@ -11240,6 +11253,7 @@ Encamp
 Encarnación
 Encarnación de Díaz
 Encinasola
+Enclos-St-Laurent
 Encs District
 Enderby
 Ende Regency
@@ -12407,6 +12421,7 @@ Fresagrandinaria
 Fresens
 Fresnedillas de la Oliva
 Fresnedoso de Ibor
+Fresnes
 Fresno
 Fresno County
 Fresno del Río
@@ -13366,6 +13381,7 @@ Gnowangerup
 Goa
 Goaiïngahuzen
 Gobabis
+Gobelins
 Gobo
 Gocek
 Godall
@@ -15929,6 +15945,7 @@ Hostomice
 Hostotipaquillo
 Hostoun
 Hosty
+Hôtel-de-Ville
 Hot Spring County
 Hot Springs County
 Hottingen
@@ -16783,6 +16800,7 @@ Issime
 Isso
 Issogne
 Issoudun
+Issy-les-Moulineaux
 Istanbul
 Istanbul Province
 Istmina
@@ -20231,6 +20249,7 @@ L'Armentera
 L'Escala
 L'Espluga de Francolí
 L'Esquirol
+L'Haÿ-les-Roses
 L'Hermitage
 L'Île-Bizard–Sainte-Geneviève
 L'Île-Dorval
@@ -21203,6 +21222,7 @@ Lekenik
 Leki Szlacheckie commune
 Lekkerkerk
 Leknica
+Le Kremlin-Bicêtre
 Leksand
 Leksand locality
 Leksvik
@@ -22272,6 +22292,7 @@ Loutraki-Perachora-Agioi Theodoroi
 Louveira
 Louvigne-de-Bais
 Louvigne-du-Desert
+Louvre
 Lovatens
 Lovcenac
 Lovcice
@@ -24054,6 +24075,7 @@ Mengeš
 Mengíbar
 Ménières
 Menifee County
+Ménilmontant
 Menin
 Menominee County
 Menorca
@@ -24234,6 +24256,7 @@ Metz
 Metzeral
 Metzerlen
 Meucon
+Meudon
 Meulebeke
 Meung-sur-Loire
 Meurthe-et-Moselle
@@ -25299,6 +25322,8 @@ Montréal-Est
 Montréal-Nord
 Montréal-Ouest
 Montréal Urban Agglomeration
+Montreuil
+Montreuil-2
 Montreuil-le-Gast
 Montreuil-sous-Perouse
 Montreuil-sur-Ille
@@ -27842,6 +27867,7 @@ Obritzberg-Rust
 Obrnice
 Obrowo commune
 Obruchevsky District
+Observatoire
 Obsteig
 Obu
 Obuda-Bekasmegyer District
@@ -28353,6 +28379,7 @@ Opava
 Opava District
 Opawa
 Opera
+Opéra
 Opfenbach
 Opfikon
 Opglabbeek
@@ -29125,6 +29152,7 @@ Palagano
 Palagianello
 Palagiano
 Palaio Faliro
+Palais-Bourbon
 Palaiseau
 Palamas
 Palamuse Parish
@@ -29266,7 +29294,9 @@ Panosi Ujezd
 Panqueba
 Panske Dubenky
 Pantalej
+Panthéon
 Pantigliate
+Pantin
 Pão de Açúcar
 Paola
 Papa District
@@ -29455,6 +29485,7 @@ Passau District
 Passignano sul Trasimeno
 Passirano
 Passo Fundo
+Passy
 Pastavy
 Pastavy District
 Pastaza Province
@@ -30857,6 +30888,7 @@ Pontevedra
 Pontevico
 Pontey
 Ponthaux
+Ponthévrard
 Pontida
 Pontirolo Nuovo
 Ponti sul Mincio
@@ -30885,6 +30917,7 @@ Popelin
 Poperinge
 Popice
 Popilnia District
+Popincourt
 Poplar Valley
 Popoli
 Popovača 
@@ -32247,6 +32280,7 @@ Ramallo Department
 Ramat Gan
 Ramat HaSharon
 Ramat Yishai
+Rambouillet
 Ramea
 Rameh
 Ramenki District
@@ -32706,6 +32740,7 @@ Retuvka
 Retz
 Retzbach
 Retzwiller
+Reuilly
 Reus
 Reusel
 Reusel-De Mierden
@@ -33955,6 +33990,7 @@ Saint Andrew Parish
 Saint Ann Parish
 Saint-Antoine
 Saint-Armel
+Saint-Arnoult-en-Yvelines
 Saint-Aubin
 Saint-Aubin-d'Aubigne
 Saint-Aubin-des-Landes
@@ -34102,6 +34138,7 @@ Saint-Marc-sur-Couesnon
 Saint Mark Parish
 Saint Martin
 Saint-Martin
+Saint-Martin-de-Bréthencourt
 Saint-Martin-des-Champs
 Saint-Martin-sur-Oust
 Saint Mary
@@ -37337,6 +37374,7 @@ Somoto
 Somovskoye
 Sona
 Sonadora
+Sonchamp
 Soncino
 Sondalo
 Sonda Parish
@@ -39794,6 +39832,7 @@ The Snares
 Thessalia
 Thessaloniki
 Theux
+Thiais
 Thibodaux
 Thiene
 Thiersee
@@ -42070,6 +42109,7 @@ Vatovavy-Fitovinany Region
 Vatutine
 Vaucluse
 Vaughan
+Vaugirard
 Vaŭkavysk
 Vaŭkavysk District
 Vaulion
@@ -42396,6 +42436,8 @@ Verrès
 Verretto
 Verrone
 Verrua Po
+Versailles
+Versailles-2
 Versalles
 Versmold
 Versoix
@@ -42873,6 +42915,7 @@ Villazzano
 Ville
 Villebon-sur-Yvette
 Ville d'Anaunia
+Villejuif
 Villejust
 Ville-Marie
 Villeneuve
@@ -42961,6 +43004,7 @@ Virgen
 Virginia
 Virginia Beach
 Virginia City
+Viroflay
 Viroinval
 Virolahti
 Virovitica
