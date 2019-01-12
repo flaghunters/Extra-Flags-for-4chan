@@ -13,6 +13,7 @@
 't Zandt
 100 Mile House District
 A'ana District
+Aabenraa
 Aachen
 Aachen Region
 Aadorf
@@ -20,6 +21,7 @@ Aa en Hunze
 Aagtekerke
 Aalborg
 Aalburg
+Aalestrup
 Aalsmeer
 Aalst
 Aalten
@@ -32,8 +34,10 @@ Aardenburg
 Aarhus
 Aarlanderveen
 Aarle-Rixtel
+Aars
 Aarschot
 Aartselaar
+Aarup
 Aarwangen
 Aasiaat
 Abaco
@@ -239,6 +243,7 @@ Adrara San Rocco
 Adria
 Adro
 Adrspach
+Adsbøl
 Aduard
 Aduna
 Adur
@@ -251,6 +256,7 @@ Aegviidu
 Aerodrom
 Aeroport District
 Ærø
+Ærøskøbing
 Aesch
 Aesch bei Birmensdorf
 Aeschi
@@ -568,6 +574,7 @@ Alba Adriatica
 Albacete
 Alba County
 Alba de Cerrato
+Ålbæk
 Albairate
 Alba Iulia
 Albán
@@ -613,6 +620,7 @@ Albert-Eden-Roskill Ward
 Albert Luthuli
 Alberto Adriani
 Alberton
+Albertslund
 Albesa
 Albese con Cassano
 Albettone
@@ -850,6 +858,7 @@ Aller
 Allerdale
 Allerheiligen bei Wildon
 Allerona
+Allerød
 Allhartsberg
 Allier
 Alligator Alley Reservation
@@ -1079,6 +1088,8 @@ Amadora
 Amador County
 Amagá
 Amagasaki
+Amager Vest
+Amager Øst
 Amagi
 Amahlathi
 Amajari
@@ -1324,6 +1335,7 @@ Anievas
 Anif
 Anija Parish
 Aninskoye
+Anisse
 Aniva
 Anivsky District
 Anjo
@@ -2018,6 +2030,7 @@ Astrakhan Region
 Astraviec
 Astraviec District
 Astrea
+Astrup
 Astryna
 Asturias
 Asuka
@@ -2131,6 +2144,7 @@ Augusta
 Augusta County
 Augusta-Margaret River
 Augusta-Richmond County
+Augustenborg
 Augustow County
 Aukra
 Auleben
@@ -2617,8 +2631,10 @@ Ballarat
 Ballard County
 Ballens
 Ballersdorf
+Ballerup
 Balleza.pdn
 Ballina
+Ballonparken
 Ballstädt
 Ballum
 Ballwil
@@ -4018,6 +4034,8 @@ Billiers
 Billings
 Billings County
 Billio
+Billum
+Billund
 Bilmak District
 Bilohiria District
 Bilokurakyne District
@@ -4047,6 +4065,7 @@ Binasco
 Binche
 Bindal
 Bindernheim
+Bindslev
 Binetto
 Bingelrade
 Bingham
@@ -4077,6 +4096,7 @@ Birch Hills County
 Birchy Bay
 Bird Cove
 Birecik
+Birgittelyst
 Birgitz
 Birgu
 Birigui
@@ -4089,6 +4109,7 @@ Birkenfelde
 Birkenhead
 Birkfeld
 Birkirkara
+Birkum
 Birkungen
 Birmensdorf
 Birmenstorf
@@ -4136,6 +4157,7 @@ Biskupice commune
 Biskupice-Pulkov
 Bismarck
 Bismil
+Bispebjerg
 Bissau
 Bissert
 Bissone
@@ -4177,6 +4199,7 @@ Bjarkøy
 Bjelovar
 Bjelovar-Bilogora County
 Bjena
+Bjergby 
 Bjerkreim
 Bji
 Bjoka
@@ -4285,6 +4308,7 @@ Blockhouse Bay
 Blodelsheim
 Bloemendaal
 Bloke
+Blokhus
 Blokker
 Blokzijl
 Blonay
@@ -4499,6 +4523,7 @@ Bolaños
 Bolatice
 Bolayir
 Bolazec
+Bolderslev
 Bolebor
 Bolehost
 Bolekhiv
@@ -4630,6 +4655,7 @@ Boracéia
 Boranovice
 Borås
 Borba
+Borbjerg
 Borborema
 Borca di Cadore
 Borcka
@@ -4963,6 +4989,7 @@ Bradford Township
 Bradlec
 Bradley
 Bradley County
+Brædstrup
 Braga
 Braga District
 Bragado Department
@@ -5460,7 +5487,10 @@ Brzezno commune
 Brzkov
 Brzozie commune
 Brzozow County
+Brøndby
+Brønderslev
 Brønnøy
+Brønshøj-Husum
 Bu'eine Nujeidat
 Buada District
 Bubbiano
@@ -8192,6 +8222,8 @@ Christchurch
 Christchurch Central
 Christian County
 Christiansburg
+Christiansfeld
+Christianshavn
 Christmas Island
 Chroboly
 Chromec
@@ -10634,6 +10666,7 @@ Dragacz commune
 Draganić
 Dragas
 Dragteng
+Dragør
 Drahanovice
 Drahany
 Drahelcice
@@ -10934,6 +10967,7 @@ Dvur Kralove nad Labem
 Dwingeloo
 Dyachenkovskoye
 Dyadkovskoye
+Dybvad
 Dyer Brook
 Dyer County
 Dygowo commune
@@ -11075,6 +11109,7 @@ Eau Claire County
 Ebbs
 Ebéjico
 Ebeleben
+Ebeltoft
 Eben am Achensee
 Ebenau
 Ebenfurth
@@ -11196,9 +11231,12 @@ Effingham County
 Effretikon
 Eflani
 Efrat
+Egebjerg
+Egedal
 Eger
 Eger District
 Egerkingen
+Egernsund
 Egg
 Egg an der Günz
 Egg bei Zürich
@@ -11767,6 +11805,7 @@ Erzurum
 Erzurum Province
 Esanatoglia
 Esashi
+Esbjerg
 Escacena del Campo
 Escalante
 Escaldes-Engordany
@@ -11841,6 +11880,7 @@ Esporles
 Esposende
 Esquilino
 Esquimalt Township
+Esrum
 Essaouira
 Essaouira Province
 Esse
@@ -11989,10 +12029,12 @@ Ezinqoleni
 Ezzahra
 Fa'asaleleaga District
 Faaa
+Faaborg
 Faaborg-Midtfyn
 Fabbrica Curone
 Fabbrico
 Fabianki commune
+Fåborg
 Fabriano
 Fabro
 Facatativa
@@ -12083,6 +12125,7 @@ Fannin County
 Fano
 Fano Adriano
 Fantino
+Fanø
 Faoug
 Fara Filiorum Petri
 Fara Gera d'Adda
@@ -12118,7 +12161,9 @@ Farra d'Isonzo
 Farra di Soligo
 Farsala
 Farsund
+Farsø
 Fartura
+Fårvang
 Farwaniya Governorate
 Far West
 Fasano
@@ -12139,6 +12184,8 @@ Favona
 Favoriten
 Favoriten District
 Favria
+Favrskov
+Faxe
 Fayette
 Fayette County
 Fayetteville
@@ -12250,6 +12297,7 @@ Ferreyres
 Ferriere
 Ferrières
 Ferrisburgh
+Ferritslev
 Ferrol
 Ferry County
 Ferryland
@@ -12386,6 +12434,7 @@ Fjaler
 Fjällsjö District
 Fjarðabyggð
 Fjell
+Fjelstrup
 Fkih Ben Salah Province
 Flå
 Flaach
@@ -12404,6 +12453,7 @@ Flatanger
 Flathead County
 Flatrock
 Flattach
+Flauenskjold
 Flaurling
 Flawil
 Flaxlanden
@@ -12732,12 +12782,16 @@ Frauenstein
 Frauental an der Lassnitz
 Frauenwald
 Fraxern
+Fredensborg
+Fredericia
 Frederick
 Frederick County
 Fredericksburg
 Fredericton
 Fredericton Junction
-Frederikssund 
+Frederiksberg
+Frederikshavn
+Frederikssund
 Fredonia
 Fredrikstad
 Freeborn County
@@ -12807,6 +12861,7 @@ Frinco
 Frio County
 Frisa
 Frisanco
+Fristaden Christiania
 Fritzens
 Friuli-Venezia Giulia
 Frjentsjer
@@ -12943,6 +12998,7 @@ Furchhausen
 Furci
 Furdenheim
 Furdgum
+Furesø
 Furna
 Furnas
 Furnas County
@@ -12973,6 +13029,7 @@ Fuzesabony District
 Fuzhou
 Fylde
 Fyli
+Fynshav
 Fyodorovsky District
 Fyresdal
 Førde
@@ -13125,6 +13182,7 @@ Gameti
 Gámeza
 Gaming
 Gamlitz
+Gammel Rye
 Gampel-Bratsch
 Gamprin
 Gams
@@ -13332,6 +13390,7 @@ Gedersdorf
 Gedinne
 Gediz
 Gedling
+Gedved
 Geel
 Geelong
 Geersdijk
@@ -13409,12 +13468,14 @@ Genivolta
 Genk
 Genkai
 Gennep
+Genner
 Gennes-sur-Seiche
 Genola
 Genolier
 Genova
 Gent
 Genthod
+Gentofte
 Gentry County
 Genye
 George
@@ -13644,6 +13705,7 @@ Givatayim
 Givisiez
 Givoletto
 Givrins
+Givskud
 Giza
 Giza Governorate
 Gizycko County
@@ -13660,6 +13722,7 @@ Gladbeck
 Glades County
 Glade Township
 Gladhammar District
+Gladsaxe
 Gladstone
 Gladwin County
 Glafirovskoye
@@ -13724,6 +13787,7 @@ Glogow commune
 Glogow County
 Gloppen
 Glorenza
+Glostrup
 Gloucester
 Gloucester County
 Gloucestershire
@@ -13736,6 +13800,7 @@ Glubczyce County
 Glusk commune
 Gluszyca commune
 Glyfada
+Glyngøre
 Glynn County
 Gmünd
 Gmünd District
@@ -14316,6 +14381,8 @@ Gresten
 Gresten-Land
 Gretzenbach
 Greussen
+Greve
+Greve Landsby
 Grevena
 Grevenbicht
 Grevenbroich
@@ -14330,6 +14397,7 @@ Grezzana
 Griante
 Gribanovsky
 Gribanovsky District
+Gribskov
 Gries
 Gries am Brenner
 Gries am Sellrain
@@ -14693,6 +14761,8 @@ Gujo
 Gujranwala
 Gukovo
 Gulbene
+Guldbæk
+Guldborgsund
 Gulen
 Gulf Breeze
 Gulf County
@@ -14700,6 +14770,7 @@ Gulfport
 Gulf Province
 Gulkevichi
 Gulkevichsky District
+Gullestrup
 Gull Lake
 Gullspång
 Gullubahce
@@ -14762,6 +14833,7 @@ Gurkovo
 Gurlek
 Gurmels
 Guro District
+Gurre
 Gurro
 Gursu
 Gurtnellen
@@ -14893,6 +14965,7 @@ Hadley
 Hadramaut
 Hadres
 Hadsel
+Hadsund
 Haebaru
 Hægebostad
 Haegen
@@ -15011,6 +15084,7 @@ Hallwil
 Halmstad
 Halmstad locality
 Halsa
+Halsnæs
 Halsteren
 Halsua
 Halten
@@ -15056,6 +15130,7 @@ Hammarö
 Hamme
 Hammerdal District
 Hammerfest
+Hammershøj
 Hammersmith and Fulham
 Hammond
 Hamoir
@@ -15116,6 +15191,7 @@ Hansk commune
 Hanson
 Hanson County
 Hanstein-Rusteberg
+Hanstholm
 Hansweert
 Hant's Harbour
 Hantam
@@ -15399,6 +15475,7 @@ Hede-Bazouges
 Hedel
 Hedemora
 Hedemora locality
+Hedensted
 Hedesunda locality
 Hedgehope
 Hedikhuizen
@@ -15508,6 +15585,8 @@ Helmsdorf
 Helmstedt District
 Helperknapp
 Helsingborg
+Helsinge
+Helsingør
 Helsinki
 Helvikovice
 Helvoirt
@@ -15591,6 +15670,7 @@ Herisau
 Herk-de-Stad
 Herkimer County
 Herkingen
+Herlev
 Herm
 Hermagor District
 Hermagor-Pressegger See
@@ -15617,6 +15697,7 @@ Hernani
 Herndon
 Herne
 Hernialde
+Herning
 Hernstein
 Heroltice
 Héron
@@ -15775,6 +15856,7 @@ Hill County
 Hille
 Hillegersberg
 Hillegom
+Hillerød
 Hillingdon
 Hillsborough
 Hillsborough County
@@ -15875,9 +15957,11 @@ Hitzendorf
 Hitzkirch
 Hiva Oa
 Hiyama subprefecture
+Hjallerup
 Hjartdal
 Hjelmeland
 Hjo
+Hjørring
 Hlabisa
 Hladke Zivotice
 Hlasna Treban
@@ -15929,6 +16013,7 @@ Hnojice
 Hnojnik
 Hobart
 Hobo
+Hobro
 Hobsons Bay
 Hobsonville
 Hobsovice
@@ -16039,6 +16124,7 @@ Hola Prystan
 Hola Prystan District
 Holasice
 Holasovice
+Holbæk
 Holbrook
 Holcovice
 Holden
@@ -16076,6 +16162,7 @@ Holoubkov
 Holovanivsk District
 Holovousy
 Holsbeek
+Holstebro
 Hölstein
 Holstejn
 Holtålen
@@ -16158,6 +16245,7 @@ Hopital-Camfrout
 Hopkington
 Hopkins County
 Hopkinton
+Hoptrup
 Horasan
 Hora Svateho Sebestiana
 Hora Svate Kateriny
@@ -16197,6 +16285,7 @@ Hormilleja
 Horn
 Hornafjörður
 Horn District
+Horne
 Horni Becva
 Horni Bela
 Horni Benesov
@@ -16299,6 +16388,7 @@ Horriwil
 Horry County
 Hörsel
 Hörselgau
+Horsens
 Horsham
 Horsice
 Horska Kvilda
@@ -16365,6 +16455,7 @@ Houthem
 Houthulst
 Houyet
 Hove
+Hovedgård 
 Hovedstaden
 Hovezi
 Hovmantorp locality
@@ -16552,6 +16643,7 @@ Hunawihr
 Hundeshagen
 Hundsbach
 Hundsheim
+Hundslund
 Hundsturm
 Hundwil
 Hunedoara County
@@ -16624,6 +16716,8 @@ Hvannasund
 Hveragerði
 Hvezdlice
 Hvezdonice
+Hvide Sande
+Hvidrove
 Hvozd
 Hvozdany
 Hvozdec
@@ -16644,6 +16738,8 @@ Hyskov
 Hysly
 Hyuga
 Hyvinkää
+Høje-Taastrup
+Hørsholm
 Høyanger
 Høylandet
 I'billin
@@ -16774,6 +16870,7 @@ IJzendoorn
 Ikaalinen
 Ikamatua
 Ikaruga
+Ikast-Brande
 Ikata
 Ikawa
 Ikeda
@@ -16944,6 +17041,7 @@ Indjija
 Indore
 Indramayu Regency
 Indre
+Indre By
 Indre-et-Loire
 Induno Olona
 Industriequartier
@@ -17121,6 +17219,7 @@ Isehara
 Iselsberg-Stronach
 Isen
 Isenthal
+Isenvad
 Iseo
 Isera
 Isérables
@@ -17140,6 +17239,7 @@ Ishimbay
 Ishimbaysky District
 Ishinomaki
 Ishioka
+Ishøj
 Isilkul
 Iskateley
 Iskenderun
@@ -17480,6 +17580,7 @@ Jamestown
 Jämijärvi
 Jämjö locality
 Jamkhar
+Jammerbugt
 Jammu
 Jammu and Kashmir
 Jamne
@@ -17611,6 +17712,7 @@ Jefferson County
 Jefferson Davis County
 Jefferson Davis Parish
 Jefferson Parish
+Jegerup
 Jegunovce
 Jehnedi
 Jeju
@@ -17624,6 +17726,7 @@ Jelenia Gora County
 Jelgava
 Jelgavas novads
 Jellum
+Jels
 Jelsi
 Jeĺsk
 Jeĺsk District
@@ -17674,6 +17777,7 @@ Jerônimo Monteiro
 Jerramungup
 Jersey City
 Jersey County
+Jerslev
 Jerte
 Jerusalem
 Jerusalem District
@@ -18163,6 +18267,7 @@ Kaltenleutgeben
 Kaltental
 Kaluga
 Kaluga Region
+Kalundborg
 Kalush
 Kalush District
 Kaluszyn commune
@@ -18531,6 +18636,7 @@ Karstula
 Kartal
 Kartepe
 Kartitsch
+Kartoffelrækkerne
 Kartuzy County
 Karuizawa
 Karula Parish
@@ -18874,6 +18980,7 @@ Kernu Parish
 Kerr County
 Kersaint-Plabennec
 Kershaw County
+Kerteminde
 Kertzfeld
 Kervignac
 Kerzers
@@ -19015,6 +19122,7 @@ Khyriv
 Kialegee Tribal Town
 Kiama
 Kiambu County
+Kibæk
 Kibichuo
 Kičevo
 Kickapoo Indian Reservation
@@ -19667,6 +19775,7 @@ Koneck commune
 Koneprusy
 Konesin
 Konetopy
+Kongens Enghave
 Kongsberg
 Kongsvinger
 Konguta Parish
@@ -19765,6 +19874,7 @@ Kormend District
 Kornatice
 Korneuburg
 Korneuburg District
+Korning
 Korolev
 Korolupy
 Koronowo commune
@@ -19787,6 +19897,7 @@ Korsholm
 Korsnäs
 Korsun-Shevchenkivskyi
 Korsun-Shevchenkivskyi District
+Korsør
 Kortemark
 Kortenaken
 Kortenberg
@@ -19795,6 +19906,7 @@ Kortessem
 Kortgene
 Kortkerossky District
 Kortrijk
+Korup
 Koryak Area
 Koryazhma
 Korycany
@@ -20643,6 +20755,8 @@ Kyzylorda
 Kyzylorda Region
 Kyzylsky District
 København
+Køge
+Kølkær
 L'Abbaye
 L'Abergement
 L'Albagés
@@ -20806,6 +20920,7 @@ Laekvere Parish
 Lærdal
 La Esperanza
 La Estrella
+Læsø
 Laeva Parish
 Lafayette
 LaFayette
@@ -21097,6 +21212,7 @@ Langchhenphu
 Langdon
 Langeberg
 Langedijk
+Langeland
 Langemark-Poelkapelle
 Langen bei Bregenz
 Langenberg
@@ -21382,6 +21498,7 @@ La Unión
 La Unión Department
 Laupen
 Laupersdorf
+Laurbjerg
 Lauregno
 Laurel
 Laurel County
@@ -21632,6 +21749,7 @@ Leitza
 Leitzersdorf
 Leiva
 Lejanías
+Lejre
 Le Juch
 Lejweleputswa
 Leka
@@ -21676,6 +21794,7 @@ Le Moule
 Le Mouret
 Lempäälä
 Lempster
+Lemvig
 Lena
 Lenart
 Lenawee County
@@ -22110,6 +22229,7 @@ Lille
 Lillehammer
 Lillemer
 Lillesand
+Lille Skensved
 Lillianes
 Lilongwe
 Lima
@@ -22174,6 +22294,7 @@ Lindesnes
 Lindewerra
 Lindlar
 Lindóia
+Lindved
 Line
 Linescio
 Lingenau
@@ -22201,6 +22322,7 @@ Linsell District
 Lint
 Linter
 Linthal
+Lintrup
 Linwood
 Linz District
 Lions Bay
@@ -22508,6 +22630,7 @@ Lokhvytsia
 Lokhvytsia District
 Loksa
 Lol
+Lolland
 Lollum
 Lolol
 Lom
@@ -23074,6 +23197,8 @@ Lynchburg
 Lyndeborough
 Lyndon
 Lynfield
+Lyngby
+Lyngby-Taarbæk
 Lyngdal
 Lyngen
 Lynn
@@ -23107,7 +23232,10 @@ Lyubertsy
 Lyublino District
 Lyubuchanskoye
 Lyudinovo
+Lødderup
+Løgten
 Lørenskog
+Lørslev
 Løten
 M'diq-Fnideq Prefecture
 M'Tsamboro
@@ -23812,6 +23940,8 @@ Maria-Anzbach
 Maria Aurora
 María Elena
 Maria Enzersdorf
+Mariager
+Mariagerfjord
 Mariahilf
 Mariahilf District
 Maria Laach am Jauerling
@@ -23836,6 +23966,7 @@ María Trinidad Sánchez Province
 Mariaville
 Maria Wörth
 Mariazell
+Maribo
 Maribojoc
 Maribor
 Maribyrnong
@@ -23967,6 +24098,7 @@ Marsiling-Yew Tee
 Marsov
 Marsovice
 Marsov u Upice
+Marstal
 Märstetten
 Martano
 Martelange
@@ -24818,6 +24950,7 @@ Michurinskoye
 Micovice
 Mid-Coast
 Middelburg
+Middelfart
 Middelharnis
 Middelie
 Middelkerke
@@ -26079,6 +26212,7 @@ Morshyn
 Mörsil District
 Morskiye Vorota
 Morskoy
+Morsø
 Mortágua
 Mortantsch
 Mortara
@@ -26536,6 +26670,7 @@ Mytishchinsky District
 Myto
 Mzuzu
 Møre og Romsdal
+Mørke
 N'Djaména
 N'Zi Region
 Naaldwijk
@@ -26573,6 +26708,7 @@ Nadvirna
 Nadvirna District
 Nadym
 Nærøy
+Næstved
 Nafpaktia 
 Nafplio
 Naga
@@ -26670,6 +26806,7 @@ Naklo
 Naklo County
 Naklo nad Notecia commune
 Nakri
+Nakskov
 Nakuru County
 Nakusp
 Nala
@@ -27282,6 +27419,7 @@ New Windsor
 New York
 New York City
 New Zealand Sub-Antarctic Islands
+Nexø
 Neya
 Neyagawa
 Neyruz
@@ -27690,6 +27828,7 @@ Nordeste
 Nordestina
 Nordfriesland District
 Nord-Fron
+Nordfyns
 Nordhausen
 Nordhausen District
 Nordheim
@@ -27731,6 +27870,7 @@ Norris Arm
 Norris Point
 Norrköping
 Norrtälje
+Nors
 Norsewood
 Norsjö
 Norte de Santander Department
@@ -28255,6 +28395,7 @@ Nyandeni
 Nyandoma
 Nyandomsky District
 Nyanga Province
+Nyborg
 Nybro
 Nybro District
 Nydek
@@ -28268,6 +28409,9 @@ Nykarleby
 Nyklovice
 Nyköping
 Nykvarn
+Nykøbing Falster
+Nykøbing Mors
+Nykøbing Sjælland
 Nymburk
 Nymburk District
 Nynäshamn
@@ -28277,12 +28421,17 @@ Nyrob
 Nyrov
 Nyrsko
 Nysa County
+Nysted
 Nytva
 Nytvensky District
 Nyuzen
 Nyzhni Sirohozy District
 Nyzhnohirskyi
 Nyzhnohirskyi District
+Nødebo
+Nørrebro
+Nørresundby
+Nørre Vorupør
 Nøtterøy
 O'Higgins Region
 Oak Bay District
@@ -28494,6 +28643,8 @@ Odate
 Odawara
 Odda
 Oddar Meanchey Province
+Oddense
+Odder
 Odemira
 Odemis
 Odèn
@@ -28522,6 +28673,7 @@ Odrava
 Odrovice
 Odry
 Odrzywol commune
+Odsherred
 Odunec
 Odunpazari
 Odzaci
@@ -31777,6 +31929,7 @@ Pouldergat
 Pouldreuzic
 Poullan-sur-Mer
 Poullaouen
+Poulstrup
 Poultney
 Poustka
 Pouzdrany
@@ -31849,6 +32002,8 @@ Pradleves
 Pradlo
 Prado
 Prado del Rey
+Præstbro
+Præstø
 Praga-Polnoc
 Pragelato
 Prägraten am Grossvenediger
@@ -32933,6 +33088,7 @@ Rakhiv
 Rakhiv District
 Rakhmanovskoye
 Rakitovo
+Rakkeby
 Rakke Parish
 Rakkestad
 Rakosmente District
@@ -32988,6 +33144,7 @@ Ramsberg locality
 Ramsen
 Ramsey
 Ramsey County
+Ramsing
 Ramygala
 Rana
 Rancagua
@@ -33006,6 +33163,7 @@ Randa
 Randaberg
 Randall County
 Randegg
+Randers
 Randfontein
 Randolph
 Randolph County
@@ -33172,6 +33330,7 @@ Reao
 Rebecq
 Rebesovice
 Rebeuvelier
+Rebild
 Rebollar
 Rebstein
 Rebun
@@ -33228,6 +33387,7 @@ Red Wing
 Redwood County
 Reefton
 Reek
+Reerslev
 Rees
 Reeves County
 Refahiye
@@ -33651,8 +33811,11 @@ Ringelsdorf-Niederabsdorf
 Ringendorf
 Ringerike
 Ringgold County
+Ringkøbing
+Ringkøbing-Skjern
 Ringleben bei Artern
 Ringsaker
+Ringsted
 Riniken
 Rinn
 Rinópolis
@@ -34193,6 +34356,7 @@ Rosice
 Rosicka
 Rosignano Monferrato
 Rositz
+Roskilde
 Roslyn
 Rosmalen
 Rosnoen
@@ -34392,6 +34556,7 @@ Ruda nad Moravou
 Ruda Slaska
 Ruden
 Ruderatshofen
+Rudersdal
 Rudersdorf
 Rudevskoye
 Rudiano
@@ -34401,6 +34566,7 @@ Rudimov
 Rudiškiai
 Rudka
 Rudky
+Rudkøbing
 Rüdlingen
 Rudna
 Rudna commune
@@ -34415,6 +34581,7 @@ Rudolfsheim-Fünfhaus District
 Rudolfstetten-Friedlisberg
 Rudoltice
 Rudo municipality
+Ruds Vedby
 Rudy
 Rue
 Ruederbach
@@ -34529,6 +34696,7 @@ Ruzena
 Ruzhyn District
 Ruzova
 Ruzsky District
+Ry
 Ryazan
 Ryazanovskoye
 Ryazanovsky
@@ -34567,6 +34735,7 @@ Rymice
 Rynarec
 Rynholec
 Rynoltice
+Ryomgård
 Rypin
 Rypin commune
 Rypin County
@@ -34590,8 +34759,12 @@ Rzhavki
 Rzhev
 Rzhevka
 Rzhyshchiv
+Rødby
+Rødding
+Rødovre
 Rødøy
 Rømskog
+Rønne
 Røros
 Røst
 Røyken
@@ -34684,6 +34857,7 @@ Sadov
 Sadovo
 Sadowne commune
 Sadska
+Sæby
 Saedinenie
 Saessolsheim
 Safed
@@ -35007,6 +35181,7 @@ Saki City Municipality
 Saki District
 Sakiet Ezzit
 Sakon Nakhon Province
+Sakskøbing
 Sakteng
 Saku
 Sakuho
@@ -35199,6 +35374,7 @@ Sampsoniyevskoye
 Samrang
 Samsun
 Samsun Province
+Samsø
 Samtredia
 Samtse
 Samtskhe Javakheti
@@ -36780,6 +36956,7 @@ Seja
 Sejny County
 Sejong
 Sejrek
+Sejs-Svejbæk
 Sekhukhune
 Seki
 Sekigahara
@@ -36900,6 +37077,7 @@ Senlac
 Senna Comasco
 Sennan
 Sennar State
+Sennels
 Sennoy
 Sennoye
 Sennwald
@@ -37020,6 +37198,7 @@ Serravalle Sesia
 Serrejón
 Serres
 Serreta
+Serritslev
 Sers
 Sertã
 Sertãozinho
@@ -37076,6 +37255,7 @@ Seuzach
 Seva
 Sevastopol
 Sévaz
+Sevel
 Sevelen
 Sevenoaks
 Sevenum
@@ -37520,6 +37700,7 @@ Silistra Province
 Silivri
 Siljan
 Siljansnäs locality
+Silkeborg
 Silkerode
 Sillamäe
 Sillavengo
@@ -37708,7 +37889,9 @@ Sjenica
 Sjöbo
 Skadovsk
 Skadovsk District
+Skælskør
 Skagaströnd
+Skagen
 Skagit County
 Skagway Borough
 Skaistgirys
@@ -37721,14 +37904,17 @@ Skalicka
 Skalka
 Skalka u Doks
 Skalna
+Skals
 Skalsko
 Skaly
 Skamania County
+Skanderborg
 Skåne County
 Skånland
 Skänninge locality
 Skape commune
 Skara
+Skarrild
 Skaryszew commune
 Skarzysko-Kamienna County
 Skastice
@@ -37756,8 +37942,10 @@ Skillingaryd locality
 Skinnskatteberg
 Skiptvet
 Skirsnemune
+Skive
 Skjåk
 Skjervøy
+Skjød
 Sklene
 Sklene nad Oslavou
 Škloŭ
@@ -37784,6 +37972,7 @@ Skorotice
 Skorzec commune
 Skotnice
 Skövde
+Skovlund
 Skovorodinsky District
 Skowhegan
 Skraard
@@ -37811,10 +38000,13 @@ Skvyra
 Skvyra District
 Skwierzyna commune
 Skydra
+Skørping
 Slabce
 Slabcice
 Slaboszow commune
 Sladkovskoye
+Slagelse
+Slagslunde
 Slana
 Slanik
 Slantsy
@@ -37968,6 +38160,7 @@ Smøla
 Snæfellsbær
 Snåsa
 Snedovice
+Snedsted
 Snegiri
 Snelrewaard
 Snezhnogorsk
@@ -38163,6 +38356,7 @@ Solotvyno
 Solovetsky District
 Soloz
 Sol Plaatje
+Solrød
 Solsona
 Solsonès
 Solto Collina
@@ -38201,6 +38395,7 @@ Sommelsdijk
 Sömmerda District
 Sommerein
 Sommeri
+Sommersted
 Sommervieu
 Sommo
 Somogy County
@@ -38283,12 +38478,14 @@ Sorocaba
 Soroca District
 Soroksar District
 Sorrento
+Sorring
 Sorsele
 Sorsk
 Sorsogon
 Sort
 Sortland
 Sorvilán
+Sorø
 Sosa
 Sosenskoye
 Soses
@@ -38685,6 +38882,7 @@ Stadtilm
 Stadtschlaining
 Stadt Zug.jpg
 Stadt Zürich
+Stae
 Stäfa
 Staffanstorp
 Staffelbach
@@ -38892,6 +39090,7 @@ Steenwijkerland
 Steenwijkerwold
 Steesel
 Stefan Vodă District
+Stege
 Stegersbach
 Steg-Hohtenn
 Steglitz-Zehlendorf
@@ -38979,6 +39178,7 @@ Stevenage
 Stevens County
 Stevensweert
 Steve Tshwete
+Stevns
 Stewart Community
 Stewart County
 Stewart District
@@ -39029,6 +39229,7 @@ Stoczek Lukowski commune
 Stod
 Stoddard
 Stoddard County
+Stoholm
 Stojice
 Stoke
 Stoke-on-Trent
@@ -39060,7 +39261,9 @@ Storckensohn
 Stord
 Stordal
 Štore
+Store Heddinge
 Stor-Elvdal
+Store Magleby
 Storey County
 Storfjord
 Storfors
@@ -39115,6 +39318,7 @@ Strancice
 Strand
 Stranda
 Strandabyggð
+Strandby
 Stranecka Zhor
 Strängnäs
 Strani
@@ -39224,6 +39428,7 @@ Stroppo
 Stroud
 Strozza
 Strpce
+Struer
 Strueth
 Struga
 Struharov
@@ -39252,6 +39457,7 @@ Strzelin County
 Strzelno commune
 Strzyzewice commune
 Strzyzow County
+Stubbekøbing
 Stubenberg
 Stubičke Toplice
 Studanka
@@ -39504,6 +39710,7 @@ Sun City West
 Sund
 Sunday's River Valley
 Sundborn locality
+Sundby 
 Sundbyberg
 Sunderland
 Sundhausen
@@ -39624,6 +39831,7 @@ Svabov
 Svaliava
 Svaliava District
 Svalöv
+Svaneke
 Svärdsjö locality
 Svarov
 Svata
@@ -39784,6 +39992,7 @@ Sychevo
 Sychrov
 Sycow commune
 Syddanmark
+Syddjurs
 Sydenham
 Sydney
 Syens
@@ -39858,8 +40067,13 @@ Szubin commune
 Szydlowiec commune
 Szydlowiec County
 Szydlowo commune
+Søborg
 Søgne
 Sømna
+Sønderborg
+Sønderholm
+Sønder Omme
+Sønder Vium
 Søndre Land
 Sør-Aurdal
 Sørfold
@@ -39869,6 +40083,8 @@ Sørreisa
 Sørum
 Sørvágur
 Sør-Varanger
+Søsum
+Taarbæk
 Tabanan Regency
 Tábara Arriba
 Tabasco
@@ -40199,6 +40415,7 @@ Tarlac
 Tarma
 Tarma Province
 Tarn
+Tårnby
 Tarn-et-Garonne
 Tarnobrzeg
 Tarnobrzeg County
@@ -40393,6 +40610,7 @@ Teinainano
 Teine
 Teistungen
 Tejeda
+Tejn
 Te Kauwhata
 Tekeli
 Tekirdag
@@ -40701,6 +40919,7 @@ Thiersee
 Thimphu
 Thira
 Thiruvananthapuram
+Thisted
 Thiva
 Thlopthlocco Tribal Town
 Tholen
@@ -40826,6 +41045,7 @@ Timrå
 Tinajo
 Tineo
 Tinghir Province
+Tinglev
 Tingsryd
 Tinian
 Tinja
@@ -41206,6 +41426,7 @@ Torricella Verzate
 Torri del Benaco
 Torridge
 Torri di Quartesolo
+Torrild
 Torrile
 Torrington
 Torroella de Fluvià
@@ -41951,6 +42172,7 @@ Tverdokhlebovskoye
 Tver Region
 Tverskoy
 Tverskoy District
+Tvis
 Tvorihraz
 Tvorovice
 Tvrdkov
@@ -42017,6 +42239,7 @@ Tyva
 Tyvriv District
 Tywyn
 Tzoran-Kadima
+Tønder
 Tønsberg
 Uaboe District
 Ua Huka
@@ -42123,6 +42346,7 @@ Uhlwiller
 Uhniv
 Uholicky
 Uhonice
+Uhre
 Uhretice
 Uhreticka Lhota
 Uhrice
@@ -42177,6 +42401,7 @@ Ulalar
 Ulan-Majorat commune
 Ulan-Ude
 Ulas
+Ulbjerg
 Ulcinj
 Ülenurme Parish
 Ulestraten
@@ -42196,6 +42421,7 @@ Ulricehamn
 Ulrichskirchen-Schleinbach
 Ulrum
 Ulsan
+Ulsted
 Ulstein
 Ulster
 Ulster County
@@ -42606,6 +42832,7 @@ Vadodara
 Vadsky District
 Vadstena
 Vadsø
+Vadum
 Vaduz
 Værøy
 Vågå
@@ -42647,6 +42874,7 @@ Valbrembo
 Valbrona
 Valbroye
 Valburg
+Valby
 Vâlcea County
 Valchi Dol
 Valchiusa
@@ -42797,6 +43025,7 @@ Vallejuelo
 Vallelaghi
 Valle Lomellina
 Vallenar
+Vallensbæk
 Vallentuna
 Valle Salimbene
 Valle San Nicolao
@@ -42886,6 +43115,7 @@ Vanceboro
 Vance County
 Vancouver
 Vandans
+Vandel
 Vandellòs i l'Hospitalet de l'Infant
 Vanderburgh County
 Vandoeuvres
@@ -42896,6 +43126,7 @@ Vänersborg
 Vang
 Vani
 Vaninsky District
+Vanløse
 Vännäs
 Vannes
 Vannovskoye
@@ -42935,6 +43166,7 @@ Varaždinske Toplice
 Varberg
 Varberg District
 Varbla Parish
+Varde
 Vårdö
 Vardø
 Varedo
@@ -43052,6 +43284,7 @@ Vecses District
 Vecumnieki
 Vedano al Lambro
 Vedano Olona
+Veddum
 Vedelago
 Vedeseta
 Vedomice
@@ -43084,7 +43317,9 @@ Veigné
 Veilsdorf
 Veintiocho de Noviembre
 Veisiejai
+Vejen
 Vejer de la Frontera
+Vejle
 Vejprnice
 Vejprty
 Vejvanov
@@ -43397,7 +43632,11 @@ Vestavia Hills
 Vestby
 Vestec
 Vestenanova
+Vesterbro
+Vesterbro Kongens Enghave
+Vestervig
 Vestfold
+Vesthimmerland
 Vestignè
 Vestmannaeyjar
 Vestone
@@ -43461,6 +43700,7 @@ Vianen
 Vianí
 Viano
 Viarigi
+Viborg
 Vic
 Vícar
 Vicemerice
@@ -43900,6 +44140,7 @@ Vilnohirsk
 Vilobí del Penedès
 Vils
 Vilshanka District
+Vilsund Vest
 Vilters-Wangs
 Vilvoorde
 Vilyuchinsk
@@ -44096,10 +44337,12 @@ Vodnany
 Vodochody
 Vodo di Cadore
 Vodranty
+Vodskov
 Voegtlinshoffen
 Voellerdingen
 Voeren
 Voerendaal
+Voerladegård
 Vogar
 Vogelenzang
 Vogelgrun
@@ -44138,6 +44381,7 @@ Volchenkovskoye
 Volda
 Volders
 Volduchy
+Voldum
 Volec
 Volendam
 Volevcice
@@ -44158,6 +44402,7 @@ Volksberg
 Vollèges
 Vollenborn
 Vollenhove
+Vollsmose
 Volnenskoye
 Volnovakha
 Volnovakha District
@@ -44220,6 +44465,7 @@ Vorden
 Vorderhornbach
 Vordernberg
 Vorderthal
+Vordingborg
 Voreia Kynouria
 Voreia Tzoumerka
 Voreio Aigaio
@@ -44327,6 +44573,7 @@ Vresova
 Vresovice
 Vresse-sur-Semois
 Vrhnika
+Vridsted
 Vries
 Vriezenveen
 Vrijhoeve-Capelle
@@ -46785,7 +47032,13 @@ Zyrzyn commune
 Zyuzino District
 Øksnes
 Ørland
+Ørnhøj
 Ørskog
+Ørting
+Ørum Djurs
+Østerbro
+Øster Hornum
+Øster Hurup
 Østfold
 Østre Toten
 Øvre Eiker
