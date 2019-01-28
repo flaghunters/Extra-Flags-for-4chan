@@ -1,32 +1,35 @@
-Aberdeen
+.DS_Store
 Aberdeenshire
 Angus
-Argyll and Bute
+Argyll
+Ayrshire
+Banffshire
+Berwickshire
+Bute
+Caithness
 Clackmannanshire
-Dumfries and Galloway
-Dundee
-East Ayrshire
-East Dunbartonshire
+Dumfriesshire
+Dunbartonshire
 East Lothian
-East Renfrewshire
-Edinburgh
-Falkirk
 Fife
-Glasgow
-Highland
-Inverclyde
+inverness-shire
+Kincardineshire
+Kinross-shire
+Kirkcudbrightshire
+Lanarkshire
 Midlothian
 Moray
-Na h-Eileanan Siar
-North Ayrshire
-North Lanarkshire
+Na h-Eileanan an Iar
+Nairnshire
 Orkney
-Perth and Kinross
+Peeblesshire
+Perthshire
 Renfrewshire
-Scottish Borders
+Ross and Cromarty
+Roxburghshire
+Selkirkshire
 Shetland
-South Ayrshire
-South Lanarkshire
-Stirling
-West Dunbartonshire
+Stirlingshire
+Sutherland
 West Lothian
+Wigtownshire

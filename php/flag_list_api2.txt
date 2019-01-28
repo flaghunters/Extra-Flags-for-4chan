@@ -1313,6 +1313,7 @@ Angern an der March
 Angers
 Angervilliers
 Angiari
+Anglesey
 Ang Mo Kio
 Angol
 Angolo Terne
@@ -1692,7 +1693,7 @@ Argos-Mykines
 Arguello
 Argun
 Argyle
-Argyll and Bute
+Argyll
 Arhavi
 Ari
 Ariana
@@ -2291,6 +2292,7 @@ Aylesbury Vale
 Aymavilles
 Ayotlán
 Ayranci
+Ayrshire
 Ayryumovskoye
 Aysén
 Aysén Region
@@ -2704,6 +2706,7 @@ Bandung
 Bandung Barat Regency
 Bandung Regency
 Banff
+Banffshire
 Bangkalan Regency
 Bangkok
 Bangli Regency
@@ -3689,6 +3692,7 @@ Bertrix
 Berunice
 Berwang
 Berwick
+Berwickshire
 Berwyn Heights
 Beryozovskoye
 Beryozovsky District
@@ -4227,7 +4231,6 @@ Blackville
 Bladel
 Bladen County
 Bladensburg
-Blaenau Gwent
 Blaesheim
 Blagodarnenskoye
 Blagoevgrad
@@ -4990,6 +4993,7 @@ Bradlec
 Bradley
 Bradley County
 Brædstrup
+Braemar
 Braga
 Braga District
 Bragado Department
@@ -5115,6 +5119,7 @@ Brecht
 Breckerfeld
 Breckinridge County
 Breckland
+Brecknockshire
 Breclav
 Breclav District
 Brecqhou
@@ -5236,7 +5241,6 @@ Brianka
 Briceni District
 Briceño
 Bricherasio
-Bridgend
 Bridgeport
 Bridgetown
 Bridgetown-Greenbushes
@@ -5803,6 +5807,7 @@ Busto Arsizio
 Busto Garolfo
 Busturia
 Buswiller
+Bute
 Butel
 Bûtenpost
 Butgenbach
@@ -5987,7 +5992,7 @@ Cadrezzate
 Cadzand
 Caen
 Caerano di San Marco
-Caerphilly
+Caernarfonshire
 Caetite
 Cafasse
 Cafelândia
@@ -6016,6 +6021,7 @@ Cairate
 Cairns
 Cairo
 Cairo Governorate
+Caithness
 Caiuá
 Cajamar
 Cajamarca
@@ -8921,7 +8927,6 @@ Conversano
 Converse County
 Conway
 Conway County
-Conwy
 Conzano
 Coober Pedy
 Cook
@@ -9259,6 +9264,7 @@ Craíbas
 Craig County
 Craighead County
 Craigieburn
+Craig-y-Dorth
 Craik
 Cranberry Isles
 Cranbrook
@@ -9496,7 +9502,6 @@ Curitiba
 Curno
 Curon Venosta
 Curridabat
-Currie
 Currituck County
 Curry County
 Cursi
@@ -10870,7 +10875,7 @@ Dumaguete
 Dumbleyung
 Dumbría
 Dumenza
-Dumfries and Galloway
+Dumfriesshire
 Dummer
 Dummerston
 Dumont
@@ -10881,6 +10886,7 @@ Dunaujvaros District
 Dunback
 Dunbar
 Dunbarton
+Dunbartonshire
 Duncan
 Dundaga
 Dundalk
@@ -11025,7 +11031,6 @@ Earnewâld
 Earnscleugh
 Easley
 East Arnhem
-East Ayrshire
 East Baton Rouge Parish
 East Berbice-Corentyne
 Eastbourne
@@ -11039,7 +11044,6 @@ East Chicago
 East Coast-Fengshan
 East Devon
 East Dorset
-East Dunbartonshire
 Easterbierrum
 Easterein
 Easterlittens
@@ -11094,7 +11098,6 @@ Easton
 East Pilbara
 Eastport
 East Providence
-East Renfrewshire
 East Riding of Yorkshire
 East Riding of Yorkshire (district)
 Eastrum
@@ -12101,7 +12104,6 @@ Fălesti District
 Falher
 Falkenberg
 Falkenstein
-Falkirk
 Falköping
 Falkwiller
 Fällanden
@@ -13257,6 +13259,7 @@ Gargantilla del Lozoya y Pinilla de Buitrago
 Gargazzone
 Gargnano
 Gargüera de la Vera
+Gargunnock
 Gargždai
 Gariep
 Garínoain
@@ -13347,6 +13350,7 @@ Gavi
 Gavião
 Gavião Peixoto
 Gavilanes
+Gavinton
 Gavirate
 Gävle
 Gävleborg County
@@ -13728,6 +13732,7 @@ Gladsaxe
 Gladstone
 Gladwin County
 Glafirovskoye
+Glamorgan
 Glamorgan Spring Bay
 Gland
 Glâne
@@ -14880,7 +14885,6 @@ Gwangju
 Gweru
 Gwinnett County
 Gwydir
-Gwynedd
 Gy
 Gyal District
 Gyeonggi Province
@@ -15436,6 +15440,7 @@ Hawalli Governorate
 Hawangen
 Hawar Islands
 Hawera
+Hawick
 Hawke's Bay
 Hawke's Bay Region
 Hawkesbury
@@ -17110,13 +17115,13 @@ Inuvik
 Inuvik Region
 Inuyama
 Invercargill
-Inverclyde
 Inverell
 Invergordon
 Inver Grove Heights
 Inverigo
 Invermay
 Inverness County
+inverness-shire
 Inverno e Monteleone
 Inverso Pinasca
 Inveruno
@@ -17268,7 +17273,6 @@ Išlaužas
 Isle au Haut
 Isle aux Morts
 Isle La Motte
-Isle of Anglesey
 Isle of Portland
 Isle of Wight
 Isle of Wight County
@@ -19206,6 +19210,7 @@ Kimotsuki
 Kimovsk
 Kimswert
 Kin
+Kincardineshire
 Kinda
 Kindberg
 Kindersley
@@ -19245,6 +19250,7 @@ Kinney County
 Kinnula
 Kinokawa
 Kinrooi
+Kinross-shire
 Kinshasa
 Kintzheim
 Kiowa County
@@ -19284,6 +19290,7 @@ Kirillov
 Kirishi
 Kirishima
 Kirkagac
+Kirkcudbrightshire
 Kirkham
 Kirkkonummi
 Kirkland
@@ -21150,6 +21157,7 @@ Lanaken
 Lanao del Norte
 Lanao del Sur
 Lanark County
+Lanarkshire
 Lanarvily
 Lanaudière
 La Nava
@@ -24736,6 +24744,7 @@ Meridiano
 Merijärvi
 Merikarvia
 Merin
+Merioneth
 Merishausen
 Merivale
 Meriwether County
@@ -25942,6 +25951,7 @@ Montgat
 Montgermont
 Montgomery
 Montgomery County
+Montgomeryshire
 Montgomery Village
 Mönthal
 Monthault
@@ -26764,12 +26774,13 @@ Nahanni Butte
 Nahant
 Nahari
 Nahariyya
-Na h-Eileanan Siar
+Na h-Eileanan an Iar
 Nahf
 Nahi
 Nahorany
 Nahosovice
 Naie
+Nairnshire
 Nairobi
 Nairobi County
 Naizin
@@ -27056,7 +27067,6 @@ Neamț County
 Neant-sur-Yvel
 Neapoli-Sykies
 Nea Propontida
-Neath Port Talbot
 Nea Zichni
 Neba
 Nebanice
@@ -27888,7 +27898,6 @@ Northampton County
 Northamptonshire
 North Andover
 North Attleborough
-North Ayrshire
 North Battleford
 North Bay
 North Beach
@@ -27952,7 +27961,6 @@ North Kazakhstan Region
 North Kesteven
 North Kingstown
 North Kurdufan State
-North Lanarkshire
 Northland Region
 North Las Vegas
 North Las Vegas.jpg
@@ -30423,6 +30431,7 @@ Pedro Miguel
 Pedro Rodriguez
 Pedro Santana
 Pedroso de Acim
+Peeblesshire
 Peel
 Peel en Maas
 Peel Region
@@ -30648,9 +30657,9 @@ Perstorp
 Pertek
 Pertengo
 Perth
-Perth and Kinross
 Perth-Andover
 Perth County
+Perthshire
 Pertica Alta
 Pertica Bassa
 Pertoltice
@@ -31958,7 +31967,6 @@ Power County
 Poweshiek County
 Powhatan County
 Pownal
-Powys
 Poysdorf
 Pöytyä
 Pozanti
@@ -32997,6 +33005,7 @@ Radlow
 Radmer
 Radnevo
 Radnice
+Radnorshire
 Radnoves
 Radnovice
 Radoboj 
@@ -33645,7 +33654,6 @@ Rhenoy
 Rhinau
 Rho
 Rhode Island
-Rhondda Cynon Taf
 Rhône
 Rhön-Grabfeld District
 Rhoon
@@ -34373,6 +34381,7 @@ Rosovice
 Rosporden
 Rossa
 Rossana
+Ross and Cromarty
 Rossano Veneto
 Rossatz-Arnsdorf
 Rossau
@@ -34496,6 +34505,7 @@ Rowe
 Rowlett
 Rowley
 Roxburgh
+Roxburghshire
 Roxbury
 Roxby Downs
 Royal Oak
@@ -36832,7 +36842,6 @@ Scotland
 Scotland County
 Scott
 Scott County
-Scottish Borders
 Scotts Bluff County
 Scottsdale
 Scranton
@@ -36986,6 +36995,7 @@ Selestat
 Seletice
 Selje
 Seljord
+Selkirkshire
 Selkovskoye
 Sell
 Sella Giudicarie
@@ -38552,7 +38562,6 @@ Southampton
 Southampton County
 Southampton Parish
 South Australia
-South Ayrshire
 South Bend
 South Berwick
 Southborough
@@ -38608,7 +38617,6 @@ South Kesteven
 South Kingstown
 South Kurdufan State
 South Lakeland
-South Lanarkshire
 Southland District
 Southland Region
 South Norfolk
@@ -39207,6 +39215,7 @@ Stinatz
 Štip
 Stiphout
 Stirling
+Stirlingshire
 Stitary
 Stitina
 Stitna nad Vlari-Popov
@@ -41081,6 +41090,7 @@ Tirat Carmel
 Tirau
 Tire
 Tirebolu
+Tiree
 Tires
 Tirkšliai
 Tiroa
@@ -41323,7 +41333,6 @@ Töreboda
 Torella del Sannio
 Töre locality
 Toretsk
-Torfaen
 Torgiano
 Torgnon
 Torgu Parish
@@ -42961,7 +42970,6 @@ Valencia de Alcántara
 Valenciennes
 Valenza
 Valenzano
-Vale of Glamorgan
 Vale of White Horse
 Våler
 Valera
@@ -45250,7 +45258,6 @@ West Coast Region
 West Devon
 Westdorpe
 West Dorset
-West Dunbartonshire
 Westendorf
 Westenschouwen
 Westerbork
@@ -45502,6 +45509,7 @@ Wietrzychowice commune
 Wigan
 Wiggensbach
 Wigoltingen
+Wigtownshire
 Wihr-au-Val
 Wijchen
 Wijdemeren
@@ -45845,7 +45853,6 @@ Wrangell
 Wreay
 Wreford
 Wrentham
-Wrexham
 Wreys Bush
 Wright County
 Wrigley
