@@ -2,15 +2,12 @@ Alblasserdam
 Albrandswaard
 Alphen aan de Rijn
 Barendrecht
-Binnenmaas
 Bodegraven-Reeuwijk
 Brielle
 Capelle aan den IJssel
-Cromstrijen
 Delft
 Den Haag
 Dordrecht
-Giessenlanden
 Goeree-Overflakkee
 Gorinchem
 Gouda
@@ -18,26 +15,23 @@ Hardinxveld-Giessendam
 Hellevoetsluis
 Hendrik Ido Ambacht
 Hillegom
+Hoeksche Waard
 Kaag en Braassem
 Katwijk
-Korendijk
 Krimpen aan den IJssel
 Krimpenerwaard
 Lansingerland
-Leerdam
 Leiden
 Leiderdorp
 Leidschendam-Voorburg
 Lisse
 Maassluis
 Midden-Delfland
-Molenwaard
+Molenlanden
 Nieuwkoop
 Nissewaard
 Noordwijk
-Noordwijkerhout
 Oegstgeest
-Oud-Beijerland
 Papendrecht
 Pijnacker-Nootdorp
 Ridderkerk
@@ -45,7 +39,6 @@ Rijswijk
 Rotterdam
 Schiedam
 Sliedrecht
-Strijen
 Teylingen
 Vlaardingen
 Voorschoten
@@ -53,7 +46,6 @@ Waddinxveen
 Wassenaar
 Westland
 Westvoorne
-Zederik
 Zoetermeer
 Zoeterwoude
 Zuidplas

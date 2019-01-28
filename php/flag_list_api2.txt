@@ -20,7 +20,6 @@ Aadorf
 Aa en Hunze
 Aagtekerke
 Aalborg
-Aalburg
 Aalestrup
 Aalsmeer
 Aalst
@@ -3214,7 +3213,6 @@ Bedonia
 Bedretto
 Bedrichov
 Bedulita
-Bedum
 Bedzin County
 Bedzino commune
 Bee
@@ -3224,6 +3222,7 @@ Bee County
 Beefort
 Beegden
 Beek
+Beekdaelen
 Beek en Donk
 Beemster
 Beernem
@@ -4078,7 +4077,6 @@ Bingol
 Bingol Province
 Binissalem
 Binn
-Binnenmaas
 Binningen
 Bintan Regency
 Binyamina-Giv'at Ada
@@ -9354,7 +9352,6 @@ Croglio
 Crognaleto
 Croixanvec
 Cromford
-Cromstrijen
 Cromvoirt
 Cromwell
 Cronay
@@ -9896,7 +9893,6 @@ Delta State
 Deltebre
 De Lytse Jouwer
 Demak Regency
-De Marne
 Dembeni
 Demerara-Mahaica
 Demihovskoye
@@ -10538,7 +10534,6 @@ Donetsk Region
 Dongdaemun District
 Dong District
 Dongen
-Dongeradeel
 Dongguan
 Dongjak District
 Dongo
@@ -11218,7 +11213,6 @@ Eeklo
 Eelde
 Eel River Crossing
 Eemnes
-Eemsmond
 Een
 Eenhana
 Eenrum
@@ -12310,7 +12304,6 @@ Ferschnitz
 Fertile Belt
 Fertile Valley
 Ferwâlde
-Ferwerderadiel
 Ferwert
 Feschbech
 Fès-Meknès
@@ -13418,7 +13411,6 @@ Geispolsheim
 Geiswasser
 Geiswiller
 Gelderland
-Geldermalsen
 Geldrop
 Geldrop-Mierlo
 Geleen
@@ -13607,7 +13599,6 @@ Giessen
 Giessenburg
 Giessendam
 Gießen District
-Giessenlanden
 Giesshübl
 Gieten
 Gieterveen
@@ -14481,7 +14472,6 @@ Grontardo
 Groot-Ammers
 Grootebroek
 Groote Eylandt
-Grootegast
 Groote Lindt
 Grootfontein
 Grootschermer
@@ -14922,7 +14912,6 @@ Haapsalu
 Haaren
 Haarlem
 Haarlemmerliede
-Haarlemmerliede en Spaarnwoude
 Haarlemmermeer
 Haarzuilens
 Haaslava Parish
@@ -15248,7 +15237,6 @@ Hardwick
 Hardy County
 Hare Bay
 Harelbeke
-Haren
 Harford County
 Harghita County
 Har Hebron
@@ -15756,6 +15744,7 @@ Hessen
 Hessenheim
 Hessequa
 Heteren
+Het Hogeland
 Hettenschlag
 Hettinger County
 Hettlingen
@@ -16061,6 +16050,7 @@ Hoedic
 Hoegaarden
 Hoeilaart
 Hoek
+Hoeksche Waard
 Hoek van Holland
 Hoenheim
 Hoenkoop
@@ -19708,7 +19698,6 @@ Kollam
 Kõlleste Parish
 Kölliken
 Kollum
-Kollumerland en Nieuwkruisland
 Kollumersweach
 Kolmer-Bierg
 Köln
@@ -19863,7 +19852,6 @@ Korçë County
 Korczew commune
 Kordelio-Evosmos
 Koreiz
-Korendijk
 Korenec
 Korenov
 Korenovsk
@@ -21684,13 +21672,11 @@ Leech Lake Indian Reservation
 Lee County
 Leeds
 Leeds and Grenville United Counties
-Leek
 Leelanau County
 Leende
 Leens
 Leepchanskoye
 Leerbroek
-Leerdam
 Leer District
 Leersum
 Leesburg
@@ -22311,7 +22297,6 @@ Lindved
 Line
 Linescio
 Lingenau
-Lingewaal
 Lingewaard
 Lingga Regency
 Lingmukha
@@ -25560,7 +25545,7 @@ Molde
 Molemole
 Molenaarsgraaf
 Molene
-Molenwaard
+Molenlanden
 Moletai District Municipality
 Mole Valley
 Molfetta
@@ -27111,7 +27096,6 @@ Needham
 Ñeembucú Department
 Neer
 Neeracher
-Neerijnen
 Neeritter
 Neerloon
 Neerpelt
@@ -27753,6 +27737,7 @@ No. 78
 Noáin
 Noale
 Noardburgum
+Noardeast-Fryslân
 Noarootsi Parish
 Noasca
 Nobeoka
@@ -27820,7 +27805,6 @@ Noord-Holland
 Noordoostpolder
 Noord-Scharwoude
 Noordwijk
-Noordwijkerhout
 Noosa
 Nootdorp
 Nora
@@ -29046,7 +29030,6 @@ Oncino
 Ondangwa
 Ondarroa
 Onda Verde
-Onderbanken
 Ondokuzmayis
 Öndörshireet
 Ondo State
@@ -29650,7 +29633,6 @@ Ouarzazate
 Ouarzazate Province
 Oucmanice
 Oud-Alblas
-Oud-Beijerland
 Ouddorp
 Oude IJsselstreek
 Oudelande
@@ -36688,7 +36670,6 @@ Schillersdorf
 Schilpario
 Schiltigheim
 Schimmert
-Schinnen
 Schinveld
 Schinznach
 Schinznach-Bad
@@ -39417,7 +39398,6 @@ Stribrne Hory
 Stribrnice
 Stribro
 Strijbeek
-Strijen
 Strijp
 Stritez
 Stritez nad Becvou
@@ -40696,7 +40676,6 @@ Tena
 Tenali
 Tenamaxtlán
 Tenares
-Ten Boer
 Tendo
 Tendring
 Tendu
@@ -43711,7 +43690,6 @@ Viana
 Viana do Alentejo
 Viana do Castelo
 Viana do Castelo District
-Vianen
 Vianí
 Viano
 Viarigi
@@ -43842,6 +43820,7 @@ Viimsi Parish
 Viitasaari
 Vijayawada
 Vijes
+Vijfheerenlanden
 Vik
 Vika locality
 Vikna
@@ -45218,7 +45197,6 @@ Werentzhouse
 Werfen
 Werfenweng
 Wergea
-Werkendam
 Werkhoven
 Wernberg
 Werndorf
@@ -45235,6 +45213,7 @@ Wesley
 Wesleyville
 Wesola
 Wessem
+West_Betuwe
 West Arnhem
 West Arthur
 West Bank
@@ -45264,6 +45243,7 @@ Westerbork
 Westergeast
 Westerheim im Unterallgäu
 Westerhoven
+Westerkwartier
 Westerlo
 Westerly
 Western Administrative Area
@@ -45847,7 +45827,6 @@ Worthing
 Worthington
 Woubrugge
 Woudenberg
-Woudrichem
 Wouw
 Wrangell
 Wreay
@@ -46607,7 +46586,6 @@ Zeccone
 Zeddam
 Zedelgem
 Zederhaus
-Zederik
 Zedlitz
 Zeeland
 Zeewolde
