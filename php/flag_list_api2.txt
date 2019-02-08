@@ -3679,7 +3679,6 @@ Beromünster
 Beroun
 Beroun District
 Berovo
-Berra
 Berrechid Province
 Berriatua
 Berri Barmera
@@ -4004,7 +4003,6 @@ Biezwil
 Bifuka
 Biga
 Bigadic
-Bigarello
 Big Arm
 Big Cypress Indian Reservation
 Biggar
@@ -4724,12 +4722,12 @@ Borgholzhausen
 Borgiallo
 Borgloon
 Borgo
+Borgocarbonara
 Borgo Chiese
 Borgo d'Ale
 Borgo di Terzo
 Borgo Don Bosco
 Borgofranco d'Ivrea
-Borgofranco sul Po
 Borgo Lares
 Borgolavezzaro
 Borgo Maggiore
@@ -6410,7 +6408,6 @@ Canet d'Adri
 Cañete
 Cañete de las Torres
 Caneva
-Canevino
 Cangas
 Cangas de Onís
 Canik
@@ -6717,7 +6714,6 @@ Caraz
 Carballo
 Carbó
 Carbonara al Ticino
-Carbonara di Po
 Carbonara Scrivia
 Carbonate
 Carbon County
@@ -8821,6 +8817,7 @@ Collin County
 Collingsworth County
 Collio
 Collipulli
+Colli Verdi
 Collobiano
 Collombey-Muraz
 Collonge-Bellerive
@@ -12707,7 +12704,6 @@ Formentera
 Formigara
 Formigine
 Formigliana
-Formignana
 Formosa
 Formosa Province
 Fornace
@@ -34083,6 +34079,7 @@ Riudecols
 Riudellots de la Selva
 Riudoms
 Riva del Garda
+Riva del Po
 Riva di Solto
 Rivalba
 Riva Ligure
@@ -34140,7 +34137,6 @@ Riyadh
 Rizal
 Rize
 Rize Province
-Ro
 Roan
 Roana
 Roane County
@@ -34777,7 +34773,6 @@ Ruhnu Parish
 Ruiloba
 Ruinen
 Ruinerwold
-Ruino
 Ruiselede
 Ruja commune
 Rujiena
@@ -35739,11 +35734,11 @@ Sangiano
 San Giljan
 San Gillio
 San Ginesio
+San Giorgio Bigarello
 San Giorgio Canavese
 San Giorgio della Richinvelda
 San Giorgio delle Pertiche
 San Giorgio di Lomellina
-San Giorgio di Mantova
 San Giorgio di Nogaro
 San Giorgio di Piano
 San Giorgio in Bosco
@@ -41890,7 +41885,7 @@ Trescore Balneario
 Trescore Cremasco
 Tres de Febrero Department
 Três Fronteiras
-Tresigallo
+Tresignana
 Tresivio
 Três Lagoas
 Tres Lomas Department
@@ -43302,7 +43297,6 @@ Valtournenche
 Valtrovice
 Valvarrone
 Valvasone Arzene
-Valverde
 Val Verde County
 Valverde de Alcalá
 Valverde del Camino
@@ -43763,7 +43757,7 @@ Verkhny Tagil
 Verkhovyna District
 Verl
 Vermerovice
-Vermezzo
+Vermezzo con Zelo
 Vermiglio
 Vermilion County
 Vermilion Parish
@@ -46871,7 +46865,6 @@ Zellerndorf
 Zellwiller
 Zelnava
 Zelo Buon Persico
-Zelo Surrigone
 Zelow commune
 Zeltweg
 Zeĺva
