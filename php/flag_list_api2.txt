@@ -2140,7 +2140,6 @@ Auckland Islands
 Aude
 Auderghem
 Audierne
-Auditore
 Audnedal
 Audrain County
 Audru Parish
@@ -4759,6 +4758,7 @@ Borgo Tanaro Trincere Torrazzo
 Borgo Ticino
 Borgo Torretta
 Borgo Tossignano
+Borgo Valbelluna
 Borgo Val di Taro
 Borgo Valsugana
 Borgo Veneto
@@ -6324,7 +6324,6 @@ Campo Ligure
 Campo Limpo de Goiás
 Campo Limpo Paulista
 Campolongo Maggiore
-Campolongo sul Brenta
 Campolongo Tapogliano
 Campo Lugar
 Campo Maior
@@ -8509,7 +8508,6 @@ Cisano sul Neva
 Cisarov
 Ciserano
 Cisliano
-Cismon del Grappa
 Cisneros
 Cison di Valmarino
 Cisovice
@@ -9386,7 +9384,6 @@ Crenshaw County
 Crescent City
 Crescentino
 Crespadoro
-Crespano del Grappa
 Crespiatica
 Crespino
 Crespos
@@ -21941,7 +21938,6 @@ Lentegí
 Lentekhi
 Lentella
 Lentgen
-Lentiai
 Lenti District
 Lentvaris
 Lenvik
@@ -24686,7 +24682,6 @@ Mejillones
 Mejorada del Campo
 Meknès
 Meknès Prefecture
-Mel
 Melaka
 Melaky Region
 Meland
@@ -27148,7 +27143,6 @@ Navata
 Nave
 Navelli
 Navès
-Nave San Rocco
 Navezuelas
 Navia
 Navidad
@@ -29954,7 +29948,6 @@ Paderborn District
 Paderna
 Paderne
 Paderno d'Adda
-Paderno del Grappa
 Paderno Dugnano
 Paderno Franciacorta
 Paderno Pochielli
@@ -31094,6 +31087,7 @@ Pietrykaŭ District
 Pieve Albignola
 Pieve d'Olmi
 Pieve del Cairo
+Pieve del Grappa
 Pieve di Bono-Prezzo
 Pieve di Cadore
 Pieve di Cento
@@ -36008,7 +36002,6 @@ San Miguel de Tucumán
 San Miguel el Alto
 San Millán de la Cogolla
 Sannat
-San Nazario
 Sannazzaro de' Burgondi
 San Nazzaro Sesia
 San Nazzaro Val Cavargna
@@ -36649,7 +36642,7 @@ Sasnovy Bor
 Sassandra-Marahoué District
 Sassello
 Sassenheim
-Sassocorvaro
+Sassocorvaro Auditore
 Sassofeltrio
 Sassoferrato
 Sasso Marconi
@@ -40980,6 +40973,7 @@ Terrazzo
 Terre Adélie
 Terrebonne
 Terrebonne Parish
+Terre d'Adige
 Terre-de-Haut
 Terre del Reno
 Terre di Pedemonte
@@ -41928,7 +41922,6 @@ Tribrichy
 Tricase
 Tricerro
 Tricesimo
-Trichiana
 Tricht
 Tri Dvory
 Trieben
@@ -43072,6 +43065,7 @@ Valbo locality
 Valbondione
 Val Brembilla
 Valbrembo
+Valbrenta
 Valbrevenna
 Valbrona
 Valbroye
@@ -43284,7 +43278,6 @@ Valsequillo de Gran Canaria
 Valsolda
 Valsot
 Valsov
-Valstagna
 Valstrona
 Val Terbi
 Valtice
@@ -46619,7 +46612,6 @@ Zaluzi
 Zama
 Zamami
 Zambales
-Zambana
 Zamberk
 Zambezia Province
 Zambezi Region
