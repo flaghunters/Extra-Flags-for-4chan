@@ -1023,8 +1023,6 @@ Altinova
 Altinozu
 Altintas
 Altinyayla
-Altipiano Est
-Altipiano Ovest
 Altishofen
 Altissimo
 Altivole
@@ -2966,7 +2964,6 @@ Barretos
 Barrhead
 Barrhead County
 Barrie
-Barriera Vecchia-San Giacomo
 Barriere District
 Barrier Valley
 Barrigada
@@ -8726,7 +8723,6 @@ Cittadella
 Città della Pieve
 Città di Castello
 Cittaducale
-Città Nuova-Barriera Nuova-San Vito-Città Vecchia
 Cittareale
 Città Sant'Angelo
 Cittiglio
@@ -17185,6 +17181,7 @@ Ichnia District
 Ichtegem
 Ichtershausen
 Ichtratzheim
+I Circoscrizione
 Icmeler
 Icó
 Icod de los Vinos
@@ -17241,8 +17238,10 @@ Iheya
 Ihorombe Region
 Ihsangazi
 Ii
+II Circoscrizione
 Iida
 Iide
+III Circoscrizione
 Iijima
 Iinan
 Iisaku Parish
@@ -17829,6 +17828,7 @@ Ivanteyevka
 Ivanychi District
 Ivars d'Urgell
 Ivars de Noguera
+IV Circoscrizione
 Ivdel
 Iveland
 Ivianiec
@@ -34919,7 +34919,6 @@ Röhrig
 Rohr im Gebirge
 Rohrwiller
 Rohy
-Roiano-Gretta-Barcola-Cologna-Scorcola
 Roiate
 Roi Et Province
 Roio del Sangro
@@ -36350,7 +36349,6 @@ San Giorgio su Legnano
 San Giorio di Susa
 San Giovanni al Natisone
 San Giovanni Bianco
-San Giovanni-Chiadino-Rozzol
 San Giovanni del Dosso
 San Giovanni Ilarione
 San Giovanni Incarico
@@ -38036,7 +38034,6 @@ Sertolovo
 Servia-Velventos
 Servigliano
 Servion
-Servola-Chiarbola-Valmaura-Borgo San Sergio
 Servon-sur-Vilaine
 Seryshevsky District
 Serzedelo
@@ -44193,6 +44190,7 @@ Vcelakov
 Vcelna
 Vcelnicka
 Vchynice
+V Circoscrizione
 Veazie
 Vecchiano
 Vechnov
@@ -44652,6 +44650,7 @@ Vichuquén
 Viciebsk
 Viciebsk District
 Viciebsk Region
+VI Circoscrizione
 Vico del Gargano
 Vicoforte
 Vicoli
@@ -44762,6 +44761,7 @@ Vihiga County
 Vihti
 Vihula Parish
 Viichten
+VII Circoscrizione
 Viimsi Parish
 Viitasaari
 Vijayawada
