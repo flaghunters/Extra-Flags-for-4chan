@@ -3847,7 +3847,6 @@ Beurnevésin
 Beusichem
 Beuzec-Cap-Sizun
 Bevagna
-Bevaix
 Bever
 Beveren
 Beverina
@@ -4971,7 +4970,6 @@ Bouarada
 Bouches-du-Rhône
 Bouctouche
 Boudry
-Boudry District
 Bouéni
 Bouficha
 Bougainville Autonomous Region
@@ -13176,7 +13174,6 @@ Frenkendorf
 Frenstat pod Radhostem
 Fresach
 Fresagrandinaria
-Fresens
 Fresnedillas de la Oliva
 Fresnedoso de Ibor
 Fresnes
@@ -14350,7 +14347,6 @@ Goreme
 Gorenja Vas-Poljane
 Goretovskoye
 Gorga
-Gorgier
 Gorgo al Monticano
 Gorgonzola
 Gorham
@@ -21284,7 +21280,6 @@ La Chappelle-Erbree
 Láchar
 La Chaux
 La Chaux-de-Fonds
-La Chaux-de-Fonds District
 La Chaux-des-Breuleux
 La Chaux-du-Milieu
 Lachčycy
@@ -21392,6 +21387,7 @@ Lagran
 La Granada
 La Granada de Riotinto
 La Granadella
+La Grande Béroche
 Lagrange
 LaGrange County
 La Granja
@@ -22209,7 +22205,6 @@ Le Lieu
 Lelis commune
 Leliūnai
 Le Locle
-Le Locle District
 Lelu
 Lelystad
 Le Mans
@@ -26236,7 +26231,6 @@ Montague County
 Montagut i Oix
 Montaione
 Montalbán de Córdoba
-Montalchez
 Montalcino
 Montaldeo
 Montaldo Bormida
@@ -27821,7 +27815,6 @@ Neubois
 Neuburg-Schrobenhausen District
 Neubuz
 Neuchâtel
-Neuchâtel District
 Neudau
 Neudietendorf
 Neudorf bei Parndorf
@@ -35674,7 +35667,6 @@ Saint-Aubin
 Saint-Aubin-d'Aubigne
 Saint-Aubin-des-Landes
 Saint-Aubin-du-Cormier
-Saint-Aubin-Sauges
 Saint-Ave
 Saint-Avertin
 Saint-Barthelemy
@@ -43818,13 +43810,11 @@ Valdepeñas de Jaén
 Valderredible
 Valderrubio
 Val-de-Ruz
-Val-de-Ruz District
 Valdés
 Val de San Vicente
 Valdetorres
 Valdetorres de Jarama
 Val-de-Travers
-Val-de-Travers District
 Valdez
 Valdice
 Val di Chy
@@ -44171,7 +44161,6 @@ Vaŭkavysk
 Vaŭkavysk District
 Vaulion
 Vaulruz
-Vaumarcus
 Vaupés Department
 Vauxhall
 Vaux-sur-Morges
