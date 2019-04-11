@@ -939,7 +939,6 @@ Alpes-Maritimes
 Alpette
 Alphen
 Alphen aan den Rijn
-Alphen aan de Rijn
 Alphen-Chaam
 Alpiarça
 Alpicat
@@ -3651,7 +3650,7 @@ Bergeijk
 Bergen
 Bergen County
 Berg en Dal
-Bergen Op Zoom
+Bergen op Zoom
 Bergern im Dunkelsteinerwald
 Bergharen
 Bergheim
@@ -38615,7 +38614,7 @@ Sint-Amands
 Sint-Annaland
 Sint Anna ter Muiden
 Sint Anne
-Sint-Anthonis
+Sint Anthonis
 Sintautai
 Sint Eustatius
 Sint-Genesius-Rode
@@ -41868,6 +41867,7 @@ Tierralta
 Tieschen
 Tiétar
 Tietê
+Tietjerksteradeel
 Tift County
 Tiggiano
 Tigilsky District
@@ -43122,7 +43122,6 @@ Tysvær
 Tysyachnoye
 Tyszowce commune
 Tytsjerk
-Tytsjerksteradiel
 Tytuvenai
 Tyumen
 Tyumen Region
@@ -46177,7 +46176,6 @@ Wesley
 Wesleyville
 Wesola
 Wessem
-West_Betuwe
 West Arnhem
 West Arthur
 West Bank
@@ -46186,6 +46184,7 @@ West Baton Rouge Parish
 West Bay
 West Bengal
 West Berkshire
+West Betuwe
 Westborough
 West Boylston
 West Bridgewater
