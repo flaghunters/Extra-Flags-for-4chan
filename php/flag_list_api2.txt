@@ -6640,7 +6640,6 @@ Canton Montauban-de-Bretagne
 Canton Montfort-sur-Meu
 Canton Moreac
 Canton Morlaix
-Canton Morrsv
 Canton Mulhouse-1
 Canton Mulhouse-2
 Canton Mulhouse-3
@@ -8676,7 +8675,6 @@ Circolo della Riviera
 Circolo della Rovana
 Circolo della Verzasca
 Circolo delle Isole
-Circolo del Ticino
 Circolo di Acquarossa
 Circolo di Agno
 Circolo di Airolo
@@ -8699,6 +8697,7 @@ Circolo di Olivone
 Circolo di Onsernone
 Circolo di Quinto
 Circolo di Riva San Vitale
+Circolo di Sant'Antonino
 Circolo di Sessa
 Circolo di Sonvico
 Circolo di Stabio
@@ -28338,6 +28337,7 @@ Nizhniye Sergi
 Nizhnyaya Salda
 Nizhnyaya Tura
 Nizhny Kislyaj
+Nizhny Novgorod
 Nizhny Novgorod Region
 Nizhny Odes
 Nizhny Tagil
