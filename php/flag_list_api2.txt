@@ -127,6 +127,7 @@ Acacias
 Acadia Municipal District
 Acadia Parish
 Açailândia
+Acámbaro
 Acandí
 A Cañiza
 Acaraú
@@ -1497,6 +1498,8 @@ Aparecida
 Aparecida d'Oeste
 Aparecida de Goiânia
 Apartadó
+Apaseo el Alto
+Apaseo el Grande
 Apatin
 Apatity
 Apatou
@@ -7610,6 +7613,7 @@ Celadna
 Celakovice
 Celano
 Celanova
+Celaya
 Celcice
 Celechovice
 Celechovice na Hane
@@ -9180,6 +9184,7 @@ Commugny
 Como
 Comoé District
 Comondú
+Comonfort
 Comox
 Comox Valley Regional District
 Compiano
@@ -9398,6 +9403,7 @@ Coronel Oviedo
 Coronel Portillo Province
 Coronel Suárez
 Coronel Suárez Department
+Coroneo
 Coronie District
 Corozal
 Corozal District
@@ -9429,6 +9435,7 @@ Cortaccia sulla Strada del Vino
 Cortaillod
 Cortandone
 Cortanze
+Cortazar
 Cortazzone
 Corte Brugnatella
 Corteconcepción
@@ -9787,6 +9794,7 @@ Cudillero
 Cudrefin
 Cue
 Cuenca
+Cuerámaro
 Cuevas del Campo
 Cuevas del Valle
 Cuggiono
@@ -10736,6 +10744,7 @@ Dobryszyce commune
 Dobrzany commune
 Dobrzyn nad Wisla commune
 Dobsice
+Doctor Mora
 Doddridge County
 Döderhult District
 Dodewaard
@@ -17041,6 +17050,7 @@ Huamanga Province
 Huancavelica Region
 Huancayo
 Huancayo Province
+Huanímaro
 Huánuco
 Huánuco Province
 Huánuco Region
@@ -18128,6 +18138,7 @@ Jaquimeyes
 Jarabacoa
 Jaraicejo
 Jaraíz de la Vera
+Jaral del Progreso
 Jaramillo
 Jarandilla de la Vera
 Jaray
@@ -18274,6 +18285,7 @@ Jequié
 Jerada Province
 Jerago con Orago
 Jerauld County
+Jerécuaro
 Jerez de la Frontera
 Jerez de los Caballeros
 Jerice
@@ -24423,6 +24435,7 @@ Manturovsky District
 Mäntyharju
 Manu'a Islands
 Manuel Benavides
+Manuel Doblado
 Manufahi District
 Manukau Ward
 Manurewa East
@@ -26871,6 +26884,7 @@ Morningside
 Mornington
 Mornington Peninsula
 Morobe Province
+Moroleón
 Morolo
 Morona Santiago Province
 Morondava
@@ -31279,6 +31293,7 @@ Penghu County
 Penha
 Penha de França
 Peniche
+Pénjamo
 Penjum
 Penmarch
 Pennabilli
@@ -33555,6 +33570,7 @@ Purén
 Purgstall an der Erlauf
 Puriscal
 Purísima
+Purísima del Rincón
 Purkersdorf
 Purmerend
 Purranque
@@ -35169,6 +35185,7 @@ Romeral
 Römerswil
 Römhild
 Romille
+Romita
 Rommerskirchen
 Romnensky District
 Romny
@@ -36279,6 +36296,7 @@ Salvaleón
 Salvaleón de Higüey
 Salvan
 Salvaterra de Magos
+Salvatierra
 Salve
 Salvirola
 Salza di Pinerolo
@@ -36457,6 +36475,7 @@ San Didero
 San Diego
 San Diego County
 San Diego de Alejandría
+San Diego de la Unión
 Sandigliano
 Sandikli
 Sandisfield
@@ -36518,6 +36537,7 @@ San Francisco de Borja
 San Francisco de Conchos
 San Francisco de Jacagua
 San Francisco del Oro
+San Francisco del Rincón
 San Francisco de Macorís
 Sanfrè
 Sanfront
@@ -36623,6 +36643,7 @@ San José de Palmar
 San José de Pare
 San José Department
 San José de Uré
+San José Iturbide
 San José Province
 San Juan
 San Juan County
@@ -36759,6 +36780,7 @@ Sanlúcar de Barrameda
 Sanlúcar de Guadiana
 San Luis
 San Luis de Gaceno
+San Luis de la Paz
 San Luis de Palenque
 San Luis Obispo
 San Luis Obispo County
@@ -37011,6 +37033,7 @@ Santa Cruz das Palmeiras
 Santa Cruz de Barahona
 Santa Cruz de Bezana
 Santa Cruz de El Seibo
+Santa Cruz de Juventino Rosas
 Santa Cruz de la Palma
 Santa Cruz de la Sierra
 Santa Cruz del Comercio
@@ -37171,6 +37194,7 @@ Santiago del Estero Province
 Santiago de los Caballeros
 Santiago del Teide
 Santiago do Cacém
+Santiago Maravatío
 Santiago Metropolitan Region
 Santiago Province
 Santiago Rodríguez Province
@@ -41454,6 +41478,7 @@ Taragi
 Tarakli
 Tarama
 Taranaki Region
+Tarandacuao
 Tarano
 Taranta Peligna
 Tarantasca
@@ -41483,6 +41508,7 @@ Tarhuna
 Tarifa
 Tarija
 Tarija Department
+Tarimoro
 Tarko-Sale
 Tarlac
 Tarma
@@ -42078,6 +42104,7 @@ Tienen
 Tienhoven
 Tierp
 Tierra Amarilla
+Tierra Blanca
 Tierra del Fuego Province
 Tierralta
 Tieschen
@@ -43735,6 +43762,7 @@ Urgell
 Urgezes
 Urgnano
 Urgup
+Uriangato
 Uribe
 Uribia
 Urique
@@ -44139,6 +44167,7 @@ Valle del Cauca Department
 Valle del Retortillo
 Valle del Zalabí
 Valle de Santa Ana
+Valle de Santiago
 Valle de Trápaga-Trapagaran
 Valle de Villaverde
 Valle de Yerri
@@ -45138,6 +45167,7 @@ Village-Neuf
 Villagómez
 Villa González
 Villagonzalo Pedernales
+Villagrán
 Villa Guardia
 Villa Guerrero
 Villa Hermosa
@@ -47093,6 +47123,7 @@ Xerta
 Xewkija
 Xghajra
 Xhariep
+Xichú
 Xinjiang
 Xinzo de Limia
 Xochimilco
@@ -47431,6 +47462,7 @@ Yuregir
 Yurga
 Yurihama
 Yurihonjo
+Yuriria
 Yurivka District
 Yurlinsky District
 Yurlovskoye
