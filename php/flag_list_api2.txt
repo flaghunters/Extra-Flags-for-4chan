@@ -6576,6 +6576,7 @@ Cañar Province
 Canas
 Cañas
 Cañasgordas
+Canatlán
 Cañaveral de León
 Canavieiras
 Canazei
@@ -6605,6 +6606,7 @@ Candler County
 Canegrate
 Canéjan
 Canela
+Canelas
 Canelli
 Canelones Department
 Canencia
@@ -9393,6 +9395,7 @@ Conecuh County
 Conegliano
 Conejos County
 Conesa
+Coneto de Comonfort
 Confienza
 Configni
 Confignon
@@ -9959,6 +9962,7 @@ Cudillero
 Cudrefin
 Cue
 Cuenca
+Cuencamé
 Cuerámaro
 Cuevas del Campo
 Cuevas del Valle
@@ -12063,6 +12067,7 @@ Elmore County
 El Morell
 El Mourouj
 Elmsthorpe
+El Oro
 El Oro Province
 Elota
 El Papiol
@@ -14601,6 +14606,7 @@ Gombito
 Gomdar
 Gomec
 Gómez Farías
+Gómez Palacio
 Gómez Plata
 Göming
 Gommersdorf
@@ -15285,6 +15291,7 @@ Guadalcázar
 Guadalix de la Sierra
 Guadalupe
 Guadalupe County
+Guadalupe Victoria
 Guadalupe y Calvo
 Guadarrama
 Guadiana del Caudillo
@@ -15308,6 +15315,7 @@ Gualtieri
 Guamal
 Guamúchil
 Guanacaste Province
+Guanaceví
 Guanajuato
 Guananico
 Guangdong
@@ -17743,6 +17751,7 @@ Incudine
 Incukalna
 Indaiatuba
 Indaka
+Indé
 Inden
 Indepedence County
 Independence
@@ -25793,6 +25802,7 @@ Mezokovacshaza District
 Mezokovesd District
 Mezotur District
 Mezoun
+Mezquital
 Mezquitic
 Mezzago
 Mezzana
@@ -28069,6 +28079,7 @@ Nazareth
 Nazareth Illit
 Nazarevskoye
 Nazarje
+Nazas
 Nazilli
 Nazran
 Naz-Sciaves
@@ -28818,6 +28829,7 @@ Nolan County
 Nole
 Noli
 Nomaglio
+Nombre de Dios
 Nome
 Nomi
 Nomme
@@ -29381,6 +29393,7 @@ Nuevo Baztán
 Nuevo Casas Grandes
 Nuevo Chimbote
 Nuevo Colón
+Nuevo Ideal
 Nuevo León
 Nufenen
 Nuglar-St. Pantaleon
@@ -30603,6 +30616,7 @@ Oswiecim
 Oswiecim commune
 Oswiecim County
 Ota
+Otáez
 Otago Region
 Otahuhu
 Otake
@@ -31135,6 +31149,7 @@ Panthéon
 Pantigliate
 Pantin
 Panton
+Pánuco de Coronado
 Pão de Açúcar
 Paola
 Paolisi
@@ -31625,6 +31640,7 @@ Pennsylvania
 Penobscot
 Penobscot County
 Penobscot Indian Island Reservation
+Peñon Blanco
 Penrith
 Penrose
 Pensacola
@@ -32535,6 +32551,7 @@ Pniewy commune
 Pnovany
 Pnovice
 Poá
+Poanas
 Poarch Creek Indian Reservation
 Poás
 Pobezovice
@@ -35428,6 +35445,7 @@ Rodelas
 Rodello
 Rodengo
 Rodengo-Saiano
+Rodeo
 Roderen
 Rodern
 Rodero
@@ -37050,12 +37068,14 @@ San Juan
 San Juan County
 San Juan de Arama
 San Juan de Gredos
+San Juan de Guadalupe
 San Juan de la Costa
 San Juan de la Maguana
 San Juan de la Nava
 San Juan de la Rambla
 San Juan del Cesar
 San Juan de los Lagos
+San Juan del Río
 San Juan de Rioseco
 San Juan de Sabinas
 San Juan de Urabá
@@ -37300,6 +37320,7 @@ San Pedro de Atacama
 San Pedro de Cartago
 San Pedro de la Cueva
 San Pedro del Arroyo
+San Pedro del Gallo
 San Pedro de los Milagros
 San Pedro del Pinatar
 San Pedro de Macorís
@@ -41115,6 +41136,7 @@ Suchan commune
 Suchdol
 Suchdol nad Luznici
 Suchdol nad Odrou
+Súchil
 Suchitepéquez Department
 Suchodol
 Suchohrdly
@@ -41879,6 +41901,7 @@ Tamarugal Province
 Tamasi District
 Tamaulipas
 Tamayo
+Tamazula
 Tamazula de Gordiano
 Tamba
 Tambach-Dietharz
@@ -42315,6 +42338,7 @@ Tepache
 Tepatitlán de Morelos
 Tepebasi
 Tepecik
+Tepehuanes
 Tepla
 Teplice
 Teplice District
@@ -42734,6 +42758,7 @@ Tjörn
 Tjøme
 Tkibuli
 Tláhuac
+Tlahualilo
 Tlajomulco de Zúñiga
 Tlalpan
 Tlaxcala
@@ -42912,6 +42937,7 @@ Topaipí
 Topeiros
 Topeka
 Topfstedt
+Topia
 Topkanovskoye
 Toplica District
 Topo
@@ -45420,6 +45446,7 @@ Vicchio
 Vicemerice
 Vicenice
 Vicenice u Nameste nad Oslavou
+Vicente Guerrero
 Vicente López Department
 Vicente Noble
 Vicente Pires
