@@ -2788,7 +2788,6 @@ Ballard County
 Ballens
 Ballersdorf
 Ballerup
-Balleza.pdn
 Ballina
 Ballonparken
 Ballstädt
@@ -10688,7 +10687,6 @@ Desinić
 Desio
 De Skâns
 Deskati
-desktop.ini
 Des Moines
 Des Moines County
 Desna
@@ -13879,7 +13877,6 @@ Gabes Governorate
 Gabiano
 Gabicce Mare
 Gabin commune
-Gabiria.gif
 Gablitz
 Gaborone
 Gabovskoye
@@ -13960,7 +13957,6 @@ Galbiate
 Galdakao
 Gáldar
 Galder
-Galeana.jpg
 Galeata
 Galena
 Galeton
@@ -17861,7 +17857,7 @@ Illasi
 Illawarra
 Ille-et-Vilaine
 Illes Balears
-Illescas.PNG
+Illescas
 Illfurth
 Illgau
 Illhaeusern
@@ -29296,7 +29292,6 @@ North Kingstown
 North Kurdufan State
 Northland Region
 North Las Vegas
-North Las Vegas.jpg
 North Lauderdale
 North Lincolnshire
 North Little Rock
@@ -37950,7 +37945,6 @@ Santa Elena Province
 Santa Ernestina
 Santa Eufémia de Prazins
 Santa Eugènia
-Santa Eulalia.jpg
 Santa Eulalia de Oscos
 Santa Eulàlia de Riuprimer
 Santa Eulàlia de Ronçana
@@ -40648,7 +40642,6 @@ South Hero
 South Holland
 South Hwanghae Province
 Southington
-Southington.jpg
 South Kazakhstan Region
 South Kesteven
 South Kingstown
@@ -40946,7 +40939,6 @@ Stadnitckoye
 Stadskanaal
 Stadtilm
 Stadtschlaining
-Stadt Zug.jpg
 Stadt Zürich
 Stae
 Stäfa
@@ -43078,7 +43070,6 @@ Thrissur
 Throckmorton County
 Thuin
 Thulamela
-Thumbs.db
 Thun
 Thunder Bay
 Thunder Bay District
@@ -43470,7 +43461,7 @@ Torgu Parish
 Torhout
 Toribío
 Toride
-Torija.PNG
+Torija
 Toril
 Torino
 Torino di Sangro
@@ -49249,6 +49240,7 @@ Zuccarello
 Zuchwil
 Zufikon
 Zufre
+Zug
 Zugdidi
 Zugdidi Municipality
 Zugliano
