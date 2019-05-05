@@ -58,3 +58,10 @@ need to have a `United States\Minnesota.png` flag or the plugin won't be able to
 Checks if the /flags folder contains only .png and .txt files.
 
 It happens many times that operating systems use particular files and folders to manage their stuff (desktop.ini and .DS_store I'm looking at you) or flag makers forget to use the correct extension and produce .jpg of .gif files.
+
+## checksize.py
+
+Checks if the flags have standard dimensions (16x11, 11x11) and an usual file size (&lt;1KB).
+The former may be totally fine for some exceptional cases but it's most likely a mistake made by the guy that made the flag in a hurry, the latter may indicate that the flags haven't undergone an optimization stage and/or contain useless metadata or color profiles.
+
+Modern versions of Paint.NET and GIMP usually do optimize their output, but it may happen for some unknown reason that the file is still bloated. In this case no run of optipng will reduce the size to a more reasonable one and the files need to be exported again.
