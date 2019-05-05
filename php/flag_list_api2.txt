@@ -355,6 +355,7 @@ Agrate Brianza
 Agrate Conturbia
 Agrestina
 Agri
+Agrigento
 Agrinio
 Agri Province
 Agrón
@@ -792,6 +793,7 @@ Aleskee-Tenginskoye
 Alesón
 Alessandria
 Alessandria del Carretto
+Alessandria della Rocca
 Alessano
 Ålesund
 Aleutians East Borough
@@ -1646,6 +1648,7 @@ Arafo
 Aragatsotn Province
 Aragon
 Aragón
+Aragona
 Aragua
 Araguaína
 Arak
@@ -4435,6 +4438,7 @@ Bitsch
 Bitschhoffen
 Bitschwiller-les-Thann
 Bituima
+Bivona
 Bivongi
 Biwer
 Bizau
@@ -6025,6 +6029,7 @@ Burgdorf
 Burgenland
 Burgenland District
 Burgeo
+Burgio
 Bürglen
 Burgohondo
 Burgos
@@ -6392,6 +6397,7 @@ Calalzo di Cadore
 Calama
 Calamandrana
 Calamar
+Calamonaci
 Calamonte
 Calan
 Calañas
@@ -6488,6 +6494,7 @@ Calosso
 Caloto
 Caloveto
 Calslagen
+Caltabellotta
 Caltanissetta
 Caltignaga
 Calto
@@ -6532,6 +6539,7 @@ Camarines Sur
 Camarma de Esteruelas
 Camarones
 Camas County
+Camastra
 Cambados
 Cambé
 Cambiago
@@ -6576,6 +6584,7 @@ Camisano
 Camisano Vicentino
 Camlidere
 Camliyayla
+Cammarata
 Camoel
 Camogli
 Camopi
@@ -6633,6 +6642,7 @@ Campo (Vallemaggia)
 Campoalegre
 Campo Alegre
 Campobasso
+Campobello di Licata
 Campobello di Mazara
 Campobello Island
 Campo Calabro
@@ -6763,6 +6773,7 @@ Cañete de las Torres
 Caneva
 Cangas
 Cangas de Onís
+Canicattì
 Canicattini Bagni
 Canik
 Canillo
@@ -7674,6 +7685,7 @@ Castelsaraceno
 Castelseprio
 Castelsilano
 Castelspina
+Casteltermini
 Castelveccana
 Castelvecchio Calvisio
 Castelvecchio di Rocca Barbena
@@ -7756,6 +7768,7 @@ Castro County
 Castro Daire
 Castro de Filabres
 Castro dei Volsci
+Castrofilippo
 Castrolibero
 Castro Marim
 Castromocho
@@ -7801,6 +7814,7 @@ Catoosa County
 Catron County
 Cattaraugus County
 Cattolica
+Cattolica Eraclea
 Cauca Department
 Caucaia
 Caucasia
@@ -8990,6 +9004,7 @@ Chystyakove
 Ciales
 Ciamis Regency
 Ciampino
+Cianciana
 Cianjur Regency
 Cibiana di Cadore
 Cibla
@@ -9570,6 +9585,7 @@ Comignago
 Comillas
 Comines-Warneton
 Comiso
+Comitini
 Comiziano
 Commana
 Commerce
@@ -13079,6 +13095,7 @@ Fauquier County
 Fauske
 Fauvillers
 Favale di Malvaro
+Favara
 Favaro Veneto
 Favignana
 Favona
@@ -15592,6 +15609,7 @@ Grottaglie
 Grottaminarda
 Grottammare
 Grottazzolina
+Grotte
 Grotte di Castro
 Grotteria
 Grottole
@@ -19098,6 +19116,7 @@ Jonquière
 Jonschwil
 Joondalup
 Joppolo
+Joppolo Giancaxio
 Jorat-Menthue
 Jorat-Mézières
 Jorba
@@ -22354,6 +22373,7 @@ Lampasas County
 Lampaul-Guimiliau
 Lampaul-Plouarzel
 Lampaul-Ploudalmezeau
+Lampedusa e Linosa
 Lampenberg
 Lampertheim
 Lampertice
@@ -23402,6 +23422,7 @@ Libun
 Libus
 Libusin
 Licantén
+Licata
 Licciana Nardi
 Licenza
 Licey al Medio
@@ -24262,6 +24283,7 @@ Lucani
 Lucas County
 Lucaswolde
 Lucca
+Lucca Sicula
 Luče
 Luce County
 Lucélia
@@ -26089,6 +26111,7 @@ Meneac
 Menemen
 Menen
 Meneng District
+Menfi
 Mengen
 Mengeš
 Mengíbar
@@ -27213,6 +27236,7 @@ Montale
 Montalegre
 Montalembert
 Montalenghe
+Montallegro
 Montalto Carpasio
 Montalto delle Marche
 Montalto di Castro
@@ -27458,6 +27482,7 @@ Montet
 Monteu da Po
 Monte Urano
 Monteu Roero
+Montevago
 Montevarchi
 Montevecchia
 Monteverde
@@ -31646,6 +31671,7 @@ Pallars Jussà
 Pallars Sobirà
 Palma Campania
 Palma del Río
+Palma di Montechiaro
 Palmanova
 Palmar de Valera
 Palmares
@@ -33722,6 +33748,7 @@ Porto Ceresio
 Porto Cesareo
 Porto de Mós
 Porto District
+Porto Empedocle
 Porto Feliz
 Portoferraio
 Portofino
@@ -34407,7 +34434,6 @@ Province of Viterbo
 Province of Zamora
 Province of Zaragoza
 Provincetown
-Provincia di Trapani
 Proviso Township
 Provo
 Provodnik
@@ -34890,6 +34916,7 @@ Raby
 Raca
 Rača
 Racale
+Racalmuto
 Racconigi
 Rače-Fram
 Racetice
@@ -35008,6 +35035,7 @@ Raerd
 Raeren
 Raes Junction
 Rafard
+Raffadali
 Rafz
 Rägavere Parish
 Raggal
@@ -35250,6 +35278,7 @@ Rautavaara
 Rautjärvi
 Rauwiller
 Ravalli County
+Ravanusa
 Ravarino
 Rava-Ruska
 Ravascletto
@@ -35297,6 +35326,7 @@ Readtsjerk
 Reagan County
 Reahûs
 Real County
+Realmonte
 Realp
 Reana del Rojale
 Reano
@@ -35670,6 +35700,7 @@ Ribeira Quente
 Ribeiras
 Ribeira Seca
 Ribeirinha
+Ribera
 Ribera Baja
 Ribera Baja del Ebro
 Ribera d'Ebre
@@ -37485,6 +37516,7 @@ Sambekskoye
 Sambir
 Sambir District
 Sambreville
+Sambuca di Sicilia
 Sambuca Pistoiese
 Sambuci
 Sambuco
@@ -37576,6 +37608,7 @@ San Bernardo
 San Bernardo del Viento
 San Biagio della Cima
 San Biagio di Callalta
+San Biagio Platani
 San Biagio Saracinisco
 San Biase
 San Bonifacio
@@ -37769,6 +37802,7 @@ San Giovanni a Piro
 San Giovanni Bianco
 San Giovanni del Dosso
 San Giovanni di Gerace
+San Giovanni Gemini
 San Giovanni Ilarione
 San Giovanni Incarico
 San Giovanni in Croce
@@ -38235,6 +38269,7 @@ Sant'Angelo Le Fratte
 Sant'Angelo Limosano
 Sant'Angelo Lodigiano
 Sant'Angelo Lomellina
+Sant'Angelo Muxaro
 Sant'Angelo Romano
 Sant'Anna d'Alfaedo
 Sant'Antimo
@@ -38330,6 +38365,7 @@ Santa Domenica Talao
 Sant Adrià de Besòs
 Santa Elena
 Santa Elena Province
+Santa Elisabetta
 Santa Ernestina
 Santa Eufémia de Prazins
 Santa Eugènia
@@ -38365,6 +38401,7 @@ Santa Lucija
 Santa Luzia
 Santa Margarida de Montbui
 Santa Margarida i els Monjos
+Santa Margherita di Belice
 Santa Margherita di Staffora
 Santa Margherita Ligure
 Santa Maria
@@ -38559,6 +38596,7 @@ Santo Stefano di Rogliano
 Santo Stefano di Sessanio
 Santo Stefano in Aspromonte
 Santo Stefano Lodigiano
+Santo Stefano Quisquina
 Santo Stefano Roero
 Santo Stefano Ticino
 Santo Tirso
@@ -39191,6 +39229,7 @@ Schwobfeld
 Schwobsheim
 Schwoich
 Schwyz
+Sciacca
 Scicli
 Scido
 Scigliano
@@ -40017,6 +40056,7 @@ Sicignano degli Alburni
 Sicilia
 Sickerode
 Sickert
+Siculiana
 Sid
 Sidabravas
 Side
@@ -46704,6 +46744,7 @@ Villafranca di Verona
 Villafranca in Lunigiana
 Villafranca Padovana
 Villafranca Piemonte
+Villafranca Sicula
 Villaga
 Villa General Mitre
 Village-Neuf
