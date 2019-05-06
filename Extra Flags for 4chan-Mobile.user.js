@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.41
+// @version     0.42
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -145,17 +145,13 @@ var setup = {
                     //console.log(response.responseText);
                     var countrySelect = document.getElementById(shortId + 'countrySelect'),
                         countriesAvailable = response.responseText.split('\n');
+                    countrySelect.innerHTML = "";
 
                     for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
                         var opt = document.createElement('option');
                         opt.value = countriesAvailable[countriesCounter];
 
-                        if (regions.length > 0) {
-                            opt.innerHTML = countriesAvailable[countriesCounter] + " " + "<img src=\"" + flegsBaseUrl + pathNoFlagList + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
-                        } else {
-                            opt.innerHTML = countriesAvailable[countriesCounter]; // remove comment to enable country flags in the selection menu + " " + "<img src=\"" + countryFlegsBaseUrl + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
-                        }
-
+                        opt.innerHTML = countriesAvailable[countriesCounter];
 
                         if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
                             opt.selected = "selected";
@@ -225,7 +221,7 @@ var setup = {
             var e = document.getElementById(shortId + "countrySelect");
             var temp = e.options[e.selectedIndex].value;
             lastRegion = "";
-            if (temp != "" && regions[regions.length - 1] != temp) {
+            if (temp != "") {
                 this.disabled = true;
                 this.innerHTML = 'Saving...';
 
