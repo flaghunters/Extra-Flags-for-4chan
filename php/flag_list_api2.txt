@@ -1342,7 +1342,6 @@ Anderson County
 Andes
 Andezeno
 Andhra Pradesh
-Andiast
 Andijk
 Andlau
 Ando
@@ -2258,7 +2257,6 @@ Atsuta
 Attala County
 Attalens
 Attard
-Attelwil
 Attenschwiller
 Attert
 Attigliano
@@ -3827,7 +3825,7 @@ Bergrivier
 Bergschenhoek
 Bergstrasse District
 Berguedà
-Bergün_Bravuogn
+Bergün Filisur
 Berhampore
 Berikon
 Beringen
@@ -9739,7 +9737,6 @@ Corana
 Corangamite
 Corato
 Coray
-Corban
 Corbara
 Corbera d'Ebre
 Corbera de Llobregat
@@ -13304,7 +13301,6 @@ Filighera
 Filignano
 Filimonkovskoye
 Filipstad
-Filisur
 Fillmore
 Fillmore County
 Filogaso
@@ -17009,7 +17005,6 @@ Hinsdale County
 Hinsingen
 Hinterbrühl
 Hinterhornbach
-Hinterrhein
 Hintersee
 Hinton
 Hinuera
@@ -17046,7 +17041,6 @@ Hirtenberg
 Hirtzbach
 Hirtzfelden
 Hirvensalmi
-Hirzel
 Hisarcik
 Hisarya
 Hisayama
@@ -17187,7 +17181,6 @@ Höflein
 Höflein an der Hohen Wand
 Hofors
 Hofstätten an der Raab
-Hofstetten bei Elgg
 Hofstetten-Flüh
 Hofstetten-Grünau
 Hofu
@@ -17815,7 +17808,6 @@ Hutchinson County
 Hutisko-Solanec
 Hüttau
 Hütteldorf
-Hütten
 Hüttenberg
 Huttendorf
 Huttenheim
@@ -28231,7 +28223,6 @@ Mutriku
 Mutrux
 Mutsu
 Mutsuzawa
-Mutten
 Muttenz
 Mutters
 Muttersholtz
@@ -30004,7 +29995,6 @@ Nuevo Chimbote
 Nuevo Colón
 Nuevo Ideal
 Nuevo León
-Nufenen
 Nuglar-St. Pantaleon
 Nuis
 Nuku Hiva
@@ -30215,7 +30205,6 @@ Obersiggenthal
 Obersimmental
 Obersoultzbach
 Oberspreewald-Lausitz District
-Oberstammheim
 Oberstaufen
 Oberstdorf
 Obersteinbach
@@ -35333,7 +35322,6 @@ Reano
 Reao
 Rebecq
 Rebesovice
-Rebeuvelier
 Rebild
 Rebollar
 Rebstein
@@ -35651,6 +35639,7 @@ Rheinland-Pfalz
 Rhein-Neckar District
 Rhein-Pfalz District
 Rhein-Sieg District
+Rheinwald
 Rhêmes-Notre-Dame
 Rhêmes-Saint-Georges
 Rhenen
@@ -36167,7 +36156,6 @@ Rockwall County
 Rocky Harbour
 Rocky Hill
 Rocky View County
-Rocourt
 Rocov
 Roda de Berà
 Roda de Ter
@@ -39071,7 +39059,6 @@ Scherpenheuvel-Zichem
 Scherpenisse
 Scherpenzeel
 Scherwiller
-Scherz
 Schetter
 Scheveningen
 Schiavi di Abruzzo
@@ -39148,7 +39135,6 @@ Schönbach
 Schönberg am Kamp
 Schönberg im Stubaital
 Schönbühel-Aggsbach
-Schönenberg
 Schönenbuch
 Schönengrund
 Schönenwerd
@@ -41241,7 +41227,6 @@ Spittelberg
 Spitz
 Split
 Split-Dalmacija County
-Splügen
 Spojil
 Spokane
 Spokane County
@@ -41426,6 +41411,7 @@ Stalowa Wola County
 Stambolovo
 Stamford
 Stammersdorf
+Stammheim
 Stams
 Stanari municipality
 Standdaarbuiten
@@ -45215,7 +45201,6 @@ Unterrabnitz-Schwendgraben
 Unterramsern
 Untersiebenbrunn
 Untersiggenthal
-Unterstammheim
 Unterstinkenbrunn
 Unterstrass
 Untertauern
@@ -46162,7 +46147,6 @@ Velky Tynec
 Velky Ujezd
 Velky Valtinov
 Velky Vrestov
-Vellerat
 Velletri
 Vellezzo Bellini
 Vellinge
@@ -47726,11 +47710,9 @@ Walpole
 Walsall
 Walsh County
 Wals-Siezenheim
-Waltalingen
 Waltenheim
 Waltenheim-sur-Zorn
 Waltenhofen
-Waltensburg_Vuorz
 Waltenschwil
 Waltershausen
 Wâlterswâld
