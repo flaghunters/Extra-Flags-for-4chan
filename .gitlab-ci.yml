@@ -2,7 +2,6 @@ pages:
   script:
   - bundle install
   - bundle exec jekyll build -d public
-  - cp -r pages/* public/
   artifacts:
     paths:
     - public
