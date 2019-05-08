@@ -164,9 +164,14 @@ Acht
 Achtkarspelen
 Achttienhoven
 Achuevskoye
+Aci Bonaccorsi
+Aci Castello
+Aci Catena
 Acigne
 Acigol
 Acipayam
+Acireale
+Aci Sant'Antonio
 Acklins
 Aclens
 Aconchi
@@ -258,6 +263,7 @@ Adolfo
 Adolfo Gonzales Chaves Department
 Adorp
 Adra
+Adrano
 Adrara San Martino
 Adrara San Rocco
 Adria
@@ -3642,6 +3648,7 @@ Belovo
 Beloyarsky
 Beloyarsky District
 Belozersk
+Belpasso
 Belsito
 Belsk Duzy commune
 Beltinci
@@ -4138,6 +4145,7 @@ Bialyničy
 Bialyničy District
 Bialystok
 Bialystok County
+Biancavilla
 Bianchi
 Bianco
 Biandrate
@@ -5666,6 +5674,7 @@ Brondello
 Brong-Ahafo Region
 Broni
 Bronnitsy
+Bronte
 Bronzolo
 Brooke County
 Brookfield
@@ -6408,6 +6417,7 @@ Calarca
 Calasca-Castiglione
 Calascibetta
 Calascio
+Calatabiano
 Calatafimi
 Calatayud
 Calatorao
@@ -6493,6 +6503,7 @@ Caloto
 Caloveto
 Calslagen
 Caltabellotta
+Caltagirone
 Caltanissetta
 Caltignaga
 Calto
@@ -6686,6 +6697,7 @@ Campo Real
 Camporgiano
 Camporosso
 Camporotondo di Fiastrone
+Camporotondo Etneo
 Campos
 Camposampiero
 Campo San Martino
@@ -7513,6 +7525,7 @@ Castel del Rio
 Castel di Casio
 Casteldidone
 Castel di Ieri
+Castel di Iudica
 Castel di Lama
 Castel di Sangro
 Castel di Sasso
@@ -7713,6 +7726,7 @@ Castiglione del Lago
 Castiglione della Pescaia
 Castiglione delle Stiviere
 Castiglione di Garfagnana
+Castiglione di Sicilia
 Castiglione Falletto
 Castiglione in Teverina
 Castiglione Messer Marino
@@ -13367,6 +13381,7 @@ Fiuggi
 Fiumalbo
 Fiumara
 Fiumefreddo Bruzio
+Fiumefreddo di Sicilia
 Fiume Veneto
 Fiumicello Villa Vicentina
 Fiumicino
@@ -14615,6 +14630,7 @@ Giano Vetusto
 Gianyar Regency
 Giarole
 Giarratana
+Giarre
 Giaveno
 Giavera del Montello
 Gibbons
@@ -15238,6 +15254,7 @@ Gramado
 Gramais
 Gramalote
 Gramatneusiedl
+Grammichele
 Grampians
 Gramsbergen
 Gran
@@ -15345,6 +15362,7 @@ Gravere
 Gravesano
 Graves County
 Gravesham
+Gravina di Catania
 Gravina in Puglia
 Gray
 Gray County
@@ -23434,6 +23452,7 @@ Lichtervelde
 Liciborice
 Licking County
 Licno
+Licodia Eubea
 Lida
 Lida District
 Liddes
@@ -23588,6 +23607,7 @@ Lingewaard
 Lingga Regency
 Lingmukha
 Lingolsheim
+Linguaglossa
 Lingzhi
 Linhares
 Linhartice
@@ -24962,6 +24982,7 @@ Malestroit
 Male Svatonovice
 Maletin
 Maletswai
+Maletto
 Malew Parish
 Male Zernoseky
 Malgesso
@@ -25126,6 +25147,7 @@ Manhattan Beach
 Manhay
 Manhush District
 Maní
+Maniace
 Maniago
 Manica Province
 Maniitsoq
@@ -25583,6 +25605,8 @@ Masate
 Masaya
 Masaya Department
 Masbate
+Mascali
+Mascalucia
 Mascara
 Maschito
 Maschwanden
@@ -25827,6 +25851,7 @@ Mazyr District
 Mazzano
 Mazzano Romano
 Mazzarino
+Mazzarrone
 Mazzè
 Mazzin
 Mazzo di Valtellina
@@ -26557,6 +26582,7 @@ Milikov
 Milin
 Milinov
 Milire
+Militello in Val di Catania
 Milizac
 Milkovo
 Milkovsky District
@@ -26650,6 +26676,7 @@ Minden
 Minden-Lübbecke District
 Mine
 Mineiros do Tietê
+Mineo
 Mineral County
 Minerbe
 Minerbio
@@ -26701,6 +26728,7 @@ Mir
 Mira
 Mirabel
 Mirabella Eclano
+Mirabella Imbaccari
 Mirabello Monferrato
 Mirabello Sannitico
 Mira-Bhayandar
@@ -26786,6 +26814,7 @@ Missouri
 Missy
 Mistelbach an der Zaya
 Mistelbach District
+Misterbianco
 Misterhult District
 Mistrice
 Mistrovice
@@ -27872,6 +27901,7 @@ Mottafollone
 Mottalciata
 Motta Montecorvino
 Motta San Giovanni
+Motta Sant'Anastasia
 Motta Santa Lucia
 Motta Visconti
 Motteggiana
@@ -29117,6 +29147,7 @@ Nichula
 Nickelsdorf
 Nickerie District
 Nicollet County
+Nicolosi
 Nicorvo
 Nicosia
 Nicotera
@@ -31604,6 +31635,7 @@ Palafrugell
 Palagano
 Palagianello
 Palagiano
+Palagonia
 Palaia
 Palaio Faliro
 Palais-Bourbon
@@ -32012,6 +32044,7 @@ Paterna del Río
 Paterna de Rivera
 Paternion
 Paterno
+Paternò
 Paterno Calabro
 Paternopoli
 Pathum Thani Province
@@ -32143,6 +32176,7 @@ Pecs
 Pecs District
 Pecsvarad District
 Peczniew commune
+Pedara
 Pedaso
 Pedavena
 Pedemonte
@@ -32718,6 +32752,7 @@ Piea
 Piechowice
 Piedade
 Piedicavallo
+Piedimonte Etneo
 Piedimonte Matese
 Piedimonte San Germano
 Piedimulera
@@ -34928,6 +34963,7 @@ Radaškovičy
 Radchenskoye
 Radcliff
 Radda in Chianti
+Raddusa
 Råde
 Radeče
 Radecznica commune
@@ -35089,6 +35125,7 @@ Raleigh
 Raleigh County
 Ralls County
 Ralsko
+Ramacca
 Ramalde
 Ramales de la Victoria
 Ramallah
@@ -35143,6 +35180,7 @@ Ranco Province
 Randa
 Randaberg
 Randall County
+Randazzo
 Randegg
 Randers
 Randfontein
@@ -35391,6 +35429,7 @@ Refrancore
 Refrontolo
 Refugio County
 Regalbuto
+Regalna
 Regencós
 Regen District
 Regensburg
@@ -35921,6 +35960,7 @@ Ripley County
 Ripoll
 Ripollès
 Ripollet
+Riposto
 Ripton
 Riquewihr
 Risaralda
@@ -37637,6 +37677,7 @@ San Clemente
 San Colombano al Lambro
 San Colombano Belmonte
 San Colombano Certenoli
+San Cono
 San Cosmo Albanese
 San Costantino Albanese
 San Costantino Calabro
@@ -37798,6 +37839,7 @@ San Giovanni in Fiore
 San Giovanni in Galdo
 San Giovanni in Marignano
 San Giovanni in Persiceto
+San Giovanni la Punta
 San Giovanni Lipioni
 San Giovanni Lupatoto
 San Giovanni Rotondo
@@ -37818,6 +37860,7 @@ San Gregorio d'Ippona
 San Gregorio da Sassola
 San Gregorio de Nigua
 San Gregorio de Yaguate
+San Gregorio di Catania
 San Gregorio Magno
 San Gregorio Matese
 San Gregorio nelle Alpi
@@ -38075,6 +38118,7 @@ San Mauro Pascoli
 San Mauro Torinese
 San Michele all'Adige
 San Michele al Tagliamento
+San Michele di Ganzaria
 San Michele di Serino
 San Michele Mondovì
 San Michele Salentino
@@ -38151,6 +38195,7 @@ San Pietro al Tanagro
 San Pietro a Maida
 San Pietro Apostolo
 San Pietro Avellana
+San Pietro Clarenza
 San Pietro di Cadore
 San Pietro di Caridà
 San Pietro di Feletto
@@ -38231,10 +38276,12 @@ Sant'Agata di Esaro
 Sant'Agata di Puglia
 Sant'Agata Feltria
 Sant'Agata Fossili
+Sant'Agata li Battiati
 Sant'Agnello
 Sant'Albano Stura
 Sant'Alessio con Vialone
 Sant'Alessio in Aspromonte
+Sant'Alfio
 Sant'Ambrogio di Torino
 Sant'Ambrogio di Valpolicella
 Sant'Ambrogio sul Garigliano
@@ -38414,6 +38461,7 @@ Santa María del Tiétar
 Santa Maria de Martorelles
 Santa Maria de Merlès
 Santa María de Nieva
+Santa Maria di Licodia
 Santa Maria di Sala
 Santa Maria Hoè
 Santa Maria Imbaro
@@ -38474,6 +38522,7 @@ Santa Tecla
 Santa Teresa
 Santa Teresa del Tuy
 Santa Venera
+Santa Venerina
 Santa Vittoria d'Alba
 Santa Vittoria in Matenano
 Sant Bartomeu del Grau
@@ -39229,6 +39278,7 @@ Scontrone
 Scopa
 Scopello
 Scoppito
+Scordia
 Scorrano
 Scorzè
 Scotland
@@ -44243,6 +44293,7 @@ Trebsko
 Trebujena
 Trebusin
 Trecase
+Trecastagni
 Trecastelli
 Trecate
 Trecchina
@@ -44283,6 +44334,7 @@ Tremembé
 Tremeoc
 Tremesna
 Tremesne
+Tremestieri Etneo
 Tremeven
 Tremezzina
 Tremont
@@ -45799,6 +45851,7 @@ Valuysky District
 Valva
 Valvarrone
 Valvasone Arzene
+Valverde
 Val Verde County
 Valverde de Alcalá
 Valverde del Camino
@@ -46427,6 +46480,7 @@ Vezzi Portio
 Vhembe
 Viadana
 Viadanica
+Viagrande
 Viale
 Vialfrè
 Vialikaja Bierastavica
@@ -47074,6 +47128,7 @@ Vize
 Vizela
 Víznar
 Vizovice
+Vizzini
 Vizzola Ticino
 Vizzolo Predabissi
 Vlaams-Brabant
@@ -49153,6 +49208,7 @@ Zadverice-Rakova
 Zadzim commune
 Zaessingue
 Zafarraya
+Zafferana Etnea
 Zafra
 Zagan
 Zagan commune
