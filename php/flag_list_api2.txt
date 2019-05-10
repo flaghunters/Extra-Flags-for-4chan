@@ -199,6 +199,7 @@ Acquaviva d'Isernia
 Acquaviva delle Fonti
 Acquaviva Picena
 Acquaviva Platani
+Acquedolci
 Acqui Terme
 Acquoy
 Acre
@@ -731,6 +732,7 @@ Alcanó
 Alcántara
 Alcântara
 Alcantarilla
+Alcara Li Fusi
 Alcarràs
 Alchevsk
 Alcobaça
@@ -869,6 +871,7 @@ Al Hoceima
 Al Hoceïma Province
 Al Hudaydah
 Alhué
+Alì
 Alía
 Aliaga
 Aliano
@@ -885,6 +888,7 @@ Alimos
 Alingsås
 Alió
 Aliseda
+Alì Terme
 Aljaraque
 Al Jawf
 Aljezur
@@ -1507,6 +1511,7 @@ Antigonish County
 Antigua
 Antigüedad
 Antiguo Cuscatlán
+Antillo
 Antioch
 Antioquia Department
 Antipodes Islands
@@ -3001,6 +3006,7 @@ Barbour County
 Barbuda Dependency
 Barcaldine
 Barcarena
+Barcellone Pozzo di Gotto
 Barcelona
 Barcelonès
 Barceloneta
@@ -3179,6 +3185,7 @@ Bashkortostan
 Bashtanka
 Bashtanka District
 Basiano
+Basicò
 Basiglio
 Basilan
 Basilan City
@@ -5665,6 +5672,7 @@ Broken Arrow
 Broken Hill
 Brokenshell
 Brokopondo District
+Brolo
 Bromberg
 Bromley
 Bromölla
@@ -7039,8 +7047,10 @@ Capitol Heights
 Capivari
 Capixaba
 Capiz
+Capizzi
 Capizzone
 Capmany
+Capo d'Orlando
 Capodimonte
 Capo di Ponte
 Capodrise
@@ -7079,6 +7089,7 @@ Caprie
 Capriglia Irpina
 Capriglio
 Caprile
+Capri Leone
 Caprino Bergamasco
 Caprino Veronese
 Capriolo
@@ -7228,6 +7239,7 @@ Caroline County
 Caroll County
 Caron
 Carona
+Caronia
 Caronno Pertusella
 Caronno Varesino
 Carosino
@@ -7358,6 +7370,7 @@ Casalromano
 Casalserugo
 Casaluce
 Casalvecchio di Puglia
+Casalvecchio Siculo
 Casal Velino
 Casalvieri
 Casalvolone
@@ -7527,6 +7540,7 @@ Casteldidone
 Castel di Ieri
 Castel di Iudica
 Castel di Lama
+Castel di Lucio
 Castel di Sangro
 Castel di Sasso
 Castel di Tora
@@ -7556,6 +7570,7 @@ Castel Ivano
 Castell'Alfero
 Castell'Arquato
 Castell'Azzara
+Castell'Umberto
 Castellabate
 Castellafiume
 Castellalto
@@ -7638,6 +7653,7 @@ Castelmassa
 Castelmauro
 Castel Mella
 Castelmezzano
+Castelmola
 Castel Morrone
 Castelnovetto
 Castelnovo Bariano
@@ -7790,6 +7806,7 @@ Castropignano
 Castropol
 Castrop-Rauxel
 Castro Pretorio
+Castroreale
 Castroregio
 Castro-Urdiales
 Castrov
@@ -8229,6 +8246,7 @@ Cesano Maderno
 Cesara
 Cesar Department
 Cesário Lange
+Cesarò
 Cesate
 Cesena
 Cesenatico
@@ -9660,6 +9678,7 @@ Condofuri
 Condorcanqui Province
 Condoto
 Condove
+Condrò
 Conecuh County
 Conegliano
 Conejos County
@@ -13007,6 +13026,7 @@ Falciano del Massico
 Falcón
 Falconara Albanese
 Falconara Marittima
+Falcone
 Falera
 Faleria
 Falerna
@@ -13270,6 +13290,7 @@ Fiano Romano
 Fiastra
 Fiavè
 Ficarolo
+Ficarra
 Ficulle
 Fidenza
 Fideris
@@ -13380,6 +13401,7 @@ Fitzwilliam
 Fiuggi
 Fiumalbo
 Fiumara
+Fiumedinisi
 Fiumefreddo Bruzio
 Fiumefreddo di Sicilia
 Fiume Veneto
@@ -13517,6 +13539,7 @@ Folsgeare
 Folsom
 Fombio
 Fómeque
+Fondachelli-Fantina
 Fond du Lac County
 Fond du Lac Indian Reservation
 Fondi
@@ -13660,6 +13683,7 @@ Fort Worth
 Fort Wright
 Forty Mile County
 Forua
+Forza d'Agrò
 Fosca
 Fosciandora
 Fosdinovo
@@ -13712,6 +13736,7 @@ Francavilla al Mare
 Francavilla Angitola
 Francavilla Bisio
 Francavilla d'Ete
+Francavilla di Sicilia
 Francavilla Fontana
 Francavilla in Sinni
 Francavilla Marittima
@@ -13780,6 +13805,7 @@ Frauenstein
 Frauental an der Lassnitz
 Frauenwald
 Fraxern
+Frazzanò
 Fredensborg
 Fredericia
 Frederick
@@ -14001,10 +14027,12 @@ Fúquene
 Furano
 Furchhausen
 Furci
+Furci Siculo
 Furdenheim
 Furdgum
 Furesø
 Furna
+Furnari
 Furnas
 Furnas County
 Furore
@@ -14087,6 +14115,7 @@ Gagarinsky District
 Găgăuzia
 Gage County
 Gagetown
+Gaggi
 Gaggiano
 Gaggio Montano
 Gaginsky District
@@ -14125,6 +14154,7 @@ Galar
 Galaroza
 Galati
 Galați County
+Galati Mamertino
 Galatina
 Galatone
 Galatro
@@ -14166,6 +14196,7 @@ Gallio
 Gallipoli
 Gällivare
 Gallizien
+Gallodoro
 Gallo Matese
 Galluccio
 Gallur
@@ -14628,6 +14659,7 @@ Gianico
 Giano dell'Umbria
 Giano Vetusto
 Gianyar Regency
+Giardini-Naxos
 Giarole
 Giarratana
 Giarre
@@ -14716,6 +14748,7 @@ Gioia del Colle
 Gioia Sannitica
 Gioia Tauro
 Gioiosa Ionica
+Gioiosa Marea
 Giornico
 Giove
 Giovinazzo
@@ -15319,6 +15352,7 @@ Granges-Paccot
 Grangettes
 Gränichen
 Granite County
+Graniti
 Granja
 Granma Province
 Gran Morelos
@@ -15712,6 +15746,7 @@ Gualleco
 Gualmatan
 Gualta
 Gualtieri
+Gualtieri Sicaminò
 Guamal
 Guamúchil
 Guanacaste Province
@@ -18486,6 +18521,7 @@ Itajobi
 Itaju
 Itako
 Itakura
+Itala
 Itamaraju
 Itami
 Itanhaém
@@ -23093,6 +23129,7 @@ Lengenwang
 Lengnau
 Lenguazaque
 Lengwil
+Leni
 Lenin District
 Lenine District
 Leningrad Region
@@ -23275,6 +23312,7 @@ Letino
 Letiny
 Letnany
 Letohrad
+Letojanni
 Letonice
 Le Tour-du-Parc
 Letovice
@@ -23427,6 +23465,7 @@ Libovice
 Libramont-Chevigny
 Librice
 Librilla
+Librizzi
 Libstat
 Libun
 Libus
@@ -23562,6 +23601,7 @@ Limerzel
 Limestone
 Limestone County
 Limido Comasco
+Limina
 Limington
 Liminka
 Limmen
@@ -23636,6 +23676,7 @@ Liozna
 Liozna District
 Lipa
 Lipa nad Orlici
+Lipari
 Lipce Reymontowskie commune
 Lipence
 Liperi
@@ -24011,6 +24052,7 @@ Long County
 Longerhou
 Long Harbour-Mount Arlington Heights
 Longhena
+Longi
 Longiano
 Longirod
 Long Island
@@ -24985,6 +25027,7 @@ Maletswai
 Maletto
 Malew Parish
 Male Zernoseky
+Malfa
 Malgesso
 Malgobek
 Malgobeksky District
@@ -25054,6 +25097,7 @@ Maluku Utara
 Malung locality
 Malung-Sälen
 Maluti-a-Phofung
+Malvagna
 Malvern Hills
 Malvicino
 Malvik
@@ -25108,6 +25152,7 @@ Mancor de la Vall
 Mandach
 Mandal
 Mandalay Region
+Mandanici
 Mandatoriccio
 Mandaue
 Mandayona
@@ -25851,6 +25896,7 @@ Mazyr District
 Mazzano
 Mazzano Romano
 Mazzarino
+Mazzarrà Sant'Andrea
 Mazzarrone
 Mazzè
 Mazzin
@@ -26186,6 +26232,7 @@ Mergo
 Mergoscia
 Mergozzo
 Merhavim
+Merì
 Meric
 Mérida
 Meriden
@@ -26266,6 +26313,7 @@ Messac
 Messadine
 Messancy
 Messen
+Messina
 Mestecko Trnavka
 Mestec Kralove
 Mestia
@@ -26554,6 +26602,7 @@ Milanowek commune
 Milas
 Milasin
 Milavce
+Milazzo
 Milbridge
 Milbury
 Milcice
@@ -26583,6 +26632,7 @@ Milin
 Milinov
 Milire
 Militello in Val di Catania
+Militello Rosmarino
 Milizac
 Milkovo
 Milkovsky District
@@ -26769,6 +26819,7 @@ Mirovice
 Mirow commune
 Mirsk commune
 Mirskoye
+Mirto
 Miry Creek
 Misaki
 Misamis Occidental
@@ -26816,6 +26867,7 @@ Mistelbach an der Zaya
 Mistelbach District
 Misterbianco
 Misterhult District
+Mistretta
 Mistrice
 Mistrovice
 Mitaka
@@ -27012,6 +27064,7 @@ Mõisaküla
 Moita
 Mojkovac
 Mojne
+Mojo Alcantara
 Mojokerto
 Mojokerto Regency
 Moka
@@ -27168,6 +27221,7 @@ Monferrato
 Monforte
 Monforte d'Alba
 Monforte de Lemos
+Monforte San Giorgio
 Monfumo
 Mongaguá
 Mongar
@@ -27176,6 +27230,7 @@ Monggar
 Monghidoro
 Mongiana
 Mongiardino Ligure
+Mongiuffi Melia
 Mongmong-Toto-Maite
 Möngönmorit
 Mongrando
@@ -27236,6 +27291,7 @@ Montagano
 Montagna
 Montagna in Valtellina
 Montagnana
+Montagnareale
 Montagnes District
 Montagny
 Montagny-près-Yverdon
@@ -27245,6 +27301,7 @@ Montagut i Oix
 Montaguto
 Montaione
 Montalbán de Córdoba
+Montalbano Elicona
 Montalbano Jonico
 Montalcino
 Montaldeo
@@ -27895,6 +27952,8 @@ Motoyama
 Motreff
 Motril
 Motta Baluffi
+Motta Camastra
+Motta d'Affermo
 Motta de' Conti
 Motta di Livenza
 Mottafollone
@@ -28598,6 +28657,7 @@ Nashville
 Nasielsk commune
 Nasino
 Nås locality
+Naso
 Nasrallah
 Nasreddin Hoca
 Nassau County
@@ -29393,6 +29453,7 @@ Nizip
 Nizkov
 Nizkovice
 Nizni Lhoty
+Nizza di Sicilia
 Nkandla
 Nkangala
 Nketoana
@@ -29752,6 +29813,7 @@ Nova Pec
 Nova Plan
 Nova Ponente
 Novara
+Novara di Sicilia
 Nova Rise
 Nova Role
 Nova Russas
@@ -30626,6 +30688,7 @@ Oliveira do Hospital
 Olivenza
 Oliver
 Oliver County
+Oliveri
 Olivet
 Oliveto Citra
 Oliveto Lario
@@ -31526,6 +31589,7 @@ Pabrade
 Pacaraima
 Pace
 Paceco
+Pace del Mela
 Pacentro
 Pacerice
 Pacetluky
@@ -31581,6 +31645,7 @@ Pagegiai
 Pagegiai Municipality
 Paget Parish
 Pagli
+Pagliara
 Paglieta
 Pagnacco
 Pagno
@@ -32068,6 +32133,7 @@ Patrocínio Paulista
 Patsch
 Pattani Province
 Patten
+Patti
 Patù
 Patumahoe
 Pau
@@ -32604,6 +32670,7 @@ Petscht
 Petten
 Pettenasco
 Pettinengo
+Pettineo
 Pettis County
 Pettnau
 Pettneu am Arlberg
@@ -32952,6 +33019,7 @@ Piquete
 Piracaia
 Piracicaba
 Pirae
+Piraino
 Piraju
 Pirajuí
 Piran
@@ -34942,6 +35010,7 @@ Rača
 Racale
 Racalmuto
 Racconigi
+Raccuja
 Rače-Fram
 Racetice
 Racha Lechkhumi and Kvemo Svaneti
@@ -35506,6 +35575,7 @@ Reisenberg
 Réiser
 Reisjärvi
 Reisseck
+Reitano
 Reith bei Kitzbühel
 Reith bei Seefeld
 Reith im Alpbachtal
@@ -36109,6 +36179,7 @@ Rocca di Cave
 Rocca di Mezzo
 Rocca di Neto
 Rocca di Papa
+Roccafiorita
 Roccafluvione
 Roccaforte del Greco
 Roccaforte Ligure
@@ -36121,6 +36192,7 @@ Roccagorga
 Rocca Grimalda
 Rocca Imperiale
 Roccalbenga
+Roccalumera
 Roccamandolfi
 Rocca Massima
 Roccamonfina
@@ -36149,11 +36221,13 @@ Roccasparvera
 Roccaspinalveti
 Roccastrada
 Rocca Susella
+Roccavaldina
 Roccaverano
 Roccavignale
 Roccavione
 Roccavivara
 Roccella Ionica
+Roccella Valdemone
 Rocchetta a Volturno
 Rocchetta Belbo
 Rocchetta di Vara
@@ -36216,6 +36290,7 @@ Rodersdorf
 Rodgers
 Rodi Garganico
 Rodigo
+Rodì Milici
 Rödinghausen
 Rodionovo-Nesvetaysky District
 Rodkov
@@ -36349,6 +36424,7 @@ Romeno
 Romentino
 Romeral
 Römerswil
+Rometta
 Römhild
 Romille
 Romita
@@ -37766,6 +37842,7 @@ San Fernando del Valle de Catamarca
 San Fernando de Monte Cristi
 San Fernando Department
 San Fili
+San Filippo del Mela
 San Fior
 San Fiorano
 San Floriano del Collio
@@ -37780,6 +37857,7 @@ San Francisco de Jacagua
 San Francisco del Oro
 San Francisco del Rincón
 San Francisco de Macorís
+San Fratello
 Sanfrè
 Sanfront
 San Gabriel
@@ -38065,6 +38143,7 @@ San Marcellino
 San Marcello
 San Marcello Piteglio
 San Marco Argentano
+San Marco d'Alunzio
 San Marco dei Cavoti
 San Marco Evangelista
 San Marco in Lamis
@@ -38190,6 +38269,8 @@ San Pelayo
 San Pellegrino Terme
 Sanpete County
 San Pier d'Isonzo
+San Pier Niceto
+San Piero Patti
 San Pietro al Natisone
 San Pietro al Tanagro
 San Pietro a Maida
@@ -38244,6 +38325,7 @@ San Saba County
 San Salvador
 San Salvador de Jujuy
 San Salvador Department
+San Salvatore di Fitalia
 San Salvatore Monferrato
 San Salvatore Telesino
 San Salvo
@@ -38273,6 +38355,7 @@ Sant'Agata Bolognese
 Sant'Agata de' Goti
 Sant'Agata del Bianco
 Sant'Agata di Esaro
+Sant'Agata di Militello
 Sant'Agata di Puglia
 Sant'Agata Feltria
 Sant'Agata Fossili
@@ -38281,6 +38364,7 @@ Sant'Agnello
 Sant'Albano Stura
 Sant'Alessio con Vialone
 Sant'Alessio in Aspromonte
+Sant'Alessio Siculo
 Sant'Alfio
 Sant'Ambrogio di Torino
 Sant'Ambrogio di Valpolicella
@@ -38297,6 +38381,7 @@ Sant'Angelo a Scala
 Sant'Angelo d'Alife
 Sant'Angelo dei Lombardi
 Sant'Angelo del Pesco
+Sant'Angelo di Brolo
 Sant'Angelo di Piove di Sacco
 Sant'Angelo in Pontano
 Sant'Angelo in Vado
@@ -38397,6 +38482,7 @@ Santa Cruz do Rio Pardo
 Santacruz-Guachavés
 Santa Cruz Province
 Santa Domenica Talao
+Santa Domenica Vittoria
 Sant Adrià de Besòs
 Santa Elena
 Santa Elena Province
@@ -38429,6 +38515,7 @@ Santa Llogaia d'Àlguema
 Santa Luce
 Santa Lucía
 Santa Lúcia
+Santa Lucia del Mela
 Santa Lucía de Tirajana
 Santa Lucia di Piave
 Santa Lucia di Serino
@@ -38474,6 +38561,7 @@ Santa Maria Maior
 Santa Maria Nuova
 Santa María Ribarredonda
 Santa Marina
+Santa Marina Salina
 Santa Marinella
 Santa Marta
 Santa Marta de los Barros
@@ -38521,6 +38609,7 @@ Santa Sofia d'Epiro
 Santa Tecla
 Santa Teresa
 Santa Teresa del Tuy
+Santa Teresa di Riva
 Santa Venera
 Santa Venerina
 Santa Vittoria d'Alba
@@ -38538,6 +38627,7 @@ Santec
 San Telmo
 Sante Marie
 Santena
+San Teodoro
 Santeramo in Colle
 Santervás de la Vega
 Sant Feliu de Buixalleu
@@ -38628,6 +38718,7 @@ Santo Stefano Belbo
 Santo Stefano d'Aveto
 Santo Stefano del Sole
 Santo Stefano di Cadore
+Santo Stefano di Camastra
 Santo Stefano di Magra
 Santo Stefano di Rogliano
 Santo Stefano di Sessanio
@@ -38769,6 +38860,7 @@ Sapanca
 Saplava
 Sa Pobla
 Sapockin
+Saponara
 Sappada
 Sappemeer
 Sapporo
@@ -38984,6 +39076,7 @@ Savigny
 Saviore dell'Adamello
 Savitaipale
 Šavnik
+Savoca
 Savogna
 Savogna d'Isonzo
 Savoia di Lucania
@@ -39028,6 +39121,7 @@ Scala Coeli
 Scaldasole
 Scalea
 Scalenghe
+Scaletta Zanclea
 Scampitella
 Scandale
 Scandiano
@@ -40264,6 +40358,7 @@ Simpson County
 Simrishamn
 Simsbury
 Sinabelkirchen
+Sinagra
 Sinajana
 Sinaloa
 Sinalunga
@@ -41197,6 +41292,7 @@ Sozopol
 Sozzago
 Spa
 Spaarnwoude
+Spadafora
 Spadola
 Spalding
 Spalding County
@@ -42940,6 +43036,7 @@ Tan-Tan
 Tan-Tan Province
 Tanum
 Tanvald
+Taormina
 Taos County
 Taounate
 Taounate Province
@@ -43365,6 +43462,7 @@ Terme
 Termen
 Termeno sulla Strada del Vino
 Térmens
+Terme Vigliatore
 Termoli
 Termunten
 Ternaard
@@ -44029,6 +44127,7 @@ Torre di Santa Maria
 Torredonjimeno
 Torrefarrera
 Torreglia
+Torregrotta
 Torrejoncillo
 Torrejón de Ardoz
 Torrejón de la Calzada
@@ -44047,6 +44146,7 @@ Torremenga
 Torremocha de Jarama
 Torremocha del Campo
 Torre Mondovì
+Torrenova
 Torrent
 Torreón
 Torre Orsaia
@@ -44102,6 +44202,7 @@ Tortona
 Tortora
 Tortorella
 Tortoreto
+Tortorici
 Tortosa
 Torul
 Torun City
@@ -44458,6 +44559,7 @@ Trinity County
 Trino
 Trins
 Triora
+Tripi
 Tripoli
 Tripp County
 Tripura
@@ -44836,6 +44938,7 @@ Turtmann-Unterems
 Turtzioz
 Turukhansk
 Turuncova
+Tusa
 Tusba
 Tuscaloosa County
 Tuscania
@@ -44980,6 +45083,7 @@ Uchiko
 Uchinada
 Uchisar
 Uckermark District
+Ucria
 Uda
 Udachny
 Udaipur
@@ -45662,6 +45766,7 @@ Valdikov
 Valdilana
 Valdilecha
 Valdimontone
+Valdina
 Val di Nizza
 Valdisotto
 Valdivia
@@ -46249,6 +46354,7 @@ Venecia
 Venecia (Ospina Perez)
 Venegono Inferiore
 Venegono Superiore
+Venetico
 Veneto
 Venets
 Venezia
@@ -46783,6 +46889,7 @@ Villafranca in Lunigiana
 Villafranca Padovana
 Villafranca Piemonte
 Villafranca Sicula
+Villafranca Tirrena
 Villaga
 Villa General Mitre
 Village-Neuf
