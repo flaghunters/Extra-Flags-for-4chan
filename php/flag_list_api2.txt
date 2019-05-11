@@ -2224,6 +2224,7 @@ Assam
 As Samu
 Assa-Zag Province
 Asse
+Assemini
 Assen
 Assendelft
 Assenede
@@ -7224,6 +7225,7 @@ Capolona
 Caponago
 Caporciano
 Caposele
+Capoterra
 Capovalle
 Cappadocia
 Cap-Pelé
@@ -10963,6 +10965,7 @@ Decatur
 Decatur County
 Dechantskirchen
 Dechhenling
+Decimomannu
 Decin
 Decin District
 Decollatura
@@ -12744,6 +12747,7 @@ Elma
 Elmadag
 El-Mahalla El-Kubra
 Elmali
+Elmas
 El Masnou
 Elmbridge
 Elmen
@@ -25926,6 +25930,7 @@ Marabá
 Marabá Paulista
 Maracaí
 Maracaibo
+Maracalagonis
 Maracay
 Maracena
 Maracon
@@ -27008,6 +27013,7 @@ Métropole de Lyon
 Metropolitan
 Metropolitan City of Bari
 Metropolitan City of Bologna
+Metropolitan City of Cagliari
 Metropolitan City of Catania
 Metropolitan City of Firenze
 Metropolitan City of Genova
@@ -27967,6 +27973,7 @@ Monsano
 Monselice
 Monsenhor Tabosa
 Monseñor Nouel Province
+Monserrato
 Monson
 Mon State
 Monster
@@ -35328,7 +35335,6 @@ Province of Brindisi
 Province of Burgos
 Province of Cáceres
 Province of Cádiz
-Province of Cagliari
 Province of Caltanissetta
 Province of Campobasso
 Province of Carbonia-Iglesias
@@ -35776,6 +35782,8 @@ Quartiere 5
 Quartier Grünau
 Quarto
 Quarto d'Altino
+Quartucciu
+Quartu Sant'Elena
 Quassolo
 Quatá
 Quatre Bornes
@@ -39935,6 +39943,7 @@ Sarrewerden
 Sarria
 Sarrià de Ter
 Sarroca de Bellera
+Sarroch
 Sarsina
 Sart
 Sarteano
@@ -40516,6 +40525,7 @@ Sekovici municipality
 Sekowa commune
 Sel
 Selangor
+Selargius
 Selbu
 Selby
 Selci
@@ -40820,6 +40830,7 @@ Sesto San Giovanni
 Sestriere
 Sestri Levante
 Sestroretsk
+Sestu
 Setagaya
 Setana
 Setcases
@@ -40836,6 +40847,7 @@ Settefrati
 Settime
 Settimo Milanese
 Settimo Rottaro
+Settimo San Pietro
 Settimo Torinese
 Settimo Vittone
 Settingiano
@@ -41395,6 +41407,7 @@ Sinio
 Sinj
 Sinkievičy
 Sinkovskoye
+Sinnai
 Sinnamary
 Sinoe County
 Sinop
@@ -46653,6 +46666,7 @@ Ustynivka District
 Usuki
 Usulután Department
 Usurbil
+Uta
 Utah
 Utah County
 Utajärvi
@@ -48149,6 +48163,7 @@ Villarta de los Montes
 Villarzel
 Villa San Giovanni
 Villa San Giovanni in Tuscia
+Villa San Pietro
 Villa San Secondo
 Villa Sant'Angelo
 Villasanta
