@@ -121,7 +121,7 @@ public class Main {
         if (l1 != l2) {
             return false;
         }
-        for (int i = 0; i < list1.size() - 1; ++i) {
+        for (int i = 0; i <= list1.size() - 1; ++i) {
             if (! list1.get(i).equals(list2[i])) {return false;}
         }
         return true;
