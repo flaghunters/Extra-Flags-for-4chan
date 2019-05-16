@@ -388,6 +388,7 @@ Aguadilla
 Agua Fria
 Agua Fria de Goiás
 Aguaí
+Agualeguas
 Agualva
 Agua Prieta
 Água Rasa
@@ -1343,6 +1344,7 @@ Anadyr
 Anadyrsky District
 Anagni
 Anaheim
+Anáhuac
 Anais
 Analamanga Region
 Analândia
@@ -1642,6 +1644,7 @@ Apice
 Apiro
 A Pobra do Brollón
 A Pobra do Caramiñal
+Apodaca
 Apollosa
 A Pontenova
 Apopka
@@ -1721,6 +1724,7 @@ Aral
 Aralik
 Arama
 Aramaio
+Aramberri
 Aramengo
 Aramil
 Aramina
@@ -6332,6 +6336,7 @@ Bussum
 Bussy-Chardonney
 Bussy-sur-Moudon
 Bust
+Bustamante
 Bustan al-Marj
 Bustarviejo
 Bustehrad
@@ -6526,6 +6531,7 @@ Cadempino
 Caden
 Cadenazzo
 Cadeo
+Cadereyta Jiménez
 Caderzone Terme
 Cadier en Keer
 Cadiz
@@ -8445,6 +8451,7 @@ Cerny Dul
 Cerosimo
 Cerqueira César
 Cerquilho
+Cerralvo
 Cerreto d'Asti
 Cerreto d'Esi
 Cerreto di Spoleto
@@ -9361,6 +9368,7 @@ Ciempozuelos
 Ciénaga
 Ciénaga de Oro
 Ciénega
+Ciénega de Flores
 Cienfuegos Province
 Ciepielow commune
 Cieplowody commune
@@ -11637,6 +11645,9 @@ Dobryszyce commune
 Dobrzany commune
 Dobrzyn nad Wisla commune
 Dobsice
+Doctor Arroyo
+Doctor Coss
+Doctor González
 Doctor Mora
 Doddridge County
 Döderhult District
@@ -14799,6 +14810,7 @@ Garbatka-Letnisko commune
 Garbow commune
 Garça
 Garching
+García
 Gard
 Garda
 Gardabani
@@ -15029,8 +15041,10 @@ Gendringen
 Gendt
 Genemuiden
 General Belgrano Department
+General Bravo
 General Carrera Province
 General Cepeda
+General Escobedo
 General Lagos
 General Pico
 General Pinedo
@@ -15042,7 +15056,11 @@ General Sampaio
 General San Martín Department
 General Santos
 Generalski Stol
+General Terán
 General Toshevo
+General Treviño
+General Zaragoza
+General Zuazua
 Genesee
 Genesee County
 Genesee Falls
@@ -17622,6 +17640,7 @@ Higuera de Calatrava
 Higuera de las Dueñas
 Higuera de la Serena
 Higuera de la Sierra
+Higueras
 Hiiumaa
 Hiiu Parish
 Hiji
@@ -18354,6 +18373,7 @@ Hsinchu County
 Huachinera
 Huacho
 Huahine
+Hualahuises
 Hualaihué
 Hualañé
 Hualien County
@@ -19251,6 +19271,7 @@ Ituberá
 Itumbiara
 Ituna Bon Accord
 Itupeva
+Iturbide
 Ituverava
 Ituzaingó Department
 Iuiú
@@ -23125,6 +23146,7 @@ Lampasas County
 Lampaul-Guimiliau
 Lampaul-Plouarzel
 Lampaul-Ploudalmezeau
+Lampazos de Naranjo
 Lampedusa e Linosa
 Lampenberg
 Lampertheim
@@ -24886,6 +24908,7 @@ Los Álamos
 Los Alamos County
 Los Alcarrizos
 Los Alcázares
+Los Aldamas
 Los Andes
 Los Andes Province
 Los Andes - Sotomayor
@@ -24906,6 +24929,7 @@ Los Corrales de Buelna
 Losevskoye
 Los Gallardos
 Los Gatos
+Los Herreras
 Los Hidalgos
 Losice commune
 Losice County
@@ -24926,6 +24950,7 @@ Los Muermos
 Losone
 Lososina Dolna commune
 Los Patios
+Los Ramones
 Los Realejos
 Los Ríos
 Los Ríos Province
@@ -26898,6 +26923,7 @@ Melazzo
 Melbourne
 Melc
 Melcany
+Melchor Ocampo
 Meldal
 Meldola
 Mele
@@ -27370,6 +27396,7 @@ Miermaigne
 Mieroszow commune
 Miersch
 Miersch Canton
+Mier y Noriega
 Mies
 Miesbach District
 Miesenbach
@@ -28336,6 +28363,7 @@ Montemilone
 Montemitro
 Montemonaco
 Monte Mor
+Montemorelos
 Montemor-o-Novo
 Montemor-o-Velho
 Montemurlo
@@ -32988,6 +33016,7 @@ Paranhos
 Paranoá
 Paraparaumu
 Parapuã
+Parás
 Paratebueno
 Paratico
 Parauapebas
@@ -33660,6 +33689,7 @@ Pesochny
 Peso da Régua
 Pesqueira
 Pesquera
+Pesquería
 Pessac
 Pessano con Bornago
 Pessina Cremonese
@@ -36550,6 +36580,7 @@ Raymah
 Raymond
 Raynham
 Rayón
+Rayones
 Rayong Province
 Razanj
 Razdolnenskoye
@@ -38238,6 +38269,7 @@ Sabbioneta
 Sabetha
 Sabina
 Sabinas
+Sabinas Hidalgo
 Sabine County
 Sabine Parish
 Sabnie commune
@@ -38731,6 +38763,7 @@ Salihorsk District
 Salina
 Salinas
 Salinas de Oro
+Salinas Victoria
 Saline County
 Salisano
 Salisbury
@@ -39444,6 +39477,7 @@ San Nicola la Strada
 San Nicola Manfredi
 San Nicolás
 San Nicolás de los Arroyos
+San Nicolás de los Garza
 San Nicolás Department
 San Nicolò d'Arcidano
 San Nicolò di Comelico
@@ -39479,6 +39513,7 @@ San Pedro de Macorís Province
 San Pedro de Melipilla
 San Pedro Department
 San Pedro de Urabá
+San Pedro Garza García
 San-Pédro Region
 San Pedro Tlaquepaque
 San Pelayo
@@ -47306,6 +47341,7 @@ Valle Aurina
 Vallebona
 Valle Cannobina
 Valle Castellana
+Vallecillo
 Vallecorsa
 Vallecrosia
 Valle d'Aosta
@@ -48398,6 +48434,7 @@ Villalba del Alcor
 Villalba de los Barros
 Villalbilla
 Villalcázar de Sirga
+Villaldama
 Villa Literno
 Villalmanzo
 Villalobón
