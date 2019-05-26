@@ -9501,22 +9501,22 @@ Circolo di Bellinzona
 Circolo di Breno
 Circolo di Caneggio
 Circolo di Capriasca
-Circolo di Carona
 Circolo di Faido
 Circolo di Giornico
 Circolo di Lavizzara
 Circolo di Locarno
 Circolo di Lugano est
+Circolo di Lugano nord
 Circolo di Lugano ovest
 Circolo di Malvaglia
 Circolo di Mendrisio
 Circolo di Olivone
 Circolo di Onsernone
+Circolo di Paradiso
 Circolo di Quinto
 Circolo di Riva San Vitale
 Circolo di Sant'Antonino
 Circolo di Sessa
-Circolo di Sonvico
 Circolo di Stabio
 Circolo di Taverne
 Circolo di Vezia
@@ -15321,6 +15321,7 @@ Giesshübl
 Gieten
 Gieterveen
 Giethoorn
+Giez
 Giffers
 Gifflenga
 Giffone
@@ -15979,6 +15980,7 @@ Grande Comore
 Grande Prairie
 Grande Prairie County
 Grand Est
+Grandevent
 Grand Falls
 Grand Falls-Windsor
 Grandfontaine
@@ -37828,6 +37830,7 @@ Romagnano Sesia
 Romagne
 Romagnese
 Romagny
+Romainmôtier-Envy
 Romallo
 Romana
 Romanel-sur-Lausanne
@@ -45274,6 +45277,7 @@ Teuffenthal
 Teulada
 Teuva
 Teva I Uta
+Tévenon
 Teverga
 Teverola
 Tewkesbury
@@ -47508,7 +47512,6 @@ Vâlcea County
 Valchi Dol
 Valchiusa
 Valchov
-Valcolla
 Val d'Aran
 Val-d'Illiez
 Val d'Ize
@@ -47591,6 +47594,7 @@ Våler
 Valera
 Valera Fratta
 Valeyres-sous-Montagny
+Valeyres-sous-Rances
 Valeyres-sous-Ursins
 Valfabbrica
 Valfenera
