@@ -1334,6 +1334,12 @@ Amstenrade
 Amsterdam
 Amsterdam (city)
 Amsterdam (town)
+Amsterdam-Centrum
+Amsterdam-Noord
+Amsterdam-Oost
+Amsterdam-West
+Amsterdam-Zuid
+Amsterdam-Zuidoost
 Amstetten
 Amstetten District
 Amt Wachsenburg
@@ -1809,6 +1815,7 @@ Arch
 Archena
 Archer County
 Archi
+Archipelbuurt
 Archlebov
 Archuleta County
 Arcidosso
@@ -3039,6 +3046,7 @@ Banjar
 Banjarnegara Regency
 Banks County
 Bannalec
+Banne Buiksloot
 Banner County
 Bannio Anzino
 Bannockburn
@@ -3894,6 +3902,7 @@ Bennwihr
 Bennwil
 Benodet
 Benokovskoye
+Benoordenhout
 Benov
 Benquerencia
 Benschop
@@ -4277,6 +4286,7 @@ Bezkov
 Bezmerov
 Bezno
 Bezuchov
+Bezuidenhout
 Bezverov
 Bezvodnoye
 Bhavnagar
@@ -5309,6 +5319,7 @@ Bosconia
 Boscoreale
 Boscotrecase
 Bosen
+Bos en Lomner
 Bosia
 Bosice
 Bosilegrad
@@ -8391,6 +8402,7 @@ Centro Storico
 Centro Storico-Piedicastello
 Centro Sur Province
 Centro Valle Intelvi
+Centrum
 Centuripe
 Cep
 Cepagatti
@@ -9099,6 +9111,7 @@ China
 Chinácota
 Chinandega
 Chinandega Department
+Chinatown
 Chinavita
 Chinchina
 Chinchón
@@ -13702,6 +13715,7 @@ Fehergyarmat District
 Fehraltorf
 Fehren
 Fehring
+Feijenoord
 Feijó
 Feilding
 Feillens
@@ -15257,6 +15271,8 @@ Geudertheim
 Geuensee
 Geulle
 Geumcheon District
+Geuzen- en Statenkwartier
+Geuzenveld-Slotermeer-Sloterdijken
 Gevelsberg
 Geveze
 Gevgelija
@@ -16761,6 +16777,7 @@ Haacht
 Häädemeeste Parish
 Haaften
 Haag
+Haagse Hout
 Haakon County
 Haaksbergen
 Haaltert
@@ -17769,6 +17786,7 @@ Hillburn
 Hill County
 Hille
 Hillegersberg
+Hillegersberg-Schiebroek
 Hillegom
 Hillerød
 Hillingdon
@@ -22225,6 +22243,8 @@ Kralice nad Oslavou
 Kralice na Hane
 Kraliky
 Kralingen
+Kralingen-Crooswijk
+Kralingen-Oost
 Kraljevec na Sutli
 Kraljevo
 Kralova Lhota
@@ -22900,7 +22920,10 @@ Laab im Walde
 La Acebeda
 La Adrada
 Laag-Keppel
+Laak
 Laakdal
+Laakhavens
+Laakkwartier en Spoorwijk
 La Aldea de San Nicolás
 La Aldehuela
 La Almolda
@@ -23331,6 +23354,7 @@ Landeck
 Landeck District
 Landeda
 Landeleau
+Landelijk Noord
 Landen
 Lander County
 Landerd
@@ -23930,6 +23954,8 @@ Leiden
 Leiderdorp
 Leidschendam
 Leidschendam-Voorburg
+Leidschenveen
+Leidschenveen-Ypenburg
 Leigh
 Leikanger
 Leimbach
@@ -24279,6 +24305,7 @@ Lexington County
 Lexington-Fayette Urban County
 Lexmond
 Leyden
+Leyenburg
 Leymen
 Leysin
 Leyte
@@ -28051,6 +28078,7 @@ Moergestel
 Moerkapelle
 Moernach
 Moers
+Moerwijk
 Moffat County
 Mogadouro
 Mogalakwena
@@ -28864,6 +28892,7 @@ Morgan County
 Morgan Hill
 Morgano
 Morgantown
+Morgenstond
 Morges
 Morgex
 Morgongiori
@@ -30439,6 +30468,8 @@ Nieuwstadt
 Nieuwveen
 Nieuwvliet
 Nieuw-Vossemeer
+Nieuw Waldeck
+Nieuw-West
 Nièvre
 Niévroz
 Niffer
@@ -30683,6 +30714,7 @@ Noord-Beveland
 Noord-Brabant
 Noordbroek
 Noorddijk
+Noordelijke IJ-Oevers
 Noordeloos
 Noordenveld
 Noordgouwe
@@ -32387,6 +32419,7 @@ Osceola
 Osceola County
 Oschiri
 Oscoda County
+Osdorp
 Osecany
 Osecek
 Osecina
@@ -32699,6 +32732,7 @@ Ouder-Amstel
 Ouderkerk aan den IJssel
 Oude-Tonge
 Oudewater
+Oude Westen
 Oudheusden
 Oud-Heverlee
 Oudkarspel
@@ -32709,6 +32743,8 @@ Oudtshoorn
 Oud-Turnhout
 Oud-Valkenburg
 Oud-Vossemeer
+Oud-West
+Oud-Zuid
 Oued Ed-Dahab Province
 Oued Ellil
 Oueslatia
@@ -36669,6 +36705,7 @@ Rannu Parish
 Ranong Province
 Ránquil
 Ranrupt
+Ransdorp
 Ransom County
 Ranspach
 Ranspach-le-Bas
@@ -40718,6 +40755,7 @@ Scheidegg
 Scheifling
 Schelle
 Schellenberg
+Schellingwoude
 Schellinkhout
 Schelluinen
 Schelten
@@ -40746,6 +40784,7 @@ Schiers
 Schignano
 Schijndel
 Schilde
+Schildersbuurt
 Schiller Park
 Schillersdorf
 Schilpario
@@ -41036,6 +41075,7 @@ Seftigen
 Sefton
 Segariu
 Segarra
+Segbroek
 Segeberg District
 Segezha
 Seggiano
@@ -42305,6 +42345,7 @@ Slonsk commune
 Slope County
 Slopne
 Slopnice commune
+Sloterdijk
 Slough
 Sloup
 Sloupnice
@@ -43035,6 +43076,7 @@ Spoleto
 Spoltore
 Spomysl
 Spongano
+Spoorwijk
 Sporice
 Spormaggiore
 Sporminore
@@ -43363,6 +43405,7 @@ Staszow County
 State College
 Statenice
 Staten Island
+Station-Zuid en omgeving
 Statte
 Stattegg
 Stattmatten
@@ -46061,6 +46104,7 @@ Tranovice
 Transnistria
 Trans-Nzoia County
 Transtrand locality
+Transvaalkwartier
 Transylvania County
 Tranøy
 Traona
@@ -49165,6 +49209,7 @@ Vogelsberg District
 Vogelsheim
 Vogeltown
 Vogelwaarde
+Vogelwijk
 Voghera
 Voghiera
 Vogogna
@@ -49411,6 +49456,7 @@ Vrsac
 Vrskman
 Vrsovice
 Vrsovka
+Vruchtenbuurt
 Vrutice
 Vsechlapy
 Vsechovice
@@ -49678,6 +49724,7 @@ Wald am Schoberpass
 Waldbelleg
 Waldbriedemes
 Waldbröl
+Waldeck
 Waldeck-Frankenberg District
 Waldegg
 Walden
@@ -50136,6 +50183,7 @@ Western Lakes
 Western Nile
 Western Province
 Western Region
+Westerpark
 Westerveld
 Westervoort
 Westerwaldkreis
@@ -50447,6 +50495,7 @@ Willacy County
 Willadingen
 Will County
 Willebroek
+Willemspark
 Willemstad
 Willendorf
 Willenhall
@@ -51145,6 +51194,7 @@ Youssoufia Province
 Yozgat
 Yozgat Province
 Ypäjä
+Ypenburg
 Ysbrechtum
 Yspertal
 Ystad
@@ -51552,6 +51602,7 @@ Zeddiani
 Zedelgem
 Zederhaus
 Zedlitz
+Zeeburg
 Zeeland
 Zeewolde
 Zeglingen
