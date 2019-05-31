@@ -1586,6 +1586,7 @@ Antigonish County
 Antigua
 Antigüedad
 Antiguo Cuscatlán
+Antiguo Morelos
 Antillo
 Antioch
 Antioquia Department
@@ -7750,6 +7751,7 @@ Casarile
 Casarrubuelos
 Casarsa della Delizia
 Casarza Ligure
+Casas
 Casasco
 Casas de Don Antonio
 Casas de Don Gómez
@@ -9654,7 +9656,9 @@ Ciudad Constitución
 Ciudad del Este
 Ciudad de México
 Ciudad Juárez
+Ciudad Madero
 Ciudad Obregón
+Ciudad Victoria
 Ciutadella de Menorca
 Ciutadilla
 Civate
@@ -10722,6 +10726,7 @@ Crozet
 Crozon
 Crucoli
 Cruguel
+Cruillas
 Cruz
 Cruzália
 Cruz das Almas
@@ -13021,6 +13026,7 @@ Elma
 Elmadag
 El-Mahalla El-Kubra
 Elmali
+El Mante
 Elmas
 El Masnou
 Elmbridge
@@ -16712,6 +16718,7 @@ Guelph
 Gueltas
 Guemar
 Guemene-sur-Scorff
+Güémez
 Güeñes
 Guengat
 Guenin
@@ -16870,6 +16877,7 @@ Güssing District
 Gussola
 Gustafs District
 Gustavo A Madero
+Gustavo Díaz Ordaz
 Gutenberg-Stenzengreith
 Gutenbrunn
 Gutenstein
@@ -19889,6 +19897,7 @@ Jasz-Nagykun-Szolnok County
 Jataí
 Jatt
 Jaú
+Jaumave
 Jaun
 Jaunay-Marigny
 Jaunjelgava
@@ -26097,6 +26106,7 @@ Main Brook
 Maine
 Maine-de-Boixe
 Maine-et-Loire
+Mainero
 Maine Township
 Main-Kinzig District
 Main-Spessart District
@@ -27447,6 +27457,7 @@ Mendeleevo
 Menden
 Menderes
 Mendexa
+Méndez
 Mendham
 Mendham Township
 Mendicino
@@ -27860,6 +27871,7 @@ Mignanego
 Mignano Monte Lungo
 Migné-Auxances
 Migori County
+Miguel Alemán
 Miguel Hidalgo
 Mihaliccik
 Mihama
@@ -28096,6 +28108,7 @@ Miory
 Miory District
 Mios
 Miquelon-Langlade
+Miquihuana
 Mir
 Mira
 Mirabel
@@ -31568,7 +31581,9 @@ Nuevo Casas Grandes
 Nuevo Chimbote
 Nuevo Colón
 Nuevo Ideal
+Nuevo Laredo
 Nuevo León
+Nuevo Morelos
 Nughedu San Nicolò
 Nughedu Santa Vittoria
 Nuglar-St. Pantaleon
@@ -33389,6 +33404,7 @@ Palmetto Beach
 Palmi
 Palmiano
 Palmilla
+Palmillas
 Palmira
 Palm Island
 Palmital
@@ -37749,6 +37765,7 @@ Riobamba
 Rio Bananal
 Rio Blanco County
 Rio Branco
+Rio Bravo
 Río Bueno
 Riocabado
 Rio Claro
@@ -39718,6 +39735,7 @@ San Fernando de Henares
 San Fernando del Valle de Catamarca
 San Fernando de Monte Cristi
 San Fernando Department
+San Fernardo
 San Fili
 San Filippo del Mela
 San Fior
@@ -43193,6 +43211,7 @@ Soto de Cerrato
 Soto del Barco
 Soto del Real
 Sotogahama
+Soto la Marina
 Sotomó
 Sotto il Monte Giovanni XXIII
 Sottunga
@@ -45115,6 +45134,7 @@ Tampa
 Tampa Heights
 Tampa Seminole Indian Reservation
 Tampere
+Tampico
 Tampines
 Tamra
 Tamsalu
@@ -48119,6 +48139,7 @@ Vallefiorita
 Vallefoglia
 Valle Gran Rey
 Vallehermoso
+Valle Hermoso
 Vallejo
 Vallejuelo
 Vallelaghi
@@ -51340,6 +51361,7 @@ Xewkija
 Xghajra
 Xhariep
 Xichú
+Xicoténcatl
 Xinjiang
 Xinzo de Limia
 Xochimilco
