@@ -1,4 +1,4 @@
-'Amran
+﻿'Amran
 's-Graveland
 's-Gravendeel
 's Gravenmoer
@@ -1299,6 +1299,7 @@ Amerongen
 Amersfoort
 Ames
 Amesbury
+Ameugny
 Ameyugo
 Amezketa
 Amfipoli
@@ -2481,6 +2482,7 @@ Autlán de Navarro
 Autol
 Autonomous Province of Bolzano
 Autonomous Province of Trento
+Autun
 Auvergne
 Auvergne-Rhône-Alpes
 Auw
@@ -3757,6 +3759,7 @@ Bellegra
 Bellemagny
 Bellerose
 Belle Terre
+Bellevesvre
 Belleville
 Belleville Township
 Bellevue
@@ -4141,6 +4144,8 @@ Beryslav
 Beryslav District
 Berzano di San Pietro
 Berzano di Tortona
+Berzé-la-Ville
+Berzé-le-Châtel
 Berzocana
 Berzo Demo
 Berzo Inferiore
@@ -4231,6 +4236,7 @@ Bevilacqua
 Bex
 Bexar County
 Bexley
+Bey
 Beyagac
 Beydag
 Beykonak
@@ -4729,6 +4735,7 @@ Blankenham
 Blansko
 Blansko District
 Blantyre
+Blanzy
 Blaricum
 Blasdell
 Blaszki commune
@@ -5134,6 +5141,7 @@ Bonito
 Bonn
 Bonnac-la-Côte
 Bonnanaro
+Bonnay
 Bonnemain
 Bonner County
 Bonner Springs
@@ -5438,6 +5446,7 @@ Bounty Islands
 Bourbach-le-Bas
 Bourbach-le-Haut
 Bourbon County
+Bourbon-Lancy
 Bourgbarre
 Bourg-Blanc
 Bourg-Bruche
@@ -5596,6 +5605,7 @@ Brandysek
 Brandys nad Labem-Stara Boleslav
 Brandys nad Orlici
 Branford
+Branges
 Branice
 Branicevo District
 Braniskov
@@ -5830,6 +5840,7 @@ Brie
 Briec
 Brielle
 Brielles
+Brienne
 Brienno
 Brienz
 Brienza
@@ -6368,6 +6379,7 @@ Burlington Township
 Burlöv
 Bürmoos
 Burnaby
+Burnand
 Burnet County
 Burnett County
 Burnham
@@ -6399,6 +6411,7 @@ Buryatia
 Buryn
 Buryn District
 Burzenin commune
+Burzy
 Burzyansky District
 Bus
 Busachi
@@ -6484,6 +6497,7 @@ Buurmalsen
 Buus
 Buxheim in Schwaben
 Buxton
+Buxy
 Buy
 Buynaksk
 Buynaksky District
@@ -8562,6 +8576,7 @@ Cernusco Lombardone
 Cernusco sul Naviglio
 Cernvir
 Cerny Dul
+Céron
 Cerosimo
 Cerqueira César
 Cerquilho
@@ -8720,10 +8735,12 @@ Chachapoyas Province
 Chachoengsao Province
 Chaco Province
 Chaffee County
+Chagny
 Chaguanas
 Chaguaní
 Chaidari
 Chai Nat Province
+Chaintré
 Chaitén
 Chaiyaphum Province
 Chalais
@@ -8739,7 +8756,9 @@ Chalkidona
 Challand-Saint-Anselme
 Challand-Saint-Victor
 Challex
+Chalmoux
 Châlons-en-Champagne
+Chalon-sur-Saône
 Chaloupky
 Cham
 Chamarande
@@ -8751,6 +8770,7 @@ Chamboret
 Chambray-lès-Tours
 Cham District
 Chámeza
+Chamilly
 Chamlykskaya
 Chamois
 Chamoson
@@ -8782,6 +8802,7 @@ Chandigarh
 Chandler
 Chaneins
 Chang
+Change
 Change Islands
 Changhua County
 Chania
@@ -8792,6 +8813,7 @@ Chantepie
 Chanthaburi Province
 Chanute
 Chapadão do Céu
+Chapaize
 Chapala
 Chapchha
 Chapecó
@@ -8837,8 +8859,10 @@ Charlton
 Charlton County
 Charnoz-sur-Ain
 Charodinsky District
+Charolles
 Charqueada
 Charrat
+Charrecey
 Charsznica commune
 Charters Towers
 Chartres
@@ -8851,7 +8875,9 @@ Chasiv Yar
 Chaskhar
 Chasne-sur-Illet
 Chasno commune
+Chasselas
 Chasseneuil-sur-Bonnieure
+Chassy
 Chastinsky District
 Chastre
 Chastsovskoye
@@ -8865,6 +8891,7 @@ Chateaugiron
 Chateaulin
 Chateauneuf-d'Ille-et-Vilaine
 Chateauneuf-du-Faou
+Châteaurenaud
 Châtelet
 Châtellerault
 Châtel-Saint-Denis
@@ -8890,8 +8917,10 @@ Chattahoochee County
 Chattanooga
 Chatton
 Chattooga County
+Chaudenay
 Chaudfontaine
 Chaudière-Appalaches
+Chauffailles
 Chaumont
 Chaumont-Gistoux
 Chaumont-sur-Tharonne
@@ -8932,6 +8961,7 @@ Chechnya
 Cheektowaga
 Chefchaouen
 Chefchaouen Province
+Cheilly-lès-Maranges
 Cheiry
 Chekhov
 Chekhovsky District
@@ -8962,6 +8992,7 @@ Chemung
 Chemung County
 Chenango
 Chenango County
+Chenay-le-Châtel
 Chêne-Bougeries
 Chêne-Bourg
 Chénens
@@ -9056,6 +9087,7 @@ Chestnut Ridge
 Chetopa
 Chetumal
 Chetwynd District
+Chevagny-les-Chevrières
 Chevaigne
 Cheverly
 Chevilly
@@ -9212,6 +9244,8 @@ Chiscas
 Chishminsky District
 Chisinău
 Chismenskoye
+Chissey-en-Morvan
+Chissey-lès-Mâcon
 Chistopol
 Chistopolyanskoye
 Chita
@@ -9485,6 +9519,7 @@ Ciechanow County
 Ciechocin commune
 Ciechocinek
 Ciego de Ávila Province
+Ciel
 Ciempozuelos
 Ciénaga
 Ciénaga de Oro
@@ -9769,6 +9804,7 @@ Clermont
 Clermont County
 Clermont-Ferrand
 Cles
+Clessé
 Cleto
 Cleve
 Clevedon
@@ -9800,6 +9836,7 @@ Cloverlea
 Cloz
 Cluj County
 Cluj-Napoca
+Cluny
 Clusone
 Clutha District
 Clyde
@@ -10315,6 +10352,7 @@ Cormack
 Cormano
 Corman Park
 Cormaranche-en-Bugey
+Cormatin
 Corminboeuf
 Cormons
 Cormoranche-sur-Saône
@@ -10410,6 +10448,7 @@ Corte Palasio
 Cortes
 Cortes de Baza
 Cortés Department
+Cortevaix
 Cortiglione
 Cortina d'Ampezzo
 Cortina sulla Strada del Vino
@@ -10504,6 +10543,8 @@ Cotton County
 Cotton Valley
 Cottonwood County
 Cotuí
+Coublanc
+Couches
 Coudersport
 Couhé
 Coulee
@@ -10628,6 +10669,7 @@ Crcovice
 Creazzo
 Crecchio
 Crecente
+Crèches-sur-Saône
 Credaro
 Credera Rubbiano
 Credin
@@ -10656,6 +10698,7 @@ Crespos
 Cressa
 Cressier
 Cresskill
+Cressy-sur-Somme
 Crésuz
 Creuse
 Crevacuore
@@ -10672,6 +10715,7 @@ Crisnée
 Crispano
 Crisp County
 Crispiano
+Crissey
 Crissier
 Crissolo
 Cristais Paulista
@@ -10795,6 +10839,8 @@ Cuguen
 Cugy
 Cuiabá
 Cuijk
+Cuiseaux
+Cuisery
 Cuítiva
 Cukarica
 Cukurova
@@ -10804,6 +10850,7 @@ Culemborg
 Culiacán
 Cúllar Vega
 Culleredo
+Culles-les-Roches
 Cullman
 Cullman County
 Culoz
@@ -10875,6 +10922,7 @@ Curtarolo
 Curtatone
 Curti
 Curtilles
+Curtil-sous-Burnand
 Curtis
 Curumaní
 Curuzú Cuatiá
@@ -11049,6 +11097,7 @@ Dammam
 Damme
 Damnikov
 Damphreux
+Dampierre-en-Bresse
 Damüls
 Da Nang
 Danbury
@@ -11144,6 +11193,7 @@ Davao City
 Davao del Norte
 Davao del Sur
 Davao Oriental
+Davayé
 Davenport
 Daventry
 Daverdisse
@@ -11307,6 +11357,7 @@ Demak Regency
 Demarest
 Dembeni
 Demerara-Mahaica
+Demigny
 Demihovskoye
 Demirci
 Demir Hisar
@@ -11478,6 +11529,7 @@ DeWitt County
 De Wolden
 De Wylgen
 Dexter
+Dezize-lès-Maranges
 Dhaka
 Dhale
 Dhamar
@@ -11504,6 +11556,7 @@ Dickinson
 Dickinson County
 Dickson County
 Dicomano
+Diconne
 Didam
 Diddeleng
 Didenheim
@@ -11556,6 +11609,7 @@ Diffa Region
 Digbeth
 Dighton
 Dignano
+Digoin
 Diguillín Province
 Dihlabeng
 Dijon
@@ -12133,6 +12187,7 @@ Drachkov
 Drachten
 Drachtster Kompenije
 Dracut
+Dracy-le-Fort
 Dragacz commune
 Draganić
 Dragas
@@ -12466,6 +12521,7 @@ Dyjakovicky
 Dykanka District
 Dymokury
 Dynin
+Dyo
 Dyrøy
 Dysina
 Dytiki Ellada
@@ -13258,10 +13314,12 @@ Eordaia
 Epalinges
 Epe
 Ependes
+Épervans
 Epfig
 Ephraim Mogale
 Ephratah
 Épila
+Épinac
 Epiniac
 Episcopia
 Epitaciolândia
@@ -13517,6 +13575,7 @@ Esztergom District
 Etajima
 Étalle
 Étampes
+Étang-sur-Arroux
 Etchojoa
 Eteimbes
 Etel
@@ -14260,6 +14319,7 @@ Fonseca
 Fontaine-l'Évêque
 Fontaine-la-Rivière
 Fontainemore
+Fontaines
 Fontaines-sur-Grandson
 Fontalovskoye
 Fontana
@@ -14477,6 +14537,7 @@ Francoforte
 Francolise
 Franconia
 Francova Lhota
+Frangy-en-Bresse
 Franken
 Frankenau-Unterpullendorf
 Frankenfels
@@ -15204,6 +15265,7 @@ Gdansk
 Gdansk County
 Gdow commune
 Gdynia
+Géanges
 Geary County
 Geauga County
 Gebenstorf
@@ -15601,6 +15663,7 @@ Givatayim
 Givisiez
 Givoletto
 Givrins
+Givry
 Givskud
 Giza
 Giza Governorate
@@ -16729,6 +16792,7 @@ Guern
 Guernsey County
 Guerrero
 Guesálaz
+Gueugnon
 Güevéjar
 Guevenatten
 Guewenheim
@@ -18828,6 +18892,7 @@ Hurbanova Ves
 Hurdal
 Hurdegaryp
 Hurfeish
+Hurigny
 Hurky
 Hurley
 Hürm
@@ -19504,6 +19569,7 @@ Issiglio
 Issime
 Isso
 Issogne
+Issy-l'Évêque
 Issy-les-Moulineaux
 Istanbul
 Istanbul Province
@@ -23235,6 +23301,7 @@ Lackenbach
 Lackendorf
 Lacko commune
 Lac La Biche County
+La Clayette
 Laclede County
 Lacnov
 La Colilla
@@ -23298,6 +23365,7 @@ La Forest-Landerneau
 La Foret-Fouesnant
 Lafourche Parish
 La Fresnais
+La Frette
 La Frontera
 La Gacilly
 La Galera
@@ -23348,6 +23416,7 @@ Laguardia
 La Guardia de Jaén
 Laguardia-Rioja Alavesa Region
 La Guerche-de-Bretagne
+La Guiche
 Laguna
 Laguna Blanca
 Laguna Pueblo Reservation
@@ -23868,6 +23937,7 @@ Lasva Parish
 Las Vegas
 Laszczow commune
 Latacunga
+La Tagnière
 Latah County
 La Tebaida
 La Tène
@@ -23892,6 +23962,7 @@ La Trinite-sur-Mer
 La Trinite-Surzur
 Latrobe
 Latronico
+La Truchère
 Lattarico
 Lattingtown
 Laubach
@@ -24084,6 +24155,7 @@ Lecompton
 Le Conquet
 Le Cours
 Lecousse
+Le Creusot
 Lecrín
 Le Croisic
 Le Croisty
@@ -24127,6 +24199,7 @@ Leeton
 Leeuwarden
 Le Faou
 Le Faouet
+Le Fay
 Leffe
 Le Flon
 Leflore County
@@ -24345,6 +24418,7 @@ Le Ponthou
 Leporano
 Leposavic
 Leppävirta
+Le Puley
 Lequile
 Lequio Berria
 Lequio Tanaro
@@ -24419,6 +24493,7 @@ Les Piles
 Les Planchettes
 Les Ponts-de-Martel
 Lessach
+Lessard-le-National
 Lessebo
 Lessebo locality
 Lesser Slave River Municipal District
@@ -24440,6 +24515,7 @@ Les Verrières
 Leszno
 Leszno commune
 Lesznowola commune
+Le Tartre
 Letcher County
 Letenye District
 Lethbridge
@@ -24523,6 +24599,7 @@ Lexmond
 Leyden
 Leyenburg
 Leymen
+Leynes
 Leysin
 Leyte
 Leytron
@@ -25157,6 +25234,7 @@ Loire-Atlantique
 Loiret
 Loir-et-Cher
 Loiri Porto San Paolo
+Loisy
 Loiu
 Loíza
 Loja
@@ -25234,6 +25312,7 @@ Longboat Key
 Long Branch
 Longburn
 Long County
+Longepierre
 Longerhou
 Long Harbour-Mount Arlington Heights
 Longhena
@@ -25394,6 +25473,7 @@ Loucovice
 Loudon
 Loudon County
 Loudoun County
+Louhans
 Louisa County
 Louisburg
 Louisiana
@@ -25592,6 +25672,8 @@ Lüganuse Parish
 Luganville
 Lugnano in Teverina
 Lugnez
+Lugny
+Lugny-lès-Charolles
 Lugo
 Lugo di Vicenza
 Lugovskoye
@@ -26221,6 +26303,7 @@ Mala Vyska
 Mala Vyska District
 Mala Wies commune
 Malax
+Malay
 Malaya Okhta
 Malazgirt
 Malborghetto-Valbruna
@@ -26599,6 +26682,7 @@ Marciana Marina
 Marcianise
 Marciano della Chiana
 Marcignago
+Marcigny
 Marcilla
 Marcilla de Campos
 Marcille-Raoul
@@ -26772,6 +26856,7 @@ Marlieux
 Marlow
 Marlsboro Township
 Marly
+Marmagne
 Marmara
 Marmaracik
 Marmara Ereglisi
@@ -26832,6 +26917,7 @@ Marsov u Upice
 Marstal
 Märstetten
 Marta
+Martailly-lès-Brancion
 Martano
 Martelange
 Martellago
@@ -27051,6 +27137,7 @@ Mato Grosso
 Mato Grosso do Sul
 Matola
 Matosinhos
+Matour
 Matoury
 Matran
 Matrei am Brenner
@@ -27521,6 +27608,7 @@ Merchantville
 Merchtem
 Mercier–Hochelaga-Maisonneuve
 Mercogliano
+Mercurey
 Méreau
 Meredith
 Merefa
@@ -27582,6 +27670,7 @@ Mertzwiller
 Meru County
 Meruelo
 Merunice
+Mervans
 Mervelier
 Mervin
 Merxheim
@@ -28687,10 +28776,14 @@ Montasola
 Montauban-de-Bretagne
 Montauro
 Montazzoli
+Montbellet
 Montblanc
 Montcada i Reixac
 Montcalm County
+Montceau-les-Mines
 Montceaux
+Montcenis
+Montchanin
 Montcherand
 Montclair Township
 Montclar
@@ -28998,6 +29091,7 @@ Montour County
 Montour Falls
 Montpelier
 Montpellier
+Montpont-en-Bresse
 Montpreveyres
 Mont-ras
 Montréal
@@ -29007,6 +29101,7 @@ Montréal-Nord
 Montréal-Ouest
 Montréal Urban Agglomeration
 Montresta
+Montret
 Montreuil
 Montreuil-le-Gast
 Montreuil-sous-Perouse
@@ -30270,6 +30365,7 @@ Nekvasovy
 Nelahozeves
 Nelas
 Nelesovice
+Nellecey
 Nelliston
 Nelson
 Nelson County
@@ -32617,6 +32713,7 @@ Ormaiztegi
 Ormalingen
 Ormea
 Ormelle
+Ormes
 Ormoc
 Ormondville
 Ormont-Dessous
@@ -33078,6 +33175,7 @@ Ourique
 Ouro Branco
 Ouroeste
 Ourol
+Ouroux-sur-Saône
 Ouro Verde
 Ouro Verde de Goiás
 Outagamie County
@@ -33370,6 +33468,7 @@ Palestro
 Palfau
 Paliano
 Palilula
+Palinges
 Palisades Park
 Paliseul
 Palizzi
@@ -33573,6 +33672,7 @@ Parás
 Paratebueno
 Paratico
 Parauapebas
+Paray-le-Monial
 Parbasdorf
 Parçay-Meslay
 Parce
@@ -33614,6 +33714,7 @@ Paris
 Parish (town)
 Parish (village)
 Parishville
+Paris-l'Hôpital
 Parizhskokommunskoye
 Parkano
 Park City
@@ -34533,6 +34634,7 @@ Piercefield
 Piermont
 Pierrafortscha
 Pierre
+Pierre-de-Bresse
 Pierrefonds-Roxboro
 Pierrepont
 Piershil
@@ -34967,6 +35069,7 @@ Plonsk
 Plonsk commune
 Plonsk County
 Ploskovice
+Plottes
 Plottier
 Ploty commune
 Plouarzel
@@ -35981,6 +36084,7 @@ Preston
 Preston County
 Pretoria
 Pretoro
+Préty
 Preuschdorf
 Preussisch Oldendorf
 Prevalje
@@ -36081,6 +36185,7 @@ Prisimasy
 Prisnotice
 Prisov
 Prisovice
+Prissé
 Pristaviste
 Pristina
 Pritluky
@@ -38250,6 +38355,7 @@ Rombach-le-Franc
 Rombiolo
 Romblon
 Rome
+Romenay
 Romeno
 Romentino
 Romeral
@@ -38677,6 +38783,7 @@ Ruiselede
 Ruja commune
 Rujiena
 Ruka Witran
+Rully
 Rum
 Ruma
 Rumburk
@@ -39011,6 +39118,7 @@ Saikai
 Saiki
 Sai Kung District
 Saillon
+Sailly
 Sainshand
 Saint-Abraham
 Saint-Aignan
@@ -39034,6 +39142,7 @@ Saint-Barthelemy
 Saint-Barthélemy
 Saint-Benoît
 Saint-Benoit-des-Ondes
+Saint-Bérain-sur-Dheune
 Saint-Bernard
 Saint-Blaise
 Saint-Blaise-la-Roche
@@ -39059,9 +39168,11 @@ Saint-Coulomb
 Saint-Cyr-sur-Menthon
 Saint David Parish
 Saint-Denis
+Saint-Denis-de-Vaux
 Saint-Denis-en-Bugey
 Saint-Denis-lès-Bourg
 Saint-Derrien
+Saint-Désert
 Saint-Didier
 Saint-Didier-d'Aussiat
 Saint-Didier-sur-Chalaronne
@@ -39087,6 +39198,7 @@ Sainte-Maure-de-Touraine
 Sainte-Ode
 Sainte-Olive
 Saint-Épain
+Sainte-Radegonde
 Saint-Erblon
 Sainte-Rose
 Sainte-Seve
@@ -39094,8 +39206,10 @@ Saint-Étienne
 Saint-Étienne-du-Bois
 Saint-Euphémie
 Saint-Evarzec
+Saint-Firmin
 Saint-François-de-Madawaska
 Saint-Fregant
+Saint-Gengoux-le-National
 Saint-Genis-Pouilly
 Saint-George
 Saint George Parish
@@ -39107,6 +39221,7 @@ Saint-Georges-su-Renon
 Saint-Georges-sur-Meuse
 Saint-Gerand
 Saint-Germain-de-Joux
+Saint-Germain-du-Bois
 Saint-Germain-du-Pinel
 Saint-Germain-en-Cogles
 Saint-Germain-lès-Arpajon
@@ -39134,6 +39249,7 @@ Saint-Hilaire
 Saint-Hilaire-des-Landes
 Saint-Hippolyte
 Saint-Hubert
+Saint-Huruge
 Saint-Imier
 Saint-Isidore
 Saint-Jacques-de-la-Lande
@@ -39143,6 +39259,7 @@ Saint-Jean-Brevelay
 Saint-Jean-de-Gonville
 Saint-Jean-de-Luz
 Saint-Jean-de-Niost
+Saint-Jean-de-Vaux
 Saint-Jean-du-Doigt
 Saint-Jean-la-Poterie
 Saint-Jean-le-Vieux
@@ -39166,6 +39283,8 @@ Saint-Laurent-sur-Saône
 Saint Lawrence
 Saint-Léger
 Saint-Leger-des-Pres
+Saint-Léger-lès-Paray
+Saint-Léger-sur-Dheune
 Saint-Légier-La Chiésaz
 Saint-Léolin
 Saint-Léonard
@@ -39173,6 +39292,8 @@ Saint-Lery
 Saint-Livres
 Saint-Louis
 Saint-Louis-de-Kent
+Saint-Loup-de-la-Salle
+Saint-Loup-de-Varennes
 Saint Luke Parish
 Saint-Lunaire
 Saint-Lyé-la-Forêt
@@ -39186,12 +39307,15 @@ Saint-Malon-sur-Mel
 Saint-Marcel
 Saint-Marc-le-Blanc
 Saint-Marc-sur-Couesnon
+Saint-Mard-de-Vaux
 Saint Mark Parish
 Saint-Mars-la-Brière
 Saint Martin
 Saint-Martin
 Saint-Martin-de-Bréthencourt
 Saint-Martin-des-Champs
+Saint-Martin-en-Bresse
+Saint-Martin-sous-Montaigu
 Saint-Martin-sur-Oust
 Saint Mary
 Saint Mary Parish
@@ -39203,6 +39327,7 @@ Saint-Maurice
 Saint-Maurice-de-Beynost
 Saint-Maurice-de-Gourdans
 Saint-Maurice-de-Rémens
+Saint-Maurice-de-Satonnay
 Saint-Medard-sur-Ille
 Saint-Meen
 Saint-Meen-le-Grand
@@ -39243,12 +39368,14 @@ Saint-Pierre-Bois
 Saint-Pierre-d'Irube
 Saint-Pierre-de-Plesguen
 Saint-Pierre-des-Corps
+Saint-Pierre-de-Varennes
 Saint Pierre du Bois
 Saint-Pierre-Quiberon
 Saint-Pol-de-Leon
 Saint-Prex
 Saint-Quentin
 Saint-Rambert-en-Bugey
+Saint-Rémy
 Saint-Remy-du-Plain
 Saint-Renan
 Saint-Rhémy-en-Bosses
@@ -39261,6 +39388,8 @@ Saint Saviour
 Saint-Segal
 Saint-Seglin
 Saint-Senoux
+Saint-Sernin-du-Bois
+Saint-Sernin-du-Plain
 Saint-Servais
 Saint-Servant
 Saint-Sorlin-en-Bugey
@@ -39284,13 +39413,18 @@ Saint-Tugdual
 Saint Ulrich
 Saint-Uniac
 Saint-Urbain
+Saint-Usuge
+Saint-Vallier
+Saint-Vérand
 Saint-Viâtre
 Saint-Vincent
+Saint-Vincent-en-Bresse
 Saint-Vincent-sur-Oust
 Saint-Vith
 Saint-Vougay
 Saint-Vulbas
 Saint-Yrieix-sur-Charente
+Saint-Ythaire
 Saint-Yvi
 Saipan
 Saitama
@@ -39533,6 +39667,7 @@ Samotisky
 Sampang Regency
 Sampeyre
 Samphelling
+Sampigny-lès-Maranges
 Sampson County
 Sampsoniyevskoye
 Samrang
@@ -39625,6 +39760,7 @@ San Cassiano
 San Cataldo
 San Cayetano
 San Cayetano Department
+Sancé
 San Cebrián de Campos
 San Cesareo
 San Cesario di Lecce
@@ -40677,6 +40813,7 @@ San Vicente del Caguán
 San Vicente Department
 San Vicente de Tagua Tagua
 San Víctor
+Sanvignes-les-Mines
 San Vincenzo
 San Vincenzo La Costa
 San Vincenzo Valle Roveto
@@ -41006,6 +41143,9 @@ Savignano sul Panaro
 Savignano sul Rubicone
 Savignone
 Savigny
+Savigny-en-Revermont
+Savigny-sur-Grosne
+Savigny-sur-Seille
 Saviore dell'Adamello
 Savitaipale
 Šavnik
@@ -41588,6 +41728,7 @@ Semproniano
 Sempronius
 Semriach
 Semsales
+Semur-en-Brionnais
 Semyenovskoye
 Semyonov
 Semyonovsky
@@ -41634,6 +41775,7 @@ Senna Lodigiana
 Sennan
 Sennariolo
 Sennar State
+Sennecey-le-Grand
 Sennels
 Sennett
 Sennori
@@ -41719,6 +41861,7 @@ Serinhisar
 Serino
 Serkovice
 Serle
+Serley
 Sermersheim
 Sermersooq
 Sermide e Felonica
@@ -41779,6 +41922,7 @@ Serrenti
 Serres
 Serreta
 Serri
+Serrières
 Serritslev
 Serrone
 Sers
@@ -42297,6 +42441,7 @@ Sigolsheim
 Sigriswil
 Sigtuna
 Sigulda
+Sigy-le-Châtel
 Siikainen
 Siikajoki
 Siikalatva
@@ -42371,6 +42516,7 @@ Silz
 Silzheim
 Simala
 Simanov
+Simard
 Simav
 Simaxis
 Simbario
@@ -43017,6 +43163,7 @@ Solnechny
 Solnice
 Solntsevo District
 Solofra
+Sologny
 Sololá Department
 Solomianka District
 Solon
@@ -43164,6 +43311,7 @@ Soriso
 Sorisole
 Sormano
 Sormovsky District
+Sornay
 Sorocaba
 Soroca District
 Soroksar District
@@ -45000,6 +45148,7 @@ Taivalkoski
 Taivassalo
 Taiwa
 Taiz
+Taizé
 Tajerouine
 Tajimi
 Tajiri
@@ -45148,6 +45297,7 @@ Tana
 Tanabe
 Tanagura
 Tana River County
+Tancon
 Tandel
 Tandil
 Tandil Department
@@ -46439,10 +46589,12 @@ Tottori
 Tottori Prefecture
 Touchwood
 Toulon
+Toulon-sur-Arroux
 Toulouse
 Tounj
 Tourch
 Tournai
+Tournus
 Tourriers
 Tours
 Tousice
@@ -47312,6 +47464,7 @@ Uchanie commune
 Uchiko
 Uchinada
 Uchisar
+Uchizy
 Uckermark District
 Ucria
 Uda
@@ -48316,6 +48469,7 @@ Varena
 Varena Municipality
 Varenikovskoye
 Varenna
+Varennes-Saint-Sauveur
 Varenovskoye
 Varese
 Varese Ligure
@@ -48680,6 +48834,7 @@ Verden District
 Verderio
 Verdun
 Verduno
+Verdun-sur-le-Doubs
 Verea
 Vereiskoye
 Vereshchagino
@@ -49382,6 +49537,7 @@ Villejust
 Ville-Marie
 Villenave-d'Ornon
 Villeneuve
+Villeneuve-en-Montagne
 Villenova
 Villeray–Saint-Michel–Parc-Extension
 Villereau
@@ -49432,6 +49588,7 @@ Vinalhaven
 Vinare
 Vinarice
 Vinary
+Vincelles
 Vincencov
 Vincent
 Vinchiaturo
@@ -49547,6 +49704,7 @@ Vitoria-Gasteiz
 Vitoria-Gasteiz Region
 Vitovka District
 Vitre
+Vitry-sur-Loire
 Vittoria
 Vittorio Veneto
 Vittorito
