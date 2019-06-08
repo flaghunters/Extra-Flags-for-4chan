@@ -1,6 +1,6 @@
 # flag-lister
 
-This folders contain the sources of flag-lister. It's been developed using IntelliJ Idea Community Edition so this folder contains everything needed to build the .jar file.
+This folders contain the sources of flag-lister. It's been developed using IntelliJ Idea Community Edition with maven support so this folder contains everything needed to import the maven project and build the .jar file.
 
 This project is intended to replace and extend the previous flag-lister made by an anonimous previous /flag/tist.
 

@@ -8,7 +8,7 @@ This Java archive walks through the /flags folder and creates all the .txt files
 
 The .txt files in the /flag folder are downloaded by the plugin to display the list of selectable flags at each stage of the Extra Flags Setup process.
 
-The sources of this .jar are in the /flag-lister folder. Refer to the README.md file there for further details
+The sources of this .jar are in the /flag-lister folder. Refer to the README.md file there for further details.
 
 ### How to run flag-lister.jar
 
