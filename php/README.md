@@ -59,6 +59,12 @@ Checks if the /flags folder contains only .png and .txt files.
 
 It happens many times that operating systems use particular files and folders to manage their stuff (desktop.ini and .DS_store I'm looking at you) or flag makers forget to use the correct extension and produce .jpg of .gif files.
 
+## emptyfolder.py
+
+Checks if the /flags folders do actually contain at least a flag.
+
+It may happen that a folder was created, but next level regionals were never added. The result is an empty folder or just an empty flag_list.txt file.
+
 ## checksize.py
 
 Checks if the flags have standard dimensions (16x11, 11x11) and an usual file size (&lt;1KB).
