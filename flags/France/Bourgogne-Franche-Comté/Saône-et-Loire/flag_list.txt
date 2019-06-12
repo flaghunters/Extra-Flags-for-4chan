@@ -8,6 +8,7 @@ Bey
 Blanzy
 Bonnay
 Bourbon-Lancy
+Boyer
 Branges
 Brienne
 Burnand
@@ -19,6 +20,7 @@ Chaintré
 Chalmoux
 Chalon-sur-Saône
 Chamilly
+Champforgeuil
 Change
 Chapaize
 Charolles
@@ -26,6 +28,7 @@ Charrecey
 Chasselas
 Chassy
 Châteaurenaud
+Châtenoy-le-Royal
 Chaudenay
 Chauffailles
 Cheilly-lès-Maranges
@@ -66,6 +69,7 @@ Granges
 Gueugnon
 Hurigny
 Issy-l'Évêque
+Jugy
 La Clayette
 La Frette
 La Guiche
@@ -111,6 +115,7 @@ Prissé
 Romenay
 Rully
 Sailly
+Saint-Albain
 Saint-Bérain-sur-Dheune
 Saint-Denis-de-Vaux
 Saint-Désert
@@ -163,4 +168,5 @@ Varennes-Saint-Sauveur
 Verdun-sur-le-Doubs
 Villeneuve-en-Montagne
 Vincelles
+Viré
 Vitry-sur-Loire
