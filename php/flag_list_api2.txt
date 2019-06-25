@@ -849,7 +849,6 @@ Alexandra
 Alexandreia
 Alexandria
 Alexandria Bay
-Alexandria Governorate
 Alexandria Township
 Alexandrina
 Alexandroupoli
@@ -1064,6 +1063,7 @@ Alpthal
 Alpu
 Alpujarra de la Sierra
 Alpullu
+Al-Qahira
 Al Rayyan Municipality
 Alsasua
 Alsedžiai
@@ -1072,7 +1072,6 @@ Alsergrund District
 Alserio
 Alservorstadt
 Al Shamal Municipality
-Al Sharqia Governorate
 Al Sheehaniya Municipality
 Alsheyevsky District
 Alsip
@@ -2320,8 +2319,8 @@ Asuka
 Asunción
 Asuni
 Asvieja
-Aswan Governorate
-Asyut Governorate
+Aswān
+Asyut
 Aszod District
 Atabey
 Atacama Region
@@ -3664,7 +3663,6 @@ Behamberg
 Beharov
 Beharovice
 Behchokǫ̀
-Beheira Governorate
 Beignon
 Beijing
 Beilen
@@ -3936,7 +3934,7 @@ Béni Mellal
 Béni Mellal-Khénifra
 Béni Mellal Province
 Benishangul-Gumuz Region
-Beni Suef Governorate
+Beni Suef
 Benitagla
 Benito Juárez
 Benizalón
@@ -6434,6 +6432,7 @@ Burrillville
 Bürs
 Bursa
 Bursa Province
+Būr Sa‘īd
 Bürserberg
 Burshtyn
 Bursinel
@@ -6729,7 +6728,6 @@ Cairano
 Cairate
 Cairns
 Cairo
-Cairo Governorate
 Cairo Montenotte
 Caithness
 Caiuá
@@ -11096,7 +11094,6 @@ Daisen
 Daito
 Dajabón
 Dajabón Province
-Dakahlia Governorate
 Dakar
 Dakar Region
 Dakhadayevsky District
@@ -11154,7 +11151,6 @@ Dambel
 Damborice
 Dâmbovița County
 Damgan
-Damietta Governorate
 Dammam
 Damme
 Damnikov
@@ -12476,6 +12472,7 @@ Dumfriesshire
 Dummer
 Dummerston
 Dumont
+Dumyat
 Dunaivtsi
 Dunaivtsi District
 Dunajská Lužná
@@ -12988,6 +12985,7 @@ El Ain
 El Álamo
 El Almendro
 El Alto
+El Alyobeya
 El Arenal
 Elassona
 El Atazar
@@ -12998,12 +12996,14 @@ Elba (town)
 Elba (village)
 Elbach
 El Bagre
+El Baḥr El Aḥmar
 El Banco
 El Barco de Ávila
 El Barraco
 Elbasan
 Elbasan County
 Elbe-Elster District
+El Beḥēra
 El Berrueco
 Elbert County
 Elbigenalp
@@ -13041,6 +13041,7 @@ El Cocuy
 El Cogul
 El Colegio
 El Copey
+El Dakahlia
 Elden
 Eldiginskoye
 Eldivan
@@ -13058,11 +13059,13 @@ Elektrostal
 Elektrougli
 Elena
 El Escorial
+El Eskenderiya
 Eleskirt
 El Espino
 Elets
 Eleuthera
 El Factor
+El Fayyūm
 El Figueró i Montmany
 Elfingen
 El Franco
@@ -13074,7 +13077,9 @@ Elgersburg
 Elgeta
 Elgeyo-Marakwet County
 Elgg
+El Gharbeya
 Elgin County
+El Giza
 Elgoibar
 El Gordo
 El Granado
@@ -13097,6 +13102,7 @@ Elini
 Elin Pelin
 Eliot
 Elisiário
+El Ismāʿīliya
 Elista
 Elixhausen
 Elizabeth
@@ -13148,6 +13154,7 @@ El Lloar
 Ellmau
 Ello
 El Loa Province
+El Loʾṣor
 Ellrich
 Ellsworth
 Ellsworth County
@@ -13161,11 +13168,13 @@ El Masnou
 Elmbridge
 Elmen
 Elmer
+El Minya
 Elmira (city)
 Elmira (town)
 Elmira Heights
 El Molar
 El Molino
+El Monofeya
 El Monte
 El Montmell
 Elmore
@@ -13215,6 +13224,7 @@ El Seibo Province
 Elsendorp
 Elsene
 Elsenheim
+El Sharqiya
 Elsinboro Township
 Elsloo
 Elsmore
@@ -13222,6 +13232,7 @@ El Soleràs
 Els Omells de na Gaià
 Els Pallaresos
 Elst
+El Suweis
 El Tablon
 El Tabo
 El Tambo
@@ -13244,6 +13255,7 @@ Elvillar
 El Villar de Arnedo
 El Vilosell
 El Viso
+El Wādī El Ǧedīd
 Elwen
 Ely
 Elyakhin
@@ -13830,7 +13842,6 @@ Fairview Township
 Fairway
 Faisalabad
 Faistenau
-Faiyum Governorate
 Fajã de Baixo
 Fajã de Cima
 Fajã Grande
@@ -15173,6 +15184,7 @@ Gänserndorf District
 Ganshoren
 Gansingen
 Gansu
+Ganūb Sīnāʾ
 Ganusovskoye
 Gan Yavne
 Gao Region
@@ -15584,7 +15596,6 @@ Ghajar
 Ghajnsielem
 Ghanzi District
 Gharb
-Gharbia Governorate
 Gharghur
 Ghasri
 Ghaxaq
@@ -15761,7 +15772,6 @@ Givrins
 Givry
 Givskud
 Giza
-Giza Governorate
 Gizycko County
 Gizzeria
 Gjerdrum
@@ -19635,7 +19645,6 @@ Islington
 Islip
 Islisberg
 Ismailia
-Ismailia Governorate
 Isnello
 Isnos
 Isojoki
@@ -20536,7 +20545,7 @@ Kaerch
 Käerjeng
 Kaesong Industrial Region
 Kafar Qara
-Kafr el-Sheikh Governorate
+Kafr El Sheikh
 Kafr Kanna
 Kafr Manda
 Kafr Qasim
@@ -25963,7 +25972,6 @@ Luvia
 Luvinate
 Luxembourg
 Luxor
-Luxor Governorate
 Luyksgestel
 Luz
 Luzany
@@ -27275,7 +27283,7 @@ Matrei am Brenner
 Matrei in Osttirol
 Matrice
 Matriz
-Matrouh Governorate
+Maṭrūḥ
 Matsubara
 Matsubushi
 Matsuda
@@ -28330,7 +28338,6 @@ Minucciano
 Minusinsk
 Minusio
 Minversheim
-Minya Governorate
 Mioglia
 Mionica
 Miory
@@ -29276,7 +29283,6 @@ Montval-sur-Loir
 Mont Vernon
 Montville
 Mont-Vully
-Monufia Governorate
 Monvalle
 Monza
 Monzambano
@@ -30829,7 +30835,6 @@ New Taipei City
 Newton
 Newton County
 Newtown
-New Valley Governorate
 New Vineyard
 New Westminster
 New-Wes-Valley
@@ -31441,7 +31446,6 @@ Northridge
 North Saanich District
 North Salem
 North Shore Ward
-North Sinai Governorate
 North Slave Region
 North Slope Borough
 North Smithfield
@@ -35881,7 +35885,6 @@ Port Pirie
 Port Republic
 Port Royal
 Port Said
-Port Said Governorate
 Pörtschach am Wörther See
 Portsmouth
 Port St. Johns
@@ -36861,15 +36864,14 @@ Qaasuitsup
 Qala
 Qalansawe
 Qalqilya
-Qalyubia Governorate
 Qaqortoq
 Qasigiannguit
 Qazvin
-Qena Governorate
 Qeqertarsuaq
 Qeqqata
 Qikiqtaaluk Region
 Qikiqtarjuaq
+Qinā
 Qingdao
 Qinghai
 Qom
@@ -37542,7 +37544,6 @@ Redondesco
 Redondo
 Red River County
 Red River Parish
-Red Sea Governorate
 Redueña
 Reduzum
 Red Willow County
@@ -42258,6 +42259,7 @@ Shakhtinsk
 Shakhty
 Shakhunya
 Shakotan
+Shamāl Sīnāʾ
 Shamilsky District
 Shamong Township
 Shamrock
@@ -43265,7 +43267,6 @@ Sogukpinar
 Sogut
 Sogutlu
 Sohag
-Sohag Governorate
 Soiano del Lago
 Soignies
 Soini
@@ -43667,7 +43668,6 @@ South Pyongan Province
 South Qu'Appelle
 South Ribble
 South River
-South Sinai Governorate
 South Slave Region
 South Somerset
 South Staffordshire
@@ -44718,7 +44718,6 @@ Suello
 Suesca
 Suessem
 Suez
-Suez Governorate
 Sufers
 Suffern
 Suffield
