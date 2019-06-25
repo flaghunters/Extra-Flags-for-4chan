@@ -1063,7 +1063,7 @@ Alpthal
 Alpu
 Alpujarra de la Sierra
 Alpullu
-Al-Qahira
+Al-Qahira Governorate
 Al Rayyan Municipality
 Alsasua
 Alsedžiai
@@ -2319,8 +2319,8 @@ Asuka
 Asunción
 Asuni
 Asvieja
-Aswān
-Asyut
+Aswān Governorate
+Asyut Governorate
 Aszod District
 Atabey
 Atacama Region
@@ -3934,7 +3934,7 @@ Béni Mellal
 Béni Mellal-Khénifra
 Béni Mellal Province
 Benishangul-Gumuz Region
-Beni Suef
+Beni Suef Governorate
 Benitagla
 Benito Juárez
 Benizalón
@@ -6432,7 +6432,7 @@ Burrillville
 Bürs
 Bursa
 Bursa Province
-Būr Sa‘īd
+Būr Sa‘īd Governorate
 Bürserberg
 Burshtyn
 Bursinel
@@ -12472,7 +12472,7 @@ Dumfriesshire
 Dummer
 Dummerston
 Dumont
-Dumyat
+Dumyat Governorate
 Dunaivtsi
 Dunaivtsi District
 Dunajská Lužná
@@ -12985,7 +12985,7 @@ El Ain
 El Álamo
 El Almendro
 El Alto
-El Alyobeya
+El Alyobeya Governorate
 El Arenal
 Elassona
 El Atazar
@@ -12996,14 +12996,14 @@ Elba (town)
 Elba (village)
 Elbach
 El Bagre
-El Baḥr El Aḥmar
+El Baḥr El Aḥmar Governorate
 El Banco
 El Barco de Ávila
 El Barraco
 Elbasan
 Elbasan County
 Elbe-Elster District
-El Beḥēra
+El Beḥēra Governorate
 El Berrueco
 Elbert County
 Elbigenalp
@@ -13041,7 +13041,7 @@ El Cocuy
 El Cogul
 El Colegio
 El Copey
-El Dakahlia
+El Dakahlia Governorate
 Elden
 Eldiginskoye
 Eldivan
@@ -13059,13 +13059,13 @@ Elektrostal
 Elektrougli
 Elena
 El Escorial
-El Eskenderiya
+El Eskenderiya Governorate
 Eleskirt
 El Espino
 Elets
 Eleuthera
 El Factor
-El Fayyūm
+El Fayyūm Governorate
 El Figueró i Montmany
 Elfingen
 El Franco
@@ -13077,9 +13077,9 @@ Elgersburg
 Elgeta
 Elgeyo-Marakwet County
 Elgg
-El Gharbeya
+El Gharbeya Governorate
 Elgin County
-El Giza
+El Giza Governorate
 Elgoibar
 El Gordo
 El Granado
@@ -13102,7 +13102,7 @@ Elini
 Elin Pelin
 Eliot
 Elisiário
-El Ismāʿīliya
+El Ismāʿīliya Governorate
 Elista
 Elixhausen
 Elizabeth
@@ -13154,7 +13154,7 @@ El Lloar
 Ellmau
 Ello
 El Loa Province
-El Loʾṣor
+El Loʾṣor Governorate
 Ellrich
 Ellsworth
 Ellsworth County
@@ -13168,13 +13168,13 @@ El Masnou
 Elmbridge
 Elmen
 Elmer
-El Minya
+El Minya Governorate
 Elmira (city)
 Elmira (town)
 Elmira Heights
 El Molar
 El Molino
-El Monofeya
+El Monofeya Governorate
 El Monte
 El Montmell
 Elmore
@@ -13224,7 +13224,7 @@ El Seibo Province
 Elsendorp
 Elsene
 Elsenheim
-El Sharqiya
+El Sharqiya Governorate
 Elsinboro Township
 Elsloo
 Elsmore
@@ -13232,7 +13232,7 @@ El Soleràs
 Els Omells de na Gaià
 Els Pallaresos
 Elst
-El Suweis
+El Suweis Governorate
 El Tablon
 El Tabo
 El Tambo
@@ -13255,7 +13255,7 @@ Elvillar
 El Villar de Arnedo
 El Vilosell
 El Viso
-El Wādī El Ǧedīd
+El Wādī El Ǧedīd Governorate
 Elwen
 Ely
 Elyakhin
@@ -15184,7 +15184,7 @@ Gänserndorf District
 Ganshoren
 Gansingen
 Gansu
-Ganūb Sīnāʾ
+Ganūb Sīnāʾ Governorate
 Ganusovskoye
 Gan Yavne
 Gao Region
@@ -20545,7 +20545,7 @@ Kaerch
 Käerjeng
 Kaesong Industrial Region
 Kafar Qara
-Kafr El Sheikh
+Kafr El Sheikh Governorate
 Kafr Kanna
 Kafr Manda
 Kafr Qasim
@@ -27283,7 +27283,7 @@ Matrei am Brenner
 Matrei in Osttirol
 Matrice
 Matriz
-Maṭrūḥ
+Maṭrūḥ Governorate
 Matsubara
 Matsubushi
 Matsuda
@@ -36871,7 +36871,7 @@ Qeqertarsuaq
 Qeqqata
 Qikiqtaaluk Region
 Qikiqtarjuaq
-Qinā
+Qinā Governorate
 Qingdao
 Qinghai
 Qom
@@ -42259,7 +42259,7 @@ Shakhtinsk
 Shakhty
 Shakhunya
 Shakotan
-Shamāl Sīnāʾ
+Shamāl Sīnāʾ Governorate
 Shamilsky District
 Shamong Township
 Shamrock
@@ -43267,6 +43267,7 @@ Sogukpinar
 Sogut
 Sogutlu
 Sohag
+Sohag Governorate
 Soiano del Lago
 Soignies
 Soini
