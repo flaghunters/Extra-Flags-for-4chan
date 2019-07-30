@@ -223,6 +223,7 @@ Adachi
 Ada County
 Adagumskoye
 Adair County
+Adak
 Adalar
 Adamantina
 Adamawa State
@@ -3305,7 +3306,6 @@ Barrika
 Barrington
 Barrinha
 Barron County
-Barrow
 Barrow County
 Barrow-in-Furness
 Barruelo de Santullán
@@ -10443,6 +10443,7 @@ Cordoba
 Córdoba
 Córdoba Department
 Córdoba Province
+Cordova
 Cordovado
 Coreglia Antelminelli
 Coreglia Ligure
@@ -10760,6 +10761,7 @@ Crac'h
 Craco
 Craftsbury
 Craíbas
+Craig
 Craig County
 Craighead County
 Craigieburn
@@ -11490,6 +11492,7 @@ Delsbo District
 Delta
 Delta Amacuro
 Delta County
+Delta Junction
 Delta State
 Deltebre
 De Lytse Jouwer
@@ -13402,6 +13405,7 @@ Emmerich
 Emmersdorf an der Donau
 Emmet County
 Emmetten
+Emmonak
 Emmons County
 Emnambithi-Ladysmith
 Emo
@@ -17184,6 +17188,7 @@ Gussola
 Gustafs District
 Gustavo A Madero
 Gustavo Díaz Ordaz
+Gustavus
 Gutenberg-Stenzengreith
 Gutenbrunn
 Gutenstein
@@ -20775,6 +20780,7 @@ Kakinada
 Kakisa
 Kakogawa
 Kakolewnica commune
+Kaktovik
 Kakuda
 Kalaa Kebira
 Kalaa Sghira
@@ -21539,6 +21545,7 @@ Kemper County
 Kempsey
 Kempten
 Kemsky District
+Kenai
 Kenai Peninsula Borough
 Kenbuchi
 Kendall
@@ -21872,6 +21879,7 @@ King's Point
 King and Queen County
 Kingborough
 King County
+King Cove
 Kingersheim
 Kingfield
 Kingfisher County
@@ -22123,6 +22131,7 @@ Klatovy
 Klatovy District
 Klaus
 Klausen-Leopoldsdorf
+Klawock
 Kleberg County
 Kleblach-Lind
 Klec
@@ -22304,6 +22313,7 @@ Kocmyrzow-Luborzyca commune
 Kocov
 Kodaira
 Koden commune
+Kodiak
 Kodiak Island Borough
 Kodinsk
 Kodrab commune
@@ -23322,6 +23332,7 @@ Kupino
 Kupiškis
 Kupiškis District Municipality
 Kuplu
+Kupreanof
 Kurakhove
 Kurashiki
 Kurate
@@ -27695,6 +27706,7 @@ McDonough County
 McDowell County
 McDuffie County
 Mcely
+McGrath
 McGraw
 McHenry County
 McIntosh County
@@ -35240,6 +35252,7 @@ Pilleys Island
 Pillichsdorf
 Pillisvorosvar District
 Pilnikov
+Pilot Point
 Pilviškiai
 Pima County
 Pimentel
@@ -40430,6 +40443,7 @@ Sandovalina
 Sandovsky District
 Sandown
 Sandoy
+Sand Point
 Sandrans
 Sandrigo
 Sandringham
@@ -43770,6 +43784,7 @@ Solčava
 Soldănesti District
 Soldano
 Sölden
+Soldotna
 Solec Kujawski commune
 Solec nad Wisla commune
 Soledad
@@ -46373,6 +46388,7 @@ Temuco
 Temuka
 Tena
 Tenafly
+Tenakee Springs
 Tenali
 Tenamaxtlán
 Tenango de Doria
@@ -48413,6 +48429,8 @@ uMzinyathi
 Umzumbe
 Unadilla (town)
 Unadilla (village)
+Unalakleet
+Unalaska
 Unanov
 Unarokovskoye
 Una-Sana Canton
@@ -48737,6 +48755,7 @@ Utirik Atoll
 UTI Riviera - Bassa Friulana
 UTI Sile e Meduna
 Uto
+Utqiagvik
 Utrecht
 Utrechtse Heuvelrug
 Utsira
@@ -51789,6 +51808,7 @@ Whitman County
 Whitney Point
 Whitneyville
 Whitsunday
+Whittier
 Whittlesea
 Whyalla
 Wiazow commune
