@@ -343,6 +343,7 @@ Agapovsky District
 Agarn
 Agartala
 Agat
+Agathonisi
 Agawam
 Agazzano
 Agdenes
@@ -359,7 +360,11 @@ Agidel
 Agiez
 Aginskoye
 Aginsky District
+Agioi Anargyroi-Kamatero
+Agios Dimitrios
+Agios Efstratios
 Agios Nikolaos
+Agios Vasilios
 Agira
 Agkistri
 Aglasun
@@ -473,7 +478,9 @@ Aiello del Friuli
 Aiello del Sabato
 Aieta
 Aiga-i-le-Tai District
+Aigaleo
 Aigen im Ennstal
+Aigialeia
 Aigina
 Aigle
 Aiguafreda
@@ -598,6 +605,7 @@ Akshinsky District
 Aksininskoye
 Aksu
 Aktau
+Aktio-Vonitsa
 Aktöbe
 Aktöbe Region
 Akune
@@ -1258,6 +1266,7 @@ Amapá
 Amaralina
 Amarante
 Amares
+Amari
 Amarillo
 Amaro
 Amaroni
@@ -1324,6 +1333,7 @@ Amesbury
 Ameugny
 Ameyugo
 Amezketa
+Amfilochia
 Amfipoli
 Amginsky District
 Amhara Region
@@ -1348,6 +1358,7 @@ Ammerzoden
 Amnat Charoen Province
 Am Ohmberg
 Amorebieta-Etxano
+Amorgos
 Amorosi
 Amoroto
 Åmot
@@ -1388,6 +1399,7 @@ Anacapri
 Anadia
 Anadyr
 Anadyrsky District
+Anafi
 Anagni
 Anaheim
 Anáhuac
@@ -1411,6 +1423,7 @@ Anápolis
 Añasco
 Anastasievskoye
 Anatoliki Makedonia - Thraki
+Anatoliki Mani
 Ancarano
 Ancash Region
 Anchorage
@@ -1461,6 +1474,7 @@ Andradina
 Andrano
 Andrate
 Andratx
+Andravida-Kyllini
 Andreapolsky District
 Andreevka
 Andreis
@@ -1474,6 +1488,7 @@ Andriano
 Andriivka
 Andrijaševci
 Andrijevica
+Andritsena
 Andros
 Androscoggin County
 Andrushivka
@@ -1574,6 +1589,7 @@ Annone Veneto
 Annopol commune
 Annsville
 Anoeta
+Anogeia
 Anoia
 Anoka County
 Anolaima
@@ -1702,6 +1718,7 @@ Apiro
 A Pobra do Brollón
 A Pobra do Caramiñal
 Apodaca
+Apokoronas
 Apollosa
 A Pontenova
 Apopa
@@ -1859,6 +1876,8 @@ Arce
 Arcene
 Arcevia
 Arch
+Archaia Olympia
+Archarnes-Asterousia
 Archena
 Archer County
 Archi
@@ -2342,6 +2361,7 @@ Astrea
 Astrup
 Astryna
 Asturias
+Astypalea
 Asuka
 Asunción
 Asuni
@@ -8901,6 +8921,7 @@ Chalatenango
 Chalatenango Department
 Chalchuapa
 Chaleins
+Chalki
 Chalkida
 Chalkidona
 Challand-Saint-Anselme
@@ -11249,6 +11270,7 @@ Dade County
 Dadra and Nagar Haveli
 Daegu
 Daejeon
+Dafni-Ymittos
 Daga
 Dagala
 Dagana
@@ -11913,6 +11935,7 @@ Dintikon
 Dinwiddie County
 Dinxperlo
 Dion-Olympos
+Dionysos
 Dipaleseng
 Dipignano
 Dipolog
@@ -12803,8 +12826,10 @@ Dynin
 Dyo
 Dyrøy
 Dysina
+Dytiki Achaea
 Dytiki Ellada
 Dytiki Makedonia
+Dytiki Mani
 Dyurtyuli
 Dyurtyulinsky District
 Dzaoudzi
@@ -13195,6 +13220,7 @@ Eksjö locality
 Eksmoarre
 Ekurhuleni
 El'ad
+Elafonisos
 El Aguila
 El Ain
 El Álamo
@@ -13270,6 +13296,7 @@ El Dorado
 El Dorado County
 El Dovio
 Eldred
+Elefsina
 El Ejido
 Elektrenai Municipality
 Elektrogorsk
@@ -13362,6 +13389,7 @@ Ellicottville (village)
 Ellikon an der Thur
 El Limón
 Ellington
+Elliniko-Argyroupoli
 Elliott County
 Ellisburg (town)
 Ellisburg (village)
@@ -13634,6 +13662,7 @@ Ependes
 Epfig
 Ephraim Mogale
 Ephratah
+Epidavros
 Épila
 Épinac
 Epiniac
@@ -13716,6 +13745,7 @@ Ermelo
 Ermenek
 Ermensee
 Ermera District
+Ermionida
 Ermolinskoye
 Ermolinskoye poselenie
 Ermstedt
@@ -13753,6 +13783,7 @@ Erula
 Erve
 Erving
 Erwin
+Erymantho
 Erzgebirgskreis
 Erzin
 Erzincan
@@ -13990,6 +14021,7 @@ Evrensekiz
 Evrese
 Évreux
 Evriguet
+Evrotas
 Ewa District
 Ewijk
 Ewing Township
@@ -14360,6 +14392,7 @@ Fès-Meknès
 Fès Prefecture
 Fessenheim
 Fessenheim-les-Bas
+Festos
 Fet
 Fetakgomo
 Feteira
@@ -14431,6 +14464,7 @@ Filipstad
 Fillmore
 Fillmore County
 Filogaso
+Filothei-Psychiko
 Filottrano
 Filyos
 Filyovsky Park District
@@ -14639,6 +14673,7 @@ Foiano della Chiana
 Foiano di Val Fortore
 Foixà
 Fokino
+Folegandros
 Folembray
 Folgaria
 Folgensbourg
@@ -14844,6 +14879,7 @@ Fougeres
 Founex
 Fountain County
 Fountain Hills
+Fournoi-Korseoi
 Fowler
 Foxborough
 Fox Creek
@@ -15582,6 +15618,7 @@ Gauteng
 Gavá
 Gavan
 Gavardo
+Gavdos
 Gavello
 Gavere
 Gaverina Terme
@@ -16393,6 +16430,8 @@ Gorrevod
 Gorskoye
 Gorsleben
 Gorssel
+Gortyna
+Gortynia
 Goryachy Klyuch
 Gorzegno
 Gorzkow commune
@@ -19365,6 +19404,7 @@ Hybralec
 Hyde County
 Hyde Park
 Hyderabad
+Hydra
 Hyllestad
 Hylte
 Hyncice
@@ -19456,6 +19496,7 @@ Iechternach Canton
 Iens
 Iepê
 Ieper
+Ierapetra
 Iermsdref
 Ierpeldeng op der Sauer
 Iffendic
@@ -19499,6 +19540,7 @@ Iinan
 Iisaku Parish
 Iisalmi
 Iitate
+Iites
 Iitti
 Iiyama
 Iizuka
@@ -19512,6 +19554,7 @@ Ijzendijke
 IJzendoorn
 Ikaalinen
 Ikamatua
+Ikaria
 Ikaruga
 Ikast-Brande
 Ikata
@@ -19555,6 +19598,7 @@ Ilha Solteira
 Ilhéus
 Ilic
 Ilica
+Ilida
 Iligan
 Ilinden
 Ilinskoye
@@ -20063,6 +20107,7 @@ Itayanagi
 Itens
 Ithaca (city)
 Ithaca (town)
+Ithaki
 Itingen
 Itirapina
 Itirapuã
@@ -20923,6 +20968,7 @@ Kairaki
 Kairiai
 Kairouan
 Kairouan Governorate
+Kaisariani
 Kaisei
 Kaiseraugst
 Kaiserebersdorf
@@ -20975,6 +21021,7 @@ Kalanchak District
 Kälarne locality
 Kalarsky District
 Kalasin Province
+Kalavryta
 Kalawao County
 Kaldrananeshreppur
 Kale
@@ -21236,6 +21283,7 @@ Kansas
 Kansas City
 Kansk
 Kanta-Häme
+Kantano-Selino
 Kantemirovka
 Kantemirovsky District
 Kantens
@@ -21472,6 +21520,7 @@ Kasli
 Kaslinsky District
 Kaslo
 Kasnice
+Kasos
 Kasperske Hory
 Kaspi
 Kaspiysk
@@ -21632,6 +21681,7 @@ Kbelany
 Kbely
 Kcynia commune
 Kdyne
+Kea
 Keansburg
 Kearney County
 Kearny
@@ -21664,6 +21714,7 @@ Keene
 Keerbergen
 Keetmanshoop
 Kef
+Kefallonia
 Kefar Vradim
 Keffenach
 Kefferhausen
@@ -21766,6 +21817,7 @@ Kepulauan Bangka Belitung
 Kepulauan Riau
 Kepulauan Seribu Regency
 Kerala
+Keratsini-Drapetsona
 Kerava
 Kercem
 Kerch City Municipality
@@ -22035,6 +22087,7 @@ Kimitoön
 Kimitsu
 Kimmirut
 Kimobetsu
+Kimolos
 Kimotsuki
 Kimovsk
 Kimrsky District
@@ -22198,6 +22251,7 @@ Kiso (village)
 Kisosaki
 Kispest District
 Kisra-Sumei
+Kissamos
 Kistelek District
 Kisumu County
 Kisvarda District
@@ -23352,6 +23406,7 @@ Ksely
 Ksiazki commune
 Ksiaz Wielki commune
 Ksibet Thrayet
+Ksiromeri
 Kstovo
 Kstovsky District
 Ktis
@@ -23677,6 +23732,8 @@ Kyshtym
 Kysice
 Kyskovice
 Kysyl-Syr
+Kythira
+Kythnos
 Kytin
 Kytlice
 Kyustendil
@@ -24610,6 +24667,7 @@ Lavis
 Lavizzara
 La Vraie-Croix
 Lavras da Mangabeira
+Lavreotiki
 Lavrinhas
 La Walck
 La Wantzenau
@@ -25067,6 +25125,7 @@ Lesunky
 Les Valls d'Aguilar
 Les Valls de Valira
 Les Verrières
+Lesvos
 Leszno
 Leszno commune
 Leszno County
@@ -25396,6 +25455,7 @@ Limina
 Limington
 Liminka
 Limmen
+Limnos
 Limoeiro do Norte
 Limoges
 Limone Piemonte
@@ -26457,6 +26517,7 @@ Lyapinskoye
 Lyaskovets
 Lycksele
 Lycoming County
+Lykovrysi-Pefki
 Lyman
 Lyman County
 Lyman District
@@ -26932,6 +26993,7 @@ Male Svatonovice
 Maletin
 Maletswai
 Maletto
+Malevizi
 Malew Parish
 Male Zernoseky
 Malfa
@@ -27086,6 +27148,7 @@ Mandello Vitta
 Mandeni
 Mandera County
 Mandeville
+Mandra-Eidyllia
 Mandurah
 Manduri
 Manduria
@@ -28029,6 +28092,9 @@ Meerlo
 Meerssen
 Meeting Lake
 Meeuwen
+Megalopoli
+Meganisi
+Megara
 Megen
 Meggen
 Meghalaya
@@ -28036,6 +28102,7 @@ Megiddo
 Megilot Dead Sea
 Megino-Kangalassky District
 Megion
+Megisti
 Megliadino San Vitale
 Megrine
 Meguro
@@ -28334,6 +28401,7 @@ Messadine
 Messancy
 Messen
 Messina
+Messini
 Mestecko Trnavka
 Mestec Kralove
 Mestia
@@ -28812,6 +28880,7 @@ Minnesota
 Minnetonka
 Mino
 Minoa
+Minoa Pediada
 Minobu
 Minoh
 Minokamo
@@ -29292,6 +29361,7 @@ Mondragone
 Mondulkiri Province
 Moneglia
 Monegridolfo
+Monemvasia
 Monesiglio
 Monet
 Monfalcone
@@ -30032,6 +30102,7 @@ Moruzzo
 Moryn commune
 Moscazzano
 Mošćenička Draga
+Moschato-Tavros
 Moschendorf
 Moschiano
 Mosciano Sant'Angelo
@@ -30515,6 +30586,7 @@ Mykolaiv District
 Mykolaivka
 Mykolaiv Region
 Mykonos
+Mylopotamos
 Mynämäki
 Myoko
 Mýrdalshreppur
@@ -30589,7 +30661,7 @@ Nadym
 Nadymsky District
 Nærøy
 Næstved
-Nafpaktia 
+Nafpaktia
 Nafplio
 Naga
 Nagahama
@@ -30930,6 +31002,7 @@ Navolato
 Navsi
 Nawa Region
 Nawojowa commune
+Naxos kai Mikres Kyklades
 Naxxar
 Nayarit
 Nayland
@@ -30950,10 +31023,12 @@ Ndlambe
 Ndola
 Ndwedwe
 Ne
+Nea Ionia
 Neamț County
 Neant-sur-Yvel
 Neapoli-Sykies
 Nea Propontida
+Nea Smyrni
 Nea Zichni
 Neba
 Nebanice
@@ -31062,6 +31137,7 @@ Nemcice
 Nemcice nad Hanou
 Nemcicky
 Nemcovice
+Nemea
 Nemenčine
 Nemi
 Nemochovice
@@ -31658,6 +31734,7 @@ Nisshin
 Nissi Parish
 Nissoria
 Nistelrode
+Nisyros
 Niterói
 Nitkovice
 Nitra
@@ -32040,6 +32117,7 @@ Nostang
 Nosy Be
 Notaresco
 Nothalten
+Notia Kynouria
 Notio Aigaio
 Noto
 Notodden
@@ -32863,10 +32941,12 @@ Ohrozim
 Oi
 Oiartzun
 Oicatá
+Oichalia
 Oigny-en-Valois
 Oil City
 Oil Springs Reservation
 O Incio
+Oinousses
 Oirase
 Oirsbeek
 Oirschot
@@ -33474,6 +33554,7 @@ Oromocto
 Oron
 Orono
 Oronsko commune
+Oropos
 Oro Province
 Oroquieta
 O Rosal
@@ -34122,6 +34203,7 @@ Pago del Vallo di Lauro
 Pago Veiano
 Pahang
 Pahiatua
+Paiania
 Paicol
 Paide
 Paide Parish
@@ -34234,6 +34316,7 @@ Pallanzeno
 Pallare
 Pallars Jussà
 Pallars Sobirà
+Pallini
 Palma Campania
 Palma del Río
 Palma di Montechiaro
@@ -35200,6 +35283,7 @@ Petropavlovsky District
 Petrópolis
 Petrosino
 Petro-Slavyanka
+Petroupoli
 Petrov
 Petrovac municipality
 Petrovac na Mlavi
@@ -35552,6 +35636,7 @@ Pinheiros
 Pinhel
 Pinilla del Valle
 Pinillos
+Pinios
 Pinkafeld
 Pinneberg District
 Pino d'Asti
@@ -35763,6 +35848,7 @@ Plastunovskoye
 Plasy
 Plataci
 Platania
+Platanias
 Plateau de Diesse
 Plateau State
 Plateliai
@@ -37849,6 +37935,7 @@ Raeren
 Raes Junction
 Rafard
 Raffadali
+Rafina-Pikermi
 Rafz
 Rägavere Parish
 Raggal
@@ -39094,6 +39181,7 @@ Rodnikovskoye
 Rodnikovsky District
 Rodonyà
 Rodopi
+Rodos
 Rodrigues
 Rodrigues Alves
 Rodvinov
@@ -41980,6 +42068,7 @@ Sarnonico
 Sarny
 Sarny District
 Saroma
+Saronikos
 Saronno
 Sarospatak District
 Sarov
@@ -42841,6 +42930,7 @@ Sergokalinsky District
 Sergy
 Sergyevskoye
 Seriate
+Serifos
 Serik
 Serina
 Serinhisar
@@ -43450,10 +43540,12 @@ Siirt
 Siirt Province
 Sijbekarspel
 Sikasso Region
+Sikinos
 Sikirevci
 Sikka Regency
 Sikkim
 Siklos District
+Sikyonia
 Šilale
 Šilale District Municipality
 Silambi
@@ -44584,6 +44676,7 @@ Sparwood District
 Spassk-Dalny
 Spasskoye
 Spassky District
+Spata-Artemida
 Spaubeek
 Specchia
 Special Area No. 2
@@ -46029,6 +46122,7 @@ Syktyvdinsky District
 Syktyvkar
 Sylhet
 Sylvan Beach
+Symi
 Synalov
 Synelnykove
 Synelnykove District
@@ -47042,6 +47136,7 @@ Theresa (village)
 Theresienfeld
 Thermaikos
 Thermi
+Thermo
 Therwil
 The Snares
 Thessalia
@@ -48089,6 +48184,7 @@ Troitsko-Pechorsk
 Troitsko-Pechorsky District
 Troitsky Administrative Area
 Troitsky District
+Troizinia-Methana
 Troja
 Trojanovice
 Trojanow commune
@@ -48161,6 +48257,7 @@ Trutnov
 Trutnov District
 Truttikon
 Truxton
+Tryfilia
 Tryokhgorny
 Tryokhselskoye
 Trysil
@@ -49634,6 +49731,7 @@ Vargem Grande Paulista
 Varick
 Varik
 Varisella
+Vari-Voula-Vouliagmeni
 Varjota
 Varkaus
 Varkava
@@ -49909,6 +50007,7 @@ Velm-Götzendorf
 Velo d'Astico
 Velopoli
 Velo Veronese
+Velo-Vocha
 Velp
 Velsen
 Velsk
@@ -50223,6 +50322,7 @@ Viana do Castelo
 Viana do Castelo District
 Vianen
 Vianí
+Viannos
 Viano
 Viareggio
 Viarigi
@@ -52758,6 +52858,7 @@ Xochiatipan
 Xochicoatlán
 Xochimilco
 XVI District
+Xylokastro-Evrostini
 Yablanitsa
 Yabu
 Yabucoa
@@ -53190,6 +53291,7 @@ Zacapa Department
 Zacatecas
 Zacatecoluca
 Zaccanopoli
+Zacharo
 Zachepylivka District
 Zachlumi
 Zachodniopomorskie Voivodeship
@@ -53789,6 +53891,7 @@ Zoetermeer
 Zoeterwoude
 Zofingen
 Zogno
+Zografou
 Zohor
 Zoio
 Zola Predosa
