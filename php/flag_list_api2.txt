@@ -1726,6 +1726,7 @@ Apopka
 Aporá
 Apostolove
 Apostolove District
+Apozol
 Appanoose County
 Äppelbo locality
 Appelsche
@@ -1753,6 +1754,7 @@ Aprilia
 Apsheronsk
 Apsheronsky District
 Aptekarsky Ostrov
+Apulco
 Apulo
 Apure
 Apurímac Region
@@ -2422,6 +2424,7 @@ Atlántico Department
 Atlapexco
 Atmore
 Atoka County
+Atolinga
 Atotonilco de Tula
 Atotonilco el Alto
 Atotonilco el Grande
@@ -6949,6 +6952,7 @@ Caledonia (village)
 Caledonia County
 Calella
 Calenzano
+Calera
 Calera de Tango
 Calestano
 Caleta Olivia
@@ -10385,6 +10389,7 @@ Concepción Batres
 Concepción de Ataco
 Concepción de Buenos Aires
 Concepción de La Vega
+Concepción del Oro
 Concepción de Oriente
 Concepción Department
 Concepción Province
@@ -13466,6 +13471,7 @@ El Retiro
 El Rosal
 El Rosario
 El Salto
+El Salvador
 El Santuario
 Elsau
 El Sauce
@@ -15047,6 +15053,7 @@ Fresia
 Fresnedillas de la Oliva
 Fresnedoso de Ibor
 Fresnes
+Fresnillo
 Fresno
 Fresno County
 Fresno del Río
@@ -15732,6 +15739,7 @@ Gemonio
 Gempen
 Gempenach
 Genappe
+Genaro Codina
 Génave
 Gence
 Genderen
@@ -15743,8 +15751,10 @@ General Belgrano Department
 General Bravo
 General Carrera Province
 General Cepeda
+General Enrique Estrada
 General Escobedo
 General Lagos
+General Pánfilo Natera
 General Pico
 General Pinedo
 General Plutarco Elías Calles
@@ -19217,6 +19227,7 @@ Huanímaro
 Huánuco
 Huánuco Province
 Huánuco Region
+Huanusco
 Huara
 Huarte
 Huásabas
@@ -20335,6 +20346,7 @@ Jalhay
 Jalisco
 Jaljulia
 Jalostotitlán
+Jalpa
 Jaltocán
 Jalubi
 Jalžabet
@@ -20554,6 +20566,7 @@ Jerada Province
 Jerago con Orago
 Jerauld County
 Jerécuaro
+Jerez
 Jerez de la Frontera
 Jerez de los Caballeros
 Jerice
@@ -20800,6 +20813,7 @@ Jozsefvaros District
 Juab County
 Juanacatlán
 Juana Díaz
+Juan Aldama
 Juan de Acosta
 Juan de Herrera
 Juan Fernández
@@ -20814,6 +20828,7 @@ Jubaland
 Jubek
 Jucás
 Jüchen
+Juchipila
 Juchitlán
 Jucuapa
 Jucuarán
@@ -26334,6 +26349,7 @@ Luisago
 Luís Antônio
 Luís Eduardo Magalhães
 Luisenthal
+Luis Moya
 Luitre
 Luiziânia
 Lújar
@@ -27927,6 +27943,7 @@ Mayville
 Maywood
 Mazamitla
 Mazanovsky District
+Mazapil
 Mazara del Vallo
 Mazariegos
 Mazarrón
@@ -28666,6 +28683,7 @@ Mignano Monte Lungo
 Migné-Auxances
 Migori County
 Miguel Alemán
+Miguel Auza
 Miguel Hidalgo
 Mihaliccik
 Mihama
@@ -29284,6 +29302,7 @@ Molvena
 Molveno
 Molvízar
 Molzhaninovsky District
+Momax
 Mombaça
 Mombaldone
 Mombarcaro
@@ -29570,6 +29589,7 @@ Monte di Malo
 Montedinove
 Monte di Procida
 Montedoro
+Monte Escobedo
 Montefalcione
 Montefalco
 Montefalcone Appenino
@@ -30253,6 +30273,7 @@ Mouzaki
 Movelier
 Mower County
 Moya
+Moyahua de Estrada
 Moÿ-de-l'Aisne
 Moyen-Ogooué Province
 Moyne
@@ -31813,6 +31834,7 @@ Nocera Superiore
 Nocera Terinese
 Nocera Umbra
 Noceto
+Nochistlán de Mejía
 Noci
 Nociglia
 Noda
@@ -31926,6 +31948,7 @@ Nore og Udval
 Norfolk
 Norfolk County
 Norg
+Noria de Ángeles
 Norilsk
 Norma
 Norman
@@ -32963,6 +32986,7 @@ Oji
 Ojika
 Ojinaga
 Ojiya
+Ojocaliente
 Ojós
 Ojos de Agua
 Ojrzen commune
@@ -34448,6 +34472,7 @@ Panthéon
 Pantigliate
 Pantin
 Panton
+Pánuco
 Pánuco de Coronado
 Pão de Açúcar
 Paola
@@ -40089,6 +40114,7 @@ Saiki
 Sai Kung District
 Saillon
 Sailly
+Saín Alto
 Sainshand
 Sains-Richaumont
 Saint-Abraham
@@ -41642,6 +41668,7 @@ Santa Maria de Cayón
 Santa María de Huerta
 Santa Maria de Jetibá
 Santa María de la Alameda
+Santa María de la Paz
 Santa Maria del Cedro
 Santa María del Cubillo
 Santa Maria della Versa
@@ -44319,6 +44346,7 @@ Somano
 Sombey
 Sombor
 Sombreffe
+Sombrerete
 Somerdale
 Someren
 Somero
@@ -45901,6 +45929,7 @@ Sussex
 Sussex Corner
 Sussex County
 Susteren
+Susticacán
 Sustinente
 Susuman
 Susumansky District
@@ -46910,12 +46939,14 @@ Tepache
 Tepatitlán de Morelos
 Tepeapulco
 Tepebasi
+Tepechitlán
 Tepecik
 Tepecoyo
 Tepehuacán de Guerrero
 Tepehuanes
 Tepeji del Río de Ocampo
 Tepetitlán
+Tepetongo
 Tepic
 Tepla
 Teplice
@@ -47080,6 +47111,7 @@ Teufen
 Teufenthal
 Teuffenthal
 Teulada
+Teúl de González Ortega
 Teuva
 Teva I Uta
 Tévenon
@@ -47393,6 +47425,7 @@ Tlahuelilpan
 Tlahuiltepa
 Tlajomulco de Zúñiga
 Tlalpan
+Tlaltenango de Sánchez Román
 Tlanalapa
 Tlanchinol
 Tlaxcala
@@ -48135,6 +48168,7 @@ Trindade
 Trindade e Martim Vaz
 Trinec
 Trinidad
+Trinidad García de la Cadena
 Trinidad Sánchez Nagua
 Trinità
 Trinità d'Agultu e Vignola
@@ -50273,6 +50307,7 @@ Vesyolovskoye
 Veszprem
 Veszprem County
 Veszprem District
+Vetagrande
 Veteli
 Veteran
 Veternik
@@ -50601,6 +50636,7 @@ Villa d'Almè
 Villa d'Ogna
 Villa de Álvarez
 Villadeati
+Villa de Cos
 Villa del Bosco
 Villa del Campo
 Villa del Conte
@@ -50639,6 +50675,7 @@ Villafranca Sicula
 Villafranca Tirrena
 Villafrati
 Villaga
+Villa García
 Villa General Mitre
 Village-Neuf
 Village of the Branch
