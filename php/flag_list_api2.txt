@@ -1593,6 +1593,7 @@ Annandale
 Anna Paulowna
 Annapolis
 Annapolis County
+Annapolis Royal
 Ann Arbor
 Anne Arundel County
 Annecy
@@ -1643,6 +1644,7 @@ Antey-Saint-André
 Anthering
 Anticoli Corrado
 Antignano
+Antigonish
 Antigonish County
 Antigua
 Antigua Guatemala
@@ -2808,6 +2810,7 @@ Bad Aussee
 Bad Bleiberg
 Bad Blumau
 Bad Colberg-Heldburg
+Baddeck
 Bad Deutsch-Altenburg
 Bad Düben
 Bad Dürkheim District
@@ -16295,6 +16298,7 @@ Gjoa Haven
 Gjorče Petrov
 Gjøvik
 Glabbeek
+Glace Bay
 Glacier County
 Gladbeck
 Glades County
@@ -31760,6 +31764,7 @@ Newfields
 New Forest
 Newfoundland
 Newfoundland and Labrador
+New Glasgow
 New Gloucester
 Newham
 New Hampshire
@@ -35905,6 +35910,7 @@ Pico da Pedra
 Pico Rivera
 Pico Truncado
 Picton
+Pictou
 Pictou County
 Picture Butte
 Pidhaitsi
@@ -45875,6 +45881,7 @@ Stekene
 Stella
 Stella Cilento
 Stellanello
+Stellarton
 Stellenbosch
 Stellendam
 Stelvio
@@ -45936,6 +45943,7 @@ Stewart District
 Stewart Island
 Stewart Manor
 Stewartstown
+Stewiacke
 Steyr District
 Stezery
 Stezyca commune
@@ -53444,6 +53452,7 @@ Wolfsgraben
 Wolfskirchen
 Wolfsthal
 Wolfurt
+Wolfville
 Wolfwil
 Wolhusen
 Wolin commune
