@@ -2042,6 +2042,7 @@ Argusto
 Argyle
 Argyle (town)
 Argyle (village)
+Argyle District
 Argyll
 Arhavi
 Ari
@@ -3444,6 +3445,7 @@ Barrier Valley
 Barrigada
 Barrika
 Barrington
+Barrington District
 Barrinha
 Barron County
 Barrow County
@@ -4624,6 +4626,7 @@ Biberwier
 Bibiana
 Bibinje
 Bibirevo District
+Bible Hill
 Biblisheim
 Bibrka
 Biccari
@@ -7575,6 +7578,7 @@ Canóvanas
 Canovelles
 Cànoves i Samalús
 Cansano
+Canso
 Cantá
 Cantabria
 Cantagallo
@@ -9567,6 +9571,7 @@ Chester
 Chester (town)
 Chester (village)
 Chester County
+Chester District
 Chesterfield
 Chesterfield County
 Chesterfield Inlet
@@ -10292,6 +10297,7 @@ Clara Township
 Clare
 Clare and Gilbert Valleys
 Clare County
+Clare District
 Claremont
 Clarence
 Clarence City
@@ -12375,6 +12381,8 @@ Diever
 Diex
 Diffa Region
 Digbeth
+Digby
+Digby District
 Dighton
 Dignano
 Digoin
@@ -13497,6 +13505,7 @@ East Hampton
 East Hampton (town)
 East Hampton (village)
 East Hanover Township
+East Hants District
 East Hartford
 East Haven
 East Hempfield Township
@@ -18207,6 +18216,7 @@ Guttenberg
 Guttet-Feschel
 Güttingen
 Guwahati
+Guysborough District
 Guzelbahce
 Guzelyurt
 Guzolândia
@@ -26857,6 +26867,7 @@ Lochristi
 Lochwiller
 Locke
 Lockenhaus
+Lockeport
 Lockhart
 Lockhart River
 Lock Haven
@@ -27529,6 +27540,7 @@ Lüneburg District
 Lünen
 Lunenburg
 Lunenburg County
+Lunenburg District
 Lungavilla
 Lungern
 Lungnyi
@@ -31666,6 +31678,7 @@ Mulazzano
 Mulazzo
 Mulchén
 Mulegé
+Mulgrave
 Mulhausen
 Mülheim an der Ruhr
 Mulhouse
@@ -32776,6 +32789,7 @@ New Maryland
 New Mexico
 New Milford
 New Milford Township
+New Minas
 New Morgan
 New Orleans
 New Oxford
@@ -42027,6 +42041,7 @@ Saint-Martin-en-Bresse
 Saint-Martin-sous-Montaigu
 Saint-Martin-sur-Oust
 Saint Mary
+Saint Mary's District
 Saint Mary Parish
 Saint Marys Bay
 Saint-Maugan
@@ -45178,6 +45193,7 @@ Sheffield
 Sheffield Township
 Sheksninsky District
 Shelburne
+Shelburne District
 Shelby
 Shelby County
 Sheldon
@@ -46836,6 +46852,7 @@ Springfield
 Springfield Township
 Spring Garden Township
 Spring Grove
+Springhill
 Spring Hill
 Springhill Township
 Spring Lake
@@ -54485,6 +54502,7 @@ Westhampton
 Westhampton Beach
 West Hampton Dunes
 West Hanover Township
+West Hants District
 West Hartford
 Westhausen
 Westhausen bei Gotha
@@ -55426,6 +55444,7 @@ Yaremche
 Yaren District
 Yarmolyntsi District
 Yarmouth
+Yarmouth District
 Yaropoletskoye
 Yaroslavl
 Yaroslavl Region
