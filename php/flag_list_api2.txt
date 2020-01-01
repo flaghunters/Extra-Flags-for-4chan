@@ -469,6 +469,7 @@ Ahtanizovskoye
 Ahuacatlán
 Ahuachapán
 Ahuachapán Department
+Ahualulco
 Ahualulco de Mercado
 Ahumada
 Ahuntsic-Cartierville
@@ -665,6 +666,7 @@ Alanno
 Alano di Piave
 Alanya
 Alaotra-Mangoro Region
+Alaquines
 A Laracha
 Alaró
 Alasehir
@@ -1816,6 +1818,7 @@ Aquilonia
 Aquinnah
 Aquino
 Aquiraz
+Aquismón
 Aquitania
 Ar'ara
 Ar'arat an-Naqab
@@ -2106,6 +2109,7 @@ Arlon
 Arluno
 Arma
 Armadale
+Armadillo de los Infante
 Armagh
 Armagh Township
 Armamar
@@ -2722,6 +2726,7 @@ Aweil East
 Awhitu
 Axams
 Axel
+Axtla de Terrazas
 Aya
 Ayabaca
 Ayabaca Province
@@ -9046,6 +9051,7 @@ Cerro al Lambro
 Cerro al Volturno
 Cerro de Pasco
 Cerro de San Antonio
+Cerro de San Pedro
 Cerro Gordo County
 Cerro Largo Department
 Cerro Maggiore
@@ -9302,6 +9308,7 @@ Chã Preta
 Chaptelat
 Chapulhuacán
 Charalá
+Charcas
 Chardonne
 Charente
 Charente-Maritime
@@ -10236,12 +10243,15 @@ Ciudad Constitución
 Ciudad Darío
 Ciudad del Este
 Ciudad Delgado
+Ciudad del Maíz
 Ciudad de México
 Ciudad Dolores
+Ciudad Fernandez
 Ciudad Juárez
 Ciudad Madero
 Ciudad Obregón
 Ciudad Sandino
+Ciudad Valles
 Ciudad Victoria
 Ciudad Vieja
 Ciutadella de Menorca
@@ -11303,6 +11313,7 @@ Cowichan Valley Regional District
 Cowley County
 Cowlitz County
 Cowra
+Coxcatlán
 Coxsackie (town)
 Coxsackie (village)
 Coyaima
@@ -13592,6 +13603,7 @@ Eatontown
 Eaton Township
 Eau Claire
 Eau Claire County
+Ébano
 Ebbs
 Ebéjico
 Ebeleben
@@ -14072,6 +14084,7 @@ El Mourouj
 Elmsford
 Elmsthorpe
 Elmwood Park
+El Naranjo
 El Nayar
 El Negrito
 El Níspero
@@ -20143,6 +20156,7 @@ Huécija
 Huehuetenango
 Huehuetenango Department
 Huehuetla
+Huehuetlán
 Huejotitán
 Huejúcar
 Huejuquilla el Alto
@@ -25016,6 +25030,7 @@ Laguna Pueblo Reservation
 Laguna Salada
 Lagundo
 Lagunes District
+Lagunillas
 La Habana
 La Habra Heights
 Laheda Parish
@@ -28999,6 +29014,7 @@ Mataura
 Matawan
 Mateare
 Mateh Binyamin
+Matehuala
 Matejov
 Matelica
 Matera
@@ -29014,6 +29030,7 @@ Matina
 Matinecock
 Matino
 Matjhabeng
+Matlapa
 Matlosana
 Matmata Nouvelle
 Mato Grosso
@@ -29721,6 +29738,7 @@ México
 Mexico (town)
 Mexico (village)
 Meximieux
+Mexquitic de Carmona
 Mexticacán
 Meyenheim
 Meyersdale
@@ -40575,6 +40593,7 @@ Rio San Juan Department
 Riosucio
 Riotuerto
 Río Turbio
+Rioverde
 Rio Verde
 Río Viejo
 Rio Vista
@@ -42555,6 +42574,7 @@ San Cipirello
 San Cipriano d'Aversa
 San Cipriano Picentino
 San Cipriano Po
+San Ciro de Acosta
 San Clemente
 San Colombano al Lambro
 San Colombano Belmonte
@@ -43067,6 +43087,7 @@ San Marcos de Sierra
 San Marcos La Laguna
 San Marino
 San Martín
+San Martín Chalchicuautla
 San Martin Chile Verde
 San Martín de Bolaños
 San Martín de Hidalgo
@@ -43561,6 +43582,7 @@ Santa María del Oro
 Santa María de los Ángeles
 Santa María de los Caballeros
 Santa María del Real
+Santa María del Río
 Santa María del Tiétar
 Santa Maria de Martorelles
 Santa Maria de Merlès
@@ -43804,6 +43826,7 @@ San Vicente del Caguán
 San Vicente Department
 San Vicente de Tagua Tagua
 San Vicente Pacaya
+San Vicente Tancuayalab
 San Víctor
 Sanvignes-les-Mines
 San Vincenzo
@@ -46268,6 +46291,7 @@ Solebury Township
 Solec Kujawski commune
 Solec nad Wisla commune
 Soledad
+Soledad de Graciano Sánchez
 Soledar
 Soleminis
 Solenice
@@ -48574,10 +48598,12 @@ Támara
 Tamarac
 Tamarugal Province
 Tamasi District
+Tamasopo
 Tamaulipas
 Tamayo
 Tamazula
 Tamazula de Gordiano
+Tamazunchale
 Tamba
 Tambach-Dietharz
 Tambaú
@@ -48607,6 +48633,7 @@ Tamsalu
 Tamsalu Parish
 Tamsweg
 Tamsweg District
+Tamuín
 Tamuning
 Tamura
 Tamworth
@@ -48615,6 +48642,7 @@ Tanabe
 Tanagra
 Tanagura
 Tana River County
+Tancanhuitz
 Tancon
 Tandel
 Tandil
@@ -48636,6 +48664,7 @@ Tangub
 Tanintharyi Region
 Tanjong Pagar
 Tanjung Pinang
+Tanlajás
 Tanna
 Tännäs District
 Tannay
@@ -48643,6 +48672,7 @@ Tannersville
 Tannheim
 Tano
 Tanohata
+Tanquián de Escobedo
 Tan-Tan
 Tan-Tan Province
 Tanum
@@ -49424,6 +49454,7 @@ Tierra Amarilla
 Tierra Blanca
 Tierra del Fuego Province
 Tierralta
+Tierra Nueva
 Tieschen
 Tiétar
 Tietê
@@ -51955,6 +51986,7 @@ Vandoeuvres
 Vandoies
 Vändra
 Vändra Parish
+Vanegas
 Vänersborg
 Van Etten
 Vang
@@ -52325,6 +52357,7 @@ Velykyi Bereznyi District
 Velykyi Burluk District
 Vemyslice
 Venadillo
+Venado
 Venafro
 Venango
 Venango County
@@ -52894,8 +52927,11 @@ Villa d'Adda
 Villa d'Almè
 Villa d'Ogna
 Villa de Álvarez
+Villa de Arista
+Villa de Arriaga
 Villadeati
 Villa de Cos
+Villa de la Paz
 Villa del Bosco
 Villa del Campo
 Villa del Conte
