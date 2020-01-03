@@ -11094,7 +11094,6 @@ Corsano
 Corse
 Corseaux
 Corse-du-Sud
-Corserey
 Corsica
 Corsico
 Corsier
@@ -13621,7 +13620,6 @@ Ebergassing
 Eberndorf
 Ebersberg District
 Ebersdorf
-Ebersecken
 Ebersheim
 Ebersmunster
 Eberstein
@@ -23153,7 +23151,6 @@ Kirchbichl
 Kirchdorf
 Kirchdorf an der Krems District
 Kirchdorf in Tirol
-Kirchenthurnen
 Kirchgandern
 Kirchhaslach
 Kirchheim
@@ -24963,7 +24960,6 @@ Laflin
 La Floresta
 La Florida
 Lafnitz
-La Folliaz
 La Fontenelle
 La Forest-Landerneau
 La Foret-Fouesnant
@@ -26957,7 +26953,6 @@ Löhne
 Lohn GR
 Löhningen
 Lohn SH
-Lohnstorf
 Lohr
 Lohusuu Parish
 Loiano
@@ -28106,7 +28101,6 @@ Malacatán
 Malacatancito
 Malacky
 Malacky District
-Maladers
 Maladziečna
 Maladziečna District
 Málaga
@@ -31674,7 +31668,6 @@ Mühleberg
 Mühlen
 Muhlenberg County
 Muhlenberg Township
-Mühlethurnen
 Mühlgraben
 Muhos
 Muhr
@@ -33335,7 +33328,6 @@ Nordre Land
 Nordrhein-Westfalen
 Nordsachsen District
 Nordwestmecklenburg District
-Noréaz
 Noreña
 Nore og Udval
 Norfolk
@@ -38637,8 +38629,8 @@ Prévonloup
 Prévost
 Prevysov
 Prey Veng Province
+Prez
 Prezletice
-Prez-vers-Noréaz
 Prezza
 Priargunsky District
 Priay
@@ -44332,7 +44324,6 @@ Schiltigheim
 Schimmert
 Schinveld
 Schinznach
-Schinznach-Bad
 Schio
 Schipluiden
 Schirmeck
@@ -44471,7 +44462,6 @@ Schwellbrunn
 Schwelm
 Schwendau
 Schwende
-Schwendibach
 Schwendt
 Schwenheim
 Schwenksville
@@ -49411,6 +49401,7 @@ Thüringen
 Thüringerberg
 Thurman
 Thurn
+Thurnen
 Thürnen
 Thurrock
 Thurston
@@ -53156,7 +53147,7 @@ Villaviciosa de Odón
 Villavieja
 Villavieja del Lozoya
 Villaviudas
-Villaz-Saint-Pierre
+Villaz
 Villazzano
 Ville
 Villebois
