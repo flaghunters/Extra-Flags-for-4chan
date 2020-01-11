@@ -494,8 +494,8 @@ function onFlagsLoad(response) {
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
 
-                    nameBlock.appendChild(newFlag);
-                    nameBlockM.appendChild(newFlag.cloneNode(true));
+                    nameBlock && nameBlock.appendChild(newFlag);
+                    nameBlockM && nameBlockM.appendChild(newFlag.cloneNode(true));
 
                     console.log("resolved " + postedRegions[i]);
                 }
