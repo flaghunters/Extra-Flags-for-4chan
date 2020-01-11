@@ -15,7 +15,7 @@ Biliran
 Bohol
 Bukidnon
 Bulacan
-Cagayan
+Cagayán
 Caloocan
 Camarines Norte
 Camarines Sur
@@ -27,7 +27,10 @@ Cebu
 Cotabato
 Davao del Norte
 Davao del Sur
+Davao de Oro
+Davao Occidental
 Davao Oriental
+Dinagat Islands
 Eastern Samar
 Guimaras
 Ifugao
@@ -66,6 +69,7 @@ Quirino
 Rizal
 Romblon
 Samar
+Sarangani
 Siquijor
 Sorsogon
 South Cotabato
