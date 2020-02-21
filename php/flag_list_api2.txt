@@ -276,6 +276,7 @@ Adiós
 Adiyaman
 Adiyaman Province
 Adjara
+Adjumani District
 Adjuntas
 Adlersky District
 Adligemswil
@@ -1427,6 +1428,7 @@ Amsterdam-Zuidoost
 Amstetten
 Amstetten District
 Amt Wachsenburg
+Amuria District
 Amur Region
 Amurrio
 Amursk
@@ -6618,6 +6620,7 @@ Buhl
 Bühl
 Buhla
 Bühler
+Buikwe District
 Buin
 Buire
 Buitrago del Lozoya
@@ -6894,6 +6897,7 @@ Buturlinsky District
 Butyrsky District
 Buurmalsen
 Buus
+Buvuma District
 Buxheim in Schwaben
 Buxton
 Buxy
@@ -21965,6 +21969,7 @@ Kabale District
 Kabansky District
 Kabardino-Balkaria
 Kabardinskoye
+Kaberamaido District
 Kabjisa
 Kabul
 Kacanik
@@ -23118,6 +23123,7 @@ Kiev-Sviatoshyn District
 Kiffis
 Kifisia
 Kigali
+Kigezi Sub-Region
 Kiginsky District
 Kihelkonna Parish
 Kihniö
@@ -23201,6 +23207,10 @@ King and Queen County
 Kingborough
 King County
 King Cove
+Kingdom of Buganda
+Kingdom of Bunyoro
+Kingdom of Busoga
+Kingdom of Tooro
 Kingersheim
 Kingfield
 Kingfisher County
@@ -23310,6 +23320,7 @@ Kirrberg
 Kirrwiller
 Kirsehir
 Kirsehir Province
+Kiruhura District
 Kiruna Municipality
 Kirwee
 Kiryas Joel
@@ -24070,6 +24081,7 @@ Kotelnich
 Kotelnichsky District
 Kotelniki
 Kotelva District
+Kotido District
 Kotka
 Kotkino
 Kotla commune
@@ -27770,6 +27782,7 @@ Luumäki
 Luunja Parish
 Luvia
 Luvinate
+Luweero District
 Luxembourg
 Luxor
 Luyksgestel
@@ -27800,6 +27813,7 @@ Lvovsky
 Lwowek Slaski commune
 Lwowek Slaski County
 Lyall Bay
+Lyantonde District
 Lyantor
 Lyapinskoye
 Lyaskovets
@@ -28607,6 +28621,7 @@ Maracaibo
 Maracalagonis
 Maracay
 Maracena
+Maracha District
 Maracon
 Maradi Region
 Maraita
@@ -29016,6 +29031,7 @@ Masagua
 Masaguara
 Masahuat
 Masainas
+Masaka District
 Masaki
 Masandra
 Masardis
@@ -29307,6 +29323,7 @@ Mazzè
 Mazzin
 Mazzo di Valtellina
 Mbabane
+Mbarara District
 Mbhashe
 Mbizana
 Mbombela
@@ -30438,6 +30455,7 @@ Mitchell Heights
 Mitchell Shire
 Mitino District
 Mito
+Mitooma District
 Mitoyo
 Mitrovica
 Mitselwier
@@ -31728,6 +31746,7 @@ Moyen-Ogooué Province
 Moyne
 Moyobamba
 Moyobamba Province
+Moyo District
 Moyogalpa
 Moyuta
 Mozdok
@@ -31741,6 +31760,7 @@ Mozzanica
 Mozzate
 Mozzecane
 Mozzo
+Mpigi District
 Mpofana
 Mpumalanga
 Mqabba
@@ -32236,7 +32256,9 @@ Nakano
 Nakanojo
 Nakanoto
 Nakasatsunai
+Nakaseke District
 Nakashibetsu
+Nakasongola District
 Nakatane
 Nakatonbetsu
 Nakatosa
@@ -32536,6 +32558,7 @@ Nea Smyrni
 Nea Zichni
 Neba
 Nebanice
+Nebbi District
 Nebbiuno
 Nebikon
 Nebilovy
@@ -41600,6 +41623,7 @@ Rubiana
 Rubiera
 Rubigen
 Rubió
+Rubirizi District
 Rubite
 Rubizhne
 Rucava
@@ -49447,6 +49471,7 @@ Teskov
 Teskovice
 Teslic municipality
 Teslin
+Teso Sub-Region
 Tesovice
 Tessenderlo
 Tessennano
@@ -54842,6 +54867,7 @@ West New Britain Province
 West Newbury
 West Newton
 West New York
+West-Nile Sub-Region
 West Norriton Township
 West Nottingham Township
 Weston
