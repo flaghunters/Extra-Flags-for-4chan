@@ -1494,6 +1494,7 @@ Andelfingen
 Andelsbuch
 Andelska Hora
 Andenne
+Anderen
 Anderlecht
 Anderlues
 Andermatt
@@ -1626,6 +1627,8 @@ Annapolis Royal
 Ann Arbor
 Anne Arundel County
 Annecy
+Annen
+Annerveenschekanaal
 Annesbrook
 Annicco
 Anninsky District
@@ -1786,6 +1789,7 @@ Apostolove
 Apostolove District
 Apozol
 Appanoose County
+Appel
 Äppelbo
 Appelsche
 Appeltern
@@ -5090,6 +5094,7 @@ Blindenmarkt
 Blind River
 Blitar
 Blitar Regency
+Blitterswijck
 Blizejov
 Blizevedly
 Blizkov
@@ -5231,6 +5236,7 @@ Boécourt
 Boe District
 Boedo
 Boekel
+Boekelo
 Boelensloane
 Boeny Region
 Boer
@@ -6896,6 +6902,7 @@ Buturlinovsky District
 Buturlinsky District
 Butyrsky District
 Buurmalsen
+Buurse
 Buus
 Buvuma District
 Buxheim in Schwaben
@@ -12055,6 +12062,7 @@ Debarca
 Debe Wielkie commune
 Debica County
 De Bilt
+De Blesse
 Deblin
 Deblois
 Debno commune
@@ -12108,6 +12116,7 @@ Deggendorf District
 Dego
 Degollado
 De Gordyk
+De Groeve
 Degtyarsk
 Degučiai
 De Haan
@@ -12118,6 +12127,7 @@ Dehesas Viejas
 De Himrik
 Dehiwala-Mount Lavinia
 Dehlingen
+De Hoeve
 De Hommerts
 De Houtigehage
 Dehradun
@@ -12134,6 +12144,7 @@ De Jouwer
 De Kalb
 DeKalb County
 Dekanovec
+De Kiel
 Dekiling
 De Knipe
 De Koog
@@ -12258,6 +12269,7 @@ De Pomp
 Deposit (town)
 Deposit (village)
 Deptford Township
+De Punt
 Derazhnia
 Derazhnia District
 Derbent
@@ -13151,7 +13163,9 @@ Drhovle
 Drhovy
 Driebergen
 Driebergen-Rijsenburg
+Drieborg
 Driebruggen
+Driedorp
 Driehuizen
 Driewegen
 Driezum
@@ -13801,7 +13815,9 @@ Eemnes
 Een
 Eenhana
 Eenrum
+Eenum
 Eerbeek
+Eerde
 Eersel
 Eeschweller
 Eethen
@@ -16399,6 +16415,7 @@ Garnish
 Garpenberg
 Garraf
 Garrard County
+Garrelsweer
 Garrett
 Garrett County
 Garrigàs
@@ -19127,6 +19144,7 @@ Hellertown
 Hellevoetsluis
 Hellikon
 Hellingen
+Hellouw
 Hellsau
 Hellum
 Helmand Province
@@ -19335,6 +19353,7 @@ Heusden-Zolder
 Heuthen
 Heuvelland
 Heuvelton
+Heveadorp
 Hevel Eilot
 Hevel Modi'in
 Hevel Yavne
@@ -19658,6 +19677,7 @@ Hoeilaart
 Hoek
 Hoeksche Waard
 Hoek van Holland
+Hoenderloo
 Hoenheim
 Hoenkoop
 Hoensbroek
@@ -19850,6 +19870,7 @@ Hoogwoud
 Hooker County
 Hooksett
 Hookstown
+Hoonhorst
 Höör Municipality
 Hoorn
 Hoornaar
@@ -24186,6 +24207,7 @@ Kraborovice
 Kraftisried
 Kraftsdorf
 Kragerø
+Kraggenburg
 Kragujevac
 Krahulci
 Krahulov
@@ -24905,6 +24927,7 @@ Laab im Walde
 La Acebeda
 La Adrada
 Laag-Keppel
+Laagnieuwkoop
 Laak
 Laakdal
 Laakhavens
@@ -25348,6 +25371,7 @@ Lamporecchio
 Lamporo
 Lamprechtshausen
 Lampung
+Lamswaarde
 Lamta
 La Muela
 Lana
@@ -25994,6 +26018,7 @@ Leepchanskoye
 Leerbroek
 Leerdam
 Leer District
+Leermens
 Leersum
 Leesburg
 Leesport
@@ -26413,6 +26438,7 @@ Levone
 Levski
 Lev-Tolstovsky District
 Levy County
+Lewedorp
 Lewes
 Lewin Klodzki commune
 Lewis
@@ -28782,6 +28808,7 @@ Maridi
 Marie Byrd Land
 Mariehamn
 Mari El
+Mariënheem
 Mariental
 Maries County
 Mariestad Municipality
@@ -28848,6 +28875,7 @@ Märkisch-Oderland District
 Markivka District
 Marklesburg
 Markleysburg
+Markluiden
 Mark Municipality
 Marknesse
 Markopoulo Mesogaias
@@ -33194,6 +33222,7 @@ Nieuwolda
 Nieuwpoort
 Nieuwstadt
 Nieuwveen
+Nieuw-Vennep
 Nieuwvliet
 Nieuw-Vossemeer
 Nieuw Waldeck
@@ -33461,6 +33490,7 @@ Noordeloos
 Noordenveld
 Noordgouwe
 Noord-Holland
+Noordlaren
 Noordoostpolder
 Noord-Scharwoude
 Noordwest
@@ -35441,6 +35471,7 @@ Ossago Lodigiano
 Ossana
 Ossendrecht
 Ossenisse
+Ossenzijl
 Ossi
 Ossiach
 Ossian
@@ -36779,6 +36810,7 @@ Penzing District
 Peoria
 Peoria County
 Peoria Tribe
+Peperga
 Pepillo Salcedo
 Pepin County
 Pepingen
@@ -44455,6 +44487,7 @@ Scena
 Scenic Rim
 Scerni
 Schaan
+Schaarsbergen
 Schachendorf
 Schachtebich
 Schaeffersheim
@@ -44493,6 +44526,7 @@ Schaumburg
 Schaumburg District
 Schaumburgergrund
 Scheemda
+Scheerwolde
 Scheffau am Tennengebirge
 Scheffau am Wilden Kaiser
 Scheffleng
@@ -44537,6 +44571,7 @@ Schignano
 Schijndel
 Schilde
 Schildersbuurt
+Schildwolde
 Schiller Park
 Schillersdorf
 Schilpario
@@ -44614,6 +44649,7 @@ Schoolcraft County
 Schoondijke
 Schoonebeek
 Schoonhoven
+Schoonoord
 Schoonrewoerd
 Schoorl
 Schoppernau
@@ -46155,6 +46191,7 @@ Sladkovskoye
 Slagelse
 Slagslunde
 Slana
+Slangenbeek
 Slanik
 Slantsevsky District
 Slantsy
@@ -46427,6 +46464,7 @@ Sodus (village)
 Sodus Point
 Soe
 Soeda
+Soerendonk
 Soest
 Soest District
 Sofades
@@ -47473,6 +47511,7 @@ Steenokkerzeel
 Steenwijk
 Steenwijkerland
 Steenwijkerwold
+Steenwijksmoer
 Steesel
 Stefanaconi
 Štefanje
@@ -47481,6 +47520,7 @@ Stefan Vodă District
 Steffisburg
 Stege
 Stegersbach
+Steggerda
 Steg-Hohtenn
 Steglitz-Zehlendorf
 Stehelceves
@@ -50897,6 +50937,7 @@ Tui
 Tuili
 Tuineje
 Tujetsch_Sedrun
+Tuk
 Tuktoyaktuk
 Tukums
 Tula
@@ -54445,7 +54486,7 @@ Washoe Ranch
 Washtenaw County
 Wasilla
 Waskatenau
-Waskemar
+Waskemeer
 Waslala
 Wasosz commune
 Waspam
@@ -54565,6 +54606,7 @@ Wegorzyno commune
 Wegrow
 Wegrow County
 Wegscheid
+Wehe-den Hoorn
 Wehl
 Wehnde
 Weiach
@@ -54765,6 +54807,7 @@ Western Bay of Plenty District
 Western Cape
 Western Downs
 Western Highlands Province
+Westernieland
 Western Lakes
 Western Nile
 Western Province
@@ -55163,6 +55206,7 @@ Wiler bei Utzenstorf
 Wileroltigen
 Wilfersdorf
 Wilga commune
+Wilhelminadorp
 Wilhelmsburg
 Wilhelmshaven
 Wiliberg
@@ -55805,6 +55849,7 @@ Yazu
 Ybbs an der Donau
 Ybbsitz
 Ybor City
+Yde
 Ydre Municipality
 Yeadon
 Yecla
@@ -56578,6 +56623,7 @@ Zignago
 Zihle
 Zihlschlacht-Sitterdorf
 Zihobce
+Zijldijk
 Zikhron Ya'aqov
 Zilairsky District
 Zile
