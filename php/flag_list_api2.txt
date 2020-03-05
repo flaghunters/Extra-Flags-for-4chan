@@ -358,6 +358,7 @@ Agawam
 Agazzano
 Agdenes
 Agematsu
+Agen
 Agencourt
 Ageo
 Agerola
@@ -515,6 +516,7 @@ Airai
 Airasca
 Airdrie
 Aïre-la-Ville
+Aire-sur-l'Adour
 Airmont
 Airola
 Airole
@@ -1498,6 +1500,7 @@ Anderen
 Anderlecht
 Anderlues
 Andermatt
+Andernos-les-Bains
 An der Schmücke
 Anderson County
 Andes
@@ -2025,6 +2028,7 @@ Arequipa
 Arequipa Province
 Arequipa Region
 Ares
+Arès
 Arese
 Areso
 Aretxabaleta
@@ -3768,6 +3772,7 @@ Beaumont
 Beaumont-les-Autels
 Beaumont Saint-Cyr
 Beaune
+Beaupuy
 Beauraing
 Beauregard Parish
 Beaurevoir
@@ -4721,6 +4726,7 @@ Biezwil
 Bifuka
 Biga
 Bigadic
+Biganos
 Big Arm
 Big Beaver
 Big Cypress Indian Reservation
@@ -4896,6 +4902,7 @@ Birzebbuga
 Bisaccia
 Bisacquino
 Bisamberg
+Biscarrosse
 Bisceglie
 Bischheim
 Bischholtz
@@ -8418,6 +8425,7 @@ Castel Guelfo di Bologna
 Castelguglielmo
 Castelguidone
 Castel Ivano
+Casteljaloux
 Castell'Alfero
 Castell'Arquato
 Castell'Azzara
@@ -12041,6 +12049,7 @@ Dawes County
 Dawson
 Dawson County
 Dawson Creek
+Dax
 Day
 Day County
 Daykundi Province
@@ -13393,6 +13402,7 @@ Durach
 Durán
 Durango
 Durania
+Duras
 Durazno Department
 Durazzano
 Durban
@@ -15511,6 +15521,7 @@ Fondachelli-Fantina
 Fond du Lac County
 Fond du Lac Indian Reservation
 Fondi
+fondo
 Fondo
 Fondón
 Fonelas
@@ -16127,6 +16138,7 @@ Førde
 Gaaden
 Gaal
 Gaast
+Gabarret
 Gabbioneta-Binanuova
 Gaberndorf
 Gabersdorf
@@ -17739,6 +17751,7 @@ Gremyachinsk
 Grenaa
 Grenada
 Grenada County
+Grenade-sur-l'Adour
 Grenchen
 Grendelbruch
 Greng
@@ -24984,6 +24997,7 @@ Labrador City
 Labranzagrande
 La Brévine
 La Brillaz
+Labrit
 Labro
 La Broque
 La Bruyère
@@ -25000,6 +25014,7 @@ La Calamine
 La Calera
 La Campa
 La Cañada Flintridge
+Lacanau
 La Canela
 La Canonja
 La Capelle
@@ -28907,6 +28922,7 @@ Marlsboro Township
 Marly
 Marly-Gomont
 Marmagne
+Marmande
 Marmara
 Marmaracik
 Marmara Ereglisi
@@ -30272,6 +30288,7 @@ Milzano
 Mima
 Mimasaka
 Mimata
+Mimizan
 Mimon
 Mimoso do Sul
 Mina
@@ -31448,6 +31465,7 @@ Morbihan
 Morbio Inferiore
 Mörbisch am See
 Mörbylånga Municipality
+Morcenx
 Morciano di Leuca
 Morciano di Romagna
 Morcillo
@@ -42155,6 +42173,7 @@ Sainte-Anne-d'Auray
 Sainte-Anne-de-Bellevue
 Sainte-Anne-de-Madawaska
 Sainte-Anne-sur-Vilaine
+Sainte-Bazeille
 Sainte-Brigitte
 Sainte-Croix
 Sainte-Croix-aux-Mines
@@ -42334,6 +42353,7 @@ Saint Patrick Parish
 Saint Paul
 Saint-Paul
 Saint-Paul et Amsterdam
+Saint-Paul-lès-Dax
 Saint Paul Parish
 Saint-Peran
 Saint-Pere
@@ -42355,6 +42375,7 @@ Saint-Pierre-de-Plesguen
 Saint-Pierre-des-Corps
 Saint-Pierre-de-Varennes
 Saint Pierre du Bois
+Saint-Pierre-du-Mont
 Saint-Pierre-Quiberon
 Saint-Pol-de-Leon
 Saint-Prex
@@ -42377,6 +42398,7 @@ Saint-Sernin-du-Bois
 Saint-Sernin-du-Plain
 Saint-Servais
 Saint-Servant
+Saint-Sever
 Saint-Simon
 Saint-Sorlin-en-Bugey
 Saint-Suliac
@@ -46817,6 +46839,7 @@ Sousel
 Sousse
 Sousse Governorate
 Souss-Massa
+Soustons
 South Abington Township
 South Amboy
 Southampton
@@ -48821,6 +48844,7 @@ Taldom
 Taldomsky District
 Taldykorgan
 Taleggio
+Talence
 Talgua
 Taliaferro County
 Táliga
@@ -49042,6 +49066,7 @@ Tarsia
 Tarso
 Tarsus
 Tartano
+Tartas
 Tartegnin
 Tartiers
 Tartu
@@ -55849,6 +55874,7 @@ Yazu
 Ybbs an der Donau
 Ybbsitz
 Ybor City
+Ychoux
 Yde
 Ydre Municipality
 Yeadon
@@ -55920,6 +55946,7 @@ Yew Tee
 Yeysk
 Yeyskoye
 Yeysky District
+Ygos-Saint-Saturnin
 Yigilca
 Yigo
 Yilan County
