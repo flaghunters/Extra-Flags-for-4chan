@@ -422,6 +422,7 @@ Aguadas
 Agua de Dios
 Água de Pau
 Aguadilla
+Aguadulce
 Agua Fria
 Agua Fria de Goiás
 Aguaí
@@ -1703,6 +1704,7 @@ Antofagasta
 Antofagasta Province
 Antofagasta Region
 Antoing
+Antón
 Antonimina
 Antônio Cardoso
 Antonovo
@@ -2199,6 +2201,7 @@ Arquillos
 Arraba
 Arradon
 Arraia-Maeztu
+Arraiján
 Arraiolos
 Arratzua-Ubarrundia
 Arre
@@ -3505,6 +3508,7 @@ Bartow County
 Bartreng
 Bartsham
 Bart Township
+Barú
 Baruchowo commune
 Barueri
 Barumini
@@ -5206,6 +5210,7 @@ Boca da Mata
 Bocaina
 Bocanovice
 Boca Raton
+Bocas del Toro
 Bocas del Toro Province
 Bocchigliero
 Boccioleto
@@ -5505,7 +5510,9 @@ Boothbay
 Boothbay Harbor
 Bootzheim
 Boppelsen
+Boquerón
 Boquerón Department
+Boquete
 Boquiñeni
 Bor
 Borá
@@ -6618,6 +6625,7 @@ Buffalo Township
 Buffington Township
 Bufleben
 Buga
+Bugaba
 Bugalagrande
 Bugedo
 Búger
@@ -7263,6 +7271,7 @@ Calmar
 Calnali
 Calne
 Caln Township
+Calobre
 Calolziocorte
 Calonge de Segarra
 Caloocan
@@ -7851,6 +7860,7 @@ Cape Winelands
 Capiago Intimiano
 Capiatá
 Capileira
+Capira
 Capistrano
 Capistrello
 Capitale-Nationale
@@ -8911,6 +8921,7 @@ Celon
 Celorico da Beira
 Celorico de Basto
 Celoron
+Cémaco
 Cembra Lisignago
 Čeminac
 Cenadi
@@ -9254,6 +9265,7 @@ Chadds Ford Township
 Chaffee County
 Chagny
 Chagodoshchensky District
+Chagres
 Chaguanas
 Chaguaní
 Chahal
@@ -9296,6 +9308,7 @@ Chamboret
 Chambray-lès-Tours
 Chambry
 Cham District
+Chamé
 Chámeza
 Chamilly
 Chamlykskaya
@@ -9337,6 +9350,7 @@ Chang
 Change
 Change Islands
 Changhua County
+Changuinola
 Chania
 Channel-Port aux Basques
 Chanovice
@@ -9557,7 +9571,9 @@ Chengmari
 Chenini Nahal
 Chennai
 Chepica
+Chepigana
 Chepiginskoye
+Chepo
 Cher
 Cherasco
 Chercos
@@ -9784,6 +9800,7 @@ Chimá
 Chimaltenango
 Chimaltenango Department
 Chimaltitán
+Chimán
 Chimay
 Chimbarongo
 Chimborazo Province
@@ -9833,6 +9850,7 @@ Chiquinquirá
 Chirignago-Zelarino
 Chiriguaná
 Chirilagua
+Chiriquí Grande
 Chiriquí Province
 Chirongui
 Chiru
@@ -9854,6 +9872,7 @@ Chitignano
 Chitimacha Indian Reservation
 Chitinsky District
 Chitose
+Chitré
 Chittenango
 Chittenden
 Chittenden County
@@ -12789,6 +12808,7 @@ Dolcè
 Dolceacqua
 Dolcedo
 Dol-de-Bretagne
+Dolega
 Dolegna del Collio
 Dolenice
 Dolenjske Toplice
@@ -12974,6 +12994,7 @@ Donnerskirchen
 Donnybrook-Balingup
 Donora
 Donori
+Donoso
 Donov
 Donskoy District
 Dooly County
@@ -18023,6 +18044,7 @@ Guaitarilla
 Guaitecas
 Guajeru
 Guajiquiro
+Gualaca
 Gualala
 Gualán
 Gualdo
@@ -18065,6 +18087,7 @@ Guarantã
 Guarapari
 Guarapuava
 Guararapes
+Guararé
 Guararema
 Guaratinguetá
 Guarcino
@@ -24777,6 +24800,7 @@ Kurumkansky District
 Kurunegala
 Kusa
 Kusadasi
+Kusapín
 Kusatsu
 Kuseife
 Kusel District
@@ -25746,6 +25770,7 @@ Lassen County
 Lassing
 Lassnitzhöhe
 Lassy
+Las Tablas
 Lastebasse
 Las Terrenas
 Last Mountain Valley
@@ -27371,6 +27396,7 @@ Losone
 Lososina Dolna commune
 Los Palmitos
 Los Patios
+Los Pozos
 Los Ramones
 Los Realejos
 Los Ríos
@@ -27966,6 +27992,7 @@ Macandrews Bay
 Maçanet de Cabrenys
 Mação
 Macapá
+Macaracas
 Macarani
 Macas
 Macatuba
@@ -28808,6 +28835,7 @@ Maria Saal
 Mariasdorf
 Mariastein
 Maria Taferl
+Mariato
 María Trinidad Sánchez Province
 Mariaville
 Maria Wörth
@@ -32500,6 +32528,8 @@ Nassogne
 Nasu
 Nasukarasuyama
 Nasushiobara
+Natá
+Natá de los Caballeros
 Nátaga
 Natagaima
 Natal
@@ -34511,6 +34541,7 @@ Ocotepeque
 Ocotepeque Department
 Ocotlán
 Ocre
+Ocú
 Oda
 Odai
 Odalengo Grande
@@ -34739,6 +34770,7 @@ Okura
 Okushiri
 Okutama
 Okuwa
+Olá
 Olaberria
 Olaine
 Olanchito
@@ -36333,6 +36365,7 @@ Parish (town)
 Parish (village)
 Parishville
 Paris-l'Hôpital
+Parita
 Parizhskokommunskoye
 Parkano
 Park City
@@ -36643,6 +36676,7 @@ Pecs District
 Pecsvarad District
 Peczniew commune
 Pedara
+Pedasí
 Pedaso
 Pedavena
 Pedemonte
@@ -36806,6 +36840,7 @@ Penobscot
 Penobscot County
 Penobscot Indian Island Reservation
 Peñon Blanco
+Penonomé
 Penovsky District
 Penrith
 Penrose
@@ -37018,6 +37053,7 @@ Pesco Sannita
 Pescosansonesco
 Pescosolido
 Pescueza
+Pesé
 Peseux
 Peshawar
 Peshchanokopsky District
@@ -37482,6 +37518,7 @@ Pinkafeld
 Pinneberg District
 Pino d'Asti
 Pino del Río
+Pinogana
 Pinon
 Pinós
 Pinos Puente
@@ -37904,6 +37941,7 @@ Pococí
 Pocono Township
 Pocopson Township
 Poços de Caldas
+Pocrí
 Podbablje
 Podboransky Rohozec
 Podborany
@@ -38438,6 +38476,7 @@ Porto Acre
 Porto Alegre
 Porto Azzurro
 Portobello
+Portobelo
 Portobuffolè
 Porto Calvo
 Portocannone
@@ -40387,6 +40426,7 @@ Remuera
 Remungol
 Renac
 Reñaca
+Renacimiento
 Renaico
 Renan
 Renansart
@@ -40796,6 +40836,7 @@ Rio das Ostras
 Rio das Pedras
 Rio de Janeiro
 Rio de Janeiro (city)
+Río de Jesús
 Rio Dell
 Rio de Mouro
 Río de Oro
@@ -42944,6 +42985,7 @@ San Felipe de Aconcagua Province
 San Felipe de Jesús
 San Felipe de Puerto Plata
 San Felipe Orizatlán
+San Félix
 San Ferdinando
 San Ferdinando di Puglia
 San Fermo della Battaglia
@@ -46676,6 +46718,7 @@ Somotillo
 Somoto
 Somovskoye
 Sona
+Soná
 Sonadora
 Sonaguera
 Sonceboz-Sombeval
@@ -48679,6 +48722,7 @@ Tabio
 Tabivere Parish
 Tablelands
 Taboão da Serra
+Taboga
 Tabor
 Tabor District
 Tabriz
@@ -49753,6 +49797,7 @@ Tierra Blanca
 Tierra del Fuego Province
 Tierralta
 Tierra Nueva
+Tierras Altas
 Tieschen
 Tiétar
 Tietê
@@ -50100,6 +50145,7 @@ Tonna
 Tono
 Tonopah
 Tonosho
+Tonosí
 Tonshayevsky District
 Tonya
 Toodyay
@@ -53248,6 +53294,7 @@ Villa del Bosco
 Villa del Campo
 Villa del Conte
 Villa de Leyva
+Villa de Los Santos
 Villa del Parque
 Villa del Prado
 Villa del Rey
@@ -53785,6 +53832,7 @@ Volano
 Volant
 Volarna
 Volary
+Volcan
 Volchansk
 Volchenkovskoye
 Volda
