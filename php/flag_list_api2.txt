@@ -358,6 +358,7 @@ Agathonisi
 Agawam
 Agazzano
 Agdenes
+Agder
 Agematsu
 Agen
 Agencourt
@@ -577,7 +578,6 @@ Akciabrski District
 Akdagmadeni
 Akdeniz
 Ak-Dovurak
-Akershus
 Akersloot
 Akhalgori
 Akhalkalaki
@@ -2641,7 +2641,6 @@ Ausonia
 Ausserberg
 Aussersihl
 Ausservillgraten
-Aust-Agder
 Austerlitz
 Austevoll
 Austin
@@ -6875,7 +6874,6 @@ Busia County
 Busin
 Busk
 Busk District
-Buskerud
 Busko-Zdroj County
 Busnago
 Busovice
@@ -15376,7 +15374,6 @@ Finleyville
 Finlyandsky
 Finnentrop
 Finney County
-Finnmark
 Finnøy
 Fino del Monte
 Fino Mornasco
@@ -19135,7 +19132,6 @@ Hedgehope
 Hedgesville
 Hedikhuizen
 Hedingen
-Hedmark
 Heech
 Heel
 Heemskerk
@@ -20005,7 +20001,6 @@ Hörby Municipality
 Horcajo de la Sierra-Aoslos
 Horcajo de las Torres
 Horcajuelo de la Sierra
-Hordaland
 Horebeke
 Horei-Versky
 Horenice
@@ -20927,6 +20922,7 @@ Innertkirchen
 Innervillgraten
 Inner West
 Innisfail
+Innlandet
 Innsbruck
 Innsbruck District
 Innu Nation
@@ -32897,6 +32893,7 @@ Nerviano
 Neryungri
 Nes
 Nes aan de Amstel
+Nesbyen
 Nescopeck
 Nescopeck Township
 Nesebar
@@ -35240,7 +35237,6 @@ Oppens
 Opperdoes
 Oppido Lucano
 Oppido Mamertina
-Oppland
 Oppligen
 Opponitz
 Opportunity Municipal District
@@ -46687,7 +46683,6 @@ Sogliano al Rubicone
 Sogliano Cavour
 Soglio
 Sogndal
-Sogn og Fjordane
 Sogukpinar
 Sogut
 Sogutlu
@@ -49480,7 +49475,6 @@ Tel Aviv District
 Telc
 Telde
 Teleci
-Telemark
 Telenesti District
 Teleorman County
 Telese Terme
@@ -50937,7 +50931,7 @@ Trojes
 Trokavec
 Trollhättan Municipality
 Tromello
-Troms
+Troms og Finnmark
 Tromsø
 Trondheim
 Trong
@@ -53082,7 +53076,6 @@ Vesin
 Vespella de Gaià
 Vespolate
 Vessalico
-Vest-Agder
 Vestal
 Vestavia Hills
 Vestby
@@ -53091,9 +53084,10 @@ Vestenanova
 Vesterbro
 Vesterbro Kongens Enghave
 Vestervig
-Vestfold
+Vestfold og Telemark
 Vesthimmerland
 Vestignè
+Vestland
 Vestmannaeyjar
 Vestone
 Ves Touskov
@@ -53326,6 +53320,7 @@ Vijes
 Vijfheerenlanden
 Vik
 Vika
+Viken
 Vikna
 Viktorsberg
 Vikyrovice
@@ -57142,7 +57137,6 @@ Zyuzino District
 Østerbro
 Øster Hornum
 Øster Hurup
-Østfold
 Østre Toten
 Øvre Eiker
 Øyer
