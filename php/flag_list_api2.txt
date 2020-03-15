@@ -4358,6 +4358,7 @@ Berlin Township
 Berloz
 Berltsum
 Bermeo
+Bermudian Landing
 Bern
 Bernalda
 Bernalillo County
@@ -10359,6 +10360,7 @@ City of Johannesburg
 City of London
 City of Sevastopol
 City of Tshwane
+Ciudad Antigua
 Ciudad Arce
 Ciudad Barrios
 Ciudad Bolívar
@@ -10917,6 +10919,7 @@ Concepción de La Vega
 Concepción del Norte
 Concepción del Oro
 Concepción del Sur
+Concepción de María
 Concepción de Oriente
 Concepción Department
 Concepción Huista
@@ -11208,6 +11211,7 @@ Corozal District
 Corpa
 Corps-Nuds
 Corpus Christi
+Corquín
 Corral
 Corrales
 Corralillo
@@ -11587,6 +11591,7 @@ Cromwell Township
 Cronay
 Crook County
 Crooked Island
+Crooked Tree
 Cropalati
 Cropani
 Crosby County
@@ -11674,6 +11679,7 @@ Cucunubá
 Cucurpe
 Cúcuta
 Cucutilla
+Cucuyagua
 Cudahy
 Cudillero
 Cudrefin
@@ -13394,6 +13400,7 @@ Dukes County
 Dukmasovskoye
 Dukovany
 Dulantzi
+Dulce Nombre
 Dulce Nombre de Culmí
 Dulce Nombre de Maria
 Duldurginsky District
@@ -14709,6 +14716,7 @@ Esopus
 Espaillat Province
 Esparragalejo
 Esparreguera
+Esparta
 Esparza
 Espel
 Espelúy
@@ -18287,6 +18295,7 @@ Güímar
 Guimarães
 Guimaras
 Guimiliau
+Guinea Grass
 Güinope
 Guipavas
 Guipel
@@ -19987,6 +19996,7 @@ Hopfgarten in Defereggen
 Hopi Nation
 Hopital-Camfrout
 Hopkington
+Hopkins
 Hopkins County
 Hopkinton
 Hoptrup
@@ -20704,6 +20714,7 @@ Iksha
 Ikskile
 Ikusaka
 Ikwezi
+Ilama
 Ilanz_Glion
 Ilawa County
 Ilbono
@@ -21996,6 +22007,7 @@ Juan Aldama
 Juan de Acosta
 Juan de Herrera
 Juan Fernández
+Juan Francisco Bulnes
 Juan José Castelli
 Juan Santiago
 Juárez
@@ -34262,6 +34274,7 @@ Núcleo Bandeirante
 Nudolskoye
 Nueces County
 Nuenen, Gerwen en Nederwetten
+Nueva Arcadia
 Nueva Carteya
 Nueva Concepcion
 Nueva Concepción
@@ -34295,6 +34308,7 @@ Nuevo León
 Nuevo Morelos
 Nuevo Progreso
 Nuevo San Carlos
+Nuevo San Juan
 Nuevo Tepetitán
 Nughedu San Nicolò
 Nughedu Santa Vittoria
@@ -37186,6 +37200,7 @@ Petah Tikva
 Petäjävesi
 Petaling Jaya
 Petaluma
+Petatán
 Petén Department
 Peteranec
 Peterborough
@@ -37788,6 +37803,7 @@ Pizzone
 Pizzoni
 Plabennec
 Placanica
+Placencia
 Placentia
 Placer County
 Placetas
@@ -39777,6 +39793,7 @@ Quetzaltenango Department
 Quevedo
 Queven
 Quévy
+Quezalguaque
 Quezaltepeque
 Quezon
 Quezon City
@@ -42950,6 +42967,7 @@ San Benedetto Ullano
 San Benedetto Val di Sambro
 San Benigno Canavese
 San Benito
+San Benito Abad
 San Benito County
 San Bernardino
 San Bernardino County
@@ -43042,6 +43060,7 @@ Sanders County
 Sand Fork
 Sandgate
 Sandgerði
+Sandhill
 Sandia Pueblo Reservation
 San Didero
 San Diego
@@ -43305,6 +43324,7 @@ San José de Pare
 San José Department
 San José de Uré
 San José El Ídolo
+San José El Rodeo
 San José Guayabal
 San José Iturbide
 San José La Arada
@@ -43340,6 +43360,7 @@ San Juan de los Lagos
 San Juan de los Remedios
 San Juan del Río
 San Juan del Sur
+San Juan de Opoa
 San Juan de Oriente
 San Juan de Rioseco
 San Juan de Sabinas
@@ -43866,6 +43887,7 @@ Sant'Urbano
 Santa Adélia
 Santa Ana
 Santa Ana Department
+Santa Ana de Yusguare
 Santa Ana Huista
 Santa Ana la Real
 Santa Apolonia
@@ -44030,6 +44052,7 @@ Santa María del Tiétar
 Santa Maria de Martorelles
 Santa Maria de Merlès
 Santa María de Nieva
+Santa María de Pantasma
 Santa Maria di Licodia
 Santa Maria di Sala
 Santa Maria Hoè
@@ -47425,6 +47448,7 @@ St. Francois County
 St. Gallen
 St. George
 St. George's
+St. George's Caye
 St. George's Parish
 St. Helena
 St. Helena Parish
@@ -49331,6 +49355,7 @@ Taubaté
 Täuffelen
 Tauherenikau
 Taujenai
+Taulabé
 Taule
 Taumarunui
 Taunton
@@ -50866,6 +50891,7 @@ Trindade
 Trindade e Martim Vaz
 Trinec
 Trinidad
+Trinidad de Copán
 Trinidad García de la Cadena
 Trinidad Sánchez Nagua
 Trinità
@@ -55480,6 +55506,7 @@ Willistown Township
 Willits
 Willner
 Willoughby
+Willow's Bank
 Willow Bunch
 Willow Creek
 Willow Creek Municipal District
@@ -55628,6 +55655,7 @@ Witzenberg
 Wiuwert
 Wiwersheim
 Wiwili
+Wiwilí
 Wjelsryp
 Wladyslawowo commune
 Wlen commune
@@ -55882,6 +55910,7 @@ Wytmarsum
 Włocławek County
 Włoszakowice commune
 Xaghra
+Xaibe
 Xai-Xai
 Xalisco
 Xanthi
