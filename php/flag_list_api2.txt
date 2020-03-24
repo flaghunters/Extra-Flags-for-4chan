@@ -672,6 +672,7 @@ Alamogordo
 Álamos
 Alamosa County
 Alandroal
+Alanje
 Alanno
 Alano di Piave
 Alanya
@@ -1075,6 +1076,7 @@ Almere
 Almería
 Almese
 Älmhult Municipality
+Almirante
 Almirante Brown Department
 Almirante Padilla
 Almkerk
@@ -5841,10 +5843,12 @@ Boulens
 Boulia
 Bouliac
 Bouligneux
+Boulouparis
 Boundary County
 Bound Brook
 Bounkani Region
 Bounty Islands
+Bourail
 Bourbach-le-Bas
 Bourbach-le-Haut
 Bourbon County
@@ -7609,6 +7613,7 @@ Canajoharie (town)
 Canajoharie (village)
 Canakkale
 Canakkale Province
+Canala
 Canale
 Canale d'Agordo
 Canale Monterano
@@ -13505,6 +13510,7 @@ Dulliken
 Dully
 Duluth
 Dumaguete
+Dumbéa
 Dumbleyung
 Dumbría
 Dumenza
@@ -13897,6 +13903,7 @@ Ebina
 Ebino
 Ebnat-Kappel
 Eboli
+Ebon Atoll
 Ebonyi State
 Ebreichsdorf
 Écaussinnes
@@ -15182,6 +15189,7 @@ Färila
 Farim
 Farindola
 Farini
+Farino
 Farkadona
 Farkaševac
 Farmersville
@@ -19629,6 +19637,7 @@ Hidden Hills
 Hidrolina
 Hiefenech
 Hielpen
+Hienghène
 Hieslum
 Hietzing
 Hietzing District
@@ -20337,6 +20346,7 @@ Hot Spring County
 Hot Springs County
 Hottingen
 Hotton
+Houaïlou
 Houffalize
 Houghton County
 Houghton Valley
@@ -20866,8 +20876,10 @@ Ile-de-Batz
 Île-de-France
 Ile de Groix
 Ile de Sein
+Île des Pins
 iLembe
 Iles
+Îles Belep
 Îles-de-la-Madeleine
 Îles Éparses
 Îles Loyauté Province
@@ -21652,6 +21664,7 @@ Jalpa
 Jalpatagua
 Jaltocán
 Jalubi
+Jaluit Atoll
 Jalžabet
 Jamaica
 Jamao al Norte
@@ -22270,6 +22283,7 @@ Jwaneng
 Jyväskylä
 Jølster
 Kaag en Braassem
+Kaala-Gomen
 Kaarina
 Kaavi
 Kabadougou
@@ -24137,6 +24151,7 @@ Kondinin
 Kondinsky District
 Kondopozhsky District
 Kondratowice commune
+Koné
 Konecchlumi
 Koneck commune
 Koneprusy
@@ -24416,12 +24431,14 @@ Kottes-Purk
 Kottingbrunn
 Köttmannsdorf
 Kotvrdovice
+Kouaoua
 Koudekerk aan den Rijn
 Koudekerke
 Koudum
 Kouga
 Kou-Kamma
 Koulikoro Region
+Koumac
 Koumi
 Koungou
 Kounice
@@ -25417,6 +25434,7 @@ Laflin
 La Floresta
 La Florida
 Lafnitz
+La Foa
 La Fontenelle
 La Forest-Landerneau
 La Foret-Fouesnant
@@ -26951,6 +26969,7 @@ Liez
 Liezen
 Liezen District
 Liffre
+Lifou
 Ligatne
 Ligerz
 Light
@@ -29071,6 +29090,7 @@ Mar del Plata
 Mar del Tuyú
 Mardin
 Mardin Province
+Maré
 Marebbe
 Marechal Thaumaturgo
 Mareeba
@@ -31036,6 +31056,7 @@ Moianès
 Moiano
 Moimacco
 Moimenta da Beira
+Moindou
 Moio de' Calvi
 Moio della Civitella
 Moiola
@@ -31366,6 +31387,7 @@ Montcornet
 Mont-de-l'Enclus
 Mont-de-Marsan
 Mont-Dol
+Mont-Dore
 Monte Alegre do Sul
 Monte Alto
 Monte Aprazível
@@ -33286,6 +33308,7 @@ Nevyansk
 New Albany
 New Albion
 New Alexandria
+New Amsterdam
 Newark
 Newark and Sherwood
 Newark Valley (town)
@@ -36120,6 +36143,7 @@ Oud-West
 Oud-Zuid
 Oued Ed-Dahab Province
 Oued Ellil
+Ouégoa
 Oueslatia
 Ouessant
 Ouest Department
@@ -36153,6 +36177,7 @@ Outjo
 Outokumpu
 Outram
 Outremont
+Ouvéa
 Ouwekerk
 Ouwe-Syl
 Ovada
@@ -36378,6 +36403,7 @@ Paisco Loveno
 Paįstrys
 País Vasco
 Paita
+Païta
 Paita Province
 Paitone
 Paiwas
@@ -38635,6 +38661,7 @@ Pondera County
 Ponderano
 Pond Inlet
 Ponedera
+Ponérihouen
 Ponetovice
 Ponga
 Pongaroa
@@ -38998,6 +39025,8 @@ Pötzleinsdorf
 Potzneusiedl
 Pouce Coupe
 Pouch Cove
+Pouébo
+Pouembout
 Poughkeepsie (city)
 Poughkeepsie (town)
 Pougny
@@ -39009,6 +39038,7 @@ Poullan-sur-Mer
 Poullaouen
 Poulstrup
 Poultney
+Poum
 Pound
 Pound Ridge
 Poustka
@@ -39034,6 +39064,7 @@ Power County
 Poweshiek County
 Powhatan County
 Pownal
+Poya
 Poysdorf
 Pöytyä
 Pozanti
@@ -44710,6 +44741,7 @@ Sarah Baartman
 Saraj
 Sarajevo
 Sarajevo Canton
+Saramacca District
 Saran
 Saranac
 Saranac Lake
@@ -44799,6 +44831,7 @@ Sarpang
 Sarpsborg
 Sarpy County
 Sarracín
+Sarraméa
 Sarre
 Sarre-Union
 Sarrewerden
@@ -48519,6 +48552,7 @@ Suaqui Grande
 Suardi
 Suárez
 Suaza
+Suba
 Subachoque
 Subang Jaya
 Subang Regency
@@ -50175,6 +50209,7 @@ Thiersee
 Thiesi
 Thimister-Clermont
 Thimphu
+Thio
 Thira
 Thiruvananthapuram
 Thisted
@@ -50875,6 +50910,7 @@ Töttelstädt
 Tottori
 Tottori Prefecture
 Touchwood
+Touho
 Toulon
 Toulon-sur-Arroux
 Toulouse
@@ -51556,6 +51592,7 @@ Tunica County
 Tunis
 Tunis Governorate
 Tunja
+Tunjuelito
 Tunkhannock
 Tunkhannock Township
 Tunkinsky District
@@ -54320,6 +54357,7 @@ Voghiera
 Vogogna
 Vogorno
 Vogtlandkreis
+Voh
 Vohancice
 Võhma
 Voio
@@ -54971,6 +55009,7 @@ Wangenried
 Wängi
 Wängle
 Wangphu
+Wanica District
 Wanneperveen
 Wanneroo
 Wanouchi
@@ -56417,6 +56456,7 @@ Yasuoka
 Yasynuvata
 Yasynuvata District
 Yatagan
+Yaté
 Yateras
 Yates
 Yates County
