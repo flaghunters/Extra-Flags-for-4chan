@@ -1250,6 +1250,7 @@ Altufyevsky District
 Altunhisar
 Alt Urgell
 Altusried
+Altweerterheide
 Altwiller
 Altwis
 Altzaga
@@ -2195,6 +2196,8 @@ Arnex-sur-Nyon
 Arnex-sur-Orbe
 Arnfels
 Arnhem
+Arnhem-Noord
+Arnhem-Zuid
 Arni
 Arnold
 Arnold's Cove
@@ -4148,6 +4151,7 @@ Beltinci
 Beltrami County
 Beltrán
 Beltrum
+Belt-Schutsloot
 Belu Regency
 Belusice
 Belvaros-Lipotvaros District
@@ -4889,6 +4893,7 @@ Bingol
 Bingol Province
 Binissalem
 Binn
+Binnenstad
 Binningen
 Bintan Regency
 Binyamina-Giv'at Ada
@@ -13959,6 +13964,7 @@ Eden Township
 Edenwold
 Edern
 Ederswiler
+Ederveen
 Edessa
 Edgar County
 Edgartown
@@ -14270,6 +14276,7 @@ Elias Fausto
 Elias Motsoaledi
 Elías Piña Province
 Elice
+Elim
 Elini
 Elin Pelin
 Eliot
@@ -19643,6 +19650,7 @@ Hidrolina
 Hiefenech
 Hielpen
 Hienghène
+Hierden
 Hieslum
 Hietzing
 Hietzing District
@@ -24763,6 +24771,7 @@ Krnjak
 Krnov
 Krnsko
 Krobia commune
+Kröddeburen
 Krokialaukis
 Krokocin
 Krokom Municipality
@@ -24913,6 +24922,7 @@ Kugluktuk
 Kugoyeyskaya
 Kuhmo
 Kuhmoinen
+Kuiksche Heide
 Kuinre
 Kujalleq
 Kujavy
@@ -27677,6 +27687,7 @@ Los Castaños de Maipú
 Los Chiles
 Los Córdobas
 Los Corrales de Buelna
+Losdorp
 Losevskoye
 Los Gallardos
 Los Gatos
@@ -32916,6 +32927,7 @@ Natyrbovskoye
 Natzwiller
 Nauders
 Nauendorf
+Nauerna
 Naugatuck
 Naujaat
 Naujoji Akmene
@@ -33620,6 +33632,7 @@ Nienburg-Weser District
 Niepolomice
 Nieporet commune
 Nieszawa
+Nietap
 Nieul
 Nieuw-Beijerland
 Nieuwegein
@@ -33905,6 +33918,7 @@ Nonthaburi Province
 Noodwelle
 Nõo Parish
 Noorbeek
+Noord
 Noord-Beveland
 Noord-Brabant
 Noordbroek
@@ -33917,6 +33931,7 @@ Noord-Holland
 Noordlaren
 Noordoostpolder
 Noord-Scharwoude
+Noordscheschut
 Noordwest
 Noordwijk
 Noosa
@@ -34719,6 +34734,7 @@ Oban
 Obanazawa
 Obando
 O Barco de Valdeorras
+Obbicht
 Obdach
 Obdam
 Obecnice
@@ -35765,6 +35781,7 @@ Ortelle
 Ortenau District
 Ortezzano
 Orth an der Donau
+Orthen
 Ortignano Raggiolo
 Ortigueira
 Ortisei
@@ -50089,6 +50106,7 @@ Tervo
 Tervola
 Tervuren
 Terwispel
+Terwolde
 Teryaevskoye
 Terzialan
 Terzigno
@@ -53131,6 +53149,7 @@ Velayos
 Velbert
 Velden am Wörther See
 Veldhoven
+Veldhuizen
 Velehrad
 Velemin
 Velen
@@ -54669,6 +54688,7 @@ Vufflens-la-Ville
 Vufflens-le-Château
 Vugelles-la-Mothe
 Vught
+Vughterpoort
 Vuhledar
 Vuhlegirsk
 Vuisternens-devant-Romont
@@ -55353,6 +55373,7 @@ Wenslingen
 Wentger
 Wentworth
 Wentzwiller
+Wenum-Wiesel
 Wenzhou
 Weppersdorf
 Werbkowice commune
@@ -57528,6 +57549,7 @@ Zwalm
 Zwammerdam
 Zwartewaal
 Zwartewaterland
+Zwart Moerken
 Zwartsluis
 Zweeloo
 Zweibrücken
