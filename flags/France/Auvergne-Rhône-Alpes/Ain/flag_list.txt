@@ -21,6 +21,7 @@ Birieux
 Bouligneux
 Bourg-en-Bresse
 Bourg-Saint-Christophe
+Brégnier-Cordon
 Brénod
 Bressolles
 Buellas
@@ -32,6 +33,7 @@ Chaleins
 Challex
 Champagne-en-Valromey
 Champdor
+Champdor-Corcelles
 Chanay
 Chaneins
 Charnoz-sur-Ain
@@ -65,6 +67,7 @@ Faramans
 Farges
 Feillens
 Ferney-Voltaire
+Foissiat
 Gex
 Gorrevod
 Grand-Corent
@@ -82,6 +85,7 @@ Léaz
 Le Grand-Abergement
 Leléx
 Lent
+Le Plantay
 Lhuis
 Loyettes
 Maillat
@@ -114,6 +118,7 @@ Pont-d'Ain
 Pont-de-Vaux
 Pont-de-Veyle
 Pougny
+Prémeyzel
 Prémillieu
 Pressiat
 Prévessin-Moëns
@@ -133,12 +138,13 @@ Saint-Étienne-du-Bois
 Saint-Euphémie
 Saint-Genis-Pouilly
 Saint-Genis-sur-Menthon
-Saint-Georges-su-Renon
+Saint-Georges-sur-Renon
 Saint-Germain-de-Joux
 Saint-Germain-sur-Renon
 Saint-Jean-de-Gonville
 Saint-Jean-de-Niost
 Saint-Jean-le-Vieux
+Saint-Jean-sur-Veyle
 Saint-Laurent-sur-Saône
 Saint-Martin-du-Frêne
 Saint-Martin-du-Mont
@@ -154,6 +160,7 @@ Saint-Vulbas
 Sandrans
 Sault-Brénaz
 Sauverny
+Savigneux
 Segny
 Sergy
 Servas
