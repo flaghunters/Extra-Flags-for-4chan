@@ -317,6 +317,7 @@ Aedermannsdorf
 Aefligen
 Aegerten
 Aegviidu
+Aerdt
 Aerodrom
 Aeroport District
 Ærø
@@ -1897,6 +1898,7 @@ Apchon
 Ape
 Apecchio
 Apeldoorn
+Apeldoorn Zuidwest
 Apetlon
 Apex
 Apfelstädtaue
@@ -3095,6 +3097,7 @@ Azzate
 Azzio
 Azzone
 Baaium
+Baak
 Baar
 Baard
 Baarland
@@ -3688,6 +3691,7 @@ Barga
 Bargagli
 Barge
 Bargen
+Barger-Compascuum
 Barges
 Barghe
 Bargota
@@ -6640,7 +6644,9 @@ Brecqhou
 Brécy
 Breda
 Breda di Piave
+Breda Oost
 Breda West
+Breda Zuid-Oost
 Bredene
 Bredevoort
 Bredinsky District
@@ -6962,6 +6968,7 @@ Bron
 Bronckhorst
 Brondello
 Brong-Ahafo Region
+Brongergea
 Broni
 Bronnitsy
 Bronte
@@ -13059,6 +13066,7 @@ Czluchow County
 Czorsztyn commune
 Czosnow commune
 Daarle
+Daarlerveen
 Dabajuro
 Dabas District
 Dabatuyskoye
@@ -13132,6 +13140,7 @@ Dalecin
 Dale County
 Daleke Dusniky
 Dalen
+Dalerpeel
 Dalesice
 Dalfsen
 Dalhem
@@ -13449,6 +13458,7 @@ Dekanovec
 De Kiel
 Dekiling
 De Knipe
+De Koaten
 De Koog
 De Kwakel
 Delanco Township
@@ -13506,6 +13516,7 @@ Delta County
 Delta Junction
 Delta State
 Deltebre
+De Lutte
 De Lytse Jouwer
 Demak Regency
 Demangevelle
@@ -13603,6 +13614,7 @@ De Rips
 Dernekpazari
 Dernice
 De Ronde Venen
+De Rottefalle
 Derovere
 Derry
 Derry Township
@@ -13680,6 +13692,7 @@ Deventer
 Devin
 Devínska Nová Ves
 Devitskoye
+De Vlietberg
 Devon
 Devonport
 Devonport-Takapuna Local Board
@@ -14266,6 +14279,7 @@ Don Benito
 Don Bosco
 Doncaster
 Donceel
+Donderen
 Dondukovskoye
 Donduseni District
 Donegal
@@ -14560,6 +14574,7 @@ Drôme
 Drom HaSharon
 Dronero
 Drongelen
+Dronryp
 Dronten
 Drosendorf-Zissersdorf
 Drösing
@@ -15220,6 +15235,7 @@ Edward River
 Edwards
 Edwards County
 Edwardsville
+Eede
 Eeklo
 Eelde
 Eel River Crossing
@@ -15852,6 +15868,7 @@ Entrerríos
 Entroncamento
 Entzheim
 Enugu State
+Enumatil
 Envie
 Envigado
 Enviken
@@ -15891,6 +15908,7 @@ Epping
 Epping Forest
 Eppishausen
 Epsach
+Epse
 Epsom
 Epsom and Ewell
 Eptingen
@@ -18207,6 +18225,7 @@ Géanges
 Geary County
 Geauga County
 Gebenstorf
+Gebroek
 Gebze
 Geddes
 Gedera
@@ -18587,6 +18606,7 @@ Gingins
 Ging̱olx
 Gingoong
 Ginkunai
+Ginneken (Breda)
 Ginosa
 Ginowan
 Ginoza
@@ -20576,6 +20596,7 @@ Hardy County
 Hardyston Township
 Hare Bay
 Harelbeke
+Haren
 Harford
 Harford County
 Harford Township
@@ -20886,6 +20907,7 @@ Heerewaarden
 Heerhugowaard
 Heerjansdam
 Heerlen
+Heer Oudelands Ambacht
 Heers
 Heesbeen
 Heesch
@@ -21174,6 +21196,7 @@ Hervás
 Herve
 Herveo
 Herwijnen
+Herxen
 Héry
 Herzebrock-Clarholz
 Herzegovina-Neretva Canton
@@ -21201,6 +21224,7 @@ Heukelum
 Heukewalde
 Heumen
 Heusden
+Heusdenhout (Breda)
 Heusden-Zolder
 Heuthen
 Heuvel
@@ -21539,6 +21563,7 @@ Hodoš
 Hodslavice
 Hoedekenskerke
 Hoedic
+Hoef en Haag
 Hoegaarden
 Hoeilaart
 Hoek
@@ -23969,6 +23994,7 @@ Jutiapa Department
 Juticalpa
 Jutphaas
 Jutphaas-Wijkersloot
+Jutryp
 Jützenbach
 Juuka
 Juupajoki
@@ -24831,6 +24857,7 @@ Kehra
 Kehrsatz
 Kehtna Parish
 Kehychivka District
+Keiendorp
 Keila
 Keila Parish
 Keisen
@@ -27636,6 +27663,7 @@ Langeais
 Langeberg
 Langedijk
 Langeland
+Langelo
 Langemark-Poelkapelle
 Langen bei Bregenz
 Langenberg
@@ -30323,6 +30351,7 @@ Lutselk'e
 Lutsk
 Lutsk District
 Luttelgeest
+Lutten
 Luttenbach-pres-Munster
 Lutter
 Lutterbach
@@ -30517,6 +30546,7 @@ Macerata Feltria
 Machakos County
 Machala
 Machalí
+Macharen
 Machelen
 Macherio
 Machetá
@@ -33362,6 +33392,7 @@ Moctezuma
 Modalen
 Modane
 Modave
+Moddergat
 Modena
 Modi'in Illit
 Modi'in-Maccabim-Re'ut
@@ -36217,6 +36248,7 @@ Nieuwe Pekela
 Nieuwerbrug aan den Rijn
 Nieuwerkerk aan den IJssel
 Nieuwerkerke
+Nieuweroord
 Nieuwe-Tonge
 Nieuw-Helvoet
 Nieuwkoop
@@ -36224,6 +36256,7 @@ Nieuwkuijk
 Nieuwland
 Nieuw-Lekkerland
 Nieuwleusen
+Nieuw Moscou
 Nieuwolda
 Nieuwpoort
 Nieuwstadt
@@ -36256,6 +36289,7 @@ Niiza
 Nij Altena
 Nij Beets
 Nijbroek
+Nijeholtpade
 Nijeholtwolde
 Nijemci
 Nijeveen
@@ -37633,6 +37667,7 @@ Offemont
 Offenbach am Main
 Offenbach District
 Offendorf
+Offenwier
 Offerdal District
 Offida
 Offlaga
@@ -38144,6 +38179,7 @@ Opatovice nad Labem
 Opava
 Opava District
 Opawa
+Opende
 Opera
 Opéra
 Opfenbach
@@ -38808,6 +38844,7 @@ Oud-Alblas
 Ouddorp
 Oude IJsselstreek
 Oudelande
+Oude Molen
 Oudenaarde
 Oudenbosch
 Oudenburg
@@ -38825,6 +38862,7 @@ Oude Westen
 Oudheusden
 Oud-Heverlee
 Oudkarspel
+Oud-Lutten
 Oudolen
 Oudorp
 Oudsbergen
@@ -40579,6 +40617,7 @@ Piershil
 Piesendorf
 Pieszyce
 Pieta
+Pieterburen
 Pieterlen
 Pieterzijl
 Pietrabbondante
@@ -44704,6 +44743,7 @@ Roddickton-Bide Arm
 Roddino
 Rodelas
 Rodello
+Roden
 Rodengo
 Rodengo-Saiano
 Rodeo
@@ -48716,6 +48756,7 @@ Schans
 Scharans
 Schardam
 Schärding District
+Scharmer
 Scharndorf
 Scharnitz
 Scharrachbergheim-Irmstett
@@ -49008,6 +49049,7 @@ Seat Pleasant
 Seattle
 Sébaco
 Sebago
+Sebaldeburen
 Sebastian County
 Sebastopol
 Sebec
@@ -50591,6 +50633,7 @@ Smecno
 Smederevo
 Smederevska Palanka
 Smedjebacken Municipality
+Smelle Ie
 Smerillo
 Smetanova Lhota
 Smethport
@@ -51466,6 +51509,7 @@ Spruce Creek Township
 Spruce Grove
 Spruce Hill Township
 Spruce Pine
+Sprundel
 Sputnik
 Spydeberg
 Spy Hill
@@ -52229,6 +52273,7 @@ Strizovice
 Strmilov
 Strobl
 Strobos
+Stroe
 Strogino District
 Stroizzigrund
 Ström District
@@ -53820,6 +53865,7 @@ Tergnier
 Tergu
 Terheijden
 Terherne
+Terhole
 Ter Idzard
 Terjat
 Terlano
@@ -53955,6 +54001,7 @@ Teuchitlán
 Teufen
 Teufenthal
 Teuffenthal
+Teuge
 Teulada
 Teúl de González Ortega
 Teupasenti
@@ -54160,6 +54207,7 @@ Tiel
 Tielmes
 Tielt
 Tielt-Winge
+Tiendeveen
 Tienen
 Tienhoven
 Tierp Municipality
@@ -55241,6 +55289,7 @@ Trollhättan Municipality
 Tromello
 Troms og Finnmark
 Tromsø
+Tronde
 Trondheim
 Trong
 Trongsa
@@ -55826,6 +55875,7 @@ Uffholtz
 Ufhusen
 Ufimsky District
 Ugarchin
+Ugchelen
 Ugento
 Ugentse
 Uggiano la Chiesa
@@ -58408,6 +58458,7 @@ Vista Hermosa
 Vistarino
 Vistrorio
 Vištuk
+Visvliet
 Vita
 Vitacura
 Vitanje
@@ -58494,6 +58545,7 @@ Vlci Habrina
 Vlckova
 Vlcnov
 Vledder
+Vledderveen
 Vleteren
 Vleuten
 Vleuten-De Meern
@@ -59534,6 +59586,7 @@ Weld County
 Weldon
 Wele-Nzas Province
 Welkenraedt
+Well
 Wellen
 Wellersburg
 Wellesley
@@ -60251,6 +60304,7 @@ Winznau
 Wipkingen
 Wipperdorf
 Wipperfürth
+Wirdum
 Wirral
 Wirt
 Wirt County
@@ -61542,6 +61596,7 @@ Zignago
 Zihle
 Zihlschlacht-Sitterdorf
 Zihobce
+Zijderveld
 Zijldijk
 Zikhron Ya'aqov
 Zilairsky District
