@@ -10,6 +10,7 @@ Alambari
 Alfredo Marcondes
 Altair
 Altinópolis
+Alto Alegre
 Alumínio
 Álvares Florence
 Álvares Machado
@@ -54,8 +55,10 @@ Balbinos
 Bálsamo
 Bananal
 Barão de Antonina
+Barbosa
 Bariri
 Barra Bonita
+Barra do Chapéu
 Barra do Turvo
 Barretos
 Barrinha
@@ -83,6 +86,7 @@ Borebi
 Botucatu
 Bragança Paulista
 Braúna
+Brejo Alegre
 Brodowski
 Brotas
 Buri
@@ -118,6 +122,7 @@ Caraguatatuba
 Carapicuíba
 Cardoso
 Casa Branca
+Cássia dos Coqueiros
 Castilho
 Catanduva
 Catiguá
@@ -147,9 +152,11 @@ Cubatão
 Cunha
 Descalvado
 Diadema
+Dirce Reis
 Divinolândia
 Dobrada
 Dois Córregos
+Dolcinópolis
 Dourado
 Dracena
 Duartina
@@ -194,6 +201,7 @@ Guaimbê
 Guaíra
 Guapiaçu
 Guapiara
+Guará
 Guaraçaí
 Guaraci
 Guarani d'Oeste
@@ -325,11 +333,15 @@ Matão
 Mauá
 Mendonça
 Meridiano
+Mesópolis
+Miguelópolis
 Mineiros do Tietê
 Miracatu
+Mira Estrela
 Mirandópolis
 Mirante do Paranapanema
 Mirassol
+Mirassolândia
 Mococa
 Mogi das Cruzes
 Mogi Guaçu
@@ -341,6 +353,7 @@ Monte Alegre do Sul
 Monte Alto
 Monte Aprazível
 Monte Azul Paulista
+Monte Castelo
 Monteiro Lobato
 Monte Mor
 Morro Agudo
@@ -368,8 +381,11 @@ Nova Odessa
 Novo Horizonte
 Nuporanga
 Ocauçu
+Óleo
 Olímpia
 Onda Verde
+Oriente
+Orindiúva
 Orlândia
 Osasco
 Oscar Bressane
@@ -377,21 +393,38 @@ Osvaldo Cruz
 Ourinhos
 Ouroeste
 Ouro Verde
+Pacaembu
+Palestina
+Palmares Paulista
+Palmeira d'Oeste
 Palmital
+Panorama
 Paraguaçu Paulista
 Paraibuna
+Paraíso
+Paranapanema
 Paranapuã
 Parapuã
 Pardinho
 Pariquera-Açu
+Parisi
 Patrocínio Paulista
+Paulicéia
 Paulínea
+Paulistânia
+Paulo de Faria
 Pederneiras
+Pedra Bela
+Pedranópolis
 Pedregulho
+Pedreira
+Pedrinhas Paulista
 Pedro de Toledo
 Penápolis
+Pereira Barreto
 Pereiras
 Peruíbe
+Piacatu
 Piedade
 Pilar do Sul
 Pindamonhangaba
@@ -407,47 +440,83 @@ Pirangi
 Pirapora do Bom Jesus
 Pirapozinho
 Pirassununga
+Piratininga
+Pitangueiras
+Planalto
+Platina
 Poá
+Poloni
+Pompeia
+Pongaí
+Pontal
+Pontalinda
+Pontes Gestal
 Populina
 Porangaba
 Porto Feliz
+Porto Ferreira
 Potim
+Potirendaba
+Pracinha
+Pradópolis
 Praia Grande
 Pratânia
+Presidente Alves
 Presidente Bernardes
 Presidente Epitácio
 Presidente Prudente
+Presidente Venceslau
 Promissão
 Quadra
 Quatá
+Queiroz
 Queluz
+Quintana
 Rafard
 Rancharia
 Redenção da Serra
 Regente Feijó
+Reginópolis
 Registro
+Restinga
+Ribeira
 Ribeirão Bonito
+Ribeirão Branco
 Ribeirão Corrente
 Ribeirão dos Índios
+Ribeirão do Sul
 Ribeirão Grande
 Ribeirão Pires
 Ribeirão Preto
 Rifaina
+Rincão
 Rinópolis
 Rio Claro
 Rio das Pedras
 Rio Grande da Serra
+Riolândia
 Riversul
 Rosana
 Roseira
 Rubiácea
+Rubineia
+Sabino
+Sagres
+Sales
+Sales Oliveira
 Salesópolis
+Salmourão
+Saltinho
 Salto
 Salto de Pirapora
+Salto Grande
 Sandovalina
 Santa Adélia
+Santa Albertina
 Santa Bárbara d'Oeste
 Santa Branca
+Santa Clara d'Oeste
+Santa Cruz da Conceição
 Santa Cruz da Esperança
 Santa Cruz das Palmeiras
 Santa Cruz do Rio Pardo
@@ -456,20 +525,35 @@ Santa Fé do Sul
 Santa Gertrudes
 Santa Isabel
 Santa Lúcia
+Santa Maria da Serra
+Santa Mercedes
+Santana da Ponte Pensa
 Santana de Parnaiba
+Santa Rita d'Oeste
 Santa Rita do Passa Quatro
 Santa Rosa de Viterbo
+Santa Salete
 Santo Anastácio
 Santo André
 Santo Antônio da Alegria
+Santo Antônio de Posse
+Santo Antônio do Aracanguá
+Santo Antônio do Jardim
 Santo Antônio do Pinhal
+Santo Expedito
+Santópolis do Aguapeí
 Santos
 São Bento do Sapucaí
 São Bernardo do Campo
 São Caetano do Sul
 São Carlos
+São Francisco
 São João da Boa Vista
+São João das Duas Pontes
+São João de Iracema
+São João do Pau-d'Alho
 São Joaquim da Barra
+São José da Bela Vista
 São José do Barreiro
 São José do Rio Pardo
 São José do Rio Preto
@@ -480,48 +564,82 @@ São Manuel
 São Miguel Arcanjo
 São Paulo
 São Pedro
+São Pedro do Turvo
 São Roque
 São Sebastião
 São Sebastião da Grama
 São Simão
 São Vicente
+Sarapuí
+Sarutaiá
+Sebastianópolis do Sul
+Serra Azul
 Serrana
 Serra Negra
 Sertãozinho
 Sete Barras
+Severínia
 Silveiras
 Socorro
 Sorocaba
+Sud Mennucci
 Sumaré
+Suzanápolis
 Suzano
+Tabapuã
+Tabatinga
 Taboão da Serra
 Taciba
+Taguaí
+Taiaçu
+Taiuva
 Tambaú
+Tanabi
 Tapiraí
+Tapiratiba
 Taquaral
 Taquaritinga
 Taquarituba
+Taquarivaí
 Tarabai
 Tarumã
 Tatuí
 Taubaté
+Tejupá
 Teodoro Sampaio
 Terra Roxa
 Tietê
+Timburi
+Torre de Pedra
+Torrinha
 Trabiju
 Tremembé
 Três Fronteiras
+Tuiuti
 Tupã
 Tupi Paulista
 Turiúba
 Turmalina
+Ubarana
 Ubatuba
+Ubirajara
+Uchoa
+União Paulista
+Urânia
+Uru
+Urupês
+Valentim Gentil
 Valinhos
+Valparaíso
+Vargem
 Vargem Grande do Sul
 Vargem Grande Paulista
 Várzea Paulista
 Vera Cruz
 Vinhedo
+Viradouro
 Vista Alegre do Alto
+Vitória Brasil
 Votorantim
 Votuporanga
+Zacarias
