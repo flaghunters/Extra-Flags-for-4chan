@@ -7,7 +7,7 @@ extensions = [".png"]
 
 # traverse root directory, and list directories as dirs and files as files
 dir_to_test = u'../flags'
-print("The following files are neither pngs nor txts:")
+print("The following directories don't contain any flags:")
 for root, dirs, files in os.walk(dir_to_test):
     if len(files)==0:
         print(root)
