@@ -15,6 +15,8 @@
 100 Mile House District
 11 de Septiembre Campamento
 18 de Mayo
+25 de Mayo
+9 de Julio
 A'ana District
 Aabenraa
 Aachen
@@ -36,6 +38,7 @@ Aardenburg
 Aarhus
 Aarlanderveen
 Aarle-Rixtel
+Aarón Castellanos
 Aars
 Aarschot
 Aartselaar
@@ -123,7 +126,10 @@ Ablitas
 Aboën
 Abondance
 Abra
+Abra Grande
+Abramo
 Abrantes
+Abra Pampa
 Abre Campo
 Ábrego
 Abrera
@@ -179,6 +185,7 @@ Accomac
 Accomack County
 Accra
 Accumoli
+Acebal
 Aceguá
 Aceh
 Acerenza
@@ -193,10 +200,12 @@ Acharnes
 Achau
 Achenheim
 Achenkirch
+Acheral
 Achères
 Achi
 Achí
 Achinsk
+Achiras
 Achlum
 Acht
 Achtkarspelen
@@ -215,6 +224,7 @@ Acklins
 Aclens
 Acme
 Aconchi
+Aconquija
 Acopiara
 Açores
 Acorizal
@@ -300,6 +310,7 @@ Adelândia
 Adelanto
 Adelboden
 Adelfia
+Adelia María
 Adélie Land
 Aden
 Aderklaa
@@ -319,7 +330,9 @@ Admiralteysky
 Admiralteysky District
 Adnet
 Adolfo
+Adolfo Alsina
 Adolfo Gonzales Chaves Department
+Adolfo Van Praet
 Adon
 Adorp
 Adra
@@ -475,12 +488,14 @@ Aguada de Pasajeros
 Aguadas
 Água de Alto
 Agua de Dios
+Agua de Oro
 Água de Pau
 Aguadilla
 Água Doce
 Água Doce do Maranhão
 Água Doce do Norte
 Aguadulce
+Agua Dulce y La Soledad
 Agua Fria
 Agua Fria de Goiás
 Aguaí
@@ -491,12 +506,15 @@ Aguanil
 Água Nova
 Água Preta
 Agua Prieta
+Aguará Grande
 Água Rasa
+Aguaray
 A Guarda
 Água Retorta
 Água Santa
 Aguasay
 Águas Belas
+Aguas Blancas
 Aguas Buenas
 Aguascalientes
 Aguas Corrientes
@@ -534,7 +552,9 @@ Agurain
 Agusan del Norte
 Agusan del Sur
 Agustín Codazzi
+Agustoni
 Ahaura
+Ahí Veremos
 Ahja Parish
 Ahlat
 Ahmadi Governorate
@@ -822,9 +842,12 @@ Albanyà
 Albany County
 Albany Township
 Albany Ward
+Alba Posse
+Albardón
 Albaredo Arnaboldi
 Albaredo d'Adige
 Albaredo per San Marco
+Albarellos
 Albareto
 Albaretto della Torre
 Albatàrrec
@@ -857,6 +880,7 @@ Alberta Beach
 Albert County
 Albert-Eden Local Board
 Albert-Eden-Roskill Ward
+Alberti
 Albertina
 Albert Luthuli
 Alberto Adriani
@@ -937,6 +961,7 @@ Alcarràs
 Alchenstorf
 Alchevsk
 Alcinópolis
+Alcira Gigena
 Alcobaça
 Alcobendas
 Alcochete
@@ -949,6 +974,7 @@ Alconera
 Alcóntar
 Alcorcón
 Alcorn County
+Alcorta
 Alcoutim
 Alcúdia
 Alcudia de Monteagud
@@ -958,16 +984,28 @@ Aldama
 Aldan
 Aldana
 Aldansky District
+Aldao
 Aldão
 Ald Beets
+Aldea Apeleg
+Aldea Asunción
+Aldea Beleiro
+Aldea Brasilera
 Aldeacentenera
 Aldea del Cano
 Aldea del Fresno
+Aldea Epulef
+Aldea María Luisa
 Aldeanueva de la Vera
 Aldeanueva del Camino
 Aldeanueva de Santa Cruz
+Aldea Protestante
 Aldeaquemada
+Aldea San Antonio
+Aldea Santa María
 Aldeaseca
+Aldea Spatzenkutter
+Aldea Valle María
 Aldeboarn
 Aldegea
 Aldehaske
@@ -978,6 +1016,7 @@ Alde Leie
 Alden (town)
 Alden (village)
 Aldeno
+Alderetes
 Alderney
 Alderson
 Aldino
@@ -993,7 +1032,10 @@ Alegrete
 Alegrete do Piauí
 Alegria
 Alegría
+Alejandra
 Alejandria
+Alejandro Roca
+Alejo Ledesma
 Aleksandrovac
 Aleksandrovo
 Aleksandrovskoye
@@ -1072,6 +1114,7 @@ Alfta
 Alga
 Algarinejo
 Algarrobo
+Algarrobo del Águila
 Algeciras
 Alger County
 Algete
@@ -1114,6 +1157,7 @@ Alicante
 Alice Bel Colle
 Alice Castello
 Alice Springs
+Alicia
 Alicún
 Alife
 Alifuatpasa
@@ -1205,6 +1249,7 @@ Almacelles
 Almada
 Almadina
 Almadrones
+Almafuerte
 Almagreira
 Almagro
 Almaguer
@@ -1262,6 +1307,9 @@ Alosno
 Alotenango
 Alovera
 Aloxe-Corton
+Alpachiri
+Alpachiri y El Molino
+Alpa Corral
 Alpago
 Alpbach
 Alpedrete
@@ -1312,8 +1360,10 @@ Alta Floresta
 Alta Floresta d'Oeste
 Altafulla
 Altagracia
+Alta Gracia
 Altai
 Altair
+Alta Italia
 Altai Territory
 Altamira
 Altamira do Maranhão
@@ -1400,6 +1450,7 @@ Alto Biobío
 Alto Boa Vista
 Alto Caparaó
 Alto del Carmen
+Alto de los Quebrachos
 Alto do Rodrigues
 Alto Feliz
 Altofonte
@@ -1429,12 +1480,15 @@ Alto Reno Terme
 Altorf
 Alto Rio Doce
 Alto Rio Novo
+Alto Río Senguer
 Altos
 Alto Santo
+Altos de Chipión
 Altos del Rosario
 Alto Sermenza
 Alto Taquari
 Altötting District
+Alto Verde y Los Guchea
 Alt Penedès
 Altstätten
 Altstetten
@@ -1448,6 +1502,7 @@ Altwis
 Altzaga
 Alucra
 Aluksne
+Aluminé
 Alumínio
 Alupka
 Alushta
@@ -1459,11 +1514,13 @@ Alvarães
 Alvarenga
 Álvares Florence
 Álvares Machado
+Álvarez
 Álvaro de Carvalho
 Álvaro Obregón
 Alvdal
 Älvdalen
 Älvdalen Municipality
+Alvear
 Alveringem
 Alvesta District
 Alvesta Municipality
@@ -1503,6 +1560,7 @@ Amager Vest
 Amager Øst
 Amagi
 Amahlathi
+Amaicha del Valle
 Amajari
 Amajuba
 Amakusa
@@ -1557,6 +1615,7 @@ Ambalema
 Ambarès-et-Lagrave
 Ambato
 Ambatondrazaka
+Amberes
 Amberg
 Amberg in Schwaben
 Amberg-Sulzbach District
@@ -1585,6 +1644,8 @@ Ambrolauri
 Ambrolauri Municipality
 Ambronay
 Ambrose
+Ambrosetti
+Ámbul
 Ambutrix
 Amby
 Amden
@@ -1596,6 +1657,7 @@ Ameland
 Amelia
 Amelia County
 Amélia Rodrigues
+Amenábar
 Amendolara
 Amenia
 Ameno
@@ -1729,10 +1791,13 @@ Anastácio
 Anastasievskoye
 Anatoliki Makedonia - Thraki
 Anatoliki Mani
+Añatuya
 Anaurilândia
 Anawalt
+Ana Zumarán
 Ancarano
 Ancash Region
+Ancasti
 Ancey
 Anchieta
 Anchorage
@@ -1744,6 +1809,7 @@ Ancud
 Ancuyá
 Ancy-le-Franc
 Andacollo
+Andalgalá
 Andali
 Andalo
 Andalo Valtellino
@@ -1833,11 +1899,13 @@ Andújar
 Andwil
 Aneby Municipality
 Anela
+Añelo
 Anenii Noi District
 Anenska Studanka
 Anet
 Anetan District
 Anfo
+Angaco
 Angarsk
 Angath
 Angatuba
@@ -1884,6 +1952,7 @@ Angri
 Angrogna
 Ang Thong Province
 Anguera
+Anguil
 Anguillara Sabazia
 Anguillara Veneta
 Ângulo
@@ -1902,7 +1971,9 @@ Anières
 Anievas
 Anif
 Anija Parish
+Animaná
 Aninskoye
+Anisacate
 Anísio de Abreu
 Anisse
 Anita Garibaldi
@@ -2022,6 +2093,7 @@ Antisanti
 Antis Township
 Antler
 Antofagasta
+Antofagasta de la Sierra
 Antofagasta Province
 Antofagasta Region
 Antoing
@@ -2138,6 +2210,7 @@ Apodaca
 Apodi
 Apokoronas
 Apolacon Township
+Apolinario Saravia
 Apollo
 Apollosa
 A Pontenova
@@ -2145,6 +2218,7 @@ Apopa
 Apopka
 Aporá
 Aporé
+Apóstoles
 Apostolove
 Apostolove District
 Apozol
@@ -2317,6 +2391,7 @@ Araripe
 Araripina
 Araruama
 Araruna
+Arata
 Arataca
 Aratiba
 Aratoca
@@ -2485,6 +2560,7 @@ Are Parish
 Arequipa
 Arequipa Province
 Arequipa Region
+Arequito
 Ares
 Arès
 Aresches
@@ -2540,6 +2616,7 @@ Ariana
 Ariana Governorate
 Ariano Irpino
 Ariano nel Polesine
+Arias
 Arica
 Aricagua
 Aricanduva
@@ -2572,6 +2649,7 @@ Arish
 Arismendi
 Aristau
 Arístides Bastidas
+Aristóbulo del Valle
 Aristotelis
 Arita
 Aritzo
@@ -2664,6 +2742,7 @@ Arnstadt
 Arnuero
 Aroab
 Aroazes
+Arocena
 Aroche
 Aroeiras
 Aroeiras do Itaim
@@ -2693,6 +2772,7 @@ Arquian
 Arquillos
 Arraba
 Arradon
+Árraga
 Arraial
 Arraial do Cabo
 Arraia-Maeztu
@@ -2743,15 +2823,26 @@ Arrone
 Arronnes
 Arrowsic
 Arrowtown
+Arroyito
 Arroyo
+Arroyo Algodón
+Arroyo Barú
+Arroyo Cabral
+Arroyo Ceibal
+Arroyo Corralito
+Arroyo del Medio
 Arroyo del Ojanco
+Arroyo de Los Patos
 Arroyo de San Serván
 Arroyo Hondo
+Arroyo Leyes
 Arroyomolinos
 Arroyomolinos de León
 Arroyo Naranjo
+Arroyo Seco
 Arrúbal
 Arruda dos Vinhos
+Arrufó
 Arsago Seprio
 Arsèguel
 Arsenev
@@ -3009,12 +3100,15 @@ Atabapo
 Atabey
 Atacama Region
 Ataco
+Atahona
 Atakum
 Atalaia
 Atalaia do Norte
 Atalanta
 Atalaya
 Ataléia
+Ataliva
+Ataliva Roca
 Atamanskoye
 Atami
 Atascosa County
@@ -3312,6 +3406,7 @@ Aveyron
 Avezzano
 Avià
 Aviano
+Avia Terai
 Aviatico
 Avigliana
 Avigliano
@@ -3421,6 +3516,7 @@ Aywaille
 Azacualpa
 Azad Kashmir
 Azambuja
+Azara
 Azaryčy
 Azay-le-Ferron
 Azay-le-Rideau
@@ -3444,6 +3540,7 @@ Azua de Compostela
 Azuaga
 Azua Province
 Azuay Province
+Azul
 Azumino
 Azuqueca de Henares
 Azurém
@@ -3650,6 +3747,7 @@ Bagovskoye
 Bagrationovsk
 Bagrationovsky District
 Bagre
+Bagual
 Báguanos
 Baguer-Morvan
 Baguer-Pican
@@ -3715,6 +3813,7 @@ Baixo Guandu
 Baix Penedès
 Baja California
 Baja California Sur
+Bajada del Agrio
 Baja District
 Bajardo
 Baja Verapaz Department
@@ -3778,6 +3877,7 @@ Balbieriškis
 Balbinos
 Balboa
 Balbronn
+Balcarce
 Balchik
 Balclutha
 Balcova
@@ -3836,6 +3936,8 @@ Ballard County
 Ballens
 Ballersdorf
 Ballerup
+Ballesteros
+Ballesteros Sud
 Balleza
 Ball Ground
 Ballina
@@ -3853,6 +3955,7 @@ Balm bei Günsberg
 Balme
 Balmoral
 Balmuccia
+Balnearia
 Balneário Arroio do Silva
 Balneário Barra do Sul
 Balneário Camboriú
@@ -3903,6 +4006,7 @@ Bamyan Province
 Banaba Island
 Banabuiu
 Banacko Karadjordjevo
+Bañado de Soto
 Banámichi
 Banana
 Bananal
@@ -3911,6 +4015,7 @@ Banari
 Banaz
 Banchette
 Bancroft
+Banda del Río Salí
 Bandai
 Bandar Abbas
 Bandar Anzali
@@ -3920,6 +4025,8 @@ Bandeirante
 Bandeirantes
 Bandeirantes do Tocantins
 Bandeiras
+Bandera
+Bandera Bajada
 Bandera County
 Bandera de Navatalgordo
 Banderalena
@@ -3994,6 +4101,7 @@ Barabashkoye
 Barabinsk
 Barabinsky District
 Baracoa
+Baradero
 Baradili
 Baraga County
 Baragiano
@@ -4201,6 +4309,7 @@ Barranca de Upía
 Barrancas
 Barranco de Loba
 Barrancos
+Barranqueras
 Barranquilla
 Barranquitas
 Barras
@@ -4300,10 +4409,12 @@ Barzhong
 Barzio
 Barzy-en-Thiérache
 Basadingen-Schlattingen
+Basail
 Basaksehir
 Basaluzzo
 Basarabeasca District
 Basauri
+Basavilbaso
 Bascapè
 Bàscara
 Bas-Caraquet
@@ -4385,6 +4496,7 @@ Batangas
 Batangas City
 Batang Regency
 Batatais
+Batavia
 Batavia (city)
 Batavia (town)
 Batayporã
@@ -4447,6 +4559,7 @@ Bauchi State
 Baucina
 Baud
 Bauen
+Bauer y Sigel
 Baugy
 Bauladu
 Baulay
@@ -4616,6 +4729,7 @@ Beaver Meadows
 Beaver River
 Beavertown
 Beaver Township
+Beazley
 Bebedouro
 Bebelnheim
 Beberibe
@@ -4851,10 +4965,12 @@ Bellach
 Bell Acres
 Bellagio
 Bellaguarda
+Bella Italia
 Bellano
 Bellante
 Bellaria-Igea
 Bella Unión
+Bella Vista
 Bellburns
 Bell County
 Belle
@@ -4922,6 +5038,7 @@ Bellusco
 Bellvei
 Bellver de Cerdanya
 Bellville
+Bell Ville
 Bellwald
 Bellwood
 Belmar
@@ -5060,6 +5177,7 @@ Benfica
 Bengaluru
 Benghazi
 Bengkulu
+Bengolea
 Bengough
 Bengtsfors Municipality
 Benguet
@@ -5080,6 +5198,7 @@ Benito Juárez
 Benizalón
 Benjamin Constant
 Benjamin Constant do Sul
+Benjamín Gould
 Benjamín Hill
 Benken
 Benkovac
@@ -5130,6 +5249,7 @@ Berango
 Berastegi
 Berat
 Berat County
+Beravebú
 Berazategui
 Berazategui Department
 Berbenno
@@ -5263,7 +5383,9 @@ Bernalda
 Bernalillo County
 Bernardino Batista
 Bernardino de Campos
+Bernardo de Irigoyen
 Bernardo do Mearim
+Bernardo Larroudé
 Bernardo Sayão
 Bernardov
 Bernardston
@@ -5274,6 +5396,7 @@ Bernardville
 Bernareggio
 Bernartice
 Bernartice nad Odrou
+Bernasconi
 Bernate Ticino
 Berndorf
 Berndorf bei Salzburg
@@ -5297,6 +5420,7 @@ Bernville
 Bernwiller
 Berolle
 Beromünster
+Berón de Astrada
 Beroun
 Beroun District
 Berovo
@@ -5314,6 +5438,7 @@ Berriz
 Berrobi
 Berrocal
 Berrocalejo
+Berrotarán
 Berrwiller
 Berry-au-Bac
 Berry Islands
@@ -5575,6 +5700,7 @@ Biala Podlaska commune
 Biala Podlaska County
 Biala Rawska commune
 Biale Blota commune
+Bialet Massé
 Bialobrzegi commune
 Bialobrzegi County
 Bialogard
@@ -5685,6 +5811,7 @@ Biezwil
 Bifuka
 Biga
 Bigadic
+Bigand
 Biganos
 Big Arm
 Big Beaver
@@ -6473,6 +6600,7 @@ Bolzano Vicentino
 Boma
 Bomarzo
 Bomba
+Bombal
 Bombarral
 Bombay
 Bombinhas
@@ -6582,6 +6710,7 @@ Bonnyville Municipal District
 Bono
 Bonópolis
 Bonorva
+Bonpland
 Bons-en-Chablais
 Bonstetten
 Bontebok
@@ -6922,6 +7051,7 @@ Bound Brook
 Bounkani Region
 Bounty Islands
 Bouqueirão do Piauí
+Bouquet
 Bourail
 Bourbach-le-Bas
 Bourbach-le-Haut
@@ -6991,6 +7121,7 @@ Bovino
 Bovisio Masciago
 Bovolenta
 Bovolone
+Bovril
 Bow
 Bowden
 Bowdoin
@@ -7488,6 +7619,7 @@ Brindas
 Brindisi
 Brindisi Montagna
 Brinje
+Brinkmann
 Brinkovskoye
 Brinon-sur-Beuvron
 Brinon-sur-Sauldre
@@ -7828,6 +7960,7 @@ Buchach District
 Buch am Irchel
 Buchanan
 Buchanan County
+Buchardo
 Buchbach
 Buchberg
 Buchegg
@@ -7891,6 +8024,7 @@ Budzow commune
 Bueil-en-Touraine
 Buellas
 Buena
+Buena Esperanza
 Buenaventura
 Buenavista
 Buena Vista
@@ -7903,6 +8037,7 @@ Bueno Brandão
 Buenópolis
 Buenos Aires
 Buenos Aires Province
+Buen Pasto
 Buerarema
 Buerschent
 Buesaco
@@ -8138,6 +8273,7 @@ Büron
 Buronzo
 Burrell Township
 Burrillville
+Burruyacú
 Bürs
 Bursa
 Bursa Province
@@ -8210,10 +8346,12 @@ Bustarviejo
 Bustehrad
 Busti
 Bustillo de la Vega
+Bustinza
 Busto Arsizio
 Busto Garolfo
 Busturia
 Buswiller
+Buta Ranquil
 Bute
 Butel
 Bûtenpost
@@ -8332,10 +8470,12 @@ Caaporã
 Caarapó
 Caaschwitz
 Caatiba
+Caá Yarí
 Caazapá Department
 Cabaceiras
 Cabaceiras do Paraguaçu
 Cabaiguán
+Cabalango
 Caballito
 Cabanabona
 Cabañas
@@ -8405,6 +8545,7 @@ Cáceres
 Cachan
 Cachapoal Province
 Cache County
+Cachi
 Cachipay
 Cáchira
 Cachoeira
@@ -8432,6 +8573,7 @@ Cacimbas
 Cacimbinhas
 Cacín
 Čačinci
+Cacique Ariacaiquín
 Cacique Doble
 Cacique Manuare
 Cacoal
@@ -8478,9 +8620,11 @@ Caetés
 Caetite
 Cafarnaum
 Cafasse
+Cafayate
 Cafeara
 Cafelândia
 Cafezal do Sul
+Cafferata
 Caga
 Cagayán
 Cagayan de Oro
@@ -8514,6 +8658,7 @@ Caicedonia
 Caicó
 Caieiras
 Cailloux-sur-Fontaines
+Caimancito
 Caimanera
 Caimito
 Caines
@@ -8601,6 +8746,9 @@ Calçado
 Calcasieu Parish
 Calcata
 Calceranica al Lago
+Calchaquí
+Calchín
+Calchín Oeste
 Calci
 Calciano
 Calcinaia
@@ -8650,6 +8798,7 @@ Calera
 Calera de Tango
 Calestano
 Caleta Olivia
+Caleufú
 Calgary
 Calheta
 Calheta de Nesquim
@@ -8665,8 +8814,10 @@ Calice Ligure
 Califon
 California
 Califórnia
+Calilegua
 Calimera
 Calimete
+Calingasta
 Calistoga
 Calitri
 Calixto García
@@ -8825,6 +8976,7 @@ Camiguin
 Camilla
 Camillus (town)
 Camillus (village)
+Camilo Aldao
 Camiña
 Caminha
 Camini
@@ -8955,6 +9107,7 @@ Campo Formoso
 Campofranco
 Campofrío
 Campogalliano
+Campo Gallo
 Campo Grande
 Campo Grande do Piauí
 Campohermoso
@@ -8984,7 +9137,9 @@ Campo Novo
 Campo Novo de Parecis
 Campo Novo de Rondônia
 Campoo de Yuso
+Campo Quijano
 Campora
+Campo Ramón
 Campo Real
 Camporeale
 Campo Redondo
@@ -8998,6 +9153,7 @@ Camposampiero
 Campo San Martino
 Camposano
 Camposanto
+Campo Santo
 Campos Belos
 Campos Borges
 Campos de Júlio
@@ -9014,6 +9170,7 @@ Campotéjar
 Campotosto
 Campo Tures
 Campo Verde
+Campo Viera
 Campton
 Camrose
 Camrose County
@@ -9029,6 +9186,12 @@ Canaan
 Canaan Township
 Canabrava do Norte
 Canada Bay
+Cañada de Gómez
+Cañada del Ucle
+Cañada de Luque
+Cañada Escobar
+Cañada Rica
+Cañada Rosquín
 Cañadas de Obregón
 Canadian County
 Canadice
@@ -9042,6 +9205,7 @@ Canale
 Canale d'Agordo
 Canale Monterano
 Canalete
+Canals
 Canal San Bovo
 Canal Township
 Cañamero
@@ -9083,6 +9247,7 @@ Candelaria
 Candelária
 Candelaria de la Frontera
 Candelaria La Frontera
+Candelaria Sud
 Candeleda
 Candelo
 Candes-Saint-Martin
@@ -9377,6 +9542,7 @@ Capão do Cipó
 Capão do Leão
 Caparaó
 Caparrapí
+Capayán
 Capbreton
 Capdepera
 Cape Agulhas
@@ -9415,21 +9581,30 @@ Cape Winelands
 Capiago Intimiano
 Capiatá
 Capileira
+Capilla del Carmen
+Capilla del Monte
+Capilla de los Remedios
+Capilla de Sitón
 Capim
 Capim Branco
 Capim Grosso
 Capinópolis
 Capinzal
 Capinzal do Norte
+Capioví
 Capira
 Capistrano
 Capistrello
+Capital
 Capitale-Nationale
 Capital Governorate
 Capital Regional District
 Capitán Arturo Prat Base
+Capitán Bermúdez
 Capitanejo
+Capitán General Bernardo O'Higgins
 Capitán Prat Province
+Capitán Sarmiento
 Capitão
 Capitão Andrade
 Capitão de Campos
@@ -9513,6 +9688,7 @@ Caraffa del Bianco
 Caraffa di Catanzaro
 Caraglio
 Caraguatatuba
+Caraguatay
 Carahue
 Caraí
 Caraíbas
@@ -9568,6 +9744,7 @@ Carbonera
 Carbonia
 Carbonita
 Carbon Township
+Carcarañá
 Carcare
 Carcasí
 Carceri
@@ -9662,6 +9839,8 @@ Carlos Casares Department
 Carlos Chagas
 Carlos Gomes
 Carlos Manuel de Céspedes
+Carlos Pellegrini
+Carlos Tejedor
 Carlstadt
 Carlton
 Carlton County
@@ -9672,10 +9851,12 @@ Carmanville
 Carmarthenshire
 Carmel
 Carmelo
+Carmen
 Carmen de Apicalá
 Carmen de Areco
 Carmen de Areco Department
 Carmen de Carupa
+Carmen del Sauce
 Carmen de Patagones
 Carmésia
 Carmiano
@@ -9707,6 +9888,7 @@ Carnaubeira da Penha
 Čarnaŭčycy
 Carnegie
 Carneirinho
+Carnerillo
 Carnesville
 Carneys Point Township
 Carnide
@@ -9752,6 +9934,7 @@ Carpineto Romano
 Carpineto Sinello
 Carpino
 Carpinone
+Carpintería
 Carrabassett Valley
 Carrabelle
 Carrancas
@@ -9764,10 +9947,14 @@ Carrboro
 Carrè
 Carregal do Sal
 Carrega Ligure
+Carren-Leufú
 Carreño
+Carreras
 Carrillo
+Carrilobo
 Carrión de los Condes
 Carrizal
+Carrizales
 Carro
 Carrodano
 Carroll
@@ -9776,6 +9963,7 @@ Carrollton
 Carrolltown
 Carroll Township
 Carroll Valley
+Carro Quemado
 Carrosio
 Carrù
 Carsamba
@@ -9945,6 +10133,7 @@ Caselle Landi
 Caselle Lurani
 Caselle Torinese
 Case-Pilote
+Caseros
 Caserres
 Caserta
 Casey
@@ -9953,6 +10142,7 @@ Casey Key Island
 Cashmere
 Casier
 Casignana
+Casilda
 Casillas
 Casimiro Castillo
 Casimiro de Abreu
@@ -10046,6 +10236,7 @@ Castejón
 Castejón de las Armas
 Castel
 Castelândia
+Castelar
 Castelbaldo
 Castel Baronia
 Castelbelforte
@@ -10119,6 +10310,7 @@ Castellana Grotte
 Castellana Sicula
 Castellaneta
 Castellania
+Castellanos
 Castellanza
 Castellar
 Castellarano
@@ -10339,6 +10531,7 @@ Castrillo de Villavega
 Castrillón
 Castro
 Castro Alves
+Castro Barros
 Castro Caldelas
 Castrocaro Terme e Terra del Sole
 Castrocielo
@@ -10413,6 +10606,8 @@ Catolândia
 Catolé do Rocha
 Caton
 Catoosa County
+Catriel
+Catriló
 Catron County
 Catskill (town)
 Catskill (village)
@@ -10432,6 +10627,7 @@ Catuti
 Cauca Department
 Caucaia
 Caucasia
+Caucete
 Caudan
 Caulaincourt
 Caulnes
@@ -10460,6 +10656,7 @@ Cavallirio
 Cavally Region
 Cava Manara
 Cavan
+Cavanagh
 Cavareno
 Cavargna
 Cavaria con Premezzo
@@ -10478,6 +10675,7 @@ Cavendish
 Cavernago
 Cave Spring
 Cavezzo
+Caviahue-Copahue
 Cavignac
 Cavisov
 Cavite
@@ -10496,6 +10694,8 @@ Caxias
 Caxias do Sul
 Caxingó
 Cay
+Cayastá
+Cayastacito
 Caybasi
 Cayce
 Caycuma
@@ -10528,6 +10728,7 @@ Cazzano Sant'Andrea
 Čađavica
 Ceará
 Ceará-Mirim
+Ceballos
 Cébazat
 Cebin
 Cebiv
@@ -10582,6 +10783,7 @@ Cehegín
 Cehnice
 Cehovice
 Ceiba
+Ceibas
 Ceilândia
 Ceilloux
 Ceira
@@ -10664,6 +10866,7 @@ Centenario
 Centenário
 Centenário do Sul
 Centennial
+Centeno
 Center Harbor
 Center Hill
 Centerport
@@ -10856,6 +11059,7 @@ Cerreto Guidi
 Cerreto Laziale
 Cerreto Sannita
 Cerretto Langhe
+Cerrillos
 Cerrina
 Cerrione
 Cerrito
@@ -10865,6 +11069,8 @@ Cerro al Lambro
 Cerro al Volturno
 Cerro Azul
 Cerro Branco
+Cerro Centinela
+Cerro Colorado
 Cerro Corá
 Cerro de Pasco
 Cerro de San Antonio
@@ -10884,6 +11090,7 @@ Certaldo
 Cértegui
 Certosa di Pavia
 Cerva
+Cervantes
 Cervara di Roma
 Cervarese Santa Croce
 Cervaro
@@ -11013,11 +11220,13 @@ Cezarina
 Cézy
 Chaam
 Chabarovice
+Chabás
 Chaberice
 Chabeuil
 Chablis
 Châbons
 Chabris
+Chacabuco
 Chacabuco Province
 Chacao
 Chácara
@@ -11025,6 +11234,7 @@ Chacarita
 Chachagüí
 Chachapoyas
 Chachapoyas Province
+Chacharramendi
 Chachoengsao Province
 Chaco Province
 Chadbourn
@@ -11052,7 +11262,10 @@ Chaingy
 Chaintré
 Chaitén
 Chaiyaphum Province
+Chaján
+Chajarí
 Chajul
+Chalacea
 Chalain-d'Uzore
 Chalain-le-Comtal
 Chalais
@@ -11115,6 +11328,7 @@ Cham District
 Chamé
 Chamesson
 Chámeza
+Chamical
 Chamilly
 Chamlykskaya
 Chamois
@@ -11168,8 +11382,10 @@ Chamusca
 Chanaleilles
 Chañaral
 Chañaral Province
+Chañar Ladeado
 Chanat-la-Mouteyre
 Chanay
+Chancaní
 Chançay
 Chance
 Chanceford Township
@@ -11239,8 +11455,12 @@ Chã Preta
 Chaptelat
 Chaptuzat
 Chapulhuacán
+Chapuy
+Charadai
 Charalá
 Charantonnay
+Charata
+Charbonier
 Charbonnières-les-Vieilles
 Charbuy
 Charcas
@@ -11300,6 +11520,7 @@ Charpey
 Charqueada
 Charqueadas
 Charquemont
+Charras
 Charrat
 Charrecey
 Charrey-sur-Seine
@@ -11319,6 +11540,7 @@ Charvensod
 Charvieu-Chavagneux
 Charvonnex
 Chas
+Chascomús
 Chase City
 Chase County
 Chasiv Yar
@@ -11471,6 +11693,7 @@ Chavannes-sur-l'Etang
 Chavannes-sur-Moudon
 Chavanoz
 Chavantes
+Chavarría
 Chaves
 Chaves County
 Chavignon
@@ -11482,6 +11705,7 @@ Chazelles-sur-Lavieu
 Chazelles-sur-Lyon
 Chazey-sur-Ain
 Chazilly
+Chazón
 Chazy
 Chbany
 Cheatham County
@@ -11750,12 +11974,14 @@ Chichester
 Chichibu
 Chichicastenango
 Chichigalpa
+Chichinales
 Chickamauga
 Chickasaw County
 Chickasaw Nation
 Chiclana de la Frontera
 Chiclayo
 Chiclayo Province
+Chicoana
 Chiconi
 Chicopee
 Chicora
@@ -11791,12 +12017,15 @@ Chikusei
 Chikushino
 Chikuzen
 Chilanga
+Chilca Juliana
 Chilcuautla
 Childress County
 Chilean Antarctic Territory
 Chile Chico
+Chilecito
 Chilhowie
 Chili
+Chilibroste
 Chillán
 Chillán Viejo
 Chilleurs-aux-Bois
@@ -11814,6 +12043,7 @@ Chimaltitán
 Chimán
 Chimay
 Chimbarongo
+Chimbas
 Chimborazo Province
 Chimbote
 Chimbu Province
@@ -11821,6 +12051,7 @@ Chimeneas
 Chimichagua
 Chimilin
 Chimney Rock
+Chimpay
 China
 Chinacla
 Chinácota
@@ -11968,6 +12199,7 @@ Chodovlice
 Chodska Lhota
 Chodsky Ujezd
 Chodziez County
+Choele Choel
 Chofu
 Choiseul Province
 Choisey
@@ -11984,6 +12216,7 @@ Chokhorling
 Chokurdakh
 Cholchol
 Cholenice
+Cholila
 Cholina
 Choloma
 Choltice
@@ -12010,6 +12243,7 @@ Chornomorsk
 Chornomorske District
 Chornukhy District
 Choró
+Chorotis
 Chorozinho
 Chorrochó
 Chortkiv
@@ -12020,6 +12254,7 @@ Chorzele commune
 Chorzow
 Chosei
 Chosi
+Chos Malal
 Choszczno commune
 Choszczno County
 Chotanky
@@ -12049,7 +12284,9 @@ Choussy
 Choustnikovo Hradiste
 Chouteau County
 Chouvigny
+Chovet
 Chowan County
+Choya
 Choye
 Choysky District
 Chraberce
@@ -12089,6 +12326,7 @@ Chuarrancho
 Chubut Province
 Chucena
 Chuchelna
+Chucul
 Chudcice
 Chudenice
 Chudenin
@@ -12111,6 +12349,7 @@ Chulman
 Chulucanas
 Chulymsky District
 Chumphon Province
+Chuña
 Chungcheongbuk Province
 Chungcheongnam Province
 Chuo
@@ -12199,6 +12438,7 @@ Ciego de Ávila Province
 Ciel
 Ciempozuelos
 Ciénaga
+Ciénaga del Coro
 Ciénaga de Oro
 Ciénaga de Zapata
 Ciénega
@@ -12208,6 +12448,7 @@ Cienfuegos Province
 Ciepielow commune
 Cieplowody commune
 Cierges
+Ciervo Petiso
 Cieszkow commune
 Cieszyn County
 Ciez
@@ -12258,6 +12499,7 @@ Cincinnatus
 Cinco Bayou
 Cinco Pinos
 Cinco Ribeiras
+Cinco Saltos
 Cine
 Cineto Romano
 Ciney
@@ -12276,6 +12518,7 @@ Cintano
 Cinte Tesino
 Cinto Caomaggiore
 Cinto Euganeo
+Cintra
 Cintre
 Cinzano
 Ciorlano
@@ -12382,18 +12625,22 @@ City of Johannesburg
 City of London
 City of Sevastopol
 City of Tshwane
+Ciudacita
 Ciudad Antigua
 Ciudad Arce
 Ciudad Barrios
 Ciudad Bolívar
 Ciudad Constitución
 Ciudad Darío
+Ciudad de Frias
 Ciudad de la Costa
 Ciudad del Este
 Ciudad Delgado
 Ciudad del Maíz
 Ciudad del Plata
 Ciudad de México
+Ciudad de Todos los Santos de la Nueva Rioja
+Ciudad de Yerba Buena
 Ciudad Dolores
 Ciudad Fernandez
 Ciudad Juárez
@@ -12501,6 +12748,7 @@ Clark Township
 Clarkville
 Clarmont
 Claro dos Poções
+Clason
 Clastres
 Clatsop County
 Cláudia
@@ -12603,6 +12851,7 @@ Clohars-Fouesnant
 Clonas-sur-Varèze
 Cloncurry
 Cloppenburg District
+Clorinda
 Clos du Doubs
 Closter
 Cloud County
@@ -12762,8 +13011,11 @@ Cokeburg
 Coke County
 Colac Bay
 Colac Otway
+Colalao del Valle
+Colan Conhue
 Colares
 Colatina
+Colazo
 Colazza
 Colbert
 Colbert County
@@ -12913,16 +13165,69 @@ Colomoncagua
 Colón
 Colón Department
 Colón-Génova
+Colonia Alberdi
+Colonia Aldao
+Colonia Almada
+Colonia Alpina
+Colonia Angeloni
+Colonia Anita
+Colonia Aurora
+Colonia Avellaneda
+Colonia Avigdor
+Colonia Ayuí
+Colonia Barón
+Colonia Belgrano
+Colonia Benítez
+Colonia Bismarck
+Colonia Bossi
+Colonia Bremen
+Colonia Carlos Pellegrini
+Colonia Carolina
+Colonia Caroya
+Colonia Crespo
+Colonia Delicia
 Colonia Department
 Colônia do Gurguéia
 Colônia do Piauí
+Colonia Dora
+Colonia Dos Rosas y La Legua
+Colonia Durán
+Colonia Elía
+Colonia Elisa
+Colonia El Simbolar
+Colonia General Roca
+Colonia Italiana
+Colonia Iturraspe
 Colonia Lavalleja
 Colonial Beach
 Colônia Leopoldina
 Colonial Heights
 Colonial Hills
+Colonia Libertad
+Colonia Liebig
+Colonia Marina
 Colonia Nicolich
+Colonia Pando
+Colonia Pastoril
+Colonia Polana
+Colonia Popular
+Colonia Prosperidad
+Colonia Raquel
+Colonia San Bartolomé
+Colonia San José
+Colonia Santa María
+Colonia Santa Rosa
+Colonia Silva
+Colonias Unidas
+Colonia Tabay
+Colonia Tatacuá
+Colonia Tirolesa
 Colonia Valdense
+Colonia Valtelina
+Colonia Vicente Agüero
+Colonia Victoria
+Colonia Vignaud
+Colonia Wanda
 Colonie (town)
 Colonie (village)
 Colonna
@@ -12973,9 +13278,13 @@ Coma i la Pedra
 Comala
 Comalapa
 Comal County
+Comallo
 Comalpa
 Comanche County
 Comanche Nation
+Comandante Andresito
+Comandante Fontana
+Comandante Luis Piedrabuena
 Comano
 Comano Terme
 Comapa
@@ -13030,6 +13339,7 @@ Commugny
 Communay
 Como
 Comodoro
+Comodoro Rivadavia
 Comoé District
 Comondú
 Comonfort
@@ -13051,6 +13361,7 @@ Conca de Barberà
 Conca dei Marini
 Conca della Campania
 Concamarise
+Concarán
 Concarneau
 Conceição
 Conceição da Aparecida
@@ -13077,10 +13388,13 @@ Concepción Batres
 Concepción Chiquirichapa
 Concepción de Ataco
 Concepción de Buenos Aires
+Concepción de la Sierra
 Concepción de La Vega
+Concepción del Bermejo
 Concepción del Norte
 Concepción del Oro
 Concepción del Sur
+Concepción del Uruguay
 Concepción de María
 Concepción de Oriente
 Concepción Department
@@ -13167,6 +13481,7 @@ Congonhas
 Congonhas do Norte
 Congonhinhas
 Conguaco
+Conhello
 Conil de la Frontera
 Coniolo
 Conklin
@@ -13190,6 +13505,7 @@ Conquista
 Conquista d'Oeste
 Conquista de la Sierra
 Consaca
+Conscripto Bernardi
 Conselheiro Lafaiete
 Conselheiro Mairinck
 Conselheiro Pena
@@ -13225,6 +13541,7 @@ Contigliano
 Continvoir
 Contra Costa County
 Contrada
+Contralmirante Cordero
 Contramaestre
 Contratación
 Contréglise
@@ -13340,6 +13657,7 @@ Corcelles-près-Concise
 Corcelles-près-Payerne
 Corchiano
 Corciano
+Corcovado
 Cordeiro
 Cordeirópolis
 Cordeiros
@@ -13451,24 +13769,35 @@ Coroatá
 Coromandel
 Coromoro
 Coronado
+Coronda
+Coronel Arnold
+Coronel Baigorria
 Coronel Barros
+Coronel Belisle
 Coronel Bicaco
+Coronel Bogado
+Coronel de Marina Leonardo Rosales
 Coronel Domingos Soares
 Coronel Dorrego
 Coronel Dorrego Department
+Coronel Du Graty
 Coronel Ezequiel
 Coronel Fabriciano
+Coronel Felipe Varela
 Coronel Freitas
+Coronel Hilario Lagos
 Coronel João Pessoa
 Coronel João Sá
 Coronel José Dias
 Coronel Macedo
 Coronel Martins
+Coronel Moldes
 Coronel Murta
 Coronel Oviedo
 Coronel Pacheco
 Coronel Pilar
 Coronel Portillo Province
+Coronel Rodolfo S. Domínguez
 Coronel Sapucaia
 Coronel Suárez
 Coronel Suárez Department
@@ -13484,10 +13813,13 @@ Corps-Nuds
 Corpus Christi
 Corquín
 Corral
+Corral de Bustos
 Corrales
 Corralillo
+Corralito
 Corravillers
 Corre
+Correa
 Corredores
 Correggio
 Córrego Danta
@@ -13503,6 +13835,7 @@ Corrèze
 Correzzana
 Corrido
 Corridonia
+Corrientes
 Corrientes Province
 Corrigin
 Corropoli
@@ -13574,6 +13907,7 @@ Corvo
 Corydon Township
 Coryell County
 Corzano
+Corzuela
 Cosalá
 Coseano
 Cosenza
@@ -13587,6 +13921,7 @@ Cosmorama
 Cosne-Cours-sur-Loire
 Cosne-d'Allier
 Cosoleto
+Cosquín
 Cossano Belbo
 Cossano Canavese
 Cossato
@@ -13609,6 +13944,7 @@ Costa Mesa
 Costanzana
 Costarainera
 Costa Rica
+Costa Sacate
 Costa Serina
 Costa Valle Imagna
 Costa Vescovato
@@ -14038,6 +14374,8 @@ Cruzália
 Cruz Alta
 Cruzaltense
 Cruz das Almas
+Cruz del Eje
+Cruz de los Milagros
 Cruz do Espírito Santo
 Cruzeiro
 Cruzeiro da Fortaleza
@@ -14071,6 +14409,7 @@ Cuarnens
 Cuarny
 Cuaspud-Carlosama
 Cuasso al Monte
+Cuatro Bocas
 Cuatrociénegas
 Cuauhtémoc
 Cuautepec de Hinojosa
@@ -14097,6 +14436,7 @@ Cuccaro Vetere
 Cucciago
 Cuceglio
 Čučer-Sandevo
+Cuchillo-Có
 Cucice
 Cucunubá
 Cucurpe
@@ -14111,6 +14451,7 @@ Cue
 Cuenca
 Cuencamé
 Cuerámaro
+Cuesta Blanca
 Cueto
 Cuevas del Campo
 Cuevas del Valle
@@ -14152,6 +14493,7 @@ Culoz
 Culpeper
 Culpeper County
 Cult
+Cululú
 Culver City
 Culverden
 Cumaná
@@ -14276,6 +14618,7 @@ Cuscatlán Department
 Cusco
 Cusco Province
 Cusco Region
+Cushamen
 Cushing
 Cusihuiriachi
 Cusinahuat
@@ -14390,6 +14733,7 @@ Daiano
 Daigo
 Daillens
 Dairago
+Daireaux
 Dairy Flat
 Daisen
 Daisy
@@ -14434,6 +14778,7 @@ Dallastown
 Dallas Township
 Dallenwil
 Dällikon
+Dalmacio Vélez Sarsfield
 Dalmatovo
 Dalmine
 Dalnegorsk
@@ -14463,6 +14808,7 @@ Dambenoît-lès-Colombe
 Damborice
 Dâmbovița County
 Damgan
+Damián Maisonnave
 Damianópolis
 Damião
 Dammam
@@ -14651,6 +14997,7 @@ Dazio
 Dazkiri
 Deaf Smith County
 Deal
+Deán Funes
 Dean Township
 Dearborn County
 Dearing
@@ -14770,6 +15117,7 @@ Delaware Water Gap
 Delbarton
 Delbrück
 Delburne
+Del Campillo
 Delčevo
 Delebio
 Deleitosa
@@ -14778,6 +15126,7 @@ Delémont
 Delémont District
 Delevan
 Delfim Moreira
+Delfín Gallo
 Delfinópolis
 Delfshaven
 Delft
@@ -14957,6 +15306,7 @@ De Soto
 DeSoto County
 DeSoto Parish
 Desov
+Despeñaderos
 Des Plaines
 Despotovac
 Dessau-Roßlau
@@ -14972,6 +15322,7 @@ Destne v Orlickych horach
 Destnice
 Destrnik
 Desulo
+Desvío Arijón
 Desyonovskoye
 Deszczno commune
 De Tike
@@ -15012,6 +15363,7 @@ Devon
 Devonport
 Devonport-Takapuna Local Board
 Devonshire Parish
+Devoto
 Devrek
 Dewathang
 De Westereen
@@ -15051,6 +15403,7 @@ Diano Marina
 Dianópolis
 Diano San Pietro
 Dias d'Ávila
+Díaz
 Dibër County
 Dibulla
 Dickens County
@@ -15080,7 +15433,9 @@ Dieffenthal
 Dieffmatten
 Diego Bautista Urbaneja
 Diego de Almagro
+Diego de Alvear
 Diego del Carpio
+Diego de Rojas
 Diego Garcia
 Diego Ibarra
 Diego Martin Region
@@ -15161,6 +15516,7 @@ Dimmit County
 Dimock Township
 Dimona
 Dinagat Islands
+Dina Huapi
 Dinami
 Dinan
 Dinant
@@ -15197,6 +15553,8 @@ Dipilto
 Dipolog
 Dippech
 Dipton
+Diputado Natalio Ricardone
+Dique F. Ameghino
 Dirce Reis
 Dirceu Arcoverde
 Dire Dawa
@@ -15352,6 +15710,7 @@ Dobersberg
 Dobev
 Dobiegniew commune
 Dobje
+Doblas
 Döbling District
 Dobl-Zwaring
 Doboj city
@@ -15420,6 +15779,7 @@ Doctor Arroyo
 Doctor Coss
 Doctor González
 Doctor Mora
+Doctor Ricardo Rojas
 Doddridge County
 Döderhult District
 Dodewaard
@@ -15465,6 +15825,7 @@ Dolany
 Doľany
 Dolany nad Vltavou
 Dólar
+Dolavon
 Dolce
 Dolcè
 Dolceacqua
@@ -15731,6 +16092,7 @@ Dörflingen
 Dorfstetten
 Dorgali
 Dorida
+Dorila
 Dorio
 Dorlisheim
 Dormagen
@@ -15762,6 +16124,8 @@ Dortmund
 Dortyol
 Dorval
 Dorzano
+Dos Arroyos
+Dos de Mayo
 Dosemealti
 Doshi
 Dosolo
@@ -16641,6 +17005,7 @@ Edolo
 Edo State
 Edremit
 Edson
+Eduardo Castex
 eDumbe
 Edward River
 Edwards
@@ -16713,6 +17078,7 @@ Egremont
 Egstedt
 Eguenigue
 Eguisheim
+Egusquiza
 Éguzon-Chantôme
 Ehenbichl
 Ehime Prefecture
@@ -16784,12 +17150,17 @@ Ekurhuleni
 El'ad
 El Adelanto
 Elafonisos
+El Agarrobal
 El Aguila
+El Aguilar
 El Ain
 El Álamo
+El Alcázar
 El Almendro
 El Alto
 El Alyobeya Governorate
+El Arañado
+El Arazá
 El Arenal
 El Asintal
 Elassona
@@ -16817,8 +17188,12 @@ Elbigenalp
 Elblag
 Elblag County
 El Boalo
+El Bobadal
 El Bohodón
+El Bolsón
+El Bordo
 El Bosque
+El Brete
 Elbridge (town)
 Elbridge (village)
 El Brull
@@ -16836,6 +17211,7 @@ El Carmen del Atrato
 El Carmen del Darién
 El Carmen de Viboral
 El Carpio
+El Carril
 El Carrizal
 El Castillo
 El Catllar
@@ -16844,17 +17220,22 @@ El Cerrito
 El Cerro de Andévalo
 El Chal
 El Chaltén
+El Chañar
 El Charco
 Elche
+El Cholar
+El Chorro
 Elciego
 Elco
 El Cocuy
 El Cogul
 El Colegio
+El Colorado
 El Congo
 El Copey
 El Coral
 El Corpus
+El Crispín
 El Crucero
 El Cuá
 El Dakahlia Governorate
@@ -16887,6 +17268,7 @@ El Escorial
 El Eskenderiya Governorate
 Eleskirt
 El Espinal
+El Espinillo
 El Espino
 El Estor
 Elets
@@ -16895,11 +17277,13 @@ El Factor
 El Fayyūm Governorate
 El Figueró i Montmany
 Elfingen
+El Fortín
 El Franco
 El Frasno
 El Fresno
 Elfros
 El Fuerte
+El Galpón
 Elgersburg
 Elgeta
 Elgeyo-Marakwet County
@@ -16922,7 +17306,9 @@ El Hatillo
 El Hierro
 El Hornillo
 Elhovo
+El Hoyo
 El Hoyo de Pinares
+El Huecú
 Elías
 Elias Fausto
 Elias Motsoaledi
@@ -16932,6 +17318,7 @@ Elim
 Elini
 Elin Pelin
 Eliot
+Elisa
 Eliseu Martins
 Elisiário
 Elísio Medrado
@@ -16947,6 +17334,7 @@ Elizovo
 Elizovsky District
 El Jadida
 El Jadida Province
+El Jardín
 Eljas
 El Jicaral
 El Jícaro
@@ -17015,8 +17403,10 @@ Ellwood City
 Elma
 Elmadag
 El-Mahalla El-Kubra
+El Maitén
 Elmali
 El Mante
+El Manzano
 Elmas
 El Masnou
 Elmbridge
@@ -17030,6 +17420,7 @@ Elmira (town)
 Elmira Heights
 El Molar
 El Molino
+El Mollar
 El Monofeya Governorate
 El Monte
 El Montmell
@@ -17040,6 +17431,7 @@ El Mourouj
 Elmsford
 Elmsthorpe
 Elmwood Park
+El Naranjito
 El Naranjo
 El Nayar
 El Negrito
@@ -17050,9 +17442,11 @@ Elói Mendes
 Elon
 El Oro
 El Oro Province
+Elortondo
 Elota
 Eloxochitlán
 El Paisnal
+El Palenque
 El Palmar
 El Papiol
 El Paraíso
@@ -17066,27 +17460,33 @@ El Peñón
 El Perelló
 El Pinar del Hierro
 El Pinell de Brai
+El Pingo
 El Pino
 El Piñón
 El Pla del Penedès
+El Polear
 El Pont d'Armentera
 El Pont de Bar
 El Pont de Suert
 El Portal
 El Porvenir
+El Potrero
 El Prat de Llobregat
 El Progreso
 El Progreso Department
 El Puerto de Santa María
+El Quebrachal
 El Quetzal
 Elqui Province
 El Quisco
+El Rabón
 El Rama
 El Realejo
 El Refugio
 El Retén
 El Retiro
 El Roble
+El Rodeo
 El Rosal
 El Rosario
 El Salto
@@ -17095,6 +17495,7 @@ El Santuario
 Elsau
 El Sauce
 El Sauzal
+El Sauzalito
 Elsbethen
 El Segundo
 El Seibo Province
@@ -17106,24 +17507,33 @@ Elsinboro Township
 Elsloo
 Elsmere
 Elsmore
+El Soberbio
 El Socorro
 El Soleràs
+El Sombrerito
+El Sombrero
 Els Omells de na Gaià
 Els Pallaresos
 Elst
 El Suweis Governorate
 El Tablon
 El Tabo
+El Tala
+El Talar
 El Tambo
 El Tarra
 El Tejar
 Eltendorf
 Eltham
 El Tiemblo
+El Timbó
+El Tío
 El Torno
 El Tortugero
 El Totoral
 El Tránsito
+El Trapiche
+El Trébol
 El Triunfo
 El Tule
 El Tuma-La Dalia
@@ -17142,6 +17552,7 @@ Elvillar
 El Villar de Arnedo
 El Vilosell
 El Viso
+El Volcán
 El Wādī El Ǧedīd Governorate
 Elwen
 Ely
@@ -17155,6 +17566,9 @@ Emanuel County
 Emanzhelinsk
 Emarèse
 Emas
+Embajador Martini
+Embalse
+Embarcación
 Embaúba
 Embd
 Embden
@@ -17172,6 +17586,7 @@ Emerson
 Emery County
 Emet
 Emfuleni
+Emilia
 Emilianópolis
 Emiliano Zapata
 Emilia-Romagna
@@ -17198,6 +17613,8 @@ Emnambithi-Ladysmith
 Emo
 Empalme
 Empalme Olmos
+Empalme San Carlos
+Empalme Villa Constitución
 Empedrado
 Empersdorf
 Empoli
@@ -17284,6 +17701,8 @@ Enonkoski
 Enontekiö
 Enon Valley
 Enosburgh
+Enrique Carbó
+Enrique Urién
 Enriquillo
 Ens
 Enschede
@@ -17356,6 +17775,7 @@ Epsom
 Epsom and Ewell
 Eptingen
 Épuisay
+Epuyén
 Equador
 Équevillon
 Eraclea
@@ -17521,6 +17941,7 @@ Esch-Sauer
 Esch-Uelzecht
 Esch-Uelzecht Canton
 Eschwiller
+Escobar
 Escobedo
 Escolca
 Escondido
@@ -17599,9 +18020,12 @@ Esposende
 Esprels
 Espumoso
 Esquéhéries
+Esquel
 Esquías
 Esquilino
 Esquimalt Township
+Esquina
+Esquina y Mancopa
 Esquipulas
 Esquipulas del Norte
 Esquipulas Palo Gordo
@@ -17633,17 +18057,27 @@ Essonne
 Essunga Municipality
 Est
 Estação
+Estación Araóz y Tacanas
 Estación Central
+Estación Clucellas
+Estación General Paz
+Estación Juárez Celman
+Estación Sosa
+Estación Torrent
 Estaimpuis
 Estamariu
 Estância
+Estancia Grande
 Estância Velha
+Estancia Vieja
 Estandeuil
+Estanislao del Campo
 Estanzuela
 Estanzuelas
 Estarreja
 Estavayer
 Este
+Esteban Echeverría
 Estebanía
 Esteio
 Estelí
@@ -17722,6 +18156,7 @@ Etrelles
 Étrochey
 Etroubles
 Étroussat
+Etruria
 Ettadhamen-Mnihla
 Ettelbréck
 Ettendorf
@@ -17768,6 +18203,7 @@ Eusébio
 Euskirchen
 Euskirchen District
 Eustis
+Eustolia
 Eutawville
 Evangeline Parish
 Evans
@@ -17844,6 +18280,7 @@ Eyup
 Eywiller
 Eyyubiye
 Eyzin-Pinet
+Ezeiza
 Ezequiel Zamora
 Ežerelis
 Ezine
@@ -17866,7 +18303,9 @@ Fabrica di Roma
 Fabrizia
 Fabro
 Facatativa
+Fachinal
 Factoryville
+Facundo
 Faedis
 Faedo
 Faedo Valtellino
@@ -17944,6 +18383,7 @@ Falconara Albanese
 Falconara Marittima
 Falcone
 Falconer
+Falda del Carmen
 Falera
 Faleria
 Falerna
@@ -17973,6 +18413,7 @@ Fallston
 Falls Township
 Falmouth
 Faloppio
+Falucho
 Falun
 Falun Municipality
 Falvaterra
@@ -17980,6 +18421,8 @@ Falyonsky District
 Falzes
 Fama
 Famagusta
+Famaillá
+Famatina
 Fanano
 Fangak
 Fanna
@@ -18110,6 +18553,7 @@ Featherston
 Fêche-l'Église
 Féchy
 Federación
+Federal
 Federal Capital Territory
 Federally Administered Tribal Areas
 Federal Way
@@ -18156,11 +18600,13 @@ Feldkirchen in Kärnten
 Feldstein
 Feletto
 Felgueiras
+Felicia
 Felício dos Santos
 Félines
 Felino
 Felipe Carrillo Puerto
 Felipe Guerra
+Felipe Yofre
 Felisburgo
 Felitto
 Felixdorf
@@ -18220,6 +18666,7 @@ Fermo
 Ferna
 Fernandes Pinheiro
 Fernandes Tourinho
+Fernández
 Fernández Feo
 Fernandina Beach
 Fernando de la Mora
@@ -18305,6 +18752,7 @@ Feyzin
 Fez
 Fezile Dabi
 Fgura
+Fiambalá
 Fiamignano
 Fianarantsoa
 Fiano
@@ -18333,6 +18781,7 @@ Fiesso d'Artico
 Fiesso Umbertiano
 Fiez
 Fife
+Fighiera
 Figino Serenza
 Figline e Incisa Valdarno
 Figline Vegliaturo
@@ -18414,6 +18863,7 @@ Fire Island Pines
 Firenze
 Firenzuola
 Firlej commune
+Firmat
 Firmino Alves
 Firminópolis
 Firminy
@@ -18559,6 +19009,7 @@ Florencia
 Florencio Sánchez
 Florencio Varela Department
 Florennes
+Florentino Ameghino
 Florentino Ameghino Department
 Florenville
 Flores
@@ -18833,6 +19284,7 @@ Fort Gaines
 Fort Gay
 Fort Good Hope
 Fortim
+Fortín Lugones
 Fort Johnson
 Fort Kent
 Fort Lauderdale
@@ -18945,6 +19397,7 @@ Frahier-et-Chatebier
 Fraiburgo
 Fraijanes
 Fraile Muerto
+Fraile Pintado
 Frailes
 Frailey Township
 Fraine
@@ -18992,6 +19445,7 @@ Franciscópolis
 Francisco Sá
 Francisco Santos
 Francistown
+Franck
 Franclens
 Franco da Rocha
 Francoforte
@@ -19076,6 +19530,8 @@ Frauental an der Lassnitz
 Frauenwald
 Fraxern
 Fray Bartolomé de las Casas
+Fray Luis Beltrán
+Fray Mamerto Esquiú
 Frazer Township
 Frazzanò
 Frecheirinha
@@ -19169,6 +19625,7 @@ Fretterode
 Freudenstadt District
 Fréville-du-Gâtinais
 Freycenet-la-Cuche
+Freyre
 Freyung-Grafenau District
 Fribourg
 Frick
@@ -19285,11 +19742,13 @@ Fuente el Sauz
 Fuente el Saz de Jarama
 Fuenteheridos
 Fuente Palmera
+Fuentes
 Fuentes de Nava
 Fuentes de Valdepero
 Fuentespina
 Fuente Vaqueros
 Fuentidueña de Tajo
+Fuerte Esperanza
 Fuerteventura
 Fügen
 Fügenberg
@@ -19569,6 +20028,7 @@ Galván
 Galvão
 Galvarino
 Galveston County
+Gálvez
 Galway (town)
 Galway (village)
 Galzignano
@@ -19612,6 +20072,7 @@ Gams
 Gams bei Hieflau
 Gamstädt
 Gamvik
+Gancedo
 Gandellino
 Gander
 Gandhinagar
@@ -19619,6 +20080,7 @@ Gandino
 Gandosso
 Gandu
 Ganei Tikva
+Gan Gan
 Gangbuk District
 Gangdong District
 Ganghwa District
@@ -19643,6 +20105,7 @@ Ganusovskoye
 Gan Yavne
 Gao Region
 Gapinge
+Garabato
 Garabito
 Garachico
 Garafía
@@ -19651,6 +20114,7 @@ Garaguso
 Garai
 Garanhuns
 Gararu
+Garaví
 Garbagna
 Garbagna Novarese
 Garbagnate Milanese
@@ -19731,6 +20195,8 @@ Garruchos
 Garry
 Gars am Kamp
 Garston
+Garuhapé
+Garupá
 Garut Regency
 Garuva
 Garvin County
@@ -19775,8 +20241,10 @@ Gastão Vidigal
 Gasteren
 Gastern
 Gaston
+Gastona y Belicha
 Gaston County
 Gastonia
+Gastre
 Gasville-Oisème
 Gata
 Gatchina
@@ -19788,6 +20256,7 @@ Gateshead
 Gatesville
 Gatineau
 Gatlinburg
+Gato Colorado
 Gattatico
 Gattendorf
 Gatteo
@@ -19940,30 +20409,72 @@ Gendrey
 Gendringen
 Gendt
 Genemuiden
+General Acha
+General Alvarado
+General Alvear
+General Ángel Vicente Peñaloza
+General Arenales
+General Baldissera
+General Ballivián
+General Belgrano
 General Belgrano Department
 General Bravo
+General Cabrera
 General Câmara
+General Campos
+General Capdevila
 General Carneiro
 General Carrera Province
 General Cepeda
+General Conesa
+General Deheza
 General Enrique Estrada
+General Enrique Godoy
 General Escobedo
+General Fernández Oro
+General Fotheringham
+General Galarza
+General Gelly
+General Güemes
+General Guido
+General José de San Martín
+General Juan Facundo Quiroga
+General Juan Madariaga
 General Lagos
+General Lamadrid
+General La Madrid
+General Las Heras
+General Lavalle
+General Levalle
+General Lucio Victorio Mansilla
+General Manuel Belgrano
+General Manuel Campos
 General Maynard
+General Mosconi
+General Ocampo
 General Pánfilo Natera
+General Paz
 General Pico
 General Pinedo
+General Pizarro
 General Plutarco Elías Calles
 General Pueyrredón Department
+General Ramírez
 General Roca
+General Rodríguez
 General Salgado
 General Sampaio
+General San Martín
 General San Martín Department
 General Santos
 Generalski Stol
 General Terán
 General Toshevo
 General Treviño
+General Urquiza
+General Vedia
+General Viamonte
+General Villegas
 General Zaragoza
 General Zuazua
 Genesee
@@ -20092,6 +20603,7 @@ Gesarling
 Geschwenda
 Gesico
 Gessate
+Gessler
 Gessopalena
 Gestel
 Gestratz
@@ -20490,6 +21002,16 @@ Goaiïngaryp
 Goascorán
 Gobabis
 Gobelins
+Gobernador Candioti
+Gobernador Costa
+Gobernador Crespo
+Gobernador Duval
+Gobernador Gregores
+Gobernador Ingeniero Valentín Virasoro
+Gobernador Juan E. Martínez
+Gobernador López
+Gobernador Mansilla
+Gobernador Roca
 Gobierno Ancestral de Tecpan Izalco
 Gobo
 Gocek
@@ -20500,6 +21022,7 @@ Godiasco Salice Terme
 Godo
 Godofredo Viana
 Godollo District
+Godoy Cruz
 Godoy Moreira
 Godrano
 Godwin
@@ -20593,6 +21116,7 @@ Golling an der Salzach
 Göllingen
 Gollion
 Gololobovskoye
+Golondrina
 Golovatheffsloye
 Golovinsky District
 Golpazari
@@ -20867,6 +21391,7 @@ Govone
 Gowanda
 Goworowo commune
 Goxwiller
+Goya
 Goyder
 Goynucek
 Goynuk
@@ -20956,6 +21481,7 @@ Grän
 Grana
 Granada
 Granada Department
+Granadero Baigorria
 Granadilla de Abona
 Granados
 Granarolo dell'Emilia
@@ -21031,6 +21557,7 @@ Granges-le-Bourg
 Granges-Narboz
 Granges-Paccot
 Grangettes
+Gran Guardia
 Gränichen
 Granite County
 Granite Falls
@@ -21207,6 +21734,7 @@ Greerton
 Gregg County
 Greggio
 Gregg Township
+Gregoria Pérez de Denis
 Gregory County
 Greifenburg
 Greifensee
@@ -21473,6 +22001,7 @@ Grupiara
 Grüsch
 Grussenheim
 Gruta commune
+Grutly
 Gruyère
 Gruyères
 Gruzdziai
@@ -21500,6 +22029,7 @@ Guacarí
 Guachené
 Guachetá
 Guachinango
+Guachipas
 Guachochi
 Guachucal
 Guácimo
@@ -21512,6 +22042,7 @@ Guadalcázar
 Guadalix de la Sierra
 Guadalupe
 Guadalupe County
+Guadalupe Norte
 Guadalupe Victoria
 Guadalupe y Calvo
 Guadarrama
@@ -21543,6 +22074,9 @@ Gualán
 Gualdo
 Gualdo Cattaneo
 Gualdo Tadino
+Gualeguay
+Gualeguaychú
+Gualjaina
 Gualleco
 Gualmatan
 Gualococti
@@ -21553,12 +22087,14 @@ Guamá
 Guamaggiore
 Guamal
 Guamaré
+Guaminí
 Guamiranga
 Guamo
 Guamúchil
 Guanabacoa
 Guanacaste Province
 Guanaceví
+Guanaco Muerto
 Guanagazapa
 Guanaja
 Guanajay
@@ -21603,6 +22139,7 @@ Guaramirim
 Guaranda
 Guaranésia
 Guarani
+Guaraní
 Guaraniaçu
 Guarani d'Oeste
 Guarani das Missões
@@ -21632,6 +22169,7 @@ Guardea
 Guardiagrele
 Guardialfiera
 Guardia Lombardi
+Guardia Mitre
 Guardia Perticara
 Guardia Piemontese
 Guardiaregia
@@ -21670,9 +22208,12 @@ Guatemala
 Guatemala Department
 Guateque
 Guatica
+Guatimozín
+Guatraché
 Guatuso
 Guavatá
 Guaviare Department
+Guaviraví
 Guaxupé
 Guayabal
 Guayabal de Síquima
@@ -21683,6 +22224,7 @@ Guayanilla
 Guayaquil
 Guayas Province
 Guayatá
+Guaymallén
 Guaymango
 Guaymas
 Guaymate
@@ -22475,6 +23017,7 @@ Hasanbeyli
 Hasbrouck Heights
 Häselgehr
 Haselsdorf-Tobelbad
+Hasenkamp
 Hashikame
 Hashima
 Hashimoto
@@ -22796,6 +23339,7 @@ Helsingborg Municipality
 Helsinge
 Helsingør
 Helsinki
+Helvecia
 Helvikovice
 Helvoirt
 Hemberg
@@ -22927,10 +23471,13 @@ Hermitage
 Hermon
 Hermosa Beach
 Hermosillo
+Hermoso Campo
 Hermrigen
 Hernals
 Hernals District
 Hernandarias
+Hernández
+Hernando
 Hernando County
 Hernani
 Herndon
@@ -22941,8 +23488,10 @@ Hernstein
 Heroltice
 Héron
 Herpt
+Herradura
 Herrán
 Herrenhof
+Herrera
 Herrera de Alcántara
 Herrera del Duque
 Herrera de Pisuerga
@@ -23206,6 +23755,7 @@ Hinton
 Hinuera
 Hinwil
 Hioki
+Hipólito Yrigoyen
 Hippach
 Hipsheim
 Hirado
@@ -23936,12 +24486,15 @@ Huajicori
 Hualahuises
 Hualaihué
 Hualañé
+Hualfín
 Hualien County
 Huamanga Province
 Huancavelica Region
 Huancayo
 Huancayo Province
+Huanchilla
 Huanímaro
+Huanqueros
 Huánuco
 Huánuco Province
 Huánuco Region
@@ -23997,11 +24550,13 @@ Huépac
 Huércal de Almería
 Huércal-Overa
 Huerfano County
+Huerta Grande
 Huéscar
 Huétor Santillán
 Huétor-Tájar
 Huétor Vega
 Huez
+Hughes
 Hughes County
 Hughestown
 Hughesville
@@ -24009,6 +24564,9 @@ Hugo Napoleão
 Huichapan
 Huijbergen
 Huila Department
+Huillapima
+Huinca Renancó
+Huingán-có
 Huiscapi
 Huisduinen
 Huisseau-en-Beauce
@@ -24035,10 +24593,12 @@ Hulst
 Hultsfred
 Hultsfred Municipality
 Humacao
+Humahuaca
 Humaitá
 Humanes de Madrid
 Humber Arm South
 Humberto de Campos
+Humberto Primo
 Humboldt
 Humboldt County
 Humburky
@@ -24104,6 +24664,7 @@ Huriel
 Hurigny
 Hurky
 Hurley
+Hurlingham
 Hürm
 Huron
 Huron County
@@ -24205,8 +24766,10 @@ Ibaraki
 Ibaraki Prefecture
 Ibarama
 Ibaretama
+Ibarlucea
 Ibarra
 Ibarrangelu
+Ibarreta
 Ibaté
 Ibateguara
 Ibatiba
@@ -24229,6 +24792,7 @@ Ibicaré
 Ibicoara
 Ibicuí
 Ibicuitinga
+Ibicuy
 Ibigawa
 Ibimirim
 Ibipeba
@@ -24262,6 +24826,7 @@ Ibriktepe
 Iburi subprefecture
 Ibusuki
 Ica
+Icaño
 Ica Province
 Icapuí
 Içara
@@ -24300,6 +24865,7 @@ Ida-Virumaa
 Ide
 Ideal
 Idiazabal
+Idiazábal
 Idil
 Idre
 Idrija
@@ -24338,6 +24904,7 @@ Igaratinga
 Igarka
 Igdir
 Igdir Province
+Iglesia
 Iglesias
 Igliano
 Iglinsky District
@@ -24641,6 +25208,11 @@ Ingazeira
 Ingelmunster
 Ingenbohl
 Ingenheim
+Ingeniero Forres
+Ingeniero Guillermo Nicasio Juárez
+Ingeniero Jacobacci
+Ingeniero Luiggi
+Ingeniero Luis A. Huergo
 Ingenio
 Ingersheim
 Ingersleben
@@ -24696,11 +25268,13 @@ Inowlodz commune
 Inowroclaw
 Inowroclaw commune
 Inowroclaw County
+Inriville
 Ins
 Insinger
 Insk commune
 Instinción
 Inta
+Intendente Alvear
 Interlachen
 Interlaken
 Intibucá
@@ -24862,6 +25436,7 @@ Iruña Oka
 Irupi
 Iruraiz-Gauna
 Irutzun
+Iruya
 Irvillac
 Irvine
 Irving
@@ -24932,6 +25507,7 @@ Isla Caribe y Los Lobos
 Isla Catalina
 Isla Cristina
 Isla de la Juventud Special Municipality
+Isla del Cerrito
 Isla de Maipo
 Isla de Pascua
 Isla de Pascua Province
@@ -24951,6 +25527,7 @@ Isla Saona
 Islas Canarias
 Islas de la Bahía Department
 Išlaužas
+Isla Verde
 Isle au Haut
 Isle aux Morts
 Isle La Motte
@@ -25047,6 +25624,7 @@ Itacajá
 Itacambira
 Itacarambi
 Itacaré
+Itacaruaré
 Itacoatiara
 Itacuruba
 Itacurubi
@@ -25065,6 +25643,7 @@ Itaguatins
 Itagüí
 Itaí
 Itaíba
+Itá Ibaté
 Itaiçaba
 Itaim Bibi
 Itaim Paulista
@@ -25085,6 +25664,7 @@ Itajuípe
 Itako
 Itakura
 Itala
+Italó
 Italva
 Italy
 Itamaraju
@@ -25168,6 +25748,7 @@ Itasca County
 Itasy Region
 Itata Province
 Itati
+Itatí
 Itatiaia
 Itatiaiuçu
 Itatiba
@@ -25236,6 +25817,7 @@ Iturbide
 Iturriza
 Itutinga
 Ituverava
+Ituzaingó
 Ituzaingó Department
 Iuiú
 Iŭje
@@ -25406,10 +25988,12 @@ Jacareacanga
 Jacaré dos Homens
 Jacareí
 Jacarezinho
+Jáchal
 Jachymov
 Jaci
 Jaciara
 Jacinto
+Jacinto Aráuz
 Jacinto Machado
 Jack County
 Jackman
@@ -25507,6 +26091,7 @@ Jambeiro
 Jambi
 Jamesburg
 James City County
+James Craik
 James Island
 Jamestown
 Jamesville
@@ -25599,6 +26184,7 @@ Jardim do Seridó
 Jardim Olinda
 Jardin
 Jardín
+Jardín América
 Jardinópolis
 Järfälla Municipality
 Jargalant
@@ -25971,6 +26557,7 @@ Joaquim Gomes
 Joaquim Nabuco
 Joaquim Pires
 Joaquim Távora
+Joaquín Víctor González
 Joateca
 Job
 Jobabo
@@ -26079,9 +26666,11 @@ José C. Paz
 José C. Paz Department
 José da Penha
 José de Freitas
+José de San Martín
 José Enrique Rodó
 José Felipe Márquez Cañizales
 José Félix Ribas
+Josefina
 Josefov
 Josefstadt
 Josefstadt District
@@ -26119,6 +26708,7 @@ Jouy-le-Potier
 Jovellanos
 Jovençan
 Joviânia
+Jovita
 Jowzjan Province
 Joyabaj
 Joyeuse
@@ -26133,18 +26723,22 @@ Jozsefvaros District
 Juab County
 Juanacatlán
 Juana Díaz
+Juana Koslay
 Juan Aldama
 Juan Antonio Sotillo
+Juan Bautista Alberdi
 Juan Bautista Arismendi
 Juan de Acosta
 Juan de Herrera
 Juan Fernández
 Juan Francisco Bulnes
 Juan Germán Roscio
+Juan Jorba
 Juan José Castelli
 Juan José Mora
 Juan L. Lacaze
 Juan Manuel Cajigal
+Juan Pujol
 Juan Santiago
 Juan Vicente Campo Elias
 Juara
@@ -26180,6 +26774,7 @@ Juiz de Fora
 Jujutla
 Jujuy Province
 Juliaca
+Julia Dufour
 Julianadorp
 Julían Mellado
 Julimes
@@ -26192,6 +26787,7 @@ Jumeaux
 Jumilla
 Jumirim
 Jun
+Juncal
 Junco do Maranhão
 Junco do Seridó
 Juncos
@@ -26213,6 +26809,7 @@ Juniata Terrace
 Juniata Township
 Junik
 Junín
+Junín de los Andes
 Junín Region
 Junior
 Junius
@@ -26258,7 +26855,9 @@ Jussey
 Jussiape
 Jussy
 Jussy-Champagne
+Justiniano Posse
 Justo Briceño
+Justo Daract
 Jutaí
 Juti
 Jutiapa
@@ -29279,6 +29878,7 @@ L'Isle-sur-Serein
 Laa an der Thaya
 Laab im Walde
 La Acebeda
+La Adela
 La Adrada
 Laag-Keppel
 Laagnieuwkoop
@@ -29309,6 +29909,7 @@ Láb
 La Baie
 La Balme-de-Sillingy
 La Balme-les-Grottes
+La Banda
 La Barca
 Labaroche
 La Baroche
@@ -29337,9 +29938,12 @@ Labiszyn commune
 La Blanca
 La Boca
 La Boisse
+Laborde
+Labordeboy
 La Bosse-de-Bretagne
 La Bouexiere
 Labouheyre
+Laboulaye
 La Bourboule
 La Boussac
 La Bouteille
@@ -29347,6 +29951,7 @@ Labowa commune
 Labrador
 Labrador City
 Labranzagrande
+La Brava
 Lábrea
 La Bretenière
 La Brévine
@@ -29369,8 +29974,11 @@ La Cabrera
 Lacadena
 La Calahorra
 La Calamine
+La Caldera
 La Calera
+La Camila
 La Campa
+La Cañada
 La Cañada de Urdaneta
 La Cañada Flintridge
 Lacanau
@@ -29379,7 +29987,10 @@ La Canonja
 La Capelle
 La Capilla
 La Carlota
+La Carolina
+La Carolina El Potosí
 La Cassa
+La Cautiva
 Lac Baker
 Lacchiarella
 Lacco Ameno
@@ -29459,11 +30070,14 @@ Lackendorf
 Lacko commune
 Lack Township
 Lac La Biche County
+La Clarita
 La Clayette
 Laclede County
+La Clotilde
 La Clusaz
 La Cluse-et-Mijoux
 Lacnov
+La Cocha
 La Colilla
 Lacollonge
 La Colorada
@@ -29489,6 +30103,7 @@ La Couyere
 Lac Pelletier
 Lac qui Parle County
 La Crescenta-Montrose
+La Criolla
 La Croix-en-Touraine
 La Croix-Hellean
 La Crosse
@@ -29499,6 +30114,7 @@ La Cruz de Río Grande
 Lacs District
 Lac Ste. Ann County
 La Cumbre
+La Cumbrecita
 La Cygne
 Ladainha
 Ladário
@@ -29523,12 +30139,14 @@ Laekvere Parish
 La Encarnación
 Lærdal
 Laerru
+La Escondida
 La Esperanza
 La Estrella
 Læsø
 Laeva Parish
 La Fage-Montivernoux
 Lafaiete Coutinho
+La Falda
 Lafayette
 LaFayette
 Lafayette County
@@ -29546,6 +30164,7 @@ La Ferté-Saint-Aubin
 La Ferté-Vidame
 La Feuillee
 Laffrey
+Lafinur
 La Flachère
 Laflin
 La Floresta
@@ -29556,11 +30175,13 @@ La Fontenelle
 La Forest-Landerneau
 La Foret-Fouesnant
 Lafourche Parish
+La Francia
 La Fresnais
 La Frette
 La Frontera
 La Gacilly
 La Galera
+La Gallareta
 Lagamar
 Lagan
 Laganadi
@@ -29614,6 +30235,7 @@ Lagoa Salgada
 Lagoa Santa
 Lagoa Seca
 Lagoa Vermelha
+Lago Blanco
 Lago da Pedra
 Lagodekhi
 La Godivelle
@@ -29623,6 +30245,7 @@ Lagoinha
 Lagoinha do Piauí
 La Gomera
 Lagonegro
+Lago Puelo
 Lago Ranco
 Lagos
 Lagosanto
@@ -29661,11 +30284,16 @@ Laguna
 Laguna Blanca
 Laguna Carapã
 Laguna de Perlas
+Laguna Larga
+Laguna Naineck
+Laguna Paiva
 Laguna Pueblo Reservation
 Laguna Salada
+Laguna Yema
 Lagundo
 Lagunes District
 Lagunillas
+Lagunita Salada
 La Habana
 La Habana del Este
 La Habana Province
@@ -29689,6 +30317,7 @@ Lahost
 Lahti
 La Huerta
 La Hulpe
+La Humada
 Laigné-en-Belin
 Laignelet
 Laignes
@@ -29706,6 +30335,7 @@ Laingsburg
 Laino
 Laino Borgo
 Laino Castello
+La Invernada
 Lainz
 Laion
 Laird
@@ -29802,6 +30432,7 @@ La Lanterne-et-les-Armonts
 Lalapasa
 Lalaye
 Lalden
+La Leonesa
 La Libertad
 La Libertad Department
 La Libertad Region
@@ -29838,8 +30469,10 @@ Lamar
 Lamarão
 Lamarche-sur-Saône
 Lamar County
+Lamarque
 Lamar Township
 La Martyre
+La Maruja
 La Masica
 La Masó
 La Massana
@@ -29860,6 +30493,7 @@ Lamburgo
 La Méaugon
 Lamego
 La Membrolle-sur-Choisille
+La Mendieta
 Lamentin
 Lameque
 La Merced
@@ -29958,6 +30592,7 @@ Landerd
 Landerneau
 Landersheim
 Landes
+Landeta
 Landevant
 Landévant
 Landevennec
@@ -30081,6 +30716,7 @@ Lannilis
 Lannion
 Lanobre
 La Noe-Blanche
+La Noria
 La Nouaye
 La Nou de Berguedà
 Lanouee
@@ -30136,6 +30772,8 @@ Laon
 La Orotava
 Lapa
 La Pacaudière
+Lapachito
+La Palestina
 Lapalisse
 La Palma
 La Palma de Cervelló
@@ -30144,6 +30782,8 @@ La Paloma
 La Pampa Province
 Lapanow commune
 Lapão
+La Paquita
+La Para
 La Parra
 La Paternal
 La Paz
@@ -30154,6 +30794,7 @@ La Paz Department
 Lapedona
 Lapeer
 Lapeer County
+La Pelada
 La Peña
 La Perche
 Laperrière-sur-Saône
@@ -30171,14 +30812,18 @@ La Plata
 La Plata County
 La Plata Department
 La Playa de Belen
+La Playosa
 La Plume Township
+La Población
 La Pobla de Cérvoles
 La Pobla de Claramunt
 La Pobla de Mafumet
+La Poma
 Laporte
 LaPorte County
 Laporte Township
 La Possession
+La Posta
 Lapoutroie
 Lapovo
 Lappajärvi
@@ -30187,6 +30832,7 @@ Lappeenranta
 Lappi
 Lappion
 La Praz
+Laprida
 La Primavera
 Lapseki
 Lapsze Nizne commune
@@ -30195,7 +30841,10 @@ La Puebla de Alfindén
 La Puebla de Arganzón
 Lapuebla de Labarca
 La Puente
+La Puerta
 Lapu-Lapu
+La Punilla
+La Punta
 La Punt-Chamues-ch
 La Quar
 La Quarte
@@ -30275,11 +30924,15 @@ Larré
 Larrey
 Larreynaga
 Larringes
+Larroque
 Larsmo
+La Rubia
 LaRue County
 Larvik
 Lasa
+Las Acequias
 La Sagne
+Las Albahacas
 La Salina
 LaSalle
 La Salle
@@ -30288,16 +30941,23 @@ La Salle County
 La Salle-en-Beaumont
 LaSalle Parish
 Las Animas County
+La Sarita
 La Sarraz
+Las Arrias
 Lasarte-Oria
 La Sauvetat
 Las Berlanas
+Las Breñas
 Las Cabras
+Las Caleras
+Las Calles
 Las Cañas
 Lascano
 Lascari
+Las Chacras
 Las Charcas
 La Scie
+Las Coloradas
 Las Condes
 Las Cruces
 La Séauve-sur-Semène
@@ -30311,15 +30971,22 @@ La Selva del Camp
 Lasenice
 La Serena
 La Serna del Monte
+La Serranita
 La Seu d'Urgell
 Las Flores
 Las Flores Department
+Las Garcitas
+Las Garzas
 Las Guáranas
 Las Heras
+Las Higueras
 La Sierpe
 La Sierra
 Lasin commune
 Lasinja
+Las Isletillas
+Las Juntas
+Las Junturas
 Laskarzew
 Laskarzew commune
 Lask commune
@@ -30328,7 +30995,10 @@ Lasker
 Laško
 Laskov
 Laskowa commune
+Las Lagunas
 Las Lajas
+Las Lajitas
+Las Lomitas
 Las Marías
 Las Matas de Farfán
 Las Matas de Santa Cruz
@@ -30339,15 +31009,26 @@ Lasne
 Lasnigo
 La Sommette
 La Sonnaz
+Las Ovejas
 Las Palmas
 Las Palmas de Gran Canaria
+Las Palmeras
+Las Parejas
+Las Peñas Sud
+Las Perdices
+Las Petacas
 La Spezia
 Las Piedras
 Las Plassas
+Las Playas
+Las Plumas
+Las Rabonas
 Las Regueras
+Las Rosas
 Las Rozas de Madrid
 Las Rozas de Valdearroyo
 Las Sabanas
+Las Saladas
 Lassance
 Lassay-sur-Croisne
 Lassee
@@ -30356,10 +31037,14 @@ Lassing
 Lassnitzhöhe
 Lassy
 Las Tablas
+Las Talas
+Las Talitas
+Las Tapias
 Lastebasse
 Las Terrenas
 Last Mountain Valley
 Las Torres de Cotillas
+Las Toscas
 Lastovo
 Lastra a Signa
 Las Tres Villas
@@ -30367,7 +31052,10 @@ Lastro
 Las Tunas
 Las Tunas Province
 Lasva Parish
+Las Varas
+Las Varillas
 Las Vegas
+Las Vertientes
 Las Vueltas
 Laszczow commune
 La Table
@@ -30384,12 +31072,15 @@ Laterza
 Lathrop Township
 La Thuile
 Latiano
+La Tigra
 Latimer County
 Latimore Township
 Latina
 Latisana
 Latjoor
 La Tola
+La Toma
+La Tordilla
 La Torre de Cabdella
 La Torre de Fontaubella
 La Torre de l'Espanyol
@@ -30497,6 +31188,7 @@ Lavaca County
 Lavagna
 Lavagno
 Laval
+Lavalle
 La Valle
 La Valle Agordina
 Lavalleja Department
@@ -30507,6 +31199,7 @@ La Vancelle
 Lavancia-Epercy
 Lavandeira
 Lavangen
+La Vanguardia
 Lavans-lès-Dole
 Lavant
 Lavardin
@@ -30520,6 +31213,7 @@ Lavello
 Lavena Ponte Tresa
 Laveno-Mombello
 Lavenone
+La Verde
 La Vernaz
 La Verne
 La Vernotte
@@ -30544,6 +31238,7 @@ La Ville-aux-Dames
 Lavilledieu
 La Villedieu-en-Fontenette
 La Villeneuve-Bellenoye-et-la-Maize
+La Viña
 Lavínia
 La Virginia
 Laviron
@@ -30610,6 +31305,7 @@ Lea County
 Leading Tickles
 Leake County
 Leandro Ferreira
+Leandro N. Alem
 Leary
 Leask
 Leavenworth
@@ -30771,6 +31467,7 @@ Le Grand-Lemps
 Le Grand-Pressigny
 Le Gué-de-Longroi
 Le Guerno
+Leguizamón
 Lehavim
 Le Havre
 Le Hezo
@@ -30779,6 +31476,7 @@ Lehigh County
 Lehighton
 Lehigh Township
 Le Hinglé
+Lehmann
 Lehman Township
 Le Hohwald
 Lei
@@ -30974,10 +31672,12 @@ Leoncin commune
 León Cortés Castro
 Leon County
 León Department
+Leones
 Leonessa
 Leonforte
 Leonia
 Leonora
+León Rouges y Santa Rosa
 Leons
 Leontevskoye
 Leopoldau
@@ -31346,6 +32046,8 @@ Liberk
 Libertad
 Libertador
 Libertador General Bernardo O'Higgins Region
+Libertador General San Martín
+Libertador San Martín
 Liberty
 Liberty (town)
 Liberty (village)
@@ -31539,6 +32241,7 @@ Limarí Province
 Limas
 Limassol
 Limatola
+Limay Mahuida
 Limbach
 Limbadi
 Limbazi
@@ -31854,6 +32557,7 @@ Ljutomer
 Lkan
 Lladurs
 Llagostera
+Llambi Campbell
 Llançà
 Llanera
 Llanes
@@ -31903,6 +32607,7 @@ Löbichau
 Lobnya
 Lobodice
 Lobor
+Lobos
 Lobsann
 Loburn
 Locana
@@ -32062,6 +32767,8 @@ Lolotla
 Lom
 Loma de Cabrera
 Lomagna
+Lomas de Tafí
+Lomas de Vallejos
 Lomas de Zamora Department
 Lomazy commune
 Lomazzo
@@ -32103,6 +32810,7 @@ Lonato del Garda
 Lonato Pozzolo
 Lonay
 Loncoche
+Loncopué
 Londa
 Londerzeel
 London
@@ -32110,6 +32818,7 @@ London Britain Township
 Londonderry
 Londonderry Township
 London Grove Township
+Londres
 Londrina
 Lone Oak
 Lone Tree
@@ -32237,6 +32946,8 @@ Los Alamos County
 Los Alcarrizos
 Los Alcázares
 Los Aldamas
+Los Altares
+Los Altos
 Los Amates
 Los Andes
 Los Andes Province
@@ -32244,6 +32955,7 @@ Los Andes - Sotomayor
 Los Angeles
 Los Ángeles
 Los Angeles County
+Los Antiguos
 Losany
 Los Arabos
 Los Arcos
@@ -32252,41 +32964,63 @@ Los Barrios
 Los Blázquez
 Los Cabos
 Los Cacaos
+Los Cardos
 Los Castaños de Maipú
+Los Catutos
+Los Cedros
 Los Cerillos
+Los Cerrillos
+Los Chañaritos
+Los Charrúas
 Los Chiles
+Los Chiriguanos
+Los Cocos
+Los Cóndores
+Los Conquistadores
 Los Córdobas
 Los Corrales de Buelna
 Losdorp
 Losevskoye
+Los Frentones
 Los Gallardos
 Los Gatos
 Los Guayos
+Los Helechos
 Los Herreras
 Los Hidalgos
+Los Hornillos
 Losice commune
 Losice County
 Losina
 Losine
 Losinoostrovsky District
 Losino-Petrovsky
+Los Juríes
 Loška Dolina
 Loški Potok
 Los Lagos
 Los Lagos Region
+Los Laureles
 Los Llanos de Aridane
 Los Llanos de Tormes
+Los Menucos
+Los Miches
+Los Mistoles
 Los Mochis
 Los Molinos
+Los Molles
 Los Muermos
+Los Nogales
 Losone
 Lososina Dolna commune
 Los Palacios
 Los Palmitos
 Los Patios
 Los Pozos
+Los Quiroga
 Los Ramones
 Los Realejos
+Los Reartes
 Los Ríos
 Los Ríos Province
 Los Ríos Region
@@ -32295,17 +33029,22 @@ Los Santos
 Los Santos de la Humosa
 Los Santos de Maimona
 Los Santos Province
+Los Sarmientos y La Tipa
 Los Sauces
 Losser
 Los Silos
+Los Surgentes
 Lostallo
 Los Taques
 Lost Creek
+Los Telares
 Lostice
 Lostorf
 Lost River
+Los Varela
 Los Villares
 Los Vilos
+Los Zorros
 Lot
 Lot-et-Garonne
 Lothey
@@ -32381,6 +33120,7 @@ Lovejoy
 Loveland
 Lovell
 Lovelock
+Loventué
 Lovere
 Loveresse
 Lovero
@@ -32452,6 +33192,7 @@ Loyalhanna Township
 Loyalsock Township
 Loyat
 Loyettes
+Lozada
 Lozère
 Lozice
 Lozio
@@ -32473,6 +33214,7 @@ Lu
 Luanda
 Luanda Province
 Luant
+Luan Toro
 Lubaczow County
 Luban
 Lubana
@@ -32522,11 +33264,13 @@ Lubsko commune
 Lubuskie Voivodeship
 Luby
 Lubycza Krolewska commune
+Luca
 Lucainena de las Torres
 Lucama
 Lucani
 Lucas County
 Lucas do Rio Verde
+Lucas González
 Lucaswolde
 Luçay-le-Mâle
 Lucca
@@ -32612,6 +33356,7 @@ Luins
 Luisago
 Luisant
 Luís Antônio
+Luis Beltrán
 Luisburgo
 Luís Correia
 Luís Domingues
@@ -32620,10 +33365,13 @@ Luisenthal
 Luís Gomes
 Luislândia
 Luis Moya
+Luis Palacios
 Luitre
 Luiz Alves
 Luiziana
 Luiziânia
+Luján
+Luján de Cuyo
 Lújar
 Luka
 Lukač
@@ -32786,6 +33534,7 @@ Lutten
 Luttenbach-pres-Munster
 Lutter
 Lutterbach
+Lutti
 Lutuhyne
 Lutuhyne District
 Lututow commune
@@ -32802,6 +33551,7 @@ Lux
 Luxembourg
 Luxeuil-les-Bains
 Luxor
+Luyaba
 Luyksgestel
 Luynes
 Luz
@@ -32948,6 +33698,7 @@ Maastricht
 Mabel Bush
 Mably
 Mabscott
+Macachín
 Macaé
 Macael
 Macaíba
@@ -32992,6 +33743,7 @@ Machadinho
 Machadinho d'Oeste
 Machado
 Machados
+Machagai
 Machakos County
 Machala
 Machalí
@@ -33007,6 +33759,7 @@ Machilly
 Machiques de Perijá
 Machov
 Machova
+Maciá
 Macieira
 Maciejowice commune
 Macka
@@ -33144,6 +33897,7 @@ Magescq
 Magetan Regency
 Maggia
 Maggie Valley
+Maggiolo
 Maggiora
 Maghar
 Magherno
@@ -33237,6 +33991,7 @@ Maillebois
 Mailleroncourt-Charette
 Mailley-et-Chazelot
 Mailly-le-Château
+Maimará
 Maimón
 Main Brook
 Maine
@@ -33245,6 +34000,7 @@ Maine-et-Loire
 Mainero
 Maine Township
 Main-Kinzig District
+Mainqué
 Main-Spessart District
 Main-Tauber District
 Main-Taunus District
@@ -33302,6 +34058,7 @@ Majšperk
 Majur
 Majuro Atoll
 Makah Reservation
+Makallé
 Makana
 Makara
 Makarewa
@@ -33343,6 +34100,7 @@ Makubetsu
 Makueni County
 Makurazaki
 Malabar
+Malabrigo
 Mala Bystrice
 Malacacheta
 Malacatán
@@ -33353,6 +34111,7 @@ Maladziečna
 Maladziečna District
 Málaga
 Malagnino
+Malagueño
 Mâlain
 Malaita Province
 Malaka Regency
@@ -33370,6 +34129,7 @@ Malang
 Malang Regency
 Malans
 Malansac
+Malargüe
 Mala Roudka
 Malaryta
 Malaryta District
@@ -33515,6 +34275,7 @@ Malverne
 Malvern Hills
 Malvicino
 Malvik
+Malvinas Argentinas
 Malvinas Argentinas Department
 Malvito
 Maly Bor
@@ -33613,6 +34374,7 @@ Maneiro
 Manerba del Garba
 Manerbio
 Manevychi District
+Manfredi
 Manfredonia
 Manfrinópolis
 Manga
@@ -33772,6 +34534,7 @@ Mapulaca
 Maputo
 Maputo Province
 Maquassi Hills
+Maquinchao
 Maquiné
 Mar'inskoye
 Mara
@@ -33846,6 +34609,7 @@ Marčana
 Marcaria
 Marcedusa
 Marcelândia
+Marcelino Escalada
 Marcelino Ramos
 Marcelino Vieira
 Marcellaz
@@ -33867,6 +34631,7 @@ Marchenoir
 Marchezais
 Marchigüe
 Marchin
+Mar Chiquita
 Marchirolo
 Marchissy
 Marchomalo
@@ -33897,6 +34662,7 @@ Marcolândia
 Marcolès
 Marcon
 Marcona
+Marcos Juárez
 Marcos Parente
 Marcos Paz Department
 Marcoussis
@@ -33938,6 +34704,7 @@ Margareten
 Margareten District
 Margaretville
 Margarita
+Margarita Belén
 Margate
 Margate City
 Margencel
@@ -33960,9 +34727,11 @@ María Elena
 Maria Enzersdorf
 Mariager
 Mariagerfjord
+María Grande
 Maria Helena
 Mariahilf
 Mariahilf District
+María Juana
 Maria Laach am Jauerling
 María la Baja
 Maria-Lanzendorf
@@ -33976,6 +34745,8 @@ Marianna
 Mariannelund
 Mariano Comense
 Mariano del Friuli
+Mariano Indalecio Loza
+Mariano Moreno
 Mariano Moro
 Marianopoli
 Marianópolis do Tocantins
@@ -33990,7 +34761,9 @@ Maria Rain
 Maria Saal
 Mariasdorf
 Mariastein
+María Susana
 Maria Taferl
+María Teresa
 Mariato
 María Trinidad Sánchez Province
 Mariaville
@@ -34257,6 +35030,7 @@ Martins Soares
 Martinsville
 Martirano
 Martirano Lombardo
+Mártires
 Martis
 Martna Parish
 Marton
@@ -34276,6 +35050,7 @@ Maruggio
 Maruim
 Marulanda
 Maruleng
+Marull
 Marum
 Marumbi
 Marumori
@@ -34497,6 +35272,7 @@ Matola
 Mato Leitão
 Mato Queimado
 Mato Rico
+Matorrales
 Matos Costa
 Matosinhos
 Matour
@@ -34527,6 +35303,7 @@ Matsushima
 Matsuura
 Matsuyama
 Matsuzaki
+Mattaldi
 Mattapoisett
 Mattaponi Reservation
 Mattarello
@@ -34583,6 +35360,7 @@ Mauren
 Mauriac
 Maurice River Township
 Mauricie
+Mauricio Mayer
 Maurik
 Maurilândia
 Maurilândia do Tocantins
@@ -34607,6 +35385,7 @@ Maxeys
 Maxfield
 Maxilly-sur-Léman
 Maximiliano de Almeida
+Máximo Paz
 Maxton
 Mayabeque Province
 Mayaguana
@@ -34632,11 +35411,13 @@ Maynard
 Maynas Province
 Mayo
 Mayodan
+Mayor Vicente Villafañe
 Mayres
 Mayrhofen
 Mayrouba
 Mayskoye
 Maysville
+Mayu Sumaj
 Mayville
 Maywood
 Mazagão
@@ -34678,6 +35459,7 @@ Mbhashe
 Mbizana
 Mbombela
 Mbonambi
+Mburucuyá
 McAdam
 McAdenville
 McAdoo
@@ -34805,6 +35587,7 @@ Medford Lakes
 Medford Township
 Media
 Media Luna
+Media Naranja
 Medianeira
 Medicilândia
 Medicina
@@ -34955,6 +35738,7 @@ Melikgazi
 Melilla
 Melilli
 Melincourt
+Melincué
 Melipeuco
 Melipilla
 Melipilla Province
@@ -34985,6 +35769,7 @@ Mello
 Melnicke Vtelno
 Melnik
 Melnik District
+Melo
 Meloisey
 Melpignano
 Melrand
@@ -35032,6 +35817,7 @@ Méndez
 Mendham
 Mendham Township
 Mendicino
+Mendiolaza
 Mendip
 Mendocino County
 Mendon
@@ -35158,6 +35944,7 @@ Merlara
 Merle-Leignec
 Merlevenez
 Merlino
+Merlo
 Mernel
 Merom HaGalil
 Merone
@@ -35260,6 +36047,7 @@ Metepec
 Meteren
 Methuen
 Methven
+Metileo
 Metković
 Metlaoui
 Metlika
@@ -35544,14 +36332,17 @@ Migné-Auxances
 Mignerette
 Mignovillard
 Migori County
+Mi Granja
 Miguel Alemán
 Miguel Alves
 Miguel Auza
 Miguel Calmon
+Miguel Cané
 Miguel Hidalgo
 Miguel Leão
 Miguelópolis
 Miguel Pereira
+Miguel Riglos
 Migues
 Mihaliccik
 Mihama
@@ -35724,6 +36515,7 @@ Mimoso de Goiás
 Mimoso do Sul
 Mina
 Minabe
+Mina Clavero
 Minaçu
 Minador do Negrão
 Minakami
@@ -35755,6 +36547,7 @@ Minamitane
 Minami-Uonuma
 Minamiyamashiro
 Minano
+Mina Pirquitas
 Minas
 Minas de Corrales
 Minas de Matahambre
@@ -35863,6 +36656,7 @@ Miraí
 Miraíma
 Miralcamp
 Miramar
+Miramar de Ansenuza
 Miramichi
 Miranda
 Miranda de Ebro
@@ -35936,6 +36730,8 @@ Misilmeri
 Misinto
 Misiones Department
 Misiones Province
+Misión San Francisco de Laishí
+Misión Tacaaglé
 Miskolc
 Miskolc District
 Miskovice
@@ -36080,6 +36876,7 @@ Mocksville
 Mocoa
 Mococa
 Moconesi
+Mocoretá
 Mocorito
 Moctezuma
 Modalen
@@ -36201,6 +36998,7 @@ Mojne
 Mojo Alcantara
 Mojokerto
 Mojokerto Regency
+Mojón Grande
 Moju
 Mojuí dos Campos
 Moka
@@ -36248,6 +37046,7 @@ Molinara
 Molinella
 Molini di Triora
 Molino dei Torti
+Molinos
 Molins de Rei
 Molise
 Moliterno
@@ -36408,6 +37207,7 @@ Monhegan Plantation
 Monheim
 Mönichkirchen
 Moniga del Garda
+Monigotes
 Monino
 Moniquirá
 Mõniste Parish
@@ -36418,6 +37218,7 @@ Monistrol-sur-Loire
 Moniteau County
 Moñitos
 Monjas
+Monje
 Monjolos
 Monki County
 Monkton
@@ -36592,6 +37393,7 @@ Montebelluna
 Monte Belo
 Monte Belo do Sul
 Montebruno
+Monte Buey
 Montebuono
 Montecalvo in Foglia
 Montecalvo Irpino
@@ -36600,6 +37402,7 @@ Montecarlo
 Monte Carlo
 Monte Carmelo
 Montecarotto
+Monte Caseros
 Montecassiano
 Montecastello
 Monte Castello di Vibio
@@ -36631,7 +37434,9 @@ Monte Cremasco
 Montecretese
 Montecreto
 Monte Cristi Province
+Monte Cristo
 Monte das Gameleiras
+Monte de Los Gauchos
 Monte di Malo
 Montedinove
 Monte di Procida
@@ -36690,6 +37495,7 @@ Montelanico
 Montelapiano
 Montel-de-Gelat
 Montéléger
+Monte Leña
 Monteleone d'Orvieto
 Monteleone di Fermo
 Monteleone di Puglia
@@ -36711,6 +37517,7 @@ Montelupo Fiorentino
 Montelupone
 Montemaggiore Belsito
 Montemagno
+Monte Maíz
 Montemale di Cuneo
 Montemarano
 Montemarciano
@@ -36738,8 +37545,10 @@ Montenerodomo
 Montenero Sabino
 Montenero Val Cocchiara
 Monteneuf
+Monte Nievas
 Montenois
 Monteodorisio
+Monte Oscuridad
 Montepaone
 Monteparano
 Monte Patria
@@ -36749,6 +37558,8 @@ Monte Porzio
 Monte Porzio Catone
 Monteprandone
 Montepulciano
+Monte Quemado
+Monte Ralo
 Monterblanc
 Monterchi
 Montereale
@@ -36767,6 +37578,7 @@ Monteroduni
 Monte Romano
 Monteroni d'Arbia
 Monteroni di Lecce
+Monteros
 Monterosi
 Monterosso al Mare
 Monterosso Almo
@@ -36776,6 +37588,7 @@ Monterotondo
 Monterotondo Marittimo
 Monterrein
 Monterrey
+Monterrico
 Monterroso
 Montertelot
 Monterubbiano
@@ -36824,6 +37637,7 @@ Monteu Roero
 Montevago
 Montevarchi
 Montevecchia
+Monte Vera
 Monteverde
 Monteverdi Marittimo
 Monteviale
@@ -37237,6 +38051,7 @@ Morris
 Morris (town)
 Morris (village)
 Morris County
+Morrison
 Morrison County
 Morris Plains
 Morristown
@@ -37287,6 +38102,7 @@ Mortara
 Morteau
 Mortegliano
 Morterone
+Morteros
 Morthomiers
 Morton
 Morton County
@@ -37860,6 +38676,7 @@ Mutevelli
 Mutiloa
 Mutiscua
 Mutkov
+Mutquín
 Mutriku
 Mutrux
 Mutsu
@@ -38205,6 +39022,7 @@ Narbolia
 Narcao
 Nardò
 Nardodipace
+Naré
 Narembeen
 Nargis
 Narimanovsky District
@@ -38250,6 +39068,7 @@ Nås
 Nasarawa State
 Nasavrky
 Nasca Province
+Naschel
 Naseby
 Nasedlovice
 Nash County
@@ -38973,6 +39792,7 @@ Nibelle
 Nibionno
 Nibok District
 Nica
+Nicanor E. Molinas
 Nicchio
 Nice
 Niceto Pérez
@@ -38991,6 +39811,7 @@ Nichula
 Nickelsdorf
 Nickelsville
 Nickerie District
+Nicolás Bruzone
 Nicolás Flores
 Nicolau Vergueiro
 Nicollet County
@@ -39322,6 +40143,7 @@ Nodaway County
 Nods
 Nod-sur-Seine
 Noepoli
+Noetinger
 Nogales
 Nogara
 Nogaredo
@@ -39339,6 +40161,8 @@ Noginsk
 Noginsky District
 Nogliki
 Nogliksky District
+Nogolí
+Nogoyá
 Nograd County
 Noguera
 Nohanent
@@ -39376,6 +40200,7 @@ Nong Khai Province
 Nongoma
 Nonio
 Nonnenhorn
+Nono
 Nonoai
 Nonoava
 Nonoichi
@@ -39466,6 +40291,7 @@ Norman Wells
 Normier
 Norosí
 Noroy-le-Bourg
+Ñorquin-có
 Norrahammar District
 Norrala District
 Norrbärke District
@@ -40169,12 +40995,16 @@ Núcleo Bandeirante
 Nudolskoye
 Nueces County
 Nuenen, Gerwen en Nederwetten
+Nuestra Señora de los Dolores de Koluel Kayke
+Nuestra Señora del Rosario de Caá Catí
 Nueva Arcadia
 Nueva Carteya
 Nueva Concepcion
 Nueva Concepción
 Nueva Ecija
 Nueva Esparta
+Nueva Esperanza
+Nueva Francia
 Nueva Frontera
 Nueva Granada
 Nueva Guadalupe
@@ -40207,6 +41037,7 @@ Nuevo Progreso
 Nuevo San Carlos
 Nuevo San Juan
 Nuevo Tepetitán
+Nuevo Torino
 Nughedu San Nicolò
 Nughedu Santa Vittoria
 Nuglar-St. Pantaleon
@@ -40368,6 +41199,7 @@ Obedkovice
 Obedovice
 Obeliai
 Obenheim
+Oberá
 Oberägeri
 Oberallgäu District
 Oberalm
@@ -40486,6 +41318,7 @@ Obion County
 Obira
 Obispo Ramos de Lora
 Obispos
+Obispo Trejo
 Öblarn
 Oblivskaya
 Oblivsky District
@@ -40824,6 +41657,7 @@ Okutama
 Okuwa
 Olá
 Olaberria
+Olaeta
 Olaine
 Olanchito
 Olancho Department
@@ -40831,6 +41665,7 @@ Olanta
 Olar
 Olaria
 Olathe
+Olavarría
 Olawa
 Olawa commune
 Olawa County
@@ -40881,6 +41716,7 @@ Old Westbury
 Olean (city)
 Olean (town)
 Olecko County
+Olegario Víctor Andrade
 Oleggio
 Oleggio Castello
 Oleiros
@@ -40941,6 +41777,7 @@ Olintepeque
 Oliola
 Olite
 Olius
+Oliva
 Oliva de Plasencia
 Olivadi
 Olivais
@@ -40960,6 +41797,7 @@ Olivenza
 Oliver
 Oliver County
 Oliveri
+Oliveros
 Oliver Township
 Olivet
 Oliveto Citra
@@ -41049,6 +41887,7 @@ Omaheke Region
 Omakau
 Omarama
 Omaruru
+Ombú
 Ombúes de Lavalle
 Ome
 Omega
@@ -41087,6 +41926,7 @@ Onano
 Oñati
 Ónavas
 Onça de Pitangui
+Oncativo
 Onchan
 Oncieu
 Oncino
@@ -41301,6 +42141,7 @@ Ordino
 Ordinsky District
 Ordis
 Ordona
+Ordóñez
 Ordu
 Orduña
 Ordu Province
@@ -41458,6 +42299,7 @@ Oroszlany District
 Orotelli
 Orotina
 Oro Valley
+Oro Verde
 Orozko
 Orp-Jauche
 Orpund
@@ -42110,6 +42952,7 @@ Pacific Grove
 Pacitan Regency
 Packer Township
 Paclavice
+Paclín
 Paço do Lumiar
 Pacolet
 Pácora
@@ -42178,6 +43021,7 @@ Pagno
 Pagnona
 Pagny-la-Ville
 Pagny-le-Château
+Pago de los Deseos
 Pago del Vallo di Lauro
 Pago Veiano
 Pahang
@@ -42338,6 +43182,7 @@ Palmar de Valera
 Palmares
 Palmares do Sul
 Palmares Paulista
+Palmar Grande
 Palmariggi
 Palmas
 Palmas Arborea
@@ -42408,9 +43253,11 @@ Palomero
 Palomonte
 Palonin
 Palo Pinto County
+Palo Santo
 Palosco
 Palos de la Frontera
 Palotina
+Palpalá
 Pals
 Paltamo
 Palterndorf-Dobermannsdorf
@@ -42426,10 +43273,15 @@ Pamelia
 Pametice
 Pamhagen
 Pamlico County
+Pampa Almirón
+Pampa Blanca
+Pampa del Infierno
 Pampán
 Pampanga
 Pampanito
 Pamparato
+Pampayasta Norte
+Pampayasta Sud
 Pampigny
 Pampilhosa da Serra
 Pamplemousses District
@@ -42451,6 +43303,7 @@ Panama City Beach
 Panamá Oeste Province
 Panamá Province
 Panambi
+Panambí
 Panamericano
 Pancalieri
 Pancarana
@@ -42521,6 +43374,7 @@ Paola
 Paolisi
 Papa District
 Papagaios
+Papagayos
 Papagou-Cholargos
 Papaïchton
 Papaioea
@@ -42557,6 +43411,7 @@ Paracin
 Paracov
 Paracuellos de Jarama
 Paracuru
+Parada Pucheta
 Paradela
 Pará de Minas
 Paradise
@@ -42647,6 +43502,7 @@ Parelhas
 Parelheiros
 Parella
 Parenti
+Parera
 Parete
 Pareto
 Parets del Vallès
@@ -42770,6 +43626,8 @@ Pasaquina
 Pasarón de la Vera
 Pasay
 Pasca
+Pascanas
+Pasco
 Pasco County
 Pasco Province
 Pasco Region
@@ -42788,9 +43646,15 @@ Paslières
 Pasly
 Pašman
 Paso Carrasco
+Paso de Indios
+Paso de la Patria
+Paso de Los Libres
 Paso de los Toros
+Paso del Sapo
+Paso Grande
 Pasohlavky
 Pasovice
+Paso Viejo
 Paspardo
 Pasques
 Pasquotank County
@@ -42973,6 +43837,8 @@ Pavlovskoye
 Pavlovsky District
 Pavlovsky Posad
 Pavo
+Pavón
+Pavón Arriba
 Pavone Canavese
 Pavone del Mella
 Pavullo nel Frignano
@@ -42998,6 +43864,7 @@ Payette County
 Paymogo
 Payne County
 Paynton
+Payogasta
 Paysandú Department
 Pays de la Loire
 Pazarcik
@@ -43122,6 +43989,7 @@ Pedro do Rosário
 Pedrógão Grande
 Pedro García
 Pedro Gomes
+Pedro Gómez Cello
 Pedro Gual
 Pedro II
 Pedro Juan Caballero
@@ -43132,6 +44000,7 @@ Pedro María Freites
 Pedro María Ureña
 Pedro Miguel
 Pedro Osório
+Pedro Ramón Fernández
 Pedro Régis
 Pedro Rodriguez
 Pedro Santana
@@ -43381,8 +44250,10 @@ Perevalsk
 Perevalsk District
 Perevozsky District
 Pereyaslovskoye
+Pérez
 Pérez Zeledón
 Perfugas
+Pergamino
 Perg District
 Pergine Valsugana
 Pergola
@@ -43492,8 +44363,10 @@ Pertosa
 Pertunmaa
 Pertusio
 Peru
+Perú
 Peruc
 Perugia
+Perugorría
 Peruíbe
 Perušić
 Péruwelz
@@ -43684,6 +44557,7 @@ Pevek
 Peveragno
 Pewsey
 Peymeinade
+Peyrano
 Peyraud
 Peyrins
 Peyrus
@@ -43824,9 +44698,11 @@ Piçarra
 Picarreau
 Picciano
 Picerno
+Pichanal
 Pichanges
 Picherande
 Pichidegua
+Pichi Huinca
 Pichilemu
 Pichincha Province
 Picin
@@ -43847,6 +44723,7 @@ Pictou County
 Picture Butte
 Picture Rocks
 Picuí
+Picún Leufú
 Pidhaitsi
 Pidhaitsi District
 Pidhorodne
@@ -43866,9 +44743,11 @@ Piedimonte San Germano
 Piedimulera
 Piedmont
 Piedra Blanca
+Piedra del Águila
 Piedrahíta
 Piedralaves
 Piedras
+Piedras Blancas
 Piedras Coloradas
 Piedras Negras
 Piegaro
@@ -43991,6 +44870,7 @@ Pilar do Sul
 Pilawa commune
 Pilawa Gorna
 Pilbara
+Pilcaniyeu
 Pilesgrove Township
 Pilgersdorf
 Pill
@@ -44015,6 +44895,7 @@ Pimienta
 Pimonte
 Pina de Ebro
 Pinal County
+Pinamar
 Pinarbasi
 Pinar del Río
 Pinar del Río Province
@@ -44058,6 +44939,7 @@ Pine Mountain
 Pine Plains
 Pine Ridge
 Pine Ridge Indian Reservation
+Piñero
 Pinerolo
 Pineto
 Pinetops
@@ -44143,6 +45025,7 @@ Pipriac
 Piquerobi
 Piquet Carneiro
 Piquete
+Piquillín
 Piracaia
 Piracanjuba
 Piracema
@@ -44158,6 +45041,7 @@ Pirajuba
 Pirajuí
 Pirambu
 Piran
+Pirané
 Piranga
 Pirangi
 Piranguçu
@@ -44398,6 +45282,8 @@ Playas de Rosarito
 Playford
 Plaza
 Plaza de la Revolución
+Plaza de Mercedes
+Plaza Huincul
 Plazy
 Plchov
 Pleasantdale
@@ -44622,6 +45508,7 @@ Pochvalov
 Pocinhos
 Pocinovice
 Pocitky
+Pocito
 Poço Branco
 Pococí
 Poço Dantas
@@ -44908,6 +45795,7 @@ Polygyros
 Polyustrovo
 Polzela
 Pölzig
+Pomán
 Pomarance
 Pomar de Valdivia
 Pomaretto
@@ -45215,6 +46103,7 @@ Portelândia
 Port Elgin
 Port Elizabeth
 Portella
+Porteña
 Porter
 Porter County
 Porterdale
@@ -45404,6 +46293,8 @@ Potonico
 Potosí
 Potosí Department
 Potrerillos
+Potrero de Garay
+Potrero de los Funes
 Potsdam
 Potsdam (town)
 Potsdam (village)
@@ -45500,7 +46391,13 @@ Poznan
 Poznan County
 Pozo Alcón
 Pozo Almonte
+Pozo Azul
+Pozo del Molle
+Pozo del Tigre
+Pozo de Maza
+Pozo de Piedra
 Pozo de Urama
+Pozo Hondo
 Pozorice
 Pozuelo de Alarcón
 Pozuelo del Rey
@@ -45745,6 +46642,9 @@ Presenzano
 Presevo
 Presezzo
 Presicce
+Presidencia de la Plaza
+Presidencia Roca
+Presidencia Roque Sáenz Peña
 Presidente Alves
 Presidente Bernardes
 Presidente Castello Branco
@@ -45763,7 +46663,9 @@ Presidente Lucena
 Presidente Médici
 Presidente Nereu
 Presidente Olegário
+Presidente Perón
 Presidente Prudente
+Presidente Roca
 Presidente Sarney
 Presidente Tancredo Neves
 Presidente Vargas
@@ -45866,6 +46768,7 @@ Primeira Cruz
 Primeiro de Maio
 Primelin
 Primero de Enero
+Primero de Mayo
 Primiero San Martino di Castrozza
 Primorje-Gorski Kotar County
 Primorsk
@@ -45947,8 +46850,10 @@ Proctor
 Proctorville
 Prodasice
 Proença-a-Nova
+Profesor Salvador Mazza
 Professor Jamil
 Profondeville
+Profundidad
 Progreso
 Progreso de Obregón
 Progress
@@ -45971,6 +46876,7 @@ Promina
 Promissão
 Prompsat
 Prompton
+Pronunciamiento
 Propata
 Propriá
 Propriano
@@ -46244,26 +47150,39 @@ Puebla del Alcocer
 Puebla de la Reina
 Puebla de la Sierra
 Pueblo
+Pueblo Andino
 Pueblobello
+Pueblo Brugo
 Pueblo County
+Pueblo Esther
+Pueblo General Belgrano
+Pueblo Irigoyen
+Pueblo Italiano
+Pueblo Libertador
+Pueblo Liebig
 Pueblo Llano
 Pueblo Nuevo
 Pueblo Nuevo Viñas
 Pueblo Rico
 Pueblorrico
 Pueblo Seri
+Pueblo Uranga
 Pueblo Viejo
 Pueblo Yaqui
 Puegnago del Garda
+Puelches
+Puelén
 Puente Alto
 Puente la Reina
 Puente Nacional
 Puentes Viejas
 Puente Viesgo
 Puerres
+Puerta de Corral Quemado
 Puerto Asís
 Puerto Barrío
 Puerto Barrios
+Puerto Bermejo
 Puerto Boyacá
 Puerto Cabello
 Puerto Cabezas
@@ -46272,16 +47191,25 @@ Puerto Carreño
 Puerto Colombia
 Puerto Concordia
 Puerto Cortés
+Puerto Curtiembre
 Puerto de la Cruz
 Puerto de La Libertad
 Puerto del Rosario
 Puerto Deseado
 Puerto El Triunfo
 Puerto Escondido
+Puerto Esperanza
+Puerto Eva Perón
+Puerto Gaboto
 Puerto Gaitán
+Puerto General San Martín
 Puerto Guzmán
+Puerto Iguazú
+Puerto Las Cuevas
 Puerto Leguizamo
 Puerto Lempira
+Puerto Leoni
+Puerto Libertad
 Puerto Libertador
 Puerto Limón
 Puerto Lleras
@@ -46297,6 +47225,8 @@ Puerto Octay
 Puerto Padre
 Puerto Parra
 Puerto Peñasco
+Puerto Pirámides
+Puerto Piray
 Puerto Plata Province
 Puerto Princesa
 Puerto Real
@@ -46304,13 +47234,18 @@ Puerto Rico
 Puerto Rondón
 Puerto Saavedra
 Puerto Salgar
+Puerto San Julián
 Puerto Santa Cruz
 Puerto Santander
 Puerto Tejada
+Puerto Tirol
 Puerto Triunfo
 Puerto Vallarta
 Puerto Varas
+Puerto Vilelas
 Puerto Wilches
+Puerto Yeruá
+Puesto Viejo
 Pueyo
 Puglia
 Puglianello
@@ -46329,6 +47264,8 @@ Puigverd de Lleida
 Puiseaux
 Puisieux-et-Clanlieu
 Puits
+Pujato
+Pujato Norte
 Puka Parish
 Pukekohe
 Puketapapa Local Board
@@ -46374,11 +47311,13 @@ Puno
 Puno Province
 Puno Region
 Punta Arenas
+Punta del Agua
 Punta del Este
 Puntagorda
 Punta Gorda
 Punta Indio Department
 Puntallana
+Punta Pozo
 Puntarenas
 Puntarenas Province
 Punta Umbría
@@ -46403,6 +47342,7 @@ Puriscal
 Purísima
 Purísima del Rincón
 Purkersdorf
+Purmamarca
 Purmerend
 Purovsky District
 Purranque
@@ -46568,6 +47508,7 @@ Queanbeyan
 Queanbeyan-Palerang
 Québec
 Quebracho
+Quebracho Herrado
 Quebradanegra
 Quebradillas
 Quebrangulo
@@ -46586,6 +47527,7 @@ Queensland
 Queens Region
 Queenstown
 Queenstown-Lakes District
+Quehué
 Queilén
 Queimada Nova
 Queimadas
@@ -46603,6 +47545,7 @@ Quemchi
 Quemeneven
 Quemigny-sur-Seine
 Quemper-Guézennec
+Quemú Quemú
 Quéntar
 Quepos
 Quer
@@ -46619,6 +47562,7 @@ Quessy
 Questembert
 Quetame
 Quetigny
+Quetrequén
 Quetta
 Quetzaltenango
 Quetzaltenango Department
@@ -46644,17 +47588,21 @@ Quilaco
 Quilalí
 Quiliano
 Quilicura
+Quili Malal
+Quilino
 Quilleco
 Quillón
 Quillota
 Quillota Province
 Quilmes
 Quilmes Department
+Quilmes y Los Sueldos
 Quilombo
 Quilpie
 Quilpué
 Quily
 Quimbaya
+Quimilí
 Quimistán
 Quimper
 Quimperle
@@ -46669,6 +47617,7 @@ Quincy
 Quincy Township
 Quindici
 Quindío Department
+Quines
 Quingentole
 Quingey
 Quinta de Tilcoco
@@ -46708,6 +47657,7 @@ Quistello
 Quistinic
 Quitandinha
 Quiterianópolis
+Quitilipi
 Quitman
 Quitman County
 Quito
@@ -46770,7 +47720,9 @@ Racineves
 Rackeve District
 Rackova
 Raclawice commune
+Raco
 Radaškovičy
+Rada Tilly
 Radchenskoye
 Radcliff
 Radda in Chianti
@@ -46874,8 +47826,10 @@ Rae Parish
 Raerd
 Raeren
 Raes Junction
+Rafaela
 Rafael Fernandes
 Rafael Freyre
+Rafael García
 Rafael Godeiro
 Rafael Guillermo Urdaneta
 Rafael Jambeiro
@@ -46958,6 +47912,7 @@ Ralls County
 Ralpho Township
 Ralsko
 Ramacca
+Ramada Paso
 Ramalde
 Ramales de la Victoria
 Ramallah
@@ -46967,6 +47922,7 @@ Ramapough Lenape Indian Nation
 Ramat Gan
 Ramat HaSharon
 Ramat Yishai
+Ramayón
 Ramea
 Rameh
 Ramenki District
@@ -46987,6 +47943,7 @@ Rammerech
 Rammersmatt
 Rammingen in Bayern
 Ramon
+Ramona
 Ramón Santana
 Ramonsky District
 Ramos Arizpe
@@ -47007,6 +47964,7 @@ Rances
 Ranchal
 Rancharia
 Ranchi
+Ranchillos y San Miguel
 Ranchland Municipal District
 Rancho Alegre
 Rancho Alegre d'Oeste
@@ -47021,6 +47979,7 @@ Rancio Valcuvia
 Rancirov
 Ranco
 Ranco Province
+Rancul
 Randa
 Randaberg
 Randall County
@@ -47242,8 +48201,10 @@ Reagan County
 Reahûs
 Real County
 Realeza
+Realicó
 Realmonte
 Realp
+Real Sayana
 Reana del Rojale
 Reano
 Reao
@@ -47283,6 +48244,7 @@ Recoaro
 Recoleta
 Recologne
 Recologne-lès-Rioz
+Reconquista
 Reconvilier
 Recouvrance
 Recreio
@@ -47464,6 +48426,7 @@ Rekhasim
 Rekingen
 Rekovac
 Rellinars
+Relmo
 Relvado
 Remanso
 Remanzacco
@@ -47578,6 +48541,7 @@ Reshetylivka District
 Resia
 Resice
 Résigny
+Resistencia
 Resiutta
 Resko commune
 Resolute Bay
@@ -47710,6 +48674,7 @@ Riacho dos Cavalos
 Riacho dos Machados
 Riacho Frio
 Riacho Fundo
+Riacho He-Hé
 Riachuelo
 Rialma
 Rialp
@@ -47939,6 +48904,8 @@ Rincão
 Rincon
 Rincón
 Rinconada
+Rincón del Doll
+Rincón de los Sauces
 Rincón de Romos
 Rincón de Soto
 Rindal
@@ -47987,9 +48954,11 @@ Río Bueno
 Riocabado
 Rio Casca
 Río Cauto
+Río Ceballos
 Rio Claro
 Río Claro
 Rio Claro-Mayaro Region
+Río Colorado
 Rio Crespo
 Río Cuarto
 Rio da Conceição
@@ -48002,6 +48971,7 @@ Rio de Janeiro
 Rio de Janeiro (city)
 Río de Jesús
 Rio Dell
+Río de los Sauces
 Rio de Mouro
 Río de Oro
 Rio di Pusteria
@@ -48046,6 +49016,7 @@ Riomaggiore
 Rio Maior
 Rio Manso
 Rio Maria
+Río Mayo
 Riom-ès-Montagnes
 Rione Cattedrale
 Rio Negrinho
@@ -48066,10 +49037,13 @@ Rio Novo do Sul
 Rio Paranaíba
 Rio Pardo
 Rio Pardo de Minas
+Río Pico
+Río Piedras
 Rio Piracicaba
 Rio Pomba
 Rio Preto
 Rio Preto da Eva
+Río Primero
 Rio Quente
 Río Quito
 Rio Rancho
@@ -48080,8 +49054,11 @@ Riosa
 Rio Saliceto
 Río San Juan
 Rio San Juan Department
+Río Seco
+Río Segundo
 Rio Sono
 Riosucio
+Río Tercero
 Rio Tinto
 Riotord
 Riotuerto
@@ -48141,9 +49118,12 @@ Riu de Cerdanya
 Riudecols
 Riudellots de la Selva
 Riudoms
+Rivadavia
 Riva del Garda
 Riva del Po
 Riva di Solto
+Rivadivia Banda Norte
+Rivadivia Banda Sur
 Rivalba
 Riva Ligure
 Rivalta Bormida
@@ -48269,6 +49249,7 @@ Roblin
 Robregordo
 Roburent
 Rocafort de Queralt
+Rocamora
 Rocanville
 Roca Sales
 Roccabascerana
@@ -48432,6 +49413,7 @@ Roddino
 Rodeio
 Rodeio Bonito
 Rodeiro
+Rodeíto
 Rodelas
 Rodello
 Roden
@@ -48553,6 +49535,7 @@ Rokytno
 Rolador
 Rolândia
 Rolante
+Roldán
 Roldanillo
 Rolde
 Rolesville
@@ -48565,6 +49548,7 @@ Rolle
 Rolleston
 Rollinsford
 Rolo
+Rolón
 Roma
 Romagnano al Monte
 Romagnano Sesia
@@ -48580,6 +49564,7 @@ Romana
 Romanel-sur-Lausanne
 Romanel-sur-Morges
 Romanengo
+Romang
 Romaniv District
 Romano Canavese
 Romano d'Ezzelino
@@ -48714,12 +49699,17 @@ Rosana
 Rosario
 Rosário
 Rosário da Limeira
+Rosario de la Frontera
+Rosario de Lerma
+Rosario del Saladillo
+Rosario del Tala
 Rosario de Mora
 Rosario de Perijá
 Rosário do Catete
 Rosário do Ivaí
 Rosário do Sul
 Rosário Oeste
+Rosario Vera Peñaloza
 Rosarito
 Rosarno
 Rosas
@@ -49043,6 +50033,7 @@ Rubirizi District
 Rubite
 Rubizhne
 Ruby
+Rucanelo
 Rucava
 Rückersdorf
 Rückholz
@@ -49083,6 +50074,7 @@ Ruds Vedby
 Rüdtligen-Alchenflüh
 Rudy
 Rue
+Rueda
 Ruederbach
 Rüeggisberg
 Rueglio
@@ -49103,6 +50095,7 @@ Ruffiac
 Ruffieux
 Ruffrè-Mendola
 Rufina
+Rufino
 Rugaji
 Rugby
 Ruggell
@@ -49114,6 +50107,7 @@ Ruinen
 Ruinerwold
 Ruiselede
 Ruíz
+Ruiz de Montoya
 Ruja commune
 Rujiena
 Ruka Witran
@@ -49128,6 +50122,7 @@ Rumes
 Rumford
 Rümikon
 Rumilly
+Rumi Punco
 Rumisberg
 Rümlang
 Rümligen
@@ -49402,11 +50397,13 @@ Sacacoyo
 Sácama
 Sac and Fox Nation
 Sac and Fox Reservation
+Sacanta
 Sacapulas
 Sacatepéquez Department
 Sacco
 Saccolongo
 Sac County
+Sachájoy
 Saché
 Sáchica
 Sachkhere
@@ -50270,6 +51267,7 @@ Saint-Ythaire
 Saint-Yvi
 Saint-Yvoine
 Saipan
+Saira
 Sairé
 Saitama
 Saitama Prefecture
@@ -50323,6 +51321,8 @@ Salacgriva
 Sala Comacina
 Sala Consilina
 Salacova Lhota
+Saladas
+Saladero Mariano Cabal
 Saladillo Department
 Saladoblanco
 Salagnon
@@ -50361,6 +51361,7 @@ Salcedo
 Šalčininkai District Municipality
 Salcito
 Salcoatitán
+Saldán
 Saldaña
 Saldaña de Burgos
 Saldanha Bay
@@ -50441,6 +51442,7 @@ Salles-Arbuissonnas-en-Beaujolais
 Salles-de-Villefagnan
 Salley
 Sallingberg
+Salliqueló
 Sallustiano
 Sally's Cove
 Salmaise
@@ -50461,6 +51463,8 @@ Salorino
 Salorno
 Salou
 Salpazari
+Salsacate
+Salsipuedes
 Salsk
 Salsky District
 Salsomaggiore Terme
@@ -50567,6 +51571,7 @@ Samone
 Samos
 Samothraki
 Samotisky
+Sampacho
 Sampaio
 Sampang Regency
 Sampeyre
@@ -50592,6 +51597,7 @@ Samut Sakhon Province
 Samut Songkhram Province
 Sana'a
 San Adrián
+Sanagasta
 Sanagochi
 San Agustín
 San Agustín Acasaguastlán
@@ -50622,20 +51628,25 @@ San Antero
 San Antonio
 San Antonio Aguas Calientes
 San Antonio de Areco Department
+San Antonio de Arredondo
 San Antonio de Cortés
 San Antonio de Flores
 San Antonio de Guerra
+San Antonio de Itatí
 San Antonio de la Cruz
+San Antonio de Litín
 San Antonio del Monte
 San Antonio del Mosco
 San Antonio del Norte
 San Antonio de los Baños
+San Antonio de los Cobres
 San Antonio del Sur
 San Antonio del Tequendama
 San Antonio de Oriente
 San Antonio de Palmito
 San Antonio Huista
 San Antonio Ilotenango
+San Antonio Isla Apipé Grande
 San Antonio La Paz
 San Antonio Los Ranchos
 San Antonio Masahuat
@@ -50680,6 +51691,7 @@ San Bernardino
 San Bernardino County
 San Bernardino Verbano
 San Bernardo
+San Bernardo (Nueve de Julio)
 San Bernardo del Viento
 San Biagio della Cima
 San Biagio di Callalta
@@ -50687,6 +51699,7 @@ San Biagio Platani
 San Biagio Saracinisco
 San Biase
 San Blas
+San Blas de los Sauces
 San Bonifacio
 Sanborn County
 Sanbornton
@@ -50700,10 +51713,14 @@ San Canzian d'Isonzo
 San Carlo Canavese
 San Carlos
 San Carlos Alzatate
+San Carlos Centro
 San Carlos de Apoquindo
 San Carlos de Bariloche
 San Carlos de Guaroa
+San Carlos Minas
+San Carlos Norte
 San Carlos Sija
+San Carlos Sud
 San Carlos y San Severino de Matanzas
 San Casciano dei Bagni
 San Casciano in Val di Pesa
@@ -50739,6 +51756,7 @@ San Colombano al Lambro
 San Colombano Belmonte
 San Colombano Certenoli
 San Cono
+San Cosme
 San Cosmo Albanese
 San Costantino Albanese
 San Costantino Calabro
@@ -50753,6 +51771,7 @@ San Cristóbal Province
 San Cristóbal Totonicapán
 San Cristóbal Verapaz
 San Cristoforo
+Sancti Spíritu
 Sancti Spíritus
 Sancti Spíritus Province
 Sancy-les-Cheminots
@@ -50877,6 +51896,8 @@ San Francisco de Borja
 San Francisco de Conchos
 San Francisco de Jacagua
 San Francisco de la Paz
+San Francisco del Chañar
+San Francisco del Monte de Oro
 San Francisco del Norte
 San Francisco del Oro
 San Francisco de los Romo
@@ -50885,6 +51906,7 @@ San Francisco del Valle
 San Francisco de Macorís
 San Francisco de Ojuera
 San Francisco de Opalaca
+San Francisco de Santa Fe
 San Francisco de Yojoa
 San Francisco El Alto
 San Francisco Gotera
@@ -50908,6 +51930,7 @@ San Gaspar Ixchil
 Sangaste Parish
 San Gavino Monreale
 San Gemini
+San Genaro
 San Genaro de Boconoíto
 San Genesio Atesino
 San Genesio ed Uniti
@@ -50994,9 +52017,12 @@ San Gregorio Matese
 San Gregorio nelle Alpi
 Sangre Grande Region
 Sangüesa
+San Guillermo
 Sanguinetto
+San Gustavo
 San Gwann
 Sanharó
+San Hilario
 Sanibel
 San Ignacio
 San Ignacio Cerro Gordo
@@ -51009,15 +52035,21 @@ Sanilac County
 San Ildefonso
 San Ildefonso Ixtahuacán
 San Isidro
+San Isidro de Lules
 San Isidro Department
 San Isidro Labrador
 San Jacinto
 San Jacinto County
 San Jacinto del Cauca
+San Jaime de la Frontera
 San Javier
 San Javier de Loncomilla
+San Javier y Yacanto
 San Jerónimo
 San Jerónimo de Guayabal
+San Jerónimo del Sauce
+San Jerónimo Norte
+San Jerónimo Sud
 Sanjo
 San Joaquín
 San Joaquin County
@@ -51030,18 +52062,25 @@ San José Chacayá
 San José Comayagua
 San José de Bocay
 San José de Cusmapa
+San José de Feliciano
 San José de Gracia
 San José de Guaribe
+San José de la Dormida
+San José de la Esquina
 San José de la Montaña
 San José de las Colinas
 San José de las Layas
 San José de las Matas
+San José de las Salinas
 San José del Cabo
 San José del Fragua
 San José del Golfo
+San José del Morro
 San José de los Llanos
+San José del Rincón
 San José del Valle
 San José de Maipo
+San José de Metán
 San José de Miranda
 San José de Ocoa
 San José de Ocoa Province
@@ -51111,6 +52150,7 @@ San Juan Tepezontes
 San Juan y Martinez
 San Judas Tadeo
 San Julián
+San Justo
 Sankertown
 Sankt Aegyd am Neuwalde
 Sankt Andrä
@@ -51243,6 +52283,7 @@ San Luis de Gaceno
 San Luis de la Paz
 San Luis de la Reina
 San Luis del Carmen
+San Luis del Palmar
 San Luis de Palenque
 San Luis Jilotepeque
 San Luis La Herradura
@@ -51273,18 +52314,24 @@ San Marcos
 San Marcos Department
 San Marcos de Sierra
 San Marcos La Laguna
+San Marcos Sierras
+San Marcos Sud
 San Marino
 San Martín
 San Martín Chalchicuautla
 San Martin Chile Verde
 San Martín de Bolaños
 San Martín de Hidalgo
+San Martín de las Escobas
 San Martín de la Vega
 San Martín de Loba
+San Martín de los Andes
 San Martín del Rey Aurelio
 San Martín de Trevejo
 San Martín de Valdeiglesias
+San Martín Dos
 San Martín Jilotepeque
+San Martín Norte
 San Martino Alfieri
 San Martino al Tagliamento
 San Martino Buon Albergo
@@ -51392,6 +52439,7 @@ San Pablo de Borbur
 San Pablo Jocopilas
 San Pablo La Laguna
 San Pablo Tacachiro
+San Pablo y Villa Nougués
 San Pancrazio
 San Pancrazio Salentino
 San Paolo
@@ -51402,12 +52450,16 @@ San Paolo di Civitate
 San Paolo di Jesi
 San Paolo Solbrito
 San Patricio County
+San Patricio del Chañar
 San Pawl il-Bahar
 San Pedro
 San Pedro Ayampuc
 San Pedro Carchá
 San Pedro de Atacama
 San Pedro de Cartago
+San Pedro de Colalao
+San Pedro de Guasayán
+San Pedro de Jujuy
 San Pedro de la Cueva
 San Pedro del Arroyo
 San Pedro del Gallo
@@ -51493,6 +52545,7 @@ San Rafael Petzal
 San Rafael Pie de La Cuesta
 San Raffaele Cimena
 San Ramón
+San Ramón de la Nueva Orán
 San Raymundo
 Sanremo
 San Roberto
@@ -51621,10 +52674,12 @@ Santa Albertina
 Santa Amélia
 Santa Ana
 Santa Ana de Coro
+Santa Ana de los Guácaras
 Santa Ana Department
 Santa Ana de Yusguare
 Santa Ana Huista
 Santa Ana la Real
+Santa Anita
 Santa Apolonia
 Santa Barbara
 Santa Bárbara
@@ -51646,6 +52701,7 @@ Santa Branca
 Santa Brigida
 Santa Brígida
 Santa Carmem
+Santa Catalina
 Santa Catalina de Alejandría
 Santa Catalina la Tinta
 Santa Catarina
@@ -51665,7 +52721,9 @@ Santa Cesarea Terme
 Santa Clara
 Santa Clara County
 Santa Clara d'Oeste
+Santa Clara de Buena Vista
 Santa Clara de Olimar
+Santa Clara de Saguier
 Santa Clara do Sul
 Santa Clara La Laguna
 Santa Clara Pueblo
@@ -51731,6 +52789,7 @@ Santa Cruz Muluá
 Santa Cruz Naranjo
 Santa Cruz Province
 Santa Cruz Verapaz
+Santa Cruz y La Tuna
 Santadi
 Santa Domenica Talao
 Santa Domenica Vittoria
@@ -51740,6 +52799,7 @@ Santa Elena
 Santa Elena Province
 Santa Elisabetta
 Santa Ernestina
+Santa Eufemia
 Santa Eufémia de Prazins
 Santa Eugènia
 Santa Eulalia
@@ -51845,6 +52905,7 @@ Santa Maria de Martorelles
 Santa Maria de Merlès
 Santa María de Nieva
 Santa María de Pantasma
+Santa María de Punilla
 Santa Maria di Licodia
 Santa Maria di Sala
 Santa Maria do Cambucá
@@ -51947,8 +53008,12 @@ Santa Rosa County
 Santa Rosa da Serra
 Santa Rosa de Aguán
 Santa Rosa de Cabal
+Santa Rosa de Calamuchita
+Santa Rosa de Calchines
 Santa Rosa de Copán
 Santa Rosa de Goiás
+Santa Rosa del Conlara
+Santa Rosa de Leales y Laguna Blanca
 Santa Rosa de Lima
 Santa Rosa del Peñón
 Santa Rosa del Sur
@@ -51966,6 +53031,7 @@ Santa Severina
 Santa Sofia
 Santa Sofía
 Santa Sofia d'Epiro
+Santa Sylvina
 Santa Tecla
 Santa Teresa
 Santa Teresa di Riva
@@ -52028,6 +53094,7 @@ Santiago de Cuba Province
 Santiago de la Frontera
 Santiago del Estero
 Santiago del Estero Province
+Santiago de Liniers
 Santiago de los Caballeros
 Santiago del Teide
 Santiago de Maria
@@ -52042,6 +53109,7 @@ Santiago Nonualco
 Santiago Province
 Santiago Rodríguez Province
 Santiago Sacatepéquez
+Santiago Temple
 Santiago Texacuangos
 Santiago Tulantepec de Lugo Guerrero
 Santibañez el Bajo
@@ -52143,6 +53211,7 @@ Santomera
 Santoña
 Santon Parish
 Santopadre
+Santo Pipó
 Santópolis do Aguapeí
 Santorcaz
 Santorso
@@ -52168,6 +53237,7 @@ Santo Tirso
 Santo Tomás
 Santo Tomás del Norte
 Santo Tomás La Unión
+Santo Tomé
 Santo Tomé del Puerto
 Santo Tomé de Zabarcos
 Santoyo
@@ -52183,6 +53253,7 @@ Sant Quirze Safaja
 Sant Sadurní d'Anoia
 Santuario
 Santu Lussurgiu
+Santurce
 Santurtzi
 Sant Vicenç de Castellet
 Sant Vicenç dels Horts
@@ -52579,6 +53650,7 @@ São Vicente Férrer
 Sapanca
 Sapé
 Sapeaçu
+Sa Pereira
 Sapezal
 Sapiranga
 Saplava
@@ -52600,6 +53672,7 @@ Sarabetsu
 Saraburi Province
 Saracena
 Saracinesco
+Sarah
 Sarah Baartman
 Saraj
 Sarajevo
@@ -52656,6 +53729,7 @@ Sarezzano
 Sarezzo
 Sargans
 Sargent County
+Sargento Cabral
 Sargé-sur-Braye
 Sari
 Sáric
@@ -52682,6 +53756,7 @@ Sarkoy
 Sarmato
 Sarmede
 Sarmenstorg
+Sarmiento
 Särna
 Sarnaki commune
 Sarnano
@@ -52755,6 +53830,7 @@ Sassoferrato
 Sasso Marconi
 Sassuolo
 Sastamala
+Sastre y Ortiz
 Sas van Gent
 Sasykolsky
 Satakunta
@@ -52792,10 +53868,13 @@ Satubinha
 Satu Mare County
 Satun Province
 Satupa'itea District
+Saturnino María Laspiur
 Saubara
 Saubraz
 Saúca
 Sauce
+Sauce de Luna
+Sauce Viejo
 Saucillo
 Sauda
 Saudade do Iguaçu
@@ -52811,6 +53890,7 @@ Saugues
 Saugus
 Saugy
 Sauherad
+Saujil
 Sauk County
 Šaukenai
 Šaukotas
@@ -52843,6 +53923,7 @@ Sauvigney-lès-Gray
 Sauvigney-lès-Pesmes
 Sauvo
 Sauxillanges
+Sauzal Bonito
 Sauze d'Oulx
 Sauze di Cesana
 Sauzon
@@ -53297,6 +54378,7 @@ Sebago
 Sebaldeburen
 Sebastian
 Sebastian County
+Sebastián Elcano
 Sebastianópolis do Sul
 Sebastião Barros
 Sebastião Laranjeiras
@@ -53326,6 +54408,7 @@ Sechura
 Sechura Province
 Secinaro
 Seckau
+Seclantás
 Seclì
 Secugnago
 Seda
@@ -53362,6 +54445,7 @@ See
 See (Lac)
 Seebach
 Seebenstein
+Seeber
 Seeberg
 Seebergen
 Seeboden am Millstätter See
@@ -53405,6 +54489,8 @@ Segovia
 Segrate
 Segredo
 Segrià
+Seguí
+Segunda Usina
 Segundo Frente
 Segura
 Segura de León
@@ -53610,6 +54696,7 @@ Senicka
 Senieji Trakai
 Seniga
 Senigallia
+Senillosa
 Seninka
 Senis
 Senise
@@ -53746,6 +54833,7 @@ Serniki commune
 Sernio
 Sernursky District
 Serock commune
+Serodino
 Serokomla commune
 Serole
 Serón
@@ -53791,6 +54879,7 @@ Serra Negra do Norte
 Serrania
 Serranillos
 Serranillos del Valle
+Serrano
 Serrano do Maranhão
 Serranópolis
 Serranópolis de Minas
@@ -53823,6 +54912,7 @@ Serre-Nerpol
 Serrenti
 Serres
 Serreta
+Serrezuela
 Serri
 Serrières
 Serrières-en-Chautagne
@@ -54403,15 +55493,18 @@ Siero
 Sierpc
 Sierpc commune
 Sierpc County
+Sierra Colorada
 Sierra County
 Sierra de Cubitas
 Sierra de Fuentes
 Sierra Gorda
+Sierra Grande
 Sierra Madre
 Sierra Mojada
 Sierre
 Sierro
 Siesikai
+Siete Palmas
 Sievering
 Sievi
 Sievierodonetsk
@@ -54526,6 +55619,7 @@ Silves
 Silvi
 Silvia
 Silvianópolis
+Silvio Pellico
 Silz
 Silzheim
 Simacota
@@ -54538,6 +55632,7 @@ Simard
 Simav
 Simaxis
 Simbario
+Simbolar
 Simcoe County
 Simeiz
 Simeri Crichi
@@ -54550,6 +55645,7 @@ Simmering
 Simmering District
 Simnas
 Simo
+Simoca
 Simões
 Simões Filho
 Simolândia
@@ -54603,6 +55699,7 @@ Sinop
 Sinopoli
 Sinop Province
 Sins
+Sinsacate
 Sinscola
 Sint-Agatha-Berchem
 Sint-Annaland
@@ -55232,7 +56329,9 @@ Solbiate Olona
 Solčava
 Soldănesti District
 Soldano
+Sol de Julio
 Sölden
+Soldini
 Soldotna
 Solebury Township
 Solec Kujawski commune
@@ -55789,6 +56888,7 @@ Speising
 Spelkov
 Spello
 Spelthorne
+Speluzzi
 Spencer
 Spencer (town)
 Spencer (village)
@@ -56807,6 +57907,7 @@ Sublaines
 Sublette County
 Subligny
 Subotica
+Subteniente Perín
 Succivo
 Suceava
 Suceava County
@@ -56829,6 +57930,7 @@ Suchov
 Suchovrsice
 Suchy
 Suchy Dul
+Suco
 Sucre
 Sucre Department
 Sucumbíos Province
@@ -56970,6 +58072,7 @@ Sulzberg
 Sulz im Weinviertel
 Sumadija District
 Sumadija i zapadna Srbija
+Sumampa
 Sumar
 Sumaré
 Sumatera Barat
@@ -57028,6 +58131,8 @@ Sunagawa
 Sunapee
 Sunbury
 Sunbury County
+Sunchales
+Suncho Corral
 Sun City West
 Sund
 Sunday's River Valley
@@ -57122,6 +58227,7 @@ Susa
 Susacón
 Susaki
 Susami
+Susana
 Susaninsky District
 Suscévaz
 Susegana
@@ -57502,6 +58608,7 @@ Taboleiro Grande
 Tabor
 Tabor City
 Tabor District
+Tabossi
 Tabriz
 Tábua
 Tabuaço
@@ -57530,7 +58637,9 @@ Tacoma
 Tacoronte
 Tactic
 Tacuarembó Department
+Tacuarendí
 Tacuba
+Tacural
 Tacuru
 Tadami
 Tadaoka
@@ -57543,6 +58652,8 @@ Tadten
 Tafalla
 Tafea Province
 Tafers
+Tafí del Valle
+Tafí Viejo
 Tafunsak
 Taga
 Tagajo
@@ -57661,10 +58772,12 @@ Takoma Park
 Tak Province
 Taku
 Tala
+Tala Cañada
 Talačyn
 Talačyn District
 Talagante
 Talagante Province
+Tala Huasi
 Talaigua Nuevo
 Talalaivka District
 Talamanca
@@ -57792,6 +58905,7 @@ Tanagra
 Tanagura
 Tana River County
 Tanay
+Tancacha
 Tancanhuitz
 Tancon
 Tandel
@@ -57834,6 +58948,7 @@ Tanquián de Escobedo
 Tanquinho
 Tan-Tan
 Tan-Tan Province
+Tanti
 Tanum Municipality
 Tanvald
 Taormina
@@ -57845,13 +58960,16 @@ Taoyuan City
 Tapa
 Tapalhuaca
 Tapalpa
+Tapalqué
 Tapanui
 Tapa Parish
 Taparuba
+Tapebicuá
 Tapejara
 Tapera
 Taperoá
 Tapes
+Tapia
 Tapia de Casariego
 Tapira
 Tapiraí
@@ -57860,6 +58978,7 @@ Tapiratiba
 Tapolca District
 Tapora
 Tappahannock
+Tapso
 Tapurah
 Taputapuatea
 Taquara
@@ -57874,6 +58993,7 @@ Taquarivaí
 Taquaruçu de Minas
 Taquaruçu do Sul
 Taquarussu
+Taquimilán
 Tara
 Tarabai
 Taraclia District
@@ -57957,6 +59077,7 @@ Tarrytown
 Tarsia
 Tarso
 Tarsus
+Tartagal
 Tartano
 Tartaras
 Tartarugalzinho
@@ -58138,6 +59259,7 @@ Techarovice
 Techelsberg am Wörther See
 Techlovice
 Techonin
+Tecka
 Tecknau
 Tecolotlán
 Tecoluca
@@ -58209,6 +59331,7 @@ Telc
 Telde
 Teleci
 Telêmaco Borba
+Telén
 Telenesti District
 Teleorman County
 Telese Terme
@@ -58230,6 +59353,7 @@ Tell Township
 Tel Mond
 Telnice
 Telpaneca
+Telsen
 Telšiai
 Telšiai County
 Telšiai District Municipality
@@ -58306,6 +59430,7 @@ Tentlingen
 Tenza
 Teocaltiche
 Teocuitatlán de Corona
+Teodelina
 Teodoro Sampaio
 Teodoro Schmidt
 Teofilândia
@@ -58383,6 +59508,7 @@ Terlano
 Terlicko
 Terlizzi
 Termal
+Termas de Río Hondo
 Terme
 Termen
 Termeno sulla Strada del Vino
@@ -58587,6 +59713,7 @@ Themar
 Thembelihle
 Thembisile Hani
 Thenailles
+Theobald
 Theobroma
 The Plains
 Theresa (town)
@@ -58722,6 +59849,7 @@ Ticengo
 Ticha
 Tichov
 Ticineto
+Ticino
 Ticonderoga
 Ticuantepe
 Tidaholm Municipality
@@ -58775,8 +59903,10 @@ Tikhvin
 Tikhvinsky District
 Tilarán
 Tilburg
+Tilcara
 Til-Châtel
 Tilden Township
+Tilisarao
 Tillabéri Region
 Tillamook County
 Tillenay
@@ -58803,6 +59933,7 @@ Timbiras
 Timblin
 Timbó
 Timbó Grande
+Timbúes
 Timburi
 Time
 Timiryazevsky District
@@ -58832,10 +59963,13 @@ Tinlot
 Tinmouth
 Tinn
 Tinnura
+Tinoco
+Tinogasta
 Tinos
 Tiñosillos
 Tinteniac
 Tintigny
+Tintina
 Tinton Falls
 Tinui
 Tinwald
@@ -58847,6 +59981,7 @@ Tione degli Abruzzi
 Tione di Trento
 Tionesta
 Tionesta Township
+Tío Pujio
 Tipacoque
 Tipitapa
 Tippah County
@@ -58948,6 +60083,7 @@ Toa Alta
 Toa Baja
 Toamasina
 Toano
+Toay
 Toba
 Tobaccoville
 Tobadill
@@ -59031,6 +60167,7 @@ Tokushima Prefecture
 Tokyo
 Tola
 Tolaga Bay
+Tolar Grande
 Tolcayuca
 Tolé
 Toledo
@@ -59038,6 +60175,7 @@ Toledo District
 Tolentino
 Tolfa
 Tolga
+Tolhuin
 Toliara
 Tolima Department
 Tolimán
@@ -59071,6 +60209,7 @@ Tomarinsky District
 Tomás Gomensoro
 Tomashpil
 Tomashpil District
+Tomás Manuel de Anchorena
 Tomášov
 Tomaszow Lubelski
 Tomaszow Lubelski County
@@ -59213,6 +60352,7 @@ Tornimparte
 Tornio
 Torno
 Tornolo
+Tornquist
 Torny
 Toro
 Torokszentmiklos District
@@ -59220,6 +60360,7 @@ Torola
 Toronto
 Toropetsky District
 Toropi
+Toro Pujio
 Toroslar
 Torpè
 Torquemada
@@ -59344,6 +60485,7 @@ Tortorella
 Tortoreto
 Tortorici
 Tortosa
+Tortugas
 Torul
 Torun City
 Torun County
@@ -59366,9 +60508,12 @@ Toshima (ward)
 Toshkent
 Tosmur
 Tosnensky District
+Tosno
+Tosquita
 Tossa de Mar
 Tossiat
 Tossicia
+Tostado
 Tõstamaa Parish
 Tosu
 Tosunlar
@@ -59381,6 +60526,7 @@ Totma
 Totogalpa
 Totonicapán
 Totonicapán Department
+Totoras
 Totoró
 Tototlán
 Totowa
@@ -59499,12 +60645,14 @@ Tramping Lake
 Tramutola
 Trana
 Tranås Municipality
+Trancas
 Trancoso
 Tranemo Municipality
 Trang Province
 Trani
 Tranovice
 Tranqueras
+Tránsito
 Trans La Foret
 Transnistria
 Trans-Nzoia County
@@ -59668,7 +60816,9 @@ Trémuson
 Trenal
 Trencin
 Trencin Region
+Trenel
 Trenggalek Regency
+Trenque Lauquen
 Trentinara
 Trentino-Alto Adige
 Trento
@@ -59696,17 +60846,23 @@ Três Barras do Paraná
 Tresboeuf
 Três Cachoeiras
 Tres Cantos
+Tres Capones
 Três Corações
 Trescore Balneario
 Trescore Cremasco
 Três Coroas
+Tres Cruces
+Tres de Abril
 Tres de Febrero Department
 Três de Maio
 Três Forquilhas
 Três Fronteiras
 Tresignana
+Tres Isletas
 Tresivio
 Três Lagoas
+Tres Lagos
+Tres Lagunas
 Tres Lomas Department
 Três Marias
 Tres Martires
@@ -59726,6 +60882,7 @@ Trest
 Trestina
 Treutlen County
 Trevélez
+Trevelin
 Trévenans
 Tréveneuc
 Trevenzuolo
@@ -59771,6 +60928,7 @@ Tribiano
 Tribogna
 Tribrichy
 Tribunj
+Tricao Malal
 Tricarico
 Tricase
 Tricerro
@@ -60158,6 +61316,7 @@ Tuluá
 Tulum
 Tulungagung Regency
 Tumaraa
+Tumbaya
 Tumbes
 Tumbes Province
 Tumbes Region
@@ -60192,6 +61351,7 @@ Tunnel Hill
 Tunnelton
 Tuntum
 Tununguá
+Tunuyán
 Tuolumne County
 Tuoro sul Trasimeno
 Tupã
@@ -60213,6 +61373,7 @@ Tupiza
 Tuplice commune
 Tupper Lake (town)
 Tupper Lake (village)
+Tupungato
 Túquerres
 Tur
 Tur'an
@@ -60438,6 +61599,7 @@ Ubaí
 Ubaíra
 Ubaitaba
 Ubajara
+Ubajay
 Ubalá
 Ubaporanga
 Ubaque
@@ -60467,6 +61629,7 @@ Ubuhlebezwe
 Ubuntu
 Ubusinek
 Ubuyama
+Ucacha
 Ucayali Region
 Uccle
 Ucel
@@ -60630,6 +61793,7 @@ Ulldecona
 Ullensaker
 Ullensvang
 Ulloa
+Ullum
 Ulm
 Ulmer
 Ulmiz
@@ -60718,6 +61882,7 @@ Unaí
 Unalakleet
 Unalaska
 Unanov
+Unanue
 Unarokovskoye
 Una-Sana Canton
 Uncin
@@ -60783,6 +61948,7 @@ Unna
 Unna District
 Unnan
 Unorganized Borough
+Unquillo
 Unserfrau-Altweitra
 Unstrut-Hainich District
 UNSW Sydney
@@ -60935,6 +62101,7 @@ Urcel
 Urcice
 Urcy
 Urdaneta
+Urdinarrain
 Urdorf
 Urduliz
 Ures
@@ -60949,6 +62116,7 @@ Uriangato
 Uribante
 Uribe
 Uribia
+Uriburu
 Urique
 Uritck
 Urjala
@@ -60991,6 +62159,7 @@ Uruguaiana
 Uruma
 Urumaco
 Urumita
+Urundel
 Uruoca
 Urupá
 Urupema
@@ -61206,6 +62375,7 @@ Vaasa
 Vaassen
 Väätsa Parish
 Vabalninkas
+Vaca Huañuna
 Vacallo
 Vacaria
 Vacarisses
@@ -61291,6 +62461,7 @@ Valbroye
 Valburg
 Valby
 Vâlcea County
+Valcheta
 Valchi Dol
 Valchiusa
 Valchov
@@ -61448,6 +62619,7 @@ Vallecrosia
 Valle d'Aosta
 Valle de Allende
 Valle de Ángeles
+Valle de Anisacate
 Valle de Egüés
 Valle de Guadalupe
 Valle de Juárez
@@ -61474,6 +62646,7 @@ Valledolmo
 Valledoria
 Valledupar
 Vallée du Bandama District
+Valle Fértil
 Vallefiorita
 Vallefoglia
 Valle Gran Rey
@@ -61507,6 +62680,7 @@ Vallès Occidental
 Vallès Oriental
 Valletta
 Valleve
+Valle Viejo
 Valley County
 Valley Falls
 Valley Grove
@@ -61660,6 +62834,7 @@ Vapenny Podol
 Vapno
 Vaprio d'Adda
 Vaprio d'Agogna
+Vaqueros
 Var
 Varacevičy
 Varadero
@@ -61901,6 +63076,8 @@ Veigné
 Veigy-Foncenex
 Veilly
 Veilsdorf
+Veinticinco de Mayo
+Veintiocho de Julio
 Veintiocho de Noviembre
 Veisiejai
 Vejano
@@ -62065,6 +63242,7 @@ Velykyi Burluk District
 Vemyslice
 Venadillo
 Venado
+Venado Tuerto
 Venafro
 Venâncio Aires
 Venango
@@ -62146,6 +63324,7 @@ Vera Mendes
 Verano
 Verano Brianza
 Veranópolis
+Vera y Pintado
 Verbania
 Verbicaro
 Verbilki
@@ -62299,6 +63478,7 @@ Vertemate con Minoprio
 Vertente do Lério
 Vertentes
 Vertientes
+Vértiz
 Vertova
 Vertrieu
 Verucchio
@@ -62432,6 +63612,7 @@ Vialikaja Bierastavica
 Vialikaja Bierastavica District
 Vialikija Čučavičy
 Viamão
+Viamonte
 Viana
 Viana do Alentejo
 Viana do Castelo
@@ -62502,16 +63683,19 @@ Victoria County
 Victoria Daly
 Victoria Park
 Victoria Plains
+Victorica
 Victor Kanye
 Victory
 Victory Gardens
 Victory Township
 Vicuña
+Vicuña Mackenna
 Vidalia
 Vidal Ramos
 Vidce
 Viddalba
 Videira
+Videla
 Videm
 Viden
 Vidette
@@ -62632,6 +63816,7 @@ Viken
 Vikna
 Viktorsberg
 Vikyrovice
+Vila
 Vila Bela da Santíssima Trinidade
 Vilabertran
 Vilaboa
@@ -62721,36 +63906,54 @@ Vilkaviškis
 Vilkaviškis District Municipality
 Vilkyškiai
 Villa Ahumada
+Villa Alcaraz
 Villa Alegre
 Villa Alemana
+Villa Allende
 Villa Altagracia
+Villa Amancay
+Villa Amelia
+Villa Ángela
+Villa Ascasubi
+Villa Atamisqui
 Villa Bartolomea
 Villa Basilica
 Villabassa
 Villabasta de Valdavia
 Villabate
+Villa Belgrano
+Villa Berthet
 Villa Biscossi
 Villa Bisonó
 Villablanca
 Villabon
 Villabona-Amasa
+Villa Cañada del Sauce
 Villa Canales
+Villa Cañás
+Villa Candelaria Norte
 Villa Carcina
+Villa Carlos Paz
 Villacaro
 Villacarrillo
 Villa Castelli
 Villa Celiera
+Villa Cerro Azul
 Villach
 Villach District
 Villachiara
 Villacidro
+Villa Ciudad Parque
+Villa Clara
 Villa Clara Province
 Villa Collemandina
+Villa Concepción del Tío
 Villaconejos
 Villa Constitución
 Villa Corona
 Villa Cortese
 Villa Crespo
+Villa Cura Brochero
 Villa d'Adda
 Villa d'Almè
 Villa d'Ogna
@@ -62760,34 +63963,52 @@ Villa de Arriaga
 Villadeati
 Villa de Cos
 Villa de la Paz
+Villa de la Quebrada
+Villa de Las Rosas
 Villa del Bosco
 Villa del Campo
 Villa del Carmen
 Villa del Conte
+Villa del Dique
+Villa de Leales
 Villa de Leyva
 Villa de Los Santos
 Villa del Parque
 Villa del Prado
 Villa del Rey
 Villa del Rosario
+Villa del Totoral
+Villa de María
 Villa de Merlo
 Villa de Otura
+Villa de Pocho
 Villa de San Antonio
+Villa de San Pedro
+Villa de San Pedro Norte
+Villa de Soto
 Villa de Tezontepec
 Villa Devoto
 Villa di Briano
 Villa di Chiavenna
 Villa di Serio
 Villa di Tirano
+Villa Dolores
+Villa Domínguez
 Villadose
 Villadossola
+Villa Dos Trece
 Villa El Carmen
+Villa El Chocón
 Villaeles de Valdavia
+Villa Elisa
+Villa Eloísa
+Villa Escolar
 Villa Estense
 Villafalletto
 Villa Faraldi
 Villaflor
 Villafonsina
+Villa Fontana
 Villafranca
 Villafranca d'Asti
 Villafranca de Córdoba
@@ -62805,25 +64026,40 @@ Villaga
 Villa García
 Villagarzón
 Village Gardens
+Villa General Belgrano
+Villa General Güemes
 Villa General Mitre
 Village-Neuf
 Village of the Branch
+Villa Gesell
+Villa Giardino
+Villa Gobernador Gálvez
 Villagómez
 Villa González
 Villagonzalo Pedernales
 Villagrán
 Villagrande Strisaili
 Villa Guardia
+Villaguay
 Villa Guerrero
+Villa Guillermina
+Villa Gutiérrez
 Villahermosa
 Villa Hermosa
+Villa Hernandarias
 Villaherreros
 Villa Hidalgo
+Villa Huidobro
+Villa Icho Cruz
 Villaines-en-Duesmois
 Villa Isabela
 Villa Jaragua
+Villa La Angostura
+Villa La Bolsa
 Villa Lagarina
 Villalago
+Villa La Paisanita y La Isla
+Villa Larca
 Villa Latina
 Villalba
 Villalba del Alcor
@@ -62835,6 +64071,7 @@ Villa Literno
 Villalmanzo
 Villalobón
 Villa Los Almácigos
+Villa Los Aromos
 Villaluenga de la Sagra
 Villa Lugano
 Villa Luro
@@ -62843,6 +64080,7 @@ Villamagna
 Villamaina
 Villamanrique de Tajo
 Villamanta
+Villa Mantero
 Villamantilla
 Villamar
 Villamaría
@@ -62855,10 +64093,13 @@ Villamediana de Iregua
 Villamee
 Villa Mercedes
 Villamiel
+Villa Minetti
 Villa Minozzo
+Villa Mirasol
 Villamiroglio
 Villa Montellano
 Villamoronta
+Villa Mugueta
 Villandro
 Villandry
 Villanova Biellese
@@ -62903,7 +64144,14 @@ Villanueva Mesía
 Villanuño de Valdavia
 Villanuova sul Clisi
 Villa O'Higgins
+Villa Ocampo
+Villa Ojo de Agua
+Villa Olivari
 Villa Ortuzar
+Villa Paranacito
+Villa Parque Santa Ana
+Villa Parque Síquiman
+Villa Pehuenia - Moquehue
 Villaperuccio
 Villa Pesqueira
 Villapiana
@@ -62911,6 +64159,8 @@ Villapinzon
 Villa Pueyrredón
 Villa Purificación
 Villaputzu
+Villa Quillinzo
+Villa Quinteros
 Villarbasse
 Villarboit
 Villard-Bonnot
@@ -62922,6 +64172,7 @@ Villard-Léger
 Villardompardo
 Villar Dora
 Villa Real
+Villa Reducción
 Villareggia
 Villa Regina
 Villarejo del Valle
@@ -62931,9 +64182,12 @@ Villa Riachuelo
 Villa Rica
 Villaricca
 Villariezo
+Villarino
+Villa Río Bermejito
 Villa Riva
 Villaromagnano
 Villarosa
+Villa Rossi
 Villar Pellice
 Villar Perosa
 Villarrasa
@@ -62953,24 +64207,33 @@ Villars-sous-Écot
 Villars-sous-Yens
 Villars-sur-Glâne
 Villarta de los Montes
+Villa Rumipal
 Villarzel
 Villasalto
 Villa Sandino
 Villa San Francisco
 Villa San Giovanni
 Villa San Giovanni in Tuscia
+Villa San Isidro
 Villa San José
+Villa San Justo
+Villa San Lorenzo
 Villa San Pietro
 Villa San Secondo
 Villa Sant'Angelo
 Villa Sant'Antonio
 Villasanta
+Villa Santa Cruz del Lago
 Villa Santa Lucia
 Villa Santa Lucia degli Abruzzi
 Villa Santa Maria
 Villa Santa Rita
+Villa Santa Rosa de Río Primero
 Villa Santina
 Villa Santo Stefano
+Villa Saralegui
+Villa Sarmiento
+Villa Sarmiento (General Roca)
 Villasbuenas de Gata
 Villasila de Valdavia
 Villasimius
@@ -62981,11 +64244,15 @@ Villastellone
 Villata
 Villa Tapia
 Villatoro
+Villa Traful
+Villa Trinidad
 Villatuerta
+Villa Tulumba
 Villa Unión
 Villaurbana
 Villa Urquiza
 Villava
+Villa Valeria
 Villavallelonga
 Villavard
 Villa Vásquez
@@ -62996,7 +64263,9 @@ Villaviciosa
 Villaviciosa de Odón
 Villavieja
 Villavieja del Lozoya
+Villa Vil
 Villaviudas
+Villa Yacanto de Calamuchita
 Villaz
 Villazzano
 Ville
@@ -63132,6 +64401,7 @@ Vincelles
 Vincencov
 Vincent
 Vinchiaturo
+Vinchina
 Vinchio
 Vinci
 Vindafjord
@@ -64371,6 +65641,7 @@ Weinzierl am Walde
 Weipa
 Weir
 Weirton
+Weisburd
 Weisenberg Township
 Weislingen
 Weissbach bei Lofer
@@ -64437,6 +65708,7 @@ Welwyn Hatfield
 Wembley
 Wemeldinge
 Wemmel
+Wenceslao Escalante
 Wenceslau Braz
 Wenceslau Guimarães
 Wendell
@@ -64792,6 +66064,7 @@ Wheeler County
 Wheeling
 Wheeling Township
 Wheelock
+Wheelwright
 Whenuapai
 Whigham
 Whiritoa
@@ -65093,6 +66366,7 @@ Wingene
 Wingen-sur-Moder
 Wingerode
 Winhall
+Winifreda
 Winkel
 Winkel bei Bülach
 Winklarn
@@ -65516,6 +66790,7 @@ Yakutat
 Yakutiye
 Yakutsk
 Yakymivka District
+Yala
 Yalagüina
 Yalang
 Yala Province
@@ -65586,6 +66861,7 @@ Yanuh-Jat
 Yao
 Yaotsu
 Yap
+Yapeyú
 Yaprakli
 Yara
 Yaracuy
@@ -65624,6 +66900,7 @@ Yasuoka
 Yasynuvata
 Yasynuvata District
 Yatagan
+Yatay Tí Calle
 Yaté
 Yateras
 Yates
@@ -65882,6 +67159,7 @@ Yusharsky
 Yusuhara
 Yusui
 Yusvinsky District
+Yuto
 Yuza
 Yuzawa
 Yuzhne
@@ -66131,6 +67409,7 @@ Zara
 Zaragoza
 Zarasai
 Zarasai District Municipality
+Zárate
 Zarautz
 Zaravice
 Zaraysk
@@ -66175,6 +67454,7 @@ Zator
 Zatory commune
 Zavada
 Zavala County
+Zavalla
 Zavattarello
 Zaventem
 Zavetinsky District
@@ -66342,6 +67622,7 @@ Zenevredo
 Zenica
 Zenica-Doboj Canton
 Zenklava
+Zenón Pereyra
 Zenson di Piave
 Zentsuji
 Zephyrhills
@@ -66586,6 +67867,7 @@ Zolotuhinsky
 Zolsky District
 Zona Bananera
 Zona Oeste
+Zonda
 Zone
 Zonguldak
 Zonguldak Province
