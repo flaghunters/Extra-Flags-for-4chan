@@ -7785,6 +7785,7 @@ Breitenau
 Breitenau am Hochlantsch
 Breitenbach
 Breitenbach am Inn
+Breitenbach-Haut-Rhin
 Breitenbrunn am Neusiedler See
 Breitenbrunn in Schwaben
 Breitenfeld
@@ -19369,7 +19370,6 @@ Fedoskinskoye
 Fédry
 Feelen
 Fegersheim
-Fegersheim Ohnheim
 Fehergyarmat District
 Fehraltorf
 Fehren
@@ -21269,7 +21269,6 @@ Geispitzen
 Geispolsheim
 Geistown
 Geiswasser
-Geiswiller
 Geiswiller Zoebersdorf
 Gela
 Gélacourt
@@ -23257,7 +23256,7 @@ Guelmim-Oued Noun
 Guelmim Province
 Guelph
 Gueltas
-Guemar
+Guémar
 Guemene-sur-Scorff
 Guémené-sur-Scorff
 Güémez
@@ -35960,13 +35959,13 @@ Manouba
 Manouba Governorate
 Manowo commune
 Manresa
-Mansbach
 Mansfeld-Südharz District
 Mansfield
 Mansfield Shire
 Mansfield Township
 Mansidão
 Mansoura
+Manspach
 Mansuè
 Manta
 Manteigas
@@ -37533,6 +37532,7 @@ Merten
 Merthyr Tydfil
 Mértola
 Merton
+Mertzen
 Mertzwiller
 Meru County
 Meruelo
@@ -37545,7 +37545,6 @@ Mervin
 Merxheim
 Méry-sur-Cher
 Méry-sur-Seine
-Merzen
 Merzifon
 Merzig-Wadern District
 Merzligen
@@ -41572,7 +41571,6 @@ Niedersoultzbach
 Niederspier
 Niedersteinbach
 Niederstinzel
-Niedertraubach
 Niedervisse
 Niederweningen
 Niederwil
@@ -43048,7 +43046,6 @@ Oberstinzel
 Oberstrass
 Oberthal
 Obertilliach
-Obertraubach
 Obertrum am See
 Oberuzwil
 Obervellach
@@ -53210,7 +53207,6 @@ Saint-Piat
 Saint Pierre
 Saint-Pierre
 Saint-Pierre-Aigle
-Saint-Pierre-Bois
 Saint-Pierre-Bois et Hohwarth
 Saint-Pierre-d'Albigny
 Saint-Pierre-d'Irube
@@ -63008,6 +63004,8 @@ Trastevere
 Tratalias
 Trat Province
 Trattenbach
+Traubach-le-Bas
+Traubach-le-Haut
 Traunstein District
 Trausdorf an der Wulka
 Trautmannsdorf an der Leitha
@@ -68838,7 +68836,6 @@ Willer-sur-Thur
 Willerwald
 Willeskop
 Willet
-Willgottheim
 Willgottheim Woellenheim
 Williams
 Williamsburg
@@ -70461,7 +70458,6 @@ Zöbern
 Zöblen
 Zocca
 Žodzina
-Zoebersdorf
 Zoelen
 Zoersel
 Zoetermeer
