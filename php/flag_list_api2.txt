@@ -4656,10 +4656,10 @@ Baños de la Encina
 Baños de Montemayor
 Baños de Río Tobía
 Banov
-Bánovce nad Bebravou
-Banská Bystrica
+Bánovce nad Bebravou District
+Banská Bystrica District
 Banská Bystrica Region
-Banská Štiavnica
+Banská Štiavnica District
 Ban-sur-Meurthe-Clefcy
 Bant
 Banteay Meanchey Province
@@ -4793,7 +4793,7 @@ Barcoo
 Barcs District
 Barcy
 Bard
-Bardejov
+Bardejov District
 Bardello
 Bardi
 Bardineto
@@ -8865,6 +8865,7 @@ Breznice
 Breznički Hum
 Breznik
 Brezno
+Brezno District
 Brezolles
 Brezolupy
 Brezova
@@ -9904,7 +9905,7 @@ Bystrinsky District
 Bystrocice
 Bystrovany
 Bystrzyca Klodzka commune
-Bytča
+Bytča District
 Bytnica commune
 Bytom
 Bytom Odrzanski commune
@@ -10053,7 +10054,7 @@ Cadaqués
 Cadarsac
 Cadaujac
 Cadaval
-Čadca
+Čadca District
 Caddo County
 Caddo Nation
 Caddo Parish
@@ -17778,7 +17779,7 @@ De Trieme
 Detroit
 Dettah
 Dettwiller
-Detva
+Detva District
 De Tynje
 Deuel County
 Deuil-la-Barre
@@ -18405,7 +18406,7 @@ Dolni Zalezly
 Dolni Zandov
 Dolni Zivotice
 Dolnoslaskie Voivodeship
-Dolný Kubín
+Dolný Kubín District
 Dolo
 Doloplazy
 Dolores
@@ -19065,7 +19066,7 @@ Dumyat Governorate
 Dunaivtsi
 Dunaivtsi District
 Dunajská Lužná
-Dunajská Streda
+Dunajská Streda District
 Dunakeszi District
 Dunaujvaros District
 Dunback
@@ -23156,7 +23157,7 @@ Gajary
 Gakiling
 Galametz
 Galán
-Galanta
+Galanta District
 Galapa
 Galapagar
 Galápagos Province
@@ -23627,7 +23628,7 @@ Geling
 Gellenoncourt
 Gelles
 Gellicum
-Gelnica
+Gelnica District
 Gelos
 Gelsenkirchen
 Gelterkinden
@@ -27628,6 +27629,7 @@ Hlobyne District
 Hlohova
 Hlohovcice
 Hlohovec
+Hlohovec District
 Hlohovice
 Hlubocany
 Hlubocec
@@ -28474,7 +28476,7 @@ Humboldt
 Humboldt County
 Humburky
 Hume
-Humenné
+Humenné District
 Humerœuille
 Humières
 Humlikon
@@ -28870,7 +28872,7 @@ Ikwezi
 Ila
 Ilama
 Ilanz_Glion
-Ilava
+Ilava District
 Ilawa County
 Ilbono
 Ile-aux-Moines
@@ -31988,7 +31990,7 @@ Keystone
 Keystone Heights
 Keysville
 Key West
-Kežmarok
+Kežmarok District
 Kfar Bara
 Kfar Kama
 Kfar Saba
@@ -32810,7 +32812,7 @@ Komae
 Komagane
 Komaki
 Komarno
-Komárno
+Komárno District
 Komarom District
 Komarom-Esztergom County
 Komarov
@@ -33038,7 +33040,7 @@ Koshigaya
 Koshimizu
 Koshu
 Kosice
-Košice
+Košice District
 Košice Region
 Kosik
 Kosiky
@@ -33525,7 +33527,7 @@ Kruopiai
 Krupa
 Krupa na Uni municipality
 Krupanj
-Krupina
+Krupina District
 Krupka
 Krupki
 Krupki District
@@ -33905,7 +33907,7 @@ Kyshtovsky District
 Kyshtym
 Kysice
 Kyskovice
-Kysucké Nové Mesto
+Kysucké Nové Mesto District
 Kysyl-Syr
 Kythira
 Kythnos
@@ -36853,6 +36855,7 @@ Levet
 Le Veurdre
 Lev HaSharon
 Levice
+Levice District
 Levico Terme
 Le Vieil-Évreux
 Le Vigeant
@@ -36864,7 +36867,7 @@ Lévis
 Lévis-Saint-Nom
 Le Vivier-sur-Mer
 Levoberezhny District
-Levoča
+Levoča District
 Levoncourt
 Levone
 Levroux
@@ -37402,7 +37405,7 @@ Lipsko County
 Liptal
 Liptan
 Lipton
-Liptovský Mikuláš
+Liptovský Mikuláš District
 Lipuvka
 Liquica District
 Lirio
@@ -38394,7 +38397,7 @@ Lucena
 Lucena del Puerto
 Lucenay
 Lucenay-lès-Aix
-Lučenec
+Lučenec District
 Luceni
 Lucens
 Lucera
@@ -40392,6 +40395,7 @@ Martina Franca
 Martinborough
 Martin County
 Martincourt
+Martin District
 Martin-Église
 Martinengo
 Martinet
@@ -41086,7 +41090,7 @@ Medvezhyegorsky District
 Medvode
 Medvyodovskoye
 Medway
-Medzilaborce
+Medzilaborce District
 Meeden
 Meekatharra
 Meeker County
@@ -41766,7 +41770,7 @@ Miazzina
 Mibu
 Micanopy
 Michael
-Michalovce
+Michalovce District
 Michalovice
 Michalowice commune
 Michelbach
@@ -44621,7 +44625,7 @@ Myadel District
 Myasnikovsky District
 Mydlovary
 Myerstown
-Myjava
+Myjava District
 Mykhailivka District
 Myki
 Mykolaiv
@@ -44848,7 +44852,7 @@ Namegawa
 Namerikawa
 Namest nad Oslavou
 Namest na Hane
-Námestovo
+Námestovo District
 Namgyel Chhoeling
 Namie
 Namiquipa
@@ -46102,7 +46106,7 @@ Nistelrode
 Nisyros
 Niterói
 Nitkovice
-Nitra
+Nitra District
 Nitra Region
 Nitro
 Nittedal
@@ -46852,7 +46856,7 @@ Nove Lublice
 Nove Mesto
 Nové Mesto
 Nove Mesto nad Metuji
-Nové Mesto nad Váhom
+Nové Mesto nad Váhom District
 Nove Mesto na Morave
 Nove Mesto pod Smrkem
 Noventa di Piave
@@ -46865,7 +46869,7 @@ Nove Sedlo
 Nove Straseci
 Nove Syrovice
 Nove Veseli
-Nové Zámky
+Nové Zámky District
 Novgorod Region
 Novgorodsky District
 Novhorodka District
@@ -49950,7 +49954,7 @@ Partido
 Partille Municipality
 Partinico
 Partizansk
-Partizánske
+Partizánske District
 Partizansky District
 Partutovice
 Parux
@@ -51230,7 +51234,7 @@ Pierrevillers
 Piershil
 Pierson
 Piesendorf
-Piešťany
+Piešťany District
 Pieszyce
 Pieta
 Pieterburen
@@ -52284,7 +52288,7 @@ Polpenazze del Garda
 Polsbroek
 Polski Trambesh
 Polste
-Poltár
+Poltár District
 Poltava
 Poltava District
 Poltava Region
@@ -52575,7 +52579,7 @@ Popovo
 Popovskoye
 Poppenwier
 Poppi
-Poprad
+Poprad District
 Poptún
 Populina
 Poputnenskoye
@@ -52949,7 +52953,7 @@ Pouzauges
 Pouzdrany
 Pouzol
 Pouzy-Mésangy
-Považská Bystrica
+Považská Bystrica District
 Pove del Grappa
 Povegliano
 Povegliano Veronese
@@ -53294,7 +53298,7 @@ Preskace
 Presles
 Presnensky District
 Presnoy
-Prešov
+Prešov District
 Presovice
 Prešov Region
 Prespes
@@ -53369,7 +53373,7 @@ Priekuli
 Prienai District Municipality
 Priero
 Priest's Valley Indian Reserve No. 6
-Prievidza
+Prievidza District
 Prigglitz
 Prignac-et-Marcamps
 Prignano Cilento
@@ -53774,7 +53778,7 @@ Puchberg am Schneeberg
 Puch-d'Agenais
 Puchenstuben
 Puchezhsky District
-Púchov
+Púchov District
 Puchuncaví
 Pučišća
 Puck
@@ -55471,7 +55475,7 @@ Revnice
 Revnicov
 Revò
 Revonnas
-Revúca
+Revúca District
 Rewal commune
 Rexingen
 Rexpoëde
@@ -55796,7 +55800,7 @@ Rillieux-la-Pape
 Rilly-sur-Aisne
 Rimatara
 Rimaucourt
-Rimavská Sobota
+Rimavská Sobota District
 Rimbach-pres-Guebwiller
 Rimbach-pres-Masevaux
 Rimbachzell
@@ -57047,7 +57051,7 @@ Rozmberk nad Vltavou
 Rozmital na Sumave
 Rozmital pod Tremsinem
 Rozna
-Rožňava
+Rožňava District
 Roznov pod Radhostem
 Rozoy-sur-Serre
 Rozprza commune
@@ -57320,7 +57324,7 @@ Ruzena
 Ruzhyn District
 Ružić
 Ružinov
-Ružomberok
+Ružomberok District
 Ruzova
 Ruzsky District
 Ry
@@ -57470,7 +57474,7 @@ Sabine County
 Sabine Parish
 Sabino
 Sabinópolis
-Sabinov
+Sabinov District
 Sablé-sur-Sarthe
 Sablet
 Sablonnières
@@ -59178,7 +59182,6 @@ Säkylä
 Sakyna
 Sal
 Sala
-Šaľa
 Sala Baganza
 Sala Biellese
 Sala Bolognese
@@ -59189,6 +59192,7 @@ Salacova Lhota
 Saladas
 Saladero Mariano Cabal
 Saladillo Department
+Šaľa District
 Saladoblanco
 Salagnac
 Salagnon
@@ -62778,7 +62782,7 @@ Senhora de Oliveira
 Senhora do Porto
 Senhora dos Remédios
 Senhor do Bonfim
-Senica
+Senica District
 Senice na Hane
 Senicka
 Senieji Trakai
@@ -64035,7 +64039,7 @@ Skagway Borough
 Skaistgirys
 Skala
 Skalat
-Skalica
+Skalica District
 Skalice
 Skalice nad Svitavou
 Skalice u Ceske Lipy
@@ -64349,7 +64353,7 @@ Sniatyn District
 Snihurivka
 Snihurivka District
 Snillfjord
-Snina
+Snina District
 Snipe Lake
 Šnipiškes
 Snits
@@ -64401,7 +64405,7 @@ Sobrado
 Sobral
 Sobral de Monte Agraço
 Sobrália
-Sobrance
+Sobrance District
 Sobrescobio
 Sobulky
 Soca
@@ -65203,7 +65207,7 @@ Spiritwood
 Spirovsky District
 Špišić Bukovica
 Spiss
-Spišská Nová Ves
+Spišská Nová Ves District
 Spital am Semmering
 Spittal an der Drau
 Spittal an der Drau District
@@ -65500,7 +65504,7 @@ Stara Gradiška
 Stara Hut
 Stara Kamienica commune
 Stara Kornica commune
-Stará Ľubovňa
+Stará Ľubovňa District
 Stara Lysa
 Staranzano
 Stara Paka
@@ -66069,7 +66073,7 @@ Strongoli
 Stronie Slaskie commune
 Stronsdorf
 Stroossen
-Stropkov
+Stropkov District
 Stroppiana
 Stroppo
 Stroud
@@ -66678,7 +66682,7 @@ Sviatohirsk
 Sviatoshyn District
 Sviblovo District
 Svidnice
-Svidník
+Svidník District
 Svietlahorsk
 Svietlahorsk District
 Svihov
@@ -68787,7 +68791,7 @@ Toplica District
 Topo
 Topola
 Topolany
-Topolcany
+Topoľčany District
 Topolka commune
 Topolna
 Toprakkale
@@ -69280,7 +69284,7 @@ Trebic District
 Trebichovice
 Trebinje city
 Trebisacce
-Trebišov
+Trebišov District
 Trebivlice
 Trebnje
 Trebnouseves
@@ -69384,7 +69388,7 @@ Tremp
 Trempaleau County
 Trémuson
 Trenal
-Trenčín
+Trenčín District
 Trenčín Region
 Trenel
 Trenggalek Regency
@@ -69595,6 +69599,7 @@ Trizay-Coutretot-Saint-Serge
 Trizidela do Vale
 Trmice
 Trnava
+Trnava District
 Trnava Region
 Trnavka
 Trnov
@@ -70012,7 +70017,7 @@ Turbigo
 Turbo
 Turbot Township
 Turbotville
-Turčianske Teplice
+Turčianske Teplice District
 Turckheim
 Turek County
 Tureň
@@ -70140,7 +70145,7 @@ Tvorihraz
 Tvorovice
 Tvrdkov
 Tvrdonice
-Tvrdošín
+Tvrdošín District
 Tvøroyri
 Twann-Tüscherz
 Twardogora commune
@@ -72010,7 +72015,7 @@ Velky Bor
 Velky Borek
 Velky Chlumec
 Velky Karlov
-Veľký Krtíš
+Veľký Krtíš District
 Velky Malahov
 Velky Orechov
 Velky Osek
@@ -74067,7 +74072,7 @@ Vranova Lhota
 Vranovice
 Vranovice-Kelcice
 Vranov nad Dyji
-Vranov nad Topľou
+Vranov nad Topľou District
 Vranovska Ves
 Vransko
 Vrany
@@ -76759,7 +76764,7 @@ Zareche
 Zarevskoye
 Zarichne District
 Zarici
-Žarnovica
+Žarnovica District
 Zarnow commune
 Zarosice
 Zarovna
@@ -77053,7 +77058,7 @@ Zianchurinsky District
 Ziano di Fiemme
 Ziano Piacentino
 Zia Pueblo
-Žiar nad Hronom
+Žiar nad Hronom District
 Zibido San Giacomo
 Zichlinek
 Zichovec
@@ -77084,7 +77089,7 @@ Zikhron Ya'aqov
 Zilairsky District
 Zile
 Zilina
-Žilina
+Žilina District
 Žilina Region
 Zilis-Reischen
 Zilling
@@ -77139,7 +77144,7 @@ Zlata Olesnice
 Zlatar
 Zlatar Bistrica
 Zlate Hory
-Zlaté Moravce
+Zlaté Moravce District
 Zlatibor District
 Zlatniky-Hodkovice
 Zlatograd
@@ -77331,7 +77336,7 @@ Zvikov
 Zvikovec
 Zvikovske Podhradi
 Zvole
-Zvolen
+Zvolen District
 Zvornik city
 Zvyozdnoe
 Zvyozdny
