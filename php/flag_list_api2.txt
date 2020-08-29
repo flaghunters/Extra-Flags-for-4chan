@@ -7300,6 +7300,7 @@ Birzebbuga
 Bisaccia
 Bisacquino
 Bisamberg
+Bisbee
 Biscarrosse
 Biscayne Park
 Bisceglie
@@ -9774,6 +9775,7 @@ Buchy
 Buci
 Bucina
 Bucine
+Buckeye
 Buckfield
 Buckhannon
 Buckhead
@@ -11174,6 +11176,7 @@ Camps-Saint-Mathurin-Léobazel
 Camps-sur-l'Agly
 Campton
 Campugnan
+Camp Verde
 Camrose
 Camrose County
 Camugnano
@@ -11850,6 +11853,7 @@ Cardrona
 Cardston
 Cardston County
 Careaçu
+Carefree
 Careggine
 Carei
 Careiro
@@ -12893,6 +12897,7 @@ Cavasso Nuovo
 Cavatore
 Cavazzo Carnico
 Cave
+Cave Creek
 Cavedago
 Cavedine
 Caveirac
@@ -14634,6 +14639,7 @@ Chinique
 Chino
 Chino Hills
 Chinon
+Chino Valley
 Chin State
 Chinú
 Chiny
@@ -15360,6 +15366,7 @@ Clarion County
 Clarion Township
 Clark
 Clark County
+Clarkdale
 Clarke's Beach
 Clarke County
 Clarkesville
@@ -15957,6 +15964,7 @@ Colonno
 Colón Province
 Colonsay
 Colorado
+Colorado City
 Colorado County
 Colorado do Oeste
 Colorado Springs
@@ -16850,6 +16858,7 @@ Cottlesville
 Cotton County
 Cottondale
 Cotton Valley
+Cottonwood
 Cottonwood County
 Cottun
 Cotuí
@@ -18572,6 +18581,7 @@ De Westereen
 De Westhoek
 Dewey Beach
 Dewey County
+Dewey-Humboldt
 De Wijk
 De Wilp
 DeWitt
@@ -20031,6 +20041,7 @@ Dzoma
 Dzun-Khemchiksky District
 Ea
 Eagan
+Eagar
 Eagle
 Eagle County
 Eagle Creek
@@ -20859,6 +20870,7 @@ Elmhurst Township
 El Minya Governorate
 Elmira (city)
 Elmira (town)
+El Mirage
 Elmira Heights
 El Molar
 El Molino
@@ -20889,6 +20901,7 @@ El Oro Province
 Elortondo
 Elota
 Eloxochitlán
+Eloy
 Éloyes
 El Paisnal
 El Palenque
@@ -25030,6 +25043,7 @@ Gigondas
 Gigors
 Gijón
 Gijounet
+Gila Bend
 Gila County
 Gilbert
 Gilberton
@@ -25450,6 +25464,7 @@ Goldach
 Goldap County
 Goldbach
 Goldbach-Altenbach
+Gold Canyon
 Gold Coast
 Goldegg im Pongau
 Golden
@@ -27910,6 +27925,7 @@ Hayange
 Hayashima
 Haybes
 Haycock Township
+Hayden
 Hayes
 Hayes County
 Hayesville
@@ -29421,6 +29437,7 @@ Huacaya
 Huachacalla
 Huachinera
 Huacho
+Huachuca City
 Huahine
 Huajicori
 Hualahuises
@@ -31490,6 +31507,7 @@ Jeriquara
 Jerisno
 Jerissa
 Jermyn
+Jerome
 Jerome County
 Jerônimo Monteiro
 Jerramungup
@@ -33360,6 +33378,7 @@ King George County
 Kingisepp
 Kingiseppsky District
 King Island
+Kingman
 Kingman County
 Kingman Reef
 King Sabata Dalindyebo
@@ -35923,6 +35942,7 @@ Lake George (village)
 Lake Grace
 Lake Grove
 Lake Hamilton
+Lake Havasu City
 Lake Helen
 Lakehurst
 Lake Johnston
@@ -38876,6 +38896,7 @@ Liszki commune
 Lit
 Litchfield
 Litchfield County
+Litchfield Park
 Litchfield Township
 Liten
 Litencice
@@ -41024,6 +41045,7 @@ Mamey
 Mamirolle
 Mammern
 Mammola
+Mammoth
 Mammoth Lakes
 Mamoiada
 Mamonas
@@ -41340,6 +41362,7 @@ Marale
 Maralinga Tjarutja
 Marambat
 Maramureș County
+Marana
 Maranello
 Marange-Silvange
 Marange-Zondrange
@@ -51154,6 +51177,7 @@ Pagadian
 Pagani
 Paganico Sabino
 Pagazzano
+Page
 Page County
 Pagegiai
 Pagegiai Municipality
@@ -51598,6 +51622,7 @@ Paradela
 Pará de Minas
 Paradise
 Paradise Township
+Paradise Valley
 Paradiso
 Para District
 Paradou
@@ -51928,6 +51953,7 @@ Paszowice commune
 Paszto District
 Patacamaya
 Patagones Department
+Patagonia
 Patakla
 Patay
 Patchogue
@@ -52101,6 +52127,7 @@ Payrignac
 Payrin-Augmontel
 Paysandú Department
 Pays de la Loire
+Payson
 Payzac
 Pazarcik
 Pazardzhik
@@ -53264,6 +53291,7 @@ Pilón
 Pilot Mountain
 Pilot Point
 Pilviškiai
+Pima
 Pima County
 Pimenta
 Pimenta Bueno
@@ -53325,6 +53353,7 @@ Piñero
 Pinerolo
 Pinet
 Pineto
+Pinetop-Lakeside
 Pinetops
 Pine Township
 Pineuilh
@@ -55245,7 +55274,9 @@ Prerov
 Prerov District
 Prerov nad Labem
 Pré-Saint-Didier
+Prescott
 Prescott and Russell United Counties
+Prescott Valley
 Préseau
 Preseglie
 Présentevillers
@@ -56213,6 +56244,7 @@ Quarto Centenário
 Quarto d'Altino
 Quartucciu
 Quartu Sant'Elena
+Quartzsite
 Quassolo
 Quatá
 Quatiguá
@@ -59689,6 +59721,7 @@ Safenwil
 Safety Harbor
 Saffais
 Säffle Municipality
+Safford
 Saffré
 Saffres
 Safi
@@ -59734,6 +59767,7 @@ Sahinbey
 Sahorre
 Sahtu Region
 Sahuaripa
+Sahuarita
 Sai
 Saibai Island
 Saicourt
@@ -66046,6 +66080,7 @@ Shostka District
 Shoubara
 Shovgenovskiy District
 Showa
+Show Low
 Shpola
 Shpola District
 Shreveport
@@ -66174,6 +66209,7 @@ Sierra Gorda
 Sierra Grande
 Sierra Madre
 Sierra Mojada
+Sierra Vista
 Sierre
 Sierro
 Siersthal
@@ -66896,6 +66932,7 @@ SNNP Region
 Snohomish County
 Snovidky
 Snovsk District
+Snowflake
 Snow Hill
 Snow Shoe
 Snow Shoe Township
@@ -67178,6 +67215,7 @@ Somerset County
 Somerset Township
 Somers Point
 Somersworth
+Somerton
 Sõmeru Parish
 Somervell County
 Somerville
@@ -67608,6 +67646,7 @@ South Strabane Township
 South Taranaki District
 South Thomaston
 South Toms River
+South Tucson
 South Tyneside
 South Uist
 South Union Township
@@ -67806,6 +67845,7 @@ Spring City
 Spring Creek Township
 Springdale
 Springdale Township
+Springerville
 Springettsbury Township
 Springfield
 Springfield Township
@@ -68159,6 +68199,7 @@ Starr County
 Starrkirch-Wil
 Starrucca
 Starše
+Star Valley
 Stary Hrozenkov
 Staryi Krym
 Staryi Sambir
@@ -68995,6 +69036,7 @@ Sunbury
 Sunbury County
 Sunchales
 Suncho Corral
+Sun City
 Sun City West
 Sund
 Sunday's River Valley
@@ -70674,6 +70716,7 @@ Thaon
 Tharaka-Nithi County
 Tharaux
 Thasos
+Thatcher
 Thaur
 Thaya
 Thayer County
@@ -71284,6 +71327,7 @@ Tolland County
 Tollebeek
 Tollegno
 Tollent
+Tolleson
 Tõlliste Parish
 Tollo
 Tolmezzo
@@ -71327,6 +71371,7 @@ Tomblaine
 Tombolo
 Tombos
 Tombouctou Region
+Tombstone
 Tome
 Tomé-Açu
 Tomelilla Municipality
@@ -72754,6 +72799,7 @@ Turvelândia
 Turvo
 Turvolândia
 Tusa
+Tusayan
 Tusba
 Tuscaloosa County
 Tuscania
@@ -77795,6 +77841,7 @@ Wells Township
 Wellsville
 Wellsville (town)
 Wellsville (village)
+Wellton
 Welschenrohr
 Wels District
 Welsum
@@ -78240,6 +78287,7 @@ Wichita and Affiliated Tribes
 Wichita County
 Wichmond
 Wichtrach
+Wickenburg
 Wickepin
 Wickerschwihr
 Wickersheim-Wilshausen
@@ -78373,6 +78421,7 @@ Willacoochee
 Willacy County
 Willadingen
 Will County
+Willcox
 Willebroek
 Willeman
 Willems
@@ -78497,6 +78546,7 @@ Winhall
 Winifreda
 Winkel
 Winkel bei Bülach
+Winkelman
 Winklarn
 Winkler County
 Winklern
@@ -79285,6 +79335,7 @@ Young Harris
 Youngstown
 Youngsville
 Youngswood
+Youngtown
 Young Township
 Yountville
 Youssoufia Province
@@ -79334,6 +79385,7 @@ Yuki
 Yukon
 Yuksekova
 Yukuhashi
+Yuma
 Yuma County
 Yumbel
 Yumbo
