@@ -220,6 +220,10 @@ Accumoli
 Acebal
 Aceguá
 Aceh
+Aceh Besar Regency
+Aceh Jaya Regency
+Aceh Singkil Regency
+Aceh Tamiang Regency
 Acerenza
 Acerno
 Acerra
@@ -470,6 +474,7 @@ Agacoren
 Agadez Region
 Agadir
 Agadir-Ida Ou Tanane Prefecture
+Agam Regency
 Agana Heights
 Aganang
 Agano
@@ -2054,6 +2059,7 @@ Analamanga Region
 Analândia
 Analanjirofo Region
 Anamã
+Anambas Islands Regency
 Anamizu
 Anamorós
 Anamosa
@@ -2978,6 +2984,7 @@ Aretxabaleta
 Árevalo
 Arez
 Arezzo
+Arfak Mountains Regency
 Arfeuilles
 Arfons
 Argalant
@@ -3388,6 +3395,7 @@ Artzenheim
 Aruanã
 Arudy
 Arue
+Aru Islands Regency
 Arujá
 Arum
 Arun
@@ -3429,6 +3437,7 @@ As
 Ås
 Asagiri
 Asago
+Asahan Regency
 Asahi
 Asahikawa
 Ásahreppur
@@ -3519,6 +3528,7 @@ Askola
 Askvoll
 Askøy
 Asmara
+Asmat Regency
 Ašmiany
 Ašmiany District
 Ašminta
@@ -4723,6 +4733,7 @@ Balakliia
 Balam
 Balan
 Balanegra
+Balangan Regency
 Balangero
 Balaruc-les-Bains
 Balaruc-le-Vieux
@@ -4782,6 +4793,7 @@ Bali
 Balikesir
 Balikesir Province
 Baliklicesme
+Balikpapan
 Balilihan
 Bâlines
 Balingen
@@ -4894,10 +4906,12 @@ Banaz
 Banchette
 Bancourt
 Bancroft
+Banda Aceh
 Banda del Río Salí
 Bandai
 Bandar Abbas
 Bandar Anzali
+Bandar Lampung
 Bandeira
 Bandeira do Sul
 Bandeirante
@@ -4922,7 +4936,11 @@ Bandung Regency
 Banes
 Banff
 Banffshire
+Banggai Islands Regency
+Banggai Laut Regency
+Banggai Regency
 Bangkalan Regency
+Bangka Regency
 Bangkok
 Bangli Regency
 Bangor
@@ -4935,7 +4953,10 @@ Bani Suheila
 Banite
 Banja Luka
 Banjar
+Banjarbaru
+Banjarmasin
 Banjarnegara Regency
+Banjar Regency
 Banks County
 Banks Township
 Bannach
@@ -4967,6 +4988,7 @@ Banská Bystrica Region
 Banská Štiavnica District
 Ban-sur-Meurthe-Clefcy
 Bant
+Bantaeng Regency
 Banteay Meanchey Province
 Banten
 Banteux
@@ -4982,6 +5004,7 @@ Banvou
 Banyalbufar
 Banyeres del Penedès
 Banyoles
+Banyuasin Regency
 Banyule
 Banyuls-dels-Aspres
 Banyuls-sur-Mer
@@ -5163,6 +5186,7 @@ Barisciano
 Barisey-au-Plain
 Barisey-la-Côte
 Bäriswil
+Barito Kuala Regency
 Barjac
 Barjols
 Barjouville
@@ -5304,6 +5328,7 @@ Barrow-in-Furness
 Barr Township
 Barruelo de Santullán
 Barrundia
+Barru Regency
 Barry
 Barry County
 Barrytown
@@ -5466,6 +5491,7 @@ Batam
 Batanes
 Batangas
 Batangas City
+Batang Hari Regency
 Batang Regency
 Batatais
 Batavia
@@ -5521,6 +5547,7 @@ Battrans
 Battuda
 Bättwil
 Batu
+Batubara Regency
 Batumi
 Baturinskaya
 Baturité
@@ -5528,6 +5555,7 @@ Baturyn
 Bat Yam
 Batzendorf
 Batz-sur-Mer
+Baubau
 Baubigny
 Baucau District
 Bauchi State
@@ -6095,6 +6123,7 @@ Belin-Béliet
 Belington
 Belisario Boeto Province
 Belišće
+Belitung Regency
 Belize City
 Belize District
 Belkis
@@ -6348,6 +6377,7 @@ Beneditinos
 Benedito Leite
 Benedito Novo
 Bene Lario
+Bener Meriah Regency
 Benerville-sur-Mer
 Benesov
 Benesov District
@@ -6372,6 +6402,8 @@ Benfeld
 Benfica
 Bengaluru
 Benghazi
+Bengkalis Regency
+Bengkayang Regency
 Bengkulu
 Bengolea
 Bengough
@@ -6452,6 +6484,7 @@ Berango
 Berastegi
 Berat
 Berat County
+Berau Regency
 Beravebú
 Berazategui
 Berazategui Department
@@ -7063,6 +7096,7 @@ Bi'ina
 Biaches
 Biache-Saint-Vaast
 Biahomĺ
+Biak Numfor Regency
 Biala commune
 Bialaczow commune
 Biala Podlaska City
@@ -7333,6 +7367,7 @@ Bingol
 Bingol Province
 Bining
 Binissalem
+Binjai
 Binn
 Binnenstad
 Binningen
@@ -7373,6 +7408,7 @@ Birdsall
 Birdsboro
 Birecik
 Birenbach
+Bireuën Regency
 Birgittelyst
 Birgitz
 Birgu
@@ -7496,6 +7532,7 @@ Bittelbronn
 Bittelschieß
 Bitti
 Bituima
+Bitung
 Bituruna
 Bitz
 Biviers
@@ -7799,6 +7836,7 @@ Boa Esperança
 Boa Esperança do Iguaçu
 Boa Esperança do Sul
 Boa Hora
+Boalemo Regency
 Boalsert
 Boa Nova
 Boara Pisani
@@ -8062,6 +8100,7 @@ Bokn
 Bokovsky District
 Boksitogorsky District
 Bol
+Bolaang Mongondow Regency
 Bolano
 Bolaños
 Bolatice
@@ -8150,6 +8189,7 @@ Boma
 Bomarzo
 Bomba
 Bombal
+Bombana Regency
 Bombarral
 Bombay
 Bombinhas
@@ -8216,10 +8256,12 @@ Bondowoso Regency
 Bondues
 Bondy
 Bonea
+Bone Bolango Regency
 Bone Creek
 Bonefro
 Bonemerse
 Bönen
+Bone Regency
 Bonfeld
 Bonfim
 Bonfim do Piauí
@@ -8300,6 +8342,7 @@ Bons-en-Chablais
 Bonsmoulins
 Bonson
 Bonstetten
+Bontang
 Bontebok
 Bonvicino
 Bonvillars
@@ -8873,6 +8916,7 @@ Bova Marina
 Bovec
 Bovegno
 Bovel
+Boven Digoel Regency
 Boven-Hardinxveld
 Bovenkarspel
 Bovernier
@@ -10082,6 +10126,7 @@ Bukaryovskoye
 Buk District
 Bukidnon
 Bukit Batok East
+Bukittinggi
 Bukov
 Bukova
 Bukovany
@@ -10139,6 +10184,8 @@ Buloke
 Bulovka
 Bulson
 Bultei
+Bulukumba Regency
+Bulungan Regency
 Bulunsky District
 Bulzi
 Bumdeling
@@ -10153,6 +10200,7 @@ Bünde
 Buneville
 Bungoma County
 Bungo-ono
+Bungo Regency
 Bungotakada
 Bunkovskoye
 Bunkyo
@@ -10165,6 +10213,7 @@ Bunschoten
 Bunyan
 Bünzen
 Buochs
+Buol Regency
 Buonabitacolo
 Buonalbergo
 Buona Vista
@@ -10305,6 +10354,7 @@ Burthecourt-aux-Chênes
 Burtigny
 Burtnieki
 Burtoncourt
+Buru Regency
 Burwood
 Bury
 Buryatia
@@ -10396,6 +10446,7 @@ Butler
 Butler County
 Butler Township
 Butner
+Buton Regency
 Butrimonys
 Butry-sur-Oise
 Bütschwil-Ganterschwil
@@ -13325,11 +13376,15 @@ Centola
 Centovalli
 Centrache
 Central
+Central Aceh Regency
 Central Administrative Area
 Central and Western District
 Central Arava
+Central Bangka Regency
 Central Bedfordshire
+Central Bengkulu Regency
 Central Bosnia Canton
+Central Buton Regency
 Central City
 Central Coast
 Central Coast Regional District
@@ -13341,13 +13396,19 @@ Central District
 Central do Maranhão
 Central Falls
 Central Goldfields
+Central Halmahera Regency
 Centralhatchee
 Central Hawke's Bay District
 Central Highlands
+Central Hulu Sungai Regency
 Centralia
 Centralina
 Central Karoo
 Central Kootenay Regional District
+Central Lampung Regency
+Central Maluku Regency
+Central Mamberamo Regency
+Central Mamuju Regency
 Central Okanagan Regional District
 Central Otago District
 Central Pacolet
@@ -13357,6 +13418,7 @@ Central Region
 Central Saanich District
 Central Singapore
 Central Square
+Central Tapanuli Regency
 Central West
 Centre County
 Centre Department
@@ -18047,6 +18109,7 @@ Dainville
 Dainville-Bertheléville
 Dairago
 Daireaux
+Dairi Regency
 Dairy Flat
 Daisen
 Daisendorf
@@ -18479,6 +18542,7 @@ Deißlingen
 Deisswil bei Münchenbuchsee
 Deitingen
 Deiva Marina
+Deiyai Regency
 Deizisau
 De Jouwer
 De Kalb
@@ -18531,6 +18595,7 @@ Delicias de Concepción
 De Lier
 Delincourt
 Deline
+Deli Serdang Regency
 Dellach
 Dellach im Drautal
 Delle
@@ -18818,6 +18883,7 @@ Dhale
 Dhamar
 Dhanbad
 Dhanpuri
+Dharmasraya Regency
 Dhofar Governorate
 Dhuisy
 Diadema
@@ -19277,6 +19343,7 @@ Dogansehir
 Doganyol
 Dogern
 Döggingen
+Dogiyai Regency
 Dogliani
 Dogliola
 Dogna
@@ -19558,6 +19625,7 @@ Dong District
 Dongducheon
 Dongen
 Donges
+Donggala Regency
 Dongguan
 Dongjak District
 Dongnae District
@@ -20073,6 +20141,7 @@ Dulliken
 Dully
 Duluth
 Dumaguete
+Dumai
 Dumbéa
 Dumbleyung
 Dumbría
@@ -20304,6 +20373,7 @@ Early County
 Earnewâld
 Earnscleugh
 Easley
+East Aceh Regency
 East Allen Township
 Eastampton Township
 East Amwell Township
@@ -20312,12 +20382,15 @@ East Arnhem
 East Aurora
 East Bangor
 East Bank
+East Barito Regency
 East Baton Rouge Parish
+East Belitung Regency
 East Bend
 East Berbice-Corentyne
 East Berlin
 East Bethlehem Township
 East Bloomfield
+East Bolaang Mongondow Regency
 Eastbourne
 East Bradford Township
 East Brady
@@ -20404,9 +20477,13 @@ East Huntingdon Township
 East Kazakhstan Region
 East Keating Township
 East Kingston
+East Kolaka Regency
 East Kootenay Regional District
+East Kotawaringin Regency
+East Kutai Regency
 East Lackawannock Township
 East Lampeter Township
+East Lampung Regency
 Eastland County
 East Lansdowne
 East Lansing
@@ -20415,6 +20492,7 @@ Eastleigh
 East Lindsey
 East Longmeadow
 East Lothian
+East Luwu Regency
 East Lyme
 East Machias
 East Mahoning Township
@@ -20433,6 +20511,7 @@ East Norriton Township
 East Northamptonshire
 East Norwegian Township
 East Nottingham Township
+East Ogan Komering Ulu Regency
 Easton
 East Orange
 East Otto
@@ -20457,6 +20536,7 @@ East Rockhill Township
 Eastrum
 East Rutherford
 East Sepik Province
+East Seram Regency
 East Side
 East Spencer
 East St. Clair Township
@@ -20466,6 +20546,7 @@ East Stroudsburg
 East Sussex
 East Syracuse
 East Tamaki
+East Tanjung Jabung Regency
 East Taylor Township
 Easttown Township
 East Union Township
@@ -21369,6 +21450,7 @@ Empalme
 Empalme Olmos
 Empalme San Carlos
 Empalme Villa Constitución
+Empat Lawang Regency
 Empedrado
 Empersdorf
 Empfingen
@@ -21475,6 +21557,7 @@ Enontekiö
 Enon Valley
 Enosburgh
 Enquin-sur-Baillons
+Enrekang Regency
 Enrique Baldivieso Province
 Enrique Carbó
 Enrique Urién
@@ -22420,6 +22503,7 @@ Fajã Grande
 Fajardo
 Fajãzinha
 Fajslawice commune
+Fakfak Regency
 Falaise
 Falán
 Falcade
@@ -24894,6 +24978,7 @@ Gay
 Gayan
 Gaye
 Gaynsky District
+Gayo Lues Regency
 Gaza
 Gaza Province
 Gaza Strip
@@ -26070,6 +26155,7 @@ Gorodovikovsk
 Gorodovikovsky District
 Gorokhovetsky District
 Gorontalo
+Gorontalo Regency
 Gorozhanskoye
 Gorre
 Gorreto
@@ -26233,6 +26319,7 @@ Goviller
 Govisümber Province
 Govone
 Gowanda
+Gowa Regency
 Goworowo commune
 Goxwiller
 Goya
@@ -27457,7 +27544,9 @@ Günthersleben-Wechmar
 Guntramsdorf
 Guntur
 Guntzviller
-Gunungkidul Regency
+Gunung Kidul Regency
+Gunung Mas Regency
+Gunungsitoli
 Gunwi County
 Günzach
 Gunzburg District
@@ -27813,6 +27902,7 @@ Hallum
 Hallwang
 Hallwil
 Hallwood
+Halmahera
 Halmstad
 Halmstad Municipality
 Halsa
@@ -30103,6 +30193,7 @@ Humacao
 Humahuaca
 Humaitá
 Humanes de Madrid
+Humbang Hasundutan Regency
 Humbécourt
 Humber Arm South
 Humbercamps
@@ -30764,6 +30855,8 @@ Indigo
 Indio
 Indjija
 Indore
+Indragiri Hilir Regency
+Indragiri Hulu Regency
 Indramayu Regency
 Indre
 Indre By
@@ -30860,6 +30953,7 @@ Insming
 Instinción
 Insviller
 Inta
+Intan Jaya Regency
 Intendente Alvear
 Interlachen
 Interlaken
@@ -31951,7 +32045,10 @@ Jaworzno
 Jaworzyna Slaska commune
 Jaxu
 Jay
+Jayapura
+Jayapura Regency
 Jayaque
+Jayawijaya Regency
 Jay County
 Jayena
 Jay Township
@@ -32025,6 +32122,7 @@ Jencice
 Jendouba
 Jendouba Governorate
 Jenec
+Jeneponto Regency
 Jenezano
 Jengen
 Jenikov
@@ -32731,6 +32829,7 @@ Kai Gharib
 Kaikohe
 Kaikoura
 Kaikoura District
+Kaimana Regency
 Kainach bei Voitsberg
 Kainan
 Käina Parish
@@ -32975,6 +33074,7 @@ Kamo
 Kamoenai
 Kamogawa
 Kampala
+Kampar Regency
 Kampen
 Kampenhout
 Kamperland
@@ -33098,6 +33198,8 @@ Kaprijke
 Kaprun
 Kapshagay
 Kaptol
+Kapuas Hulu Regency
+Kapuas Regency
 Kapuskasing
 Kapuvar District
 Kapyl
@@ -33245,6 +33347,7 @@ Karolin
 Karolinka
 Karoo Hoogland
 Karoonda East Murray
+Karo Regency
 Karori
 Karpacz
 Karpathos
@@ -33347,6 +33450,7 @@ Katherine
 Kathmandu
 Katikati
 Katima Mulilo
+Katingan Regency
 Kativik
 Kato
 Katori
@@ -33392,6 +33496,7 @@ Kaunerberg
 Kaunertal
 Kauniainen
 Kauns
+Kaur Regency
 Kaustinen
 Kautebaach
 Kautokeino
@@ -33506,6 +33611,7 @@ Keel
 Keelung City
 Keene
 Keerbergen
+Keerom Regency
 Keetmanshoop
 Kef
 Kefallonia
@@ -33581,6 +33687,7 @@ Kenbuchi
 Kendall
 Kendall County
 Kendal Regency
+Kendari
 Kenduskeag
 Kenedy County
 Kengkhar
@@ -33620,11 +33727,11 @@ Kentucky
 Kenzeg
 Kenzingen
 Keokuk County
+Kepahiang Regency
 Kepez
 Kepno County
 Kep Province
 Kepsut
-Kepulauan Anambas Regency
 Kepulauan Bangka Belitung
 Kepulauan Riau
 Kepulauan Seribu Regency
@@ -33640,6 +33747,7 @@ Kergrist
 Kerguelen
 Kericho County
 Kerikeri
+Kerinci Regency
 Kerkdriel
 Kerken
 Kerkrade
@@ -33693,6 +33801,7 @@ Kestenholz
 Kesteren
 Kestrany
 Keszthely District
+Ketapang Regency
 Ketchikan
 Ketchikan Gateway Borough
 Kethel
@@ -34492,6 +34601,7 @@ Koksijde
 Koktebel
 Kokubunji
 Kola
+Kolaka Regency
 Kolam Ayer
 Kolan
 Kolari
@@ -34594,6 +34704,8 @@ Konakovsky District
 Konan
 Konarovice
 Konavle
+Konawe Islands Regency
+Konawe Regency
 Končanica
 Konče
 Kondinin
@@ -34860,9 +34972,11 @@ Koszalin County
 Koszeg District
 Koszyce commune
 Kota
+Kotabaru Regency
 Kota Bharu
 Kotake
 Kota Kinabalu
+Kotamobagu
 Kotayk Province
 Kotelnich
 Kotelnichsky District
@@ -35323,6 +35437,7 @@ Kuala Kangsar
 Kuala Lumpur
 Kuala Terengganu
 Kuantan
+Kuantan Singingi Regency
 Kûbaard
 Kuban
 Kubanetc
@@ -35333,6 +35448,7 @@ Küblis
 Kublov
 Kubova Hut
 Kubsice
+Kubu Raya Regency
 Kucer
 Kucerov
 Kucevo
@@ -35556,6 +35672,7 @@ Kusterdingen
 Kusu
 Kutahya
 Kutahya Province
+Kutai Kartanegara Regency
 Kutaisi
 Kutchan
 Kutina
@@ -35908,6 +36025,7 @@ Labry
 Labska Stran
 Labske Chrcice
 Labuan
+Labuhan Batu Regency
 La Buissière
 Labunie commune
 La Bussière-sur-Ouche
@@ -36425,6 +36543,7 @@ La Haie-Fouassière
 La Hallotière
 La Harmoye
 Lahas
+Lahat Regency
 La Haute-Maison
 La Haye-le-Comte
 La Haye-Pesnel
@@ -36643,6 +36762,7 @@ La Malène
 La Malhoure
 Lamalou-les-Bains
 Lama Mocogno
+Lamandau Regency
 Lamanère
 Lamanon
 La Manzanilla de la Paz
@@ -36806,6 +36926,7 @@ Lancov
 Lancut County
 Lancy
 Landaff
+Landak Regency
 Landange
 Landas
 Landau
@@ -36945,6 +37066,7 @@ Langhirano
 Langhorne
 Langhorne Manor
 Langkampfen
+Langkat Regency
 Langlade
 Langlade County
 Langley
@@ -36964,6 +37086,7 @@ Langres
 Langrickenbach
 Langrolay-sur-Rance
 Langrune-sur-Mer
+Langsa
 Langschlag
 Langsweagen
 Langthil
@@ -36995,6 +37118,7 @@ Lanneuffret
 Lannilis
 Lannion
 Lannoy
+Lanny Jaya Regency
 Lanobre
 La Noe-Blanche
 La Noria
@@ -37870,6 +37994,7 @@ LeBoeuf Township
 Le Boisle
 Le Bois-Plage-en-Ré
 Le Bois-Robert
+Lebong Regency
 Le Bonhomme
 Le Bono
 Lebon Régis
@@ -38984,6 +39109,7 @@ Lhamoizingkha
 Lhanice
 Lhenice
 Lherm
+Lhokseumawe
 Lhor
 Lhospitalet
 L Hospitalet de Llobregat
@@ -39277,6 +39403,7 @@ Limanowa County
 Limans
 Limansky District
 Lima Province
+Lima Puluh Kota Regency
 Lima Region
 Limarí Province
 Limas
@@ -40487,6 +40614,7 @@ Lubriano
 Lubrín
 Lubrza commune
 Lubsko commune
+Lubuklinggau
 Lubuskie Voivodeship
 Luby
 Luby-Betmont
@@ -40819,6 +40947,7 @@ Luunja Parish
 Luvia
 Luvinate
 Luweero District
+Luwu Regency
 Lux
 Luxembourg
 Luxémont-et-Villotte
@@ -41257,6 +41386,7 @@ Magway Region
 Mahaffey
 Mahaica-Berbice
 Mahajanga
+Mahakam Ulu Regency
 Mahalon
 Mahanoy City
 Mahanoy Township
@@ -41403,6 +41533,7 @@ Majd al-Krum
 Majdal Shams
 Majdan
 Majdanpek
+Majene Regency
 Majetin
 Majibacoa
 Major County
@@ -41574,6 +41705,7 @@ Mali Idjos
 Malijai
 Målilla
 Mali Losinj
+Malinau Regency
 Malincourt
 Malinky
 Malino
@@ -41673,7 +41805,9 @@ Mamakating
 Mamanguape
 Mamaroneck (town)
 Mamaroneck (village)
+Mamasa Regency
 Mambaí
+Mamberamo Raya Regency
 Mamblas
 Mamborê
 Mamer
@@ -41692,6 +41826,7 @@ Mamontovskoye
 Mamoré Province
 Mamoudzou
 Mampituba
+Mamuju Regency
 Mamurogawa
 Mamusa
 Man
@@ -41699,6 +41834,7 @@ Mana
 Manabí Province
 Manacapuru
 Manacor
+Manado
 Manage
 Managua
 Managua Department
@@ -41743,6 +41879,7 @@ Mandach
 Mandagout
 Mandaguaçu
 Mandaguari
+Mandailing Natal Regency
 Mandal
 Mandalay Region
 Mandanici
@@ -41865,6 +42002,7 @@ Manoel Urbano
 Manoel Viana
 Manoel Vitorino
 Manois
+Manokwari Regency
 Manom
 Manoncourt-en-Vermois
 Manoncourt-en-Woëvre
@@ -41961,6 +42099,7 @@ Maplewood Township
 Mapo District
 Mapoon
 Mappano
+Mappi Regency
 Mapulaca
 Maputo
 Maputo Province
@@ -42462,6 +42601,7 @@ Marone
 Maroneia-Sapes
 Maroondah
 Maropati
+Maros Regency
 Marostica
 Marousi
 Marowijne District
@@ -43041,6 +43181,7 @@ Mayagüez
 Mayakskoye
 Mayarí
 Mayberry Township
+Maybrat Regency
 Maybrook
 Mayen-Koblenz District
 Mayenne
@@ -43250,6 +43391,7 @@ Mecosta County
 Mecquignies
 Mécrin
 Meda
+Medan
 Médan
 Meddybemps
 Mede
@@ -43396,6 +43538,7 @@ Melaky Region
 Meland
 Melano
 Melara
+Melawi Regency
 Melay
 Melazzo
 Melbourne
@@ -43489,6 +43632,7 @@ Membrey
 Memmelshoffen
 Memmingen
 Memmingerberg
+Mempawah Regency
 Memphis
 Memramcook
 Memuro
@@ -43577,6 +43721,7 @@ Menoux
 Mens
 Menskirch
 Mentana
+Mentawai Islands Regency
 Mentese
 Menthonnex-en-Bornes
 Menthon-Saint-Bernard
@@ -43602,9 +43747,12 @@ Méral
 Meram
 Merana
 Meranges
+Merangin Regency
 Merano
+Meranti Islands Regency
 Méras
 Merate
+Merauke Regency
 Merbes-le-Château
 Merboltice
 Mercaderes
@@ -43824,6 +43972,7 @@ Mesto Touskov
 Mestre
 Mestre-Carpenedo
 Mestrino
+Mesuji Regency
 Meta
 Meta Department
 Metairie
@@ -43850,6 +43999,7 @@ Metlika
 Metline
 Metnitz
 Metouia
+Metro
 Metrogorodok District
 Métropole de Lyon
 Metropolitan
@@ -44357,6 +44507,7 @@ Mima
 Mimasaka
 Mimata
 Mimet
+Mimika Regency
 Mimizan
 Mimon
 Mimoso de Goiás
@@ -44366,6 +44517,7 @@ Minabe
 Mina Clavero
 Minaçu
 Minador do Negrão
+Minahasa Regency
 Minakami
 Minamata
 Minami
@@ -46261,8 +46413,10 @@ Morón
 Morona Santiago Province
 Morondava
 Moronou Region
+Morotai Island Regency
 Morotsuka
 Morovis
+Morowali Regency
 Moroyama
 Morozovsk
 Morozovsky District
@@ -46696,6 +46850,8 @@ Mtubatuba
 Muaná
 Muan County
 Muar
+Muara Enim Regency
+Muaro Jambi Regency
 Mubarak Al-Kabeer Governorate
 Mucajaí
 Mucambo
@@ -46770,6 +46926,7 @@ Mukdahan Province
 Mukhorshibirsky District
 Mukinbudin
 Muko
+Mukomuko Regency
 Mula
 Mulazzano
 Mulazzo
@@ -46805,6 +46962,7 @@ Mumpf
 Mun
 Munakata
 Muñana
+Muna Regency
 München
 Münchenbernsdorf
 Münchenbuchsee
@@ -46988,6 +47146,7 @@ Murtal District
 Murten
 Murter-Kornati
 Murtosa
+Murung Raya Regency
 Murutinga do Sul
 Murviel-lès-Béziers
 Murviel-lès-Montpellier
@@ -47005,9 +47164,11 @@ Muscogee County
 Muscoline
 Musei
 Musgrave Harbour
+Musi Banyuasin Regency
 Musièges
 Musile di Piave
 Musina
+Musi Rawas Regency
 Muskegon County
 Muskingum County
 Muskiz
@@ -47129,6 +47290,7 @@ Naberezhnye Chelny
 Nabeul
 Nabeul Governorate
 Nabirat
+Nabire Regency
 Nablus
 Nabringhen
 Nacaome
@@ -47173,6 +47335,7 @@ Nagaland
 Nagano
 Naganohara
 Nagano Prefecture
+Nagan Raya Regency
 Naganuma
 Nagaoka
 Nagaokakyo
@@ -47625,6 +47788,7 @@ Ndendé
 Ndlambe
 Ndola
 Ndolou Department
+Nduga Regency
 Ndwedwe
 Ne
 Nea Ionia
@@ -48336,6 +48500,7 @@ Niagara Falls
 Niagara Region
 Niamey
 Niardo
+Nias Regency
 Niassa Province
 Niasviž
 Niasviž District
@@ -48951,6 +49116,7 @@ Nortelândia
 Norte Pequeno
 North
 North Abington Township
+North Aceh Regency
 North Adams
 Northam
 Northampton
@@ -48963,15 +49129,18 @@ North Apollo
 North Arlington
 North Attleborough
 North Augusta
+North Barito Regency
 North Battleford
 North Bay
 North Bay Village
 North Beach
 North Beaver Township
 North Belle Vernon
+North Bengkulu Regency
 North Bergen Township
 North Berwick
 North Bethlehem Township
+North Bolaang Mongondow Regency
 Northborough
 North Braddock
 North Branch Township
@@ -48981,6 +49150,7 @@ North Brookfield
 North Brunswick Township
 North Buffalo Township
 North Burnett
+North Buton Regency
 North Caldwell
 North Canaan
 North Canberra
@@ -49040,9 +49210,11 @@ North Fayette Township
 Northfield
 Northfork
 North Franklin Township
+North Gorontalo Regency
 North Governorate
 North Greenbush
 North Haledon
+North Halmahera Regency
 North Hamgyong Province
 North Hampton
 North Hanover Township
@@ -49057,13 +49229,19 @@ North Hills
 North Hopewell Township
 North Hornell
 North Hudson
+North Hulu Sungai Regency
 North Huntingdon Township
 North Hwanghae Province
 North Irwin
+North Kayong Regency
 North Kazakhstan Region
 North Kesteven
 North Kingstown
+North Kolaka Regency
+North Konawe Regency
 North Kurdufan State
+North Labuhan Batu Regency
+North Lampung Regency
 Northland Region
 North Las Vegas
 North Lauderdale
@@ -49071,19 +49249,25 @@ North Lebanon Township
 North Lincolnshire
 North Little Rock
 North Londonderry Township
+North Luwu Regency
 North Mahoning Township
 North Manheim Township
 North Miami
 North Miami Beach
 North Middleton Township
+North Minahasa Regency
 Northmoreland Township
+North Morowali Regency
+North Musi Rawas Regency
 North Myrtle Beach
 North Newton Township
+North Nias Regency
 North Nicosia
 North Norfolk
 North Norwich
 North Okanagan Regional District
 North Ossetia-Alania
+North Padang Lawas Regency
 North Palm Beach
 North Plainfield
 North Pole
@@ -49110,7 +49294,9 @@ North Strabane Township
 North Sydney
 North Syracuse
 North Tanawanda
+North Tapanuli Regency
 North Topsail Beach
+North Toraja Regency
 North Towanda Township
 North Tyneside
 Northumberland
@@ -49760,6 +49946,7 @@ Nungarin
 Nunningen
 Ñuñoa
 Nunspeet
+Nunukan Regency
 Nuoro
 Nupaky
 Nuporanga
@@ -50265,6 +50452,9 @@ Oftringen
 Ofunato
 Oga
 Ogaki
+Ogan Ilir Regency
+Ogan Komering Ilir Regency
+Ogan Komering Ulu Regency
 Ogano
 Ogasawara
 Ogassa
@@ -51899,6 +52089,11 @@ Pacula
 Pacyna commune
 Pacy-sur-Armançon
 Pacy-sur-Eure
+Padang
+Padang Lawas Regency
+Padang Panjang
+Padang Pariaman Regency
+Padangsidempuan
 Padasjoki
 Padcaya
 Paddockwood
@@ -51945,6 +52140,7 @@ Pag
 Pagadian
 Pagani
 Paganico Sabino
+Pagar Alam
 Pagazzano
 Page
 Page County
@@ -52033,6 +52229,7 @@ Pajusi Parish
 Pakiri
 Pakosc commune
 Pakoštane
+Pakpak Bharat Regency
 Pakrac
 Pakruojis
 Pakruojis District Municipality
@@ -52061,6 +52258,7 @@ Palana
 Palanadas
 Palandoken
 Palanga
+Palangka Raya
 Palanzano
 Pala Parish
 Palata
@@ -52095,6 +52293,7 @@ Paldiski
 Palecznica commune
 Palekh
 Palekhsky District
+Palembang
 Pale municipality
 Palena
 Palena Province
@@ -52217,6 +52416,7 @@ Palomero
 Palomonte
 Palonin
 Palo Pinto County
+Palopo
 Palo Santo
 Palos Blancos
 Palosco
@@ -52228,6 +52428,7 @@ Palpalá
 Pals
 Paltamo
 Palterndorf-Dobermannsdorf
+Palu
 Palù
 Palù del Fersina
 Paludi
@@ -52308,10 +52509,13 @@ Pangandaran Regency
 Pangasinan
 Pange
 Panges
+Pangkajene and Islands Regency
+Pangkal Pinang
 Pangkhar
 Pangnirtung
 Pangody
 Panguipulli
+Paniai Regency
 Panicale
 Panindícuaro
 Paninsky District
@@ -52493,6 +52697,7 @@ Parella
 Parempuyre
 Parenti
 Parenty
+Parepare
 Parera
 Parete
 Pareto
@@ -52511,7 +52716,9 @@ Pargny-Filain
 Pargny-sous-Mureau
 Pargny-sur-Saulx
 Pargolovo
+Pariaman
 Pariconha
+Parigi Moutong Regency
 Parignargues
 Parigne
 Parigny
@@ -52628,6 +52835,8 @@ Parzanica
 Parzeczew commune
 Pasaco
 Pasadena
+Pasaman Regency
+Pasangkayu Regency
 Pasaquina
 Pasarón de la Vera
 Pasay
@@ -52643,6 +52852,7 @@ Paseka
 Paseky
 Paseky nad Jizerou
 Pas-en-Artois
+Paser Regency
 Pasian di Prato
 Pasiano di Pordenone
 Pasinler
@@ -52886,6 +53096,7 @@ Paxtang
 Paxton
 Paxville
 Paya
+Payakumbuh
 Payas
 Payerbach
 Payerne
@@ -53069,6 +53280,7 @@ Pegognana
 Pégomas
 Peguerinos
 Péguilhan
+Pegunungan Bintang Regency
 Pehčevo
 Pehlivankoy
 Pehuajó
@@ -53093,10 +53305,12 @@ Peize
 Pejuçara
 Pekalongan
 Pekalongan Regency
+Pekanbaru
 Pekela
 Peki'in
 Pelagicevo municipality
 Pelago
+Pelalawan Regency
 Pelarco
 Pelaya
 Pelayos de la Presa
@@ -53133,6 +53347,7 @@ Pelves
 Pelzer
 Pemagatshel
 Pemalang Regency
+Pematangsiantar
 Pemathang
 Pemberton
 Pemberton Township
@@ -53150,6 +53365,7 @@ Penacova
 Penafiel
 Peñaflor
 Penaforte
+Penajam North Paser Regency
 Peñalba
 Penal-Debe Region
 Peñalolén
@@ -53244,6 +53460,7 @@ Penthéréaz
 Penticton
 Pentone
 Peñuelas
+Penukal Abab Lematang Ilir Regency
 Penvénan
 Penza
 Penza Region
@@ -53473,6 +53690,7 @@ Perwez
 Péry-La Heutte
 Pesaguero
 Pesaro
+Pesawaran Regency
 Pesca
 Pescador
 Pescaglia
@@ -53505,6 +53723,7 @@ Peshawar
 Peshchanokopsky District
 Peshovskoye
 Peshsky
+Pesisir Selatan Regency
 Peski
 Pesmes
 Pesnica
@@ -53877,6 +54096,8 @@ Picuí
 Picún Leufú
 Pidhaitsi
 Pidhorodne
+Pidie Jaya Regency
+Pidie Regency
 Piea
 Piechowice
 Piedade
@@ -54171,6 +54392,7 @@ Pinon
 Pinós
 Pinos Puente
 Pino Torinese
+Pinrang Regency
 Pinsaguel
 Pins-Justaret
 Pinsk
@@ -54886,6 +55108,7 @@ Pohori
 Pohorovice
 Pohorska Ves
 Pohrebyshche
+Pohuwato Regency
 Pöide Parish
 Poigny
 Poigny-la-Forêt
@@ -54961,6 +55184,7 @@ Polesovice
 Polessky District
 Polevsko
 Polevskoy
+Polewali Mandar Regency
 Pölfing-Brunn
 Poli
 Polia
@@ -55258,6 +55482,7 @@ Ponthaux
 Ponthévrard
 Ponthoile
 Ponti
+Pontianak
 Pontida
 Pontigny
 Pontinia
@@ -55601,6 +55826,7 @@ Posina
 Posio
 Positano
 Posoltega
+Poso Regency
 Possagno
 Posse
 Posta
@@ -55797,6 +56023,7 @@ Pozzonovo
 Pozzuoli
 Pozzuolo del Friuli
 Pozzuolo Martesana
+Prabumulih
 Prace
 Pracejovice
 Prachatice
@@ -56229,6 +56456,7 @@ Princeville
 Prince William County
 Principe
 Pringle
+Pringsewu Regency
 Pringy
 Prinquiau
 Prins Alexander
@@ -56757,6 +56985,7 @@ Puketapapa Local Board
 Pukeuri
 Pukkila
 Pula
+Pulang Pisau Regency
 Pulaski
 Pulaski County
 Pulaski Township
@@ -56789,6 +57018,8 @@ Puñal
 Punat
 Punata
 Punata Province
+Puncak Jaya Regency
+Puncak Regency
 Punceres
 Pune
 Punia
@@ -57459,6 +57690,7 @@ Raissac-sur-Lampy
 Rai Valley
 Raivavae
 Raizeux
+Raja Ampat Regency
 Rajahmundry
 Rajasthan
 Rajec
@@ -58093,6 +58325,7 @@ Reith bei Seefeld
 Reith im Alpbachtal
 Reitnau
 Reitoca
+Rejang Lebong Regency
 Réjaumont
 Rejchartice
 Rejet-de-Beaulieu
@@ -59403,6 +59636,8 @@ Roja
 Rojas
 Rojetin
 Rojewo commune
+Rokan Hilir Regency
+Rokan Hulu Regency
 Rokiciny commune
 Rokiškis
 Rokiškis District Municipality
@@ -60437,6 +60672,7 @@ Sabanalarga
 Sabana Larga
 Sabana Yegua
 Sabaneta
+Sabang
 Sabanozu
 Sabará
 Sabaragamuwa Province
@@ -62706,6 +62942,7 @@ Samar
 Samara
 Samara Region
 Samarate
+Samarinda
 Samarqand
 Samassi
 Samatan
@@ -62713,6 +62950,7 @@ Samatzai
 Samayac
 Sambaa K'e
 Sambaíba
+Sambas Regency
 Sambeek
 Sambekskoye
 Sambin
@@ -62747,6 +62985,7 @@ Samokov
 Samolaco
 Samone
 Samos
+Samosir Regency
 Samothraki
 Samotisky
 Sampacho
@@ -63144,12 +63383,14 @@ San Germano Chisone
 San Germano Vercellese
 San Gervasio Bresciano
 Sangerville
+Sanggau Regency
 Sanghen
 San Giacomo degli Schiavoni
 San Giacomo delle Segnate
 San Giacomo Filippo
 San Giacomo Vercellese
 Sangiano
+Sangihe Islands Regency
 San Gil
 San Giljan
 San Gillio
@@ -65029,6 +65270,7 @@ Sarmato
 Sarmede
 Sarmenstorg
 Sarmiento
+Sarmi Regency
 Särna
 Sarnaki commune
 Sarnano
@@ -65040,6 +65282,7 @@ Sarno
 Sarnonico
 Sarny
 Sarny District
+Sarolangun Regency
 Saroma
 Saronikos
 Saronno
@@ -65360,6 +65603,7 @@ Savy-Berlette
 Savyolki District
 Savyolovsky District
 Savyon
+Sawahlunto
 Sawin commune
 Sawmills
 Sawyer County
@@ -65995,6 +66239,7 @@ Sejny County
 Sejong
 Sejrek
 Sejs-Svejbæk
+Sekadau Regency
 Sekhukhune
 Seki
 Sekigahara
@@ -66005,6 +66250,7 @@ Sel
 Selaincourt
 Selangor
 Selargius
+Selayar Islands Regency
 Selbach
 Selbu
 Selby
@@ -66056,6 +66302,7 @@ Seloutky
 Seltisberg
 Seltjarnarnes
 Seltz
+Seluma Regency
 Selva
 Selva dei Molini
 Selva di Cadore
@@ -66300,6 +66547,7 @@ Seraucourt-le-Grand
 Seravezza
 Sercœur
 Sercus
+Serdang Bedagai Regency
 Serdiana
 Serdinya
 Serdivan
@@ -66482,6 +66730,7 @@ Sertão Santana
 Sertãozinho
 Serthig
 Sertolovo
+Seruyan Regency
 Servais
 Servanches
 Servant
@@ -66972,6 +67221,7 @@ Shuya
 Shuysky District
 Shymkent
 Siachoque
+Siak Regency
 Siamaggiore
 Siamanna
 Sianno
@@ -66997,6 +67247,7 @@ Sibiu County
 Sibiville
 Sibley County
 Siblingen
+Sibolga
 Sibrandabuorren
 Sibrandahûs
 Sibratsgfäll
@@ -67015,6 +67266,7 @@ Sid
 Sidabravas
 Siddi
 Side
+Sidenreng Rappang Regency
 Siderno
 Siderópolis
 Sidi Bel Abbes
@@ -67102,6 +67354,7 @@ Sigerswâld
 Siggiewi
 Sighnaghi
 Sigillo
+Sigi Regency
 Siglap
 Sigless
 Siglingen
@@ -67141,6 +67394,7 @@ Siilinjärvi
 Siirt
 Siirt Province
 Sijbekarspel
+Sijunjung Regency
 Sikasso Region
 Sikinos
 Sikirevci
@@ -67232,6 +67486,7 @@ Silz
 Silzheim
 Simacota
 Simala
+Simalungun Regency
 Simandres
 Simanov
 Simão Dias
@@ -67245,6 +67500,7 @@ Simcoe County
 Simeiz
 Simencourt
 Simeri Crichi
+Simeulue Regency
 Simeyrols
 Simferopol City Municipality
 Simferopol District
@@ -67303,6 +67559,7 @@ Sines
 Singburi Province
 Singen
 Sîngerei District
+Singkawang
 Singleton
 Singly
 Singuilucan
@@ -67310,6 +67567,7 @@ Sini
 Sinimbu
 Sinio
 Sinj
+Sinjai Regency
 Sinkievičy
 Sinking Spring
 Sinkovskoye
@@ -67325,6 +67583,7 @@ Sinsacate
 Sinscola
 Sinsheim
 Sint-Agatha-Berchem
+Sintang Regency
 Sint-Annaland
 Sint Anna ter Muiden
 Sint Anne
@@ -67429,6 +67688,7 @@ Sissy
 Sisteron
 Sistersville
 Sistrans
+Sitaro Islands Regency
 Sitborice
 Siteia
 Sitges
@@ -68034,6 +68294,8 @@ Solnice
 Solntsevo District
 Solofra
 Sologny
+Solok
+Solok Regency
 Sololá
 Sololá Department
 Solomianka District
@@ -68194,6 +68456,7 @@ Soportújar
 Sopot
 Sopotnice
 Soppe-le-Bas
+Soppeng Regency
 Soprec
 Sopron District
 Sora
@@ -68244,6 +68507,8 @@ Sornéville
 Sorocaba
 Soroca District
 Soroksar District
+Sorong
+Sorong Regency
 Sorquainville
 Sorradile
 Sorrento
@@ -68374,6 +68639,7 @@ Souss-Massa
 Soustelle
 Soustons
 South Abington Township
+South Aceh Regency
 South Amboy
 Southampton
 Southampton (town)
@@ -68383,14 +68649,18 @@ Southampton Parish
 Southampton Township
 South Annville Township
 South Australia
+South Bangka Regency
+South Barito Regency
 South Bay
 South Beaver Township
 South Bend
 South Bend Township
+South Bengkulu Regency
 South Berwick
 South Bethany
 South Bethlehem
 South Blooming Grove
+South Bolaang Mongondow Regency
 Southborough
 South Boston
 South Bound Brook
@@ -68402,7 +68672,9 @@ South Bucks
 South Buffalo Township
 South Burlington
 South Burnett
+South Buru Regency
 Southbury
+South Buton Regency
 South Cambridgeshire
 South Canaan Township
 South Carolina
@@ -68423,9 +68695,12 @@ South Derbyshire
 South Dublin
 Southeast
 South East
+Southeast Aceh Regency
 South-East District
 South-Eastern Administrative Area
 South Eastern Region
+Southeast Maluku Regency
+Southeast Minahasa Regency
 South East Queensland
 South El Monte
 Southend-on-Sea
@@ -68460,6 +68735,7 @@ South Governorate
 South Greensburg
 South Hackensack Township
 South Hadley
+South Halmahera Regency
 South Hamgyong Province
 South Hampton
 South Hams
@@ -68470,29 +68746,37 @@ South Heights
 South Hero
 South Hill
 South Holland
+South Hulu Sungai Regency
 South Huntingdon Township
 South Hwanghae Province
 Southington
 South Kazakhstan Region
 South Kesteven
 South Kingstown
+South Konawe Regency
 South Kurdufan State
+South Labuhan Batu Regency
 South Lakeland
 South Lake Tahoe
+South Lampung Regency
 Southland District
 Southland Region
 South Lebanon Township
 South Londonderry Township
 South Mahoning Township
 South Manheim Township
+South Manokwari Regency
 South Miami
 South Middleton Township
+South Minahasa Regency
 Southmont
 South New Castle
 South Newton Township
+South Nias Regency
 South Norfolk
 South Northamptonshire
 South Nyack
+South Ogan Komering Ulu Regency
 Southold
 South Orange Village Township
 South Oxfordshire
@@ -68512,10 +68796,13 @@ South River
 South San Francisco
 South Shenango Township
 South Slave Region
+South Solok Regency
 South Somerset
+South Sorong Regency
 South Staffordshire
 South St Paul
 South Strabane Township
+South Tapanuli Regency
 South Taranaki District
 South Thomaston
 South Toms River
@@ -68530,10 +68817,12 @@ South Wairarapa District
 Southwark
 South Waverly
 South West
+Southwest Aceh Regency
 South-Western Administrative Area
 Southwest Greensburg
 Southwest Harbor
 Southwest Madison Township
+Southwest Maluku Regency
 Southwest Ranches
 Southwest Township
 South Whitehall Township
@@ -69698,6 +69987,7 @@ Sublette County
 Subligny
 Subotica
 Subteniente Perín
+Subulussalam
 Succivo
 Suceava
 Suceava County
@@ -69807,6 +70097,7 @@ Suita
 Sukabumi
 Sukabumi Regency
 Sukagawa
+Sukamara Regency
 Sükhbaatar Province
 Sukhothai Province
 Sukoharjo Regency
@@ -69815,6 +70106,7 @@ Sukošan
 Suksunsky District
 Sukumo
 Sula
+Sula Islands Regency
 Sulawesi Barat
 Sulawesi Selatan
 Sulawesi Tengah
@@ -69952,6 +70244,7 @@ Sundhouse
 Sundre
 Sundsvall Municipality
 Sunflower County
+Sungai Penuh
 Suni
 Sunja 
 Sunne Municipality
@@ -69983,6 +70276,7 @@ Suphan Buri Province
 Supía
 Supikovice
 Supino
+Supiori Regency
 Supt
 Sur
 Surabaya
@@ -70411,6 +70705,7 @@ Sør-Varanger
 Søsum
 Taarbæk
 Tabaí
+Tabalong Regency
 Tabanan Regency
 Tabaporã
 Tabapuã
@@ -70584,6 +70879,7 @@ Takaharu
 Takahashi
 Takahata
 Takaishi
+Takalar Regency
 Takamatsu
 Takamori
 Takanabe
@@ -70636,6 +70932,7 @@ Talant
 Talarrubias
 Talas
 Talas Region
+Talaud Islands Regency
 Talaván
 Talavera la Real
 Talayuela
@@ -70652,6 +70949,7 @@ Talence
 Talensac
 Talgua
 Talheim
+Taliabu Island Regency
 Taliaferro County
 Táliga
 Talin
@@ -70724,6 +71022,7 @@ Tamboril do Piauí
 Tambov
 Tambov Region
 Tambovsky District
+Tambrauw Regency
 Tambre
 Tame
 Tameside
@@ -70755,7 +71054,12 @@ Tanabe
 Tanabi
 Tanagra
 Tanagura
+Tanah Bumbu Regency
+Tanah Datar Regency
+Tanah Laut Regency
 Tana River County
+Tana Tidung Regency
+Tana Toraja Regency
 Tanay
 Tancacha
 Tancanhuitz
@@ -70778,6 +71082,7 @@ Tangerang
 Tangerang Regency
 Tangerang Selatan
 Tanger-Tetouan-Al Hoceima
+Tanggamus Regency
 Tangier
 Tangier-Assilah Prefecture
 Tangipahoa Parish
@@ -70788,10 +71093,12 @@ Tanguá
 Tangub
 Tanhaçu
 Tanhuato
+Tanimbar Islands Regency
 Taninges
 Tanintharyi Region
 Tanjong Pagar
-Tanjung Pinang
+Tanjungbalai
+Tanjungpinang
 Tanlajás
 Tanna
 Tännäs District
@@ -70836,6 +71143,7 @@ Taperoá
 Tapes
 Tapia
 Tapia de Casariego
+Tapin Regency
 Tapira
 Tapiraí
 Tapiramutá
@@ -70869,6 +71177,7 @@ Taradeau
 Taradell
 Taragi
 Taraira
+Tarakan
 Tarakli
 Tarama
 Taranaki Region
@@ -71144,6 +71453,8 @@ Tea Tree Gully
 Te Awamutu
 Tebicuary
 Tebicuarymí
+Tebing Tinggi
+Tebo Regency
 Teboulba
 Teboursouk
 Tecalitlán
@@ -71261,6 +71572,8 @@ Telšiai County
 Telšiai District Municipality
 Telti
 Teltow-Fläming District
+Teluk Bintuni Regency
+Teluk Wondama Regency
 Telve
 Telve di Sopra
 Telvisokny
@@ -71876,6 +72189,7 @@ Ticuantepe
 Tidaholm Municipality
 Tide Head
 Tidioute
+Tidore
 Tiebas-Muruarte de Reta
 Tiefenbach
 Tiefenbronn
@@ -72144,6 +72458,7 @@ Toba
 Tobaccoville
 Tobadill
 Tobaj
+Toba Regency
 Tobatí
 Tobe
 Tobel-Tägerschen
@@ -72208,6 +72523,7 @@ Toila Parish
 Toin
 Toirano
 Toivakka
+Tojo Una-Una Regency
 Tokachi subprefecture
 Tokai
 Tokaj District
@@ -72242,8 +72558,10 @@ Tolfa
 Tolga
 Tolhuin
 Toliara
+Tolikara Regency
 Tolima Department
 Tolimán
+Tolitoli Regency
 Tollaincourt
 Tolland
 Tolland County
@@ -72307,6 +72625,7 @@ Tomioka
 Tomisato
 Tomiya
 Tommot
+Tomohon
 Tompkins
 Tompkins County
 Tompojevci
@@ -73453,6 +73772,7 @@ Tsuyama
 Tswaing
 Tswelopele
 Tuakau
+Tual
 Tuamasaga District
 Tuamotu Islands
 Tuapa
@@ -73533,6 +73853,7 @@ Tula
 Tula de Allende
 Tulalip Indian Reservation
 Tulancingo de Bravo
+Tulang Bawang Regency
 Tulare
 Tulare County
 Tula Region
@@ -78253,7 +78574,9 @@ Waiuku
 Waiwera
 Wajima
 Wajir County
+Wajo Regency
 Wakasa
+Wakatobi Regency
 Wakatu
 Wakayama
 Wakayama Prefecture
@@ -78511,6 +78834,7 @@ Warnice commune
 Warns
 Warnsveld
 Waroona
+Waropen Regency
 Warren
 Warren County
 Warrensburg
@@ -78666,6 +78990,7 @@ Wawken
 Wawolnica commune
 Waxhaw
 Waycross
+Way Kanan Regency
 Wayland
 Wayland (town)
 Wayland (village)
@@ -78897,11 +79222,13 @@ Wesola
 Wessem
 Wessingen
 West Abington Township
+West Aceh Regency
 West Almond
 Westampton Township
 West Amwell Township
 West Arnhem
 West Arthur
+West Bangka Regency
 West Bank
 West Bath
 West Baton Rouge Parish
@@ -79002,6 +79329,7 @@ West Goshen Township
 West Greenwich
 Westgreussen
 West Grove
+West Halmahera Regency
 Westhalten
 West Hamlin
 Westhampton
@@ -79030,11 +79358,14 @@ West Keating Township
 Westkerke
 West Kittanning
 Westknollendam
+West Kotawaringin Regency
 West Kurdufan State
+West Kutai Regency
 West Lafayette
 Westlake
 Westlake Village
 West Lampeter Township
+West Lampung Regency
 West Lancashire
 Westland
 Westland District
@@ -79079,11 +79410,13 @@ Westmoreland Parish
 Westmorland
 Westmorland County
 Westmount
+West Muna Regency
 West Nantmeal Township
 West New Britain Province
 West Newbury
 West Newton
 West New York
+West Nias Regency
 West-Nile Sub-Region
 West Norriton Township
 West Nottingham Township
@@ -79099,10 +79432,12 @@ West Oxfordshire
 West Palm Beach
 West Paris
 West Park
+West Pasaman Regency
 West Pelzer
 West Pennsboro Township
 West Penn Township
 West Perry Township
+West Pesisir Regency
 West Pikeland Township
 West Pike Run Township
 West Pittston
@@ -79121,6 +79456,7 @@ West Sacramento
 West Sadsbury Township
 West Salem Township
 West Seneca
+West Seram Regency
 West Shenango Township
 West Somerset
 West-Souburg
@@ -79134,11 +79470,13 @@ West Sunbury
 West Sussex
 West Tamar
 West Tampa
+West Tanjung Jabung Regency
 West Taylor Township
 West Tisbury
 West Torrens
 West Township
 Westtown Township
+West Tulang Bawang Regency
 West Turin
 West Union
 West Valley City
@@ -80030,6 +80368,7 @@ Yahroma
 Yahsihan
 Yahualica
 Yahualica de González Gallo
+Yahukimo Regency
 Yahyali
 Yaita
 Yaizu
@@ -80054,6 +80393,7 @@ Yali
 Yalí
 Yalihuyuk
 Yalikavak
+Yalimo Regency
 Yalobusha County
 Yalova
 Yalova Province
@@ -80122,6 +80462,7 @@ Yao
 Yaotsu
 Yap
 Yapacaní
+Yapen Islands Regency
 Yapeyú
 Yaprakli
 Yara
@@ -80312,7 +80653,6 @@ Yocalla
 Yoe
 Yoeseltse
 Yogyakarta
-Yogyakarta (city)
 Yoichi
 Yokkaichi
 Yokneam
