@@ -5,10 +5,10 @@
 # python -m pip install pillow
 
 # this script finds flags with wrong resolution or suspiciously high disk size.
-import os,io
+import os,io,sys
 from PIL import Image  # uses pillow
 
-threshold = 1024 #bytes
+threshold = 800 #bytes
 extensions = [".png"]
 
 # traverse root directory, and list directories as dirs and files as files
@@ -21,7 +21,8 @@ for root, dirs, files in os.walk(dir_to_test):
         fullname=os.path.join(root,current_file)
         im = Image.open(fullname)
         if (im.height != 11 or (im.height == 11 and im.width != 16 and im.width !=11)):
-            print(fullname.encode(), im.size)
+            print(fullname, im.size)
             continue
         if os.path.getsize(fullname)>threshold:
-            print(fullname.encode(), os.path.getsize(fullname),"bytes")
+            print(fullname, os.path.getsize(fullname),"bytes")
+            #os.system('optipng.exe -o7 -strip all "%s"' % fullname)
