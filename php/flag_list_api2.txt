@@ -1636,6 +1636,7 @@ Alteckendorf
 Alt Empordà
 Altena
 Altenach
+Altenau
 Altenburg
 Altenburger Land District
 Alten-Buseck
@@ -3635,6 +3636,7 @@ Astapoffskoye
 Astatula
 Asté
 Asten
+Astfeld
 Asti
 Astillero
 Astolfo Dutra
@@ -4471,6 +4473,7 @@ Bad Gleichenberg
 Bad Grönenbach
 Bad Grosspertholz
 Bad Häring
+Bad Harzburg
 Bad Herrenalb
 Bad Hersfeld
 Bad Hindelang
@@ -8576,6 +8579,7 @@ Bornel
 Bornem
 Borne Sulinowo commune
 Bornhagen
+Bornhausen
 Bornholm
 Borno
 Bornos
@@ -9250,6 +9254,7 @@ Braunau am Inn District
 Braunenweiler
 Braunfels
 Braunichswalde
+Braunlage
 Bräunlingen
 Braunsbach
 Braunschweig
@@ -10268,6 +10273,7 @@ Buncombe County
 Bundaberg
 Bunde
 Bünde
+Bündheim
 Buneville
 Bungoma County
 Bungo-ono
@@ -15717,6 +15723,7 @@ Clatsop County
 Cláudia
 Cláudio
 Claudon
+Clausthal-Zellerfeld
 Claut
 Clauzetto
 Clavaleyres
@@ -19824,6 +19831,7 @@ Dornod Province
 Dornogovi Province
 Dornstadt
 Dornstetten
+Dörnten
 Dorogomilovo District
 Dorohovskoye
 Dorohusk commune
@@ -26353,6 +26361,7 @@ Goshen (village)
 Goshen County
 Goshen Township
 Goshogawara
+Goslar
 Goslar District
 Gosnay
 Gosne
@@ -27113,6 +27122,7 @@ Großbottwar
 Grossbreitenbach
 Grossdietmanns
 Grossdietwil
+Groß Döhren
 Grossebersdorf
 Grosselfingen
 Grossenehrich
@@ -27968,6 +27978,7 @@ Hagnicourt
 Hagondange
 Hague
 Haguenau
+Hahausen
 Hahira
 Hahn
 Haid
@@ -30842,6 +30853,7 @@ Ilanz_Glion
 Ilava District
 Ilawa County
 Ilbono
+Ildehausen
 Ile-aux-Moines
 Île-aux-Moines
 Île-d'Aix
@@ -32411,6 +32423,7 @@ Jersey City
 Jersey County
 Jersey Shore
 Jerslev
+Jerstedt
 Jerte
 Jerumenha
 Jerusalem
@@ -34601,6 +34614,7 @@ Kleinfurra
 Kleingoeft
 Klein-Krotzenburg
 Kleinlützel
+Klein Mahner
 Kleinmürbisch
 Klein-Neusiedl
 Klein-Pöchlarn
@@ -37285,6 +37299,7 @@ Langeberg
 Langedijk
 Langeland
 Langelo
+Langelsheim
 Langemark-Poelkapelle
 Langen
 Langenargen
@@ -38029,6 +38044,7 @@ Lautaro
 Lautem District
 Lautenbach
 Lautenbachzell
+Lautenthal
 Lauterach
 Lauterbach
 Lauterbourg
@@ -38700,6 +38716,7 @@ Lenesice
 Le Neubourg
 Le Neufour
 Lenexa
+Lengde
 Lengelsheim
 Lengenfeld
 Lengenwang
@@ -39518,6 +39535,8 @@ Lido-Pellestrina
 Lidrezing
 Lidzbark County
 Liebenau
+Liebenburg
+Liebenburg Ort
 Liebenfels
 Liebenrode
 Liebenstein
@@ -40133,6 +40152,7 @@ Lochkov
 Lochovice
 Lochow commune
 Lochristi
+Lochtum
 Lochwiller
 Locke
 Lockenhaus
@@ -41208,6 +41228,7 @@ Luttelgeest
 Lutten
 Luttenbach-pres-Munster
 Lutter
+Lutter am Barenberge
 Lutterbach
 Lutti
 Lutuhyne
@@ -47262,6 +47283,7 @@ Mun
 Munakata
 Muñana
 Muna Regency
+Münchehof
 München
 Münchenbernsdorf
 Münchenbuchsee
@@ -50934,6 +50956,7 @@ Okcheon County
 Okeechobee
 Okeechobee County
 Okegawa
+Oker
 Oketo
 Okfuskee County
 Okha
@@ -52049,6 +52072,7 @@ Oterleek
 Otero County
 Otesice
 Othe
+Othfresen
 Othmarsingen
 Othón P Blanco
 Otice
@@ -63995,6 +64019,7 @@ Sankt Andrä am Zicksee
 Sankt Andrä-Höch
 Sankt Andrä im Lungau
 Sankt Andrä-Wördern
+Sankt Andreasberg
 Sankt Anna am Aigen
 Sankt Anton am Arlberg
 Sankt Anton an der Jessnitz
@@ -66554,6 +66579,7 @@ Seelingstädt
 Seelisberg
 Seengen
 Sées
+Seesen
 Seewald
 Seewen
 Seewis im Prättigau
@@ -77149,6 +77175,7 @@ Viel Neighbourhood
 Viel-Saint-Remy
 Vielsalm
 Vielverge
+Vienenburg
 Vienna
 Vienne
 Vienne-en-Bessin
@@ -79126,6 +79153,7 @@ Wallisellen
 Walliswil bei Niederbipp
 Walliswil bei Wangen
 Wallkill
+Wallmoden
 Wallon-Cappel
 Wallonie
 Wallowa County
@@ -79470,6 +79498,7 @@ Weckrieden
 Wedde
 Wedderburn
 Weddin
+Weddingen
 Weddington
 Weed
 Weedsport
@@ -80105,6 +80134,7 @@ Widensolen
 Widnau
 Widuchowa commune
 Wiecbork commune
+Wiedelah
 Wieden
 Wieden District
 Wiedergeltingen
@@ -80192,6 +80222,7 @@ Wilcox County
 Wildalpen
 Wildberg
 Wildeck
+Wildemann
 Wildendürnbach
 Wildenspring
 Wildenstein
