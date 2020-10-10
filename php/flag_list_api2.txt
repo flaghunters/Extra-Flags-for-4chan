@@ -133,7 +133,6 @@ Abinsky District
 Abira
 Abitibi-Témiscamingue
 Abja-Paluoja
-Abja Parish
 Abjat-sur-Bandiat
 Abkhazia
 Abla
@@ -648,7 +647,6 @@ Ahaxe-Alciette-Bascassan
 Ahetze
 Ahéville
 Ahí Veremos
-Ahja Parish
 Ahlat
 Ahmadi Governorate
 Ahmedabad
@@ -948,7 +946,6 @@ Alairac
 Alájar
 Alajärvi
 Alajeró
-Alajõe Parish
 Alajuela
 Alajuela Province
 Alajuelita
@@ -980,7 +977,6 @@ Al Asimah Governorate
 Alaska
 Alassio
 Alatri
-Alatskivi Parish
 Alauca
 Alavieska
 Alavus
@@ -1113,7 +1109,6 @@ Albufeira
 Albugnano
 Albula_Alvra
 Albuñol
-Albu Parish
 Albuquerque
 Al Buraimi Governorate
 Alburgh
@@ -1769,6 +1764,7 @@ Alumínio
 Alupka
 Alushta
 Alushta City Municipality
+Alutaguse
 Alvaiázere
 Alvalade
 Alvarado
@@ -1907,7 +1903,6 @@ Ambite
 Ambivere
 Amblainville
 Amblans-et-Velotte
-Ambla Parish
 Amblar-Don
 Ambleny
 Ambler
@@ -2326,7 +2321,7 @@ Anicuns
 Anières
 Anievas
 Anif
-Anija Parish
+Anija
 Animaná
 Aninskoye
 Anisacate
@@ -2519,7 +2514,6 @@ Antrona Schieranco
 Antropovsky District
 Antsirabe
 Antsla
-Antsla Parish
 Antsoain
 Antsohihy
 Antuco
@@ -2989,7 +2983,6 @@ Arenthon
 Arenys de Mar
 Arenzano
 Ärenzdallgemeng
-Are Parish
 Arequipa
 Arequipa Province
 Arequipa Region
@@ -3491,7 +3484,6 @@ Ascros
 Ascurra
 Åsele Municipality
 Åseral
-Aseri Parish
 Aserrí
 Asfeld
 Asgabat
@@ -3880,7 +3872,6 @@ Audrain County
 Audrehem
 Audresselles
 Audruicq
-Audru Parish
 Audubon
 Audubon County
 Audubon Park
@@ -4174,7 +4165,6 @@ Avignonet-Lauragais
 Avilés
 Avillers
 Avilley
-Avinurme Parish
 Avinyó
 Avinyonet del Penedès
 Avinyonet de Puigventós
@@ -21614,7 +21604,6 @@ Emlingen
 Emmaboda District
 Emmaboda Municipality
 Emmanouil Pappas
-Emmaste Parish
 Emmaus
 Emmen
 Emmendingen
@@ -27933,7 +27922,7 @@ Hå
 Haa
 Haabersti
 Haacht
-Häädemeeste Parish
+Häädemeeste
 Haaften
 Haag
 Haagen
@@ -27942,7 +27931,6 @@ Haakon County
 Haaksbergen
 Haaltert
 Haan
-Haanja Parish
 Haapajärvi
 Haapavesi
 Haapsalu
@@ -27951,7 +27939,6 @@ Haarlem
 Haarlemmerliede
 Haarlemmermeer
 Haarzuilens
-Haaslava Parish
 Haast
 Haastrecht
 Habarcq
@@ -28138,11 +28125,10 @@ Halifax Region
 Halifax Township
 Haligovce
 Haliliye
-Halinga Parish
 Halinghen
 Halinow commune
 Halitpasa
-Haljala Parish
+Haljala
 Halkapinar
 Hall
 Hallam
@@ -28162,7 +28148,6 @@ Hallering
 Hallines
 Hallingeberg District
 Hall in Tirol
-Halliste Parish
 Halloville
 Hallowell
 Halloy
@@ -28311,7 +28296,6 @@ Hangenbieten
 Hangest-en-Santerre
 Hangviller
 Hangzhou
-Hanila Parish
 Haninge Municipality
 Haniska
 Hankasalmi
@@ -28444,7 +28428,7 @@ Harjavalta
 Härjedalen Municipality
 Harjumaa
 Härkingen
-Harku Parish
+Harku
 Harlan County
 Harlem
 Harleyville
@@ -28972,7 +28956,6 @@ Hellouw
 Hellsau
 Hellum
 Helmand Province
-Helme Parish
 Helmetta
 Helmond
 Helmsdorf
@@ -29430,7 +29413,6 @@ Higuera de la Serena
 Higuera de la Sierra
 Higueras
 Hiiumaa
-Hiiu Parish
 Hiji
 Hijuelas
 Hijum
@@ -30525,7 +30507,6 @@ Humerœuille
 Humières
 Humlikon
 Hummelstown
-Hummuli Parish
 Hum na Sutli
 Humphrey
 Humphreys County
@@ -30892,7 +30873,6 @@ Iide
 III Circoscrizione
 Iijima
 Iinan
-Iisaku Parish
 Iisalmi
 Iitate
 Iites
@@ -31018,7 +30998,6 @@ Illnau-Effretikon
 Illorai
 Illoud
 Illtal
-Illuka Parish
 Illy
 Illzach
 Ilmajoki
@@ -31058,7 +31037,6 @@ Imari
 Imaruí
 Imatong
 Imatra
-Imavere Parish
 Imbabazane
 Imbabura Province
 Imbaú
@@ -32300,7 +32278,8 @@ Jarrie
 Jars
 Jaru
 Jaruco
-Järva-Jaani Parish
+Järva
+Järva-Jaani
 Järvakandi
 Järvamaa
 Järvenpää
@@ -32706,14 +32685,13 @@ Jodhpur
 Jodlownik commune
 Jodoigne
 Joe Gqabi
-Jõelähtme Parish
+Jõelähtme
 Joe Morolong
 Joensuu
 Joetsu
 Jœuf
 Jõgeva
 Jõgevamaa
-Jõgeva Parish
 Johannesburg
 Johannisberg
 Johnsburg
@@ -32733,7 +32711,6 @@ John Taolo Gaetsewe
 Johor
 Johor Bahru
 Jõhvi
-Jõhvi Parish
 Jóia
 Joigny
 Joigny-sur-Meuse
@@ -33065,7 +33042,6 @@ Jutryp
 Jützenbach
 Juuka
 Juupajoki
-Juuru Parish
 Juva
 Juvanzé
 Juvelize
@@ -33121,7 +33097,7 @@ Kadlin
 Kadogawa
 Kadoma
 Kadov
-Kadrina Parish
+Kadrina
 Kadriye
 Kaduna State
 Kaduysky District
@@ -33162,7 +33138,6 @@ Kaikoura District
 Kaimana Regency
 Kainach bei Voitsberg
 Kainan
-Käina Parish
 Kainbach bei Graz
 Kaindorf
 Kainuu
@@ -33189,7 +33164,6 @@ Kaisten
 Kaita
 Kaitangata
 Kaithal
-Kaiu Parish
 Kaiwharawhara
 Kaiyo
 Kaizu
@@ -33323,7 +33297,7 @@ Kamanjab
 Kamanje
 Kamaryn
 Kambarka
-Kambja Parish
+Kambja
 Kamchatka Territory
 Kamen
 Kamenec u Policky
@@ -33449,7 +33423,7 @@ Kane
 Kane County
 Kanegasaki
 Kanelovskoye
-Kanepi Parish
+Kanepi
 Känerkinden
 Kanevskoy District
 Kaneyama
@@ -33606,7 +33580,6 @@ Kärdla
 Kardolf-Schönenberg
 Kardzhali
 Kardzhali Province
-Kareda Parish
 Kareeberg
 Kareli
 Karelia
@@ -33630,7 +33603,6 @@ Kariya
 Karkkila
 Kärkölä
 Karksi-Nuia
-Karksi Parish
 Karle
 Karl Gustav District
 Karlik
@@ -33712,9 +33684,7 @@ Kartitsch
 Kartoffelrækkerne
 Kartuzy County
 Karuizawa
-Karula Parish
 Karumai
-Käru Parish
 Karvia
 Karvina
 Karvina District
@@ -33730,7 +33700,6 @@ Kasava
 Kasciukovičy
 Kasciukovičy District
 Kasejovice
-Kasepää Parish
 Kaser
 Kasese District
 Kasharsky District
@@ -33768,6 +33737,7 @@ Kaštelir-Labinci
 Kasten bei Böheimkirchen
 Kasterlee
 Kastoria
+Kastre
 Kasuga
 Kasugai
 Kasukabe
@@ -33962,10 +33932,9 @@ Kegums
 Kehl
 Kehra
 Kehrsatz
-Kehtna Parish
+Kehtna
 Keiendorp
 Keila
-Keila Parish
 Keisen
 Keitele
 Keith County
@@ -34113,7 +34082,6 @@ Kernersville
 Kernilis
 Kernoues
 Kerns
-Kernu Parish
 Kerprich-aux-Bois
 Kerr County
 Kersaint-Plabennec
@@ -34313,13 +34281,11 @@ Kifisia
 Kigali
 Kigezi Sub-Region
 Kiginsky District
-Kihelkonna Parish
 Kihniö
-Kihnu Parish
+Kihnu
 Kiho
 Kihoku
 Kiili
-Kiili Parish
 Kiischpelt
 Kijevo
 Kijewo Krolewskie commune
@@ -34897,7 +34863,6 @@ Koedijk
 Koekelare
 Koekelberg
 Kœnigsmacker
-Koeru Parish
 Koes
 Koestlach
 Koetzingue
@@ -34917,7 +34882,6 @@ Kogi State
 Kohden
 Kohfidisch
 Kohila
-Kohila Parish
 Kohima
 Kohimarama
 Koh Kong Province
@@ -34927,8 +34891,6 @@ Kohoku
 Kohoutov
 Kohtla-Järve
 Kohtla-Nõmme
-Kohtla Parish
-Koigi Parish
 Koitiata
 Kojatice
 Kojetice
@@ -34969,7 +34931,6 @@ Kolding
 Kolec
 Kolesov
 Kolesovice
-Kolga-Jaani Parish
 Kolguevsky
 Kolhapur
 Kolin
@@ -34977,7 +34938,6 @@ Kolin District
 Kolinec
 Kolkata
 Kollam
-Kõlleste Parish
 Kölliken
 Kollmarsreute
 Kollum
@@ -35073,7 +35033,6 @@ Köngen
 Kongens Enghave
 Kongsberg
 Kongsvinger
-Konguta Parish
 Konice
 Königheim
 Königsbach-Stein
@@ -35127,8 +35086,6 @@ Konyaalti
 Konya Province
 Koochiching County
 Koog aan de Zaan
-Koonga Parish
-Kõo Parish
 Koorda
 Kootenai County
 Kootenay Boundary Regional District
@@ -35246,7 +35203,6 @@ Koscielisko commune
 Koscierzyna County
 Kosciusko County
 Kose
-Kose Parish
 Kosetice
 Kosh-Agach
 Kosh-Agachskoye
@@ -35867,7 +35823,6 @@ Kuliai
 Kulikovskoye
 Kulin
 Kulinsky District
-Kullamaa Parish
 Küllstedt
 Kulmbach District
 Kulon Progo Regency
@@ -36056,7 +36011,7 @@ Kutuzovskoye
 Kutzenhausen
 Kutztown
 Kuurne
-Kuusalu Parish
+Kuusalu
 Kuusamo
 Kuvshinovsky District
 Kuwana
@@ -36241,9 +36196,10 @@ La Almolda
 La Almunia de Doña Godina
 La Altagracia Province
 La Ametlla de Mar
+Lääne-Harju
 Läänemaa
-Lääne-Nigula Parish
-Lääne-Saare Parish
+Lääne-Nigula
+Lääneranna
 Lääne-Virumaa
 La Apartada
 Laarbeek
@@ -36662,7 +36618,6 @@ Ladushkin
 Lady Lake
 Ladysmith
 Ladyzhyn
-Laekvere Parish
 La Encarnación
 Lærdal
 Laerru
@@ -36670,7 +36625,6 @@ La Escondida
 La Esperanza
 La Estrella
 Læsø
-Laeva Parish
 Lafage
 La Fage-Montivernoux
 Lafage-sur-Sombre
@@ -36915,7 +36869,6 @@ La Haye-le-Comte
 La Haye-Pesnel
 La Haye-Saint-Sylvestre
 Lahayville
-Laheda Parish
 La Herlière
 La Heunière
 Laheycourt
@@ -36956,7 +36909,6 @@ Laihia
 Laikipia County
 Laille
 Laimgrube
-Laimjala Parish
 Laimont
 La Imperial
 Lainate
@@ -37972,7 +37924,6 @@ Lastro
 Las Tunas
 Las Tunas Province
 La Suze-sur-Sarthe
-Lasva Parish
 Las Varas
 Las Varillas
 Las Vegas
@@ -38673,7 +38624,6 @@ Leirfjord
 Leiria
 Leiria District
 Leisach
-Leisi Parish
 Leissigen
 Leithaprodersdorf
 Leithfield
@@ -39754,7 +39704,6 @@ Ligueux
 Liguria
 Lihons
 Lihula
-Lihula Parish
 Lihus
 Lija
 Líjar
@@ -40365,7 +40314,6 @@ Löhningen
 Lohn SH
 Lohr
 Lohra
-Lohusuu Parish
 Loiano
 Loich
 Loil
@@ -41113,7 +41061,7 @@ Lugagnan
 Lugagnano Val d'Arda
 Lugan
 Lugano
-Lüganuse Parish
+Lüganuse
 Luganville
 Lugnano in Teverina
 Lugnez
@@ -41351,7 +41299,7 @@ Lutzelhouse
 Lutzenberg
 Lutzmannsburg
 Luumäki
-Luunja Parish
+Luunja
 Luvia
 Luvinate
 Luweero District
@@ -41685,7 +41633,6 @@ Maen Roch
 Maenza
 Maertert
 Maerzeg
-Mäetaguse Parish
 Maetinga
 Maevskoye
 Mafalda
@@ -41994,7 +41941,6 @@ Makow County
 Makow Mazowiecki
 Makow Podhalanski
 Makromi
-Mäksa Parish
 Maksatikhinsky District
 Makubetsu
 Makueni County
@@ -42919,7 +42865,6 @@ Mariupol
 Mariupol District
 Marizópolis
 Märjamaa
-Märjamaa Parish
 Marjina Horka
 Marjina Horka District
 Markaryd District
@@ -43159,7 +43104,6 @@ Martirano
 Martirano Lombardo
 Mártires
 Martis
-Martna Parish
 Marton
 Martone
 Martonvasar District
@@ -43881,7 +43825,6 @@ Medzilaborce District
 Meeden
 Meekatharra
 Meeker County
-Meeksi Parish
 Meerbusch
 Meerhout
 Meerkerk
@@ -44221,7 +44164,6 @@ Méreau
 Meredith
 Merefa
 Merelbeke
-Meremäe Parish
 Meremere
 Merenberg
 Merenschwand
@@ -44779,7 +44721,6 @@ Mikhaylovskoye
 Mikhaylovsky District
 Mikhnevo
 Miki
-Mikitamäe Parish
 Mikkeli
 Miklavž na Dravskem Polju
 Mikleuš
@@ -45213,7 +45154,6 @@ Mississauga
 Mississippi
 Mississippi Choctaw Indian Reservation
 Mississippi County
-Misso Parish
 Missoula County
 Missouri
 Missy
@@ -45768,7 +45708,6 @@ Moniga del Garda
 Monigotes
 Monino
 Moniquirá
-Mõniste Parish
 Monistrol-d'Allier
 Monistrol de Calders
 Monistrol de Montserrat
@@ -46658,7 +46597,6 @@ Mooslargue
 Moosleerau
 Moosomin
 Moosseedorf
-Mooste Parish
 Mopani
 Mopti Region
 Moqhaka
@@ -47352,7 +47290,7 @@ Mühlingen
 Mühltal
 Muhos
 Muhr
-Muhu Parish
+Muhu
 Muiden
 Muiderberg
 Muides-sur-Loire
@@ -47379,6 +47317,7 @@ Mulcey
 Mulchén
 Mulegé
 Mulfingen
+Mulgi
 Mulgrave
 Mulhausen
 Mülheim an der Ruhr
@@ -47635,7 +47574,6 @@ Mustafakemalpasa
 Mustamäe
 Mustang District
 Müsterlingen
-Mustjala Parish
 Mustvee
 Muswellbrook
 Muszyna
@@ -49267,7 +49205,6 @@ Nissedal
 Nissequoque
 Nissewaard
 Nisshin
-Nissi Parish
 Nissoria
 Nistelrode
 Nisyros
@@ -49341,7 +49278,6 @@ Noale
 Noalhat
 Noardburgum
 Noardeast-Fryslân
-Noarootsi Parish
 Noasca
 Nobeoka
 Nobitz
@@ -49448,7 +49384,7 @@ Nomécourt
 Nomeny
 Nomexy
 Nomi
-Nomme
+Nõmme
 Nompatelize
 Nonancourt
 Nonantola
@@ -49470,8 +49406,8 @@ Nontron
 Nonville
 Nonza
 Nonzeville
+Nõo
 Noodwelle
-Nõo Parish
 Noorbeek
 Noord
 Noord-Beveland
@@ -49984,7 +49920,6 @@ Nova Pádua
 Nova Paka
 Nova Palma
 Nova Palmeira
-Nõva Parish
 Nova Pec
 Nova Petrópolis
 Nova Plan
@@ -51635,7 +51570,6 @@ Oratino
 Oratorio
 Oratorio de Concepcion
 Oratórios
-Orava Parish
 Oravská Polhora
 Orbais-l'Abbaye
 Orban
@@ -51761,7 +51695,6 @@ Oripää
 Orís
 Oriskany
 Oriskany Falls
-Orissaare Parish
 Oristà
 Oristano
 Orito
@@ -51918,7 +51851,6 @@ Ortovero
 Ortucchio
 Ortueri
 Orune
-Õru Parish
 Oruro
 Oruro Department
 Orusco de Tajuña
@@ -52202,7 +52134,6 @@ Oteha
 Otelfingen
 Otemata
 Otepää
-Otepää Parish
 Oterleek
 Otero County
 Otesice
@@ -52617,7 +52548,6 @@ Padiernos
 Padiès
 Padilla
 Padina
-Padise Parish
 Padova
 Padre Bernardo
 Padre Carvalho
@@ -52676,11 +52606,10 @@ Paiania
 Paiçandu
 Paicol
 Paide
-Paide Parish
 Paihia
 Paihuano
 Päijät-Häme
-Paikuse Parish
+Paikuse
 Pailhac
 Pailhès
 Pailin Province
@@ -52730,7 +52659,6 @@ Pajeczno commune
 Pajeczno County
 Pajeú do Piauí
 Pajevonys
-Pajusi Parish
 Pakiri
 Pakosc commune
 Pakoštane
@@ -52758,14 +52686,12 @@ Palaiseau
 Palaja
 Palamas
 Palaminy
-Palamuse Parish
 Palana
 Palanadas
 Palandoken
 Palanga
 Palangka Raya
 Palanzano
-Pala Parish
 Palata
 Palatine
 Palatine Bridge
@@ -52940,7 +52866,6 @@ Palù
 Palù del Fersina
 Paludi
 Paluel
-Palupera Parish
 Paluzza
 Pama
 Pamandzi
@@ -53805,7 +53730,7 @@ Peillonnex
 Peine District
 Peio
 Peipin
-Peipsiääre Parish
+Peipsiääre
 Peiraias
 Peisey-Nancroix
 Péiteng
@@ -54762,9 +54687,7 @@ Piha
 Pihem
 Pihen-lès-Guînes
 Pihtipudas
-Pihtla Parish
 Pihuamo
-Piirissaare Parish
 Pijao
 Pijiño del Carmen
 Pijnacker
@@ -55562,7 +55485,6 @@ Podomi
 Podosinovsky District
 Podporozhe
 Podporozhsky District
-Põdrala Parish
 Podravska Moslavina
 Podravske Sesvete
 Podstrana
@@ -55612,6 +55534,8 @@ Pogradec
 Pogranichny District
 Pohatcong Township
 Pohjanmaa
+Põhja-Pärnumaa
+Põhja-Sakala
 Põhja-Tallinn
 Pohjois-Karjala
 Pohjois-Pohjanmaa
@@ -55629,7 +55553,6 @@ Pohorovice
 Pohorska Ves
 Pohrebyshche
 Pohuwato Regency
-Pöide Parish
 Poigny
 Poigny-la-Forêt
 Poilcourt-Sydney
@@ -55784,10 +55707,8 @@ Poltava Region
 Poltavchenskoye
 Poltavskoye
 Põltsamaa
-Põltsamaa Parish
 Põlva
 Põlvamaa
-Põlva Parish
 Polverara
 Polverigi
 Polvijärvi
@@ -57466,9 +57387,7 @@ Puglia
 Puglianello
 Pugmil
 Pugnac
-Pühalepa Parish
 Puhinui
-Puhja Parish
 Puhoi
 Puichéric
 Puidoux
@@ -57502,7 +57421,6 @@ Pujaut
 Pujo
 Pujols
 Pujols-sur-Ciron
-Puka Parish
 Pukekohe
 Puketapapa Local Board
 Pukeuri
@@ -57649,7 +57567,6 @@ Putumayo Department
 Puturge
 Putyvl
 Puumala
-Puurmani Parish
 Puurs-Sint-Amands
 Puxe
 Puxieux
@@ -58000,7 +57917,7 @@ Raalte
 Raamsdonk
 Raard
 Raasepori
-Raasiku Parish
+Raasiku
 Rab
 Rábade
 Rabastens
@@ -58148,11 +58065,11 @@ Radzyn Podlaski
 Radzyn Podlaski commune
 Radzyn Podlaski County
 Radøy
+Rae
 Raedersdorf
 Raedersheim
 Raeford
 Rælingen
-Rae Parish
 Raerd
 Raeren
 Raes Junction
@@ -58170,7 +58087,6 @@ Rafard
 Raffadali
 Rafina-Pikermi
 Rafz
-Rägavere Parish
 Raggal
 Ragged Island
 Raglan
@@ -58194,7 +58110,6 @@ Raiano
 Raiatea
 Raiding
 Raiford
-Raikküla Parish
 Raillencourt-Sainte-Olle
 Railleu
 Railroad
@@ -58235,7 +58150,6 @@ Rakhmanovskoye
 Rakitovo
 Rakityansky District
 Rakkeby
-Rakke Parish
 Rakkestad
 Rákoš
 Rakosmente District
@@ -58249,7 +58163,7 @@ Rakovnik
 Rakovnik District
 Rakuvka
 Rakvere
-Rakvere Parish
+Rakvere linn
 Rakvice
 Raleigh
 Raleigh County
@@ -58389,7 +58303,6 @@ Rankweil
 Ranlo
 Rannee
 Ränneslöv
-Rannu Parish
 Ranong Province
 Ránquil
 Ranrupt
@@ -58426,11 +58339,9 @@ Rapho Township
 Rapid City
 Rapides Parish
 Räpina
-Räpina Parish
 Rapino
 Rapla
 Raplamaa
-Rapla Parish
 Rapolano Terme
 Rapolla
 Rapone
@@ -59348,7 +59259,6 @@ Rickenbach bei Winterthur
 Ricky
 Ricky v Orlickych horach
 Ricla
-Ridala Parish
 Ridder
 Ridderkerk
 Riddes
@@ -60336,7 +60246,6 @@ Ronfe
 Rongelap Atoll
 Rongellen
 Rongotai
-Rõngu Parish
 Ronneberg
 Ronneburg
 Ronneby
@@ -60360,7 +60269,6 @@ Roosdaal
 Roosendaal
 Roosevelt
 Roosevelt County
-Roosna-Alliku Parish
 Roosteren
 Roost-Warendin
 Root
@@ -60658,13 +60566,13 @@ Rouffiac-des-Corbières
 Rouffignac-de-Sigoulès
 Rouffignac-Saint-Cernin-de-Reilhac
 Rougé
+Rõuge
 Rougefay
 Rougegoutte
 Rougemont
 Rougemontiers
 Rougemont-le-Château
 Rougeou
-Rõuge Parish
 Rougeries
 Rougiers
 Rougnat
@@ -60933,7 +60841,7 @@ Ruggell
 Rugles
 Rugney
 Rugvica
-Ruhnu Parish
+Ruhnu
 Ruiloba
 Ruinas
 Ruinen
@@ -61204,9 +61112,8 @@ Saalfelden am Steinernen Meer
 Saalfeld-Rudolstadt District
 Saanen
 Saanich District
-Saarde Parish
+Saarde
 Saaremaa
-Saare Parish
 Saarijärvi
 Saarland
 Saarlouis District
@@ -63234,7 +63141,6 @@ Sakskøbing
 Sakteng
 Saku
 Sakuho
-Saku Parish
 Sakura
 Sakuragawa
 Sakurai
@@ -63410,7 +63316,6 @@ Salmaise
 Salmannsdorf
 Salmbach
 Salmendingen
-Salme Parish
 Salmo
 Salmon
 Salmon Arm
@@ -63936,7 +63841,6 @@ Sangamon County
 Sangano
 Sangão
 San Gaspar Ixchil
-Sangaste Parish
 Sangatte
 San Gavino Monreale
 San Gemini
@@ -66007,8 +65911,6 @@ Saudades
 Saúde
 Saudemont
 Saue
-Saue Parish
-Sauga Parish
 Sauge
 Saugerties (town)
 Saugerties (village)
@@ -67385,6 +67287,7 @@ Sete Lagoas
 Setenil de las Bodegas
 Sete Quedas
 Seto
+Setomaa
 Setouchi
 Setsoto
 Settala
@@ -68947,7 +68850,6 @@ Sombrun
 Somerdale
 Someren
 Somero
-Sõmerpalu Parish
 Somers
 Somerset
 Somerset County
@@ -68955,7 +68857,6 @@ Somerset Township
 Somers Point
 Somersworth
 Somerton
-Sõmeru Parish
 Somervell County
 Somerville
 Somianka commune
@@ -69002,7 +68903,6 @@ Sonceboz-Sombeval
 Sonchamp
 Soncino
 Sondalo
-Sonda Parish
 Sondelfingen
 Sondernach
 Sonderriet
@@ -70938,7 +70838,6 @@ Surigao City
 Surigao del Norte
 Surigao del Sur
 Surin Province
-Surju Parish
 Sur Lípez Province
 Surmene
 Surnadal
@@ -71011,7 +70910,6 @@ Sutton County
 Suttsu
 Sutz-Lattrigen
 Suure-Jaani
-Suure-Jaani Parish
 Suva
 Suva Reka
 Suvereto
@@ -71349,7 +71247,6 @@ Tabernacle Township
 Tabernas
 Tabio
 Tabira
-Tabivere Parish
 Tablelands
 Taboão da Serra
 Tabocas do Brejo Velho
@@ -71440,13 +71337,10 @@ Tahaa
 Tahakopa
 Tahal
 Tahara
-Taheva Parish
 Tahir
 Tahiti
-Tahkuranna Parish
 Tahoua Region
 Tahtakopru
-Tähtvere Parish
 Tahuata
 Tahunanui
 Taiaçu
@@ -71670,7 +71564,6 @@ Tampico
 Tampines
 Tamra
 Tamsalu
-Tamsalu Parish
 Tamsweg
 Tamsweg District
 Tamuín
@@ -71763,7 +71656,6 @@ Tapalhuaca
 Tapalpa
 Tapalqué
 Tapanui
-Tapa Parish
 Taparuba
 Tapebicuá
 Tapejara
@@ -71905,8 +71797,8 @@ Tart-le-Bas
 Tartonne
 Tartu
 Tartuca
+Tartu linn
 Tartumaa
-Tartu Parish
 Tarui
 Tarumã
 Tarumirim
@@ -71914,7 +71806,6 @@ Tarumizu
 Tarumovsky District
 Tar-Vabriga
 Tarvasjoki
-Tarvastu Parish
 Tarvisio
 Tarvita
 Tarxien
@@ -73153,7 +73044,7 @@ Toho
 Tohoku
 Toholampi
 Toi
-Toila Parish
+Toila
 Toin
 Toirano
 Toivakka
@@ -73203,7 +73094,6 @@ Tollebeek
 Tollegno
 Tollent
 Tolleson
-Tõlliste Parish
 Tollo
 Tolmezzo
 Tolmin
@@ -73364,20 +73254,18 @@ Torella del Sannio
 Toretsk
 Torgiano
 Torgnon
-Torgu Parish
 Torhout
+Tori
 Toribío
 Toride
 Torija
 Toril
 Torino
 Torino di Sangro
-Tori Parish
 Toritama
 Toritto
 Torixoréu
 Torlino Vimercati
-Torma Parish
 Tornabous
 Tornac
 Tornaco
@@ -73555,7 +73443,6 @@ Tossa de Mar
 Tossiat
 Tossicia
 Tostado
-Tõstamaa Parish
 Tostat
 Tosu
 Tosunlar
@@ -74462,7 +74349,6 @@ Tuczna commune
 Tuczno commune
 Tudeils
 Tudela
-Tudulinna Parish
 Tuen Mun District
 Tufanbeyli
 Tufara
@@ -74628,7 +74514,6 @@ Turin
 Turín
 Turin (town)
 Turin (village)
-Türi Parish
 Turiúba
 Turka
 Turkana County
@@ -75029,7 +74914,6 @@ Ulassai
 Ula Tirso
 Ulbjerg
 Ulcinj
-Ülenurme Parish
 Ulestraten
 Ulez commune
 Ulhowek commune
@@ -75460,7 +75344,6 @@ Urus-Martanovsky District
 Urussanga
 Urutaí
 Urval
-Urvaste Parish
 Urvillers
 Uryu
 Urzedow commune
@@ -75679,7 +75562,6 @@ Vaals
 Vaas
 Vaasa
 Vaassen
-Väätsa Parish
 Vabalninkas
 Vabre
 Vabres
@@ -75748,7 +75630,7 @@ Vaie
 Vaiea
 Vaiges
 Vaihingen an der Enz
-Väike-Maarja Parish
+Väike-Maarja
 Vailate
 Vailhan
 Vailhauquès
@@ -75762,7 +75644,6 @@ Vairé
 Vaires-sur-Marne
 Vaisigano District
 Vaison-la-Romaine
-Vaivara Parish
 Vaivre-et-Montoille
 Vajnory
 Vajont
@@ -75944,7 +75825,6 @@ Valga
 Valgamaa
 Valganna
 Valgioie
-Valgjärve Parish
 Valgoglio
 Valgorge
 Valgrana
@@ -75956,7 +75836,6 @@ Valhuon
 Valiergues
 Valines
 Valinhos
-Valjala Parish
 Valjevo
 Valka
 Valkeakoski
@@ -76199,7 +76078,6 @@ Vandoeuvres
 Vandoies
 Vandoncourt
 Vändra
-Vändra Parish
 Vandrimare
 Vandy
 Vanegas
@@ -76263,7 +76141,6 @@ Varangéville
 Varano Borghi
 Varano de' Melegari
 Varapajeva
-Vara Parish
 Varapodio
 Varash
 Varash District
@@ -76273,7 +76150,6 @@ Varaždinske Toplice
 Varazze
 Varberg District
 Varberg Municipality
-Varbla Parish
 Varces-Allières-et-Risset
 Varco Sabino
 Varde
@@ -76349,9 +76225,7 @@ Varsak
 Varsberg
 Varsi
 Varsinais-Suomi
-Värska Parish
 Vars-sur-Roseix
-Varstu Parish
 Varvarin
 Várzea
 Várzea Alegre
@@ -76368,7 +76242,6 @@ Varzi
 Varzo
 Varzy
 Vasai-Virar
-Vasalemma Parish
 Vasanello
 Vasarosnameny District
 Vas County
@@ -76404,8 +76277,6 @@ Västmanland County
 Vasto
 Vastogirardi
 Västra Götaland County
-Vastse-Kuuste Parish
-Vastseliina Parish
 Vasvar District
 Vasylivka
 Vasylivka District
@@ -76930,7 +76801,6 @@ Verín
 Vérin
 Veringendorf
 Veringenstadt
-Veriora Parish
 Veríssimo
 Verjon
 Verkhivtseve
@@ -77438,7 +77308,6 @@ Vievy-le-Rayé
 View Royal
 Viey
 Vif
-Vigala Parish
 Viganò
 Vigano San Martino
 Vigantice
@@ -77494,10 +77363,9 @@ Viguzzolo
 Vigy
 Vihiga County
 Vihti
-Vihula Parish
 Viichten
 VII Circoscrizione
-Viimsi Parish
+Viimsi
 Viișoara
 Viitasaari
 Vijayawada
@@ -77593,8 +77461,8 @@ Vilhena
 Viliejka
 Viliejka District
 Viljandi
+Viljandi linn
 Viljandimaa
-Viljandi Parish
 Viljevo
 Vilkaviškis
 Vilkaviškis District Municipality
@@ -78342,7 +78210,7 @@ Vinicne Sumice
 Vinje
 Vinkeveen
 Vinkovci
-Vinni Parish
+Vinni
 Vinnytsia
 Vinnytsia District
 Vinnytsia Region
@@ -78420,7 +78288,7 @@ Virovitica-Podravina County
 Virrat
 Virserum
 Virton
-Viru-Nigula Parish
+Viru-Nigula
 Viry-Châtillon
 Viry-Noureuil
 Vis
@@ -78788,7 +78656,6 @@ Vomécourt-sur-Madon
 Vomp
 Voncq
 Vonnas
-Võnnu Parish
 Vonoklasy
 Von Ormy
 Voorburg
@@ -78817,7 +78684,7 @@ Voreppe
 Vorges
 Vorges-les-Pins
 Vorkuta
-Vormsi Parish
+Vormsi
 Vornay
 Vorobyovsky District
 Voronezh
@@ -78834,8 +78701,8 @@ Vorselaar
 Vorst
 Vörstetten
 Võru
+Võru linn
 Võrumaa
-Võru Parish
 Vösendorf
 Vosges
 Voskhod
