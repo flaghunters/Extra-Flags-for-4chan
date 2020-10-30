@@ -4550,7 +4550,7 @@ Bady Bassitt
 Bad Zurzach
 Baelen
 Baependi
-Baerdref
+Bäerdref
 Baerendorf
 Baerenthal
 Bærum
@@ -7270,6 +7270,7 @@ Bierazino District
 Bierbeek
 Bière
 Bieringen
+Biermereng
 Biermes
 Bierne
 Bierry-les-Belles-Fontaines
@@ -8016,7 +8017,6 @@ Boën-sur-Lignon
 Boeny Region
 Boer
 Boerakker
-Boermereng
 Boersch
 Boerum
 Boeschepe
@@ -11952,6 +11952,8 @@ Capelle
 Capelle aan den IJssel
 Capelle-Fermont
 Capelle-lès-Hesdin
+Capellen
+Capellen Canton
 Capelo
 Cape May
 Cape May County
@@ -16237,6 +16239,7 @@ Colmenar del Arroyo
 Colmenar de Oreja
 Colmenarejo
 Colmenar Viejo
+Colmer-Bierg
 Colmey
 Colmurano
 Colniza
@@ -21558,7 +21561,7 @@ El Vilosell
 El Viso
 El Volcán
 El Wādī El Ǧedīd Governorate
-Elwen
+Ëlwen
 Ely
 Elyakhin
 Élysée
@@ -23147,7 +23150,7 @@ Fertile Valley
 Fervedouro
 Ferwâlde
 Ferwert
-Feschbech
+Fëschbech
 Fesches-le-Châtel
 Fès-Meknès
 Fès Prefecture
@@ -25264,7 +25267,7 @@ Gehée
 Gehlberg
 Gehofen
 Gehren
-Geisdref
+Géisdref
 Geisei
 Geisenheim
 Geishouse
@@ -32768,7 +32771,7 @@ Jonestown
 Jones Township
 Jonesville
 Jonglei
-Jonglenster
+Jonglënster
 Jongno District
 Jongny
 Joniškelis
@@ -33128,7 +33131,7 @@ Kadyysky District
 Kadıköy
 Kadınhanı
 Kadışehri
-Kaerch
+Käerch
 Käerjeng
 Kaesong Industrial Region
 Kafar Qara
@@ -33508,7 +33511,6 @@ Kapčiamiestis
 Kapela
 Kapelle
 Kapellen
-Kapellen Canton
 Kapelle-op-den-Bos
 Kapelln
 Kapfenberg
@@ -34060,7 +34062,7 @@ Kenton County
 Kentrika Tzoumerka
 Kentriki Makedonia
 Kentucky
-Kenzeg
+Kënzeg
 Kenzingen
 Keokuk County
 Kepahiang Regency
@@ -34952,7 +34954,6 @@ Kölliken
 Kollmarsreute
 Kollum
 Kollumersweach
-Kolmer-Bierg
 Köln
 Kolno County
 Kolobrzeg
@@ -38860,7 +38861,7 @@ Lentate sul Seveso
 Lentegí
 Lentekhi
 Lentella
-Lentgen
+Lëntgen
 Lenti District
 Lentillac-du-Causse
 Lentilly
@@ -41676,8 +41677,8 @@ Maello
 Maennolsheim
 Maen Roch
 Maenza
-Maertert
-Maerzeg
+Mäertert
+Mäerzeg
 Maetinga
 Maevskoye
 Mafalda
@@ -48395,7 +48396,7 @@ Nenacovice
 Nendaz
 Nendingen
 Nenets Autonomous Area
-Nengsen
+Néngsen
 Nenkovice
 Nentershausen
 Nenthead
@@ -48991,7 +48992,7 @@ Nidda
 Niddatal
 Nidderaanwen
 Nidderau
-Nidderkaerjeng
+Nidderkäerjeng
 Niderhoff
 Niderviller
 Nidzica County
@@ -54342,7 +54343,7 @@ Petruvka
 Petruvky
 Petrvald
 Petržalka
-Petscht
+Pëtschent
 Petten
 Pettenasco
 Pettinengo
@@ -58613,7 +58614,7 @@ Rečica ob Savinji
 Recice
 Recife
 Reciprocity
-Recken op der Mess
+Reckeng op der Mess
 Recklinghausen
 Recklinghausen District
 Réclainville
@@ -58780,8 +58781,8 @@ Reichshoffen
 Reichstädt
 Reichstett
 Reiden
-Réiden
 Réiden Canton
+Réiden op der Atert
 Reidsville
 Reidville
 Reigate and Banstead
@@ -58856,7 +58857,7 @@ Rembertow
 Remchingen
 Remedello
 Remedios
-Remeleng
+Rëmeleng
 Rémelfang
 Rémelfing
 Rémeling
@@ -66256,7 +66257,7 @@ Scheer
 Scheerwolde
 Scheffau am Tennengebirge
 Scheffau am Wilden Kaiser
-Scheffleng
+Schëffleng
 Schefflenz
 Scheggia e Pascelupo
 Scheggino
@@ -66289,7 +66290,7 @@ Scherpenheuvel-Zichem
 Scherpenisse
 Scherpenzeel
 Scherwiller
-Schetter
+Schëtter
 Scheuren
 Scheveningen
 Schiavi di Abruzzo
@@ -66830,7 +66831,7 @@ Selje
 Seljord
 Selkirkshire
 Selkovskoye
-Sell
+Sëll
 Sella Giudicarie
 Sellano
 Sellero
@@ -69977,7 +69978,7 @@ Staufen
 Staufenberg
 Staufen im Breisgau
 Staunton
-Stauseigemeng
+Stauséigemeng
 Stavanger
 Stavelot
 Stavely
@@ -72244,7 +72245,7 @@ Tenri
 Tenryu
 Tensas Parish
 Tenteling
-Tenten
+Tënten
 Tenterfield
 Tentlingen
 Tenza
@@ -79172,7 +79173,7 @@ Waipukurau
 Wairau
 Wairio
 Wairoa District
-Waisswampech
+Wäiswampech
 Waitahuna
 Waitakere
 Waitakere Ranges Local Board
@@ -79221,7 +79222,7 @@ Walcz County
 Wald
 Waldachtal
 Wald am Schoberpass
-Waldbelleg
+Waldbëlleg
 Waldbriedemes
 Waldbröl
 Waldbronn
@@ -79778,8 +79779,8 @@ Well
 Wellen
 Wellendingen
 Wellersburg
+Welleschten
 Wellesley
-Wellesteen
 Wellfleet
 Wellford
 Wellin
@@ -79802,7 +79803,7 @@ Welschenrohr
 Wels District
 Welsum
 Welver
-Welwerwolz
+Wëlwerwolz
 Welwyn Hatfield
 Welzheim
 Wemaers-Cappel
@@ -79823,7 +79824,7 @@ Wenns
 Weno
 Wenonah
 Wenslingen
-Wentger
+Wëntger
 Wentworth
 Wentzwiller
 Wenum-Wiesel
