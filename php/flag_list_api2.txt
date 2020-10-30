@@ -180,7 +180,7 @@ Abu Ghosh
 Abuná Province
 Abu Sinan
 Abyan
-Abyei Special Administrative Area
+Abyei Area
 Abyysky District
 Abzac
 Abzelilovsky District
@@ -1812,7 +1812,6 @@ Alzon
 Alzonne
 Ama
 Amacueca
-Amadi
 Amadora
 Amador City
 Amador County
@@ -4220,8 +4219,6 @@ Awapuni
 Awara
 Awashimaura
 Awdalland
-Aweil
-Aweil East
 Awendam
 Awhitu
 Awoingt
@@ -8261,7 +8258,6 @@ Bóly District
 Bolzano
 Bolzano Novarese
 Bolzano Vicentino
-Boma
 Bomarzo
 Bomba
 Bombal
@@ -13517,6 +13513,7 @@ Central Department
 Central Desert
 Central District
 Central do Maranhão
+Central Equatoria
 Central Falls
 Central Goldfields
 Central Halmahera Regency
@@ -20604,13 +20601,11 @@ Easterlittens
 Eastermar
 Eastern Administrative Area
 Eastern Band of Cherokee Indians
-Eastern Bieh
 Eastern Cape
 Eastern District
+Eastern Equatoria
 Eastern Highlands Province
 Easternijtsjerk
-Eastern Lakes
-Eastern Nile
 Eastern Pequot Tribal Nation
 Eastern Province
 Eastern Region
@@ -22767,7 +22762,6 @@ Famechon
 Fameck
 Fampoux
 Fanano
-Fangak
 Fanjeaux
 Fanna
 Fannett Township
@@ -25233,7 +25227,6 @@ Gazzola
 Gazzo Veronese
 Gazzuolo
 Gbarpolu County
-Gbudwe
 Gdansk
 Gdansk County
 Gdovsky District
@@ -26130,7 +26123,6 @@ Gogney
 Gognies-Chaussée
 Gogolin
 Gogolin Commune
-Gogrial
 Gôh-Djiboua District
 Goheung County
 Göhren
@@ -26160,7 +26152,6 @@ Goito
 Gójar
 Gojo
 Gojome
-Gok
 Goka
 Gokase
 Gökçeada
@@ -31066,7 +31057,6 @@ Imaculada
 Imakane
 Imari
 Imaruí
-Imatong
 Imatra
 Imbabazane
 Imbabura Province
@@ -32944,7 +32934,6 @@ Juazeiro do Norte
 Juazeiro do Piauí
 Jubainville
 Jubaland
-Jubek
 Jucás
 Jucati
 Jüchen
@@ -37052,6 +37041,7 @@ Lakeport
 Lake Quivira
 Lake Santeetlah
 Lakeside
+Lakes State
 Lake Success
 Lake Township
 Lake Vermilion Indian Reservation
@@ -38004,7 +37994,6 @@ Latimer County
 Latimore Township
 Latina
 Latisana
-Latjoor
 La Tola
 La Toma
 La Tordilla
@@ -40401,7 +40390,6 @@ Lokroi
 Loksa
 Lokve
 Lokvičići
-Lol
 Lolland
 Lollar
 Lollum
@@ -42839,7 +42827,6 @@ Maricá
 Maricao
 Maricopa
 Maricopa County
-Maridi
 Marie
 Marie Byrd Land
 Mariehamn
@@ -47920,7 +47907,6 @@ Namhae County
 Namie
 Namiquipa
 Namlos
-Namorunyang
 Nampa
 Nampula
 Nampula Province
@@ -49658,6 +49644,7 @@ Northeim District
 North Elba
 Northern Administrative Area
 Northern Areas
+Northern Bahr el Ghazal
 Northern Beaches
 Northern Cambria
 Northern Cape
@@ -49667,7 +49654,6 @@ Northern Governorate
 Northern Grampians
 Northern Ireland
 Northern Islands
-Northern Liech
 Northern Lights County
 Northern Midlands
 Northern Peninsula Area
@@ -54567,6 +54553,7 @@ Piazzatorre
 Piazzola sul Brenta
 Piazzolo
 Piblange
+Pibor Administrative Area
 Pibrac
 Picada Café
 Pićan
@@ -61070,7 +61057,7 @@ Ruurlo
 Ruviano
 Ruvo del Monte
 Ruvo di Puglia
-Ruweng
+Ruweng Administrative Area
 Ruyaulcourt
 Ruy Barbosa
 Ruynes-en-Margeride
@@ -69297,7 +69284,6 @@ Southern Harbour
 Southern Highlands and Tablelands
 Southern Highlands Province
 Southern Leyte
-Southern Liech
 Southern Mallee
 Southern Pines
 Southern Province
@@ -72311,7 +72297,6 @@ Tercer Frente
 Terdeghem
 Terdobbiate
 Terebovlia
-Terekeka
 Terelle
 Terengganu
 Terenos
@@ -73268,7 +73253,6 @@ Tongeren
 Tongyeong
 Tonila
 Tönisvorst
-Tonj
 Tonkinsky District
 Tonkpi Region
 Tonna
@@ -74719,7 +74703,6 @@ Twello
 Tweng
 Twenterand
 Twentynine Palms
-Twic
 Twiggs County
 Twilight
 Twillingate
@@ -75161,6 +75144,7 @@ Unislaw commune
 Unistalda
 United Nations Buffer Zone
 Unity
+Unity State
 Unity Township
 Universiteitsterrein
 University of Trieste
@@ -75288,6 +75272,7 @@ Upper Moreland Township
 Upper Mount Bethel Township
 Upper Murray River
 Upper Nazareth Township
+Upper Nile
 Upper Nyack
 Upper Oxford Township
 Upper Paxton Township
@@ -79473,6 +79458,7 @@ Warns
 Warnsveld
 Waroona
 Waropen Regency
+Warrap State
 Warren
 Warren County
 Warrensburg
@@ -79603,7 +79589,6 @@ Watts Township
 Wattwil
 Watwiller
 Watzenborn-Steinberg
-Wau
 Wauchula
 Waukesha County
 Waupaca County
@@ -79949,13 +79934,13 @@ Western
 Western Administrative Area
 Western Area
 Western Australia
+Western Bahr el Ghazal
 Western Bay of Plenty District
 Western Cape
 Western Downs
+Western Equatoria
 Western Highlands Province
 Westernieland
-Western Lakes
-Western Nile
 Western Province
 Western Region
 Westerpark
@@ -81221,7 +81206,6 @@ Yegerukhayskoye
 Yegorlyksky District
 Yegoryevsky District
 Yehud-Monosson
-Yei River
 Yekateringofsky
 Yeleğen
 Yelenovskoye
