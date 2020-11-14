@@ -332,6 +332,7 @@ Adaincourt
 Adainville
 Adair County
 Adairsville
+Adair Village
 Adak
 Adalar
 Adamantina
@@ -2438,6 +2439,7 @@ Antas
 Antas de Ulla
 Antau
 Antegnate
+Antelope
 Antelope County
 Antelope Park
 Antene
@@ -3639,6 +3641,7 @@ Astillero
 Astolfo Dutra
 Aston Township
 Astorga
+Astoria
 Åstorp Municipality
 Astrakhan
 Astrakhan Region
@@ -3697,6 +3700,7 @@ Athabasca
 Athabasca County
 Athang
 Athée
+Athena
 Athens
 Athens (town)
 Athens (village)
@@ -3940,6 +3944,7 @@ Aumerval
 Aumes
 Aumessas
 Aumetz
+Aumsville
 Aunat
 Aunay-les-Bois
 Aunay-sous-Crécy
@@ -4729,6 +4734,7 @@ Bakat
 Bakel
 Baker
 Baker Brook
+Baker City
 Baker County
 Baker Island
 Baker Lake
@@ -4961,6 +4967,7 @@ Bandera de Navatalgordo
 Banderalena
 Bando
 Bandol
+Bandon
 Bandraboua
 Bandrawela
 Bandrélé
@@ -4992,6 +4999,7 @@ Banjarbaru
 Banjarmasin
 Banjarnegara Regency
 Banjar Regency
+Banks
 Banks County
 Banks Township
 Bannach
@@ -5241,6 +5249,7 @@ Barletta
 Barlieu
 Barlin
 Barlinek commune
+Barlow
 Barly
 Barnard
 Barnaul
@@ -5679,6 +5688,7 @@ Bayboro
 Bay Bulls
 Bayburt
 Bayburt Province
+Bay City
 Bay County
 Bay de Verde
 Baydiğin
@@ -5899,6 +5909,7 @@ Beaverhead County
 Beaverlodge
 Beaver Meadows
 Beaver River
+Beaverton
 Beavertown
 Beaver Township
 Beazley
@@ -6410,6 +6421,7 @@ Ben Avon
 Ben Avon Heights
 Benay
 Benayes
+Bend
 Bendejun
 Bendeleben
 Bender
@@ -9799,6 +9811,7 @@ Brookfield
 Brookfield Township
 Brookford
 Brookhaven
+Brookings
 Brookings County
 Brooklawn
 Brooklet
@@ -10564,6 +10577,7 @@ Bütschwil-Ganterschwil
 Buttapietra
 Butteaux
 Butte County
+Butte Falls
 Büttelborn
 Butte-Montmartre
 Butten
@@ -11587,6 +11601,7 @@ Cana Verde
 Canavieira
 Canavieiras
 Canazei
+Canby
 Cancale
 Cancellara
 Cancello ed Arnone
@@ -11698,6 +11713,7 @@ Canning
 Cannobio
 Cannock Chase
 Cannole
+Cannon Beach
 Cannon County
 Canoas
 Canobbio
@@ -11903,8 +11919,10 @@ Cañuelas Department
 Canutama
 Canwood
 Cany-Barville
+Canyon City
 Canyon County
 Canyon Lake
+Canyonville
 Canzano
 Canzo
 Caorle
@@ -12585,6 +12603,7 @@ Casavieja
 Casazza
 Casca
 Cascade County
+Cascade Locks
 Cascade Township
 Cascais
 Cascalho Rico
@@ -13534,6 +13553,7 @@ Central Mamuju Regency
 Central Okanagan Regional District
 Central Otago District
 Central Pacolet
+Central Point
 Central Province
 Central Queensland
 Central Region
@@ -14970,6 +14990,7 @@ Chilliwack
 Chilly-Mazarin
 Chilmark
 Chiloé Province
+Chiloquin
 Chiltern
 Chiltiupán
 Chilton County
@@ -15767,6 +15788,7 @@ Clary
 Clason
 Clastres
 Clasville
+Clatskanie
 Clatsop County
 Cláudia
 Cláudio
@@ -16375,6 +16397,7 @@ Colton
 Colts Neck Township
 Colturano
 Columbia
+Columbia City
 Columbia County
 Columbia Falls
 Columbiana County
@@ -16601,6 +16624,7 @@ Condeúba
 Condofuri
 Condom
 Condom-d'Aubrac
+Condon
 Condor
 Condorcanqui Province
 Condorcet
@@ -16780,6 +16804,7 @@ Cooper Township
 Coorong
 Coorow
 Coosa County
+Coos Bay
 Coos County
 Coös County
 Cootamundra
@@ -16808,6 +16833,7 @@ Coqueiros do Sul
 Coqueiro Seco
 Coquelles
 Coquieral
+Coquille
 Coquimatlán
 Coquimbo
 Coquimbo Region
@@ -17152,6 +17178,7 @@ Corumbiara
 Corunca
 Corupá
 Coruripe
+Corvallis
 Corvara
 Corvara in Badia
 Corvera de Asturias
@@ -17242,6 +17269,7 @@ Cotorro
 Cotronei
 Cotswold
 Cottage City
+Cottage Grove
 Cottageville
 Cottance
 Cottanello
@@ -17470,6 +17498,7 @@ Couzou
 Cova Lima District
 Covarachía
 Covasna County
+Cove
 Cove City
 Coveñas
 Cove Neck
@@ -17967,6 +17996,7 @@ Culpeper County
 Culpina
 Cult
 Cululú
+Culver
 Culver City
 Culverden
 Cumaná
@@ -18575,6 +18605,7 @@ Daysland
 Dayton
 Daytona Beach
 Daytona Beach Shores
+Dayville
 Dazaifu
 Dazio
 Dazkırı
@@ -18864,6 +18895,7 @@ Dependencias Federales
 Depew
 De Peyster
 De Pinte
+Depoe Bay
 Depok
 Depoltovice
 De Pomp
@@ -19759,6 +19791,7 @@ Dona Emma
 Dona Eusébia
 Dona Francisca
 Dona Inês
+Donald
 Donalds
 Donalsonville
 Donat
@@ -20058,6 +20091,7 @@ Drahonuv Ujezd
 Drahotin
 Drahous
 Draillant
+Drain
 Draix
 Drakenstein
 Drakes Branch
@@ -20287,6 +20321,7 @@ Duffel
 Dufferin
 Dufferin County
 Duffield
+Dufur
 Duga Resa
 Dugenta
 Duggingen
@@ -20354,6 +20389,7 @@ Dundy County
 Dunedin
 Dunellen
 Dunes
+Dunes City
 Dung
 Dungannon
 Dunglegang
@@ -20534,6 +20570,7 @@ Eagle
 Eagle County
 Eagle Creek
 Eagle Lake
+Eagle Point
 Eagle Rock
 Eagles Mere
 Eagleswood Township
@@ -20825,6 +20862,7 @@ Echinghen
 Échirolles
 Echizen (city)
 Echizen (town)
+Echo
 Echols County
 Échouboulains
 Échourgnac
@@ -22274,6 +22312,7 @@ Essonne
 Essoyes
 Essunga Municipality
 Est
+Estacada
 Estação
 Estación Araóz y Tacanas
 Estación Central
@@ -22743,6 +22782,7 @@ Fall River
 Fall River County
 Fallsburg
 Falls Church
+Falls City
 Falls County
 Falls Creek
 Fallston
@@ -23798,6 +23838,7 @@ Forest City
 Forest County
 Foreste
 Forest-en-Cambrésis
+Forest Grove
 Forest Heath
 Forest Heights
 Forest Hills
@@ -23964,6 +24005,7 @@ Fosses
 Fosses-la-Ville
 Fosseux
 Fossieux
+Fossil
 Fossò
 Fossombrone
 Fos-sur-Mer
@@ -25236,6 +25278,7 @@ Gdovsky District
 Gdow commune
 Gdynia
 Géanges
+Gearhart
 Geary County
 Geauga County
 Gebenstorf
@@ -25588,6 +25631,7 @@ Gerterode
 Gert Sibande
 Gertwiller
 Geruge
+Gervais
 Gervans
 Gerville
 Géry
@@ -26177,6 +26221,7 @@ Goldach
 Goldap County
 Goldbach
 Goldbach-Altenbach
+Gold Beach
 Gold Canyon
 Gold Coast
 Goldegg im Pongau
@@ -26188,6 +26233,7 @@ Golden Plains
 Golden Valley County
 Golden West
 Goldfields-Esperance
+Gold Hill
 Goldsboro
 Goldston
 Golegã
@@ -26779,6 +26825,7 @@ Granges-sur-Lot
 Grangettes
 Gran Guardia
 Gränichen
+Granite
 Granite County
 Granite Falls
 Granite Quarry
@@ -26946,6 +26993,7 @@ Greenfield
 Greenfield Township
 Green Hills
 Greenhithe
+Greenhorn
 Green Island
 Green Lake County
 Greenland
@@ -27020,6 +27068,7 @@ Gréolières
 Greonterp
 Gréoux-les-Bains
 Greppen
+Gresham
 Grésigny-Sainte-Reine
 Gresik Regency
 Greslove Myto
@@ -28080,6 +28129,7 @@ Haina
 Hainaut
 Hainburg
 Hainburg an der Donau
+Haines
 Haines Borough
 Haines City
 Haines Junction
@@ -28139,6 +28189,7 @@ Halfeti
 Halfmoon
 Half Moon Bay
 Halfmoon Township
+Halfway
 Halhul
 Haliburton County
 Halifax
@@ -28187,6 +28238,7 @@ Halmahera
 Halmstad
 Halmstad Municipality
 Halsa
+Halsey
 Halsnæs
 Halsou
 Halsteren
@@ -28965,6 +29017,7 @@ Helgoland
 Heliconia
 Heliodora
 Heliópolis
+Helix
 Hellam Township
 Hellean
 Helléan
@@ -29085,6 +29138,7 @@ Hepburn
 Hepburn Township
 Hephzibah
 Heppenheim
+Heppner
 Heralec
 Heraltice
 Hérange
@@ -29192,6 +29246,7 @@ Herméville-en-Woëvre
 Hermies
 Hermigua
 Hermin
+Hermiston
 Hermitage
 Hermon
 Hermonville
@@ -29510,6 +29565,7 @@ Hindlingen
 Hindmarsh
 Hinds County
 Hi-Nella
+Hines
 Hinesburg
 Hines Creek
 Hinesville
@@ -29949,6 +30005,7 @@ Honório Serpa
 Honskirch
 Hood County
 Hoodoo
+Hood River
 Hood River County
 Hoofdplaat
 Hoogblokland
@@ -30411,6 +30468,7 @@ Huautla
 Huaylas Province
 Huazalingo
 Hubballi-Dharwad
+Hubbard
 Hubbard County
 Hubbardston
 Hubbardton
@@ -30808,6 +30866,7 @@ Ida County
 Idaerd
 Idaho
 Idaho County
+Idanha
 Idanha-a-Nova
 Ida-Virumaa
 Ide
@@ -31070,6 +31129,7 @@ Imbersago
 Imbert
 Imbituba
 Imbituva
+Imbler
 Imbuia
 Imeni Lazo District
 Imeni Poliny Osipenko District
@@ -31441,6 +31501,7 @@ Irouléguy
 Irpin
 Irreville
 Irricana
+Irrigon
 Irschen
 Irsee
 Irshava
@@ -31535,6 +31596,7 @@ Islamabad Capital Territory
 Islamorada
 Isla Mujeres
 Island Bay
+Island City
 Island County
 Island Falls
 Island Heights
@@ -32724,6 +32786,7 @@ Jõgeva
 Jõgevamaa
 Johannesburg
 Johannisberg
+John Day
 Johnsburg
 Johns Creek
 Johnson
@@ -32806,6 +32869,7 @@ Jordanow
 Jordanow commune
 Jordanow Slaski commune
 Jordan Township
+Jordan Valley
 Jordão
 Joroinen
 Jorwert
@@ -32843,6 +32907,7 @@ José María Vargas
 José Miguel de Velasco Province
 Josenópolis
 José Pedro Varela
+Joseph
 Josephine County
 José Rafael Revenga
 José Ramón Loayza Province
@@ -33966,6 +34031,7 @@ Keila
 Keisen
 Keitele
 Keith County
+Keizer
 Kejnice
 Kejzlice
 Kekava
@@ -34648,6 +34714,7 @@ Klaj commune
 Klakar
 Klaksvík
 Klamath County
+Klamath Falls
 Klamos
 Klana
 Klang
@@ -36843,6 +36910,7 @@ La Granada de Riotinto
 La Granadella
 La Grand-Combe
 La Grand-Croix
+La Grande
 La Grande Béroche
 La Grande-Paroisse
 La Grandville
@@ -37034,6 +37102,7 @@ Lake Mary
 Lake Mountain
 Lake of the Rivers
 Lake of the Woods County
+Lake Oswego
 Lakepa
 Lake Park
 Lake Placid
@@ -37606,6 +37675,7 @@ Lapeyre
 Lapeyrouse-Fossat
 La Peza
 La Piedad
+La Pine
 Lapinjärvi
 Lapinlahti
 La Pintada
@@ -39858,6 +39928,7 @@ Lincent
 Lincklaen
 Lincoln
 Lincoln (Canterbury)
+Lincoln City
 Lincoln County
 Lincoln Department
 Lincoln Parish
@@ -40480,6 +40551,7 @@ Longchamp
 Longchamps-sur-Aire
 Longchaumois
 Long County
+Long Creek
 Longeau-Percey
 Longeaux
 Longecourt-en-Plaine
@@ -40735,6 +40807,7 @@ Los Taques
 Lost Creek
 Los Telares
 Lostice
+Lostine
 Lostorf
 Lost River
 Lostroff
@@ -40861,6 +40934,7 @@ Loventué
 Lovere
 Loveresse
 Lovero
+Loverock
 Lovettsville
 Love Valley
 Loviisa
@@ -41651,6 +41725,7 @@ Madona
 Madone
 Madonna del Sasso
 Madranges
+Madras
 Madré
 Madre de Deus
 Madre de Deus de Minas
@@ -42112,6 +42187,7 @@ Mali Iđoš
 Malijai
 Målilla
 Mali Losinj
+Malin
 Malinau Regency
 Malincourt
 Malinky
@@ -42487,6 +42563,7 @@ Manzanares
 Manzanares el Real
 Manzanilla
 Manzanillo
+Manzanita
 Manzano
 Manzat
 Manziana
@@ -43525,6 +43602,7 @@ Maungakiekie-Tamaki Local Board
 Maungaturoto
 Mauny
 Mauperthuis
+Maupin
 Maupiti
 Maur
 Mauraz
@@ -43624,6 +43702,7 @@ Maysville
 Mayu Sumaj
 Mayville
 Maywood
+Maywood Park
 Mazagão
 Mazamet
 Mazamitla
@@ -43743,6 +43822,7 @@ McLeod County
 McLouth
 McMechen
 McMinn County
+McMinnville
 McMullen County
 McNairy County
 McNett Township
@@ -44414,6 +44494,7 @@ Metlaoui
 Metlika
 Metline
 Metnitz
+Metolius
 Metouia
 Metro
 Metrogorodok District
@@ -44847,6 +44928,7 @@ Millbrae
 Millbrook
 Millburn Township
 Millbury
+Mill City
 Mill Creek
 Millcreek Township
 Mill Creek Township
@@ -44913,12 +44995,14 @@ Milson
 Miltenberg District
 Milton
 Milton Brandão
+Milton-Freewater
 Milton Keynes
 Milton Township
 Milutinsky District
 Milvignes
 Milwaukee
 Milwaukee County
+Milwaukie
 Milzano
 Mima
 Mimasaka
@@ -45504,6 +45588,7 @@ Molac
 Moladava
 Mola di Bari
 Molagavita
+Molalla
 Molandier
 Molanga de Escamilla
 Molare
@@ -46597,6 +46682,7 @@ Montvicq
 Montville
 Mont-Vully
 Montzéville
+Monument
 Monvalle
 Monviel
 Monza
@@ -46826,6 +46912,7 @@ Morningside
 Mornington
 Mornington Peninsula
 Mornshausen
+Moro
 Morobe Province
 Morocelí
 Morochata
@@ -46961,6 +47048,7 @@ Mosfellsbær
 Mosgiel
 Moshenskoy District
 Moshkovsky District
+Mosier
 Moskenes
 Moskovskaya zastava
 Moskovsky
@@ -47263,6 +47351,7 @@ Msunduzi
 Mszana Dolna
 Mszana Dolna commune
 Mszczonow commune
+Mt. Angel
 Mt. Lebanon
 Mtarfa
 Mthonjaneni
@@ -47685,6 +47774,8 @@ Myronivka
 Myross Beach
 Myrskylä
 Myrtle Beach
+Myrtle Creek
+Myrtle Point
 Myshkin
 Myshkinsky District
 Myslakowice commune
@@ -48325,6 +48416,7 @@ Négrondes
 Negros Occidental
 Negros Oriental
 Neguac
+Nehalem
 Nehodiv
 Nehren
 Nehvizdy
@@ -48730,6 +48822,7 @@ Newaygo County
 New Baltimore
 New Beaver
 New Bedford
+Newberg
 New Berlin
 New Berlin (town)
 New Berlin (village)
@@ -49595,6 +49688,7 @@ North Bay Village
 North Beach
 North Beaver Township
 North Belle Vernon
+North Bend
 North Bengkulu Regency
 North Bergen Township
 North Berwick
@@ -49729,9 +49823,11 @@ North Ossetia-Alania
 North Padang Lawas Regency
 North Palm Beach
 North Plainfield
+North Plains
 North Pole
 Northport
 North Port
+North Powder
 North Providence
 North Pyongan Province
 North Qu'Appelle
@@ -50487,6 +50583,7 @@ Nyrob
 Nyrov
 Nyrsko
 Nysa County
+Nyssa
 Nysted
 Nytva
 Nytvensky District
@@ -50523,6 +50620,7 @@ Oakley
 Oaklyn
 Oakmont
 Oak Park
+Oakridge
 Oak Ridge
 Oakville
 Oakwood
@@ -51666,6 +51764,7 @@ Orebić
 Orech
 Orechov
 Oregon
+Oregon City
 Oregon County
 Oregon Township
 Orehovica
@@ -52688,6 +52787,7 @@ Paionia
 Paipa
 Pai Pedro
 Paisco Loveno
+Paisley
 Paįstrys
 País Vasco
 Paita
@@ -54480,6 +54580,7 @@ Phillipsburg
 Phillips County
 Phillipston
 Philmont
+Philomath
 Phippsburg
 Phitsanulok Province
 Phlin
@@ -54778,6 +54879,7 @@ Pilõezinhos
 Pilón
 Pilot Mountain
 Pilot Point
+Pilot Rock
 Pilviškiai
 Pima
 Pima County
@@ -56255,6 +56357,7 @@ Port Orange
 Porto Real
 Porto Real do Colégio
 Porto Recanati
+Port Orford
 Porto Rico
 Porto Rico do Maranhão
 Porto San Giorgio
@@ -56477,6 +56580,7 @@ Powell County
 Powell River Regional District
 Powellsville
 Power County
+Powers
 Poweshiek County
 Powhatan County
 Pownal
@@ -56594,6 +56698,7 @@ Praia Grande
 Praiano
 Praia Norte
 Prainha
+Prairie City
 Prairie County
 Prairiedale
 Prairie Rose
@@ -56952,6 +57057,7 @@ Princetown
 Princeville
 Prince William County
 Principe
+Prineville
 Pringle
 Pringsewu Regency
 Pringy
@@ -58175,6 +58281,7 @@ Rainau
 Rainbow Lake
 Raincourt
 Rainelle
+Rainier
 Rainneville
 Rainsars
 Rainsburg
@@ -58678,6 +58785,7 @@ Red Lake Indian Reservation
 Redland
 Redlands
 Red Lion
+Redmond
 Red Oak
 Redon
 Redonda Dependency
@@ -58697,6 +58805,7 @@ Red Wing
 Redwood City
 Redwood County
 Reedley
+Reedsport
 Reedsville
 Reed Township
 Reedy
@@ -59318,6 +59427,7 @@ Ricla
 Ridder
 Ridderkerk
 Riddes
+Riddle
 Riddleville
 Ridec
 Ridelov
@@ -59731,6 +59841,7 @@ River Edge
 River Forest Township
 Rivergaro
 River Gee County
+Rivergrove
 Riverhead
 Riverie
 Riverina
@@ -59961,6 +60072,7 @@ Rochonvillers
 Rociana del Condado
 Rockanje
 Rockaway
+Rockaway Beach
 Rockaway Township
 Rockbridge County
 Rockcastle County
@@ -60104,6 +60216,7 @@ Rogovskoye
 Rogow commune
 Rogowo commune
 Rogozno commune
+Rogue River
 Rogues
 Rohan
 Rohatec
@@ -60430,6 +60543,7 @@ Roseboom
 Roseboro
 Rosebud County
 Rosebud Indian Reservation
+Roseburg
 Rosec
 Rosedale
 Rosegg
@@ -60893,6 +61007,7 @@ Ruffigné
 Ruffrè-Mendola
 Rufina
 Rufino
+Rufus
 Rugaji
 Rugby
 Ruggell
@@ -63810,6 +63925,7 @@ Sandviken Municipality
 Sandweiler
 Sandwell
 Sandwich
+Sandy
 Sandy Creek
 Sandy Creek (town)
 Sandycreek Township
@@ -66195,6 +66311,7 @@ Scansano
 Scanzano Jonico
 Scanzorosciate
 Scapoli
+Scappoose
 Scarborough
 Scarlino
 Scarmagno
@@ -66561,6 +66678,7 @@ Scottdale
 Scotts Bluff County
 Scottsburg
 Scottsdale
+Scotts Mills
 Scotts Valley
 Scottsville
 Scott Township
@@ -67479,6 +67597,7 @@ Shackelford County
 Shade Gap
 Shade Township
 Shadrinsk
+Shady Cove
 Shady Dale
 Shafter
 Shaftsbury
@@ -67508,6 +67627,7 @@ Shandaken
 Shandong
 Shanghai
 Shangrao
+Shaniko
 Shanksville
 Shannon
 Shannon County
@@ -67980,6 +68100,7 @@ Silbertal
 Silea
 Silenen
 Siler City
+Siletz
 Silfiac
 Silherovice
 Siliana
@@ -68252,6 +68373,7 @@ Sisseln
 Sissonne
 Sissy
 Sisteron
+Sisters
 Sistersville
 Sistrans
 Sitaro Islands Regency
@@ -68703,6 +68825,7 @@ Socotá
 Socotra
 Socx
 Sodankylä
+Sodaville
 Soddì
 Sodegaura
 Söderala District
@@ -69572,6 +69695,7 @@ Sprague
 Spraitbach
 Sprang
 Sprantal
+Spray
 Spree-Neisse District
 Spreitenbach
 Sprendlingen
@@ -69695,6 +69819,7 @@ St. George's Parish
 St. Georgen im Schwarzwald
 St. Helena
 St. Helena Parish
+St. Helens
 St. Jacques-Coomb's Cove
 St. James
 St. James Parish
@@ -69988,6 +70113,7 @@ Staveren
 Stavesice
 Stavropol
 Stavropol Territory
+Stayton
 Stazzano
 Stazzema
 Stazzona
@@ -70576,6 +70702,7 @@ Subirov
 Sublaines
 Sublette County
 Subligny
+Sublimity
 Subotica
 Subteniente Perín
 Subulussalam
@@ -70806,6 +70933,7 @@ Sumoto
 Sumpango
 Sumperk
 Sumperk District
+Sumpter
 Sumqayıt
 Sumter
 Sumter County
@@ -70961,6 +71089,7 @@ Sütçüler
 Sutera
 Sutersville
 Sutherland
+Sutherlin
 Sutivan
 Šuto Orizari
 Sutri
@@ -71145,6 +71274,7 @@ Sweden
 Sweden Township
 Swedesboro
 Sweet Grass County
+Sweet Home
 Sweetwater
 Sweetwater County
 Swellendam
@@ -71537,6 +71667,7 @@ Taldykorgan
 Taleggio
 Talence
 Talensac
+Talent
 Talgua
 Talheim
 Taliabu Island Regency
@@ -71667,6 +71798,7 @@ Tangamandapio
 Tangancícuaro
 Tangará
 Tangará da Serra
+Tangent
 Tangerang
 Tangerang Regency
 Tangerang Selatan
@@ -72542,6 +72674,7 @@ Thayer County
 Thayngen
 The Big Five False Bay
 The Bronx
+The Dalles
 Théding
 Thedtsho
 Theewaterskloof
@@ -72812,6 +72945,7 @@ Tietjerksteradeel
 Tiffauges
 Tift County
 Tifton
+Tigard
 Tigeaux
 Tiger
 Tiggiano
@@ -72845,6 +72979,7 @@ Tilden Township
 Tilhouse
 Tilisarao
 Tillabéri Region
+Tillamook
 Tillamook County
 Tillé
 Tillenay
@@ -74366,6 +74501,7 @@ Tswaing
 Tswelopele
 Tuakau
 Tual
+Tualatin
 Tuamasaga District
 Tuamotu Islands
 Tuapa
@@ -76748,6 +76884,7 @@ Venère
 Venerque
 Vénès
 Venesmes
+Veneta
 Venetico
 Veneto
 Venets
@@ -76954,6 +77091,7 @@ Vernon (town)
 Vernon (village)
 Vernonburg
 Vernon County
+Vernonia
 Vernon Parish
 Vernon Township
 Vernouillet
@@ -79255,6 +79393,7 @@ Waldo
 Waldoboro
 Waldo County
 Waldolwisheim
+Waldport
 Waldronville
 Wâldsein
 Waldshut
@@ -79309,6 +79448,7 @@ Wallkill
 Wallmoden
 Wallon-Cappel
 Wallonie
+Wallowa
 Wallowa County
 Wallsee-Sindelburg
 Wall Township
@@ -79961,6 +80101,7 @@ Westfield (town)
 Westfield (village)
 Westfield Township
 West Finley Township
+Westfir
 Westford
 West Franklin Township
 West Gardiner
@@ -80012,6 +80153,7 @@ West Leechburg
 West Liberty
 Westlich Raron
 West Lindsey
+West Linn
 Westlock
 Westlock County
 West Logan
@@ -80415,6 +80557,7 @@ Wilkowice Commune
 Willacoochee
 Willacy County
 Willadingen
+Willamina
 Will County
 Willcox
 Willebroek
@@ -80483,6 +80626,7 @@ Wilson's Mills
 Wilson (town)
 Wilson (village)
 Wilson County
+Wilsonville
 Wilsum
 Wilton
 Wilton Manors
@@ -80563,6 +80707,7 @@ Winschoten
 Winsko commune
 Winslow
 Winslow Township
+Winston
 Winston County
 Winston-Salem
 Winsum
@@ -80778,6 +80923,7 @@ Woodbine
 Woodbridge
 Woodbridge Township
 Wood Buffalo Regional Municipality
+Woodburn
 Woodbury
 Woodbury (village)
 Woodbury County
@@ -80812,6 +80958,7 @@ Woodson County
 Woodstock
 Woodstown
 Wood Township
+Wood Village
 Woodville
 Woodward County
 Woodward Township
@@ -80997,6 +81144,7 @@ Yablanitsa
 Yabu
 Yabucoa
 Yabuki
+Yachats
 Yachimata
 Yachiyo
 Yaco
@@ -81081,6 +81229,7 @@ Yambol
 Yambol Province
 Yame
 Yamenskoye
+Yamhill
 Yamhill County
 Yamkinskoye
 Yamoussoukro
@@ -81319,6 +81468,7 @@ Yona
 Yonabaru
 Yonago
 Yonaguni
+Yoncalla
 Yoncq
 Yondó
 Yonezawa
