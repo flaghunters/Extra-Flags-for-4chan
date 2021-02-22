@@ -7726,6 +7726,7 @@ Blacks Harbour
 Blackshear
 Blackstone
 Blacksville
+Blacktown
 Black Township
 Blackville
 Blacy
@@ -8792,7 +8793,6 @@ Bosville
 Boswell
 Boswil
 Botans
-Botany Bay
 Botany Downs
 Botelhos
 Botenheim
@@ -14380,7 +14380,6 @@ Charlotte
 Charlotte County
 Charlotte Court House
 Charlottenburg-Wilmersdorf
-Charlotte Pass
 Charlottesville
 Charlottetown
 Charlton
@@ -16158,7 +16157,7 @@ Coëx
 Coeymans
 Coffee County
 Coffey County
-Coffs Harbor
+Coffs Harbour
 Cogan House Township
 Coggiola
 Coghlan
@@ -16900,7 +16899,7 @@ Coosa County
 Coos Bay
 Coos County
 Coös County
-Cootamundra
+Cootamundra-Gundagai
 Copacabana
 Copake
 Copándaro
@@ -23148,6 +23147,7 @@ Federal
 Federal Capital Territory
 Federally Administered Tribal Areas
 Federal Way
+Federation
 Federation of Bosnia and Herzegovina
 Federico Román Province
 Fedinskoye
@@ -26670,7 +26670,6 @@ Goscino commune
 Gose
 Gosen
 Goseong County
-Gosford
 Gosheim
 Goshen
 Goshen (town)
@@ -28038,7 +28037,6 @@ Gümüşlük
 Gümüşova
 Gunaroš
 Guna Yala Comarca
-Gundagai
 Gundelfingen
 Gundelsheim
 Gundershoffen
@@ -32878,6 +32876,7 @@ Jerumenha
 Jerusalem
 Jerusalem District
 Jerusalén
+Jervis Bay
 Jerzens
 Jerzmanowa commune
 Jerzmanowice-Przeginia commune
@@ -45152,7 +45151,7 @@ Midland Park
 Midlaren
 Midlothian
 Mid Murray
-Mid North Coast
+Mid-North Coast
 Midori
 Midoun
 Midrevaux
@@ -54677,7 +54676,6 @@ Perinaldo
 Perinton
 Periquito
 Periș
-Perisher Blue
 Peristeri
 Peritiba
 Perito
@@ -58415,8 +58413,7 @@ Quattordio
 Quattro Castella
 Quatzenheim
 Quay County
-Queanbeyan
-Queanbeyan-Palerang
+Queanbeyan–Palerang
 Quéant
 Québec
 Quebracho
@@ -60652,7 +60649,6 @@ Rockaway Township
 Rockbridge County
 Rockcastle County
 Rock County
-Rockdale
 Rockdale County
 Rockdale Township
 Rockefeller Township
@@ -73513,7 +73509,6 @@ Thouron
 Thourotte
 Thoury-Férottes
 Thousand Oaks
-Thredbo
 Three Hills
 Three Lakes
 Three Rivers
@@ -75948,6 +75943,7 @@ Uniejow commune
 Unieux
 Uniflor
 Unin
+Unincorporated Far West
 Uninsky District
 Union
 Unión
@@ -75987,7 +75983,6 @@ Unorganized Borough
 Unquillo
 Unserfrau-Altweitra
 Unstrut-Hainich District
-UNSW Sydney
 Unterächen
 Unterägeri
 Unterallgäu District
@@ -76138,7 +76133,6 @@ Uraí
 Urakawa
 Uralla
 Uramita
-Urana
 Urandi
 Urânia
 Uras
@@ -80073,7 +80067,6 @@ Wakiso District
 Wakkanai
 Wakken
 Wako
-Wakool
 Wakulla County
 Wakuya
 Wal
@@ -81410,7 +81403,6 @@ Wimpassing im Schwarzatale
 Wimsheim
 Winchendon
 Winchester
-Windale
 Windber
 Windehausen
 Winden am See
@@ -81849,7 +81841,6 @@ Wyns
 Wyoming
 Wyoming County
 Wyomissing
-Wyong
 Wyre
 Wyre Forest
 Wysmierzyce commune
