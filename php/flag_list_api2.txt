@@ -1214,6 +1214,7 @@ Alden (town)
 Alden (village)
 Aldeno
 Alderetes
+Alderley Edge
 Alderney
 Alderson
 Aldingen
@@ -5815,6 +5816,7 @@ Baymak
 Baymaksky District
 Bay Mills Indian Community
 Bayne
+Bay of Colwyn
 Bay of Plenty Region
 Bayon
 Bayonne
@@ -13475,6 +13477,7 @@ Casti-Wergenstein
 Častkov
 Částkov
 Častkovce
+Castleford
 Castle Hill
 Castlepoint
 Castle Point
@@ -17217,6 +17220,7 @@ Confolent-Port-Dieu
 Confort-Meilars
 Confracourt
 Confresa
+Congleton
 Congo
 Congonhal
 Congonhas
@@ -17234,6 +17238,7 @@ Conlie
 Conliège
 Connac
 Connacht
+Connah's Quay
 Connantre
 Connaught
 Connaux
@@ -17323,6 +17328,7 @@ Conversano
 Converse County
 Conway
 Conway County
+Conwy
 Conyers
 Conyngham
 Conyngham Township
@@ -24362,6 +24368,7 @@ Flines-lès-Mortagne
 Flines-lez-Raches
 Flin Flon
 Flins-sur-Seine
+Flint
 Flintshire
 Flirey
 Flirsch
@@ -27259,6 +27266,7 @@ Goondiwindi
 Goor
 Goose Cove East
 Goose Creek
+Goostrey
 Göpfritz an der Wild
 Göppingen
 Göppingen District
@@ -30962,6 +30970,7 @@ Hollywood
 Hollywood Seminole Indian Reservation
 Holmdel Township
 Holmes Beach
+Holmes Chapel
 Holmes County
 Holmestrand
 Holohlavy
@@ -30990,6 +30999,7 @@ Holwert
 Holyoke
 Holyrood
 Holýšov
+Holywell
 Hölzern
 Holzgau
 Holzgerlingen
@@ -42115,8 +42125,10 @@ Llagostera
 Llallagua
 Llambi Campbell
 Llançà
+Llandudno
 Llanera
 Llanes
+Llanfairfechan
 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 Llano County
 Llanquihue
@@ -50312,6 +50324,7 @@ Nantouillet
 Nantoux
 Nantua
 Nantucket
+Nantwich
 Nanty Glo
 Nanuque
 Nanyo
@@ -50869,6 +50882,7 @@ Ness Ziona
 Nestelbach bei Graz
 Nesterovsky District
 Nestier
+Neston
 Nestorio
 Nestos
 Nesuchyně
@@ -52000,6 +52014,7 @@ Norman County
 Normandia
 Normandie
 Norman Park
+Normanton
 Normanville
 Norman Wells
 Normier
@@ -52239,6 +52254,7 @@ North Western Province
 North West River
 Northwest Territories
 North Whitehall Township
+Northwich
 North Wildwood
 North Wilkesboro
 Northwood
@@ -56622,6 +56638,7 @@ Penin
 Penjamillo
 Pénjamo
 Penjum
+Penmaenmawr
 Penmarch
 Penn
 Pennabilli
@@ -59706,6 +59723,7 @@ Pressigny-les-Pins
 Pressins
 Pressy
 Přestanov
+Prestatyn
 Prestavlky
 Přestavlky
 Přestavlky u Čerčan
@@ -62189,6 +62207,7 @@ Rhodon
 Rhône
 Rhön-Grabfeld District
 Rhoon
+Rhyl
 Riace
 Riachão
 Riachão das Neves
@@ -66898,6 +66917,7 @@ San Daniele Po
 Sandarville
 Sandaucourt
 Sandaun Province
+Sandbach
 Sand City
 Sande
 Sandefjord
@@ -84588,6 +84608,7 @@ Wilmington Township
 Wilmore
 Wilmot
 Wilmot Township
+Wilmslow
 Wilna
 Wilnis
 Wilrijk
