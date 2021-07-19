@@ -2296,6 +2296,7 @@ Angerville-l'Orcher
 Angervilliers
 Angevillers
 Anghiari
+An Giang Province
 Angiari
 Angical
 Angical do Piauí
@@ -4459,6 +4460,7 @@ Baccarat
 Baceno
 Bacerac
 Bačetín
+Bắc Giang Province
 Bach
 Bachant
 Bachenau
@@ -4469,12 +4471,15 @@ Bachy
 Bačice
 Bacilly
 Bačka
+Bắc Kạn Province
 Bačka Palanka
 Bačka Topola
 Bački Petrovac
 Backnang
 Bačkov
 Bačkovík
+Bạc Liêu Province
+Bắc Ninh Province
 Bacoachi
 Bacoli
 Bacon County
@@ -5305,6 +5310,7 @@ Barguzinsky District
 Bar Harbor
 Bari
 Bariano
+Bà Rịa-Vũng Tàu Province
 Baricella
 Bařice-Velké Těšany
 Barichara
@@ -6669,6 +6675,7 @@ Bento Gonçalves
 Benton
 Benton County
 Benton Township
+Bến Tre Province
 Beňuš
 Benwood
 Benzie County
@@ -7607,6 +7614,10 @@ Binghamton (town)
 Bingham Township
 Bingöl
 Bingöl Province
+Bình Dương Province
+Bình Phước Province
+Bình Thuận Province
+Bình Định Province
 Bining
 Binissalem
 Binjai
@@ -11637,6 +11648,7 @@ Camasca
 Camas County
 Camastra
 Camatagua
+Cà Mau Province
 Cambados
 Cambará
 Cambará do Sul
@@ -12333,6 +12345,7 @@ Canyon Lake
 Canyonville
 Canzano
 Canzo
+Cao Bằng Province
 Caorle
 Caorso
 Caours
@@ -26608,6 +26621,7 @@ Giaginskaya
 Giaginskoye
 Giaginsky District
 Giaglione
+Gia Lai Province
 Gianico
 Giano dell'Umbria
 Giano Vetusto
@@ -29313,6 +29327,7 @@ Hanahan
 Hanak
 Hanam
 Hanamaki
+Hà Nam Province
 Hanau
 Hanawa
 Hancavičy
@@ -29633,6 +29648,7 @@ Hatfield Township
 Hatillo
 Hatillo de Loba
 Hatín
+Hà Tĩnh Province
 Hatné
 Hato
 Hato Corozal
@@ -29669,6 +29685,7 @@ Haudonville
 Haudrecy
 Hauenstein-Ifenthal
 Haugesund
+Hậu Giang Province
 Haugschlag
 Haugsdorf
 Haulchin
@@ -30759,6 +30776,7 @@ Hnojice
 Hnojné
 Hnojník
 Hnúšťa
+Hòa Bình Province
 Hoarnstersweach
 Hobart
 Hobgood
@@ -35683,6 +35701,7 @@ Khamovniki District
 Khandallah
 Khandyga
 Khangalassky District
+Khánh Hòa Province
 Khankaysky District
 Khanty-Mansi Autonomous Area
 Khanty-Mansiysky District
@@ -35793,6 +35812,7 @@ Kieldrecht
 Kielen
 Kiel-Windeweer
 Kienberg
+Kiên Giang Province
 Kienheim
 Kié-Ntem Province
 Kientzheim
@@ -36668,6 +36688,7 @@ Konstem
 Konter
 Kontich
 Kontiolahti
+Kon Tum Province
 Koňuš
 Konya
 Konyaaltı
@@ -38736,6 +38757,7 @@ La Huacana
 La Huerta
 La Hulpe
 La Humada
+Lai Châu Province
 Laichingen
 Laigné-en-Belin
 Laignelet
@@ -39056,6 +39078,7 @@ La Mure
 La Mure-Argens
 Lamure-sur-Azergues
 La Murette
+Lâm Đồng Province
 Lana
 Lanaken
 Lanao del Norte
@@ -39259,6 +39282,7 @@ Langrolay-sur-Rance
 Langrune-sur-Mer
 Langsa
 Langschlag
+Lạng Sơn Province
 Langsweagen
 Langthil
 Langue
@@ -39358,6 +39382,7 @@ Lanžhot
 Lanzo Torinese
 Lanžov
 Laoag
+Lào Cai Province
 La Oliva
 Laon
 La Orotava
@@ -42439,6 +42464,7 @@ Lone Oak
 Lone Tree
 Long
 Longano
+Long An Province
 Longare
 Longarone
 Longaulnay
@@ -50266,6 +50292,7 @@ Namur
 Namwon
 Namyangju
 Namyslow County
+Nam Định Province
 Nána
 Nanae
 Nanaimo
@@ -51349,6 +51376,7 @@ Ngauranga
 Ngawi Regency
 Ngchesar
 Ngeremlengui
+Nghệ An Province
 Ngiwal
 Ngounié Province
 Ngqushwa
@@ -51620,7 +51648,9 @@ Nindirí
 Ninety Six
 Ningbo
 Ningxia
+Ninh Bình Province
 Ninheira
+Ninh Thuận Province
 Ninhue
 Ninohe
 Ninomiya
@@ -57264,6 +57294,8 @@ Phuentsholing
 Phuket Province
 Phumelela
 Phuntsthothang
+Phú Thọ Province
+Phú Yên Province
 Pia
 Piaam
 Piaçabuçu
@@ -60669,6 +60701,9 @@ Quakertown
 Qualiano
 Qualicum Beach
 Qualla Boundary
+Quảng Nam Province
+Quảng Ninh Province
+Quảng Trị Province
 Quantico
 Quanzhou
 Quapaw Tribe
@@ -72086,6 +72121,7 @@ Socorro do Piauí
 Socotá
 Socotra
 Socovce
+Sóc Trăng Province
 Socx
 Sodankylä
 Sodaville
@@ -72384,6 +72420,7 @@ Soni
 Sonico
 Sonkajärvi
 Sonkovsky District
+Sơn La Province
 Sonnac
 Sonnay
 Sonnaz
@@ -75633,6 +75670,7 @@ Taylor District
 Taylorsville
 Taylortown
 Taylor Township
+Tây Ninh Province
 Tayrac
 Tayshet
 Taza
@@ -76153,6 +76191,7 @@ Tezze sul Brenta
 Thaba Chweu
 Thabazimbi
 Thabo Mofutsanyana
+Thái Nguyên Province
 Thairé
 Thal
 Thalamy
@@ -76169,6 +76208,7 @@ Thane
 Thanet
 Thangrong
 Thanheim
+Thanh Hóa Province
 Thành phố Hồ Chí Minh
 Thann
 Thannenkirch
@@ -76364,6 +76404,7 @@ Thrimshing
 Thrissur
 Throckmorton County
 Throop
+Thừa Thiên Huế Province
 Thubœuf
 Thueyts
 Thugny-Trugny
@@ -76452,6 +76493,7 @@ Tiendeveen
 Tienen
 Tiengemeten
 Tiengen
+Tiền Giang Province
 Tienhoven
 Tiercelet
 Tierp Municipality
@@ -77453,6 +77495,7 @@ Traversetolo
 Traves
 Travesio
 Travesseiro
+Trà Vinh Province
 Travis County
 Trávnica
 Trávnik
@@ -78440,6 +78483,7 @@ Tuxcueca
 Tuxedo
 Tuxedo Park
 Tuxpan
+Tuyên Quang Province
 Tuymazinsky District
 Tuymazy
 Tuzaguet
@@ -82228,6 +82272,8 @@ Vingåker Municipality
 Vingrau
 Vinhais
 Vinhedo
+Vĩnh Long Province
+Vĩnh Phúc Province
 Vinica
 Vinica 
 Viničky
@@ -85378,6 +85424,7 @@ Yemanzhelinsk
 Yemanzhelinsky District
 Yemassee
 Yenakiieve
+Yên Bái Province
 Yeniçağa
 Yenice
 Yenicekent
@@ -86700,10 +86747,14 @@ Zywiec County
 Øyer
 Øygarden
 Øystre Slidre
+Đắk Lắk Province
+Đắk Nông Province
 Đakovica
 Đakovo
 Đà Nẵng
 Đelekovec
+Đồng Nai Province
+Đồng Tháp Province
 Đulovac
 Đurmanec
 Đurđenovac
