@@ -23,6 +23,7 @@
 25 de Mayo
 9 de Julio
 A'ana District
+Aabbassiyeh
 Aabenraa
 Aach
 Aachen
@@ -769,7 +770,9 @@ Aimorés
 Ain
 Ainan
 Ainaro District
+Ainata Al-Arz
 Ainay-le-Château
+Ain Baal
 Aincille
 Aincourt
 Aincreville
@@ -896,6 +899,7 @@ Akita
 Akitakata
 Akita Prefecture
 Akitio
+Akkar Governorate
 Akkeshi
 Akköl
 Akkrum
@@ -1291,6 +1295,7 @@ Alexandrovsky District
 Alexânia
 Alexeyevka
 Alexeyevsky District
+Aley
 Alezio
 Alfacar
 Alfajarín
@@ -2787,6 +2792,7 @@ Aramina
 Aramits
 Aramoana
 Aramon
+Aramoun
 Arampampa
 Aranc
 Arancou
@@ -4397,9 +4403,12 @@ Azzano San Paolo
 Azzate
 Azzio
 Azzone
+Baabda
 Baaium
 Baak
 Baal
+Baalbek
+Baalbek-Hermel Governorate
 Baâlon
 Baâlons
 Baar
@@ -5687,6 +5696,7 @@ Bátorove Kosihy
 Batorz commune
 Bátovce
 Batres
+Batroun
 Båtsfjord
 Batsümber
 Battaglia Terme
@@ -6033,6 +6043,7 @@ Bebedouro
 Bebelnheim
 Beberibe
 Bébing
+Bebnine Al Abdeh
 Bebra
 Bebrina
 Beccaria Township
@@ -6181,6 +6192,7 @@ Beirut Governorate
 Beiseker
 Beisugskoye
 Beisuzhekskoye
+Beit Chabab
 Beit Dagan
 Beit Hanoun
 Beit Jala
@@ -6189,6 +6201,7 @@ Beit Lahia
 Beit Sahour
 Beit Shemesh
 Beitunya
+Beit Yahoun
 Béiwen-Atert
 Beizama
 Beižionys
@@ -7629,6 +7642,7 @@ Binningen
 Bíňovce
 Binsdorf
 Bintan Regency
+Bint Jbeil
 Binyamina-Giv'at Ada
 Binzen
 Biobío Province
@@ -9179,6 +9193,7 @@ Bourguignon-sous-Montbavin
 Bouriège
 Bourigeole
 Bourisp
+Bourj Hammoud
 Bourke
 Bourlon
 Bournainville-Faverolles
@@ -10394,6 +10409,7 @@ Brøndby
 Brønderslev
 Brønnøy
 Brønshøj-Husum
+Bsharri
 Bû
 Bu'eine Nujeidat
 Buada District
@@ -11026,6 +11042,7 @@ Buzuluk
 Buzy-Darmont
 Byala
 Byala Slatina
+Byblos
 Bychaŭ
 Bychaŭ District
 Bychawa commune
@@ -14810,6 +14827,7 @@ Charodinsky District
 Charolles
 Charols
 Chârost
+Charoun
 Chářovice
 Charpentry
 Charpey
@@ -14830,6 +14848,7 @@ Charta
 Chartainvilliers
 Charters Towers
 Chartiers Township
+Chartoun
 Chartres
 Chartres-de-Bretagne
 Chartrettes
@@ -15620,6 +15639,7 @@ Chivilcoy
 Chivilcoy Department
 Chivor
 Chivres-Val
+Chiyah
 Chiyoda
 Chizu
 Chkalovsk
@@ -15783,6 +15803,8 @@ Chotýčany
 Chotyně
 Chotýšany
 Choue
+Choueifat
+Chouf
 Choulex
 Chouppes
 Choussy
@@ -17578,6 +17600,7 @@ Cornelius
 Cornellà de Llobregat
 Cornellà del Terri
 Corner Brook
+Cornet Chahwan
 Corneville-sur-Risle
 Cornier
 Corniglio
@@ -19327,8 +19350,11 @@ Deil
 Deilingen
 Deinum
 Deinze
+Deir Al-Ahmar
 Deir al-Asad
+Deir Al Qamar
 Deir Hanna
+Deir Qanoun En Nahr
 Deißlingen
 Deisswil bei Münchenbuchsee
 Deitingen
@@ -19348,6 +19374,7 @@ De Knipe
 De Koaten
 De Koog
 De Kwakel
+Dekwaneh
 Dekýš
 De Laak
 Delanco Township
@@ -26611,6 +26638,7 @@ Ghéthary
 Ghiffa
 Ghilarza
 Ghimpețeni
+Ghineh
 Ghisalba
 Ghislarengo
 Ghislenghien
@@ -29025,6 +29053,7 @@ Hadera
 Hadersdorf-Kammern
 Hadersdorf-Weidlingau
 Haderslev
+Hadeth
 Hadiach
 Hadigny-les-Verrières
 Hadim
@@ -29279,6 +29308,7 @@ Hamm
 Hammam Chott
 Hammamet
 Hammam-Lif
+Hammana
 Hammarland
 Hammarö Municipality
 Hamme
@@ -29476,6 +29506,7 @@ Hardyston Township
 Hare Bay
 Harelbeke
 Haren
+Haret Hreik
 Haréville
 Harfleur
 Harford
@@ -29603,6 +29634,7 @@ Haryana
 Harz District
 Hasami
 Hasanbeyli
+Hasbaya
 Hasbrouck Heights
 Hasel
 Haselbourg
@@ -29869,6 +29901,7 @@ Hazle Township
 Hazlet Township
 Hažlín
 Hazlov
+Hazmieh
 Hazor HaGelilit
 Head of the Harbor
 Healdsburg
@@ -30275,6 +30308,7 @@ Hermanville-sur-Mer
 Hermaringen
 Hermaville
 Hermé
+Hermel
 Hermelange
 Hermelgem
 Hermelinghen
@@ -33804,6 +33838,8 @@ Jayuya
 Jazan
 Jazennes
 Jazernica
+Jbeil Byblos
+Jdeideh
 Jean
 Jeandelaincourt
 Jeandelize
@@ -34032,6 +34068,7 @@ Jezow commune
 Jezow Sudecki commune
 Jezreel Valley
 Jezvé
+Jezzine
 Jhansi
 Jharkhand
 Jiangsu
@@ -34313,6 +34350,7 @@ Joué-du-Bois
 Joué-lès-Tours
 Joué-sur-Erdre
 Jougne
+Jounieh
 Jouques
 Jouqueviel
 Journiac
@@ -34557,6 +34595,7 @@ Kabale District
 Kabansky District
 Kabardino-Balkaria
 Kabardinskoye
+Kab Elias - Wadi Al Deloum
 Kaberamaido District
 Kabjisa
 Kabul
@@ -34608,6 +34647,7 @@ Kagoshima
 Kagoshima Prefecture
 Kagran
 Kağıthane
+Kahale
 Kaharlyk
 Kahlenbergerdorf
 Kahnawake
@@ -34684,6 +34724,7 @@ Kalamata
 Kalamazoo County
 Kaľamenová
 Kalameny
+Kalamoun
 Kalamunda
 Kälarne
 Kalarsky District
@@ -35636,6 +35677,7 @@ Kerzers
 Keşan
 Keşap
 Kesennuma
+Keserwan
 Keskastel
 Keskin
 Keski-Pohjanmaa
@@ -35683,6 +35725,8 @@ Key West
 Kežmarok
 Kežmarok District
 Kfar Bara
+Kfarfila
+Kfarhazir
 Kfar Kama
 Kfar Saba
 Kfar Shamryahu
@@ -36199,6 +36243,7 @@ Klatovy District
 Klaus
 Klausen-Leopoldsdorf
 Klawock
+Klayaa
 Klčov
 Kleberg County
 Kleblach-Lind
@@ -36322,6 +36367,7 @@ Kmetiněves
 Kmeťovo
 Kňažia
 Kneehill County
+Kneisse
 Knesselare
 Kněždub
 Kněževes
@@ -36368,6 +36414,7 @@ Koatstertille
 Kőbánya District
 Kobarid
 Kobayashi
+Kobayat
 Kobe
 Kobeliaky
 Kobeliarovo
@@ -37019,6 +37066,7 @@ Koumi
 Koungou
 Kounice
 Kounov
+Koura
 Kouřim
 Kourou
 Kout na Šumavě
@@ -37677,6 +37725,7 @@ Kunice commune
 Kuničky
 Kunigami
 Kunimi
+Kunin
 Kunín
 Kuningan Regency
 Kuninsky District
@@ -43554,6 +43603,7 @@ Ma'ale Yosef
 Ma'alot-Tarshiha
 Ma'rib
 Ma'uke
+Maarakeh
 Maardu
 Maarheeze
 Maarke
@@ -45082,6 +45132,7 @@ Mariupol
 Mariupol District
 Marizópolis
 Märjamaa
+Marjeyoun
 Marjina Horka
 Marjina Horka District
 Markaryd District
@@ -45607,6 +45658,7 @@ Matjhabeng
 Matlapa
 Matlosana
 Matmata Nouvelle
+Matn
 Mato Castelhano
 Matões
 Matões do Norte
@@ -47283,6 +47335,7 @@ Minidoka County
 Minihof-Liebau
 Minisink
 Ministro Andreazza
+Miniyeh-Danniyeh
 Minjay
 Minneapolis
 Minnehaha County
@@ -50093,6 +50146,8 @@ Naarden
 Naas
 Nabari
 Nabarniz
+Nabatieh
+Nabatieh Governorate
 Naberezhnye Chelny
 Nabeul
 Nabeul Governorate
@@ -50386,6 +50441,7 @@ Napoli
 Napo Province
 Nappersdorf-Kammersdorf
 Napranum
+Naqoura
 Naque
 Nara
 Naracoorte Lucindale
@@ -60689,6 +60745,7 @@ Qaasuitsup
 Qala
 Qalansawe
 Qalqilya
+Qana
 Qaqortoq
 Qasigiannguit
 Qazvin
@@ -61481,6 +61538,7 @@ Rascafría
 Rasdorf
 Raseborg
 Raseiniai District Municipality
+Rashaya
 Rašice
 Rašín
 Rasina District
@@ -61490,6 +61548,7 @@ Raška
 Raška District
 Raškovice
 Raslavice
+Ras Maska
 Řásná
 Rasony
 Rasony District
@@ -71563,6 +71622,7 @@ Siracourt
 Siracusa
 Sirákov
 Širákov
+Sir Al Gharbiyeh
 Siran
 Şiran
 Sir Arthur Mc Gregor
@@ -75687,6 +75747,7 @@ Taylortown
 Taylor Township
 Tây Ninh Province
 Tayrac
+Tayr Debba
 Tayshet
 Taza
 Tazacorte
@@ -84123,6 +84184,7 @@ Western Area
 Western Australia
 Western Bahr el Ghazal
 Western Bay of Plenty District
+Western Beqaa
 Western Cape
 Western Downs
 Western Equatoria
@@ -85820,6 +85882,7 @@ Zagrodno commune
 Žagubica
 Zahájí
 Zahedan
+Zahle
 Zahnašovice
 Záhony District
 Záhor
@@ -86313,6 +86376,8 @@ Zeytinbağı
 Zeytinburnu
 Zeytinli
 ZF Mgcawu
+Zgharta
+Zgharta-Ehden
 Zgierz
 Zgierz commune
 Zgierz County
