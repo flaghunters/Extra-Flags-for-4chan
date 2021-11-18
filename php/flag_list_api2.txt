@@ -1262,6 +1262,7 @@ Alenquer
 Alénya
 Aleppo Township
 Alert
+Alert Bay
 Ales
 Alès
 Aleskee-Tenginskoye
@@ -11220,6 +11221,7 @@ Cáceres
 Cachan
 Cachapoal Province
 Cache County
+Cache Creek
 Cachi
 Cachipay
 Cáchira
@@ -13520,6 +13522,7 @@ Casti-Wergenstein
 Částkov
 Častkovce
 Castleford
+Castlegar
 Castle Hill
 Castlepoint
 Castle Point
@@ -18290,6 +18293,7 @@ Cresson Township
 Cressy-sur-Somme
 Crest
 Crestet
+Creston
 Crestview
 Crésuz
 Creswell
@@ -24860,6 +24864,7 @@ Fort Mill
 Fort-Moville
 Fort Myers
 Fort Myers Beach
+Fort Nelson
 Fort Oglethorpe
 Fort Pierce
 Fort Pierce Seminole Indian Reservation
@@ -25658,6 +25663,7 @@ Gabovskoye
 Gabriac
 Gabriel Monteiro
 Gabriel Zamora
+Gabriola Island
 Gabrovo
 Gabrovo Province
 Gabú
@@ -29590,6 +29596,7 @@ Harris County
 Harrison
 Harrisonburg
 Harrison County
+Harrison Hot Springs
 Harrison Township
 Harris Township
 Harrisville
@@ -38901,6 +38908,7 @@ Lake City
 Lake Clarke Shores
 Lake Como
 Lake County
+Lake Cowichan
 Lakedemonovskoye
 Lake Elsinore
 Lake Ferry
@@ -52253,7 +52261,7 @@ Northern Peninsula Area
 Northern Province
 Northern Region
 Northern Rivers
-Northern Rockies Regional Municipality
+Northern Rockies Regional District
 Northern Samar
 Northern Sunrise County
 Northern Territory
@@ -56807,6 +56815,7 @@ Penteli
 Penthalaz
 Penthaz
 Penthéréaz
+Pentiction
 Penticton
 Pentone
 Peñuelas
@@ -59108,6 +59117,7 @@ Port Byron
 Port Carbon
 Port Chalmers
 Port Chester
+Port Clements
 Port Clinton
 Port Coquitlam
 Port-d'Envaux
@@ -59142,6 +59152,7 @@ Portets
 Portet-sur-Garonne
 Portezuelo
 Port Glaud
+Port Hardy
 Port Hedland
 Port Hope Simpson
 Port Hueneme
@@ -62250,6 +62261,7 @@ Reutte District
 Réveillon
 Revel
 Revello
+Revelstoke
 Revenga de Campos
 Revens
 Reventin-Vaugris
@@ -64248,6 +64260,7 @@ Rushcliffe
 Rush County
 Rushen Parish
 Rushford
+Rushmere
 Rushmoor
 Rush Township
 Rushville
@@ -66720,6 +66733,7 @@ Salto Grande
 Salto Veloso
 Saltrio
 Saltsburg
+Salt Spring Island
 Saltukova
 Saltvik
 Saltville
@@ -69269,6 +69283,7 @@ Satu Mare County
 Satun Province
 Satupa'itea District
 Saturargues
+Saturna Island
 Saturnino María Laspiur
 Saubara
 Saubens
@@ -76908,6 +76923,7 @@ Toewang
 Toffen
 Toffia
 Tofield
+Tofino District
 Togane
 Toges
 Togitsu
@@ -77506,6 +77522,7 @@ Traenheim
 Trafford
 Tragny
 Traiguén
+Trail
 Traill County
 Trainer
 Traînou
@@ -78751,6 +78768,7 @@ Uchizy
 Uchoa
 Uckange
 Uckermark District
+Ucluelet District
 Ucria
 Uda
 Udachny
@@ -80110,6 +80128,7 @@ Vandenesse-en-Auxois
 Vanderbilt
 Vanderburgh County
 Vandergrift
+Vanderhoof
 Vandières
 Vandling
 Vandœuvre-lès-Nancy
@@ -84265,6 +84284,7 @@ West Jefferson
 Westkapelle
 West Kazakhstan Region
 West Keating Township
+West Kelowna
 Westkerke
 West Kittanning
 Westknollendam
@@ -84722,6 +84742,7 @@ Williams
 Williamsburg
 Williamsburg County
 Williams County
+Williams Lake
 Williamson
 Williamson County
 Williamsport
