@@ -2447,10 +2447,12 @@ Ansauvillers
 Ansbach
 Ansbach District
 Anse
+Anse aux Pins
 Ansen
 Anseong
 Anserma
 Ansermanuevo
+Anse Royale
 Ansião
 Ansignan
 Ansina
@@ -3903,6 +3905,7 @@ Aubusson
 Auby
 Aucaleuc
 Aucamville
+Au Cap
 Auce
 Auch
 Auchel
@@ -4731,9 +4734,11 @@ Baiano
 Baianópolis
 Baião
 Baie-D’Urfé
+Baie Lazare
 Baie-Mahault
 Baienfurt
 Baiersbronn
+Baie Sainte-Anne
 Baie Verte
 Baigneaux
 Baignes-Sainte-Radegonde
@@ -6015,6 +6020,7 @@ Beauvais-sur-Tescou
 Beauval
 Beauval-en-Caux
 Beauvallon
+Beau Vallon
 Beauvechain
 Beauvezer
 Beauville
@@ -6482,6 +6488,7 @@ Belokataysky District
 Belokholunitsky District
 Belokhutorskoye
 Belokurikha
+Bel Ombre
 Belo Monte
 Belomorsky District
 Belonchamp
@@ -13045,6 +13052,7 @@ Casavatore
 Casavieja
 Casazza
 Casca
+Cascade
 Cascade County
 Cascade Locks
 Cascade Township
@@ -22610,6 +22618,7 @@ Englee
 Englefontaine
 Englewood
 Englewood Cliffs
+English River
 Englishtown
 Englos
 Engstingen
@@ -26909,6 +26918,7 @@ Glabbeek
 Glabušovce
 Glace Bay
 Glacier County
+Glacis
 Gladbeck
 Gladenbach
 Glades County
@@ -27702,6 +27712,8 @@ Grand'Combe-Châteleu
 Grand'Combe-des-Bois
 Grand'Landes
 Grand Anse Department
+Grand Anse Mahé
+Grand Anse Praslin
 Grandate
 Grand-Auverné
 Grand Bahama
@@ -38507,6 +38519,7 @@ Ladignac-le-Long
 Ladignac-sur-Rondelles
 La Digne-d'Amont
 La Digne-d'Aval
+La Digue
 Ladis
 Ladislao Cabrera Province
 Ladispoli
@@ -41091,6 +41104,7 @@ Les Llosses
 Les Lucs-sur-Boulogne
 Les Mages
 Les Maillys
+Les Mamelles
 Les Martres-d'Artière
 Les Martres-de-Veyre
 Les Martys
@@ -48331,6 +48345,7 @@ Montbronn
 Montbrun-des-Corbières
 Montbrun-Lauragais
 Montbrun-les-Bains
+Mont Buxton
 Montcabrier
 Montcada i Reixac
 Montcalm County
@@ -48685,6 +48700,7 @@ Montferrat
 Montferrier
 Montferrier-sur-Lez
 Montfleur
+Mont Fleuri
 Montflours
 Montfoort
 Montfort
@@ -58547,6 +58563,7 @@ Point Chevalier
 Pointe-à-Pitre
 Pointe-Claire
 Pointe Coupee Parish
+Pointe La Rue
 Pointe-Noire
 Pointe-Verte
 Point Fortin
@@ -59122,6 +59139,7 @@ Portes-lès-Valence
 Portets
 Portet-sur-Garonne
 Portezuelo
+Port Glaud
 Port Hedland
 Port Hope Simpson
 Port Hueneme
@@ -63111,6 +63129,7 @@ Rocha Department
 Rochdale
 Roche
 Rochebrune
+Roche Caiman
 Rochechouart
 Rochedo
 Rochedo de Minas
@@ -65696,6 +65715,7 @@ Saint-Livres
 Saint-Lizier
 Saint-Lô
 Saint-Loubès
+Saint Louis
 Saint-Louis
 Saint-Louis-de-Kent
 Saint-Louis-de-Montferrand
@@ -75190,6 +75210,7 @@ Takahashi
 Takahata
 Takaishi
 Takalar Regency
+Takamaka
 Takamatsu
 Takamori
 Takanabe
