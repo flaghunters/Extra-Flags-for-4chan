@@ -1,9 +1,4 @@
 Cartwright
-Division No. 10, Subd. A
-Division No. 10, Subd. B
-Division No. 10, Subd. C
-Division No. 10, Subd. D
-Division No. 10, Subd. E
 Happy Valley-Goose Bay
 L'Anse au Clair
 L'Anse au Loup
@@ -13,4 +8,9 @@ Pinware
 Port Hope Simpson
 Red Bay
 St. Lewis
+Subdivision A
+Subdivision B
+Subdivision C
+Subdivision D
+Subdivision E
 Wabush
