@@ -8614,6 +8614,7 @@ Boncourt
 Boncourt-le-Bois
 Bond County
 Bondeno
+Bond Hill
 Bondone
 Bondorf
 Bondoufle
@@ -12027,6 +12028,7 @@ Campton
 Campugnan
 Câmpulung Moldovenesc
 Camp Verde
+Camp Washington
 Camrose
 Camrose County
 Camugnano
@@ -16858,6 +16860,7 @@ Colledimezzo
 Colle di Tora
 Colle di Val d'Elsa
 Colleferro
+College Hill
 College Park
 College Station
 College Township
@@ -17074,6 +17077,7 @@ Columbia Falls
 Columbiana County
 Columbia-Shuswap Regional District
 Columbia Township
+Columbia Tusculum
 Columbus
 Columbus County
 Columbus Township
@@ -17797,6 +17801,7 @@ Corronsac
 Corropoli
 Corroy-le-Grand
 Corry
+Corryville
 Corsano
 Corse
 Corseaux
@@ -18639,6 +18644,7 @@ Cuesta Blanca
 Cueto
 Cuevas del Campo
 Cuevas del Valle
+CUF
 Cugand
 Cuges-les-Pins
 Cuggiono
@@ -20905,6 +20911,7 @@ Downers Grove Township
 Downe Township
 Downey
 Downingtown
+Downtown
 Doxato
 Doylestown
 Doylestown Township
@@ -21569,6 +21576,7 @@ East Drumore Township
 East Dublin
 East Earl Township
 East Ellijay
+East End
 Easterbierrum
 Easterein
 Easterlittens
@@ -21671,6 +21679,7 @@ East Pilbara
 East Pittsburgh
 East Point
 Eastport
+East Price Hill
 East Prospect
 East Providence
 East Providence Township
@@ -21701,7 +21710,9 @@ Eastvale
 East Vandergrift
 Eastville
 East Vincent Township
+East Walnut Hills
 East Washington
+East Westwood
 East Wheatfield Township
 East Whiteland Township
 East Williston
@@ -22711,6 +22722,7 @@ Englewood
 Englewood Cliffs
 English River
 Englishtown
+English Woods
 Englos
 Engstingen
 Engure
@@ -35727,6 +35739,7 @@ Kenmore
 Kennebec County
 Kennebunk
 Kennebunkport
+Kennedy Heights
 Kennedy Township
 Kennelbach
 Kenner
@@ -43130,6 +43143,7 @@ Lower Nazareth Township
 Lower Oxford Township
 Lower Paxton Township
 Lower Pottsgrove Township
+Lower Price Hill
 Lower Providence Township
 Lower Salford Township
 Lower Saucon Township
@@ -43933,6 +43947,7 @@ Madison (village)
 Madison County
 Madison Parish
 Madison Township
+Madisonville
 Madiswil
 Madiun
 Madiun Regency
@@ -49656,6 +49671,7 @@ Mound City
 Moundsville
 Mound Valley
 Mount_Pearl
+Mount Adams
 Mountain City
 Mountain Lake Park
 Mountain Lakes
@@ -49668,6 +49684,7 @@ Mount Airy
 Mount Albert
 Mount Alexander
 Mount Arlington
+Mount Auburn
 Mount Barker
 Mount Baw Baw
 Mount Buller
@@ -49697,6 +49714,7 @@ Mount Kisco
 Mount Kumgang Tourist Region
 Mount Laurel Township
 Mount Lebanon Governorate
+Mount Lookout
 Mount Magnet
 Mount Marshall
 Mount Morris (town)
@@ -52350,6 +52368,7 @@ North Apollo
 North Arlington
 North Attleborough
 North Augusta
+North Avondale
 North Barito Regency
 North Battleford
 North Bay
@@ -52428,6 +52447,7 @@ Northern Rockies Regional District
 Northern Samar
 Northern Sunrise County
 Northern Territory
+North Fairmount
 North Fayette Township
 Northfield
 Northfork
@@ -52509,6 +52529,7 @@ North Salem
 North Sewickley Township
 North Shenango Township
 North Shore Ward
+Northside
 North Slave Region
 North Slope Borough
 North Smithfield
@@ -55413,6 +55434,7 @@ Overpelt
 Overschie
 Overslag
 Overstrand
+Over-The-Rhine
 Overton County
 Overton Township
 Övertorneå Municipality
@@ -55573,6 +55595,7 @@ Padangsidempuan
 Padarovce
 Padasjoki
 Padcaya
+Paddock Hills
 Paddockwood
 Paden City
 Padenghe sul Garda
@@ -58329,6 +58352,7 @@ Pleasant Hill
 Pleasant Hills
 Pleasanton
 Pleasant Point
+Pleasant Ridge
 Pleasants County
 Pleasant Township
 Pleasant Valley
@@ -61059,6 +61083,7 @@ Queens
 Queensbury
 Queenscliffe
 Queens County
+Queensgate
 Queensland
 Queens Region
 Queenstown
@@ -63870,6 +63895,7 @@ Rose Hill
 Roseira
 Rosel
 Roseland
+Roselawn
 Roselle
 Roselle Park
 Rosello
@@ -69708,6 +69734,7 @@ Sayanogorsk
 Sayansk
 Sayat
 Sayaxché
+Sayler Park
 Sayo
 Sayre
 Sayreville
@@ -70228,6 +70255,7 @@ Sečovská Polianka
 Secugnago
 Seda
 Sedalia
+Sedamsville
 Sedan
 Seddon
 Sedegliano
@@ -73043,6 +73071,7 @@ South Corning
 South Cotabato
 South Coventry Township
 South Creek Township
+South Cumminsville
 South Dakota
 South Dayton
 South Daytona
@@ -73076,6 +73105,7 @@ Southern Province
 Southern Region
 Southern Shores
 Southern Ute Indian Reservation
+South Fairmount
 South Fayette Township
 South Floral Park
 South Fork
@@ -73401,6 +73431,7 @@ Springfield Rural Municipality
 Springfield Township
 Spring Garden Township
 Spring Grove
+Spring Grove Village
 Springhill
 Spring Hill
 Springhill Township
@@ -76592,6 +76623,7 @@ Théding
 Thedtsho
 Theewaterskloof
 The Gap
+The Heights
 Thehillac
 Théhillac
 The Hills
@@ -82045,6 +82077,7 @@ Villa General Mitre
 Village-Neuf
 Village of the Branch
 Villa Gesell
+Villages of Roll Hill
 Villa Giardino
 Villa Gobernador Gálvez
 Villagómez
@@ -83850,6 +83883,7 @@ Walnut
 Walnut Cove
 Walnut Creek
 Walnut Grove
+Walnut Hills
 Walnutport
 Walpack Township
 Walpersbach
@@ -84474,6 +84508,7 @@ West Earl Township
 West Easton
 Westeinde en omgeving
 West Elizabeth
+West End
 Westende
 Westendorf
 Westenschouwen
@@ -84644,6 +84679,7 @@ West Pokot County
 Westport
 Westport Island
 West Pottsgrove Township
+West Price Hill
 West Providence Township
 West Rand
 West Reading
@@ -85168,6 +85204,7 @@ Winterton
 Winterville
 Winthrop
 Winton
+Winton Hills
 Wintzenbach
 Wintzenheim
 Wintzenheim-Kochersberg
