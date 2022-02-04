@@ -1,28 +1,80 @@
 #!/usr/bin/python3
 
-# WARNING
-# needs pillow
-# python -m pip install pillow
+"""This files parses the flags in search for files with non standard resolution
+   or suspiciously high disk size.
 
-# this script finds flags with wrong resolution or suspiciously high disk size.
-import os,io,sys
+Remarks:
+  depends on pillow:
+    python -m pip install pillow
+"""
+
+import os
+from pathlib import Path
+from enum import Enum
+import click
 from PIL import Image  # uses pillow
 
-threshold = 800 #bytes
-extensions = [".png"]
+class Mode(Enum):
+    """Enum defining if the function should look for excessive
+    file size, irregular dimensions or both.
+    """
+    BOTH = 0
+    FILESIZE = 1
+    DIMENSIONS = 2
 
-# traverse root directory, and list directories as dirs and files as files
-dir_to_test = u'../flags'
-print("The following files have non standard dimensions or suspiciously high file size:")
-for root, dirs, files in os.walk(dir_to_test):
-    for current_file in files:
-        if not (os.path.splitext(current_file)[1] in extensions):
+THRESHOLD = 800 # bytes
+FILE_EXTS = [".png"]
+ROOT_DIR = u'../flags'
+ROOT_PATH = Path(ROOT_DIR)
+
+@click.command(context_settings=dict(ignore_unknown_options=True))
+@click.option("--verbose", "-v",
+              is_flag=True,
+              help="Enable verbose mode")
+@click.option("--mode",
+              type=click.Choice([m.name for m in Mode], case_sensitive=False),
+              default=Mode.BOTH,
+              help="Select the checking mode")
+def main(verbose: bool, mode: str):
+    """Parses the flags in search for files with non standard resolution (like 16x11 or 11x11)
+        or suspiciously high disk size.
+    """
+
+    selected_mode: Mode = Mode[mode]
+    occurrences = 0
+
+    if verbose:
+        print("The following files have non standard dimensions or suspiciously high file size:")
+
+    for root, _, files in os.walk(ROOT_DIR):
+        # skip the main folder as we don't store pngs for states.
+        if ROOT_PATH.samefile(root):
             continue
-        fullname=os.path.join(root,current_file)
-        im = Image.open(fullname)
-        if (im.height != 11 or (im.height == 11 and im.width != 16 and im.width !=11)):
-            print(fullname, im.size)
-            continue
-        if os.path.getsize(fullname)>threshold:
-            print(fullname, os.path.getsize(fullname),"bytes")
-            #os.system('optipng.exe -o7 -strip all "%s"' % fullname)
+
+        current_root = Path(root)
+        current_relative = current_root.relative_to(ROOT_DIR)
+
+        for current_file in files:
+            if Path(current_file).suffix not in FILE_EXTS:
+                continue
+
+            full_name = current_root.joinpath(current_file)
+            relative_name = current_relative.joinpath(current_file)
+            if selected_mode != Mode.FILESIZE:
+                image = Image.open(full_name)
+                if image.height != 11 or image.width not in [11, 16]:
+                    print(f"{relative_name}\t{image.size}")
+                    occurrences += 1
+                    continue
+
+            if selected_mode != Mode.DIMENSIONS:
+                file_size = full_name.stat().st_size
+                if file_size > THRESHOLD:
+                    print(f"{relative_name}\t{file_size} bytes")
+                    occurrences += 1
+
+    if verbose:
+        print(f"Total occurrences found: {occurrences}")
+
+if __name__ == "__main__":
+    main() # pylint: disable=no-value-for-parameter

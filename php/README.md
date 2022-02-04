@@ -51,7 +51,14 @@ These files are the logic behind the server where user flags are stored. The fir
 
 The gloss layers that should be used when making flags.
 
-## typo.py
+
+## Python scripts
+
+This folder also contains some python utilities that should help managing the repository.
+
+Each of them can be called with the `--help` argument to know the options.
+
+### typo.py
 
 Checks if each folder has its correpsonding flag.
 
@@ -61,21 +68,21 @@ E.g.
 `United States\Minnesota` folder
 must correspond to a `United States\Minnesota.png` flag or the plugin won't be able to see Minnesota counties.
 
-## fileext.py
+### fileext.py
 
-Checks if the /flags folder contains only .png and .txt files.
+Checks if the `/flags` folder contains only .png and .txt files.
 
 It happens many times that operating systems use particular files and folders to manage their stuff (desktop.ini and .DS_store I'm looking at you, you cheeky fuggers) or flag makers forget to use the correct extension and produce .jpg of .gif files.
 
-## emptyfolder.py
+### emptyfolder.py
 
-Checks if the /flags folders do actually contain at least a flag.
+Checks if the `/flags` folders do actually contain at least a flag.
 
 It may happen that a folder was created, but next level regionals were never added. The result is an empty folder or just an empty flag_list.txt file.
 
-## checksize.py
+### checksize.py
 
-Checks if the flags have standard dimensions (16x11, 11x11) and an usual file size (&lt;1KB).
-Not having standard dimensions may be totally fine for some exceptional cases but it's most likely a mistake made by the guy that made the flag in a hurry. Having an unusual file size may indicate that the flags haven't undergone an optimization stage and/or contain useless metadata or color profiles.
+Checks if the flags have standard dimensions (16x11, 11x11) and a reasonable file size (&lt;1KB).
+Not having standard dimensions may be totally fine for some exceptional cases but it's most likely a mistake made by the guy that made the flag in a hurry. Having an unusual file size may indicate that the flags haven't undergone an optimization stage and/or contain useless metadata or color profiles. In some rare cases the original flags weren't even rescaled.
 
-Modern versions of Paint.NET and GIMP usually do optimize their output, but it may happen for some unknown reason that the produced file is still bloated. In this case a run of optipng with the flags *-o7 -strip all* may help stripping these colors profiles and reduce the file size.
+Modern versions of Paint.NET and GIMP usually do optimize their output, but it may happen for some unknown reason that the produced file is still bloated. In this case a run of optipng with the flags `-o7 -strip all` may help stripping these colors profiles and reduce the file size.
