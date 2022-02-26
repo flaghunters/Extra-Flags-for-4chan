@@ -3216,7 +3216,6 @@ Armento
 Armería
 Armero
 Armidale
-Armingia
 Armiñon
 Armissan
 Armo
@@ -3225,6 +3224,7 @@ Armstrong
 Armstrong County
 Armstrong Township
 Armuña de Almanzora
+Armungia
 Armutalan
 Armutlu
 Armyansk City Municipality
@@ -46919,6 +46919,7 @@ Metropolitan City of Napoli
 Metropolitan City of Palermo
 Metropolitan City of Reggio Calabria
 Metropolitan City of Roma
+Metropolitan City of Sassari
 Metropolitan City of Torino
 Metropolitan City of Venezia
 Metro Vancouver Regional District
@@ -60449,10 +60450,13 @@ Province of Málaga
 Province of Mantova
 Province of Massa and Carrara
 Province of Matera
+Province of Medio Campidano
 Province of Modena
 Province of Monza and Brianza
+Province of Nord-Est
 Province of Novara
 Province of Nuoro
+Province of Ogliastra
 Province of Oristano
 Province of Padova
 Province of Palencia
@@ -60474,7 +60478,6 @@ Province of Rimini
 Province of Rovigo
 Province of Salamanca
 Province of Salerno
-Province of Sassari
 Province of Savona
 Province of Segovia
 Province of Sevilla
@@ -60482,7 +60485,7 @@ Province of Siena
 Province of Siracusa
 Province of Sondrio
 Province of Soria
-Province of Sud Sardegna
+Province of Sulcis Iglesiente
 Province of Taranto
 Province of Tarragona
 Province of Teramo
