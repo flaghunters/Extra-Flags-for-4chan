@@ -2205,6 +2205,7 @@ Andes
 Andeville
 Andezeno
 Andhra Pradesh
+Andijan Region
 Andijk
 Andilly
 Andirá
@@ -4340,6 +4341,7 @@ Ayata
 Ayat-sur-Sioule
 Ayazini
 Aybastı
+Aydar Lake
 Aydat
 Ayden
 Aydoilles
@@ -10724,6 +10726,7 @@ Bujumbura
 Buk
 Bukaryovskoye
 Buk District
+Bukhara Region
 Bukidnon
 Bukit Batok East
 Bukittinggi
@@ -24210,6 +24213,7 @@ Ferencváros District
 Ferentillo
 Ferentino
 Ferfay
+Fergana Region
 Fergus County
 Ferguson Township
 Feričanci
@@ -24986,6 +24990,7 @@ Forges-les-Eaux
 Forges-sur-Meuse
 Forino
 Forio
+Forish
 Forjães 
 Forkston Township
 Forks Township
@@ -25918,6 +25923,7 @@ Gafsa Governorate
 Gafuriysky District
 Gaga'emauga District
 Gaga'ifomauga District
+Gagarin
 Gagarin District
 Gagarinskoe
 Gagarinsky
@@ -34448,6 +34454,8 @@ Jívová
 Jívoví
 Jiwaka Province
 Jizerní Vtelno
+Jizzakh
+Jizzakh Region
 Joaçaba
 Joaíma
 Joanésia
@@ -35399,6 +35407,7 @@ Karahallı
 Karaidelsky District
 Karaisalı
 Karaj
+Karakalpakstan
 Karakeçili
 Karakoçan
 Karakol
@@ -50738,6 +50747,7 @@ Nalžovice
 Nalžovské Hory
 Nama Khoi
 Namakwa
+Namangan Region
 Namasigüe
 Nambsheim
 Nambucca
@@ -51045,6 +51055,7 @@ Navidad
 Navi Mumbai
 Naviraí
 Navis
+Navoiy Region
 Návojná
 Navojoa
 Navolato
@@ -52850,6 +52861,7 @@ Nottwil
 Notzingen
 Nouaceur Province
 Nouaillé-Maupertuis
+Nouakchott
 Nouan-le-Fuzelier
 Nouans
 Nouart
@@ -56852,6 +56864,7 @@ Paw Paw
 Pawtucket
 Pax
 Paxoi
+Paxtakor
 Paxtang
 Paxton
 Paxville
@@ -61252,6 +61265,7 @@ Qalansawe
 Qalqilya
 Qana
 Qaqortoq
+Qashqardaryo Region
 Qasigiannguit
 Qazvin
 Qeqertalik
@@ -61263,7 +61277,6 @@ Qinā Governorate
 Qingdao
 Qinghai
 Qom
-Qoraqalpog'iston
 Qormi
 Qrendi
 Quadra
@@ -67309,7 +67322,8 @@ Samara
 Samara Region
 Samarate
 Samarinda
-Samarqand
+Samarkand
+Samarkand Region
 Samassi
 Samatan
 Samatzai
@@ -72236,6 +72250,8 @@ Siran
 Şiran
 Sir Arthur Mc Gregor
 Sirdal
+Sirdaryo
+Sirdaryo Region
 Sireix
 Siřejovice
 Sirignano
@@ -75239,6 +75255,7 @@ Surses
 Surubim
 Suruç
 Surville
+Surxondaryo Region
 Sury-aux-Bois
 Sury-le-Comtal
 Sury-près-Léré
@@ -76265,6 +76282,8 @@ Tasagil
 Täsch
 Tasco
 Tashirovskoye
+Tashkent
+Tashkent Region
 Tashtypsky District
 Tasiilaq
 Tasikmalaya
@@ -77980,7 +77999,6 @@ Toses
 Toshima
 Toshima (village)
 Toshima (ward)
-Toshkent
 Tosmur
 Tosnensky District
 Tosno
@@ -79103,6 +79121,7 @@ Tupiza
 Tuplice commune
 Tupper Lake (town)
 Tupper Lake (village)
+Tuproqqal'a District
 Tupungato
 Túquerres
 Tuř
@@ -86008,8 +86027,10 @@ Xochiatipan
 Xochicoatlán
 Xochimilco
 Xocourt
+Xonobod
 Xonrupt-Longemer
 Xonville
+Xorazm Region
 Xouaxange
 Xousse
 Xures
@@ -87378,6 +87399,7 @@ Zolotuhinsky
 Zolsky District
 Zombor
 Zomergem
+Zomin
 Zommange
 Zona Bananera
 Zona Oeste
