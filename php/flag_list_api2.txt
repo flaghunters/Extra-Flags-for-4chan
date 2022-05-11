@@ -1028,6 +1028,7 @@ Alba-la-Romaine
 Alban
 Albán
 Albanchez
+Albanel
 Albanella
 Albania
 Albano di Lucania
@@ -6201,6 +6202,7 @@ Bégard
 Bega Valley
 Beggingnen
 Begijnendijk
+Bégin
 Bègles
 Begnins
 Bégole
@@ -19797,6 +19799,7 @@ Derwent Valley
 Desaguadero
 Desamparados
 Desana
+Desbiens
 Descalvado
 Descanso
 Descartes
@@ -20472,6 +20475,7 @@ Doľany
 Dolany nad Vltavou
 Dólar
 Dolavon
+Dolbeau-Mistassini
 Dolce
 Dolcè
 Dolceacqua
@@ -24223,6 +24227,7 @@ Férin
 Ferizli
 Ferla
 Ferlach
+Ferland-Et-Boilleau
 Fermanagh Township
 Fermentões
 Fermeuse
@@ -30205,6 +30210,8 @@ Heath Springs
 Heath Township
 Hébécourt
 Hebei
+Hébertville
+Hébertville-Station
 Hebron
 Hebron Township
 Hebsack
@@ -38340,6 +38347,7 @@ L'Arboç
 L'Arbresle
 L'Argentière-la-Bessée
 L'Armentera
+L'Ascension-de-Notre-Seigneur
 L'Échelle
 L'Écluse
 L'Église-aux-Bois
@@ -38533,6 +38541,7 @@ Labrador City
 Labranzagrande
 La Brava
 Lábrea
+Labrecque
 La Brède
 La Brée-les-Bains
 La Breille-les-Pins
@@ -38607,6 +38616,7 @@ La Caunette
 La Cautiva
 Lacaze
 Lac Baker
+Lac Bouchette
 Lacchiarella
 Lacco Ameno
 Lac du Bonnet
@@ -38799,6 +38809,7 @@ Lacrouzette
 La Crouzille
 La Cruz
 La Cruz de Río Grande
+Lac-Saint-Jean-Est
 Lacs District
 Lac Ste. Ann County
 La Cumbre
@@ -38838,6 +38849,7 @@ Ladomirov
 Ladomirová
 Ladon
 La Dorada
+La Doré
 La Dorée
 La Douze
 Ladushkin
@@ -40000,6 +40012,7 @@ La Roquette-sur-Siagne
 La Roquette-sur-Var
 La Rosière
 La Rothière
+Larouche
 Larouillies
 La Rouvière
 Laroya
@@ -40784,6 +40797,7 @@ Leffe
 Leffinge
 Leffrinckoucke
 Le Fidelaire
+Le Fjord-du-Saguenay
 Le Fleix
 Le Flon
 Leflore County
@@ -43946,6 +43960,7 @@ Løgten
 Lørenskog
 Lørslev
 Løten
+L’Anse-Saint-Jean
 M'diq-Fnideq Prefecture
 M'Tsamboro
 M'Tsangamouji
@@ -45352,6 +45367,7 @@ Maria Alm am Steinernen Meer
 María Antonia
 Maria-Anzbach
 Maria Aurora
+Maria-Chapdelaine
 Maria da Fé
 María Elena
 Maria Enzersdorf
@@ -45857,6 +45873,7 @@ Mashiki
 Mashiko
 Mashonovskoye
 Mashpee
+Mashteuiatsh
 Masi
 Maside
 Masilonyana
@@ -47053,6 +47070,7 @@ Mestrino
 Mesuji Regency
 Mesvin
 Meta
+Métabetchouan-Lac-à-la-Croix
 Meta Department
 Metairie
 Métairies-Saint-Quirin
@@ -52544,6 +52562,7 @@ Norman's Cove-Long Cove
 Norman County
 Normandia
 Normandie
+Normandin
 Norman Park
 Normanton
 Normanville
@@ -52849,6 +52868,7 @@ Notre-Dame-de-Bondeville
 Notre-Dame-de-Cenilly
 Notre-Dame-de-Commiers
 Notre-Dame-de-Londres
+Notre-Dame-de-Lorette
 Notre-Dame-de-Monts
 Notre-Dame-de-Riez
 Notre-Dame-des-Landes
@@ -57345,6 +57365,7 @@ Pergola
 Perham
 Perho
 Peribán
+Péribonka
 Perico
 Périers
 Pérignat-lès-Sarliève
@@ -57601,6 +57622,7 @@ Petit-Rechain
 Petit-Réderching
 Petit-Rocher
 Petit-Rosière
+Petit-Saguenay
 Petit-Tenquin
 Petit-Val
 Petit-Verly
@@ -63483,6 +63505,7 @@ Riviera Beach
 Rivière
 Rivière-des-Prairies–Pointe-aux-Trembles
 Rivière du Rempart District
+Riviere Eternite
 Rivière-les-Fosses
 Rivière Noire District
 Rivierenwijk
@@ -65264,6 +65287,7 @@ Saint-Amans-Soult
 Saint-Amans-Valtoret
 Saint-Amant-Tallende
 Saint-Amarin
+Saint-Ambroise
 Saint-Ambroix
 Saint-Amé
 Saint-Amour
@@ -65287,6 +65311,7 @@ Saint-André-de-Roquepertuis
 Saint-André-de-Sangonis
 Saint-André-des-Eaux
 Saint-André-de-Valborgne
+Saint-André-du-Lac-Saint-Jean
 Saint-André-en-Barrois
 Saint-André-en-Royans
 Saint-André-Goule-d'Oie
@@ -65428,6 +65453,7 @@ Saint-Brisson-sur-Loire
 Saint-Broing
 Saint-Broing-les-Moines
 Saint-Broladre
+Saint-Bruno
 Saint-Calais
 Saint-Calais-du-Désert
 Saint-Cannat
@@ -65453,6 +65479,7 @@ Saint-Chamas
 Saint-Chamassy
 Saint-Chamond
 Saint-Chaptes
+Saint-Charles-de-Bourget
 Saint-Charles-la-Forêt
 Saint-Chef
 Saint-Chély-d'Apcher
@@ -65533,6 +65560,7 @@ Saint-Cyr-sur-Menthon
 Saint-Cyr-sur-Mer
 Saint-Cyr-sur-Morin
 Saint-Dalmas-le-Selvage
+Saint-David-de-Falardeau
 Saint David Parish
 Saint-Denis
 Saint-Denis-d'Aclon
@@ -65616,6 +65644,7 @@ Sainte-Croix-du-Verdon
 Sainte-Croix-en-Jarez
 Sainte-Croix-en-Plaine
 Sainte-Croix-sur-Mer
+Saint-Edmond-les-Plaines
 Sainte-Eulalie
 Sainte-Eulalie-de-Cernon
 Sainte-Féréole
@@ -65635,6 +65664,7 @@ Sainte-Gemmes-sur-Loire
 Sainte-Geneviève
 Sainte-Geneviève-des-Bois
 Sainte-Geneviève-lès-Gasny
+Sainte-Hedwidge
 Sainte-Helene
 Sainte-Hélène
 Sainte-Hélène-Bondeville
@@ -65642,6 +65672,7 @@ Sainte-Hélène-sur-Isère
 Sainte-Hermine
 Sainte-Honorine-du-Fay
 Sainte-Jalle
+Sainte-Jeanne-d'Arc
 Sainte-Léocadie
 Sainte-Lheurine
 Saint-Élie
@@ -65682,6 +65713,7 @@ Sainte-Menehould
 Sainte-Mère-Église
 Sainte-Mesme
 Saint-Émilion
+Sainte-Monique-de-Honfleur
 Saint-Ennemond
 Sainte-Ode
 Sainte-Olive
@@ -65697,6 +65729,7 @@ Saint-Erblon
 Sainte-Reine-de-Bretagne
 Saint-Erme-Outre-et-Ramecourt
 Sainte-Rose
+Sainte-Rose-du-Nord
 Sainte-Ruffine
 Saintes
 Sainte-Savine
@@ -65747,6 +65780,7 @@ Saint-Étienne-lès-Remiremont
 Saint-Étienne-sur-Suippe
 Saint-Étienne-sur-Usson
 Sainte-Tulle
+Saint-Eugène-d'Argentenay
 Saint-Euphémie
 Sainte-Valière
 Saint-Evarzec
@@ -65761,6 +65795,7 @@ Saint-Félicien
 Saint-Féliu-d'Amont
 Saint-Féliu-d'Avall
 Saint-Félix
+Saint-Félix-d'Otis
 Saint-Félix-de-Bourdeilles
 Saint-Félix-de-Lodez
 Saint-Félix-de-Lunel
@@ -65794,12 +65829,14 @@ Saint-Forgeux-Lespinasse
 Saint-Fort-sur-le-Né
 Saint-Fraimbault-de-Prières
 Saint-François-de-Madawaska
+Saint-François-de-Sales
 Saint-François-Lacroix
 Saint-Fregant
 Saint-Fréjoux
 Saint-Frichoux
 Saint-Fromond
 Saint-Front-de-Pradoux
+Saint-Fulgence
 Saint-Fulgent
 Saint-Fuscien
 Saint-Galmier
@@ -65809,6 +65846,7 @@ Saint-Gaudens
 Saint-Gaudéric
 Saint-Gaultier
 Saint-Gauzens
+Saint-Gédéon
 Saint-Gelais
 Saint-Gély-du-Fesc
 Saint-Genès-Champanelle
@@ -65966,6 +66004,7 @@ Saint-Hélen
 Saint Helena
 Saint Helier
 Saint Heliers
+Saint-Henri-de-Taillon
 Saint-Herblain
 Saint-Hernin
 Saint-Hilaire
@@ -66008,6 +66047,7 @@ Saint-Hippolyte-de-Caton
 Saint-Hippolyte-de-Montaigu
 Saint-Hippolyte-du-Fort
 Saint-Hippolyte-le-Graveyron
+Saint-Honoré
 Saint-Honoré-les-Bains
 Saint-Hubert
 Saint-Huruge
@@ -66284,6 +66324,7 @@ Saint-Loup-Terrier
 Saint-Lubin-de-la-Haye
 Saint-Lubin-en-Vergonnois
 Saint-Luc
+Saint-Ludger-de-Milot
 Saint Luke Parish
 Saint-Lumine-de-Clisson
 Saint-Lumine-de-Coutais
@@ -66727,6 +66768,7 @@ Saint-Priest-en-Jarez
 Saint-Priest-la-Plaine
 Saint-Priest-la-Prugne
 Saint-Priest-les-Fougères
+Saint-Prime
 Saint-Privat
 Saint-Privat-de-Champclos
 Saint-Privat-des-Vieux
@@ -66874,6 +66916,7 @@ Saint-Sornin-Lavolps
 Saint-Sornin-Leulac
 Saint Souplet
 Saint-Soupplets
+Saint-Stanislas
 Saint-Suliac
 Saint-Sulpice
 Saint-Sulpice-de-Guilleragues
@@ -66902,6 +66945,7 @@ Saint-Thiébaud
 Saint-Thierry
 Saint-Thois
 Saint-Thomas-de-Courceriers
+Saint-Thomas-Didyme
 Saint-Thomas-la-Garde
 Saint Thomas Parish
 Saint-Thonan
@@ -82789,6 +82833,7 @@ Villecomte
 Villeconin
 Villecresnes
 Villecroze
+Ville d'Alma
 Ville d'Anaunia
 Ville-d'Avray
 Villedaigne
