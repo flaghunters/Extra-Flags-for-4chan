@@ -10645,6 +10645,7 @@ Budulov
 Budva
 Budyně nad Ohří
 Budzow commune
+Budzyn
 Bueil
 Bueil-en-Touraine
 Buellas
@@ -15883,6 +15884,7 @@ Chodová Planá
 Chodovlice
 Chodská Lhota
 Chodský Újezd
+Chodziez
 Chodziez County
 Choele Choel
 Chofu
@@ -19031,6 +19033,7 @@ Cyryn
 Cysoing
 Czaplinek commune
 Czarna Commune
+Czarnkow commune
 Czarnkow-Trzcianka County
 Czarnocin commune
 Czarnozyly commune
@@ -21127,6 +21130,7 @@ Draveil
 Dravograd
 Dravosburg
 Drawno commune
+Drawsko
 Drawsko County
 Drawsko Pomorskie commune
 Drayton Valley
@@ -27477,6 +27481,7 @@ Gol
 Gola
 Golan
 Golancourt
+Golancz
 Golan Heights
 Golasecca
 Gölbaşı
@@ -34962,6 +34967,7 @@ Kachkanar
 Kachtem
 Kačice
 Kácov
+Kaczory
 Kadaň
 Kadapa
 Kadena
@@ -42672,6 +42678,7 @@ Lobor
 Lobos
 Lobsann
 Loburn
+Lobzenica
 Locana
 Lo Cañas
 Locarn
@@ -45416,6 +45423,7 @@ Margny
 Margny-lès-Compiègne
 Margny-sur-Matz
 Margon
+Margonin
 Margraten
 Margrethausen
 Marguerittes
@@ -47470,6 +47478,7 @@ Miersch Canton
 Mier y Noriega
 Mies
 Miesbach District
+Miescisko
 Miesenbach
 Miesenbach bei Birkfeld
 Mieszkowice commune
@@ -53888,6 +53897,7 @@ Obora
 Oborín
 Obořiště
 Oborná
+Oborniki
 Oborniki County
 Oborniki Slaskie commune
 Obory
@@ -59176,6 +59186,7 @@ Pokupsko
 Polača
 Polack
 Polack District
+Polajewo
 Poland
 Polanica-Zdroj
 Polanka Wielka commune
@@ -63952,6 +63963,7 @@ Rogolo
 Rogovskoye
 Rogow commune
 Rogowo commune
+Rogozno
 Rogozno commune
 Rogue River
 Rogues
@@ -65028,6 +65040,7 @@ Rychnov na Moravě
 Rychnov u Jablonce nad Nisou
 Rychvald
 Rycroft
+Ryczywol
 Ryde
 Rydzihierava
 Rydzyna commune
@@ -66309,6 +66322,7 @@ Saint-Just-Luzac
 Saint-Just-Malmont
 Saint-Just-Saint-Rambert
 Saint-Just-Sauvage
+Saint Kitts
 Saint-Lager-Bressac
 Saint-Langis-lès-Mortagne
 Saint-Lanne
@@ -72566,6 +72580,7 @@ Skoczów Commune
 Skodje
 Škofja Loka
 Škofljica
+Skoki
 Skole
 Skomelno
 Skomlin commune
@@ -75790,6 +75805,7 @@ Sztum County
 Szubin commune
 Szydlowiec commune
 Szydlowiec County
+Szydlowo
 Szydlowo commune
 Søborg
 Søgne
@@ -78986,6 +79002,7 @@ Tryon
 Trysil
 Tryškiai
 Trzciana commune
+Trzcianka
 Trzciel commune
 Trzcinsko-Zdroj commune
 Trzebiatow commune
@@ -84223,6 +84240,7 @@ Wagnon
 Wagoner County
 Wagrain
 Wagram
+Wagrowiec
 Wagrowiec County
 Waha
 Wahagnies
@@ -85457,6 +85475,7 @@ Wiehe
 Wiehl
 Wiekevorst
 Wieldrecht
+Wielen
 Wielgie commune
 Wielgomlyny commune
 Wieliczka
@@ -86119,6 +86138,7 @@ Wyoming County
 Wyomissing
 Wyre
 Wyre Forest
+Wyrzysk
 Wysmierzyce commune
 Wysokie Mazowieckie County
 Wysox Township
