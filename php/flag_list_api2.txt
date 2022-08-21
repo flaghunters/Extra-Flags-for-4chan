@@ -432,8 +432,10 @@ Adon
 Adorp
 Adra
 Adrano
+Adrar
 Adrara San Martino
 Adrara San Rocco
+Adrar Province
 Adria
 Adrian
 Adrianópolis
@@ -790,13 +792,20 @@ Ainan
 Ainaro District
 Ainata Al-Arz
 Ainay-le-Château
+Aïn Azel
 Ain Baal
+Aïn Benian
 Aincille
 Aincourt
 Aincreville
+Aïn Defla
+Aïn Defla Province
 Ainet
 Aingeray
 Ainhoa
+Aïn Kebira
+Aïn Témouchent
+Aïn Témouchent Province
 Aioi
 Aipe
 Aiquara
@@ -889,6 +898,7 @@ Akaiwa
 Akashi
 Akatyevo
 Akbez
+Akbou
 Akbük
 Akçaabat
 Akçadağ
@@ -1367,6 +1377,7 @@ Alger County
 Algete
 Alghero
 Algiers
+Algiers Province
 Algodão de Jandaíra
 Algodonales
 Algolsheim
@@ -1898,6 +1909,7 @@ Amakusa
 Amalfi
 Amaliendorf-Aalfang
 Åmål Municipality
+Amalou
 Amambai
 Amambay Department
 Amami
@@ -2427,6 +2439,7 @@ Anmoore
 Anmore
 Anna
 Annaba
+Annaba Province
 Annaberg
 Annaberg-Lungötz
 Annaka
@@ -3548,6 +3561,7 @@ Arzenc-de-Randon
 Arzene
 Arzens
 Arzergrande
+Arzew
 Arzier
 Arzignano
 Arzillières-Neuville
@@ -3873,6 +3887,7 @@ Attala County
 Attalens
 Attapulgus
 Attard
+Attatba
 Attelwil
 Attenschwiller
 Attenweiler
@@ -5783,6 +5798,7 @@ Batken Region
 Batman
 Batman Province
 Batna
+Batna Province
 Batňovice
 Batočina
 Baton Rouge
@@ -6159,6 +6175,8 @@ Becerril de Campos
 Becerril de la Sierra
 Bech
 Béchamps
+Béchar
+Béchar Province
 Běchary
 Becherel
 Becherov
@@ -6314,6 +6332,8 @@ Beižionys
 Beja
 Beja District
 Beja Governorate
+Béjaïa
+Béjaïa Province
 Bejuma
 Bekalta
 Bekasi
@@ -6740,6 +6760,8 @@ Benguela Province
 Benguet
 Benhar
 Ben Hill County
+Béni Abbès
+Béni Abbès Province
 Beniakovce
 Benice
 Benicia
@@ -6749,7 +6771,9 @@ Bénifontaine
 Béni Mellal
 Béni Mellal-Khénifra
 Béni Mellal Province
+Beni Mered
 Béning-lès-Saint-Avold
+Beni Saf
 Benishangul-Gumuz Region
 Beni Suef Governorate
 Benitagla
@@ -7078,6 +7102,7 @@ Berrobi
 Berrocal
 Berrocalejo
 Berrotarán
+Berrouaghia
 Berrwiller
 Berry-au-Bac
 Berry Islands
@@ -7787,6 +7812,7 @@ Birkenfeld District
 Birkenfelde
 Birkenhead
 Birkfeld
+Birkhadem
 Birkirkara
 Biřkov
 Birkum
@@ -7795,6 +7821,7 @@ Birmensdorf
 Birmenstorf
 Birmingham
 Birmingham Township
+Bir Mourad Raïs
 Birobidzhan
 Birobidzhansky District
 Biron
@@ -7852,6 +7879,8 @@ Bisignano
 Bisimbre
 Bisingen
 Biskoupky
+Biskra
+Biskra Province
 Biskupice
 Biskupice commune
 Biskupice-Pulkov
@@ -8126,6 +8155,7 @@ Blevice
 Blevio
 Blhovce
 Blida
+Blida Province
 Blienschwiller
 Bliesbruck
 Blies-Ébersing
@@ -8862,6 +8892,10 @@ Bordes
 Bordezac
 Bordighera
 Bor District
+Bordj Badji Mokhtar Province
+Bordj Bou Arréridj
+Bordj Bou Arréridj Province
+Bordj El Kiffan
 Bordolano
 Bordovice
 Bord-Saint-Georges
@@ -9178,6 +9212,7 @@ Boudry
 Boué
 Bouéni
 Bouesse
+Boufarik
 Boufflers
 Bouffry
 Bouficha
@@ -9191,6 +9226,7 @@ Bougon
 Bouguenais
 Bougy-Villars
 Bouhajar
+Bouhamza
 Bouhans-et-Feurg
 Bouhans-lès-Lure
 Bouhey
@@ -9205,6 +9241,8 @@ Bouilly
 Bouilly-en-Gâtinais
 Bouin
 Bouin-Plumoison
+Bouïra Province
+Bou Ismaïl
 Bouisse
 Bouix
 Boujailles
@@ -9239,6 +9277,8 @@ Bouloz
 Boult-aux-Bois
 Boult-sur-Suippe
 Boulzicourt
+Boumedfaa
+Boumerdès Province
 Boundary County
 Bound Brook
 Bouniagues
@@ -9340,6 +9380,7 @@ Boursin
 Bourth
 Bourthes
 Boury-en-Vexin
+Bou Saâda
 Bou Salem
 Bousbach
 Bousbecque
@@ -9369,6 +9410,7 @@ Boutersem
 Bouteville
 Boutigny-Prouais
 Boutigny-sur-Essonne
+Boutlelis
 Bouttencourt
 Bouvaincourt-sur-Bresle
 Bouvelinghem
@@ -9389,6 +9431,7 @@ Bouy
 Bouy-Luxembourg
 Bouyon
 Bouzanville
+Bouzareah
 Bouze-lès-Beaune
 Bouzigues
 Bouzonville
@@ -14651,6 +14694,7 @@ Ceyzériat
 Cézac
 Cezarina
 Cézy
+Chaabet El Ham
 Chaam
 Chabanais
 Chabařovice
@@ -15409,6 +15453,7 @@ Chelan County
 Chelbasskoye
 Chelčice
 Chelers
+Chellata
 Chelle-Debat
 Chelles
 Chelle-Spou
@@ -15492,6 +15537,7 @@ Cherasco
 Chéraute
 Cheraw
 Cherbourg-Octeville
+Cherchell
 Chercos
 Cherdyn
 Cherdynsky District
@@ -15927,6 +15973,8 @@ Chľaba
 Chlebičov
 Chlebnice
 Chleby
+Chlef
+Chlef Province
 Chleny
 Chlewiska commune
 Chlistov
@@ -16033,6 +16081,7 @@ Chopinzinho
 Choqueuse-les-Bénards
 Choré
 Chorey-les-Beaune
+Chorfa
 Chorges
 Chorley
 Chorlovshoye
@@ -17088,6 +17137,7 @@ Collioure
 Collipulli
 Colli sul Velino
 Colli Verdi
+Collo
 Collobiano
 Collobrières
 Collombey-Muraz
@@ -17592,6 +17642,7 @@ Constantí
 Constantia
 Constantina
 Constantine
+Constantine Province
 Constanza
 Constanzana
 Constitución
@@ -19761,6 +19812,7 @@ Delley
 Delley-Portalban
 Dello
 Dellview
+Dellys
 Delmar
 Del Mar
 Delmar Township
@@ -20375,6 +20427,9 @@ Dizimieu
 Dizy
 Dizy-le-Gros
 Dizzasco
+Djanet Province
+Djelfa
+Djelfa Province
 Djibouti
 Djúpivogur
 Dlažkovice
@@ -21221,6 +21276,7 @@ Drážov
 Drážovce
 Dražovice
 Dražůvky
+Dréan
 Drechterland
 Drefféac
 Dreher Township
@@ -22388,6 +22444,8 @@ El Barco de Ávila
 El Barraco
 Elbasan
 Elbasan County
+El Bayadh
+El Bayadh Province
 Elbe-Elster District
 El Beḥēra Governorate
 El Berrueco
@@ -22395,6 +22453,7 @@ Elberta
 Elbert County
 Elberton
 Elbeuf
+El Biar
 Elbigenalp
 Elblag
 Elblag County
@@ -22495,6 +22554,7 @@ El Estor
 Életot
 Elets
 Éleu-dit-Leauwette
+El Eulma
 Eleuthera
 El Factor
 El Fayyūm Governorate
@@ -22526,6 +22586,7 @@ El Guarco
 El Guettar
 El Guijo
 El Hajeb Province
+El Harrach
 El Hatillo
 El Hierro
 El Hornillo
@@ -22565,7 +22626,9 @@ El Jardín
 Eljas
 El Jicaral
 El Jícaro
+El Kala
 Elkana
+El Karma
 Elk County
 Elk Creek Township
 El Kelâa des Sraghna
@@ -22632,10 +22695,12 @@ Ellsworth County
 Ellwangen
 Ellwood City
 Elm
+El M'Ghair Province
 Elma
 Elmadağ
 El-Mahalla El-Kubra
 El Maitén
+El Malah
 Elmalı
 El Mante
 El Manzano
@@ -22645,8 +22710,10 @@ El Masnou
 Elmbridge
 Elm City
 Elmen
+El Menia Province
 Elmer
 Elmhurst Township
+El Milia
 El Minya Governorate
 Elmira (city)
 Elmira (town)
@@ -22680,6 +22747,8 @@ El Oro
 El Oro Province
 Elortondo
 Elota
+El Oued
+El Oued Province
 Élouges
 Eloxochitlán
 Eloy
@@ -22762,6 +22831,8 @@ El Tabo
 El Tala
 El Talar
 El Tambo
+El Taref
+El Taref Province
 El Tarra
 El Tejar
 Eltendorf
@@ -26640,6 +26711,7 @@ Gdansk
 Gdansk County
 Gdovsky District
 Gdow commune
+Gdyel
 Gdynia
 Géanges
 Gearhart
@@ -27090,10 +27162,13 @@ Ghajar
 Ghajnsielem
 Ghanzi District
 Gharb
+Ghardaïa
+Ghardaïa Province
 Gharghur
 Gharyan
 Ghasri
 Ghaxaq
+Ghazaouet
 Ghaziabad
 Ghedi
 Ghemme
@@ -29141,6 +29216,7 @@ Guegon
 Guégon
 Guehenno
 Guelma
+Guelma Province
 Guelmim
 Guelmim-Oued Noun
 Guelmim Province
@@ -29578,6 +29654,7 @@ Hadeth
 Hadiach
 Hadigny-les-Verrières
 Hadim
+Hadjadj
 Hadley
 Hadol
 Hadong County
@@ -29827,6 +29904,7 @@ Hamlin
 Hamlin County
 Hamlin Township
 Hamm
+Hamma Bouziane
 Hammam Chott
 Hammamet
 Hammam-Lif
@@ -32531,6 +32609,7 @@ Husinec
 Huskvarna District
 Huslenky
 Husovice
+Hussein Dey
 Husseren-les-Chateaux
 Husseren-Wesserling
 Hussigny-Godbrange
@@ -32949,6 +33028,7 @@ Illies
 Illingen
 Illinois
 Illintsi
+Illizi Province
 Illkirch-Graffenstaden
 Illmensee
 Illmitz
@@ -33167,6 +33247,7 @@ Ingram
 Ingrandes
 Ingré
 Ingria
+In Guezzam Province
 Inguiniel
 Ingushetia
 Ingwe
@@ -33219,6 +33300,7 @@ Inowroclaw County
 Inquisivi Province
 Inriville
 Ins
+In Salah Province
 Insinger
 Insk commune
 Insming
@@ -34666,6 +34748,8 @@ Jihlava
 Jihlava District
 Jihočeský Region
 Jihomoravský Region
+Jijel
+Jijel Province
 Jijoca de Jericoacoara
 Jilem
 Jilemnice
@@ -36372,6 +36456,7 @@ Kheis
 Khelvachauri
 Khemisset
 Khemisset Province
+Khenchela Province
 Khénifra
 Khénifra Province
 Khentii Province
@@ -37478,6 +37563,7 @@ Kosa
 Kosai
 Kosaka
 Kosakowo commune
+Ko Samui
 Košariská
 Košařiska
 Košarovce
@@ -37657,6 +37743,7 @@ Köttmannsdorf
 Kottwil
 Kotvrdovice
 Kouaoua
+Kouba
 Koudekerk aan den Rijn
 Koudekerke
 Koudum
@@ -39270,6 +39357,8 @@ Lages
 Lage Vuursche
 Laghi
 Laghman Province
+Laghouat
+Laghouat Province
 La Giettaz
 Lagiewniki commune
 La Gleize
@@ -44353,6 +44442,8 @@ Løten
 L’Anse-Saint-Jean
 M´Banza Congo
 M'diq-Fnideq Prefecture
+M'Sila
+M'Sila Province
 M'Tsamboro
 M'Tsangamouji
 Ma'ale Adummim
@@ -46257,6 +46348,7 @@ Mas-Cabardès
 Mascali
 Mascalucia
 Mascara
+Mascara Province
 Mascaras
 Maschito
 Maschwanden
@@ -46866,6 +46958,8 @@ Médan
 Meddybemps
 Mede
 Medea
+Médéa
+Médéa Province
 Medeglia
 Medeiros
 Medeiros Neto
@@ -47380,6 +47474,7 @@ Merrimack County
 Merris
 Merritt
 Merschweiller
+Mers el Kébir
 Merseyside
 Mersin
 Mersin Province
@@ -47933,6 +48028,7 @@ Milán
 Milano
 Milanow commune
 Milanowek commune
+Mila Province
 Milas
 Milasín
 Milavče
@@ -47967,6 +48063,7 @@ Milhavet
 Milheeze
 Milhosť
 Milhostov
+Miliana
 Milići
 Miličín
 Milíčovice
@@ -48619,6 +48716,7 @@ Moguer
 Moha
 Mohács District
 Mohamedia-Fouchana
+Mohammadia
 Mohammadia Prefecture
 Mohave County
 Mohawk
@@ -50272,6 +50370,7 @@ Moss Point
 Most
 Mosta
 Mostaganem
+Mostaganem Province
 Mostar
 Mostardas
 Mostazal
@@ -51068,6 +51167,7 @@ N'Djaména
 N'zeto
 N'Zi Region
 Naaldwijk
+Naâma Province
 Naantali
 Naarden
 Naas
@@ -51640,6 +51740,7 @@ Nebužely
 Nechanice
 Nechí
 Néchin
+Nechmaya
 Nechvalice
 Nechvalín
 Nechválova Polianka
@@ -55336,6 +55437,7 @@ Orange Walk Town
 Orani
 Oranit
 Oranjemund
+Oran Province
 Oratia
 Oratino
 Oratorio
@@ -56081,6 +56183,8 @@ Ouainville
 Ouanary
 Ouangani
 Ouanne
+Ouargla
+Ouargla Province
 Ouarzazate
 Ouarzazate Province
 Ouches
@@ -56125,8 +56229,11 @@ Oud-Valkenburg
 Oud-Vossemeer
 Oud-West
 Oud-Zuid
+Oued Amizour
+Oued Djemaa
 Oued Ed-Dahab Province
 Oued Ellil
+Oued Rhiou
 Ouégoa
 Oueilloux
 Oueslatia
@@ -56145,12 +56252,15 @@ Oujda
 Oujda-Angad Prefecture
 Oulainen
 Oulchy-le-Château
+Ouled Djellal Province
+Ouled Fayet
 Oulens-sous-Échallens
 Oulens-sur-Lucens
 Oulins
 Oullins
 Oulu
 Oulx
+Oum El Bouaghi Province
 Ounans
 Oupeye
 Oupia
@@ -63156,6 +63266,8 @@ Rekhasim
 Rekingen
 Rekkem
 Rekovac
+Relizane
+Relizane Province
 Rellinars
 Relmo
 Reľov
@@ -65054,6 +65166,7 @@ Rougiers
 Rougnat
 Rougon
 Rouhling
+Rouiba
 Rouillac
 Rouillé
 Rouilly-Saint-Loup
@@ -65854,6 +65967,8 @@ Sahuayo
 Sai
 Saibai Island
 Saicourt
+Saïda
+Saïda Province
 Saignelégier
 Saignes
 Saignon
@@ -71307,6 +71422,7 @@ Sedalia
 Sedamsville
 Sedan
 Seddon
+Seddouk
 Sedegliano
 Sédeilles
 Sede Nova
@@ -72046,6 +72162,8 @@ Sete de Setembro
 Sete Lagoas
 Setenil de las Bodegas
 Sete Quedas
+Sétif
+Sétif Province
 Seto
 Setomaa
 Setouchi
@@ -72164,6 +72282,7 @@ Sezze
 Sfakia
 Sfax
 Sfax Governorate
+Sfissef
 Sfruz
 Sgonico
 Sgurgola
@@ -72539,12 +72658,14 @@ Side
 Sidenreng Rappang Regency
 Siderno
 Siderópolis
-Sidi Bel Abbes
+Sidi Bel Abbès
+Sidi Bel Abbès Province
 Sidi Bennour Province
 Sidi Bou Ali
 Sidi Bou Said
 Sidi Bouzid
 Sidi Bouzid Governorate
+Sidi Brahim
 Sidi Ifni Province
 Sidi Kacem
 Sidi Kacem Province
@@ -72618,6 +72739,7 @@ Sievierodonetsk District
 Siewiller
 Sifnos
 Sifontes
+Sig
 Sigale
 Sigatoka
 Sigave
@@ -73149,6 +73271,8 @@ Skien
 Skierbieszow commune
 Skierniewice City
 Skierniewice County
+Skikda
+Skikda Province
 Skillingaryd
 Skinnskatteberg Municipality
 Skippack Township
@@ -74071,6 +74195,8 @@ Souilhanels
 Souilhe
 Souillac
 Souilly
+Souk Ahras
+Souk Ahras Province
 Souk Lahad
 Soukra
 Soula
@@ -74090,6 +74216,7 @@ Soultz-les-Bains
 Soultzmatt
 Soultz-sous-Forets
 Soulvache
+Soumaa
 Soumagne
 Soumans
 Soumoulou
@@ -74101,6 +74228,7 @@ Sourcieux-les-Mines
 Sourdeval
 Sourdun
 Soure
+Sour El Ghozlane
 Souris
 Souris Valley
 Sournia
@@ -74801,6 +74929,7 @@ Stantonsburg
 Stanzach
 Stanz bei Landeck
 Stanz im Mürztal
+Staoueli
 Staphorst
 Staple
 Stapleton
@@ -76759,6 +76888,7 @@ Tamana
 Tamandaré
 Tamanique
 Tamano
+Tamanrasset Province
 Tamaqua
 Támara
 Tamarac
@@ -76795,6 +76925,7 @@ Tamins
 Tamm
 Tammela
 Tammin
+Tamokra
 Tampa
 Tampa Heights
 Tampa Seminole Indian Reservation
@@ -77213,6 +77344,7 @@ Tazacorte
 Taza Province
 Tazewell
 Tazewell County
+Tazmalt
 Tazovsky District
 Tbilisi
 Tbilisskoye
@@ -77234,6 +77366,7 @@ Te Aroha
 Te Atatu
 Tea Tree Gully
 Te Awamutu
+Tébessa Province
 Tebicuary
 Tebicuarymí
 Tebing Tinggi
@@ -77273,6 +77406,7 @@ Tegal Regency
 Tegelen
 Tegerfelden
 Teggiano
+Teghenif
 Tegkwitz
 Teglio
 Teglio Veneto
@@ -78001,6 +78135,8 @@ Tianeti
 Tianguá
 Tianguistengo
 Tianjin
+Tiaret
+Tiaret Province
 Tiarno di Sopra
 Tiarno di Sotto
 Tías
@@ -78141,6 +78277,8 @@ Timbó Grande
 Timbúes
 Timburi
 Time
+Timimoun
+Timimoun Province
 Timiryazevsky District
 Timiș County
 Timiskaming District
@@ -78159,6 +78297,7 @@ Tinaquillo
 Tincey-et-Pontrebeau
 Tincques
 Tincry
+Tindouf Province
 Tineo
 Tingambato
 Tinghir Province
@@ -78199,6 +78338,8 @@ Tionesta
 Tionesta Township
 Tío Pujio
 Tipacoque
+Tipaza
+Tipaza Province
 Tipitapa
 Tippah County
 Tippecanoe County
@@ -78248,6 +78389,8 @@ Tisno
 Tišnov
 Tisová
 Tisovec
+Tissemsilt
+Tissemsilt Province
 Tissi
 Tištín
 Tiszafüred District
@@ -78272,6 +78415,8 @@ Tiwi Islands
 Tizac-de-Lapouyade
 Tizapán el Alto
 Tizayuca
+Tizi Ouzou
+Tizi Ouzou Province
 Tiznit
 Tiznit Province
 Tizzano Val Parma
@@ -78293,6 +78438,8 @@ Tlanchinol
 Tlaxcala
 Tlaxcoapan
 Tlazazalca
+Tlemcen
+Tlemcen Province
 Tlmače
 Tlokwe
 Tluchowo commune
@@ -78832,6 +78979,8 @@ Touffréville
 Touffreville-la-Corbeline
 Touffreville-sur-Eu
 Touget
+Touggourt
+Touggourt Province
 Touho
 Touillon-et-Loutelet
 Toul
@@ -87994,6 +88143,7 @@ Zepfenhahn
 Zephyrhills
 Zeppelinheim
 Zerain
+Zeralda
 Žeranovice
 Žeravice
 Žeraviny
