@@ -26,6 +26,7 @@ A'ana District
 Aabbassiyeh
 Aabenraa
 Aach
+Aachech-Aouadna-Boujarbou-Majel Draj
 Aachen
 Aachen Region
 Aadorf
@@ -134,6 +135,7 @@ Abfaltersbach
 Abha
 Abia de las Torres
 Abia State
+Abida
 Abidjan
 Abidos
 Abiko
@@ -517,6 +519,7 @@ Agana Heights
 Aganang
 Agano
 Agapovsky District
+Agareb
 Agarn
 Agartala
 Agat
@@ -800,10 +803,15 @@ Aincourt
 Aincreville
 Aïn Defla
 Aïn Defla Province
+Aïn Djeloula
+Aïn Draham
+Aïn El Beïdha
 Ainet
 Aingeray
 Ainhoa
 Aïn Kebira
+Aïn Khmaissia
+Aïn Sobh-Nadhour
 Aïn Témouchent
 Aïn Témouchent Province
 Aioi
@@ -971,6 +979,7 @@ Akyazı
 Akyurt
 Ål
 Ala
+Alâa
 Alabama
 Alaca
 Alaçam
@@ -2014,6 +2023,7 @@ Ambutrix
 Amby
 Amden
 Amderma
+Amdoun
 Amealco de Bonfil
 Ameca
 Ameglia
@@ -2063,6 +2073,9 @@ Amieva
 Amigny-Rouy
 Amilly
 Amirat
+Amiret El Fhoul
+Amiret El Hojjaj
+Amiret Touazra
 Amite County
 Amity
 Amity Township
@@ -4473,6 +4486,7 @@ Azille
 Azincourt
 Aziziye
 Azkoitia
+Azmour
 Azor
 Azotey
 Azoudange
@@ -5093,6 +5107,7 @@ Balsorano
 Balsthal
 Balta
 Balta Albă
+Balta-Bou Aouane
 Baltachevsky District
 Baltanás
 Baltasar Brum
@@ -5424,6 +5439,7 @@ Barger-Compascuum
 Barges
 Barghe
 Bargota
+Bargou
 Barguzinskoye
 Barguzinsky District
 Bar Harbor
@@ -5776,6 +5792,7 @@ Batayporã
 Bataysk
 Batelov
 Batenburg
+Baten Ghzal
 Baterno
 Batesburg-Leesville
 Bates County
@@ -6182,7 +6199,9 @@ Béchar Province
 Běchary
 Becherel
 Becherov
+Bechli-Blidet-Jerssin
 Běchovice
+Bechri-Fatnassa
 Bechtelsville
 Bechtoldsweiler
 Béchy
@@ -6332,8 +6351,9 @@ Béiwen-Atert
 Beizama
 Beižionys
 Beja
+Béja
 Beja District
-Beja Governorate
+Béja Governorate
 Béjaïa
 Béjaïa Province
 Bejuma
@@ -6455,6 +6475,7 @@ Belišće
 Belitung Regency
 Belize City
 Belize District
+Belkhir
 Belknap County
 Bělkovice-Lašťany
 Belkıs
@@ -6683,6 +6704,7 @@ Belzec commune
 Belzyce commune
 Bema
 Bembe
+Bembla-Mnara
 Bemelen
 Bemmel
 Bemowo
@@ -6749,6 +6771,7 @@ Benezette Township
 Benfeld
 Benfica
 Bengaluru
+Ben Gardane
 Benghazi
 Bengkalis Regency
 Bengkayang Regency
@@ -6770,6 +6793,11 @@ Benicia
 Beni Department
 Beniel
 Bénifontaine
+Beni Hassen
+Béni Khalled
+Beni Khedache
+Béni Khiar
+Beni M'Tir
 Béni Mellal
 Béni Mellal-Khénifra
 Béni Mellal Province
@@ -6791,6 +6819,7 @@ Benken
 Benkovac
 Benkovce
 Benna
+Bennane-Bodher
 Bennau
 Bennebroek
 Bennecourt
@@ -7784,6 +7813,7 @@ Bioule
 Biozat
 Biquinhas
 Birac
+Bir Ali Ben Khélifa
 Bir al-Maksur
 Biran
 Biratori
@@ -7794,6 +7824,7 @@ Bird Cove
 Birdsall
 Birdsboro
 Birecik
+Bir El Hafey
 Birenbach
 Bireuën Regency
 Birgisch
@@ -7819,6 +7850,8 @@ Birkirkara
 Biřkov
 Birkum
 Birkungen
+Bir Lahmar
+Bir Mcherga
 Birmensdorf
 Birmenstorf
 Birmingham
@@ -8470,6 +8503,7 @@ Bohol
 Bohonal de Ibor
 Bohostice
 Bohoyo
+Bohra
 Bohumilice
 Bohumín
 Bohunice
@@ -8995,6 +9029,7 @@ Borisovskoye
 Borisovsky District
 Bořitov
 Borja
+Borj El Amri
 Borjomi
 Bôrka
 Borkel en Schaft
@@ -9184,7 +9219,8 @@ Botuverá
 Botwood
 Bötzingen
 Bouafle
-Bouarada
+Bou Arada
+Bou Argoub
 Bouaye
 Boubers-lès-Hesmond
 Boubers-sur-Canche
@@ -9195,6 +9231,7 @@ Bouchain
 Bouchamps-lès-Craon
 Bouchavesnes-Bergen
 Bouchemaine
+Bouchemma
 Boucheporn
 Bouches-du-Rhône
 Bouchet
@@ -9220,6 +9257,7 @@ Bouffry
 Bouficha
 Bougainville
 Bougainville Autonomous Region
+Boughrara
 Bougival
 Bougligny
 Bouglon
@@ -9227,11 +9265,12 @@ Bougnon
 Bougon
 Bouguenais
 Bougy-Villars
-Bouhajar
+Bou Hajla
 Bouhamza
 Bouhans-et-Feurg
 Bouhans-lès-Lure
 Bouhey
+Bouhjar
 Bouilh-Devant
 Bouilhonnac
 Bouillac
@@ -9280,7 +9319,9 @@ Boult-aux-Bois
 Boult-sur-Suippe
 Boulzicourt
 Boumedfaa
+Bou Merdes
 Boumerdès Province
+Bou Mhel el-Bassatine
 Boundary County
 Bound Brook
 Bouniagues
@@ -9435,6 +9476,7 @@ Bouyon
 Bouzanville
 Bouzareah
 Bouze-lès-Beaune
+Bouzguem
 Bouzigues
 Bouzonville
 Bouzov
@@ -14092,6 +14134,7 @@ Ceará-Mirim
 Ceballos
 Cébazan
 Cébazat
+Cebbala Ouled Asker
 Čebín
 Cebiv
 Čebovce
@@ -15003,6 +15046,7 @@ Chantrans
 Chantrigné
 Chanute
 Chanville
+Chaouachi
 Chaouilley
 Chaource
 Chapada
@@ -15432,6 +15476,7 @@ Cheatham County
 Cheb
 Chebarkul
 Chebarkulsky District
+Chebba
 Cheb District
 Chebeague Island
 Chebika
@@ -15534,6 +15579,7 @@ Cheptainville
 Chépy
 Cher
 Chérac
+Cherahil
 Cherain
 Cherán
 Cherasco
@@ -16082,6 +16128,7 @@ Chonville-Malaumont
 Chop
 Chopinzinho
 Choqueuse-les-Bénards
+Chorbane
 Choré
 Chorey-les-Beaune
 Chorfa
@@ -16127,6 +16174,7 @@ Chotiněves
 Chotovice
 Choťovice
 Chotoviny
+Chott Meriem
 Chotusice
 Chotutice
 Chotýčany
@@ -16152,6 +16200,7 @@ Choysky District
 Chožov
 Chraberce
 Chrabrany
+Chraitia-Ksour
 Chrámec
 Chrast
 Chrást
@@ -16163,11 +16212,13 @@ Chrastince
 Chrasť nad Hornádom
 Chrastné
 Chrášťovice
+Chrayaa-Machrek Chams
 Chrbonín
 Chrenovec-Brusno
 Chřenovice
 Chřibská
 Chříč
+Chrifet-Boucharray
 Chris Hani
 Christchurch
 Christchurch Central
@@ -19263,6 +19314,7 @@ Dagua
 Dagupan
 Dahlenheim
 Dahlonega
+Dahmani
 Dahme-Spreewald District
 Daiano
 Daigny
@@ -19469,10 +19521,12 @@ Daours
 Ďapalovce
 Daphne
 Dapitan
+Dar Allouch
 Darazac
 Darby
 Darby Township
 Darcey
+Dar Chaabane
 Darcinópolis
 Darda
 Dardagny
@@ -19704,6 +19758,7 @@ De Fryske Marren
 Deftinge
 DeFuniak Springs
 De Gaastmar
+Degache
 Degen
 Degerfors Municipality
 Degerschlacht
@@ -19723,6 +19778,7 @@ Dehcho Region
 Dehéries
 Dehesas de Guadix
 Dehesas Viejas
+Dehiba
 De Himrik
 Dehiwala-Mount Lavinia
 Dehlingen
@@ -20431,10 +20487,14 @@ Dizy
 Dizy-le-Gros
 Dizzasco
 Djanet Province
+Djebel Oust
+Djedeida
 Djelfa
 Djelfa Province
+Djemna
 Djibouti
 Djúpivogur
+Dkhilet Toujane
 Dlažkovice
 Dlažov
 Dlhá
@@ -22104,6 +22164,7 @@ Echo
 Echols County
 Échouboulains
 Échourgnac
+Echrarda
 Echsenbach
 Echt
 Echteld
@@ -22420,20 +22481,25 @@ Elafonisos
 El Agarrobal
 El Aguila
 El Aguilar
-El Ain
+El Aïn
 El Álamo
 El Alcázar
+El Alia
 El Almendro
 El Alto
 El Alyobeya Governorate
+El Amaiem
+El Amra
 Élancourt
 El Arañado
 El Arazá
 El Arenal
+El Aroussa
 El Asintal
 Elassona
 El Atazar
 El Ayote
+El Ayoun
 Elazığ
 Elazığ Province
 Elba
@@ -22447,6 +22513,8 @@ El Barco de Ávila
 El Barraco
 Elbasan
 Elbasan County
+El Bassatine
+El Battan
 El Bayadh
 El Bayadh Province
 Elbe-Elster District
@@ -22466,6 +22534,7 @@ El Bohodón
 El Bolsón
 El Bordo
 El Bosque
+El Bradâa
 El Brete
 Elbridge (town)
 Elbridge (village)
@@ -22524,6 +22593,7 @@ Elder Township
 Eldiginskoye
 Eldivan
 El Divisadero
+El Djem
 Eldon
 El Doncello
 Eldorado
@@ -22560,6 +22630,7 @@ Elets
 El Eulma
 Eleuthera
 El Factor
+El Fahs
 El Fayyūm Governorate
 El Figueró i Montmany
 Elfingen
@@ -22580,6 +22651,7 @@ Elgin
 Elgin County
 El Giza Governorate
 Elgoibar
+El Golâa
 El Gordo
 El Granado
 El Grullo
@@ -22588,9 +22660,13 @@ El Guamo
 El Guarco
 El Guettar
 El Guijo
+El Hachachna
 El Hajeb Province
+El Hamma
+El Haouaria
 El Harrach
 El Hatillo
+El Hencha
 El Hierro
 El Hornillo
 Elhovo
@@ -22634,6 +22710,7 @@ Elkana
 El Karma
 Elk County
 Elk Creek Township
+El Kef
 El Kelâa des Sraghna
 El Kelâa des Sraghna Province
 Elkerzee
@@ -22651,6 +22728,7 @@ Elk Park
 Elk Point
 El Krib
 El Ksar
+El Ksour
 Elkton
 Elk Township
 Ell
@@ -22700,6 +22778,8 @@ Ellwood City
 Elm
 El M'Ghair Province
 Elma
+El Maâgoula
+El Maâmoura
 Elmadağ
 El-Mahalla El-Kubra
 El Maitén
@@ -22707,8 +22787,10 @@ El Malah
 Elmalı
 El Mante
 El Manzano
+El Marja
 El Marqués
 Elmas
+El Masdour
 El Masnou
 Elmbridge
 Elm City
@@ -22716,6 +22798,7 @@ Elmen
 El Menia Province
 Elmer
 Elmhurst Township
+El Mida
 El Milia
 El Minya Governorate
 Elmira (city)
@@ -23000,7 +23083,7 @@ Enemonzo
 Énencourt-Léage
 Enerhodar
 Enez
-Enfida
+Enfidha
 Enfield
 Enga Province
 Engaru
@@ -23052,6 +23135,7 @@ Enix
 Enkhuizen
 Enköping Municipality
 Enna
+Ennasr
 Ennenda
 Ennepe-Ruhr District
 Ennepetal
@@ -23066,6 +23150,7 @@ Ennevelin
 Enney
 Ennezat
 Enniskillen
+Ennour
 Ennsdorf
 Enonkoski
 Enontekiö
@@ -23588,6 +23673,7 @@ Esquipulas
 Esquipulas del Norte
 Esquipulas Palo Gordo
 Esrum
+Essaïda
 Essaouira
 Essaouira Province
 Essarois
@@ -23622,6 +23708,7 @@ Esslingen am Neckar
 Esslingen District
 Essômes-sur-Marne
 Essonne
+Essouassi
 Essoyes
 Essunga Municipality
 Est
@@ -23795,7 +23882,7 @@ Etroubles
 Étrun
 Etruria
 Etsaut
-Ettadhamen-Mnihla
+Ettadhamen
 Ettelbréck
 Ettendorf
 Ettenheim
@@ -23976,6 +24063,7 @@ Ezinge
 Ezinqoleni
 Ézy-sur-Eure
 Ezzahra
+Ezzouhour
 Fa'asaleleaga District
 Faaa
 Faaborg
@@ -24034,6 +24122,7 @@ Faicchio
 Fai della Paganella
 Faido
 Faido Circle
+Faiedh Bennour
 Failly
 Faimes
 Faina
@@ -24153,6 +24242,7 @@ Fano Adriano
 Fantino
 Fanwood
 Fanø
+Faouar
 Faoug
 Fara Filiorum Petri
 Fara Gera d'Adda
@@ -24452,6 +24542,7 @@ Ferfay
 Fergana Region
 Fergus County
 Ferguson Township
+Fériana
 Feričanci
 Féricy
 Férin
@@ -24466,6 +24557,7 @@ Fermeuse
 Fermignano
 Fermo
 Ferna
+Fernana
 Fernandes Pinheiro
 Fernandes Tourinho
 Fernández
@@ -25060,6 +25152,7 @@ Fondettes
 Fondi
 Fondo
 Fondón
+Fondouk Jedid-Seltene
 Fondremand
 Fonelas
 Fongueusemare
@@ -25400,6 +25493,7 @@ Foster
 Foster City
 Foster County
 Foster Township
+Fouchana
 Fouchécourt
 Foucherans
 Fouchères
@@ -25453,6 +25547,7 @@ Fourques
 Fourques-sur-Garonne
 Fourquevaux
 Foussais-Payré
+Foussana
 Foussemagne
 Foussignac
 Fouzilhon
@@ -26132,6 +26227,7 @@ Fyresdal
 Førde
 Fındıklı
 Gaaden
+Gaâfour
 Gaal
 Gaast
 Gabarret
@@ -26139,8 +26235,8 @@ Gabbioneta-Binanuova
 Gabčíkovo
 Gaberndorf
 Gabersdorf
-Gabes
-Gabes Governorate
+Gabès
+Gabès Governorate
 Gabian
 Gabiano
 Gabicce Mare
@@ -27163,10 +27259,13 @@ Gézoncourt
 Gföhl
 Ghajar
 Ghajnsielem
+Ghannouch
 Ghanzi District
 Gharb
 Ghardaïa
 Ghardaïa Province
+Ghardimaou
+Ghar el-Melh
 Gharghur
 Gharyan
 Ghasri
@@ -27175,8 +27274,10 @@ Ghazaouet
 Ghaziabad
 Ghedi
 Ghemme
+Ghenada
 Ghent
 Ghéthary
+Ghezala
 Ghiffa
 Ghilarza
 Ghimpețeni
@@ -27187,6 +27288,7 @@ Ghislarengo
 Ghislenghien
 Ghissignies
 Ghlin
+Ghomrassen
 Ghor Province
 Ghoy
 Ghyvelde
@@ -28228,6 +28330,7 @@ Gragnano Trebbiese
 Graham
 Graham County
 Graham Township
+Graïba
 Graincourt-lès-Havrincourt
 Grainger County
 Grainville-la-Teinturière
@@ -28596,6 +28699,7 @@ Greiz
 Greiz District
 Grellingen
 Grembergen
+Gremda
 Grémecey
 Gremiasco
 Gremilly
@@ -28706,6 +28810,7 @@ Grimbosq
 Grimentz
 Grimes County
 Grimesland
+Grimet-Hicher
 Grimisuat
 Grimmelshofen
 Grimmenstein
@@ -28766,6 +28871,7 @@ Grolley
 Grolloo
 Gromadka commune
 Grömbach
+Grombalia
 Gromnik commune
 Gromo
 Gron
@@ -29604,6 +29710,7 @@ Habay-la-Neuve
 Habergy
 Haberschlacht
 Habersham County
+Habib Thameur Bouatouch
 Habichtswald
 Habikino
 Habkern
@@ -29658,6 +29765,7 @@ Hadiach
 Hadigny-les-Verrières
 Hadim
 Hadjadj
+Hadjeb
 Hadley
 Hadol
 Hadong County
@@ -29709,6 +29817,7 @@ Hahira
 Hahn
 Haid
 Haidershofen
+Haïdra
 Haifa
 Haifa District
 Haiger
@@ -29752,7 +29861,7 @@ Hajdúhadház District
 Hajdúnánás District
 Hajdúszoboszló District
 Háje
-Hajeb el Ayoun
+Hajeb El Ayoun
 Hájek
 Háje nad Jizerou
 Hajjah
@@ -29892,6 +30001,7 @@ Hameln-Pyrmont District
 Ham-en-Artois
 Hamerz
 Hames-Boucres
+Hamet Jerid
 Hämikon
 Hamilton
 Hamilton (town)
@@ -29910,7 +30020,9 @@ Hamm
 Hamma Bouziane
 Hammam Chott
 Hammamet
+Hammam Ghezèze
 Hammam-Lif
+Hammam Sousse
 Hammana
 Hammarland
 Hammarö Municipality
@@ -30268,6 +30380,7 @@ Haßberge District
 Hassell
 Hasselroth
 Hasselt
+Hassi El Ferid
 Hässleholm Municipality
 Haßmersheim
 Hastière
@@ -30497,6 +30610,7 @@ Haysville
 Hayward
 Haywood County
 Hazebrouck
+Hazeg Ellouza
 Hazel Dell
 Hazelton
 Hazelwood
@@ -30512,6 +30626,8 @@ Hažlín
 Hazlov
 Hazmieh
 Hazor HaGelilit
+Hazoua
+Hbabsa
 Head of the Harbor
 Healdsburg
 Heard County
@@ -30526,6 +30642,7 @@ Hébécourt
 Hebei
 Hébertville
 Hébertville-Station
+Hebira
 Hebron
 Hebron Township
 Hebsack
@@ -30873,6 +30990,7 @@ Hergatz
 Hergensweiler
 Hergiswil
 Hergiswil bei Willisau
+Hergla
 Hergnies
 Hergugney
 Héric
@@ -31376,6 +31494,7 @@ Hjartdal
 Hjelmeland
 Hjo Municipality
 Hjørring
+Hkaima
 Hlabisa
 Hladké Životice
 Hladovka
@@ -34511,11 +34630,13 @@ Jean Lafitte
 Jean Marie River
 Jeanménil
 Jeannette
+Jebiniana
 Jebsheim
 Jeceaba
 Jecheon
 Jeddah
 Jeddo
+Jedelienne
 Jedenspeigen
 Jedlá
 Jedlany
@@ -34576,6 +34697,7 @@ Jembrana Regency
 Jemeppe-sur-Meuse
 Jemeppe-sur-Sambre
 Jemielno commune
+Jemmal
 Jemnice
 Jemníky
 Jena
@@ -34638,7 +34760,7 @@ Jerichower Land District
 Jericó
 Jeriquara
 Jeřišno
-Jerissa
+Jérissa
 Jeřmanice
 Jermyn
 Jerome
@@ -34737,6 +34859,7 @@ Jezvé
 Jezzine
 Jhansi
 Jharkhand
+Jhina
 Jiangsu
 Jiangxi
 Jicalapa
@@ -34758,6 +34881,7 @@ Jijoca de Jericoacoara
 Jilem
 Jilemnice
 Jilin
+Jilma
 Jilotlán de los Dolores
 Jílové
 Jílové u Držkova
@@ -35011,6 +35135,7 @@ Joso
 Josselin
 Jossgrund
 Josvainiai
+Jouaouda
 Jouarre
 Jouars-Pontchartrain
 Jouaville
@@ -35021,6 +35146,7 @@ Joué-du-Bois
 Joué-lès-Tours
 Joué-sur-Erdre
 Jougne
+Joumine
 Jounieh
 Jouques
 Jouqueviel
@@ -35385,9 +35511,12 @@ Kakogawa
 Kakolewnica commune
 Kaktovik
 Kakuda
-Kalaa Kebira
-Kalaa Sghira
+Kalâa Kebira
+Kalaa-Maaden-Farksan
+Kalâa Seghira
 Kalâat el-Andalous
+Kalaat es Senam
+Kalâat Khasba
 Kalach
 Kalacheyevsky District
 Kaladzhinskoye
@@ -36174,7 +36303,6 @@ Keene
 Keerbergen
 Keerom Regency
 Keetmanshoop
-Kef
 Kefallonia
 Kefar Vradim
 Kefenrod
@@ -36320,6 +36448,8 @@ Kerinci Regency
 Kerkdriel
 Kerkem
 Kerken
+Kerkennah
+Kerker
 Kerkhove
 Kerkom
 Kerkom-bij-Sint-Truiden
@@ -36367,6 +36497,7 @@ Kesklinn
 Keslerovskoye
 Kesovogorsky District
 Kesowo commune
+Kesra
 Kessel
 Kesseldorf
 Kessel-Lo
@@ -36385,6 +36516,7 @@ Kethel
 Ketkovice
 Ketrzyn County
 Ketsch
+Kettana
 Kettering
 Kettershausen
 Kety
@@ -36425,6 +36557,7 @@ Khadyzhensk
 Khâi-Ma
 Khakassia
 Khakurinokhablskoye
+Khalidia
 Khaling
 Khamdang
 Khamovniki District
@@ -36474,11 +36607,14 @@ Khimki
 Khipisa
 Khivsky District
 Khlevensky District
+Khmairia
 Khmelnytskyi
 Khmelnytskyi District
 Khmelnytskyi Region
 Khmilnyk
 Khmilnyk District
+Khmouda
+Khniss
 Khobi
 Khodoriv
 Khokholsky District
@@ -37364,6 +37500,7 @@ Konawe Islands Regency
 Konawe Regency
 Končanica
 Konče
+Kondar
 Kondinin
 Kondinsky District
 Kondopozhsky District
@@ -37478,6 +37615,7 @@ Korb
 Korba
 Korbach
 Korbeek-Dijle
+Korbous
 Korbussen
 Korçë
 Korçë County
@@ -37898,7 +38036,6 @@ Kráľovský Chlmec
 Kralupy nad Vltavou
 Kralupy u Chomutova
 Králův Dvůr
-Kram
 Kramatorsk
 Kramatorsk District
 Kramfors Municipality
@@ -38278,10 +38415,12 @@ Ksawerow commune
 Kšely
 Ksiazki commune
 Ksiaz Wielki commune
+Ksibet El Mediouni
 Ksibet Thrayet
 Kšice
 Kšinná
 Ksiromeri
+Ksour Essef
 Kstovo
 Kstovsky District
 Ktiš
@@ -39432,6 +39571,7 @@ Lagos de Moreno
 Lagos State
 La Gouesniere
 La Goulafrière
+La Goulette
 La Goutelle
 Lago Verde
 Lagovskoye
@@ -39744,6 +39884,7 @@ La Marne
 Lamarque
 Lamarque-Pontacq
 Lamarque-Rustaing
+La Marsa
 Lamar Township
 La Martre
 La Martyre
@@ -39858,7 +39999,6 @@ Lamporo
 Lamprechtshausen
 Lampung
 Lamswaarde
-Lamta
 La Muela
 La Mulatière
 La Muraz
@@ -40558,6 +40698,7 @@ Lasne-Chapelle-Saint-Lambert
 Lasnigo
 La Sommette
 La Sonnaz
+La Soukra
 La Souterraine
 Las Ovejas
 Las Palmas
@@ -40999,6 +41140,7 @@ Lebanon Township
 Le Ban-Saint-Martin
 Le Barboux
 Le Barcarès
+Le Bardo
 Le Barp
 Le Barroux
 Le Bar-sur-Loup
@@ -41380,6 +41522,7 @@ Lekenik
 Leki Szlacheckie commune
 Lekkerkerk
 Leknica
+Le Kram
 Le Kremlin-Bicêtre
 Leksand
 Leksand Municipality
@@ -41387,6 +41530,7 @@ Leksvik
 Lekunberri
 Lekwa
 Lekwa-Teemane
+Lela
 Leľa
 Le Lamentin
 Leland
@@ -41494,6 +41638,7 @@ Lemps
 Lempster
 Lempty
 Lempzours
+Lemta
 Lemud
 Le Muy
 Lemvig
@@ -41975,6 +42120,7 @@ Lessoc
 Lessolo
 Lessona
 Les Sorinières
+Lessouda
 Les Souhesmes-Rampont
 Lessy
 Lestards
@@ -44448,6 +44594,7 @@ Løten
 L’Anse-Saint-Jean
 M´Banza Congo
 M'diq-Fnideq Prefecture
+M'saken
 M'Sila
 M'Sila Province
 M'Tsamboro
@@ -44708,6 +44855,7 @@ Magden
 Magé
 Magelang
 Magelang Regency
+Magel Bel Abbès
 Magenta
 Mägenwil
 Mägerkingen
@@ -44936,6 +45084,7 @@ Majagual
 Majalengka Regency
 Majano
 Majastres
+Majaz al Bab
 Majcichov
 Majdalena
 Majd al-Krum
@@ -44994,6 +45143,7 @@ Makow Mazowiecki
 Makow Podhalanski
 Makromi
 Maksatikhinsky District
+Maktar
 Makubetsu
 Makueni County
 Makurazaki
@@ -46556,7 +46706,7 @@ Matipó
 Matjhabeng
 Matlapa
 Matlosana
-Matmata Nouvelle
+Matmata
 Matn
 Mato Castelhano
 Matões
@@ -47003,7 +47153,6 @@ Mediona
 Medio San Juan
 Médiouna Province
 Médis
-Medjez el-Bab
 Medley
 Medlice
 Medlov
@@ -47071,7 +47220,7 @@ Megion
 Megisti
 Megliadino San Fidenzio
 Megliadino San Vitale
-Megrine
+Mégrine
 Mégrit
 Meguro
 Méharin
@@ -47120,6 +47269,7 @@ Mejía
 Mejicanos
 Mejillones
 Mejorada del Campo
+Meknassy
 Meknès
 Meknès Prefecture
 Mel
@@ -47208,6 +47358,7 @@ Mellieha
 Mellikon
 Mellingen
 Mello
+Melloulèche
 Mělnické Vtelno
 Mělník
 Mělník District
@@ -47338,7 +47489,21 @@ Menton
 Mentque-Nortbécourt
 Mentz
 Menucourt
+Menzel Abderrahmane
 Menzel Bourguiba
+Menzel Bouzaiane
+Menzel Bouzelfa
+Menzel Chaker
+Menzel El Habib
+Menzel Ennour
+Menzel Farsi
+Menzel Hayet
+Menzel Horr
+Menzel Jemil
+Menzel Kamel
+Menzel Mehiri
+Menzel Salem
+Menzel Temime
 Menzies
 Menziken
 Menzingen
@@ -47565,8 +47730,8 @@ Mespuits
 Mesquer
 Mesquita
 Mesquite
+Messaadine
 Messac
-Messadine
 Messancy
 Messei
 Messein
@@ -47620,12 +47785,12 @@ Methven
 Métigny
 Metileo
 Metković
-Metlaoui
+Métlaoui
 Metlika
 Metline
 Metnitz
 Metolius
-Metouia
+Métouia
 Metro
 Metrogorodok District
 Métropole de Lyon
@@ -47777,6 +47942,7 @@ Mezzojuso
 Mezzoldo
 Mezzolombardo
 Mezzomerico
+Mezzouna
 Mezzovico-Vira
 Međimurje County
 Mgarr
@@ -48594,6 +48760,7 @@ Mnichov
 Mníchova Lehota
 Mnichovice
 Mnichovo Hradiště
+Mnihla
 Mníšek
 Mníšek nad Hnilcom
 Mníšek nad Popradom
@@ -48722,7 +48889,7 @@ Mogoytuysky District
 Moguer
 Moha
 Mohács District
-Mohamedia-Fouchana
+Mohamedia
 Mohammadia
 Mohammadia Prefecture
 Mohave County
@@ -50445,7 +50612,6 @@ Moudon
 Mougins
 Mouila
 Mouilleron-le-Captif
-Moulares
 Moularès
 Moulayrès
 Moulay Yacoub Province
@@ -50655,7 +50821,6 @@ Mrocza commune
 Mrozy commune
 Mrsklesy
 Mrtník
-Msaken
 Mscislaŭ
 Mscislaŭ District
 Msciwojow commune
@@ -51178,6 +51343,7 @@ Naâma Province
 Naantali
 Naarden
 Naas
+Naassen
 Nabari
 Nabarniz
 Nabatieh
@@ -51210,6 +51376,8 @@ Nadarzyn commune
 Nadějov
 Nadezhdinsky District
 Nadezhnenskoye
+Nadhour
+Nadhour-Sidi Ali Ben Abed
 Nadi
 Nadlice
 Nador
@@ -51732,6 +51900,7 @@ Nebahovy
 Nebanice
 Nebbi District
 Nebbiuno
+Nebeur
 Nébian
 Nébias
 Nebikon
@@ -51825,6 +51994,7 @@ Nee Soon
 Neewiller-pres-Lauterbourg
 Neffes
 Neffiès
+Nefta
 Neftegorskoye
 Neftekamsk
 Neftenbach
@@ -53526,6 +53696,7 @@ Nousseviller-lès-Bitche
 Nousseviller-Saint-Nabor
 Nouvelle Aquitaine
 Nouvelle-Église
+Nouvelle Matmata
 Nouvion
 Nouvion-sur-Meuse
 Nouvoitou
@@ -56184,6 +56355,7 @@ Otwock
 Otwock County
 Otyn commune
 Otzberg
+Ouabed Khazanet
 Ouachita County
 Ouachita Parish
 Ouagadougou
@@ -56196,6 +56368,7 @@ Ouargla Province
 Ouarzazate
 Ouarzazate Province
 Ouches
+Ouchtata-Jmila
 Oucmanice
 Oud-Alblas
 Oudalle
@@ -56222,6 +56395,7 @@ Oude Westen
 Oudezeele
 Oudheusden
 Oud-Heverlee
+Oudhref
 Oudkarspel
 Oud-Lutten
 Oudoleň
@@ -56241,9 +56415,11 @@ Oued Amizour
 Oued Djemaa
 Oued Ed-Dahab Province
 Oued Ellil
+Oued Melliz
 Oued Rhiou
 Ouégoa
 Oueilloux
+Ouerdanin
 Oueslatia
 Ouessant
 Ouest Department
@@ -56260,8 +56436,10 @@ Oujda
 Oujda-Angad Prefecture
 Oulainen
 Oulchy-le-Château
+Ouled Chamekh
 Ouled Djellal Province
 Ouled Fayet
+Ouled Haffouz
 Oulens-sous-Échallens
 Oulens-sur-Lucens
 Oulins
@@ -62388,7 +62566,7 @@ Radenci
 Radenice
 Radenín
 Radenthein
-Rades
+Radès
 Radešín
 Radešínská Svratka
 Radětice
@@ -62511,6 +62689,7 @@ Rafajovce
 Rafard
 Raffadali
 Rafina-Pikermi
+Raf Raf
 Rafz
 Raggal
 Ragged Island
@@ -62526,6 +62705,7 @@ Ragusa
 Raguva
 Rahačoŭ
 Rahačoŭ District
+Rahal
 Rahart
 Rahat
 Rahden
@@ -62581,6 +62761,7 @@ Rakhine State
 Rakhiv
 Rakhiv District
 Rakhmanovskoye
+Rakhmat
 Rakitovo
 Rakityansky District
 Rakkeby
@@ -62808,6 +62989,7 @@ Rapperswil
 Rapperswil-Jona
 Rappottenstein
 Rapšach
+Raqqada
 Ráquira
 Rari
 Raritan
@@ -62828,6 +63010,7 @@ Rašín
 Rasina District
 Rasines
 Rasinja
+Ras Jebel
 Raška
 Raška District
 Raškovice
@@ -63093,6 +63276,7 @@ Redenção do Gurgueia
 Redene
 Redentora
 Redessan
+Redeyef
 Redfield
 Red Hill
 Red Hook (town)
@@ -63178,6 +63362,7 @@ Régnié-Durette
 Regniowez
 Régny
 Regola
+Regueb
 Reguengos de Monsaraz
 Reguiny
 Réguiny
@@ -63264,6 +63449,7 @@ Réjaumont
 Rejchartice
 Rejdová
 Rejet-de-Beaulieu
+Rejiche
 Rejowiec commune
 Rejowiec Fabryczny
 Rejowiec Fabryczny commune
@@ -63281,6 +63467,7 @@ Relmo
 Reľov
 Relvado
 Rely
+Remada
 Remanso
 Remanzacco
 Remaufens
@@ -64270,6 +64457,7 @@ Rizaucourt-Buchey
 Rize
 Rize Province
 Rizziconi
+Rjim Maatoug
 Ro
 Roaix
 Roan
@@ -65173,6 +65361,7 @@ Rougeries
 Rougiers
 Rougnat
 Rougon
+Rouhia
 Rouhling
 Rouiba
 Rouillac
@@ -65966,6 +66155,7 @@ Sagy
 Saha District
 Sahagún
 Şahinbey
+Sahline Moôtmar
 Sahorre
 Sahtu Region
 Sahuaripa
@@ -67848,7 +68038,9 @@ Sakhnin
 Šakiai District Municipality
 Saki City Municipality
 Saki District
+Sakiet Eddaïer
 Sakiet Ezzit
+Sakiet Sidi Youssef
 Sakon Nakhon Province
 Sakskøbing
 Sakteng
@@ -70375,6 +70567,7 @@ São Tiago
 São Tomás de Aquino
 São Tomé
 São Torcato
+Saouaf
 São Valentim
 São Valentim do Sul
 São Valério da Natividade
@@ -70906,6 +71099,7 @@ Sazená
 Sazomín
 Sazos
 Sazovice
+Sbeitla
 Sbiba
 Sbikha
 Scaer
@@ -71575,6 +71769,7 @@ Seixal
 Seiyo
 Seja
 Sejkov
+Sejnane
 Sejny County
 Sejong
 Sejřek
@@ -71782,6 +71977,7 @@ Seneca County
 Seneca Falls
 Seneca Nation of Indians
 Senec District
+Sened
 Senèdes
 Seneffe
 Seneghe
@@ -72666,19 +72862,33 @@ Side
 Sidenreng Rappang Regency
 Siderno
 Siderópolis
+Sidi Aïch
+Sidi Ali Ben Aoun
+Sidi Alouane
+Sidi Ameur-Mesjed-Aïssa
 Sidi Bel Abbès
 Sidi Bel Abbès Province
+Sidi Bennour
 Sidi Bennour Province
 Sidi Bou Ali
+Sidi Boubaker
+Sidi Bou Rouis
 Sidi Bou Said
 Sidi Bouzid
 Sidi Bouzid Governorate
 Sidi Brahim
+Sidi El Hani
+Sidi Hassine
 Sidi Ifni Province
+Sidi Ismaïl
+Sidi Jedidi
 Sidi Kacem
 Sidi Kacem Province
+Sidi Makhlouf
+Sidi Morched
 Sidi Slimane Province
 Sidi Thabet
+Sidi Zid-Awled Moulahem
 Sidney
 Sidney (town)
 Sidney (village)
@@ -73159,6 +73369,7 @@ Sissa
 Sissach
 Sissach District
 Sissa Trecasali
+Sisseb-Driaat
 Sisseln
 Sissonne
 Sissy
@@ -73478,6 +73689,7 @@ Slopnice commune
 Sloten
 Sloterdijk
 Slough
+Slouguia
 Sloup
 Sloupnice
 Sloupno
@@ -73524,6 +73736,7 @@ Smalavičy
 Smalavičy District
 Smallingerland
 Small Point-Adam's Cove-Blackhead-Broad Cove
+Smâr
 Smarano
 Smarhoń
 Smarhoń District
@@ -73917,6 +74130,7 @@ Sölvesborg
 Sölvesborg Municipality
 Solza
 Soma
+Somâa
 Somaglia
 Somain
 Somaliland
@@ -74206,8 +74420,9 @@ Souillac
 Souilly
 Souk Ahras
 Souk Ahras Province
+Souk Jedid
 Souk Lahad
-Soukra
+Souk Sebt
 Soula
 Soulac-sur-Mer
 Soulaines-Dhuys
@@ -76598,6 +76813,7 @@ Tabanan Regency
 Tabaporã
 Tabapuã
 Tábara Arriba
+Tabarka
 Tabasaransky District
 Tabasco
 Tabatinga
@@ -76792,6 +77008,7 @@ Takatori
 Takatsuki
 Takayama
 Takehara
+Takelsa
 Takeo
 Takéo Province
 Taketa
@@ -76924,6 +77141,7 @@ Tambovsky District
 Tambrauw Regency
 Tambre
 Tame
+Tamerza
 Tameside
 Támesis
 Tamiami Trail Reservation
@@ -77233,6 +77451,7 @@ Tata District
 Tatamy
 Tataouine
 Tataouine Governorate
+Tataouine Sud
 Tata Province
 Tatarbunary
 Tatarsk
@@ -77351,9 +77570,11 @@ Tayshet
 Taza
 Tazacorte
 Taza Province
+Tazerka
 Tazewell
 Tazewell County
 Tazmalt
+Tazougrane-Boukrim-Zaouiet El Mgaies
 Tazovsky District
 Tbilisi
 Tbilisskoye
@@ -77380,8 +77601,10 @@ Tebicuary
 Tebicuarymí
 Tebing Tinggi
 Tebo Regency
-Teboulba
-Teboursouk
+Téboulba
+Teboulbou
+Tebourba
+Téboursouk
 Tecalitlán
 Tecapán
 Tecate
@@ -77880,6 +78103,7 @@ Thabo Mofutsanyana
 Thái Nguyên Province
 Thairé
 Thal
+Thala
 Thalamy
 Thal District
 Thal-Drulingen
@@ -77924,6 +78148,7 @@ The Hills
 Theillay
 Theix
 Theizé
+Thelepte
 Thélod
 Thelonne
 Thélus
@@ -77973,6 +78198,7 @@ Thianges
 Thiant
 Thiaucourt-Regniéville
 Thiaville-sur-Meurthe
+Thibar
 Thiberville
 Thibivillers
 Thibodaux
@@ -78136,6 +78362,7 @@ Thury-sous-Clermont
 Thusis
 Thyez
 Thy-le-Château
+Thyna
 Tiachiv
 Tiachiv District
 Tiahuanacu
@@ -78447,6 +78674,7 @@ Tlanchinol
 Tlaxcala
 Tlaxcoapan
 Tlazazalca
+Tlelsa
 Tlemcen
 Tlemcen Province
 Tlmače
@@ -78992,6 +79220,7 @@ Touggourt
 Touggourt Province
 Touho
 Touillon-et-Loutelet
+Touiref
 Toul
 Touligny
 Toulon
@@ -79058,6 +79287,7 @@ Toutens
 Toutry
 Touvois
 Touvre
+Touza
 Toužetín
 Toužim
 Tovačov
@@ -81172,6 +81402,7 @@ Utica
 Útica
 Útila
 Utinga
+Utique
 Utirik Atoll
 Uto
 Utqiagvik
@@ -87594,6 +87825,7 @@ Yzeure
 Yzeux
 Yığılca
 Yıldırım
+Zaafrana-Dir Kef
 Zaamar
 Zaamslag
 Zaandam
@@ -87811,10 +88043,14 @@ Zanè
 Zanica
 Zanjan
 Zanja Pytá
+Zannouch
 Zanzan District
 Zanzibar
 Zao
 Zaostrovskoye
+Zaouiet Djedidi
+Zaouiet Kontoch
+Zaouiet Sousse
 Zaozerne
 Zaozersk
 Zaozyornoye
@@ -87853,6 +88089,7 @@ Zara
 Zaragoza
 Zarasai
 Zarasai District Municipality
+Zarat
 Zárate
 Zarautz
 Žáravice
@@ -87889,6 +88126,7 @@ Zarza la Mayor
 Zarzalejo
 Zarzir
 Zarzis
+Zarzis Nord
 Zas
 Zásada
 Záskalie
@@ -88047,6 +88285,7 @@ Zeist
 Zejtun
 Zelarino
 Želatovice
+Zelba
 Zelbio
 Zele
 Želeč
@@ -88153,6 +88392,7 @@ Zephyrhills
 Zeppelinheim
 Zerain
 Zeralda
+Zéramdine
 Žeranovice
 Žeravice
 Žeraviny
@@ -88482,6 +88722,7 @@ Zoutleeuw
 Zovencedo
 Zreče
 Zrenjanin
+Zriba
 Zrnovci
 Zruč nad Sázavou
 Zruč-Senec
