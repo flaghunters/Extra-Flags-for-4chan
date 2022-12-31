@@ -385,7 +385,7 @@ Adanero
 Adapazarı
 Adarovskoye
 Adaúfe
-Adazi
+Ādaži Municipality
 Ad Dakhiliyah Governorate
 Ad Dhahirah Governorate
 Addington
@@ -565,7 +565,7 @@ Agliana
 Agliano Terme
 Agliè
 Aglientu
-Aglona
+Aglona Parish
 Ağlı
 Agna
 Agnadello
@@ -880,8 +880,8 @@ Aizarnazabal
 Aizawl
 Aizenay
 Aizier
-Aizkraukle
-Aizpute
+Aizkraukle Municipality
+Aizpute Parish
 Aizubange
 Aizumi
 Aizumisato
@@ -957,7 +957,7 @@ Aklavik
 Akmene
 Akmene District Municipality
 Akmola Region
-Akniste
+Aknīste Parish
 Ako
 Akouda
 Akpınar
@@ -1633,7 +1633,7 @@ Alnashsky District
 Alo
 Aloândia
 Alofi
-Aloja
+Aloja Parish
 Alojzov
 Alona
 Alonnisos
@@ -1702,7 +1702,7 @@ Alstahaug
 Alstead
 Alsting
 Alston
-Alsunga
+Alsunga Parish
 Alta
 Altach
 Altadena
@@ -1873,7 +1873,8 @@ Altınözü
 Altıntaş
 Altınyayla
 Alucra
-Aluksne
+Alūksne
+Alūksne Municipality
 Aluminé
 Alumínio
 Alupka
@@ -1982,7 +1983,7 @@ Amaseno
 Amasra
 Amasya
 Amasya Province
-Amatas
+Amata Parish
 Amathole
 Amatitán
 Amatitlán
@@ -2726,10 +2727,10 @@ Apatzingán
 Apayao
 Apchat
 Apchon
-Ape
 Apecchio
 Apeldoorn
 Apeldoorn Zuidwest
+Ape Parish
 Aperibé
 Apetlon
 Apex
@@ -4106,6 +4107,7 @@ Augny
 Augsburg
 Augsburg District
 Augsbuurt
+Augšdaugava Municipality
 Augst
 Augusta
 Augusta County
@@ -4616,7 +4618,7 @@ Babina Greda
 Babinavičy
 Babindol
 Babinec
-Babite
+Babīte Parish
 Baboszewo commune
 Babrujsk
 Babrujsk District
@@ -5075,7 +5077,7 @@ Baldingen
 Baldissero Canavese
 Baldissero d'Alba
 Baldissero Torinese
-Baldones
+Baldone Parish
 Baldovce
 Baldramsdorf
 Baldwin
@@ -5188,7 +5190,7 @@ Baltasinsky District
 Bălți
 Baltimore
 Baltimore County
-Baltinava
+Baltinava Parish
 Baltiysk
 Baltmannsweiler
 Baltschieder
@@ -5196,7 +5198,7 @@ Baltzenheim
 Balvanera
 Balvano
 Balve
-Balvi
+Balvi Municipality
 Balzac
 Balzan
 Balzers
@@ -5974,7 +5976,7 @@ Baurech
 Baures
 Bauru
 Bauschelt
-Bauska
+Bauska Municipality
 Bauta
 Bautista Saavedra Province
 Bautzen District
@@ -7484,7 +7486,6 @@ Bever
 Bevere
 Beveren
 Beveren-aan-de-IJzer
-Beverina
 Beverino
 Beverley
 Beverly
@@ -10450,7 +10451,7 @@ Broadwater County
 Broadway
 Broc
 Broccostella
-Broceni
+Brocēni
 Brochier
 Brochon
 Brochow commune
@@ -11258,7 +11259,7 @@ Bürstadt
 Burt County
 Burthecourt-aux-Chênes
 Burtigny
-Burtnieki
+Burtnieki Parish
 Burtoncourt
 Buru Regency
 Burwood
@@ -13236,7 +13237,7 @@ Carnesville
 Carneys Point Township
 Carnide
 Carnières
-Carnikava
+Carnikava Parish
 Carnin
 Carnoët
 Carnota
@@ -14802,7 +14803,7 @@ Cesinali
 Češinovo-Obleševo
 Cesio
 Cesiomaggiore
-Cesis
+Cēsis Municipality
 Česká
 Česká Bělá
 Česká Bříza
@@ -14856,7 +14857,7 @@ Cestice
 Čestice
 Čestín
 Čestlice
-Cesvaine
+Cesvaine Parish
 Cetara
 Cetechovice
 Cetenov
@@ -16512,7 +16513,7 @@ Cianciana
 Cianjur Regency
 Cianorte
 Cibiana di Cadore
-Cibla
+Cibla Parish
 Cibola County
 Ciboure
 Cicagna
@@ -19470,7 +19471,7 @@ Daga
 Dagala
 Dagana
 Daganzo de Arriba
-Dagda
+Dagda Parish
 Dägerlen
 Dagersheim
 Dagestan
@@ -19772,7 +19773,6 @@ Dauendorf
 Daugai
 Daugailiai
 Daugavpils
-Daugavpils novads
 Daugherty Township
 Daujenai
 Daumazan-sur-Arize
@@ -20433,6 +20433,7 @@ Diemerswil
 Diemtigen
 Dienne
 Dienten am Hochkönig
+Dienvidkurzemes Municipality
 Dienville
 Diepenbeek
 Diepenheim
@@ -20722,7 +20723,7 @@ Dobbiaco
 Dobbins Heights
 Dobbs Ferry
 Dobczyce
-Dobele
+Dobele Municipality
 Dobelice
 Doberdò del Lago
 Dobersberg
@@ -21831,7 +21832,7 @@ Duncan
 Duncannon
 Duncansville
 Duncan Township
-Dundaga
+Dundaga Parish
 Dundalk
 Dundas
 Dundee
@@ -21904,7 +21905,7 @@ Durbach
 Durban
 Durban-Corbières
 Durban-sur-Arize
-Durbe
+Durbe Parish
 Dürbheim
 Durbin
 Durbuy
@@ -23324,7 +23325,7 @@ Englos
 Engollon
 Engomer
 Engstingen
-Engure
+Engure Parish
 Engwiller
 Enigma
 Eningen unter Achalm
@@ -23555,7 +23556,7 @@ Ergene
 Ergenzingen
 Ergersheim
 Ergisch
-Erglu
+Ērgļi Parish
 Ergnies
 Ergny
 Ergue-Gaberic
@@ -26824,7 +26825,7 @@ Garin
 Garínoain
 Garinsky District
 Garissa County
-Garkalne
+Garkalne Parish
 Garlan
 Garland
 Garland County
@@ -29083,7 +29084,7 @@ Grivesnes
 Grizzana Morandi
 Groaíras
 Grobbendonk
-Grobina
+Grobina Parish
 Gröbming
 Grobogan Regency
 Grocka
@@ -29707,6 +29708,7 @@ Gujo
 Gujranwala
 Gukovo
 Gulbene
+Gulbene Municipality
 Guldbæk
 Guldborgsund
 Gulen
@@ -33308,7 +33310,7 @@ Ikryaninsky District
 Iksal
 Iksan
 Iksha
-Ikskile
+Ikšķile
 Ikusaka
 Ikwezi
 Ila
@@ -33430,7 +33432,7 @@ Ilpendam
 Ilsfeld
 Ilshofen
 Ilsky
-Ilukste
+Ilūkste
 Ilulissat
 Ilut
 Ilvesheim
@@ -33530,7 +33532,7 @@ Incisa Valdarno
 Inconfidentes
 Incourt
 Incudine
-Incukalna
+Inčukalns Parish
 Indaiabira
 Indaial
 Indaiatuba
@@ -34849,9 +34851,9 @@ Jaulny
 Jaumave
 Jaun
 Jaunay-Marigny
-Jaunjelgava
-Jaunpiebalga
-Jaunpils
+Jaunjelgava Parish
+Jaunpiebalga Parish
+Jaunpils Parish
 Jaupaci
 Jáuregui
 Jauru
@@ -34936,8 +34938,8 @@ Jegunovce
 Jehnědí
 Jeju
 Jeju Province
-Jekabpils
-Jekabpils novads
+Jēkabpils
+Jēkabpils Municipality
 Jekyll Island
 Jelcz-Laskowice commune
 Jelenec
@@ -34946,7 +34948,7 @@ Jelenia Gora County
 Jelenje
 Jeleśnia Commune
 Jelgava
-Jelgavas novads
+Jelgava Municipality
 Jelka
 Jellum
 Jels
@@ -35588,7 +35590,7 @@ Jurema
 Juriens
 Juripiranga
 Jurkova Voľa
-Jurmala
+Jūrmala
 Jurmey
 Jur nad Hronom
 Jurong Central
@@ -36053,7 +36055,7 @@ Kanda
 Kandalaksha
 Kandalakshsky District
 Kandal Province
-Kandava
+Kandava Parish
 Kandergrund
 Kandern
 Kandersteg
@@ -36326,7 +36328,7 @@ Kars
 Karsakiškis
 Kärsämäki
 Karsau
-Karsava
+Kārsava
 Karsky
 Kars Province
 Karstula
@@ -36605,7 +36607,7 @@ Keffenach
 Kefferhausen
 Kef Governorate
 Kegalle
-Kegums
+Ķegums
 Kehl
 Kehra
 Kehrsatz
@@ -36618,7 +36620,7 @@ Keith County
 Keizer
 Kejnice
 Kejžlice
-Kekava
+Ķekava Municipality
 Kelantan
 Kelburn
 Kelč
@@ -37605,7 +37607,7 @@ Kocbeře
 Koceljeva
 Koceľovce
 Kocelovice
-Koceni
+Kocēni Parish
 Kočevje
 Kochanava
 Kochánky
@@ -38399,7 +38401,7 @@ Krásensko
 Krašić
 Krasíkov
 Kraskovo
-Kraslava
+Krāslava Municipality
 Kraslice
 Krásná
 Krásná Hora
@@ -38591,7 +38593,7 @@ Křimov
 Krimpen aan de Lek
 Krimpen aan den IJssel
 Krimpenerwaard
-Krimulda
+Krimulda Parish
 Krinau
 Křinec
 Křinice
@@ -38735,7 +38737,7 @@ Kruševo
 Krušinec
 Krušovce
 Krušovice
-Krustpils
+Krustpils Parish
 Kruszwica commune
 Kruth
 Krutinsky District
@@ -38854,7 +38856,7 @@ Kukučínov
 Kula
 Kula Norinska
 Kulautuva
-Kuldiga
+Kuldīga Municipality
 Kulebaki
 Kulebaksky District
 Kuleönü
@@ -39039,6 +39041,7 @@ Kurudere
 Kurume
 Kurumkansky District
 Kurunegala
+Kurzeme
 Kusa
 Kuşadası
 Kusapín
@@ -41159,6 +41162,7 @@ La Terrasse-sur-Dorlay
 Laterza
 La Tessoualle
 La Teste-de-Buch
+Latgale
 La Thieuloye
 Lathrop
 Lathrop Township
@@ -42982,7 +42986,7 @@ Lieksa
 Lieĺčycy
 Lieĺčycy District
 Lieli
-Lielvarde
+Lielvārde
 Liempde
 Lienchiang County
 Liencourt
@@ -42990,7 +42994,7 @@ Lienden
 Liendo
 Lienz
 Lienz District
-Liepaja
+Liepāja
 Liepieĺ
 Liepieĺ District
 Liepvre
@@ -43041,7 +43045,7 @@ Liffol-le-Grand
 Liffol-le-Petit
 Liffre
 Lifou
-Ligatne
+Līgatne
 Ligerz
 Light
 Lighthouse Point
@@ -43139,7 +43143,7 @@ Limay
 Limay Mahuida
 Limbach
 Limbadi
-Limbazi
+Limbaži Municipality
 Limbiate
 Limbourg
 Limbrassac
@@ -43497,7 +43501,8 @@ Liuboml
 Liubotyn
 Liudvinavas
 Livadeia
-Livani
+Līvāni
+Līvāni Municipality
 Livensky District
 Live Oak
 Live Oak County
@@ -44419,7 +44424,7 @@ Luan Toro
 Ľubá
 Lubaczow County
 Luban
-Lubana
+Lubāna
 Luban commune
 Luban County
 Lubango
@@ -44590,7 +44595,7 @@ Ludwigsburg District
 Ludwigshafen am Rhein
 Ludwigslust-Parchim District
 Ludwin commune
-Ludza
+Ludza Municipality
 Lu e Cuccaro Monferrato
 Luemschwiller
 Lüen
@@ -45203,7 +45208,7 @@ Madiswil
 Madiun
 Madiun Regency
 Madolenihmw
-Madona
+Madona Municipality
 Madone
 Madonna del Sasso
 Madranges
@@ -45817,7 +45822,7 @@ Malpartida de Cáceres
 Malpartida de Plasencia
 Malpas
 Malpica de Bergantiños
-Malpils
+Mālpils Parish
 Malras
 Malroy
 Malsburg-Marzell
@@ -46887,7 +46892,7 @@ Marull
 Marum
 Marumbi
 Marumori
-Marupe
+Mārupe Municipality
 Maruri-Jatabe
 Maruševec
 Marushkinskoye
@@ -48100,7 +48105,7 @@ Merseyside
 Mersin
 Mersin Province
 Mers-les-Bains
-Mersrags
+Mērsrags Parish
 Mersuay
 Merten
 Merthyr Tydfil
@@ -52276,7 +52281,7 @@ Naujaat
 Naujan-et-Postiac
 Naujoji Akmene
 Naujoji Ūta
-Naukseni
+Naukšēni Parish
 Naumburg
 Naundorf
 Naur District
@@ -52638,7 +52643,7 @@ Nerekhtsky District
 Nerenstetten
 Neresheim
 Nerestce
-Nereta
+Nereta Parish
 Nereto
 Nerima
 Neringa Municipality
@@ -53194,8 +53199,8 @@ Nibelle
 Nibionno
 Nibles
 Nibok District
-Nica
 Nicanor E. Molinas
+Nīca Parish
 Nicchio
 Nice
 Niceto Pérez
@@ -55435,7 +55440,7 @@ Ogooué-Lolo Province
 Ogooué-Maritime Province
 Ogori
 Ogose
-Ogre
+Ogre Municipality
 Oguchi
 Ogudnevskoye
 Ogulin
@@ -55602,6 +55607,7 @@ Olá
 Olaberria
 Olaeta
 Olaine
+Olaine Municipality
 Olanchito
 Olancho Department
 Olanta
@@ -57182,7 +57188,7 @@ Ozinsky District
 Özkonak
 Oznice
 Ozoir-la-Ferrière
-Ozolnieki
+Ozolnieki Parish
 Ozon
 Ozora
 Ozorkow
@@ -57894,7 +57900,6 @@ Parfondeval
 Parfondrupt
 Parga
 Pargas
-Pargauja
 Parghelia
 Pargny
 Pargny-Filain
@@ -58262,7 +58267,7 @@ Pavia Township
 Pavie
 Pavilion
 Pavilly
-Pavilosta
+Pāvilosta
 Pavinsky District
 Pavľany
 Pavlice
@@ -59595,6 +59600,7 @@ Pilón
 Pilot Mountain
 Pilot Point
 Pilot Rock
+Piltene
 Pilviškiai
 Pima
 Pima County
@@ -60053,7 +60059,7 @@ Plavecký Mikuláš
 Plavecký Peter
 Plavecký Štvrtok
 Plavé Vozokany
-Plavinas
+Pļaviņas
 Plavnica
 Plavsko
 Plavsky District
@@ -61728,7 +61734,7 @@ Přehýšov
 Preignac
 Preignan
 Preigney
-Preili
+Preiļi Municipality
 Preitenegg
 Preixan
 Preixana
@@ -61913,7 +61919,7 @@ Pridorozhnoye
 Priechod
 Priekopa
 Priekule
-Priekuli
+Priekuļi Parish
 Prienai District Municipality
 Priepasné
 Priero
@@ -63683,7 +63689,7 @@ Raulhac
 Raul Soares
 Rauma
 Raumati
-Rauna
+Rauna Parish
 Raunheim
 Rauris
 Rauschenberg
@@ -64352,8 +64358,8 @@ Reynosa
 Reyvroz
 Rezay
 Rezé
-Rezekne
-Rezeknes novads
+Rēzekne
+Rēzekne Municipality
 Rezh
 Rezhevsky District
 Rezina District
@@ -64591,7 +64597,7 @@ Ridgway Township
 Ridley Park
 Ridley Township
 Rie
-Riebini
+Riebiņi Parish
 Riechheimer Berg
 Riečka
 Riec-sur-Belon
@@ -64663,6 +64669,7 @@ Rifiano
 Rifreddo
 Rifu
 Riga
+Rīga
 Rigas Feraios
 Rigaud
 Riggisberg
@@ -65449,7 +65456,7 @@ Roisan
 Roisel
 Roissy-en-Brie
 Roissy-en-France
-Roja
+Roja Parish
 Rojas
 Rojava
 Rojetín
@@ -65647,7 +65654,7 @@ Roosteren
 Roost-Warendin
 Root
 Ropa commune
-Ropazi
+Ropaži Municipality
 Ropczyce
 Ropczyce Commune
 Ropczyce-Sedziszow County
@@ -66179,7 +66186,7 @@ Rubizhne
 Rubrouck
 Ruby
 Rucanelo
-Rucava
+Rucava Parish
 Rückersdorf
 Rückershausen
 Rückholz
@@ -66263,7 +66270,7 @@ Ruffrè-Mendola
 Rufina
 Rufino
 Rufus
-Rugaji
+Rugāji Parish
 Rugby
 Ruggell
 Rugles
@@ -66284,7 +66291,7 @@ Ruitz
 Ruíz
 Ruiz de Montoya
 Ruja commune
-Rujiena
+Rūjiena
 Ruka Witran
 Rulfingen
 Rully
@@ -66324,7 +66331,7 @@ Rumsiskes
 Rumson
 Rumst
 Runavík
-Rundale
+Rundāle Parish
 Rundu
 Rünenberg
 Rungis
@@ -68692,13 +68699,12 @@ Saky District
 Säkylä
 Sakyna
 Sal
-Sala
 Šaľa
 Sala Baganza
 Sala Biellese
 Sala Bolognese
 Sala Capriasca
-Salacgriva
+Salacgrīva
 Salach
 Sala Comacina
 Sala Consilina
@@ -68724,6 +68730,7 @@ Salangen
 Salans
 Salantai
 Salão
+Sala Parish
 Salaparuta
 Salar
 Salara
@@ -68731,6 +68738,7 @@ Salas
 Salaš
 Salasco
 Salaspils
+Salaspils Municipality
 Salassa
 Salatiga
 Salavas
@@ -68752,7 +68760,7 @@ Saldaña
 Saldaña de Burgos
 Saldanha Bay
 Saldanha Marinho
-Saldus
+Saldus Municipality
 Saldutiškis
 Sale
 Sale City
@@ -71560,7 +71568,7 @@ Saulcy-sur-Meurthe
 Sauldorf
 Saules
 Saulieu
-Saulkrasti
+Saulkrasti Municipality
 Saulnes
 Saulnieres
 Saulnot
@@ -72418,7 +72426,7 @@ Seitingen-Oberflacht
 Seix
 Seixal
 Seiyo
-Seja
+Seja Parish
 Sejkov
 Sejnane
 Sejny County
@@ -72463,6 +72471,7 @@ Seletice
 Seleute
 Selice
 Seligenstadt
+Sēlija
 Selinsgrove
 Selivanovsky District
 Selizharovsky District
@@ -73694,7 +73703,7 @@ Sigriswil
 Sigtuna Municipality
 Siguatepeque
 Siguer
-Sigulda
+Sigulda Municipality
 Sigy-le-Châtel
 Sihelné
 Siheung
@@ -74243,7 +74252,7 @@ Skřipel
 Skřipov
 Skřípov
 Skřivany
-Skriveri
+Skrīveri Parish
 Skršín
 Skrunda
 Skrwilno commune
@@ -74459,7 +74468,7 @@ Smilde
 Smilno
 Smilovice
 Smilovy Hory
-Smiltene
+Smiltene Municipality
 Smiřice
 Smirnovskoye
 Smirnykh
@@ -76348,7 +76357,7 @@ Stonycreek Township
 Stony Plain
 Stony Point
 Stoob
-Stopini
+Stopiņi Parish
 Stoppeldijk
 Stora Mellösa
 Stora Skedvi District
@@ -76519,7 +76528,7 @@ Stremilovskoye
 Střemošice
 Střemy
 Střeň
-Strenci
+Strenči
 Strengberg
 Strengelbach
 Strengen
@@ -77836,7 +77845,7 @@ Talovaya
 Talovsky District
 Taloyoak
 Talpa de Allende
-Talsi
+Talsi Municipality
 Taltal
 Taluyers
 Tama
@@ -78753,7 +78762,7 @@ Terssac
 Tertenia
 Teruel
 Tervel
-Tervete
+Tērvete Parish
 Terville
 Tervo
 Tervola
@@ -80982,7 +80991,7 @@ Tuk
 Tukaevsky District
 Tuklaty
 Tuktoyaktuk
-Tukums
+Tukums Municipality
 Tula
 Tula de Allende
 Tulalip Indian Reservation
@@ -82375,7 +82384,7 @@ Vailhauquès
 Vailly
 Vailly-sur-Aisne
 Vailly-sur-Sauldre
-Vainode
+Vaiņode Parish
 Vainutas
 Vairano Patenora
 Vairé
@@ -82589,6 +82598,7 @@ Valines
 Valinhos
 Valjevo
 Valka
+Valka Municipality
 Valkeakoski
 Valkenburg
 Valkenburg aan de Geul
@@ -82734,7 +82744,7 @@ Val Marie
 Valmascle
 Val Masino
 Valmestroff
-Valmiera
+Valmiera Municipality
 Valmigère
 Valmondois
 Valmont
@@ -82899,7 +82909,8 @@ Varadero
 Varadka
 Varages
 Varaignes
-Varaklani
+Varakļāni
+Varakļāni Municipality
 Varallo
 Varallo Pombia
 Varambon
@@ -82973,7 +82984,7 @@ Varjão
 Varjão de Minas
 Varjota
 Varkaus
-Varkava
+Vārkava Parish
 Várkerület District
 Värmdö Municipality
 Värmland County
@@ -83195,10 +83206,10 @@ Veciana
 Veckersviller
 Veckring
 Věcov
-Vecpiebalga
+Vecpiebalga Parish
 Vecquemont
 Vecsés District
-Vecumnieki
+Vecumnieki Parish
 Vedano al Lambro
 Vedano Olona
 Veddasca
@@ -83603,7 +83614,7 @@ Ventnor City
 Ventotene
 Ventron
 Ventspils
-Ventspils novads
+Ventspils Municipality
 Ventura
 Ventura County
 Venturada
@@ -84149,6 +84160,7 @@ Vidrà
 Vidracco
 Vidreres
 Vidukle
+Vidzeme
 Vidzy
 Viedma
 Viehdorf
@@ -84200,7 +84212,7 @@ Vierzon
 Viesca
 Vieselbach
 Viešintos
-Viesite
+Viesīte
 Vieska
 Vieska nad Blhom
 Vieska nad Žitavou
@@ -84340,7 +84352,7 @@ Vila Franca do Campo
 Vilagarcía de Arousa
 Vilagrassa
 Vilajuïga
-Vilaka
+Viļaka
 Vila Lângaro
 Vilalba
 Vilallonga de Ter
@@ -84349,7 +84361,7 @@ Vilamalla
 Vila Maria
 Vila Mariana
 Vílanec
-Vilani
+Viļāni
 Vilankulo
 Vila Nova
 Vilanova d'Escornalbou
@@ -89214,6 +89226,7 @@ Zeme
 Zemendorf-Stöttera
 Zemer
 Zemetchinsky District
+Zemgale
 Zemianska Dedina
 Zemianska Olča
 Zemianske Kostoľany
