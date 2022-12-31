@@ -1,0 +1,70 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+}
+
+.grid>div {
+    margin: 10px;
+}
+
+.sidebar-r {
+    text-align: right;
+}
+
+.flags {
+    background: url("https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/misc/about-4chan-flags-portions.png") no-repeat;
+    display: inline-block;
+    position: relative;
+}
+
+.flags-a1a2 {
+    background-position: 0px 0px;
+    width: 35px;
+    height: 25px;
+}
+
+.flags-xx {
+    background-position: -36px 0px;
+    width: 18px;
+    height: 25px;
+}
+
+.flags-apeu {
+    background-position: -55px 0px;
+    width: 35px;
+    height: 25px;
+}
+
+.flags-aqlymemmuzvaxk {
+    background-position: -91px 0px;
+    width: 69px;
+    height: 49px;
+}
+
+.flags-ancs {
+    background-position: -161px 0px;
+    width: 35px;
+    height: 25px;
+}
+
+.flags-gbes {
+    background-position: -197px 0px;
+    width: 69px;
+    height: 25px;
+}
+
+.flags-fam {
+    background-position: -267px 0px;
+    width: 18px;
+    height: 25px;
+}
+
+@media only screen and (max-width: 500px) {
+    .grid {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .sidebar-r {
+        text-align: left;
+    }
+}
