@@ -2596,6 +2596,7 @@ Anthony Township
 Anthy-sur-Léman
 Antibes
 Anticoli Corrado
+Antiesenhofen
 Antignano
 Antigonish
 Antigonish County
@@ -9919,6 +9920,7 @@ Braud-et-Saint-Louis
 Braúna
 Braúnas
 Braunau
+Braunau am Inn
 Braunau am Inn District
 Braunenweiler
 Braunfels
@@ -11169,6 +11171,7 @@ Burgeo
 Burgettstown
 Burgh
 Burghaun
+Burghausen
 Burgio
 Burgistein
 Bürglen
@@ -31813,6 +31816,7 @@ Hobšovice
 Hobøl
 Hoče-Slivnica
 Hochberg
+Hochburg-Ach
 Hochdorf
 Hochdorf District
 Hochemmingen
@@ -37163,6 +37167,7 @@ Kirchberg an der Raab
 Kirchberg in Tirol
 Kirchbichl
 Kirchdorf
+Kirchdorf am Inn
 Kirchdorf an der Iller
 Kirchdorf an der Krems District
 Kirchdorf in Tirol
@@ -48899,6 +48904,7 @@ Miniac-Morven
 Miniac-sous-Becherel
 Minidoka County
 Minihof-Liebau
+Mining
 Minisink
 Ministro Andreazza
 Minitonas
@@ -50927,6 +50933,7 @@ Morsbronn-les-Bains
 Mörsch
 Morschach
 Morschen
+Mörschwang
 Mörschwil
 Morschwiller
 Morschwiller-le-Bas
@@ -51405,6 +51412,7 @@ Mühlhausen
 Mühlhausen-Ehingen
 Mühlhausen im Täle
 Mühlheim am Bach
+Mühlheim am Inn
 Mühlheim am Main
 Mühlheim an der Donau
 Mühlingen
@@ -52738,6 +52746,7 @@ Neuberg an der Mürz
 Neuberg im Burgenland
 Neubois
 Neubulach
+Neuburg am Inn
 Neuburg-Schrobenhausen District
 Neuburgweier
 Neubuz
@@ -55070,6 +55079,7 @@ Obermumpf
 Obernai
 Obernau
 Obernberg am Brenner
+Obernberg am Inn
 Oberndorf
 Oberndorf am Neckar
 Oberndorf an der Melk
@@ -56681,6 +56691,7 @@ Osterburken
 Osterfingen
 Östergötland County
 Osterholz District
+Ostermiething
 Ostermundigen
 Osterode am Harz District
 Östersund
@@ -63998,6 +64009,7 @@ Reichenbach im Kandertal
 Reichenburg
 Reicheneck
 Reichenfels
+Reichersberg
 Reicholzheim
 Reichsfeld
 Reichshoffen
@@ -69678,6 +69690,7 @@ Sankt Bartholomä
 Sankt Bernhard-Frauenhofen
 Sankt Corona am Wechsel
 Sankt Egyden am Steinfeld
+Sankt Florian am Inn
 Sankt Gallen
 Sankt Gallenkirch
 Sankt Georgen am Kreischberg
@@ -69686,6 +69699,7 @@ Sankt Georgen am Reith
 Sankt Georgen am Ybbsfelde
 Sankt Georgen an der Leys
 Sankt Georgen an der Stiefing
+Sankt Georgen bei Obernberg am Inn
 Sankt Georgen bei Salzburg
 Sankt Georgen im Lavanttal
 Sankt Georgen ob Judenburg
@@ -69719,6 +69733,7 @@ Sankt Margarethen an der Sierning
 Sankt Margarethen bei Knittelfeld
 Sankt Margarethen im Burgenland
 Sankt Margarethen im Lungau
+Sankt Marienkirchen bei Schärding
 Sankt Martin
 Sankt Martin am Tennengebirge
 Sankt Martin am Wöllmissberg
@@ -69732,8 +69747,10 @@ Sankt Michael in Obersteiermark
 Sankt Nikolai im Sausal
 Sankt Oswald
 Sankt Oswald bei Plankenwarth
+Sankt Pantaleon
 Sankt Pantaleon-Erla
 Sankt Paul im Lavanttal
+Sankt Peter am Hart
 Sankt Peter am Kammersberg
 Sankt Peter am Ottersbach
 Sankt Peter-Freienstein
@@ -71830,6 +71847,8 @@ Schangnau
 Schänis
 Scharans
 Schardam
+Schardenberg
+Schärding
 Schärding District
 Scharendijke
 Scharmer
@@ -73825,6 +73844,7 @@ Simão Pereira
 Simard
 Simav
 Simaxis
+Simbach am Inn
 Simbario
 Simbolar
 Simcoe County
@@ -76717,6 +76737,7 @@ Subdivision V
 Subdivision W
 Subdivision X
 Subdivision Y
+Suben
 Subiaco
 Subingen
 Subirats
@@ -78134,6 +78155,7 @@ Tarrenz
 Tarrés
 Tarroja de Segarra
 Tarrytown
+Tarsdorf
 Tarsia
 Tarsky District
 Tarso
@@ -81398,6 +81420,7 @@ Ube
 Übelbach
 Uberaba
 Uberach
+Überackern
 Uberlândia
 Überlingen
 Übersaxen
@@ -86949,6 +86972,7 @@ Wernberg
 Werndorf
 Werne
 Wernersville
+Wernstein am Inn
 Werra-Meißner District
 Wertach
 Wertheim
