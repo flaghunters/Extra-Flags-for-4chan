@@ -6,6 +6,7 @@ Apinac
 Arthun
 Aveizieux
 Bard
+Bellegarde-en-Forez
 Belleroche
 Belmont-de-la-Loire
 Boën-sur-Lignon
@@ -20,12 +21,14 @@ Chalain-d'Uzore
 Chalain-le-Comtal
 Chambéon
 Chambles
+Champoly
 Charlieu
 Chausseterre
 Chazelles-sur-Lavieu
 Chazelles-sur-Lyon
 Chevrières
 Civens
+Cleppé
 Combre
 Commelle-Vernay
 Cordelle
@@ -79,6 +82,7 @@ Marcilly-le-Châtel
 Marclopt
 Marcoux
 Margerie-Chantagret
+Maringes
 Marols
 Mars
 Merle-Leignec
@@ -129,6 +133,7 @@ Saint-Denis-de-Cabanne
 Sainte-Agathe-en-Donzy
 Sainte-Agathe-la-Bouteresse
 Sainte-Croix-en-Jarez
+Sainte-Foy-Saint-Sulpice
 Saint-Étienne
 Saint-Étienne-le-Molard
 Saint-Forgeux-Lespinasse
@@ -190,6 +195,7 @@ Veauchette
 Vendranges
 Vérin
 Verrières-en-Forez
+Vêtre-sur-Anzon
 Villars
 Villemontais
 Villerest

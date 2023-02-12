@@ -9,11 +9,10 @@ Argis
 Ars-sur-Fromans
 Artemare
 Attignat
-Bâgé-la-Ville
+Bâgé-Dommartin
 Bâgé-le-Châtel
 Balan
 Béligneux
-Bellegarde-sur-Valserine
 Belley
 Bellignat
 Beynost
@@ -25,6 +24,7 @@ Brégnier-Cordon
 Brénod
 Bressolles
 Buellas
+Ceignes
 Cerdon
 Cessy
 Ceyzériat
@@ -36,14 +36,16 @@ Champdor
 Champdor-Corcelles
 Chanay
 Chaneins
+Charix
 Charnoz-sur-Ain
 Château-Gaillard
-Châtillon-en-Michaille
+Châtenay
 Châtillon-la-Palud
 Châtillon-sur-Chalaronne
 Chazey-sur-Ain
 Chevroux
 Chevry
+Civrieux
 Coligny
 Collonges
 Corcelles
@@ -79,6 +81,7 @@ Izernore
 Jassans-Riottier
 Jasseron
 L'Abergement-de-Varey
+Labalme
 La Boisse
 Lagnieu
 Léaz
@@ -86,14 +89,18 @@ Le Grand-Abergement
 Leléx
 Lent
 Le Plantay
+Le Poizat-Lalleyriat
+Les Neyrolles
 Lhuis
 Loyettes
 Maillat
 Manziat
 Marlieux
 Meillonnas
+Mérignat
 Meximieux
 Mijoux
+Mionnay
 Miribel
 Mogneneins
 Montceaux
@@ -117,6 +124,7 @@ Poncin
 Pont-d'Ain
 Pont-de-Vaux
 Pont-de-Veyle
+Port
 Pougny
 Prémeyzel
 Prémillieu
@@ -127,6 +135,7 @@ Replonges
 Revonnas
 Rignieux-le-Franc
 Romans
+Saint-André-de-Corcy
 Saint-Cyr-sur-Menthon
 Saint-Denis-en-Bugey
 Saint-Denis-lès-Bourg
@@ -146,6 +155,7 @@ Saint-Jean-de-Niost
 Saint-Jean-le-Vieux
 Saint-Jean-sur-Veyle
 Saint-Laurent-sur-Saône
+Saint-Marcel
 Saint-Martin-du-Frêne
 Saint-Martin-du-Mont
 Saint-Maurice-de-Beynost
@@ -173,9 +183,11 @@ Tossiat
 Tramoyes
 Treffort-Cuisiat
 Trévoux
+Valserhône
 Varambon
 Vaux-en-Bugey
 Verjon
+Versailleux
 Versonnex
 Vesancy
 Villars-les-Dombes

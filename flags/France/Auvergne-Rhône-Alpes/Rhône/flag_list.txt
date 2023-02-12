@@ -5,6 +5,7 @@ Ampuis
 Anse
 Bagnols
 Beaujeu
+Belleville-en-Beaujolais
 Belmont-d'Azergues
 Bessenay
 Bibost
@@ -44,6 +45,7 @@ Fleurieux-sur-l'Arbresle
 Genas
 Grandris
 Grézieu-la-Varenne
+Haute-Rivoire
 Jons
 Joux
 L'Arbresle
@@ -58,12 +60,14 @@ Les Halles
 Les Sauvages
 Limas
 Loire-sur-Rhône
+Lozanne
 Lucenay
 Lyon
 Marcilly-d'Azergues
 Marcy
 Meaux-la-Montagne
 Messimy
+Meys
 Millery
 Moiré
 Montagny
@@ -89,6 +93,7 @@ Saint-Cyr-le-Chatoux
 Sainte-Catherine
 Sainte-Colombe
 Sainte-Consorce
+Sainte-Foy-l'Argentière
 Sainte-Paule
 Saint-Forgeux
 Saint-Genis-l'Argentière
@@ -119,6 +124,7 @@ Sérézin-du-Rhône
 Simandres
 Soucieu-en-Jarrest
 Sourcieux-les-Mines
+Souzy
 Taluyers
 Tarare
 Ternand
