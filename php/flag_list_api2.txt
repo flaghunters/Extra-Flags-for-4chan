@@ -198,6 +198,8 @@ Abtsteinach
 Abtwil
 Abu
 Abu Dhabi
+Abu Dhabi District
+Abu Dhabi Emirate
 Abu Ghosh
 Abuná Province
 Abu Saleem
@@ -903,6 +905,7 @@ Ajigasawa
 Ajim
 Ajka District
 Ajman
+Ajman Emirate
 Ajoncourt
 Ajuda
 Ajuricaba
@@ -1016,8 +1019,10 @@ Alagoinhas
 Alagón
 Alagón del Río
 Alaigne
+Al-Ain
 Alaincourt
 Alaincourt-la-Côte
+Al-Ain Region
 Alaior
 Alairac
 Alájar
@@ -1062,6 +1067,7 @@ Alatyrsky District
 Alauca
 Alavieska
 Alavus
+Al Awir
 Alba
 Alba Adriatica
 Albacete
@@ -1097,6 +1103,7 @@ Albaret-le-Comtal
 Albareto
 Albaretto della Torre
 Albas
+Al Bataeh
 Albatàrrec
 Al Batinah North Governorate
 Al Batinah South Governorate
@@ -1286,6 +1293,8 @@ Alderetes
 Alderley Edge
 Alderney
 Alderson
+Al Dhafra Region
+Al Dhaid
 Aldingen
 Aldino
 Aldora
@@ -1409,6 +1418,7 @@ Algarrobo del Águila
 Algeciras
 Alger County
 Algete
+Al Ghail
 Alghero
 Algiers
 Algiers Province
@@ -1428,6 +1438,7 @@ Alhama de Aragón
 Alhama de Granada
 Alhama de Murcia
 Alhambra
+Al Hamriyah
 Alhandra
 Al Haouz Province
 Al-Hasakah Governorate
@@ -1472,6 +1483,7 @@ Alì Terme
 Alix
 Aljaraque
 Al Jawf
+Al Jazira Al Hamra
 Aljezur
 Aljunied-Hougang
 Aljustrel
@@ -1583,6 +1595,7 @@ Alluvioni Piovera
 Alma
 Almacelles
 Almada
+Al Madam
 Almadina
 Almadrones
 Almafuerte
@@ -1592,6 +1605,7 @@ Almaguer
 Al Mahrah
 Al Mahwit
 Almalagues
+Al Manama
 Almas
 Almatret
 Almaty
@@ -1685,10 +1699,13 @@ Alpujarra de la Sierra
 Alpullu
 Al Qadarif State
 Al-Qahira Governorate
+Al Qudra
 Al-Quds
 Alquines
 Alquízar
+Al Rams
 Al Rayyan Municipality
+Al Riffa
 Alsace Township
 Alsasua
 Alsbach
@@ -20064,6 +20081,7 @@ Deining
 Deinste
 Deinum
 Deinze
+Deira
 Deir Al-Ahmar
 Deir al-Asad
 Deir Al Qamar
@@ -20480,6 +20498,8 @@ Diant
 Diarville
 Dias d'Ávila
 Díaz
+Dibba Al-Fujairah
+Dibba Al Hisn
 Dibër County
 Dibulla
 Dickens County
@@ -21786,7 +21806,7 @@ Duas Estradas
 Duault
 Dub
 Dubá
-Dubai
+Dubai Emirate
 Ďubákovo
 Dubany
 Dubăsari
@@ -24502,6 +24522,7 @@ Fajãzinha
 Fajslawice commune
 Fakfak Regency
 Falaise
+Falaj Al Mu'alla
 Falán
 Falcade
 Falces
@@ -26456,6 +26477,7 @@ Fügenberg
 Fuilla
 Fuipiano Valle Imagna
 Fujairah
+Fujairah Emirate
 Fuji
 Fujian
 Fujieda
@@ -30836,6 +30858,7 @@ Hato Nuevo
 Hatoyama
 Hatrize
 Hatsukaichi
+Hatta
 Hattem
 Hatten
 Hattenhofen
@@ -35103,6 +35126,7 @@ Jean Lafitte
 Jean Marie River
 Jeanménil
 Jeannette
+Jebel Ali
 Jebiniana
 Jebsheim
 Jeceaba
@@ -35734,6 +35758,7 @@ Julis
 Jullouville
 Julos
 Jumeaux
+Jumeirah
 Jumel
 Jumet
 Jumièges
@@ -36017,6 +36042,7 @@ Kalasin Province
 Kaľava
 Kalavryta
 Kalawao County
+Kalba
 Kalbach
 Kaldrananeshreppur
 Kale
@@ -37143,6 +37169,7 @@ Khomas Region
 Khomutovsky District
 Khoni
 Khon Kaen Province
+Khor Fakkan
 Khorinsky District
 Khorixas
 Khorol
@@ -47204,6 +47231,7 @@ Marzi
 Marzio
 Marzy
 Mas'ade
+Masafi
 Masagua
 Masaguara
 Masahuat
@@ -47246,6 +47274,7 @@ Maserà di Padova
 Maseru
 Masevaux
 Masfjorden
+Masfout
 Mas-Grenier
 Mashantucket Pequot Indian Reservation
 Mashantucket Pequot Tribe
@@ -49497,6 +49526,7 @@ Mlawa
 Mlawa County
 Mlázovice
 Mlečice
+Mleiha
 Mlékojedy
 Mlékosrby
 Mljet
@@ -63968,6 +63998,7 @@ Rarotonga
 Rasa
 Raša
 Ras Al-Khaimah
+Ras Al-Khaimah Emirate
 Rascafría
 Rasdorf
 Raseborg
@@ -73601,6 +73632,7 @@ Sfruz
 Sgonico
 Sgurgola
 Sha'ab
+Sha'am
 Shaanxi
 Shabalinsky District
 Shabanovskoye
@@ -73659,6 +73691,7 @@ Shaqib al-Salam
 Sharansky District
 Sharhorod
 Sharjah
+Sharjah Emirate
 Sharkansky District
 Shark Bay
 Sharkey County
@@ -82173,6 +82206,7 @@ Umlalazi
 Umling
 Umm al-Fahm
 Umm Al-Quwain
+Umm Al-Quwain Emirate
 Ummendorf
 Ummerstadt
 Umm Slal Municipality
