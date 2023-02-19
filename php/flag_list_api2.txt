@@ -7829,6 +7829,7 @@ Big Stone Gap
 Biguaçu
 Biguglia
 Big Valley
+Bihać
 Bihar
 Bihor County
 Bihorel
@@ -9316,6 +9317,9 @@ Borzya
 Bosa
 Bošáca
 Bosanci
+Bosanska Krupa
+Bosanski Petrovac
+Bosansko Grahovo
 Bošany
 Bosaro
 Boscawen
@@ -11516,6 +11520,7 @@ Buzharovskoye
 Buzica
 Buzice
 Buzignargues
+Bužim
 Buzinovskoye
 Buzitka
 Buzon
@@ -12065,6 +12070,7 @@ Calliano
 Callicoon
 Callimont
 Calloway County
+Callús
 Calmar
 Calmon
 Calmont
@@ -13817,6 +13823,7 @@ Castellanza
 Castellar
 Castellarano
 Castellar de la Frontera
+Castellar de la Ribera
 Castellar del Vallès
 Castellar Guidobono
 Castellaro
@@ -14356,6 +14363,7 @@ Cazères
 Cazes-Mondenard
 Cazevieille
 Cazilhac
+Cazin
 Cazis
 Čazma
 Cazorla
@@ -17403,7 +17411,9 @@ Collalto Sabino
 Collanges
 Collarmele
 Collazzone
+Collbató
 Colldejou
+Coll de Nargó
 Collebeato
 Colle Brianza
 Collecchio
@@ -21781,6 +21791,7 @@ Druzhkivka
 Druzhnenskoye
 Družstevná pri Hornáde
 Druztová
+Drvar
 Drwinia commune
 Dryanovo
 Drybin
@@ -25088,6 +25099,7 @@ Figline e Incisa Valdarno
 Figline Valdarno
 Figline Vegliaturo
 Fígols
+Fígols i Alinyà
 Figueira
 Figueira da Foz
 Figueira de Castelo Rodrigo
@@ -27976,6 +27988,7 @@ Glafirovskoye
 Glageon
 Glaine-Montaigut
 Glaire
+Glamoč
 Glamondans
 Glamorgan
 Glamorgan Spring Bay
@@ -37716,6 +37729,7 @@ Klíny
 Klippan Municipality
 Klis
 Klížska Nemá
+Ključ
 Klobouky u Brna
 Klobuck County
 Klobuky
@@ -39222,6 +39236,7 @@ Kupiškis District Municipality
 Küplü
 Kuppenheim
 Kupreanof
+Kupres
 Küps
 Kuraginskiy District
 Kurakhove
@@ -43814,6 +43829,7 @@ Livingston Parish
 Livingston Township
 Livinhac-le-Haut
 Livinské Opatovce
+Livno
 Livny
 Livo
 Livonia (town)
@@ -50620,6 +50636,7 @@ Montferrand
 Montferrand-du-Périgord
 Montferrand-le-Château
 Montferrat
+Montferrer i Castellbò
 Montferrier
 Montferrier-sur-Lez
 Montfleur
@@ -56086,6 +56103,7 @@ Olho d'Água do Casado
 Olho d'Água do Piauí
 Olho d'Água Grande
 Olhos-d'Água
+Oliana
 Olías del Rey
 Oliena
 Olímpia
@@ -57869,6 +57887,7 @@ Pallars Jussà
 Pallars Sobirà
 Pallasovka
 Pallasovsky District
+Pallejá
 Palleville
 Pallini
 Palluau
@@ -65152,6 +65171,7 @@ Rincón de Romos
 Rincón de Soto
 Rindal
 Rindge
+Riner
 Ringebu
 Ringeldorf
 Ringelsdorf-Niederabsdorf
@@ -70563,6 +70583,7 @@ San Severo
 San Silvestre de Guzmán
 San Simón
 San Siro
+Sanski Most
 San Sossio Baronia
 San Sostene
 San Sosti
@@ -71134,6 +71155,7 @@ Sant Jaume dels Domenys
 Sant Joan
 Sant Joan de Labritja
 Sant Joan Despí
+Sant Joan de Vilatorrada
 Sant Josep de sa Talaia
 Sant Julià de Cerdanyola
 Sant Julià del Llor i Bonmatí
@@ -71147,6 +71169,7 @@ Sant Martí de Llémena
 Sant Martí de Tous
 Sant Martí Sesgueioles
 Sant Martí Vell
+Sant Mateu de Bages
 Sant Miquel de Campmajor
 Sant Mori
 Santo Afonso
@@ -80133,6 +80156,7 @@ Tomilino
 Tomina Province
 Tomioka
 Tomisato
+Tomislavgrad
 Tomiya
 Tommot
 Tomohon
@@ -83816,6 +83840,7 @@ Veličná
 Vélieux
 Velika
 Velika Gorica
+Velika Kladuša
 Velika Kopanica
 Velika Ludina
 Velika Pisanica
