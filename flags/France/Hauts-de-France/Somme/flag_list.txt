@@ -1,4 +1,5 @@
 Abbeville
+Ablaincourt-Pressoir
 Acheux-en-Amiénois
 Acheux-en-Vimeu
 Aigneville
@@ -38,6 +39,7 @@ Bellancourt
 Belloy-Saint-Léonard
 Bernaville
 Bernes
+Berny-en-Santerre
 Bertangles
 Berteaucourt-les-Dames
 Berteaucourt-lès-Thennes
@@ -89,6 +91,7 @@ Cerisy
 Cerisy-Buleux
 Chaulnes
 Chépy
+Cléry-sur-Somme
 Cocquerel
 Combles
 Condé-Folie
@@ -124,6 +127,7 @@ Eppeville
 Ercheu
 Ergnies
 Esmery-Hallon
+Estrées-Deniécourt
 Estrées-lès-Crécy
 Ételfay
 Étricourt-Manancourt
@@ -131,9 +135,11 @@ Falvy
 Ferrières
 Feuillères
 Feuquières-en-Vimeu
+Flaucourt
 Flesselles
 Flixecourt
 Folleville
+Fonches-Fonchette
 Fontaine-sur-Somme
 Forceville
 Forceville-en-Vimeu
@@ -146,6 +152,7 @@ Fransures
 Franvillers
 Fréchencourt
 Fresnoy-Andainville
+Fresnoy-lès-Roye
 Fressenneville
 Frettemeule
 Friaucourt
@@ -159,6 +166,7 @@ Gapennes
 Gézaincourt
 Glisy
 Gorenflos
+Goyencourt
 Grand-Laviers
 Grattepanche
 Grébault-Mesnil
@@ -172,22 +180,27 @@ Hamelet
 Hangard
 Hangest-en-Santerre
 Harbonnières
+Hattencourt
 Hautvillers-Ouville
 Havernas
 Heilly
+Hem-Monacu
 Hénencourt
+Herbécourt
 Heucourt-Croquoison
 Hiermont
 Hornoy-le-Bourg
 Huchenneville
 Humbercourt
 Huppy
+Hypercourt
 Jumel
 L'Étoile
 Laboissière-en-Santerre
 Lahoussoye
 Lamotte-Buleux
 Lanchères
+Laucourt
 Le Boisle
 Le Crotoy
 Le Hamel
@@ -216,6 +229,7 @@ Marcelcave
 Mareuil-Caubert
 Martainneville
 Matigny
+Maurepas
 Méricourt-l'Abbé
 Mers-les-Bains
 Mesnil-Domqueur
@@ -267,6 +281,8 @@ Ponthoile
 Pont-Noyelles
 Pont-Remy
 Potte
+Punchy
+Puzeaux
 Quend
 Querrieu
 Rainneville
@@ -290,6 +306,7 @@ Saint-Fuscien
 Saint-Gratien
 Saint-Léger-lès-Authie
 Saint-Léger-lès-Domart
+Saint-Mard
 Saint-Ouen
 Saint-Quentin-la-Motte-Croix-au-Bailly
 Saint-Riquier

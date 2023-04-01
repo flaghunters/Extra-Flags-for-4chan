@@ -1,11 +1,14 @@
 Alba-la-Romaine
 Alboussière
+Andance
 Annonay
 Arcens
+Arras-sur-Rhône
 Aubenas
 Aubignas
 Balazuc
 Banne
+Beauchastel
 Beaulieu
 Berrias-et-Casteljau
 Boulieu-lès-Annonay
@@ -14,6 +17,7 @@ Burzet
 Chalencon
 Chambonas
 Charmes-sur-Rhône
+Châteaubourg
 Chomérac
 Cornas
 Coucouron
@@ -22,8 +26,10 @@ Davézieux
 Empurany
 Faugères
 Félines
+Glun
 Gravières
 Grospierres
+Guilherand-Granges
 Issarlès
 Jaujac
 Joannas
@@ -37,14 +43,17 @@ Laurac-en-Vivarais
 Lavilledieu
 La Voulte-sur-Rhône
 Le Cheylard
+Lemps
 Le Pouzin
 Les Vans
 Le Teil
 Limony
+Mauves
 Mayres
 Meyras
 Montpezat-sous-Bauzon
 Orgnac-l'Aven
+Ozon
 Peyraud
 Privas
 Rochemaure
@@ -57,6 +66,7 @@ Saint-Étienne-de-Lugdarès
 Saint-Félicien
 Saint-Georges-les-Bains
 Saint-Jacques-d'Atticieux
+Saint-Jean-de-Muzols
 Saint-Julien-du-Serre
 Saint-Just-d'Ardèche
 Saint-Lager-Bressac
@@ -72,6 +82,7 @@ Sampzon
 Sarras
 Satillieu
 Serrières
+Soyons
 Thueyts
 Tournon-sur-Rhône
 Ucel
@@ -82,6 +93,7 @@ Vernon
 Vernoux-en-Vivarais
 Villeneuve-de-Berg
 Vinzieux
+Vion
 Viviers
 Vocance
 Vogüé

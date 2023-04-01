@@ -5,6 +5,7 @@ Ambutrix
 Aranc
 Arbent
 Arbignieu
+Arbigny
 Argis
 Ars-sur-Fromans
 Artemare
@@ -15,11 +16,13 @@ Balan
 Béligneux
 Belley
 Bellignat
+Bey
 Beynost
 Birieux
 Bouligneux
 Bourg-en-Bresse
 Bourg-Saint-Christophe
+Boz
 Brégnier-Cordon
 Brénod
 Bressolles
@@ -53,6 +56,7 @@ Corlier
 Cormaranche-en-Bugey
 Cormoranche-sur-Saône
 Courmangoux
+Crottet
 Crozet
 Culoz
 Curtafond
@@ -70,6 +74,7 @@ Farges
 Feillens
 Ferney-Voltaire
 Foissiat
+Garnerans
 Gex
 Gorrevod
 Grand-Corent
@@ -84,6 +89,7 @@ L'Abergement-de-Varey
 Labalme
 La Boisse
 Lagnieu
+Laiz
 Léaz
 Le Grand-Abergement
 Leléx
@@ -135,7 +141,9 @@ Replonges
 Revonnas
 Rignieux-le-Franc
 Romans
+Saint-André-de-Bâgé
 Saint-André-de-Corcy
+Saint-Bénigne
 Saint-Cyr-sur-Menthon
 Saint-Denis-en-Bugey
 Saint-Denis-lès-Bourg
@@ -173,6 +181,7 @@ Sauverny
 Savigneux
 Segny
 Sergy
+Sermoyer
 Servas
 Seyssel
 Tenay

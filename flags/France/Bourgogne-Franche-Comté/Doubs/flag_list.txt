@@ -4,6 +4,7 @@ Aibre
 Aïssey
 Allenjoie
 Allondans
+Amagney
 Amancey
 Appenans
 Arc-et-Senans
@@ -11,6 +12,7 @@ Arcey
 Arc-sous-Cicon
 Arc-sous-Montenot
 Aubonne
+Audeux
 Audincourt
 Autechaux-Roide
 Avanne-Aveney
@@ -35,14 +37,18 @@ Bouclans
 Boujailles
 Braillans
 Branne
+Breconchaux
 Bretigney
 Brognard
 Bulle
+Burgille
 Chaffois
+Chalèze
 Chalezeule
 Champagney
 Champlive
 Champoux
+Champvans-les-Moulins
 Chantrans
 Charmauvillers
 Charmoille
@@ -51,11 +57,11 @@ Chassagne-Saint-Denis
 Châtillon-le-Duc
 Chevigney-lès-Vercel
 Cléron
-Clerval
 Colombier-Fontaine
 Côtebrune
 Courcelles
 Courcelles-lès-Montbéliard
+Courchapon
 Courtefontaine
 Crosey-le-Grand
 Crosey-le-Petit
@@ -67,6 +73,7 @@ Dampierre-les-Bois
 Dampierre-sur-le-Doubs
 Dampjoux
 Damprichard
+Deluz
 Devecey
 Dompierre-les-Tilleuls
 Domprel
@@ -88,7 +95,9 @@ Fesches-le-Châtel
 Fessevillers
 Flagey-Rigney
 Fontain
+Fourbanne
 Fourg
+Franey
 Frasne
 Geneuille
 Gilley
@@ -101,9 +110,12 @@ Grand'Combe-Châteleu
 Grand'Combe-des-Bois
 Grand-Charmont
 Granges-Narboz
+Grosbois
 Hérimoncourt
 Hyémondans
+Hyèvre-Paroisse
 Issans
+Jallerange
 Jougne
 L'Hôpital-du-Grosbois
 L'Isle-sur-le-Doubs
@@ -113,6 +125,7 @@ Laire
 Laissey
 Lantenne-Vertière
 Lanthenans
+La Prétière
 La Rivière-Drugeon
 La Sommette
 Laviron
@@ -159,13 +172,16 @@ Mouthier-Haute-Pierre
 Nans
 Noirefontaine
 Noironte
+Novillars
 Ollans
 Orchamps-Vennes
 Ornans
 Orsans
 Osse
+Ougney-Douvot
 Ouhans
 Palise
+Pays-de-Clerval
 Péseux
 Pierrefontaine-lès-Blamont
 Pierrefontaine-les-Varans
@@ -181,6 +197,7 @@ Raynans
 Recologne
 Rochejean
 Roche-lès-Clerval
+Roche-lez-Beaupré
 Roches-lès-Blamont
 Romain
 Rougemont
@@ -194,6 +211,7 @@ Saint-Maurice-Colombier
 Saint-Vit
 Saône
 Saules
+Séchin
 Seloncourt
 Semondans
 Sochaux
@@ -206,6 +224,7 @@ Thulay
 Touillon-et-Loutelet
 Trépot
 Trévillers
+Vaire
 Valdahon
 Valentigney
 Valleroy

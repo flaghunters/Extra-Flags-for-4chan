@@ -6,6 +6,7 @@ Amblainville
 Andeville
 Ansacq
 Ansauvillers
+Antheuil-Portes
 Apremont
 Armancourt
 Arsy
@@ -16,6 +17,7 @@ Avricourt
 Avrigny
 Bailleval
 Balagny-sur-Thérain
+Barbery
 Baron
 Beaulieu-les-Fontaines
 Beaurepaire
@@ -27,6 +29,7 @@ Béthisy-Saint-Martin
 Béthisy-Saint-Pierre
 Betz
 Bienville
+Biermont
 Blaincourt-lès-Précy
 Blargies
 Bonvillers
@@ -53,6 +56,7 @@ Campeaux
 Canly
 Cannectancourt
 Catenoy
+Chamant
 Chambly
 Chambors
 Chantilly
@@ -67,6 +71,7 @@ Cires-lès-Mello
 Clairoix
 Clermont
 Compiègne
+Conchy-les-Pots
 Corbeil-Cerf
 Cormeilles
 Coudun
@@ -103,6 +108,7 @@ Flavacourt
 Flavy-le-Meldeux
 Fleurines
 Fleury
+Fontaine-Chaalis
 Formerie
 Fouilleuse
 Francières
@@ -127,6 +133,7 @@ Houdancourt
 Ivry-le-Temple
 Jaméricourt
 Jouy-sous-Thelle
+Laberlière
 Labosse
 Lachapelle-aux-Pots
 La Chapelle-en-Serval
@@ -137,11 +144,13 @@ Lalande-en-Son
 Lamorlaye
 La Neuville-en-Hez
 La Neuville-Roy
+La Neuville-sur-Ressons
 Larbroye
 Lattainville
 Lavilletertre
 Le Coudray-Saint-Germer
 Le Crocq
+Le Fayel
 Le Gallet
 Le Mesnil-en-Thelle
 Le Mesnil-Saint-Firmin
@@ -153,6 +162,7 @@ Le Plessis-Brion
 Le Saulchoy
 Lévignen
 Liancourt
+Liancourt-Fosse
 Liancourt-Saint-Pierre
 Lihus
 Litz
@@ -172,6 +182,7 @@ Méru
 Mogneville
 Moliens
 Monceaux
+Monchy-Humières
 Monchy-Saint-Éloi
 Montagny-en-Vexin
 Montagny-Sainte-Félicité
@@ -179,6 +190,7 @@ Montataire
 Montjavoult
 Mont-l'Évêque
 Montlognon
+Montmartin
 Mortefontaine
 Mouy
 Muirancourt
@@ -202,6 +214,7 @@ Pimprez
 Pisseleu
 Plailly
 Ponchon
+Pontarmé
 Pont-l'Évêque
 Pontpoint
 Pont-Sainte-Maxence
@@ -212,11 +225,13 @@ Remy
 Ressons-sur-Matz
 Rethondes
 Ribécourt-Dreslincourt
+Ricquebourg
 Rieux
 Rivecourt
 Roberval
 Rouvillers
 Royaucourt
+Roye-sur-Matz
 Saint-Aubin-sous-Erquery
 Saint-Crépin-aux-Bois
 Saint-Crépin-Ibouvillers
@@ -264,6 +279,7 @@ Verberie
 Verderonne
 Verneuil-en-Halatte
 Vieux-Moulin
+Villeneuve-sur-Verberie
 Villers-Saint-Paul
 Villers-Saint-Sépulcre
 Villers-sous-Saint-Leu
