@@ -351,6 +351,7 @@ Acre
 Acrelândia
 Acreúna
 Acri
+Ács
 Acton
 Actopan
 Açucena
@@ -4759,6 +4760,7 @@ Babinavičy
 Babindol
 Babinec
 Babīte Parish
+Babócsa
 Baboszewo commune
 Babrujsk
 Babrujsk District
@@ -5234,6 +5236,7 @@ Balashovsky District
 Balassagyarmat District
 Balatonalmádi District
 Balatonfüred District
+Balatonszentgyörgy
 Bălăușeri
 Balaze
 Baláže
@@ -5400,6 +5403,7 @@ Bamble
 Bambuí
 Bammental
 Bamyan Province
+Bana
 Baňa
 Banaba Island
 Banabuiu
@@ -5659,6 +5663,7 @@ Barcin commune
 Barcis
 Barco
 Barcoo
+Barcs
 Barcs District
 Barcy
 Bard
@@ -8676,6 +8681,7 @@ Boa Vista do Sul
 Boa Vista do Tupim
 Boavita
 Boazum
+Boba
 Bobbio
 Bobbio Pellice
 Bobeldijk
@@ -8873,6 +8879,7 @@ Bohodukhiv
 Bohodukhiv District
 Bohol
 Bohonal de Ibor
+Böhönye
 Bohostice
 Bohoyo
 Bohra
@@ -9247,6 +9254,7 @@ Bonvicino
 Bonvillars
 Bonviller
 Bonvillers
+Bőny
 Bonyhád District
 Bonzac
 Boofzheim
@@ -14736,6 +14744,7 @@ Cella Monte
 Cellara
 Cellarengo
 Cellatica
+Celldömölk
 Celldömölk District
 Cellé
 Celle di Bulgheria
@@ -19446,6 +19455,8 @@ Crystal River
 Crystal Springs
 Csenger District
 Csepel District
+Cserszegtomaj
+Csikvánd
 Csongrád-Csanád County
 Csongrád District
 Csorna District
@@ -19824,6 +19835,7 @@ Dabeiba
 Dabie commune
 Ďáblice
 Dabo
+Dabronc
 Dabrowa Biskupia commune
 Dabrowa Chelminska commune
 Dabrowa commune
@@ -23069,6 +23081,7 @@ Eguisheim
 Egusquiza
 Éguzon-Chantôme
 Egweil
+Egyházaskesző
 Ehekirchen
 Ehenbichl
 Ehime Prefecture
@@ -30699,6 +30712,7 @@ Gwinnett County
 Gwydir
 Gy
 Gyál District
+Gyarmat
 Gye
 Gyeonggi Province
 Gyeongju
@@ -30718,6 +30732,7 @@ Gyöngyös District
 Győr
 Győr District
 Győr-Moson-Sopron County
+Győrszemere
 Gytsjerk
 Gyula District
 Gyumri
@@ -31347,6 +31362,7 @@ Harnoncourt
 Härnösand Municipality
 Haro
 Harol
+Háromfa
 Haroué
 Harper County
 Harpers Ferry
@@ -32929,6 +32945,7 @@ Holín
 Holiša
 Hollabrunn
 Hollabrunn District
+Hollád
 Holland
 Holland-Bukit Panjang
 Holland Patent
@@ -35684,6 +35701,7 @@ Jankovice
 Janneyrias
 Janos
 Jánoshalma District
+Jánosháza
 Janoušov
 Janov
 Janová
@@ -37320,6 +37338,7 @@ Karlštejn
 Karlstetten
 Karlsøy
 Karma
+Karmacs
 Karma District
 Karmaskalinsky District
 Karmelava
@@ -37658,6 +37677,7 @@ Kelantan
 Kelburn
 Kelč
 Kelčany
+Keléd
 Kelermesskoye
 Kelford
 Kelheim
@@ -37688,6 +37708,11 @@ Kematen in Tirol
 Kembach
 Kembs
 Kemecse District
+Kemeneshőgyész
+Kemenesmagasi
+Kemenespálfa
+Kemenessömjén
+Kemenesszentmárton
 Kemer
 Kemerovo
 Kemerovo District
@@ -37843,6 +37868,7 @@ Kestel
 Kestenholz
 Kesteren
 Kestřany
+Keszthely
 Keszthely District
 Keť
 Ketapang Regency
@@ -38308,6 +38334,7 @@ Kisarazu
 Kisbér District
 Kisela Voda
 Kiselevsk
+Kisgörbő
 Kishertsky District
 Kishiwada
 Kisii County
@@ -38872,6 +38899,7 @@ Komarichsky District
 Komarno
 Komárno
 Komárno District
+Komárom
 Komárom District
 Komárom-Esztergom County
 Komárov
@@ -38892,6 +38920,7 @@ Komiža
 Komjatice
 Komjatná
 Komló District
+Komlósd
 Kommunar
 Komňa
 Komoča
@@ -46585,6 +46614,7 @@ Magüí-Payán
 Măgurele
 Magurka
 Magway Region
+Magyargencs
 Mahaffey
 Mahaica-Berbice
 Mahajanga
@@ -47043,6 +47073,7 @@ Malodubenskoye
 Maloja Region
 Malokarachayevsky District
 Malomice commune
+Malomsok
 Malone
 Malone (town)
 Malone (village)
@@ -47533,6 +47564,7 @@ Marcação
 Marcala
 Marcali District
 Marcallo con Casone
+Marcaltő
 Marčana
 Marcaria
 Marcedusa
@@ -49415,6 +49447,7 @@ Merritt
 Merschweiller
 Merseburg
 Mers el Kébir
+Mersevát
 Merseyside
 Mersin
 Mersin Province
@@ -52162,6 +52195,7 @@ Moriago della Battaglia
 Moriah
 Moriat
 Mořice
+Mórichida
 Moricone
 Morières-lès-Avignon
 Moriez
@@ -53315,11 +53349,13 @@ Nagpur
 Nags Head
 Naguabo
 Naguanagua
+Nagyatád
 Nagyatád District
 Nagykálló District
 Nagykanizsa District
 Nagykáta District
 Nagykőrös District
+Nagyszakácsi
 Naha
 Nahabino
 Naháč
@@ -53969,6 +54005,8 @@ Nemecká
 Nemečky
 Nemenčine
 Nemešany
+Nemeskisfalud
+Nemeskocs
 Němětice
 Nemi
 Nemile
@@ -56990,6 +57028,7 @@ Ohé en Laak
 Oherville
 Ohey
 Ohi
+Óhíd
 Ohio
 Ohio County
 Ohiopyle
@@ -58467,6 +58506,7 @@ Ottrott
 Ottwiller
 Otvazhnenskoye
 Otvice
+Ötvöskónyi
 Otvovice
 Otwock
 Otwock County
@@ -60321,6 +60361,7 @@ Pequea Township
 Pequeri
 Pequi
 Pequizeiro
+Pér
 Perach
 Perak
 Peralada
@@ -60619,6 +60660,7 @@ Peteranec
 Peterborough
 Peterborough County
 Petergof
+Péterhida
 Peter I Island
 Petersaurach
 Petersbach
@@ -64777,6 +64819,7 @@ Rab
 Rábade
 Rabastens
 Rabastens-de-Bigorre
+Rábaszentandrás
 Rabat
 Rabat-les-Trois-Seigneurs
 Rabat Prefecture
@@ -66087,6 +66130,7 @@ Rēzekne
 Rēzekne Municipality
 Rezh
 Rezhevsky District
+Rezi
 Rezina District
 Rezzago
 Rezzato
@@ -66514,6 +66558,7 @@ Rinn
 Rinópolis
 Rinsumageast
 Rinxent
+Rinyaszentkirály
 Rio
 Río
 Rio Acima
@@ -74315,6 +74360,7 @@ Segariu
 Segarra
 Segbroek
 Segeberg District
+Segesd
 Seget
 Segezha
 Segezhsky District
@@ -76881,6 +76927,8 @@ Sommevoire
 Sommières
 Sommo
 Somogy County
+Somogysámson
+Somogyzsitfa
 Somondoco
 Somontín
 Somosierra
@@ -79557,6 +79605,7 @@ Szczytno County
 Szécsény District
 Szeged
 Szeged District
+Szegerdő
 Szeghalom District
 Székesfehérvár
 Székesfehérvár District
@@ -79567,7 +79616,9 @@ Szentendre District
 Szentes District
 Szentgotthárd District
 Szentlőrinc District
+Szenyér
 Szerencs District
+Szergény
 Szerzyny commune
 Szigetszentmiklós District
 Szigetvár District
@@ -80084,6 +80135,7 @@ Taponas
 Tapora
 Tappahannock
 Tapso
+Tapsony
 Tapurah
 Taputapuatea
 Taquara
@@ -80872,6 +80924,7 @@ Testaccio
 Testico
 Testour
 Test Valley
+Tét
 Tétaigne
 Tetčice
 Tét District
@@ -81326,6 +81379,7 @@ Tikhoretskoye
 Tikhoretsky District
 Tikhvin
 Tikhvinsky District
+Tikos
 Tilarán
 Tilburg
 Tilcara
@@ -81695,6 +81749,7 @@ Tolna District
 Tolochenaz
 Tolosa
 Tolten
+Töltéstava
 Tolú
 Toluca
 Tolú Viejo
@@ -83291,6 +83346,7 @@ Turinsk
 Turinskaya Sloboda
 Turinsky District
 Turiúba
+Türje
 Turka
 Turkana County
 Türkeli
@@ -85167,6 +85223,7 @@ Varjota
 Varkaus
 Vārkava Parish
 Várkerület District
+Várkesző
 Värmdö Municipality
 Värmland County
 Varmo
@@ -87391,6 +87448,8 @@ Vincly
 Vindafjord
 Vindecy
 Vindeln Municipality
+Vindornyafok
+Vindornyaszőlős
 Vineland
 Vinelz
 Vineuil
@@ -87925,6 +87984,7 @@ Vomécourt-sur-Madon
 Vomp
 Voncq
 Vonnas
+Vönöck
 Vonoklasy
 Von Ormy
 Voorburg
@@ -87970,6 +88030,7 @@ Vorozhba
 Vorpommern-Greifswald District
 Vorpommern-Rügen District
 Vorra
+Vörs
 Vorselaar
 Vorst
 Vörstetten
@@ -91236,6 +91297,7 @@ Zalaba
 Zala County
 Zalaegerszeg
 Zalaegerszeg District
+Zalaerdőd
 Zalamea la Real
 Zalarinsky District
 Zalaszentgrót District
