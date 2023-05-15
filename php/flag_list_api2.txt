@@ -2760,6 +2760,7 @@ Antunovac
 Antwerp (town)
 Antwerp (village)
 Antwerpen
+Antwerpen Province
 Antzuola
 Anuchinsky District
 Anuradhapura
@@ -9977,7 +9978,7 @@ Bra
 Brabant-en-Argonne
 Brabant-le-Roi
 Brabant-sur-Meuse
-Brabant-Wallon
+Brabant-Wallon Province
 Bracca
 Bracciano
 Brach
@@ -30912,7 +30913,7 @@ Haimendorfer Forst
 Haimhausen
 Haiming
 Haina
-Hainaut
+Hainaut Province
 Hainburg
 Hainburg an der Donau
 Haines
@@ -44210,6 +44211,7 @@ Lieferinge
 Lieffrans
 Lieffrens
 Liège
+Liège Province
 Liéhon
 Lieksa
 Lieĺčycy
@@ -44380,6 +44382,7 @@ Limbrassac
 Limbricht
 Limburg
 Limburg an der Lahn
+Limburg Province
 Limburg-Weilburg District
 Limeil-Brévannes
 Limeira
@@ -46142,6 +46145,7 @@ Luweero District
 Luwu Regency
 Lux
 Luxembourg
+Luxembourg Province
 Luxémont-et-Villotte
 Luxe-Sumberraute
 Luxeuil-les-Bains
@@ -53475,6 +53479,7 @@ Nampula Province
 Namsky District
 Namukulu
 Namur
+Namur Province
 Namwon
 Namyangju
 Namyslow County
@@ -57614,7 +57619,7 @@ Oostmalle
 Oostrozebeke
 Oost-Souburg
 Ooststellingwerf
-Oost-Vlaanderen
+Oost-Vlaanderen Province
 Oostvleteren
 Oostvoorne
 Oostwold
@@ -87711,7 +87716,7 @@ Vizovice
 Vizzini
 Vizzola Ticino
 Vizzolo Predabissi
-Vlaams-Brabant
+Vlaams-Brabant Province
 Vlaanderen
 Vlaardingen
 Vlaardinger-Ambacht
@@ -89621,7 +89626,7 @@ West View
 Westville
 West Vincent Township
 West Virginia
-West-Vlaanderen
+West-Vlaanderen Province
 Westvleteren
 Westvoorne
 West Warwick
