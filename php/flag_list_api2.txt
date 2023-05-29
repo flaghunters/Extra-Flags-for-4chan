@@ -473,6 +473,7 @@ Adutiškis
 Adygea
 Adyge-Khablsky District
 Adygeysk
+Adže
 Adıyaman
 Adıyaman Province
 Aedermannsdorf
@@ -5507,6 +5508,7 @@ Bánov
 Bánovce nad Bebravou
 Bánovce nad Bebravou District
 Bánovce nad Ondavou
+Banovići
 Bansat
 Banská Belá
 Banská Bystrica
@@ -11356,6 +11358,7 @@ Bukovina u Čisté
 Bukovina u Přelouče
 Bukovinka
 Bukovka
+Bukovlje
 Bukovník
 Bukowiec commune
 Bukowina Tatrzanska commune
@@ -14743,6 +14746,7 @@ Celenza sul Trigno
 Celenza Valfortore
 Celerina ̸ Schlarigna
 Celestynow commune
+Čelić
 Celico
 Céligny
 Çelikhan
@@ -17197,6 +17201,7 @@ Civitella Messer Raimondo
 Civitella Paganico
 Civitella Roveto
 Civitella San Paolo
+Civljane
 Civo
 Civrac-en-Médoc
 Civrac-sur-Dordogne
@@ -20945,7 +20950,6 @@ Dikgatlong
 Dikkelvenne
 Dikrech
 Dikrech Canton
-Dikrech District
 Diksmuide
 Dikson
 Diksy
@@ -21193,6 +21197,8 @@ Doblas
 Döbling District
 Dobl-Zwaring
 Doboj
+Doboj Istok
+Doboj Jug
 Dobong District
 Dobrá
 Dobra commune
@@ -21931,6 +21937,7 @@ Drackenstein
 Dracut
 Dracy-le-Fort
 Dragacz commune
+Dragalić
 Draganić
 Dragaš
 Drage
@@ -29061,6 +29068,7 @@ Gorna Oryahovitsa
 Gornate Olona
 Gorniès
 Gornja Radgona
+Gornja Rijeka
 Gornja Stubica
 Gornja Vrba
 Gornji Bogićevci
@@ -29318,6 +29326,7 @@ Gracias
 Gracias a Dios Department
 Gračišće
 Gradac
+Gradačac
 Gradara
 Gradec
 Gradignan
@@ -29743,7 +29752,6 @@ Greiling
 Greinbach
 Gréiwemaacher
 Gréiwemaacher Canton
-Gréiwemaacher District
 Greiz
 Greiz District
 Grellingen
@@ -36840,6 +36848,7 @@ Kajal
 Kájov
 Kakamega County
 Kakamigahara
+Kakanj
 Kakanui
 Kakegawa
 Kakejcov
@@ -36888,6 +36897,7 @@ Kale
 Kalecik
 Kalek
 Kalenice
+Kalesija
 Kalevalsky District
 Kalgansky District
 Kalgoorlie-Boulder
@@ -38396,6 +38406,7 @@ Kissimmee
 Kissing
 Kißlegg
 Kist
+Kistanje
 Kistelek District
 Kistler
 Kisumu County
@@ -38474,6 +38485,7 @@ Klabava
 Kľačany
 Kľače
 Kľačno
+Kladanj
 Kladeruby
 Kladeruby nad Oslavou
 Kladky
@@ -42873,6 +42885,7 @@ Le Cellier
 Le Cendre
 Le Cergne
 Le Cerneux-Pequignot
+Lećevica
 Lech
 Le Chaffaut-Saint-Jurson
 Le Chalard
@@ -43908,7 +43921,6 @@ Lettret
 Lety
 Lëtzebuerg
 Lëtzebuerg Canton
-Lëtzebuerg District
 Leubringhen
 Leuc
 Leucate
@@ -45972,6 +45984,7 @@ Lukač
 Lukačovce
 Lukáčovce
 Luka nad Jihlavou
+Lukavac
 Lukavec
 Lukavec u Hořic
 Lukavica
@@ -46609,6 +46622,7 @@ Maghar
 Magherno
 Magione
 Magisano
+Maglaj
 Magland
 Magliano Alfieri
 Magliano Alpi
@@ -50186,6 +50200,7 @@ Millville
 Millwater
 Milly-la-Forêt
 Milly-sur-Bradon
+Milna
 Milne Bay Province
 Milner
 Milo
@@ -52803,6 +52818,7 @@ Muar
 Muara Enim Regency
 Muaro Jambi Regency
 Mubarak Al-Kabeer Governorate
+Muć
 Mucaba
 Mucajaí
 Mucambo
@@ -54137,6 +54153,7 @@ Neresheim
 Nerestce
 Nereta Parish
 Nereto
+Nerežišća
 Nerima
 Neringa Municipality
 Néris-les-Bains
@@ -57464,6 +57481,7 @@ Olot
 Olováry
 Oloví
 Olovnice
+Olovo
 Olovyanninsky District
 Olpe District
 Olšany
@@ -61760,6 +61778,7 @@ Plappeville
 Plaquemines Parish
 Plasencia
 Plasenzuela
+Plaški
 Plasnes
 Plasnica
 Plassac
@@ -62116,6 +62135,7 @@ Podenzana
 Podenzano
 Podersdorf am See
 Poděšín
+Podgora
 Podgorač
 Podgorensk
 Podgorensky District
@@ -63555,6 +63575,7 @@ Prescott and Russell United Counties
 Prescott Valley
 Préseau
 Preseglie
+Preseka
 Preseľany
 Présentevillers
 Presenzano
@@ -63659,6 +63680,7 @@ Prez-vers-Noréaz
 Prez-vers-Siviriez
 Prezza
 Prezzo
+Prgomet
 Priargunsky District
 Priay
 Priazovskoye
@@ -67282,6 +67304,7 @@ Rogolo
 Rogovskoye
 Rogow commune
 Rogowo commune
+Rogoznica
 Rogozno
 Rogozno commune
 Rogue River
@@ -73214,6 +73237,7 @@ Sapezal
 Sapignies
 Sapiranga
 Šaplava
+Sapna
 Sa Pobla
 Sapockin
 Sapogne-et-Feuchères
@@ -77771,6 +77795,7 @@ Srbsko
 Srby
 Srch
 Srebrenica
+Srebrenik
 Sredets
 Središče ob Dravi
 Sredneakhtubinsky District
@@ -79466,6 +79491,7 @@ Sveti Andraž v Slovenskih Goricah
 Světice
 Sveti Filip i Jakov
 Sveti Ilija
+Sveti Ivan Žabno
 Sveti Ivan Zelina
 Sveti Juraj na Bregu
 Sveti Jurij ob Ščavnici
@@ -80790,6 +80816,7 @@ Tënten
 Tenterfield
 Tentlingen
 Tenza
+Teočak
 Teocaltiche
 Teocuitatlán de Corona
 Teodelina
@@ -80985,6 +81012,7 @@ Terzo di Aquileia
 Terzolas
 Terzorio
 Tesalia
+Tešanj
 Těšany
 Tesáre
 Tesárske Mlyňany
@@ -84036,6 +84064,7 @@ Undervelier
 Une
 Unechsky District
 Únehle
+Unešić
 Únětice
 Ungerhausen
 Ungerhauser Wald
@@ -84438,6 +84467,7 @@ Usmate Velate
 Usolie-sibirskoe
 Usolsky District
 Usolye
+Usora
 Úsov
 Uspantán
 Uspenskoye
@@ -85284,6 +85314,7 @@ Varennes-sur-Seine
 Varennes-sur-Tèche
 Varennes-Vauzelles
 Varenovskoye
+Vareš
 Varès
 Varese
 Varese Ligure
@@ -85654,6 +85685,7 @@ Velika Polana
 Velika Trnovitica
 Veliká Ves
 Velike Lašče
+Veliki Bukovec
 Veliki Grđevac
 Velikiye Luki
 Veliko Gradište
@@ -87678,6 +87710,7 @@ Viseu District
 Víska
 Víska u Jevíčka
 Visker
+Viškovci
 Viškovo
 Vísky
 Vislanka
@@ -87825,6 +87858,7 @@ Vladimir Region
 Vladimirskoye
 Vladimirsky
 Vladislav
+Vladislavci
 Vladivostok
 Vladslo
 Vlagtwedde
@@ -91344,12 +91378,14 @@ Zagora-Mouresi
 Zagora Province
 Zagori
 Zagorje ob Savi
+Zagorska Sela
 Zagoryansky
 Zagra
 Zagreb
 Zagreb County
 Zagrodno commune
 Žagubica
+Zagvozd
 Zahájí
 Zahedan
 Zahle
@@ -91589,6 +91625,7 @@ Zaventem
 Zavet
 Zavetinsky District
 Zavidov
+Zavidovići
 Závišice
 Závist
 Zavitinsky District
@@ -91607,6 +91644,7 @@ Zawiercie
 Zawiercie County
 Zawoja commune
 Zawonia commune
+Zažablje
 Zäziwil
 Zázrivá
 Zbarazh
@@ -91831,6 +91869,7 @@ Zenón Pereyra
 Zenson di Piave
 Zenting
 Zentsuji
+Žepče
 Zepfenhahn
 Zephyrhills
 Zeppelinheim
@@ -92046,6 +92085,7 @@ Zitácuaro
 Zitsa
 Zittersheim
 Živanice
+Živinice
 Životice u Nového Jičína
 Žiželice
 Zizers
@@ -92190,6 +92230,7 @@ Zovencedo
 Zreče
 Zrenjanin
 Zriba
+Zrinski Topolovac
 Zrnovci
 Zruč nad Sázavou
 Zruč-Senec
