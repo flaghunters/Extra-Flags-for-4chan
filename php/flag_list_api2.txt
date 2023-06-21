@@ -2273,6 +2273,7 @@ Amurrio
 Amursk
 Amursky District
 Amvrosiivka
+Amvrosiivka District
 Amwell Township
 Amyntaio
 Anabar District
@@ -2755,6 +2756,7 @@ Antošovice
 Antrain
 Antras
 Antratsyt
+Antratsyt District
 Antrifttal
 Antrim
 Antrim County
@@ -3667,6 +3669,7 @@ Artem
 Artemare
 Artemisa
 Artemisa Province
+Artemivsk
 Artena
 Artenara
 Artenay
@@ -8110,13 +8113,17 @@ Billy-Berclau
 Billy-Montigny
 Billy-sous-Mangiennes
 Billy-sur-Aisne
+Bilmak District
+Bilokurakyne District
 Bilopillia
 Bílov
 Bílovec
 Bílovice
 Bílovice-Lutotín
 Bílovice nad Svitavou
+Bilovodsk District
 Biloxi
+Bilozerka District
 Bilozerske
 Bilshausen
 Bílsko
@@ -9996,6 +10003,7 @@ Boyer
 Boyeros
 Boyertown
 Boykins
+Boykivske District
 Boyle County
 Boylston
 Boynes
@@ -15680,6 +15688,7 @@ Chapinería
 Chaplin
 Chaplygin
 Chaplyginsky District
+Chaplynka District
 Chapman
 Chapman Township
 Chapman Valley
@@ -16234,6 +16243,7 @@ Chernigovskoye
 Chernigovsky District
 Chernihiv
 Chernihiv District
+Chernihivka District
 Chernihiv Region
 Chernivtsi
 Chernivtsi District
@@ -21325,6 +21335,7 @@ Dobron commune
 Dobronice u Bechyně
 Dobronín
 Dobropillia
+Dobropillia District
 Dobroslava
 Dobroslavice
 Dobroszyce commune
@@ -33152,6 +33163,7 @@ Holacourt
 Holambra
 Holany
 Hola Prystan
+Hola Prystan District
 Holasice
 Holasovice
 Holbæk
@@ -33573,6 +33585,7 @@ Horní Věstonice
 Horní Vltavice
 Horní Životice
 Hornosín
+Hornostaivka District
 Hornow-Wadelsdorf
 Hornoy-le-Bourg
 Hornsby
@@ -34050,6 +34063,7 @@ Huldenberg
 Hulha Negra
 Hulhuizen
 Huliaipole
+Huliaipole District
 Hulice
 Hulín
 Hull
@@ -35578,6 +35592,7 @@ Ivančna Gorica
 Ivanec 
 Ivanice
 Ivanić-Grad
+Ivanivka District
 Ivanjica
 Ivanka pri Dunaji
 Ivanka pri Nitre
@@ -37082,6 +37097,7 @@ Kaľamenová
 Kalameny
 Kalamoun
 Kalamunda
+Kalanchak District
 Kälarne
 Kalarsky District
 Kalasin Province
@@ -37253,6 +37269,7 @@ Kamianets-Podilskyi
 Kamianets-Podilskyi District
 Kamianka
 Kamianka-Buzka
+Kamianka-Dniprovska District
 Kamianske
 Kamianske District
 Kamien commune
@@ -39552,6 +39569,7 @@ Kostelní Vydří
 Köstendorf
 Kostěnice
 Kostiantynivka
+Kostiantynivka District
 Kostice
 Koštice
 Kostinbrod
@@ -39844,6 +39862,7 @@ Krasnochikoysky District
 Krasnodar
 Krasnodar Territory
 Krasnodon
+Krasnodon District
 Krasnogorodsky District
 Krasnogorsk
 Krasnogorsky District
@@ -39952,6 +39971,7 @@ Kremenchuk District
 Kremenets
 Kremenets District
 Kreminna
+Kreminna District
 Kremitzaue
 Kremmen
 Kremná
@@ -46187,6 +46207,7 @@ Lugano District
 Lugano Est Circle
 Lugano Nord Circle
 Lugano Ovest Circle
+Lugansk
 Lugansk People's Republic
 Lüganuse
 Luganville
@@ -46450,6 +46471,7 @@ Lutter am Barenberge
 Lutterbach
 Lutti
 Lutuhyne
+Lutuhyne District
 Lututow commune
 Lützelbach
 Lutzelbourg
@@ -47636,6 +47658,7 @@ Manheim Township
 Manhoué
 Manhuaçu
 Manhumirim
+Manhush District
 Maní
 Maniace
 Maniago
@@ -48196,6 +48219,7 @@ Maringes
 Maringues
 Marinha Grande
 Marinilla
+Marinka District
 Marino
 Mariño
 Marinópolis
@@ -48251,6 +48275,7 @@ Märkisches Viertel
 Märkisch Linden
 Märkisch Luch
 Märkisch-Oderland District
+Markivka District
 Mark Landin
 Marklesburg
 Markleysburg
@@ -50495,6 +50520,7 @@ Milostovice
 Milotice
 Milotice nad Bečvou
 Milotice nad Opavou
+Milove District
 Milovice
 Milovice u Hořic
 Milower Land
@@ -51252,6 +51278,7 @@ Mollkirch
 Molló
 Mölndal Municipality
 Molochio
+Molodohvardiysk
 Molodyozhnoye
 Molodyozhny
 Molokovskoye
@@ -53561,6 +53588,7 @@ Mydlovary
 Myerstown
 Myjava
 Myjava District
+Mykhailivka District
 Myki
 Mykolaiv
 Mykolaiv District
@@ -55319,6 +55347,7 @@ Nikolčice
 Nikolenskoye
 Nikolsdorf
 Nikolsk
+Nikolske District
 Nikolskoye
 Nikolsky District
 Nikonovskoye
@@ -56369,6 +56398,7 @@ Nóvita
 Novi Velia
 Novi Vinodolski
 Novo Acordo
+Novoaidar District
 Novo Airão
 Novo Alegre
 Novoaleksandrovsk
@@ -56377,6 +56407,7 @@ Novoalekseevskoye
 Novoanninsky District
 Novo Aripuanã
 Novoazovsk
+Novoazovsk District
 Novo Barreiro
 Novobeisugskoye
 Novoberezanskoye
@@ -56438,6 +56469,7 @@ Novomoskovsk
 Novomoskovsk District
 Novomoskovsky Administrative Area
 Novo Mundo
+Novomykolaivka District
 Novomyrhorod
 Novomyshastovskoye
 Novonikolaevskoye
@@ -56462,6 +56494,7 @@ Novopokrovskoye
 Novopokrovsky District
 Novopolyanskoye
 Novo Progresso
+Novopskov District
 Novo Repartimento
 Novorizonte
 Novorossysk
@@ -56498,6 +56531,7 @@ Novotitarovskoye
 Novotoryalsky District
 Novo Triunfo
 Novotroitsk
+Novotroitske District
 Novoukrainka
 Novoukrainka District
 Novoukrainskoye
@@ -56512,6 +56546,7 @@ Novo Virje
 Novovladimirovskaya
 Novovolynsk
 Novovoronezh
+Novovorontsovka District
 Novo Xingu
 Novoyasenskoye
 Novozhivotinnovskoye
@@ -56832,6 +56867,7 @@ Nyuksensky District
 Nyurba
 Nyurbinsky District
 Nyuzen
+Nyzhni Sirohozy District
 Nyzhnohirskyi
 Nyzhnohirskyi District
 Nødebo
@@ -57667,6 +57703,7 @@ Oleiros
 Olejníkov
 Oleksandriia
 Oleksandriia District
+Oleksandrivka District
 Oleksandrivsk
 Oleksovice
 Olen
@@ -57679,6 +57716,7 @@ Olesa de Bonesvalls
 Olesa de Montserrat
 Olešenka
 Oleshky
+Oleshky District
 Oleško
 Olešná
 Olesnica
@@ -58298,6 +58336,7 @@ Origny
 Origny-en-Thiérache
 Origny-Sainte-Benoite
 Orikhiv
+Orikhiv District
 Orillia
 Orimattila
 Orincles
@@ -60843,6 +60882,7 @@ Péret
 Péret-Bel-Air
 Pereto
 Perevalsk
+Perevalsk District
 Perevolotsky District
 Perevozsky District
 Pereyaslovskoye
@@ -63091,6 +63131,7 @@ Poortugaal
 Poortvliet
 Poospatuck Reservation
 Popasna
+Popasna District
 Popayán
 Pope County
 Popelín
@@ -64481,9 +64522,11 @@ Pružany
 Pružany District
 Pružina
 Pryazhinsky District
+Pryazovske District
 Pryluky
 Pryluky District
 Prymorsk
+Prymorsk District
 Prymorskyi
 Prysk
 Pryvillia
@@ -68438,6 +68481,7 @@ Rozhovice
 Rozhraní
 Rozhyshche
 Rozier-en-Donzy
+Rozivka District
 Rozkoš
 Rožkovany
 Roz-Landrieux
@@ -75724,6 +75768,7 @@ Shahriar
 Shakhovskaya
 Shakhovskoy District
 Shakhtarsk
+Shakhtarsk District
 Shakhtersk
 Shakhtinsk
 Shakhty
@@ -76965,7 +77010,9 @@ Slovenské Krivé
 Slovenské Nové Mesto
 Slovenské Pravno
 Slovenský Grob
+Slovianoserbsk District
 Sloviansk
+Sloviansk District
 Slovinky
 Slubice commune
 Slubice County
@@ -78468,6 +78515,7 @@ St Anthony
 Stanton
 Stanton County
 Stantonsburg
+Stanytsia-Luhanska District
 Stanzach
 Stanz bei Landeck
 Stanz im Mürztal
@@ -78562,6 +78610,7 @@ Starnberg District
 Starnberger See
 Starnmeer
 Štarnov
+Starobesheve District
 Starobilsk
 Starobilsk District
 Starocherkasskoye
@@ -82277,6 +82326,7 @@ Toki
 Tokigawa
 Tokke
 Tokmak
+Tokmak District
 Tokmok
 Tokologo
 Tokoname
@@ -83442,6 +83492,7 @@ Troistorrent
 Troisvilles
 Troitckoye
 Troitsk
+Troitske District
 Troitsko-Pechorsk
 Troitsko-Pechorsky District
 Troitsky Administrative Area
@@ -86352,6 +86403,10 @@ Velušovce
 Velvary
 Velving
 Velyaminovskoye
+Velyka Bilozerka District
+Velyka Lepetykha District
+Velyka Novosilka District
+Velyka Oleksandrivka District
 Velyki Mosty
 Velykyi Bereznyi
 Velzeke-Ruddershove
@@ -86561,6 +86616,7 @@ Verkhnevilyuysky District
 Verkhneye Deubrovo
 Verkh-Neyvinsky
 Verkhniye Sergi
+Verkhniy Rohachyk District
 Verkhnodniprovsk
 Verkhnosadove
 Verkhnyaya Khava
@@ -86740,6 +86796,7 @@ Vescovato
 Vesdun
 Veselá
 Veselé
+Vesele District
 Veselevskoye
 Veselí
 Veselíčko
@@ -87992,6 +88049,7 @@ Villy-le-Moutier
 Vilminore di Scalve
 Vilna
 Vilniansk
+Vilniansk District
 Vilnius
 Vilnius County
 Vilnius District Municipality
@@ -88989,6 +89047,7 @@ Vysoké Studnice
 Vysoké Tatry
 Vysoké Veselí
 Vysokogorsky District
+Vysokopillia District
 Vysokov
 Vysokovsk
 Vysoky
@@ -91295,6 +91354,7 @@ Yakushima
 Yakutat
 Yakutiye
 Yakutsk
+Yakymivka District
 Yala
 Yalagüina
 Yalang
@@ -91420,6 +91480,7 @@ Yasugi
 Yasuoka
 Yasy Cañy
 Yasynuvata
+Yasynuvata District
 Yatağan
 Yataity del Guairá
 Yataity del Norte
@@ -92042,6 +92103,9 @@ Zaporizhia
 Zaporizhia District
 Zaporizhia Region
 Zaporozhskoye
+Zaporozhye
+Zaporozhye District
+Zaporozhye Region
 Zapotiltic
 Zapotitlán
 Zapotitlán de Vadillo
