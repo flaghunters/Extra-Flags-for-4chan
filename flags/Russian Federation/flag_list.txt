@@ -10,7 +10,7 @@ Bryansk Region
 Buryatia
 Chechnya
 Chelyabinsk Region
-Chukotka Autonomous Area
+Chukotka Autonomous District
 Chuvashia
 Crimea
 Dagestan
@@ -29,7 +29,7 @@ Karelia
 Kemerovo Region
 Khabarovsk Territory
 Khakassia
-Khanty-Mansi Autonomous Area
+Khanty-Mansi Autonomous District
 Kherson Region
 Kirov Region
 Komi Republic
@@ -47,14 +47,14 @@ Mordovia
 Moscow
 Moscow Region
 Murmansk Region
-Nenets Autonomous Area
+Nenets Autonomous District
 Nizhny Novgorod Region
 North Ossetia-Alania
 Novgorod Region
 Novosibirsk Region
 Omsk Region
-Orel Region
 Orenburg Region
+Oryol Region
 Penza Region
 Perm Territory
 Primorsky Territory
@@ -74,16 +74,16 @@ Tambov Region
 Tatarstan
 Tomsk Region
 Tula Region
+Tuva
 Tver Region
 Tyumen Region
-Tyva
 Udmurtia
 Ulyanovsk Region
 Vladimir Region
 Volgograd Region
 Vologda Region
 Voronezh Region
-Yamalo-Nenets Autonomous Area
+Yamalo-Nenets Autonomous District
 Yaroslavl Region
-Zabaykalsky Region
+Zabaykalsky Territory
 Zaporozhye Region
