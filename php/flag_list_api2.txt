@@ -179,6 +179,7 @@ Abrahám
 Abrahámovce
 Abramo
 Abramová
+Abram-Village
 Abranovce
 Abrantes
 Abra Pampa
@@ -2642,6 +2643,7 @@ Annaburg
 Annaka
 Anna Maria
 Annandale
+Annandale-Little Pond-Howe Bay
 Anna Paulowna
 Annapolis
 Annapolis County
@@ -6651,6 +6653,7 @@ Bédeilhac-et-Aynat
 Bédeille
 Bedekovčina
 Bedenica
+Bedeque and Area
 Bedero Valcuvia
 Bedford
 Bedford County
@@ -10210,6 +10213,7 @@ Bräcke Municipality
 Bracken County
 Brackenheim
 Brackenridge
+Brackley
 Bracknell Forest
 Braço do Norte
 Braço do Trombudo
@@ -10469,6 +10473,7 @@ Brdárka
 Brdovec
 Brè
 Brea
+Breadalbane
 Brea de Tajo
 Breaker Bay
 Break O Day
@@ -15129,6 +15134,7 @@ Central Hulu Sungai Regency
 Centralia
 Centralina
 Central Karoo
+Central Kings
 Central Kootenay Regional District
 Central Lampung Regency
 Central Maluku Regency
@@ -15139,6 +15145,7 @@ Central Okanagan Regional District
 Central Otago District
 Central Pacolet
 Central Point
+Central Prince
 Central Province
 Central Queensland
 Central Region
@@ -19460,6 +19467,7 @@ Cranves-Sales
 Cranzahl
 Craon
 Craonne
+Crapaud
 Craponne
 Craponne-sur-Arzon
 Crassier
@@ -22998,6 +23006,7 @@ Eastern District
 Eastern Equatoria
 Eastern Highlands Province
 Easternijtsjerk
+Eastern Kings
 Eastern Pequot Tribal Nation
 Eastern Province
 Eastern Region
@@ -30245,6 +30254,7 @@ Greenland
 Green Lane
 Greenlee County
 Green Level
+Greenmount-Montrose
 Greenport
 Green River
 Greensboro
@@ -32392,6 +32402,7 @@ Hayward
 Haywood County
 Hazebrouck
 Hazeg Ellouza
+Hazelbrook
 Hazel Dell
 Hazelton
 Hazelwood
@@ -34621,6 +34632,7 @@ Hunter's Hill
 Hunter (town)
 Hunter (village)
 Hunterdon County
+Hunter River
 Hunters Corner
 Huntersville
 Hunterville
@@ -39020,6 +39032,7 @@ Kingwood
 Kingwood Township
 Kinistino
 Kinko
+Kinkora
 Kinmen County
 Kinnelon
 Kinney County
@@ -44267,6 +44280,7 @@ Lenningen
 Lenno
 Lennon
 Lennox and Addington County
+Lennox Island
 Leno
 Lenoir
 Lenoir County
@@ -45496,6 +45510,7 @@ Linkebeek
 Linkenheim
 Linkenheim-Hochstetten
 Linkhout
+Linkletter
 Linköping Municipality
 Linkuva
 Linn
@@ -46452,6 +46467,7 @@ Los Villares
 Los Vilos
 Los Zorros
 Lot
+Lot 11 and Area
 Lota
 Lot-et-Garonne
 Lothey
@@ -48144,6 +48160,7 @@ Malozemelsky
 Malpartida de Cáceres
 Malpartida de Plasencia
 Malpas
+Malpeque Bay
 Malpica de Bergantiños
 Mālpils Parish
 Malras
@@ -51268,6 +51285,7 @@ Milton Brandão
 Milton-Freewater
 Milton Keynes
 Milton Township
+Miltonvale Park
 Milverton
 Milvignes
 Milwaukee
@@ -51280,6 +51298,7 @@ Mimasaka
 Mimata
 Mimet
 Mimika Regency
+Miminegash
 Mimizan
 Mimoň
 Mimoso de Goiás
@@ -51536,6 +51555,7 @@ Misato (city)
 Misato (town)
 Misawa
 Mischendorf
+Miscouche
 Misenheimer
 Miserey-Salines
 Misery
@@ -53286,6 +53306,7 @@ Moreland
 Moreland Township
 Mörel-Filet
 Morelia
+Morell
 Morelos
 Morengo
 Moreno
@@ -53730,6 +53751,7 @@ Mount Remarkable
 Mount Roskill
 Mount Shasta
 Mount Somers
+Mount Stewart
 Mount Stirling
 Mount Tabor
 Mount Union
@@ -54232,6 +54254,7 @@ Murra
 Murray
 Murray Bridge
 Murray County
+Murray Harbour
 Murray Island
 Murray-Lower Darling
 Murray Mallee
@@ -56827,10 +56850,12 @@ North Queensland
 North Reading
 North Redington Beach
 Northridge
+North Rustico
 North Saanich District
 North Salem
 North Sewickley Township
 North Shenango Township
+North Shore
 North Shore Ward
 Northside
 North Slave Region
@@ -56871,6 +56896,7 @@ North Whitehall Township
 Northwich
 North Wildwood
 North Wilkesboro
+North Wiltshire
 Northwood
 North Woodbury Township
 North Yarmouth
@@ -57702,6 +57728,7 @@ Nørre Vorupør
 Nøtterøy
 O'Hara Township
 O'Higgins
+O'Leary
 Oadby and Wigston
 Oak Bay District
 Oak Bluffs
@@ -67476,6 +67503,7 @@ Resistencia
 Resiutta
 Resko commune
 Resolute Bay
+Resort Municipality
 Rešov
 Resplendor
 Ressaix
@@ -68571,6 +68599,7 @@ Rocky Harbour
 Rocky Hill
 Rocky Mount
 Rocky Mountain House
+Rocky Point
 Rocky View County
 Rocles
 Roclincourt
@@ -75737,6 +75766,7 @@ Scorbé-Clairvaux
 Scordia
 Scorrano
 Scorzè
+Scotchfort
 Scotch Plains Township
 Scotia
 Scotland
@@ -78861,6 +78891,7 @@ Soure
 Sour El Ghozlane
 Souris
 Souris Valley
+Souris West
 Sournia
 Sourribes
 Soursac
@@ -79411,6 +79442,7 @@ St. Clair Township
 St. Cloud
 St. Croix County
 St. Egidien
+St. Felix
 St. Francis
 St. Francis County
 St. Francois County
@@ -79460,12 +79492,14 @@ St. Mary Parish
 St. Marys
 St. Matthews
 St. Moritz
+St. Nicholas
 St. Niklaus
 St. Paul
 St. Paul County
 St. Pauls
 St. Pete Beach
 St. Peter
+St. Peters Bay
 St. Petersburg
 St. Peterzell
 St. Philips
@@ -83142,6 +83176,8 @@ Tignac
 Tignale
 Tignall
 Tignes
+Tignish
+Tignish Shore
 Tigny-Noyelle
 Tigray Region
 Tigre
@@ -85338,6 +85374,7 @@ Tyne and Wear
 Týnec
 Týnec nad Labem
 Týnec nad Sázavou
+Tyne Valley
 Tyngsborough
 Týniště nad Orlicí
 Týnišťko
@@ -85813,6 +85850,7 @@ Unión de Tula
 Unión Panamericana
 Union Parish
 Union Point
+Union Road
 Union Springs
 Uniontown
 Union Township
@@ -90776,6 +90814,7 @@ Warquignies
 Warrap State
 Warren
 Warren County
+Warren Grove
 Warrensburg
 Warrenton
 Warren Township
@@ -91524,6 +91563,7 @@ West Providence Township
 West Rand
 West Reading
 Westrehem
+West River
 West Rockhill Township
 Westrozebeke
 West Rutland
