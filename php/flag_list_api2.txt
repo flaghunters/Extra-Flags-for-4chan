@@ -1089,6 +1089,7 @@ Alamogordo
 Álamos
 Alamosa County
 Alan
+Al Anbar Governorate
 Aland
 Alandroal
 Alania National Park
@@ -1537,6 +1538,7 @@ Alincthun
 Alingsås Municipality
 Alió
 Aliquippa
+Ali Sabieh Region
 Aliseda
 Aliso Viejo
 Alì Terme
@@ -1764,6 +1766,7 @@ Alpujarra
 Alpujarra de la Sierra
 Alpullu
 Al Qadarif State
+Al-Qadisiyah Governorate
 Al-Qahira Governorate
 Al Qudra
 Al-Quds
@@ -3725,6 +3728,7 @@ Artagnan
 Artaise-le-Vivier
 Artalens-Souin
 Artannes-sur-Indre
+Arta Region
 Arta Terme
 Arteaga
 Artegna
@@ -4868,6 +4872,7 @@ Babyakovskoye
 Babylon
 Babylon (town)
 Babylon (village)
+Babylon Governorate
 Babyninsky District
 Báč
 Bacabal
@@ -5125,6 +5130,7 @@ Bagerovo
 Bagert
 Bages
 Baghdad
+Baghdad Governorate
 Baghdati
 Bagheria
 Baghlan Province
@@ -21129,6 +21135,7 @@ Dhamar
 Dhanbad
 Dhanpuri
 Dharmasraya Regency
+Dhi Qar Governorate
 Dhofar Governorate
 Dhuisy
 Dhuy
@@ -21285,6 +21292,7 @@ Dihlabeng
 Dijkerhoek
 Dijon
 Dikgatlong
+Dikhil Region
 Dikkelvenne
 Dikrech
 Dikrech Canton
@@ -21462,6 +21470,7 @@ Dixie County
 Dixmont
 Dixon
 Dixon County
+Diyala Governorate
 Diyarbakır
 Diyarbakır Province
 Dizimieu
@@ -22642,6 +22651,7 @@ Dugi Rat
 Dugny
 Dugopolje
 Dugo Selo
+Duhok Governorate
 Duilhac-sous-Peyrepertuse
 Duillier
 Duingt
@@ -24506,6 +24516,7 @@ Erbendorf
 Erbenhausen
 Erbéviller-sur-Amezule
 Erbezzo
+Erbil Governorate
 Erbray
 Erbree
 Erbusco
@@ -31626,6 +31637,7 @@ Hakuba
 Hakui
 Hakupu
 Hakusan
+Halabja Governorate
 Haláčovce
 Halámky
 Halbe
@@ -35575,7 +35587,6 @@ Irani
 Irapuã
 Irapuato
 Irapuru
-Iraqi Kurdistan
 Iraquara
 Irará
 Irasburg
@@ -38070,6 +38081,7 @@ Karawang Regency
 Karayazı
 Karazhal
 Karbach
+Karbala Governorate
 Karben
 Karbinci
 Karcag District
@@ -39125,6 +39137,7 @@ Kirkland
 Kirkland Lake
 Kirklees
 Kirkop
+Kirkuk Governorate
 Kirkwood
 Kirnberg an der Mank
 Kirov
@@ -41074,6 +41087,7 @@ Kurchanskoye
 Kurchatov
 Kurchatovsky District
 Kurdějov
+Kurdistan Autonomous Region
 Kure
 Kure Beach
 Kuressaare
@@ -49796,6 +49810,7 @@ Mayreville
 Mayrhofen
 Mayronnes
 Mayrouba
+Maysan Governorate
 Mayskoye
 Maysky
 May-sur-Orne
@@ -54334,6 +54349,7 @@ Mutějovice
 Mutěnice
 Mutěnín
 Mütevelli
+Muthanna Governorate
 Mutiloa
 Mutiscua
 Mutkov
@@ -54577,6 +54593,7 @@ Naives-Rosières
 Naizin
 Naja
 Najac
+Najaf Governorate
 Najasa
 Nájera
 Najran
@@ -56209,6 +56226,7 @@ Nin
 Nina Rodrigues
 Nindirí
 Ninety Six
+Nineveh Governorate
 Ningbo
 Ningxia
 Ninh Bình Province
@@ -58039,6 +58057,7 @@ Oblivskaya
 Oblivsky District
 Obluchensky District
 Obninsk
+Obock Region
 Obolensk
 Obolonskyi District
 Obora
@@ -72137,6 +72156,7 @@ Salačova Lhota
 Saladas
 Saladero Mariano Cabal
 Saladillo Department
+Saladin Governorate
 Šaľa District
 Saladoblanco
 Salagnac
@@ -80717,6 +80737,7 @@ Sulawesi Selatan
 Sulawesi Tengah
 Sulawesi Tenggara
 Sulawesi Utara
+Sulaymaniyah Governorate
 Sulbiate
 Sul Brasil
 Suldal
@@ -81503,6 +81524,7 @@ Tadaoka
 Tadasuni
 Taden
 Tading
+Tadjourah Region
 Tadó
 Tadotsu
 Tadten
@@ -90879,6 +90901,7 @@ Washoe Ranch
 Washtenaw County
 Wasigny
 Wasilla
+Wasit Governorate
 Waskatenau
 Waskemeer
 Waslala
