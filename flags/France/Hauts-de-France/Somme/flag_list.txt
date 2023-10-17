@@ -15,6 +15,7 @@ Argœuves
 Argoules
 Arguel
 Arrest
+Arry
 Assevillers
 Athies
 Aubigny
@@ -38,6 +39,7 @@ Béhen
 Bellancourt
 Belloy-Saint-Léonard
 Bernaville
+Bernay-en-Ponthieu
 Bernes
 Berny-en-Santerre
 Bertangles
@@ -47,11 +49,13 @@ Bertrancourt
 Béthencourt-sur-Mer
 Béthencourt-sur-Somme
 Bettencourt-Rivière
+Bettencourt-Saint-Ouen
 Beuvraignes
 Biaches
 Biencourt
 Blangy-Tronville
 Boismont
+Bosquel
 Bouchavesnes-Bergen
 Bouchon
 Boufflers
@@ -117,6 +121,7 @@ Dompierre-sur-Authie
 Domqueur
 Domvast
 Doullens
+Dreuil-lès-Amiens
 Drucat
 Dury
 Eaucourt-sur-Somme
@@ -127,6 +132,7 @@ Eppeville
 Ercheu
 Ergnies
 Esmery-Hallon
+Essertaux
 Estrées-Deniécourt
 Estrées-lès-Crécy
 Ételfay
@@ -136,6 +142,7 @@ Ferrières
 Feuillères
 Feuquières-en-Vimeu
 Flaucourt
+Flers-sur-Noye
 Flesselles
 Flixecourt
 Folleville
@@ -143,6 +150,7 @@ Fonches-Fonchette
 Fontaine-sur-Somme
 Forceville
 Forceville-en-Vimeu
+Forest-Montiers
 Fort-Mahon-Plage
 Fouilloy
 Fourcigny
@@ -183,6 +191,7 @@ Harbonnières
 Hattencourt
 Hautvillers-Ouville
 Havernas
+Hébécourt
 Heilly
 Hem-Monacu
 Hénencourt
@@ -197,6 +206,7 @@ Hypercourt
 Jumel
 L'Étoile
 Laboissière-en-Santerre
+La Chaussée-Tirancourt
 Lahoussoye
 Lamotte-Buleux
 Lanchères
@@ -249,9 +259,11 @@ Montdidier
 Moreuil
 Morlancourt
 Morvillers-Saint-Saturnin
+Mouflers
 Moyencourt-lès-Poix
 Moyenneville
 Muille-Villette
+Nampont
 Naours
 Nesle
 Neuilly-le-Dien
@@ -261,6 +273,7 @@ Nouvion
 Noyelles-en-Chaussée
 Noyelles-sur-Mer
 Occoches
+Ô-de-Selle
 Offignies
 Offoy
 Oisemont
@@ -280,6 +293,7 @@ Pont-de-Metz
 Ponthoile
 Pont-Noyelles
 Pont-Remy
+Port-le-Grand
 Potte
 Punchy
 Puzeaux
@@ -298,6 +312,7 @@ Rouvroy-en-Santerre
 Roye
 Rubempré
 Rue
+Sailly-Flibeaucourt
 Sailly-Saillisel
 Sains-en-Amiénois
 Saint-Aubin-Rivière
@@ -339,6 +354,7 @@ Vecquemont
 Vercourt
 Vers-sur-Selle
 Vignacourt
+Ville-le-Marclet
 Villers-Bocage
 Villers-Bretonneux
 Villers-Faucon

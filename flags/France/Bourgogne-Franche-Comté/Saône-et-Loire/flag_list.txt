@@ -1,5 +1,6 @@
 Ameugny
 Autun
+Auxy
 Azé
 Bantanges
 Bellevesvre
@@ -8,12 +9,14 @@ Berzé-le-Châtel
 Bey
 Blanzy
 Bonnay
+Bonnay-Saint-Ythaire
 Bourbon-Lancy
 Boyer
 Branges
 Brienne
 Burnand
 Burzy
+Bussières
 Buxy
 Céron
 Chagny
@@ -24,6 +27,7 @@ Chamilly
 Champforgeuil
 Change
 Chapaize
+Charnay-lès-Mâcon
 Charolles
 Charrecey
 Chasselas
@@ -40,7 +44,9 @@ Chissey-lès-Mâcon
 Ciel
 Clessé
 Cluny
+Cordesse
 Cormatin
+Cortambert
 Cortevaix
 Coublanc
 Couches
@@ -50,6 +56,7 @@ Crissey
 Cuiseaux
 Cuisery
 Culles-les-Roches
+Curgy
 Curtil-sous-Burnand
 Dampierre-en-Bresse
 Davayé
@@ -59,18 +66,23 @@ Dezize-lès-Maranges
 Diconne
 Digoin
 Dracy-le-Fort
+Dracy-Saint-Loup
 Dyo
+Écuisses
 Épervans
 Épinac
 Étang-sur-Arroux
+Flagy
 Fontaines
 Frangy-en-Bresse
 Frontenard
 Géanges
+Genouilly
 Givry
 Granges
 Gueugnon
 Hurigny
+Igornay
 Issy-l'Évêque
 Jouvençon
 Jugy
@@ -78,6 +90,7 @@ La Clayette
 La Frette
 La Guiche
 La Racineuse
+La Roche-Vineuse
 La Salle
 La Tagnière
 La Truchère
@@ -90,6 +103,7 @@ Leynes
 Loisy
 Longepierre
 Louhans
+Lournand
 Lugny
 Lugny-lès-Charolles
 Mâcon
@@ -97,11 +111,13 @@ Malay
 Marcigny
 Marmagne
 Martailly-lès-Brancion
+Massilly
 Matour
 Mellecey
 Ménetreuil
 Mercurey
 Mervans
+Milly-Lamartine
 Montbellet
 Montceau-les-Mines
 Montcenis
@@ -109,6 +125,7 @@ Montchanin
 Mont-lès-Seurre
 Montpont-en-Bresse
 Montret
+Morlet
 Navilly
 Ormes
 Ouroux-sur-Saône
@@ -128,9 +145,11 @@ Sailly
 Saint-Albain
 Saint-Bérain-sur-Dheune
 Saint-Bonnet-en-Bresse
+Saint-Clément-sur-Guye
 Saint-Denis-de-Vaux
 Saint-Désert
 Sainte-Croix
+Saint-Émiland
 Sainte-Radegonde
 Saint-Firmin
 Saint-Gengoux-le-National
@@ -138,16 +157,21 @@ Saint-Germain-du-Bois
 Saint-Gilles
 Saint-Huruge
 Saint-Jean-de-Vaux
+Saint-Laurent-d'Andenay
+Saint-Léger-du-Bois
 Saint-Léger-lès-Paray
 Saint-Léger-sur-Dheune
 Saint-Loup-de-la-Salle
 Saint-Loup-de-Varennes
 Saint-Marcel
 Saint-Mard-de-Vaux
+Saint-Martin-de-Commune
 Saint-Martin-en-Bresse
 Saint-Martin-sous-Montaigu
 Saint-Maurice-de-Satonnay
+Saint-Micaud
 Saint-Pierre-de-Varennes
+Saint-Privé
 Saint-Rémy
 Saint-Sernin-du-Bois
 Saint-Sernin-du-Plain
@@ -170,15 +194,21 @@ Sigy-le-Châtel
 Simard
 Sologny
 Sornay
+Sully
 Taizé
 Tancon
+Tintry
+Torcy
 Toulon-sur-Arroux
 Tournus
 Uchizy
+Varennes-lès-Mâcon
 Varennes-Saint-Sauveur
+Vaux-en-Pré
 Verdun-sur-le-Doubs
 Villeneuve-en-Montagne
 Vincelles
 Vindecy
+Vinzelles
 Viré
 Vitry-sur-Loire

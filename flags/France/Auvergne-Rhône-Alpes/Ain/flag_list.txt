@@ -58,6 +58,7 @@ Cormoranche-sur-Saône
 Courmangoux
 Crottet
 Crozet
+Cruzilles-lès-Mépillat
 Culoz
 Curtafond
 Cuzieu
@@ -74,6 +75,7 @@ Farges
 Feillens
 Ferney-Voltaire
 Foissiat
+Francheleins
 Garnerans
 Gex
 Gorrevod
@@ -81,6 +83,7 @@ Grand-Corent
 Grièges
 Grilly
 Hauteville-Lompnes
+Illiat
 Izenave
 Izernore
 Jassans-Riottier
@@ -124,6 +127,7 @@ Oyonnax
 Péron
 Péronnas
 Pérouges
+Peyzieux-sur-Saône
 Pizay
 Polliat
 Poncin
@@ -137,8 +141,10 @@ Prémillieu
 Pressiat
 Prévessin-Moëns
 Priay
+Rancé
 Replonges
 Revonnas
+Reyrieux
 Rignieux-le-Franc
 Romans
 Saint-André-de-Bâgé
@@ -152,6 +158,7 @@ Saint-Didier-sur-Chalaronne
 Sainte-Croix
 Sainte-Olive
 Saint-Étienne-du-Bois
+Saint-Étienne-sur-Chalaronne
 Saint-Euphémie
 Saint-Genis-Pouilly
 Saint-Genis-sur-Menthon
@@ -160,6 +167,7 @@ Saint-Germain-de-Joux
 Saint-Germain-sur-Renon
 Saint-Jean-de-Gonville
 Saint-Jean-de-Niost
+Saint-Jean-de-Thurigneux
 Saint-Jean-le-Vieux
 Saint-Jean-sur-Veyle
 Saint-Laurent-sur-Saône
@@ -186,6 +194,7 @@ Servas
 Seyssel
 Tenay
 Thézillieu
+Thil
 Thoiry
 Thoissey
 Tossiat

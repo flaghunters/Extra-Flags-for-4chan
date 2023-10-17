@@ -107,6 +107,7 @@ Corgoloin
 Couchey
 Coulmier-le-Sec
 Courban
+Courcelles-Frémoy
 Courcelles-lès-Semur
 Couternon
 Créancey
@@ -117,6 +118,7 @@ Dampierre-et-Flée
 Darcey
 Darois
 Dijon
+Dompierre-en-Morvan
 Drambon
 Duesme
 Échalot
@@ -170,11 +172,13 @@ Izeure
 Izier
 Jallanges
 Jours-lès-Baigneux
+Juillenay
 L'Étang-Vergy
 Labergement-lès-Auxonne
 Labruyère
 La Bussière-sur-Ouche
 La Chaume
+Lacour-d'Arcenay
 Ladoix-Serrigny
 Laignes
 Lamarche-sur-Saône
@@ -205,7 +209,9 @@ Magny-lès-Villers
 Magny-sur-Tille
 Maisey-le-Duc
 Mâlain
+Manlay
 Marcenay
+Marcheseuil
 Marey-lès-Fussey
 Marigny-lès-Reullée
 Marliens
@@ -227,9 +233,11 @@ Moitron
 Molesme
 Montagny-lès-Beaune
 Montbard
+Montberthault
 Monthelie
 Montigny-Mornay-Villeneuve-sur-Vingeanne
 Montigny-sur-Aube
+Montlay-en-Auxois
 Montliot-et-Courcelles
 Montmançon
 Montmoyen
@@ -339,6 +347,7 @@ Tart-le-Bas
 Ternant
 Terrefondrée
 Thoires
+Thoisy-la-Berchère
 Thoisy-le-Désert
 Thorey-en-Plaine
 Thoste
@@ -360,10 +369,13 @@ Velars-sur-Ouche
 Venarey-les-Laumes
 Verdonnet
 Veuxhaulles-sur-Aube
+Vianges
 Vic-des-Prés
 Vielverge
+Vieux-Château
 Vignoles
 Villaines-en-Duesmois
+Villargoix
 Villebichot
 Villecomte
 Villedieu
@@ -378,5 +390,6 @@ Villy-le-Moutier
 Vitteaux
 Vix
 Volnay
+Voudenay
 Vougeot
 Voulaines-les-Templiers

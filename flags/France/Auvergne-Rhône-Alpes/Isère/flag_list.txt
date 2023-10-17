@@ -10,6 +10,7 @@ Beauvoir-de-Marc
 Bellegarde-Poussieu
 Bernin
 Biviers
+Blandin
 Bonnefamille
 Bourgoin-Jallieu
 Brié-et-Angonnes
@@ -26,6 +27,7 @@ Chasse-sur-Rhône
 Chateauvillain
 Châtenay
 Chavanoz
+Chélieu
 Chimilin
 Chuzelles
 Claix
@@ -35,9 +37,11 @@ Corbelin
 Corenc
 Cornillon-en-Trièves
 Corps
+Coublevie
 Crémieu
 Dizimieu
 Doissin
+Domarin
 Domène
 Échirolles
 Eclose-Badinières
@@ -46,6 +50,7 @@ Eybens
 Eyzin-Pinet
 Flachères
 Fontaine
+Fontanil-Cornillon
 Froges
 Gières
 Goncelin
@@ -107,6 +112,7 @@ Pont-de-Chéruy
 Pont-en-Royans
 Pont-Évêque
 Pressins
+Réaumont
 Renage
 Reventin-Vaugris
 Rives
@@ -118,14 +124,19 @@ Roybon
 Sablons
 Saint-Alban-de-Roche
 Saint-André-en-Royans
+Saint-André-le-Gaz
 Saint Antoine l'Abbaye
 Saint-Baudille-de-la-Tour
 Saint-Bernard
+Saint-Blaise-du-Buis
 Saint-Bonnet-de-Chavagne
+Saint-Cassien
 Saint-Chef
 Saint-Christophe-sur-Guiers
 Saint-Clair-de-la-Tour
 Saint-Clair-du-Rhône
+Saint-Didier-de-la-Tour
+Saint-Égrève
 Sainte-Marie-du-Mont
 Saint-Étienne-de-Saint-Geoirs
 Saint-Geoire-en-Valdaine
@@ -149,11 +160,13 @@ Saint-Quentin-sur-Isère
 Saint-Romain-de-Jalionas
 Saint-Romans
 Saint-Savin
+Saint-Victor-de-Cessieu
 Salagnon
 Salaise-sur-Sanne
 Sardieu
 Sassenage
 Satolas-et-Bonce
+Sérézin-de-la-Tour
 Serre-Nerpol
 Seyssinet-Pariset
 Seyssins
@@ -162,6 +175,7 @@ Sonnay
 Tencin
 Thodure
 Tullins
+Val-de-Virieu
 Valencin
 Varces-Allières-et-Risset
 Vasselin
@@ -175,6 +189,7 @@ Vif
 Vignieu
 Villard-Bonnot
 Villard-de-Lans
+Villefontaine
 Ville-sous-Anjou
 Villette-d'Anthon
 Villette-de-Vienne

@@ -1,7 +1,9 @@
 Abancourt
 Abbecourt
+Abbeville-Saint-Lucien
 Agnetz
 Airion
+Allonne
 Amblainville
 Andeville
 Ansacq
@@ -11,6 +13,7 @@ Apremont
 Armancourt
 Arsy
 Attichy
+Auteuil
 Autrêches
 Avrechy
 Avricourt
@@ -32,6 +35,8 @@ Bienville
 Biermont
 Blaincourt-lès-Précy
 Blargies
+Bonlier
+Bonneuil-les-Eaux
 Bonvillers
 Boran-sur-Oise
 Bornel
@@ -106,6 +111,7 @@ Feuquières
 Fitz-James
 Flavacourt
 Flavy-le-Meldeux
+Fléchy
 Fleurines
 Fleury
 Fontaine-Chaalis
@@ -122,10 +128,12 @@ Godenvillers
 Golancourt
 Gournay-sur-Aronde
 Gouvieux
+Gouy-les-Groseillers
 Grandvilliers
 Guignecourt
 Guiscard
 Hadancourt-le-Haut-Clocher
+Hardivillers
 Heilles
 Hémévillers
 Hondainville
@@ -138,12 +146,15 @@ Labosse
 Lachapelle-aux-Pots
 La Chapelle-en-Serval
 Lachapelle-Saint-Pierre
+Lachaussée-du-Bois-d'Écu
 Lacroix-Saint-Ouen
+La Drenne
 La Houssoye
 Lalande-en-Son
 Lamorlaye
 La Neuville-en-Hez
 La Neuville-Roy
+La Neuville-Saint-Pierre
 La Neuville-sur-Ressons
 Larbroye
 Lattainville
@@ -172,10 +183,12 @@ Longueil-Sainte-Marie
 Lormaison
 Maignelay-Montigny
 Maimbeville
+Maisoncelle-Tuilerie
 Marest-sur-Matz
 Margny-lès-Compiègne
 Margny-sur-Matz
 Marquéglise
+Maulers
 Mélicocq
 Mello
 Méru
@@ -198,12 +211,15 @@ Nanteuil-le-Haudouin
 Néry
 Neuilly-en-Thelle
 Neuville-Bosc
+Nivillers
 Noailles
 Nogent-sur-Oise
+Noirémont
 Noyers-Saint-Martin
 Noyon
 Ons-en-Bray
 Ormoy-Villers
+Oroër
 Orry-la-Ville
 Orvillers-Sorel
 Oursel-Maison
@@ -219,6 +235,7 @@ Pont-l'Évêque
 Pontpoint
 Pont-Sainte-Maxence
 Précy-sur-Oise
+Puits-la-Vallée
 Ravenel
 Reilly
 Remy
@@ -245,6 +262,7 @@ Saint-Leu-d'Esserent
 Saint-Martin-Longueau
 Saint-Maur
 Saint-Paul
+Saint-Sulpice
 Saint-Vaast-de-Longmont
 Salency
 Sarcus
@@ -258,6 +276,7 @@ Silly-Tillard
 Songeons
 Suzoy
 Tartigny
+Therdonne
 Thibivillers
 Thiers-sur-Thève
 Thourotte
@@ -272,6 +291,7 @@ Troissereux
 Trosly-Breuil
 Troussencourt
 Trumilly
+Valdampierre
 Varesnes
 Vaudancourt
 Venette
@@ -284,5 +304,6 @@ Villers-Saint-Frambourg-Ognon
 Villers-Saint-Paul
 Villers-Saint-Sépulcre
 Villers-sous-Saint-Leu
+Villers-Vicomte
 Warluis
 Wavignies
