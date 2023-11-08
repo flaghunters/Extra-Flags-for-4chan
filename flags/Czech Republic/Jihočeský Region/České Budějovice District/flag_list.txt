@@ -2,26 +2,35 @@ Adamov
 Bečice
 Borek
 Borovany
+Borovnice
 Boršov nad Vltavou
+Bošilec
+Branišov
+Břehov
 Čakov
 Čejkovice
 Čenkov u Bechyně
 České Budějovice
 Chotýčany
 Chrášťany
+Čížkrajice
 Dasný
 Dívčice
 Dobrá Voda u Českých Budějovic
+Dobšice
 Dolní Bukovsko
 Doubravice
 Doudleby
+Drahotěšice
 Dražíč
 Dříteň
 Dubičné
 Dubné
 Dynín
+Habří
 Hartmanice
 Heřmaň
+Hlavatce
 Hlincová Hora
 Hluboká nad Vltavou
 Homole
@@ -29,6 +38,7 @@ Horní Kněžeklady
 Horní Stropnice
 Hosín
 Hosty
+Hradce
 Hranice
 Hrdějovice
 Hůry
@@ -41,11 +51,14 @@ Kamenný Újezd
 Komařice
 Kvítkovice
 Ledenice
+Libín
 Libníč
+Lipí
 Lišov
 Litvínovice
 Ločenice
 Mazelov
+Mladošovice
 Modrá Hůrka
 Mokrý Lom
 Mydlovary
@@ -54,7 +67,9 @@ Nedabyle
 Neplachov
 Nová Ves
 Nové Hrady
+Olešnice
 Olešník
+Ostrolovský Újezd
 Petříkov
 Pištín
 Planá
@@ -65,10 +80,12 @@ Roudné
 Rudolfov
 Sedlec
 Ševětín
+Slavče
 Srubec
 Staré Hodějovice
 Štěpánovice
 Strážkovice
+Střížov
 Strýčice
 Svatý Jan nad Malší
 Temelín
@@ -78,6 +95,7 @@ Týn nad Vltavou
 Včelná
 Vidov
 Vitín
+Vlkov
 Vrábče
 Vráto
 Všemyslice
@@ -85,6 +103,7 @@ Záboří
 Žabovřesky
 Zahájí
 Žár
+Závraty
 Žimutice
 Zliv
 Zvíkov

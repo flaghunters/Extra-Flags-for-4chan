@@ -1,9 +1,11 @@
 Adamov
+Bedřichov
 Benešov
 Blansko
 Bořitov
 Borotín
 Boskovice
+Brťov-Jeneč
 Bukovina
 Bukovinka
 Býkovice
@@ -30,8 +32,11 @@ Kotvrdovice
 Kozárov
 Krasová
 Křetín
+Krhov
 Křtěnov
 Křtiny
+Kulířov
+Kunčina Ves
 Kunice
 Kuničky
 Kunštát
@@ -43,9 +48,11 @@ Lhota u Lysic
 Lhota u Olešnice
 Lipovec
 Lipůvka
+Louka
 Lubě
 Ludíkov
 Lysice
+Makov
 Malá Lhota
 Malá Roudka
 Míchov
@@ -89,6 +96,7 @@ Uhřice
 Újezd u Boskovic
 Újezd u Černé Hory
 Úsobrno
+Ústup
 Valchov
 Vanovice
 Vavřinec
@@ -105,3 +113,4 @@ Zbraslavec
 Žďár
 Žďárná
 Žernovník
+Žerůtky

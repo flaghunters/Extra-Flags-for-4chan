@@ -1,4 +1,5 @@
 Běleč
+Běloky
 Beřovice
 Bílichov
 Blevice
@@ -6,17 +7,22 @@ Brandýsek
 Braškov
 Bratronice
 Buštěhrad
+Černuc
+Chržín
 Cvrčovice
 Doksy
 Dolany
 Dřetovice
 Dřínov
+Drnek
 Družec
 Hobšovice
 Hořešovice
+Hořešovičky
 Horní Bezděkov
 Hospozín
 Hostouň
+Hradečno
 Hrdlív
 Hřebeč
 Jarpice
@@ -32,13 +38,17 @@ Knovíz
 Koleč
 Královice
 Kutrovice
+Kvílice
 Kyšice
 Lány
+Ledce
 Lhota
 Libochovičky
 Libovice
 Libušín
 Lidice
+Líský
+Loucká
 Makotřasy
 Malé Kyšice
 Malé Přítočno
@@ -63,9 +73,12 @@ Slatina
 Smečno
 Stehelčeves
 Stochov
+Stradonice
+Studeněves
 Svárov
 Svinařov
 Třebichovice
+Třebíz
 Třebusice
 Tuchlovice
 Tuřany
@@ -79,6 +92,7 @@ Vraný
 Vrbičany
 Zájezd
 Zákolany
+Želenice
 Zichovec
 Žilina
 Žižice
