@@ -1,4 +1,5 @@
 Balashikhinsky District
+Bogorodsky District
 Bronnitsy
 Chekhovsky District
 Chernogolovka
@@ -30,7 +31,6 @@ Molodyozhny
 Mozhaysky District
 Mytishchinsky District
 Naro-Fominsky District
-Noginsky District
 Odintsovsky District
 Orekhovo-Zuyevsky District
 Pavlovo-Posadsky District
@@ -56,4 +56,4 @@ Voskresensky District
 Yegoryevsky District
 Zaraysky District
 Zhukovsky
-Zvyozdny gorodok
+Zvyozdny Gorodok
