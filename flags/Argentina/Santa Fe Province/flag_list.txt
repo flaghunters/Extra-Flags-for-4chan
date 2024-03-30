@@ -76,11 +76,11 @@ Diego de Alvear
 Diputado Natalio Ricardone
 Egusquiza
 El Arazá
-Elisa
-Elortondo
 El Rabón
 El Sombrerito
 El Trébol
+Elisa
+Elortondo
 Emilia
 Empalme San Carlos
 Empalme Villa Constitución
@@ -118,23 +118,23 @@ Humboldt
 Ibarlucea
 Josefina
 Juncal
-Labordeboy
 La Brava
 La Camila
 La Criolla
 La Gallareta
-Laguna Paiva
-Landeta
 La Pelada
 La Rubia
 La Sarita
+La Vanguardia
+Labordeboy
+Laguna Paiva
+Landeta
 Las Garzas
 Las Palmeras
 Las Parejas
 Las Petacas
 Las Rosas
 Las Toscas
-La Vanguardia
 Lehmann
 Llambi Campbell
 Logroño
@@ -155,8 +155,8 @@ Melincué
 Monigotes
 Monje
 Monte Oscuridad
-Montes de Oca
 Monte Vera
+Montes de Oca
 Murphy
 Naré
 Nelson
@@ -190,6 +190,7 @@ Romang
 Rosario
 Rueda
 Rufino
+Sa Pereira
 Saladero Mariano Cabal
 Salto Grande
 San Agustín
@@ -198,9 +199,7 @@ San Carlos Centro
 San Carlos Norte
 San Carlos Sud
 San Cristóbal
-Sancti Spíritu
 San Eduardo
-Sanford
 San Francisco de Santa Fe
 San Genaro
 San Gregorio
@@ -216,6 +215,9 @@ San Justo
 San Lorenzo
 San Martín de las Escobas
 San Martín Norte
+San Vicente
+Sancti Spíritu
+Sanford
 Santa Clara de Buena Vista
 Santa Clara de Saguier
 Santa Fe
@@ -225,8 +227,6 @@ Santa Teresa
 Santo Domingo
 Santo Tomé
 Santurce
-San Vicente
-Sa Pereira
 Sargento Cabral
 Sarmiento
 Sastre y Ortiz

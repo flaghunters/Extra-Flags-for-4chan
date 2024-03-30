@@ -154,11 +154,11 @@ La Frénaye
 La Hallotière
 La Houssaye-Béranger
 La Londe
-Lammerville
-Lanquetot
 La Remuée
 La Trinité-du-Mont
 La Vaupalière
+Lammerville
+Lanquetot
 Le Bois-Robert
 Le Bourg-Dun
 Le Grand-Quevilly
@@ -167,11 +167,11 @@ Le Havre
 Le Mesnil-Durdent
 Le Mesnil-Lieubray
 Le Mesnil-Réaume
-Les Grandes-Ventes
-Les Trois-Pierres
 Le Tilleul
 Le Trait
 Le Tréport
+Les Grandes-Ventes
+Les Trois-Pierres
 Lillebonne
 Lintot
 Longueil
@@ -199,13 +199,13 @@ Mesnil-Raoul
 Mirville
 Monchaux-Soreng
 Mont-Cauvaire
-Montivilliers
 Mont-Saint-Aignan
+Montivilliers
 Montville
 Morgny-la-Pommeraye
 Moulineaux
-Neufchâtel-en-Bray
 Neuf-Marché
+Neufchâtel-en-Bray
 Neuville-Ferrières
 Néville
 Nolléval
@@ -256,13 +256,6 @@ Saint-Aubin-sur-Scie
 Saint-Clair-sur-les-Monts
 Saint-Denis-d'Aclon
 Saint-Denis-sur-Scie
-Sainte-Adresse
-Sainte-Austreberthe
-Sainte-Colombe
-Sainte-Geneviève
-Sainte-Hélène-Bondeville
-Sainte-Marguerite-sur-Duclair
-Sainte-Marguerite-sur-Mer
 Saint-Étienne-du-Rouvray
 Saint-Germain-d'Étables
 Saint-Germain-sur-Eaulne
@@ -293,6 +286,13 @@ Saint-Sylvain
 Saint-Vaast-d'Équiqueville
 Saint-Vaast-Dieppedalle
 Saint-Valery-en-Caux
+Sainte-Adresse
+Sainte-Austreberthe
+Sainte-Colombe
+Sainte-Geneviève
+Sainte-Hélène-Bondeville
+Sainte-Marguerite-sur-Duclair
+Sainte-Marguerite-sur-Mer
 Sandouville
 Sassetot-le-Mauconduit
 Sasseville

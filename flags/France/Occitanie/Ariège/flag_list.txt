@@ -26,8 +26,8 @@ Augirein
 Aulos-Sinsat
 Aulus-les-Bains
 Auzat
-Axiat
 Ax-les-Thermes
+Axiat
 Bagert
 Balacet
 Balaguères
@@ -133,6 +133,7 @@ La Bastide-de-Lordat
 La Bastide-de-Sérou
 La Bastide-du-Salat
 La Bastide-sur-l'Hers
+La Tour-du-Crieu
 Labatut
 Lacave
 Lacourt
@@ -146,7 +147,6 @@ Larnat
 Laroque-d'Olmes
 Lasserre
 Lassur
-La Tour-du-Crieu
 Lavelanet
 Le Bosc
 Le Carlaret
@@ -156,16 +156,16 @@ Le Peyrat
 Le Pla
 Le Port
 Le Puch
+Le Vernet
 Léran
 Lercoul
 Les Bordes-sur-Arize
 Les Cabannes
+Les Issards
+Les Pujols
 Lescousse
 Lescure
-Les Issards
 Lesparrou
-Les Pujols
-Le Vernet
 Leychert
 Lézat-sur-Lèze
 Lieurac
@@ -249,9 +249,6 @@ Rouze
 Sabarat
 Saint-Amadou
 Saint-Bauzeil
-Sainte-Croix-Volvestre
-Sainte-Foi
-Sainte-Suzanne
 Saint-Félix-de-Rieutord
 Saint-Félix-de-Tournegat
 Saint-Girons
@@ -271,6 +268,9 @@ Saint-Quentin-la-Tour
 Saint-Quirc
 Saint-Victor-Rouzaud
 Saint-Ybars
+Sainte-Croix-Volvestre
+Sainte-Foi
+Sainte-Suzanne
 Salsein
 Saurat
 Sautel

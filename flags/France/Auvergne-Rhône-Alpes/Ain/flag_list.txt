@@ -89,16 +89,16 @@ Izernore
 Jassans-Riottier
 Jasseron
 L'Abergement-de-Varey
-Labalme
 La Boisse
+Labalme
 Lagnieu
 Laiz
-Léaz
 Le Grand-Abergement
-Leléx
-Lent
 Le Plantay
 Le Poizat-Lalleyriat
+Léaz
+Leléx
+Lent
 Les Neyrolles
 Lhuis
 Loyettes
@@ -155,8 +155,6 @@ Saint-Denis-en-Bugey
 Saint-Denis-lès-Bourg
 Saint-Didier-d'Aussiat
 Saint-Didier-sur-Chalaronne
-Sainte-Croix
-Sainte-Olive
 Saint-Étienne-du-Bois
 Saint-Étienne-sur-Chalaronne
 Saint-Euphémie
@@ -183,6 +181,8 @@ Saint-Sulpice
 Saint-Trivier-de-Courtes
 Saint-Trivier-sur-Moignans
 Saint-Vulbas
+Sainte-Croix
+Sainte-Olive
 Sandrans
 Sault-Brénaz
 Sauverny

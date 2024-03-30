@@ -94,8 +94,8 @@ Férolles-Attilly
 Ferrières-en-Brie
 Flagy
 Fleury-en-Bière
-Fontainebleau
 Fontaine-le-Port
+Fontainebleau
 Fontenailles
 Fontenay-Trésigny
 Forges
@@ -133,22 +133,22 @@ La Croix-en-Brie
 La Ferté-Gaucher
 La Ferté-sous-Jouarre
 La Genevraye
-Lagny-sur-Marne
 La Grande-Paroisse
 La Haute-Maison
 La Rochette
+Lagny-sur-Marne
 Laval-en-Brie
 Le Châtelet-en-Brie
-Léchelle
 Le Mée-sur-Seine
 Le Pin
+Le Vaudoué
+Léchelle
 Les Chapelles-Bourbon
+Les Écrennes
+Les Ormes-sur-Voulzie
 Lescherolles
 Lesches
-Les Écrennes
 Lésigny
-Les Ormes-sur-Voulzie
-Le Vaudoué
 Lieusaint
 Liverdy-en-Brie
 Lizy-sur-Ourcq
@@ -157,8 +157,8 @@ Louan-Villegruis-Fontaine
 Lumigny-Nesles-Ormeaux
 Machault
 Maincy
-Maisoncelles-en-Brie
 Maison-Rouge
+Maisoncelles-en-Brie
 Mareuil-lès-Meaux
 Marles-en-Brie
 Marolles-en-Brie
@@ -223,7 +223,6 @@ Saâcy-sur-Marne
 Sablonnières
 Saint-Augustin
 Saint-Cyr-sur-Morin
-Sainte-Colombe
 Saint-Fargeau-Ponthierry
 Saint-Fiacre
 Saint-Germain-Laval
@@ -237,6 +236,7 @@ Saint-Pathus
 Saint-Pierre-lès-Nemours
 Saint-Sauveur-sur-École
 Saint-Soupplets
+Sainte-Colombe
 Salins
 Sammeron
 Samois-sur-Seine

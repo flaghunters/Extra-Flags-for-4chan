@@ -141,21 +141,21 @@ Houdancourt
 Ivry-le-Temple
 Jaméricourt
 Jouy-sous-Thelle
-Laberlière
-Labosse
-Lachapelle-aux-Pots
 La Chapelle-en-Serval
-Lachapelle-Saint-Pierre
-Lachaussée-du-Bois-d'Écu
-Lacroix-Saint-Ouen
 La Drenne
 La Houssoye
-Lalande-en-Son
-Lamorlaye
 La Neuville-en-Hez
 La Neuville-Roy
 La Neuville-Saint-Pierre
 La Neuville-sur-Ressons
+Laberlière
+Labosse
+Lachapelle-aux-Pots
+Lachapelle-Saint-Pierre
+Lachaussée-du-Bois-d'Écu
+Lacroix-Saint-Ouen
+Lalande-en-Son
+Lamorlaye
 Larbroye
 Lattainville
 Lavilletertre
@@ -197,11 +197,11 @@ Moliens
 Monceaux
 Monchy-Humières
 Monchy-Saint-Éloi
+Mont-l'Évêque
 Montagny-en-Vexin
 Montagny-Sainte-Félicité
 Montataire
 Montjavoult
-Mont-l'Évêque
 Montlognon
 Montmartin
 Mortefontaine
@@ -230,10 +230,10 @@ Pimprez
 Pisseleu
 Plailly
 Ponchon
-Pontarmé
 Pont-l'Évêque
-Pontpoint
 Pont-Sainte-Maxence
+Pontarmé
+Pontpoint
 Précy-sur-Oise
 Puits-la-Vallée
 Ravenel
@@ -252,7 +252,6 @@ Roye-sur-Matz
 Saint-Aubin-sous-Erquery
 Saint-Crépin-aux-Bois
 Saint-Crépin-Ibouvillers
-Sainte-Geneviève
 Saint-Félix
 Saint-Germain-la-Poterie
 Saint-Germer-de-Fly
@@ -264,6 +263,7 @@ Saint-Maur
 Saint-Paul
 Saint-Sulpice
 Saint-Vaast-de-Longmont
+Sainte-Geneviève
 Salency
 Sarcus
 Savignies

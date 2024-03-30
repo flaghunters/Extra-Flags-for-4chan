@@ -72,8 +72,8 @@ Castelnaudary
 Castelreng
 Caudebronde
 Caunes-Minervois
-Caunettes-en-Val
 Caunette-sur-Lauquet
+Caunettes-en-Val
 Caux-et-Sauzens
 Cavanac
 Caves
@@ -150,31 +150,31 @@ Hounoux
 Issel
 Jonquières
 Joucou
+La Cassaigne
+La Courtète
+La Digne-d'Amont
+La Digne-d'Aval
+La Force
+La Louvière-Lauragais
+La Palme
+La Pomarède
+La Redorte
+La Serpent
+La Tourette-Cabardès
 Labastide-d'Anjou
 Labastide-en-Val
 Labastide-Esparbairenque
 Labécède-Lauragais
-La Cassaigne
 Lacombe
-La Courtète
 Ladern-sur-Lauquet
-La Digne-d'Amont
-La Digne-d'Aval
 Lafage
-La Force
 Lagrasse
-La Louvière-Lauragais
 Lanet
-La Palme
-La Pomarède
 Laprade
-La Redorte
 Laroque-de-Fa
 Lasbordes
-La Serpent
 Lasserre-de-Prouille
 Lastours
-La Tourette-Cabardès
 Laurabuc
 Laurac
 Lauraguel
@@ -207,8 +207,8 @@ Marsa
 Marseillette
 Mas-Cabardès
 Mas-des-Cours
-Massac
 Mas-Saintes-Puelles
+Massac
 Mayreville
 Mayronnes
 Mazerolles-du-Razès
@@ -255,8 +255,8 @@ Paraza
 Pauligne
 Payra-sur-l'Hers
 Paziols
-Pécharic-et-le-Py
 Pech-Luna
+Pécharic-et-le-Py
 Pennautier
 Pépieux
 Pexiora
@@ -271,8 +271,8 @@ Pieusse
 Plaigne
 Pomas
 Pomy
-Portel-des-Corbières
 Port-La Nouvelle
+Portel-des-Corbières
 Pouzols-Minervois
 Pradelles-Cabardès
 Preixan
@@ -307,9 +307,6 @@ Saint-Benoît
 Saint-Couat-d'Aude
 Saint-Couat-du-Razès
 Saint-Denis
-Sainte-Colombe-sur-Guette
-Sainte-Eulalie
-Sainte-Valière
 Saint-Ferriol
 Saint-Frichoux
 Saint-Gaudéric
@@ -321,8 +318,8 @@ Saint-Just-et-le-Bézu
 Saint-Laurent-de-la-Cabrerisse
 Saint-Louis-et-Parahou
 Saint-Marcel-sur-Aude
-Saint-Martin-des-Puits
 Saint-Martin-de-Villereglan
+Saint-Martin-des-Puits
 Saint-Martin-Lalande
 Saint-Martin-le-Vieil
 Saint-Michel-de-Lanès
@@ -332,6 +329,9 @@ Saint-Paulet
 Saint-Pierre-des-Champs
 Saint-Polycarpe
 Saint-Sernin
+Sainte-Colombe-sur-Guette
+Sainte-Eulalie
+Sainte-Valière
 Saissac
 Sallèles-Cabardès
 Sallèles-d'Aude
@@ -370,9 +370,9 @@ Verzeille
 Vignevieille
 Villalier
 Villanière
+Villar-en-Val
 Villardebelle
 Villardonnel
-Villar-en-Val
 Villarzel-Cabardès
 Villarzel-du-Razès
 Villasavary

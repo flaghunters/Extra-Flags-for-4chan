@@ -111,6 +111,7 @@ Juzes
 Juzet-de-Luchon
 L'Isle-en-Dodon
 L'Union
+La Salvetat-Saint-Gilles
 Labarthe-Rivière
 Labarthe-sur-Lèze
 Labastide-Beauvoir
@@ -123,7 +124,6 @@ Lagardelle-sur-Lèze
 Lanta
 Lapeyrouse-Fossat
 Larra
-La Salvetat-Saint-Gilles
 Latour
 Launaguet
 Lauzerville
@@ -135,12 +135,12 @@ Le Born
 Le Burgaud
 Le Cabanial
 Le Castéra
-Lécussan
 Le Faget
 Le Fauga
 Le Fousseret
-Léguevin
 Le Plan
+Lécussan
+Léguevin
 Lespinasse
 Lestelle-de-Saint-Martory
 Lévignac
@@ -196,8 +196,8 @@ Pechbusque
 Péguilhan
 Pelleport
 Pibrac
-Pinsaguel
 Pins-Justaret
+Pinsaguel
 Plagnole
 Plaisance-du-Touch
 Pointis-de-Rivière
@@ -222,8 +222,6 @@ Saint-Alban
 Saint-André
 Saint-Bertrand-de-Comminges
 Saint-Clar-de-Rivière
-Sainte-Foy-d'Aigrefeuille
-Sainte-Foy-de-Peyrolières
 Saint-Élix-le-Château
 Saint-Félix-Lauragais
 Saint-Gaudens
@@ -248,6 +246,8 @@ Saint-Plancard
 Saint-Sauveur
 Saint-Sulpice-sur-Lèze
 Saint-Vincent
+Sainte-Foy-d'Aigrefeuille
+Sainte-Foy-de-Peyrolières
 Salies-du-Salat
 Saubens
 Sauveterre-de-Comminges

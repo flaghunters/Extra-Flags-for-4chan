@@ -86,6 +86,7 @@ Grazac
 Guitalens-L'Albarède
 Jonquières
 Jouqueviel
+La Sauzière-Saint-Jean
 Labastide-de-Lévis
 Labastide-Gabausse
 Labastide-Rouairoux
@@ -102,21 +103,20 @@ Lacrouzette
 Lagardiolle
 Lagarrigue
 Lagrave
-La Sauzière-Saint-Jean
 Lasgraisses
 Lautrec
 Lavaur
 Le Bez
-Lédas-et-Penthiès
 Le Dourn
 Le Fraysse
 Le Masnau-Massuguiès
-Lempaut
 Le Rialet
+Le Vintrou
+Lédas-et-Penthiès
+Lempaut
 Les Cammazes
 Lescout
 Lescure-d'Albigeois
-Le Vintrou
 Lisle-sur-Tarn
 Livers-Cazelles
 Lombers
@@ -136,6 +136,7 @@ Miolles
 Mirandol-Bourgnounac
 Missècle
 Monestiés
+Mont-Roc
 Montans
 Montcabrier
 Montdragon
@@ -146,7 +147,6 @@ Montgey
 Montirat
 Montpinier
 Montredon-Labessonnié
-Mont-Roc
 Montvalen
 Moularès
 Moulayrès
@@ -195,7 +195,6 @@ Saint-Avit
 Saint-Beauzile
 Saint-Benoît-de-Carmaux
 Saint-Cirgue
-Sainte-Gemme
 Saint-Gauzens
 Saint-Genest-de-Contest
 Saint-Germain-des-Prés
@@ -217,6 +216,7 @@ Saint-Salvy-de-la-Balme
 Saint-Sernin-lès-Lavaur
 Saint-Sulpice-la-Pointe
 Saint-Urcisse
+Sainte-Gemme
 Saïx
 Salvagnac
 Saussenac

@@ -53,18 +53,18 @@ La Chapelle-Blanche-Saint-Martin
 La Croix-en-Touraine
 La Guerche
 La Membrolle-sur-Choisille
-Langeais
-Larçay
 La Riche
 La Ville-aux-Dames
+Langeais
+Larçay
 Le Grand-Pressigny
 Le Liège
 Le Petit-Pressigny
 Les Hermites
 Ligueil
 Limeray
-Loches
 Loché-sur-Indrois
+Loches
 Louans
 Lublé
 Lussault-sur-Loire
@@ -102,8 +102,6 @@ Saché
 Saint-Avertin
 Saint-Christophe-sur-le-Nais
 Saint-Cyr-sur-Loire
-Sainte-Catherine-de-Fierbois
-Sainte-Maure-de-Touraine
 Saint-Épain
 Saint-Étienne-de-Chigny
 Saint-Laurent-de-Lin
@@ -112,6 +110,8 @@ Saint-Nicolas-de-Bourgueil
 Saint-Paterne-Racan
 Saint-Pierre-des-Corps
 Saint-Roch
+Sainte-Catherine-de-Fierbois
+Sainte-Maure-de-Touraine
 Savigné-sur-Lathan
 Savigny-en-Véron
 Savonnières

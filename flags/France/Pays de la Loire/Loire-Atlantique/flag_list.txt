@@ -14,8 +14,8 @@ Brains
 Campbon
 Carquefou
 Casson
-Châteaubriant
 Château-Thébaud
+Châteaubriant
 Chauvé
 Cheix-en-Retz
 Clisson
@@ -73,16 +73,16 @@ Le Bignon
 Le Cellier
 Le Croisic
 Le Gâvre
-Legé
 Le Landreau
 Le Loroux-Bottereau
 Le Pallet
 Le Pellerin
 Le Pouliguen
+Le Temple-de-Bretagne
+Legé
 Les Moutiers-en-Retz
 Les Sorinières
 Les Touches
-Le Temple-de-Bretagne
 Ligné
 Louisfert
 Lusanger
@@ -112,8 +112,8 @@ Paulx
 Petit-Auverné
 Petit-Mars
 Piriac-sur-Mer
-Pontchâteau
 Pont-Saint-Martin
+Pontchâteau
 Pornic
 Pornichet
 Port-Saint-Père
@@ -132,10 +132,6 @@ Saint-André-des-Eaux
 Saint-Aubin-des-Châteaux
 Saint-Brevin-les-Pins
 Saint-Colomban
-Sainte-Anne-sur-Brivet
-Sainte-Luce-sur-Loire
-Sainte-Pazanne
-Sainte-Reine-de-Bretagne
 Saint-Étienne-de-Mer-Morte
 Saint-Étienne-de-Montluc
 Saint-Fiacre-sur-Maine
@@ -162,6 +158,10 @@ Saint-Philbert-de-Grand-Lieu
 Saint-Sébastien-sur-Loire
 Saint-Viaud
 Saint-Vincent-des-Landes
+Sainte-Anne-sur-Brivet
+Sainte-Luce-sur-Loire
+Sainte-Pazanne
+Sainte-Reine-de-Bretagne
 Savenay
 Sévérac
 Sion-les-Mines

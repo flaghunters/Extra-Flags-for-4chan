@@ -93,11 +93,6 @@ Saint-Bonnet-de-Mure
 Saint-Clément-sur-Valsonne
 Saint-Cyr-le-Chatoux
 Saint-Cyr-sur-le-Rhône
-Sainte-Catherine
-Sainte-Colombe
-Sainte-Consorce
-Sainte-Foy-l'Argentière
-Sainte-Paule
 Saint-Forgeux
 Saint-Genis-l'Argentière
 Saint-Georges-de-Reneins
@@ -120,6 +115,11 @@ Saint-Symphorien-d'Ozon
 Saint-Symphorien-sur-Coise
 Saint-Vérand
 Saint-Vincent-de-Reins
+Sainte-Catherine
+Sainte-Colombe
+Sainte-Consorce
+Sainte-Foy-l'Argentière
+Sainte-Paule
 Salles-Arbuissonnas-en-Beaujolais
 Sarcey
 Savigny
@@ -140,8 +140,8 @@ Trèves
 Tupin-et-Semons
 Vaugneray
 Vernay
+Ville-sur-Jarnioux
 Villechenève
 Villefranche-sur-Saône
-Ville-sur-Jarnioux
 Vourles
 Yzeron

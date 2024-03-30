@@ -51,12 +51,12 @@ La Gaubretière
 La Genétouze
 La Jaudonnière
 La Jonchère
-Landeronde
 La Rabatelière
 La Réorthe
 La Roche-sur-Yon
 La Tardière
 La Tranche-sur-Mer
+Landeronde
 Le Bernard
 Le Boupère
 Le Champ-Saint-Père
@@ -103,11 +103,6 @@ Saint-Benoist-sur-Mer
 Saint-Christophe-du-Ligneron
 Saint-Cyr-en-Talmondais
 Saint-Denis-la-Chevasse
-Sainte-Cécile
-Sainte-Flaive-des-Loups
-Sainte-Gemme-la-Plaine
-Sainte-Hermine
-Sainte-Radégonde-des-Noyers
 Saint-Étienne-du-Bois
 Saint-Fulgent
 Saint-Georges-de-Pointindoux
@@ -132,6 +127,11 @@ Saint-Prouant
 Saint-Sulpice-en-Pareds
 Saint-Vincent-Sterlanges
 Saint-Vincent-sur-Graon
+Sainte-Cécile
+Sainte-Flaive-des-Loups
+Sainte-Gemme-la-Plaine
+Sainte-Hermine
+Sainte-Radégonde-des-Noyers
 Sallertaine
 Sigournais
 Soullans

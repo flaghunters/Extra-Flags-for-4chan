@@ -9,8 +9,8 @@ Authevernes
 Bâlines
 Barc
 Barville
-Beaumontel
 Beaumont-le-Roger
+Beaumontel
 Bérengeville-la-Campagne
 Bernay
 Bernouville
@@ -106,24 +106,24 @@ La Neuve-Lyre
 La Neuville-du-Bosc
 La Poterie-Mathieu
 La Saussaye
-Launay
 La Vieille-Lyre
+Launay
 Le Bec-Hellouin
 Le Boulay-Morin
 Le Fidelaire
 Le Neubourg
 Le Plessis-Grohan
 Le Plessis-Hébert
-Léry
-Les Andelys
-Les Authieux
-Les Damps
-Les Ventes
 Le Tilleul-Lambert
 Le Troncq
 Le Val-David
 Le Vaudreuil
 Le Vieil-Évreux
+Léry
+Les Andelys
+Les Authieux
+Les Damps
+Les Ventes
 Lieurey
 Lisors
 Livet-sur-Authou
@@ -167,8 +167,6 @@ Saint-Agnan-de-Cernières
 Saint-André-de-l'Eure
 Saint-Christophe-sur-Condé
 Saint-Denis-le-Ferment
-Sainte-Colombe-près-Vernon
-Sainte-Geneviève-lès-Gasny
 Saint-Élier
 Saint-Étienne-du-Vauvray
 Saint-Georges-du-Vièvre
@@ -187,6 +185,8 @@ Saint-Pierre-du-Val
 Saint-Pierre-du-Vauvray
 Saint-Pierre-la-Garenne
 Saint-Vincent-des-Bois
+Sainte-Colombe-près-Vernon
+Sainte-Geneviève-lès-Gasny
 Sassey
 Saussay-la-Campagne
 Serquigny
@@ -201,8 +201,8 @@ Tournedos-Bois-Hubert
 Tourville-la-Campagne
 Toutainville
 Trouville-la-Haule
-Valailles
 Val-de-Reuil
+Valailles
 Vandrimare
 Vaux-sur-Eure
 Vernon

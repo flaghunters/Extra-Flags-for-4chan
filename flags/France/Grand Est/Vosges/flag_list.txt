@@ -100,23 +100,23 @@ La Chapelle-aux-Bois
 La Chapelle-devant-Bruyères
 La Croix-aux-Mines
 La Houssière
-Lamarche
 La Neuveville-sous-Châtenois
 La Neuveville-sous-Montfort
-Langley
 La Petite-Raon
+Lamarche
+Langley
 Laveline-devant-Bruyères
 Laveline-du-Houx
 Le Clerjus
 Le Ménil
-Lépanges-sur-Vologne
-Les Forges
-Les Thons
 Le Syndicat
 Le Thillot
 Le Tholy
 Le Val-d'Ajol
 Le Valtin
+Lépanges-sur-Vologne
+Les Forges
+Les Thons
 Liézey
 Liffol-le-Grand
 Lignéville
@@ -130,9 +130,9 @@ Mattaincourt
 Ménil-sur-Belvitte
 Midrevaux
 Mirecourt
-Monthureux-sur-Saône
 Mont-lès-Lamarche
 Mont-lès-Neufchâteau
+Monthureux-sur-Saône
 Morizécourt
 Moussey
 Moyenmoutier
@@ -164,8 +164,6 @@ Rupt-sur-Moselle
 Saint-Amé
 Saint-Baslemont
 Saint-Dié-des-Vosges
-Sainte-Barbe
-Sainte-Marguerite
 Saint-Étienne-lès-Remiremont
 Saint-Maurice-sur-Moselle
 Saint-Menge
@@ -173,6 +171,8 @@ Saint-Michel-sur-Meurthe
 Saint-Nabord
 Saint-Prancher
 Saint-Remy
+Sainte-Barbe
+Sainte-Marguerite
 Sandaucourt
 Saulcy-sur-Meurthe
 Saulxures-lès-Bulgnéville

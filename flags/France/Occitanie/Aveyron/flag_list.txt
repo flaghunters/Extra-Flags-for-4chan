@@ -48,14 +48,14 @@ Golinhac
 Gramond
 L'Hospitalet-du-Larzac
 La Fouillade
-Laguiole
-Lanuéjouls
 La Rouquette
 La Salvetat-Peyralès
+Laguiole
+Lanuéjouls
 Lassouts
-Lédergues
 Le Fel
 Le Truel
+Lédergues
 Livinhac-le-Haut
 Lugan
 Maleville
@@ -94,8 +94,6 @@ Saint-Amans-des-Cots
 Saint-Beauzély
 Saint-Chély-d'Aubrac
 Saint-Côme-d'Olt
-Sainte-Eulalie-de-Cernon
-Sainte-Radegonde
 Saint-Félix-de-Lunel
 Saint-Félix-de-Sorgues
 Saint-Georges-de-Luzençon
@@ -110,6 +108,8 @@ Saint-Rome-de-Tarn
 Saint-Saturnin-de-Lenne
 Saint-Sernin-sur-Rance
 Saint-Victor-et-Melvieu
+Sainte-Eulalie-de-Cernon
+Sainte-Radegonde
 Salles-Curan
 Sauclières
 Sauveterre-de-Rouergue

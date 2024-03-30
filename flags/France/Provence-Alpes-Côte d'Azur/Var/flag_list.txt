@@ -64,8 +64,8 @@ La Londe-les-Maures
 La Martre
 La Môle
 La Motte
-La Roquebrussanne
 La Roque-Esclapon
+La Roquebrussanne
 La Seyne-sur-Mer
 La Valette-du-Var
 La Verdière
@@ -79,12 +79,12 @@ Le Muy
 Le Plan-de-la-Tour
 Le Pradet
 Le Revest-les-Eaux
+Le Thoronet
+Le Val
 Les Adrets-de-l'Estérel
 Les Arcs
 Les Mayons
 Les Salles-sur-Verdon
-Le Thoronet
-Le Val
 Lorgues
 Mazaugues
 Méounes-lès-Montrieux
@@ -116,8 +116,6 @@ Roquebrune-sur-Argens
 Rougiers
 Saint-Antonin-du-Var
 Saint-Cyr-sur-Mer
-Sainte-Anastasie-sur-Issole
-Sainte-Maxime
 Saint-Julien
 Saint-Mandrier-sur-Mer
 Saint-Martin-de-Pallières
@@ -126,6 +124,8 @@ Saint-Paul-en-Forêt
 Saint-Raphaël
 Saint-Tropez
 Saint-Zacharie
+Sainte-Anastasie-sur-Issole
+Sainte-Maxime
 Salernes
 Sanary-sur-Mer
 Seillans

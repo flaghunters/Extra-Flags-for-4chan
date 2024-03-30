@@ -38,8 +38,8 @@ Chassaignes
 Château-l'Évêque
 Condat-sur-Vézère
 Conne-de-Labarde
-Coursac
 Cours-de-Pile
+Coursac
 Coutures
 Daglan
 Domme
@@ -66,21 +66,21 @@ Jumilhac-le-Grand
 La Coquille
 La Douze
 La Force
+La Roche-Chalais
+La Rochebeaucourt-et-Argentine
+La Roque-Gageac
 Lalinde
 Lamonzie-Montastruc
 Lamonzie-Saint-Martin
 Lamothe-Montravel
 Lanouaille
 Lanquais
-La Rochebeaucourt-et-Argentine
-La Roche-Chalais
-La Roque-Gageac
 Le Bugue
 Le Buisson-de-Cadouin
 Le Fleix
+Le Pizou
 Lembras
 Lempzours
-Le Pizou
 Les Lèches
 Limeyrat
 Lisle
@@ -138,9 +138,6 @@ Saint-Chamassy
 Saint-Cybranet
 Saint-Cyprien
 Saint-Cyr-les-Champagnes
-Sainte-Croix-de-Mareuil
-Sainte-Foy-de-Longas
-Sainte-Radegonde
 Saint-Estèphe
 Saint-Félix-de-Bourdeilles
 Saint-Félix-de-Villadeix
@@ -176,6 +173,9 @@ Saint-Sauveur
 Saint-Sulpice-de-Roumagnac
 Saint-Vincent-de-Connezac
 Saint-Vincent-Jalmoutiers
+Sainte-Croix-de-Mareuil
+Sainte-Foy-de-Longas
+Sainte-Radegonde
 Salagnac
 Salignac-Eyvigues
 Sarlat-la-Canéda

@@ -77,16 +77,16 @@ Honfleur
 Houlgate
 Isigny-sur-Mer
 La Cambe
-Langrune-sur-Mer
 La Rivière-Saint-Sauveur
+Langrune-sur-Mer
 Le Breuil-en-Bessin
 Le Fournet
 Le Manoir
 Le Mesnil-Robert
 Le Molay-Littry
-Les Authieux-sur-Calonne
 Le Torquesne
 Le Tronquay
+Les Authieux-sur-Calonne
 Lion-sur-Mer
 Lisieux
 Longues-sur-Mer
@@ -122,9 +122,6 @@ Saint-Côme-de-Fresné
 Saint-Denis-de-Mailloc
 Saint-Denis-de-Méré
 Saint-Désir
-Sainte-Croix-sur-Mer
-Sainte-Honorine-du-Fay
-Sainte-Marie-Outre-l'Eau
 Saint-Gatien-des-Bois
 Saint-Léger-Dubosq
 Saint-Loup-Hors
@@ -136,6 +133,9 @@ Saint-Pierre-Canivet
 Saint-Sylvain
 Saint-Vaast-en-Auge
 Saint-Vigor-le-Grand
+Sainte-Croix-sur-Mer
+Sainte-Honorine-du-Fay
+Sainte-Marie-Outre-l'Eau
 Sallenelles
 Sannerville
 Sassy
@@ -152,8 +152,8 @@ Trévières
 Troarn
 Trouville-sur-Mer
 Vaux-sur-Aure
-Verson
 Ver-sur-Mer
+Verson
 Vienne-en-Bessin
 Vierville-sur-Mer
 Vieux-Bourg

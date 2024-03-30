@@ -20,9 +20,9 @@ Aroz
 Arpenans
 Attricourt
 Autoreille
+Autrey-le-Vay
 Autrey-lès-Cerre
 Autrey-lès-Gray
-Autrey-le-Vay
 Auvet-et-la-Chapelotte
 Auxon
 Avrigney-Virey
@@ -147,21 +147,21 @@ La Lanterne-et-les-Armonts
 La Longine
 La Malachère
 La Neuvelle-lès-Lure
-Lantenot
 La Quarte
 La Résie-Saint-Martin
 La Roche-Morey
 La Rosière
 La Vernotte
-Lavigney
 La Villedieu-en-Fontenette
 La Villeneuve-Bellenoye-et-la-Maize
+Lantenot
+Lavigney
 Lavoncourt
 Le Magnoray
-Les Aynans
-Les Fessey
 Le Tremblois
 Le Val-de-Gouhenans
+Les Aynans
+Les Fessey
 Lieffrans
 Linexert
 Lomont
@@ -190,12 +190,12 @@ Menoux
 Mersuay
 Moimay
 Molay
+Mont-Saint-Léger
 Montagney
 Montbozon
 Montcey
 Montessaux
 Montigny-lès-Vesoul
-Mont-Saint-Léger
 Montureux-lès-Baulay
 Nantilly
 Navenne
@@ -216,8 +216,8 @@ Pesmes
 Plancher-Bas
 Plancher-les-Mines
 Pomoy
-Pontcey
 Pont-sur-l'Ognon
+Pontcey
 Port-sur-Saône
 Preigney
 Provenchère
@@ -238,11 +238,11 @@ Roye
 Rupt-sur-Saône
 Saint-Barthélemy
 Saint-Broing
-Sainte-Marie-en-Chanois
-Sainte-Marie-en-Chaux
 Saint-Loup-sur-Semouse
 Saint-Remy
 Saint-Sauveur
+Sainte-Marie-en-Chanois
+Sainte-Marie-en-Chaux
 Saulnot
 Saulx
 Sauvigney-lès-Gray
@@ -272,11 +272,11 @@ Venère
 Verlans
 Vesoul
 Villeparois
-Villersexel
 Villers-le-Sec
+Villersexel
 Vitrey-sur-Mance
 Vouhenans
-Vyans-le-Val
 Vy-lès-Filain
 Vy-lès-Lure
 Vy-lès-Rupt
+Vyans-le-Val

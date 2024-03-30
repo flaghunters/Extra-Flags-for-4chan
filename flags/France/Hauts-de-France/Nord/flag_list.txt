@@ -26,12 +26,12 @@ Aubry-du-Hainaut
 Auby
 Auchy-lez-Orchies
 Audignies
-Aulnoye-Aymeries
 Aulnoy-lez-Valenciennes
+Aulnoye-Aymeries
 Avelin
 Avesnelles
-Avesnes-les-Aubert
 Avesnes-le-Sec
+Avesnes-les-Aubert
 Avesnes-sur-Helpe
 Awoingt
 Bachant
@@ -249,9 +249,9 @@ Gommegnies
 Gondecourt
 Gonnelieu
 Gouzeaucourt
-Grande-Synthe
 Grand-Fayt
 Grand-Fort-Philippe
+Grande-Synthe
 Gravelines
 Gruson
 Guesnain
@@ -284,9 +284,9 @@ Herrin
 Herzeele
 Hestrud
 Holque
+Hon-Hergies
 Hondeghem
 Hondschoote
-Hon-Hergies
 Honnechy
 Honnecourt-sur-Escaut
 Hordain
@@ -308,35 +308,35 @@ La Chapelle-d'Armentières
 La Flamengrie
 La Gorgue
 La Groise
-Lallaing
 La Longueville
 La Madeleine
+La Neuville
+Lallaing
 Lambersart
 Lambres-lez-Douai
 Landas
 Landrecies
-La Neuville
 Lannoy
 Larouillies
 Lauwin-Planque
 Le Cateau-Cambrésis
+Le Doulieu
+Le Favril
+Le Maisnil
+Le Quesnoy
 Lecelles
 Lécluse
 Lederzeele
-Le Doulieu
 Ledringhem
 Leers
-Le Favril
 Leffrinckoucke
-Le Maisnil
-Le Quesnoy
+Les Rues-des-Vignes
 Lesdain
 Lesquin
-Les Rues-des-Vignes
 Leval
 Lewarde
-Lezennes
 Lez-Fontaine
+Lezennes
 Liessies
 Lieu-Saint-Amand
 Ligny-en-Cambrésis
@@ -436,8 +436,8 @@ Paillencourt
 Pecquencourt
 Pérenchies
 Péronne-en-Mélantois
-Petite-Forêt
 Petit-Fayt
+Petite-Forêt
 Phalempin
 Pitgam
 Poix-du-Nord
@@ -499,12 +499,13 @@ Sailly-lez-Lannoy
 Sainghin-en-Mélantois
 Sainghin-en-Weppes
 Sains-du-Nord
+Saint Souplet
+Saint Waast
 Saint-Amand-les-Eaux
 Saint-André-lez-Lille
 Saint-Aubert
 Saint-Aubin
 Saint-Benin
-Sainte-Marie-Cappel
 Saint-Georges-sur-l'Aa
 Saint-Hilaire-lez-Cambrai
 Saint-Hilaire-sur-Helpe
@@ -516,10 +517,9 @@ Saint-Python
 Saint-Remy-Chaussée
 Saint-Remy-du-Nord
 Saint-Saulve
-Saint Souplet
 Saint-Sylvestre-Cappel
 Saint-Vaast-en-Cambrésis
-Saint Waast
+Sainte-Marie-Cappel
 Salesches
 Salomé
 Saméon

@@ -65,14 +65,14 @@ L'Hospitalet
 La Brillanne
 La Garde
 La Javie
-Lambruisse
 La Motte-du-Caire
 La Mure-Argens
 La Palud-sur-Verdon
-Lardiers
 La Robine-sur-Galabre
 La Rochegiron
 La Rochette
+Lambruisse
+Lardiers
 Le Brusquet
 Le Caire
 Le Castellard-Mélan
@@ -80,9 +80,9 @@ Le Castellet
 Le Chaffaut-Saint-Jurson
 Le Fugeret
 Le Lauzet-Ubaye
+Le Vernet
 Les Mées
 Les Omergues
-Le Vernet
 Limans
 Lurs
 Majastres
@@ -132,10 +132,7 @@ Rougon
 Roumoules
 Saint-André-les-Alpes
 Saint-Benoît
-Sainte-Croix-à-Lauze
-Sainte-Croix-du-Verdon
 Saint-Étienne-les-Orgues
-Sainte-Tulle
 Saint-Geniez
 Saint-Jacques
 Saint-Jeannet
@@ -148,6 +145,9 @@ Saint-Martin-les-Eaux
 Saint-Michel-l'Observatoire
 Saint-Pierre
 Saint-Vincent-sur-Jabron
+Sainte-Croix-à-Lauze
+Sainte-Croix-du-Verdon
+Sainte-Tulle
 Salignac
 Saumane
 Sausses
@@ -169,9 +169,9 @@ Turriers
 Ubraye
 Uvernet-Fours
 Vachères
+Val-de-Chalvagne
 Valavoire
 Valbelle
-Val-de-Chalvagne
 Valensole
 Valernes
 Vaumeilh

@@ -115,28 +115,28 @@ La Cadière-et-Cambo
 La Calmette
 La Capelle-et-Masmolène
 La Grand-Combe
+La Roque-sur-Cèze
+La Rouvière
+La Vernarède
 Lamelouze
 Langlade
 Lanuéjols
-La Roque-sur-Cèze
-La Rouvière
 Lasalle
 Laudun-l'Ardoise
 Laval-Pradel
-La Vernarède
 Le Cailar
-Lecques
-Lédenon
-Lédignan
 Le Garn
 Le Grau-du-Roi
 Le Martinet
 Le Pin
+Le Vigan
+Lecques
+Lédenon
+Lédignan
 Les Angles
 Les Mages
 Les Plans
 Les Plantiers
-Le Vigan
 Lézan
 Liouc
 Lirac
@@ -183,8 +183,8 @@ Peyremale
 Peyrolles
 Pommiers
 Pompignan
-Ponteils-et-Brésis
 Pont-Saint-Esprit
+Ponteils-et-Brésis
 Portes
 Potelières
 Pougnadoresse
@@ -226,9 +226,6 @@ Saint-Clément
 Saint-Denis
 Saint-Dézéry
 Saint-Dionisy
-Sainte-Anastasie
-Sainte-Cécile-d'Andorge
-Sainte-Croix-de-Caderle
 Saint-Étienne-de-l'Olm
 Saint-Étienne-des-Sorts
 Saint-Félix-de-Pallières
@@ -265,9 +262,9 @@ Saint-Maximin
 Saint-Michel-d'Euzet
 Saint-Nazaire
 Saint-Nazaire-des-Gardies
-Saint-Paulet-de-Caisson
 Saint-Paul-la-Coste
 Saint-Paul-les-Fonts
+Saint-Paulet-de-Caisson
 Saint-Pons-la-Calm
 Saint-Privat-de-Champclos
 Saint-Privat-des-Vieux
@@ -280,6 +277,9 @@ Saint-Théodorit
 Saint-Victor-de-Malcap
 Saint-Victor-des-Oules
 Saint-Victor-la-Coste
+Sainte-Anastasie
+Sainte-Cécile-d'Andorge
+Sainte-Croix-de-Caderle
 Salazac
 Salindres
 Sanilhac-Sagriès

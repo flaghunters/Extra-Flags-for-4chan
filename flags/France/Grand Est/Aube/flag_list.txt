@@ -3,9 +3,9 @@ Arrentières
 Assencières
 Auxon
 Bailly-le-Franc
-Baroville
 Bar-sur-Aube
 Bar-sur-Seine
+Baroville
 Bayel
 Bernon
 Bérulle
@@ -55,9 +55,9 @@ Javernant
 Joncreuil
 Juvanzé
 La Chapelle-Saint-Luc
-Laines-aux-Bois
 La Rivière-de-Corps
 La Rothière
+Laines-aux-Bois
 Les Bordes-Aumont
 Les Grandes-Chapelles
 Les Noës-près-Troyes
@@ -98,8 +98,6 @@ Rosnay-l'Hôpital
 Rouilly-Saint-Loup
 Rumilly-lès-Vaudes
 Saint-André-les-Vergers
-Sainte-Maure
-Sainte-Savine
 Saint-Germain
 Saint-Jean-de-Bonneval
 Saint-Julien-les-Villas
@@ -109,6 +107,8 @@ Saint-Mards-en-Othe
 Saint-Parres-aux-Tertres
 Saint-Parres-lès-Vaudes
 Saint-Phal
+Sainte-Maure
+Sainte-Savine
 Sommeval
 Soulaines-Dhuys
 Thennelières
@@ -120,9 +120,9 @@ Vendeuvre-sur-Barse
 Verrières
 Villacerf
 Villadin
+Ville-sous-la-Ferté
 Villemoyenne
 Villenauxe-la-Grande
-Ville-sous-la-Ferté
 Villy-en-Trodes
 Virey-sous-Bar
 Viviers-sur-Artaut

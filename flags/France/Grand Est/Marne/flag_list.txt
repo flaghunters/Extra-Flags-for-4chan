@@ -75,15 +75,15 @@ Heiltz-le-Hutier
 Heiltz-le-Maurupt
 Hermonville
 Huiron
-Isles-sur-Suippe
 Isle-sur-Marne
+Isles-sur-Suippe
 Janvry
 Jonchery-sur-Vesle
 Juvigny
 L'Épine
+La Veuve
 Lachy
 Larzicourt
-La Veuve
 Le Meix-Tiercelin
 Le Mesnil-sur-Oger
 Les Essarts-le-Vicomte
@@ -134,8 +134,6 @@ Reuil
 Réveillon
 Sacy
 Saint-Amand-sur-Fion
-Sainte-Marie-du-Lac-Nuisement
-Sainte-Menehould
 Saint-Étienne-sur-Suippe
 Saint-Gibrien
 Saint-Hilaire-au-Temple
@@ -146,6 +144,8 @@ Saint-Martin-sur-le-Pré
 Saint-Memmie
 Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson
 Saint-Thierry
+Sainte-Marie-du-Lac-Nuisement
+Sainte-Menehould
 Sarry
 Savigny-sur-Ardres
 Sept-Saulx
@@ -153,8 +153,8 @@ Sermaize-les-Bains
 Sermiers
 Sézanne
 Sillery
-Sommepy-Tahure
 Somme-Vesle
+Sommepy-Tahure
 Sompuis
 Suippes
 Taissy

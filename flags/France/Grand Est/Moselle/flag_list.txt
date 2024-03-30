@@ -85,9 +85,9 @@ Bisten-en-Lorraine
 Bistroff
 Bitche
 Blanche-Église
-Bliesbruck
 Blies-Ébersing
 Blies-Guersviller
+Bliesbruck
 Boucheporn
 Boulange
 Boulay-Moselle
@@ -137,9 +137,9 @@ Chicourt
 Chieulles
 Clouange
 Cocheren
-Coincy
 Coin-lès-Cuvry
 Coin-sur-Seille
+Coincy
 Colmen
 Condé-Northen
 Conthil
@@ -244,8 +244,8 @@ Gravelotte
 Grémecey
 Gréning
 Grindorff-Bizing
-Grosbliederstroff
 Gros-Réderching
+Grosbliederstroff
 Grostenquin
 Grundviller
 Guebenhouse
@@ -267,12 +267,12 @@ Hagen
 Hagondange
 Hallering
 Halstroff
+Ham-sous-Varsberg
 Hambach
 Hampont
-Ham-sous-Varsberg
+Han-sur-Nied
 Hangviller
 Hannocourt
-Han-sur-Nied
 Hanviller
 Haraucourt-sur-Seille
 Hargarten-aux-Mines
@@ -350,10 +350,10 @@ Knutange
 Kœnigsmacker
 Kuntzig
 L'Hôpital
+La Maxe
 Lachambre
 Lafrimbolle
 Lagarde
-La Maxe
 Lambach
 Landange
 Landroff
@@ -367,6 +367,7 @@ Laudrefang
 Laumesfeld
 Launstroff
 Le Ban-Saint-Martin
+Le Val-de-Guéblange
 Lelling
 Lemberg
 Lemoncourt
@@ -376,7 +377,6 @@ Léning
 Les Étangs
 Lesse
 Lessy
-Le Val-de-Guéblange
 Ley
 Leyviller
 Lezey
@@ -502,9 +502,9 @@ Oudrenne
 Pagny-lès-Goin
 Pange
 Peltre
-Petite-Rosselle
 Petit-Réderching
 Petit-Tenquin
+Petite-Rosselle
 Pettoncourt
 Pévange
 Phalsbourg
@@ -571,10 +571,7 @@ Russange
 Rustroff
 Sailly-Achâtel
 Saint-Avold
-Sainte-Barbe
-Sainte-Marie-aux-Chênes
 Saint-Epvre
-Sainte-Ruffine
 Saint-François-Lacroix
 Saint-Georges
 Saint-Hubert
@@ -588,6 +585,9 @@ Saint-Louis-lès-Bitche
 Saint-Médard
 Saint-Privat-la-Montagne
 Saint-Quirin
+Sainte-Barbe
+Sainte-Marie-aux-Chênes
+Sainte-Ruffine
 Salonnes
 Sanry-lès-Vigy
 Sanry-sur-Nied

@@ -42,10 +42,10 @@ Camilo Aldao
 Cañada de Luque
 Canals
 Candelaria Sud
-Capilla del Carmen
-Capilla del Monte
 Capilla de los Remedios
 Capilla de Sitón
+Capilla del Carmen
+Capilla del Monte
 Capitán General Bernardo O'Higgins
 Carnerillo
 Carrilobo
@@ -97,10 +97,10 @@ Diego de Rojas
 El Arañado
 El Brete
 El Crispín
-Elena
 El Fortín
 El Manzano
 El Tío
+Elena
 Embalse
 Estación General Paz
 Estación Juárez Celman
@@ -128,8 +128,6 @@ James Craik
 Jesús María
 Jovita
 Justiniano Posse
-Laborde
-Laboulaye
 La Calera
 La Carlota
 La Carolina El Potosí
@@ -140,7 +138,6 @@ La Cumbrecita
 La Falda
 La Francia
 La Granja
-Laguna Larga
 La Higuera
 La Laguna
 La Palestina
@@ -151,12 +148,16 @@ La Población
 La Posta
 La Puerta
 La Quinta
+La Serranita
+La Tordilla
+Laborde
+Laboulaye
+Laguna Larga
 Las Acequias
 Las Albahacas
 Las Arrias
 Las Caleras
 Las Calles
-La Serranita
 Las Higueras
 Las Isletillas
 Las Junturas
@@ -170,7 +171,6 @@ Las Tapias
 Las Varas
 Las Varillas
 Las Vertientes
-La Tordilla
 Leguizamón
 Leones
 Los Cedros
@@ -265,12 +265,12 @@ San José de las Salinas
 San Lorenzo
 San Marcos Sierras
 San Marcos Sud
+San Vicente
 Santa Catalina
 Santa Eufemia
 Santa María de Punilla
 Santa Rosa de Calamuchita
 Santiago Temple
-San Vicente
 Sarmiento
 Saturnino María Laspiur
 Sebastián Elcano
@@ -311,15 +311,15 @@ Villa Ciudad Parque
 Villa Concepción del Tío
 Villa Cura Brochero
 Villa de Las Rosas
-Villa del Dique
-Villa del Prado
-Villa del Rosario
-Villa del Totoral
 Villa de María
 Villa de Pocho
 Villa de San Pedro
 Villa de San Pedro Norte
 Villa de Soto
+Villa del Dique
+Villa del Prado
+Villa del Rosario
+Villa del Totoral
 Villa Dolores
 Villa Elisa
 Villa Fontana

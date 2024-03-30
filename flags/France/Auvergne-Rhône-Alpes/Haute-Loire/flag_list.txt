@@ -21,16 +21,16 @@ Fontannes
 Freycenet-la-Cuche
 Grenier-Montgon
 La Chaise-Dieu
-Langeac
 La Séauve-sur-Semène
+Langeac
 Lavaudieu
 Lavoûte-Chilhac
 Le Brignon
 Le Chambon-sur-Lignon
 Le Monastier-sur-Gazeille
+Le Puy-en-Velay
 Lempdes-sur-Allagnon
 Léotoing
-Le Puy-en-Velay
 Loudes
 Monistrol-d'Allier
 Monistrol-sur-Loire
@@ -43,8 +43,6 @@ Retournac
 Riotord
 Roche-en-Régnier
 Saint-Didier-en-Velay
-Sainte-Florine
-Sainte-Sigolène
 Saint-Ferréol-d'Auroure
 Saint-Hilaire
 Saint-Julien-Chapteuil
@@ -55,6 +53,8 @@ Saint-Pal-de-Mons
 Saint-Paul-de-Tartas
 Saint-Paulien
 Saint-Préjet-d'Allier
+Sainte-Florine
+Sainte-Sigolène
 Saugues
 Tence
 Tiranges

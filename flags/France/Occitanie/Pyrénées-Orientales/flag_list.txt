@@ -63,10 +63,10 @@ Latour-de-France
 Le Barcarès
 Le Boulou
 Le Perthus
-Les Cluses
 Le Soler
-Lesquerde
 Le Vivier
+Les Cluses
+Lesquerde
 Llauro
 Llo
 Llupia
@@ -77,11 +77,11 @@ Maureillas-las-Illas
 Maury
 Millas
 Molitg-les-Bains
+Mont-Louis
 Montalba-le-Château
 Montbolo
 Montescot
 Montesquieu-des-Albères
-Mont-Louis
 Montner
 Mosset
 Nyer
@@ -99,9 +99,9 @@ Pézilla-la-Rivière
 Pia
 Pollestres
 Ponteilla
+Port-Vendres
 Porta
 Porté-Puymorens
-Port-Vendres
 Prades
 Prats-de-Mollo-la-Preste
 Prats-de-Sournia
@@ -116,7 +116,6 @@ Saillagouse
 Saint-André
 Saint-Arnac
 Saint-Cyprien
-Sainte-Léocadie
 Saint-Estève
 Saint-Féliu-d'Amont
 Saint-Féliu-d'Avall
@@ -128,6 +127,7 @@ Saint-Marsal
 Saint-Nazaire
 Saint-Paul-de-Fenouillet
 Saint-Pierre-dels-Forcats
+Sainte-Léocadie
 Salses-le-Château
 Sauto
 Serdinya

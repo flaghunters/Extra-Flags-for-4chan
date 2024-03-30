@@ -60,8 +60,8 @@ Charensat
 Chas
 Chassagne
 Châteaugay
-Châteldon
 Châtel-Guyon
+Châteldon
 Chauriat
 Cisternes-la-Forêt
 Clémensat
@@ -111,14 +111,14 @@ La Crouzille
 La Godivelle
 La Goutelle
 La Monnerie-le-Montel
+La Roche-Blanche
+La Roche-Noire
+La Sauvetat
+La Tour-d'Auvergne
 Lamontgie
 Landogne
 Laqueuille
-La Roche-Blanche
-La Roche-Noire
 Larodde
-La Sauvetat
-La Tour-d'Auvergne
 Le Brugeron
 Le Cendre
 Le Cheix
@@ -145,10 +145,10 @@ Ménétrol
 Mirefleurs
 Miremont
 Mons
+Mont-Dore
 Montaigut
 Montaigut-le-Blanc
 Montcel
-Mont-Dore
 Montel-de-Gelat
 Montfermy
 Montpensier
@@ -178,8 +178,8 @@ Pessat-Villeneuve
 Picherande
 Pionsat
 Plauzat
-Pontaumur
 Pont-du-Château
+Pontaumur
 Pontgibaud
 Pouzol
 Prompsat
@@ -207,7 +207,6 @@ Saint-Clément-de-Régnat
 Saint-Clément-de-Valorgue
 Saint-Dier-d'Auvergne
 Saint-Donat
-Sainte-Christine
 Saint-Éloy-les-Mines
 Saint-Étienne-des-Champs
 Saint-Étienne-sur-Usson
@@ -243,6 +242,7 @@ Saint-Rémy-sur-Durolle
 Saint-Saturnin
 Saint-Sauves-d'Auvergne
 Saint-Yvoine
+Sainte-Christine
 Saurier
 Sauvagnat
 Sauvagnat-Sainte-Marthe

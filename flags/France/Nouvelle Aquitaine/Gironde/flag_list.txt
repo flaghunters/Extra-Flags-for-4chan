@@ -94,9 +94,12 @@ Illats
 Isle-Saint-Georges
 Izon
 Jau-Dignac-et-Loirac
+La Brède
+La Réole
+La Rivière
+La Teste-de-Buch
 Labarde
 Labescau
-La Brède
 Lacanau
 Lamarque
 Landiras
@@ -105,24 +108,21 @@ Langon
 Lansac
 Lanton
 Lapouyade
-La Réole
-La Rivière
-La Teste-de-Buch
 Latresne
 Le Barp
 Le Bouscat
-Lège-Cap-Ferret
 Le Haillan
-Léognan
 Le Pian-Médoc
 Le Pout
 Le Puy
-Lesparre-Médoc
 Le Taillan-Médoc
 Le Teich
 Le Temple
 Le Tourne
 Le Verdon-sur-Mer
+Lège-Cap-Ferret
+Léognan
+Lesparre-Médoc
 Libourne
 Lignan-de-Bordeaux
 Ligueux
@@ -175,11 +175,8 @@ Saint-Caprais-de-Bordeaux
 Saint-Christophe-des-Bardes
 Saint-Ciers-sur-Gironde
 Saint-Côme
-Sainte-Eulalie
-Sainte-Foy-la-Grande
 Saint-Émilion
 Saint-Estèphe
-Sainte-Terre
 Saint-Genès-de-Lombaud
 Saint-Germain-de-Grave
 Saint-Germain-du-Puch
@@ -209,6 +206,9 @@ Saint-Sulpice-de-Guilleragues
 Saint-Sulpice-et-Cameyrac
 Saint-Symphorien
 Saint-Vincent-de-Paul
+Sainte-Eulalie
+Sainte-Foy-la-Grande
+Sainte-Terre
 Sallebœuf
 Salles
 Sauternes

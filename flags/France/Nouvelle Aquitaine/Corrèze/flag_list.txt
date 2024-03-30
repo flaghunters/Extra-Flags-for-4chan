@@ -81,10 +81,11 @@ Hautefage
 Jugeals-Nazareth
 Juillac
 L'Église-aux-Bois
-Lacelle
 La Chapelle-aux-Brocs
 La Chapelle-aux-Saints
 La Chapelle-Saint-Géraud
+La Roche-Canillac
+Lacelle
 Ladignac-sur-Rondelles
 Lafage-sur-Sombre
 Lagleygeolle
@@ -95,7 +96,6 @@ Lamongerie
 Lanteuil
 Lapleau
 Larche
-La Roche-Canillac
 Laroche-près-Feyt
 Lascaux
 Latronche
@@ -182,10 +182,7 @@ Saint-Cirgues-la-Loutre
 Saint-Clément
 Saint-Cyprien
 Saint-Cyr-la-Roche
-Sainte-Féréole
-Sainte-Fortunade
 Saint-Éloy-les-Tuileries
-Sainte-Marie-Lapanouze
 Saint-Étienne-aux-Clos
 Saint-Étienne-la-Geneste
 Saint-Exupéry-les-Roches
@@ -230,6 +227,9 @@ Saint-Viance
 Saint-Victour
 Saint-Ybard
 Saint-Yrieix-le-Déjalat
+Sainte-Féréole
+Sainte-Fortunade
+Sainte-Marie-Lapanouze
 Salon-la-Tour
 Sarran
 Segonzac

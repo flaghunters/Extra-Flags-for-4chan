@@ -97,8 +97,8 @@ Le Breuil
 Le Creusot
 Le Fay
 Le Puley
-Lessard-le-National
 Le Tartre
+Lessard-le-National
 Leynes
 Loisy
 Longepierre
@@ -118,11 +118,11 @@ Ménetreuil
 Mercurey
 Mervans
 Milly-Lamartine
+Mont-lès-Seurre
 Montbellet
 Montceau-les-Mines
 Montcenis
 Montchanin
-Mont-lès-Seurre
 Montpont-en-Bresse
 Montret
 Morlet
@@ -148,9 +148,7 @@ Saint-Bonnet-en-Bresse
 Saint-Clément-sur-Guye
 Saint-Denis-de-Vaux
 Saint-Désert
-Sainte-Croix
 Saint-Émiland
-Sainte-Radegonde
 Saint-Firmin
 Saint-Gengoux-le-National
 Saint-Germain-du-Bois
@@ -179,6 +177,8 @@ Saint-Usuge
 Saint-Vallier
 Saint-Vérand
 Saint-Vincent-en-Bresse
+Sainte-Croix
+Sainte-Radegonde
 Sampigny-lès-Maranges
 Sancé
 Sanvignes-les-Mines

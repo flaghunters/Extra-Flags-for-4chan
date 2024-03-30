@@ -8,10 +8,10 @@ Aloxe-Corton
 Ampilly-le-Sec
 Ancey
 Antheuil
+Arc-sur-Tille
 Arceau
 Arcenant
 Arcey
-Arc-sur-Tille
 Argilly
 Arnay-le-Duc
 Asnières-lès-Dijon
@@ -174,10 +174,13 @@ Jallanges
 Jours-lès-Baigneux
 Juillenay
 L'Étang-Vergy
-Labergement-lès-Auxonne
-Labruyère
 La Bussière-sur-Ouche
 La Chaume
+La Roche-en-Brenil
+La Roche-Vanneau
+La Rochepot
+Labergement-lès-Auxonne
+Labruyère
 Lacour-d'Arcenay
 Ladoix-Serrigny
 Laignes
@@ -185,9 +188,6 @@ Lamarche-sur-Saône
 Lantenay
 Lanthes
 Laperrière-sur-Saône
-La Roche-en-Brenil
-La Rochepot
-La Roche-Vanneau
 Larrey
 Lechâtelet
 Léry
@@ -300,9 +300,6 @@ Saint-Apollinaire
 Saint-Aubin
 Saint-Bernard
 Saint-Broing-les-Moines
-Sainte-Colombe-sur-Seine
-Sainte-Marie-la-Blanche
-Sainte-Marie-sur-Ouche
 Saint-Germain-de-Modéon
 Saint-Germain-le-Rocheux
 Saint-Jean-de-Bœuf
@@ -318,14 +315,17 @@ Saint-Seine-l'Abbaye
 Saint-Seine-sur-Vingeanne
 Saint-Usage
 Saint-Victor-sur-Ouche
+Sainte-Colombe-sur-Seine
+Sainte-Marie-la-Blanche
+Sainte-Marie-sur-Ouche
 Salives
 Salmaise
 Santenay
 Saulieu
 Saulon-la-Chapelle
 Saulon-la-Rue
-Savigny-lès-Beaune
 Savigny-le-Sec
+Savigny-lès-Beaune
 Savigny-sous-Mâlain
 Savoisy
 Savouges

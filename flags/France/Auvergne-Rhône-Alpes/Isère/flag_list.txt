@@ -69,7 +69,6 @@ L'Isle-d'Abeau
 La Balme-les-Grottes
 La Buissière
 La Côte-Saint-André
-Laffrey
 La Flachère
 La Garde
 La Motte-d'Aveillans
@@ -79,6 +78,7 @@ La Salle-en-Beaumont
 La Tour-du-Pin
 La Tronche
 La Verpillière
+Laffrey
 Le Bouchage
 Le Bourg-d'Oisans
 Le Grand-Lemps
@@ -107,10 +107,10 @@ Oyeu
 Oytier-Saint-Oblas
 Pajay
 Pierre-Châtel
-Pontcharra
 Pont-de-Chéruy
 Pont-en-Royans
 Pont-Évêque
+Pontcharra
 Pressins
 Réaumont
 Renage
@@ -122,10 +122,10 @@ Rovon
 Royas
 Roybon
 Sablons
+Saint Antoine l'Abbaye
 Saint-Alban-de-Roche
 Saint-André-en-Royans
 Saint-André-le-Gaz
-Saint Antoine l'Abbaye
 Saint-Baudille-de-la-Tour
 Saint-Bernard
 Saint-Blaise-du-Buis
@@ -137,7 +137,6 @@ Saint-Clair-de-la-Tour
 Saint-Clair-du-Rhône
 Saint-Didier-de-la-Tour
 Saint-Égrève
-Sainte-Marie-du-Mont
 Saint-Étienne-de-Saint-Geoirs
 Saint-Geoire-en-Valdaine
 Saint-Georges-d'Espéranche
@@ -161,6 +160,7 @@ Saint-Romain-de-Jalionas
 Saint-Romans
 Saint-Savin
 Saint-Victor-de-Cessieu
+Sainte-Marie-du-Mont
 Salagnon
 Salaise-sur-Sanne
 Sardieu
@@ -189,8 +189,8 @@ Vif
 Vignieu
 Villard-Bonnot
 Villard-de-Lans
-Villefontaine
 Ville-sous-Anjou
+Villefontaine
 Villette-d'Anthon
 Villette-de-Vienne
 Vinay

@@ -99,9 +99,9 @@ Michery
 Migennes
 Molosmes
 Monéteau
+Mont-Saint-Sulpice
 Montigny-la-Resle
 Montréal
-Mont-Saint-Sulpice
 Moulins-en-Tonnerrois
 Moulins-sur-Ouanne
 Nailly
@@ -118,8 +118,8 @@ Perrigny
 Piffonds
 Pisy
 Poilly-sur-Serein
-Pontigny
 Pont-sur-Yonne
+Pontigny
 Préhy
 Quarré-les-Tombes
 Quincerot
@@ -129,9 +129,6 @@ Sainpuits
 Saint-Bris-le-Vineux
 Saint-Clément
 Saint-Cyr-les-Colons
-Sainte-Colombe
-Sainte-Pallaye
-Sainte-Vertu
 Saint-Fargeau
 Saint-Florentin
 Saint-Georges-sur-Baulche
@@ -143,6 +140,9 @@ Saint-Maurice-aux-Riches-Hommes
 Saint-Maurice-Thizouaille
 Saint-Sauveur-en-Puisaye
 Saint-Valérien
+Sainte-Colombe
+Sainte-Pallaye
+Sainte-Vertu
 Saligny
 Sambourg
 Santigny

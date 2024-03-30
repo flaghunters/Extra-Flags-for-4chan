@@ -97,8 +97,8 @@ Beauvoir-Wavans
 Beauvois
 Bécourt
 Béhagnies
-Bellebrune
 Belle-et-Houllefort
+Bellebrune
 Bellonne
 Bénifontaine
 Berck
@@ -137,8 +137,8 @@ Blingel
 Boffles
 Boiry-Becquerelle
 Boiry-Notre-Dame
-Boiry-Sainte-Rictrude
 Boiry-Saint-Martin
+Boiry-Sainte-Rictrude
 Bois-Bernard
 Boisdinghem
 Boisjean
@@ -294,8 +294,8 @@ Essars
 Estevelles
 Estrée
 Estrée-Cauchy
-Estréelles
 Estrée-Wamin
+Estréelles
 Étaing
 Étaples
 Éterpigny
@@ -383,9 +383,9 @@ Haisnes
 Halinghen
 Hallines
 Halloy
+Ham-en-Artois
 Hamblain-les-Prés
 Hamelincourt
-Ham-en-Artois
 Hames-Boucres
 Hannescamps
 Haplincourt
@@ -393,24 +393,24 @@ Haravesnes
 Hardinghen
 Harnes
 Haucourt
+Haut-Loquin
 Haute-Avesnes
 Hautecloque
 Hauteville
-Haut-Loquin
 Havrincourt
 Hébuterne
 Helfaut
 Hendecourt-lès-Cagnicourt
 Hendecourt-lès-Ransart
 Hénin-Beaumont
-Héninel
 Hénin-sur-Cojeul
+Héninel
 Henneveux
 Hénu
 Herbinghen
 Héricourt
-Herlincourt
 Herlin-le-Sec
+Herlincourt
 Herly
 Hermaville
 Hermelinghen
@@ -451,26 +451,35 @@ Ivergny
 Izel-lès-Équerchin
 Izel-lès-Hameau
 Journy
-Labeuvrière
-Labourse
-Labroye
 La Calotterie
 La Capelle-lès-Boulogne
 La Cauchie
 La Comté
 La Couture
+La Herlière
+La Loge
+La Thieuloye
+Labeuvrière
+Labourse
+Labroye
 Lacres
 Lagnicourt-Marcel
-La Herlière
 Laires
-La Loge
 Lambres
 Landrethun-le-Nord
 Landrethun-lès-Ardres
 Lapugnoy
-La Thieuloye
 Lattre-Saint-Quentin
 Laventie
+Le Parcq
+Le Ponchel
+Le Portel
+Le Quesnoy-en-Artois
+Le Sars
+Le Souich
+Le Touquet-Paris-Plage
+Le Transloy
+Le Wast
 Lebiez
 Lebucquière
 Léchelle
@@ -478,23 +487,14 @@ Ledinghem
 Lefaux
 Leforest
 Lens
-Le Parcq
 Lépine
-Le Ponchel
-Le Portel
-Le Quesnoy-en-Artois
-Le Sars
 Les Attaques
-Le Souich
 Lespesses
 Lespinoy
 Lestrem
-Le Touquet-Paris-Plage
-Le Transloy
 Leubringhen
 Leulinghem
 Leulinghen-Bernes
-Le Wast
 Libercourt
 Licques
 Liencourt
@@ -571,11 +571,11 @@ Monchy-Cayeux
 Monchy-le-Preux
 Mondicourt
 Mont-Bernanchon
+Mont-Saint-Éloi
 Montcavrel
 Montenescourt
 Montigny-en-Gohelle
 Montreuil
-Mont-Saint-Éloi
 Monts-en-Ternois
 Morchies
 Moringhem
@@ -606,16 +606,16 @@ Nœux-les-Mines
 Nordausques
 Noreuil
 Norrent-Fontes
-Nortkerque
 Nort-Leulinghem
+Nortkerque
 Nouvelle-Église
+Noyelle-Vion
 Noyelles-Godault
 Noyelles-lès-Humières
 Noyelles-lès-Vermelles
 Noyelles-sous-Bellonne
 Noyelles-sous-Lens
 Noyellette
-Noyelle-Vion
 Nuncq-Hautecôte
 Oblinghem
 Œuf-en-Ternois
@@ -719,9 +719,6 @@ Sains-lès-Pernes
 Saint-Amand
 Saint-Aubin
 Saint-Denœux
-Sainte-Austreberthe
-Sainte-Catherine
-Sainte-Marie-Kerque
 Saint-Étienne-au-Mont
 Saint-Floris
 Saint-Folquin
@@ -744,6 +741,9 @@ Saint-Pol-sur-Ternoise
 Saint-Rémy-au-Bois
 Saint-Tricat
 Saint-Venant
+Sainte-Austreberthe
+Sainte-Catherine
+Sainte-Marie-Kerque
 Salperwick
 Samer
 Sangatte
@@ -805,9 +805,9 @@ Verquigneul
 Verquin
 Verton
 Vieil-Hesdin
+Vieil-Moutier
 Vieille-Chapelle
 Vieille-Église
-Vieil-Moutier
 Villers-au-Bois
 Villers-au-Flos
 Villers-Brûlin
