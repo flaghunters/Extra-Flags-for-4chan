@@ -28,7 +28,7 @@ def main(verbose: bool):
     logger.debug("Flags directory: %s", str(ROOT_PATH.absolute()))
 
     collator = pyuca.Collator()
-    the_mega_list = set()  # SortedList(key=collator.sort_key)
+    the_mega_list = set()
 
     for root, _, files in os.walk(ROOT_PATH):
         # skip the main folder as we don't store pngs for states.
@@ -38,7 +38,6 @@ def main(verbose: bool):
         logger.debug("Current dir: %s", root_path)
         pngs = [Path(file).stem for file in files if Path(file).suffix == PNG_EXT]
         pngs = sorted(pngs, key=collator.sort_key)
-        # the_mega_list.update(pngs)
         the_mega_list.update(pngs)
 
         with open(root_path / FLAG_LIST, "r+t", encoding="utf-8") as flags:
