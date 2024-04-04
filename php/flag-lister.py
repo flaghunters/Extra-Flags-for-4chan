@@ -40,7 +40,7 @@ def main(verbose: bool):
         pngs = sorted(pngs, key=collator.sort_key)
         the_mega_list.update(pngs)
 
-        with open(root_path / FLAG_LIST, "r+t", encoding="utf-8") as flags:
+        with open(root_path / FLAG_LIST, "w+t", encoding="utf-8") as flags:
             read_flags = flags.readlines()
             read_flags = [flag[:-1] for flag in read_flags]
             if read_flags != pngs:
