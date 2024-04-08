@@ -47,13 +47,13 @@ def main(verbose: bool):
                 logger.info("Fixing: %s", root_path)
                 flags.seek(0)
                 flags.truncate()
-                flags.writelines(sep.join(pngs))
+                flags.writelines([png + sep for png in pngs])
 
     logger.info("Deleting api list...")
     with open(ALL_FLAGS, "wt", encoding="utf-8") as flags:
         logger.info("Creating api list...")
         the_mega_list = sorted(the_mega_list, key=collator.sort_key)
-        flags.writelines(sep.join(the_mega_list))
+        flags.writelines([flag + sep for flag in the_mega_list])
 
 
 if __name__ == "__main__":
