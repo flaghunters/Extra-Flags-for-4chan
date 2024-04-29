@@ -8221,7 +8221,6 @@ Bechet
 Bechhofen
 Bechli-Blidet-Jerssin
 Bechlín
-Běchovice
 Bechri-Fatnassa
 Bechtelsville
 Bechtheim
@@ -10744,6 +10743,7 @@ Blatná
 Blatná na Ostrove
 Blatná Polianka
 Blatné
+Blatné Remety
 Blatné Revištia
 Blatnica
 Blatnice
@@ -11232,6 +11232,7 @@ Boghicea
 Boghiceni
 Boghiș
 Bogis-Bossey
+Bogliarka
 Bogliasco
 Bognanco
 Bogno
@@ -12987,23 +12988,6 @@ Bratislava III
 Bratislava IV
 Bratislava Region
 Bratislava V
-Bratislava-Čunovo
-Bratislava-Devín
-Bratislava-Devínska Nová Ves
-Bratislava-Dúbravka
-Bratislava-Jarovce
-Bratislava-Karlova Ves
-Bratislava-Lamač
-Bratislava-Nové Mesto
-Bratislava-Petržalka
-Bratislava-Podunajské Biskupice
-Bratislava-Rača
-Bratislava-Rusovce
-Bratislava-Ružinov
-Bratislava-Staré Mesto
-Bratislava-Vajnory
-Bratislava-Vrakuňa
-Bratislava-Záhorská Bystrica
 Bratkovice
 Bratkovskoye
 Bratovoești
@@ -13301,6 +13285,7 @@ Břestek
 Brestiv
 Brestot
 Brestov
+Brestov nad Laborcom
 Brestovac
 Brestovany
 Brestovăț
@@ -13391,7 +13376,6 @@ Brezina
 Březina
 Březina (dříve okres Blansko)
 Březina (dříve okres Tišnov)
-Březiněves
 Březinky
 Breziny
 Březiny
@@ -15452,7 +15436,6 @@ Cakov
 Čakov
 Čaková
 Čakovec
-Čakovice
 Čakovičky
 Çal
 Cala
@@ -20333,8 +20316,6 @@ Chimborazo Province
 Chimbote
 Chimbu Province
 Chimeneas
-Chimianska Nová Ves
-Chimianske Jakubovany
 Chimichagua
 Chimilin
 Chimney Rock
@@ -20529,6 +20510,8 @@ Chmeľovec
 Chmielnik
 Chmielno
 Chmiňany
+Chminianska Nová Ves
+Chminianske Jakubovany
 Chmyrivka Hromada
 Choachí
 Choapa Province
@@ -24277,6 +24260,7 @@ Cunicea
 Cunico
 Cunit
 Cunlhat
+Čunovo
 Cunter
 Cuntis
 Cuorgnè
@@ -24515,7 +24499,6 @@ Dabatuyskoye
 Dabeiba
 Dabergotz
 Dąbie
-Ďáblice
 Dabo
 Dabronc
 Dabrony
@@ -24651,6 +24634,7 @@ Dalen
 Dalerpeel
 Dalešice
 Daleszyce
+Daletice
 Dalfsen
 Dalgopol
 Dalhain
@@ -24892,6 +24876,7 @@ Dargeçit
 Dargnies
 Dargoire
 Dargov
+Dargovských hrdinov
 Darien
 Darién
 Darién Province
@@ -25684,6 +25669,8 @@ Devičany
 Devičie
 Deville
 Déville-lès-Rouen
+Devín
+Devínska Nová Ves
 Devitsa
 Devladove Hromada
 Devoll
@@ -26537,7 +26524,6 @@ Dolní Brusnice
 Dolní Bukovsko
 Dolní Cerekev
 Dolní Čermná
-Dolní Chabry
 Dolní Chvatliny
 Dolní Dobrouč
 Dolní Domaslavice
@@ -26564,7 +26550,6 @@ Dolní Lomná
 Dolní Loučky
 Dolní Lukavice
 Dolní Lutyně
-Dolní Měcholupy
 Dolní Město
 Dolní Morava
 Dolní Moravice
@@ -26574,7 +26559,6 @@ Dolní Nivy
 Dolní Novosedly
 Dolní Olešnice
 Dolní Pěna
-Dolní Počernice
 Dolní Podluží
 Dolní Pohleď
 Dolní Poustevna
@@ -27526,7 +27510,6 @@ Dubăsarii Vechi
 Dubbeldam
 Dubbo
 Dubčany
-Dubeč
 Dubechne Hromada
 Dübendorf
 Dubenec
@@ -28052,6 +28035,7 @@ Dziubivka
 Dziwnów
 Dzoma
 Dzun-Khemchiksky District
+Džungľa
 Dzvenyhorod
 Dzvinkove
 Dzvyniach Hromada
@@ -44638,6 +44622,7 @@ Jarosław County
 Jarošov
 Jarošov nad Nežárkou
 Jarov
+Jarovce
 Jarovnice
 Jarpice
 Jarratt
@@ -45483,6 +45468,7 @@ Jugenheim in Rheinhessen
 Jugueiros
 Jugureni
 Jugy
+Juh
 Jühnde
 Juigalpa
 Juigné-des-Moutiers
@@ -46840,6 +46826,7 @@ Kavango East Region
 Kavango West Region
 Kavarskas
 Kávás
+Kavečany
 Kaverino
 Kavkazskaya
 Kavkazsky District
@@ -47278,6 +47265,7 @@ Keskin
 Kesklinn
 Keslerovskoye
 Kesova Gora
+Kesovce
 Kesovogorsky District
 Kęsowo
 Kesra
@@ -48235,7 +48223,6 @@ Klamoš
 Klana
 Klang
 Klanjec
-Klánovice
 Klapý
 Klárafalva
 Klasov
@@ -48759,8 +48746,8 @@ Kolam Ayer
 Kolan
 Koláre
 Kolari
-Kolárova
 Kolárovice
+Kolárovo
 Kolašin
 Kołbaskowo
 Kolbasov
@@ -48829,7 +48816,6 @@ Kołobrzeg (rural gmina)
 Kołobrzeg County
 Kolochava Hromada
 Kolochninskoye
-Koloděje
 Kolodenka
 Kolodentsi
 Kolodiazhne Hromada
@@ -48860,7 +48846,6 @@ Kolosovsky District
 Kolová
 Koloveč
 Koloverty
-Kolovraty
 Kolpashevo
 Kolpashevsky District
 Kolpino
@@ -49369,28 +49354,9 @@ Košice II District
 Košice III District
 Košice IV District
 Košice Region
-Košice-Barca
-Košice-Dargovských hrdinov
-Košice-Džungľa
-Košice-Juh
-Košice-Kavečany
-Košice-Košická Nová Ves
-Košice-Lorinčík
-Košice-Luník IX
-Košice-Myslava
-Košice-Nad jazerom
 Košice-okolie District
-Košice-Pereš
-Košice-Poľov
-Košice-Šaca
-Košice-Šebastovce
-Košice-Sídlisko KVP
-Košice-Sídlisko Ťahanovce
-Košice-Staré Mesto
-Košice-Ťahanovce
-Košice-Vyšné Opátske
-Košice-Západ
 Košická Belá
+Košická Nová Ves
 Košická Polianka
 Košické Oľšany
 Kosičky
@@ -49843,6 +49809,7 @@ Krāslava Municipality
 Kraslice
 Krašlovice
 Krasna
+Krásna
 Krásná
 Krásná Hora
 Krásná Hora nad Vltavou
@@ -50098,7 +50065,6 @@ Křesetice
 Křešice
 Křesín
 Křešín
-Křeslice
 Kreßberg
 Kressbronn am Bodensee
 Krestetsky District
@@ -52547,6 +52513,7 @@ Lama
 Lama de Arcos
 Lama dei Peligni
 Lama Mocogno
+Lamač
 Lamaçães
 Lamadeleine-Val-des-Anges
 Lamadrid
@@ -54931,6 +54898,7 @@ Lessolo
 Lessona
 Lessouda
 Lessy
+Lešť Military District
 Lestards
 Lestelle-Bétharram
 Lestelle-de-Saint-Martory
@@ -55283,7 +55251,6 @@ Librilla
 Librizzi
 Libštát
 Libuň
-Libuš
 Libušín
 Licantén
 Ličartovce
@@ -55771,7 +55738,6 @@ Lipce Reymontowskie
 Lipceni
 Lipchanka
 Lipec
-Lipence
 Liperi
 Lipetsk
 Lipetsk Region
@@ -56232,7 +56198,6 @@ Lochenice
 Locherhof
 Loches
 Löchgau
-Lochkov
 Lochousice
 Lochovice
 Łochów
@@ -56706,6 +56671,7 @@ Lorient
 Loriga
 Loriges
 Lőrinci
+Lorinčík
 Lorino
 Loriol-du-Comtat
 Loriol-sur-Drôme
@@ -57600,6 +57566,7 @@ Lungnyi
 Lungro
 Lungulețu
 Luni
+Luník IX
 Lunin
 Luniniec
 Luniniec District
@@ -57919,7 +57886,6 @@ Lyskovo
 Lyskovsky District
 Lysogorskaya
 Lysogorsky District
-Lysolaje
 Łysomice
 Lysovice
 Lyss
@@ -63356,6 +63322,7 @@ Mladoňovice
 Mladošovice
 Mladotice
 Mladý Smolivec
+Mládzovo
 Mława
 Mława County
 Mlázovice
@@ -66507,6 +66474,7 @@ Myshkinsky District
 Myshkovychi
 Myski
 Mysłakowice
+Myslava
 Myslejovice
 Myślenice
 Myślenice County
@@ -66589,6 +66557,7 @@ Naco
 Nacogdoches County
 Nacozari de García
 Ñacunday
+Nad jazerom
 Nadadores
 Nadadouro
 Nadaillac
@@ -67373,7 +67342,6 @@ Nebra (Unstrut)
 Nebraska
 Nebřehovice
 Nebug
-Nebušice
 Nebužely
 Nechaiane Hromada
 Nechanice
@@ -67444,7 +67412,6 @@ Nedre Eiker
 Nedryhailiv Hromada
 Nedvědice
 Nedvězí
-Nedvězí u Říčan
 Nędza
 Nee Soon
 Neede
@@ -69976,6 +69943,7 @@ Nové Hrady
 Nove Hromada
 Nové Hutě
 Nové Lublice
+Nové Mesto
 Nové Město
 Nové Město na Moravě
 Nové Město nad Metují
@@ -75904,6 +75872,7 @@ Perepravnaya
 Pererisl
 Pererisl Hromada
 Pererîta
+Pereš
 Peresecina
 Pereselennia
 Pereshchepyne Hromada
@@ -76399,6 +76368,7 @@ Petrůvky
 Petřvald
 Petrykiv
 Petrykivka Hromada
+Petržalka
 Pëtschent
 Petten
 Pettenasco
@@ -78029,6 +77999,7 @@ Podujevo
 Podul Lung
 Podůlšany
 Podůlší
+Podunajské Biskupice
 Podunavlje District
 Poduri
 Podveky
@@ -78369,6 +78340,7 @@ Polorós
 Pölöske
 Pölöskefő
 Polotnyany Zavod
+Poľov
 Polova
 Polovinka
 Polovinsky District
@@ -79461,30 +79433,65 @@ Pragal
 Pragelato
 Prägraten am Grossvenediger
 Praha
-Praha-1 District
-Praha-10 District
-Praha-11 District
-Praha-12 District
-Praha-13 District
-Praha-14 District
-Praha-15 District
-Praha-16 District
-Praha-17 District
-Praha-18 District
-Praha-19 District
-Praha-2 District
-Praha-20 District
-Praha-21 District
-Praha-22 District
-Praha-3 District
-Praha-4 District
-Praha-5 District
-Praha-6 District
-Praha-7 District
-Praha-8 District
-Praha-9 District
+Praha 1
+Praha 10
+Praha 11
+Praha 12
+Praha 13
+Praha 14
+Praha 15
+Praha 16
+Praha 17
+Praha 18
+Praha 19
+Praha 2
+Praha 20
+Praha 21
+Praha 22
+Praha 3
+Praha 4
+Praha 5
+Praha 6
+Praha 7
+Praha 8
+Praha 9
+Praha-Běchovice
+Praha-Benice
+Praha-Březiněves
+Praha-Čakovice
+Praha-Ďáblice
+Praha-Dolní Chabry
+Praha-Dolní Měcholupy
+Praha-Dolní Počernice
+Praha-Dubeč
+Praha-Klánovice
+Praha-Koloděje
+Praha-Kolovraty
+Praha-Královice
+Praha-Křeslice
+Praha-Kunratice
+Praha-Libuš
+Praha-Lipence
+Praha-Lochkov
+Praha-Lysolaje
+Praha-Nebušice
+Praha-Nedvězí
+Praha-Petrovice
+Praha-Přední Kopanina
+Praha-Řeporyje
+Praha-Satalice
+Praha-Šeberov
+Praha-Slivenec
+Praha-Štěrboholy
+Praha-Suchdol
+Praha-Troja
+Praha-Újezd
+Praha-Velká Chuchle
+Praha-Vinoř
 Praha-východ District
 Praha-západ District
+Praha-Zbraslav
+Praha-Zličín
 Prahins
 Prahova County
 Praia
@@ -79655,7 +79662,6 @@ Předměřice nad Jizerou
 Předměřice nad Labem
 Predmier
 Předmíř
-Přední Kopanina
 Přední Výtoň
 Přední Zborovice
 Predoi
@@ -82951,7 +82957,6 @@ Repište
 Repki
 Replonges
 Řepníky
-Řeporyje
 Řepov
 Reppe
 Reppenstedt
@@ -85699,6 +85704,7 @@ Ruskovce
 Ruský Hrabovec
 Ruský Potok
 Rusne
+Rusovce
 Russ
 Russange
 Russas
@@ -85789,6 +85795,7 @@ Ruzhyn Hromada
 Ružić
 Ružiná
 Ružindol
+Ružinov
 Ružomberok
 Ružomberok District
 Růžová
@@ -86029,6 +86036,7 @@ Sabugueiro
 Sac and Fox Nation
 Sac and Fox Reservation
 Sac County
+Šaca
 Sacacoyo
 Săcădat
 Săcălășeni
@@ -86091,6 +86099,7 @@ Saddle Hills County
 Saddle River
 Saddle Rock
 Sádek
+Sadhora
 Sadîc
 Sadirac
 Sadki
@@ -91686,7 +91695,6 @@ Sasylsky
 Sáta
 Satagay
 Satakunta
-Satalice
 Sataniv Hromada
 Satanivka
 Sátão
@@ -92768,6 +92776,7 @@ Sebastião Barros
 Sebastião Laranjeiras
 Sebastião Leal
 Sebastopol
+Šebastovce
 Sebec
 Sebechleby
 Sebečice
@@ -92775,7 +92784,6 @@ Sebedín-Bečov
 Sebedražie
 Seben
 Seberi
-Šeberov
 Sebeș
 Šebestěnice
 Šebetov
@@ -94563,6 +94571,8 @@ Sidi Morched
 Sidi Slimane Province
 Sidi Thabet
 Sidi Zid-Awled Moulahem
+Sídlisko KVP
+Sídlisko Ťahanovce
 Sidney
 Sidney (town)
 Sidney (village)
@@ -95554,7 +95564,6 @@ Slippery Rock
 Slippery Rock Township
 Sliven
 Sliven Province
-Slivenec
 Slivilești
 Slivník
 Slivno
@@ -97658,6 +97667,7 @@ Staré Jesenčany
 Stare Juchy
 Staré Křečany
 Stare Kurowo
+Staré Mesto
 Staré Město
 Staré Město pod Landštejnem
 Stare Miasto
@@ -98093,7 +98103,6 @@ Stepnoye Annenkovo
 Stepnoye Ozero
 Stepove
 Stepove Hromada
-Štěrboholy
 Sterdyń
 Sterea Ellada
 Sterkenburg
@@ -100174,6 +100183,7 @@ Tagyon
 Tahaa
 Tahakopa
 Tahal
+Ťahanovce
 Tahara
 Tahir
 Tahiti
@@ -104076,7 +104086,6 @@ Troitsky Administrative Area
 Troitsky District
 Troitsky Sungur
 Troizinia-Methana
-Troja
 Trojanovice
 Trojanów
 Trojes
@@ -105270,7 +105279,6 @@ Ujčov
 Újezd u Chocně
 Újezd u Plánice
 Újezd u Přelouče
-Újezd u Průhonic
 Újezd u Rosic
 Újezd u Sezemic
 Újezd u Svatého Kříže
@@ -106411,6 +106419,7 @@ Vaivre-et-Montoille
 Vaja
 Vajdácska
 Vajkovce
+Vajnory
 Vajont
 Vajszló
 Vajta
@@ -106479,6 +106488,7 @@ Valangin
 Valaská
 Valaská Belá
 Valaská Dubová
+Valaškovce Military District
 Valašská Bystřice
 Valašská Polanka
 Valašská Senice
@@ -106711,6 +106721,7 @@ Valentigney
 Valentim Gentil
 Valentine
 Valenton
+Valentovce
 Valenza
 Valenzano
 Valenzuela
@@ -107730,7 +107741,6 @@ Velká Bystřice
 Veľká Čalomija
 Veľká Čausa
 Velká Chmelištná
-Velká Chuchle
 Velká Chyška
 Veľká Čierna
 Velká Dobrá
@@ -110161,7 +110171,6 @@ Vinohrady
 Vinohrady nad Váhom
 Vinon
 Vinon-sur-Verdon
-Vinoř
 Vinosady
 Vinovo
 Vins-sur-Caramy
@@ -111010,6 +111019,7 @@ Vračovice-Orlov
 Vradiivka Hromada
 Vrádište
 Vrakúň
+Vrakuňa
 Vraňany
 Vrancea County
 Vrančice
@@ -111322,6 +111332,7 @@ Vyšná Voľa
 Vyšné Ladičkovce
 Vyšné nad Hronom
 Vyšné Nemecké
+Vyšné Opátske
 Vyšné Remety
 Vyšné Repaše
 Vyšné Ružbachy
@@ -114957,6 +114968,7 @@ Záhorie Military District
 Záhornice
 Zahoroshcha
 Záhorovice
+Záhorská Bystrica
 Záhorská Ves
 Zahrádka
 Zahrádky
@@ -115184,6 +115196,7 @@ Zaozerne
 Zaozyornoye
 Zaozyorny
 Zaozyorsk
+Západ
 Zapadnobački District
 Zapadnodvinsky District
 Zapadnohercegovački Canton
@@ -116064,7 +116077,6 @@ Zlazne
 Žlebské Chvalovice
 Žleby
 Zlechov
-Zličín
 Zliechov
 Zlín
 Zlín District
