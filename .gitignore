@@ -1,2 +1,10 @@
-.idea
+﻿.idea
 *.exe
+
+.mypy_cache/
+__pycache__/
+*.pyc
+.vs/
+.vscode/
+
+venv/

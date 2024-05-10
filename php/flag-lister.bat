@@ -1,1 +1,3 @@
-java -jar flag-lister.jar -s -n 0
+call ./venv/Scripts/activate.ps1
+
+python -m flag-lister

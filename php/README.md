@@ -1,41 +1,41 @@
 # Quick overview of the contents of this folder
 
-## flag-lister.jar
+## flag-lister.py
 
-Note: this requires java to be installed
+Note: this requires python 3.11 to be installed, as well as the python packages listed in `requirements.txt`.
 
-This Java archive walks through the /flags folder and subfolders and creates all the *flag_list.txt* files in each subfolder plus the flag_api_php2.txt file in this folder.
+To install the dependencies:
+
+`pip install -r requirements.txt` on Windows or `pip3 install -r requirements.txt` on Linux. You can do so in a virtual environment, which you have to activate before running the script.
+
+This python script walks through the /flags folder and subfolders and creates all the *flag_list.txt* files in each subfolder plus the flag_api_php2.txt file in this folder.
 
 ### What are flag_list.txt files needed for?
 
 The *flag_list.txt* files in the /flags folders are downloaded by the plugin to display the list of selectable flags at each stage of the Extra Flags Setup process.
 
-The sources of this .jar are in the /flag-lister folder. Refer to the README.md file there for further details.
-
-### How to run flag-lister.jar
+### How to run flag-lister.py
 
 Use the scripts flag-lister.sh (on Unix systems) or flag-lister.bat (on Windows systems) to run the application.
 
 If you want more control you can run it from the command line like this:
 
-```
-java -jar file-lister.jar [-h] [-n <number>] [-s] [-v]
-```
+```text
+Usage: flag-lister.py [OPTIONS]
 
-where:
+  Traverses the root directory in search for invalid file extensions
 
-  - `-h`  shows the help message
-  - `-n  <number>` sets the end line character according to `number`:
-    - 0 for Windows style
-    - 1 for Unix style (default)
-    - 2 for Mac style
-  - `-s`  enables the smart mode that avoids deleting the files that are already good instead of wiping everything to make them again from scratch
-  - `-v`  displays the version information
+Options:
+  -v, --verbose                Enable verbose mode
+  -a, --redo-all               Recreate all files from scratch.
+  -n, --new-line [LF|CRLF|CR]  Choose the new line character. [default: LF]
+  -h, --help                   Show this message and exit.
+```
 
 ## flag_list_api2.txt
 
 Contains all the flag names in the repositories.
-This can be updated by running the flag-lister.jar file.
+This can be updated by running the flag-lister.py file.
 
 ### What is this flag_list_api2.txt file needed for?
 
@@ -51,10 +51,9 @@ These files are the logic behind the server where user flags are stored. The fir
 
 The gloss layers that should be used when making flags.
 
-
 ## Python scripts
 
-This folder also contains some python utilities that should help managing the repository.
+This folder also contains other python utilities that should help managing the repository.
 
 Each of them can be called with the `--help` argument to know the options.
 

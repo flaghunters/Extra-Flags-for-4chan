@@ -13,22 +13,39 @@ ROOT_DIR = "../flags"
 ROOT_PATH = Path(__file__).parent / ROOT_DIR
 CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
+NEW_LINE = {"LF": "\n", "CRLF": "\r\n", "CR": "\r"}
+
 
 @click.command(context_settings=CONTEXT_SETTINGS)
 @click.option("--verbose", "-v", is_flag=True, help="Enable verbose mode")
-def main(verbose: bool):
+@click.option(
+    "--redo-all",
+    "-a",
+    is_flag=True,
+    default=False,
+    help="Recreate all files from scratch.",
+)
+@click.option(
+    "--new-line",
+    "-n",
+    type=click.Choice(["LF", "CRLF", "CR"], case_sensitive=False),
+    default="LF",
+    show_default=True,
+    help="Choose the new line character",
+)
+def main(verbose: bool, redo_all: bool, new_line: str):
     """Traverses the root directory in search for invalid file extensions"""
     log_level = logging.DEBUG if verbose else logging.INFO
     logging.basicConfig(level=log_level, format="%(message)s")
 
-    sep = "\n"  # os.linesep
+    sep = NEW_LINE[new_line]
 
     logger.info("Managing flag list files.")
     logger.debug("Working directory: %s", os.getcwd())
     logger.debug("Flags directory: %s", str(ROOT_PATH.absolute()))
 
     collator = pyuca.Collator()
-    the_mega_list = set()
+    all_flags = set()
 
     for root, _, files in os.walk(ROOT_PATH):
         # skip the main folder as we don't store pngs for states.
@@ -38,13 +55,13 @@ def main(verbose: bool):
         logger.debug("Current dir: %s", root_path)
         pngs = [Path(file).stem for file in files if Path(file).suffix == PNG_EXT]
         pngs = sorted(pngs, key=collator.sort_key)
-        the_mega_list.update(pngs)
+        all_flags.update(pngs)
 
         with open(root_path / FLAG_LIST, "a+t", encoding="utf-8") as flags:
             flags.seek(0)
             read_flags = flags.readlines()
-            read_flags = [flag[:-1] for flag in read_flags]
-            if read_flags != pngs:
+            read_flags = [flag.rstrip() for flag in read_flags]
+            if read_flags != pngs or redo_all:
                 logger.info("Fixing: %s", root_path)
                 flags.seek(0)
                 flags.truncate()
@@ -53,9 +70,9 @@ def main(verbose: bool):
     logger.info("Deleting api list...")
     with open(ALL_FLAGS, "wt", encoding="utf-8") as flags:
         logger.info("Creating api list...")
-        the_mega_list = sorted(the_mega_list, key=collator.sort_key)
-        flags.writelines([flag + sep for flag in the_mega_list])
+        all_flags_list = sorted(all_flags, key=collator.sort_key)
+        flags.writelines([flag + sep for flag in all_flags_list])
 
 
 if __name__ == "__main__":
-    main()  # pylint: disable=no-value-for-parameter
+    main()

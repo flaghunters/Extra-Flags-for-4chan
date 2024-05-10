@@ -7289,7 +7289,7 @@ Barichara
 Barienrode
 Barile
 Barilo-Krepinskaya
-Barilović 
+Barilović
 Barima-Waini
 Barinas
 Baring Plantation
@@ -9161,7 +9161,7 @@ Berestove
 Berestove Hromada
 Berestyanki
 Beret
-Beretinec 
+Beretinec
 Berettyóújfalu
 Berettyóújfalu District
 Berevoești
@@ -10598,7 +10598,7 @@ Bjarkøy
 Bjelovar
 Bjelovar-Bilogora County
 Bjena
-Bjergby 
+Bjergby
 Bjerkreim
 Bji
 Bjoka
@@ -12260,7 +12260,7 @@ Bosia
 Bošice
 Bošilec
 Bosilegrad
-Bosiljevo 
+Bosiljevo
 Bosilovo
 Bošín
 Bösingen
@@ -18940,7 +18940,7 @@ Cete
 Cetechovice
 Cetenov
 Cetina
-Cetingrad 
+Cetingrad
 Cetinje
 Cetireni
 Cetkovice
@@ -41838,7 +41838,7 @@ Houwaart
 Houx
 Houyet
 Hove
-Hovedgård 
+Hovedgård
 Hovedstaden
 Hövej
 Hövelhof
@@ -44070,7 +44070,7 @@ Ivančna Gorica
 Iváncsa
 Ivándárda
 Ivane-Puste Hromada
-Ivanec 
+Ivanec
 Ivănești
 Ivangorod
 Ivanhorod
@@ -49041,7 +49041,7 @@ Koniukhy
 Koniusza
 Koniv
 Köniz
-Konjščina 
+Konjščina
 Konken
 Konkovo District
 Könnern
@@ -54604,7 +54604,7 @@ Lepe
 Lepelle-Nkumpi
 Lephalale
 Lépine
-Lepoglava 
+Lepoglava
 Leporano
 Leposavić
 Leppävirta
@@ -55788,7 +55788,7 @@ Lipovec
 Lipoveni
 Lipovice
 Lipovka
-Lipovljani 
+Lipovljani
 Lipovník
 Lipovu
 Lipowa
@@ -57301,7 +57301,7 @@ Lucy-le-Bocage
 Ludanice
 Ludányhalászi
 Ludas
-Ludbreg 
+Ludbreg
 Lüdenscheid
 Lüder
 Luderitz
@@ -58007,7 +58007,7 @@ Macchiagodena
 Macclenny
 Macclesfield
 MacDonnell
-Mače 
+Mače
 Macea
 Maceda
 Macedo de Cavaleiros
@@ -67781,7 +67781,7 @@ Netivot
 Netolice
 Netphen
 Netřebice
-Netretić 
+Netretić
 Netro
 Netstal
 Nett
@@ -78724,7 +78724,7 @@ Poplevino
 Popoli
 Popov
 Popovac
-Popovača 
+Popovača
 Popovice
 Popovičky
 Popovka
@@ -81578,7 +81578,7 @@ Radňoves
 Radňovice
 Rădoaia
 Radobica
-Radoboj 
+Radoboj
 Rádóckölked
 Radogoshch
 Rădoiești
@@ -97264,7 +97264,7 @@ Squamish-Lillooet Regional District
 Squiffiec
 Squillace
 Squinzano
-Sračinec 
+Sračinec
 Sragen Regency
 Srbac
 Srbce
@@ -99175,7 +99175,7 @@ Suncho Corral
 Sund
 Sunday's River Valley
 Sundborn
-Sundby 
+Sundby
 Sundbyberg Municipality
 Sunderland
 Sundern
@@ -99188,7 +99188,7 @@ Sundsvall Municipality
 Sunflower County
 Sungai Penuh
 Suni
-Sunja 
+Sunja
 Sunky
 Sunne Municipality
 Sunny Isles Beach
@@ -108844,7 +108844,7 @@ Vidonín
 Vidor
 Vidou
 Vidov
-Vidovec 
+Vidovec
 Vidra
 Vidrà
 Vidracco
@@ -110149,7 +110149,6 @@ Vinhedo
 Vinhó
 Vinhós
 Vinica
-Vinica 
 Viničky
 Viničné
 Viničné Šumice
@@ -110657,7 +110656,7 @@ Vojkovce
 Vojkovice
 Vojňany
 Vojnatina
-Vojnić 
+Vojnić
 Vojnik
 Vojníkov
 Vojnův Městec
