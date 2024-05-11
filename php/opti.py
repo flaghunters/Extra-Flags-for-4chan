@@ -8,11 +8,11 @@ from pathlib import Path
 from git import Repo
 from subprocess import Popen
 
-OPTI = "optipng.exe"
+OPTI = Path(__file__).parent / "optipng.exe"  # change to own installation
 FILE_EXT = "*.png"
 TEMP_FILE = "temp.png"
-ROOT_PATH = Path(__file__).parent.parent
 CURRENT_PATH = Path(__file__).parent
+ROOT_PATH = CURRENT_PATH.parent
 
 
 @click.command(context_settings=dict(ignore_unknown_options=True))
