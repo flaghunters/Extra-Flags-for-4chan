@@ -2352,6 +2352,7 @@ Altamira do Paraná
 Altamont
 Altamonte Springs
 Altamura
+Alțâna
 Altanbulag
 Altaneira
 Altansky
@@ -2438,7 +2439,6 @@ Altier
 Altikon
 Altilia
 Altillac
-Alțina
 Altinho
 Altino
 Altinoluk
@@ -42663,7 +42663,7 @@ Iaras
 Iargara
 Iarova
 Iași
-Iasi County
+Iași County
 Iaslovăț
 Iasmos
 Iati
@@ -93141,6 +93141,12 @@ Secondigny
 Secourt
 Sečovce
 Sečovská Polianka
+Sector 1
+Sector 2
+Sector 3
+Sector 4
+Sector 5
+Sector 6
 Secu
 Secugnago
 Secuieni
