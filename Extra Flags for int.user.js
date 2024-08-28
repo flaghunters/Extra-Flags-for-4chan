@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.44
+// @version     0.45
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -145,17 +145,25 @@ var setup = {
                     //console.log(response.responseText);
                     var countrySelect = document.getElementById(shortId + 'countrySelect'),
                         countriesAvailable = response.responseText.split('\n');
+                        
+                    if (countriesAvailable.length==0) {
+                        setup.fillHtml(oldPath);
+                        setup.q('forward').disabled = true; // disable next button
+                        return;
+                    }
                     countrySelect.innerHTML = "";
 
-                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
+                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
+                        var country = countriesAvailable[countriesCounter].trim();
+                        if (country === "") { continue; }
+
                         var opt = document.createElement('option');
-                        opt.value = countriesAvailable[countriesCounter];
+                        opt.value = country;
+                        opt.innerHTML = country;
 
-                        opt.innerHTML = countriesAvailable[countriesCounter];
-
-                        if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
+                        if (lastRegion != "" && country === lastRegion) { // automatically select last selected when going up a folder
                             opt.selected = "selected";
-                        } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more
+                        } else if (oldPath == "" && country === regions[regions.length - 1]) { // show final selected when no more
                             // folders detected
                             opt.selected = "selected";
                         }
@@ -191,11 +199,6 @@ var setup = {
             setup_el.parentNode.removeChild(setup_el);
         }
         /* create new setup window */
-        GM_addStyle('\
-            #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
-            #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
-            #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
-        );
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
@@ -234,7 +237,6 @@ var setup = {
 
         setup.q('save').addEventListener('click', function () {
             var e = document.getElementById(shortId + "countrySelect");
-            var temp = e.options[e.selectedIndex].value;
 
             if (regions[regions.length - 1] === "") { //prevent last spot from being blank
                 regions.pop();
@@ -244,7 +246,7 @@ var setup = {
             radio = document.querySelector('input[name="filterRadio"]:checked').value;
             setup.save(radioVariable, radio);
 
-            alert('Flags set: ' + regions + '\n\n' + 'Refresh all your 4chan tabs and be sure to post using the quick reply window!');
+            alert('Flags set: ' + regions + '\n\n' + 'Be sure to post using the quick reply window!');
 
             this.disabled = true;
             this.innerHTML = 'Saving...';
@@ -494,8 +496,14 @@ if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
 }
 /** END fix flag alignment on chrome */
 
+// add styles only once and not each time we call .show()
+GM_addStyle('\
+    #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
+    #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
+    #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
+);
+
 /** setup init and start first calls */
 setup.init();
 parseOriginalPosts();
 resolveRefFlags();
-

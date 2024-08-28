@@ -1,8 +1,9 @@
 // ==UserScript==
+//  This is being deprecated in favor of the main script revised to supports both desktop and mobile.
 // name and namespace cannot be changed - it would break the update mechanism, that's why we will leave the name at Extra Flags for int
 // @name        Extra Flags for int
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
-// @description Extra Flags for 4chan v2 "City flags were a mistake" edition
+// @description Extra Flags for 4chan v2 "City flags were a mistake" edition - Mobile version.
 // @include     http*://boards.4chan.org/int/*
 // @include     http*://boards.4chan.org/sp/*
 // @include     http*://boards.4chan.org/pol/*
@@ -19,15 +20,15 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.44
+// @version     0.45
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
-// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js
+// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
+// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js
 // ==/UserScript==
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
@@ -145,17 +146,25 @@ var setup = {
                     //console.log(response.responseText);
                     var countrySelect = document.getElementById(shortId + 'countrySelect'),
                         countriesAvailable = response.responseText.split('\n');
+
+                    if (countriesAvailable.length==0) {
+                        setup.fillHtml(oldPath);
+                        setup.q('forward').disabled = true; // disable next button
+                        return;
+                    }
                     countrySelect.innerHTML = "";
 
-                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
+                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
+                        var country = countriesAvailable[countriesCounter].trim();
+                        if (country === "") { continue; }
+
                         var opt = document.createElement('option');
-                        opt.value = countriesAvailable[countriesCounter];
+                        opt.value = country;
+                        opt.innerHTML = country;
 
-                        opt.innerHTML = countriesAvailable[countriesCounter];
-
-                        if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
+                        if (lastRegion != "" && country === lastRegion) { // automatically select last selected when going up a folder
                             opt.selected = "selected";
-                        } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more
+                        } else if (oldPath == "" && country === regions[regions.length - 1]) { // show final selected when no more
                             // folders detected
                             opt.selected = "selected";
                         }
@@ -191,11 +200,6 @@ var setup = {
             setup_el.parentNode.removeChild(setup_el);
         }
         /* create new setup window */
-        GM_addStyle('\
-            #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
-            #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
-            #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
-        );
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
@@ -234,7 +238,6 @@ var setup = {
 
         setup.q('save').addEventListener('click', function () {
             var e = document.getElementById(shortId + "countrySelect");
-            var temp = e.options[e.selectedIndex].value;
 
             if (regions[regions.length - 1] === "") { //prevent last spot from being blank
                 regions.pop();
@@ -244,7 +247,7 @@ var setup = {
             radio = document.querySelector('input[name="filterRadio"]:checked').value;
             setup.save(radioVariable, radio);
 
-            alert('Flags set: ' + regions + '\n\n' + 'Refresh all your 4chan tabs and be sure to post using the quick reply window!');
+            alert('Flags set: ' + regions + '\n\n' + 'Be sure to post using the quick reply window!');
 
             this.disabled = true;
             this.innerHTML = 'Saving...';
@@ -292,7 +295,6 @@ function parseOriginalPosts() {
 /** the function to get the flags from the db uses postNrs
  *  member variable might not be very nice but it's the easiest approach here */
 function onFlagsLoad(response) {
-
     //exit on error
     if (response.status !== 200) {
         console.log("Could not fetch flags, status: " + response.status);
@@ -304,13 +306,14 @@ function onFlagsLoad(response) {
     var jsonData = JSON.parse(response.responseText);
 
     jsonData.forEach(function (post) {
-        var postToAddFlagTo = document.getElementById("pc" + post.post_nr),
+        var postedRegions = post.region.split(regionDivider),
+            postToAddFlagTo = document.getElementById("pc" + post.post_nr),
             postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
-            nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
-            currentFlag = nameBlock.getElementsByClassName('flag')[0],
-            postedRegions = post.region.split(regionDivider);
-		var postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
-            nameBlockM = postInfoM.getElementsByClassName('nameBlock')[0];
+            nameBlock = postInfo?.getElementsByClassName('nameBlock')[0],
+            postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
+            nameBlockM = postInfoM?.getElementsByClassName('nameBlock')[0];
+
+        var currentFlag = nameBlock?.getElementsByClassName('flag')[0] || nameBlockM.getElementsByClassName('flag')[0];
 
         if (postedRegions.length > 0 && !(currentFlag === undefined)) {
             var path = currentFlag.title;
@@ -344,8 +347,8 @@ function onFlagsLoad(response) {
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
 
-                    nameBlock.appendChild(newFlag);
-					nameBlockM.appendChild(newFlag.cloneNode(true));
+                    nameBlock?.appendChild(newFlag);
+                    nameBlockM?.appendChild(newFlag.cloneNode(true));
 
                     console.log("resolved " + postedRegions[i]);
                 }
@@ -498,6 +501,13 @@ if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
     addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
 }
 /** END fix flag alignment on chrome */
+
+// add styles only once and not each time we call .show()
+GM_addStyle('\
+    #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
+    #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
+    #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
+);
 
 /** setup init and start first calls */
 setup.init();

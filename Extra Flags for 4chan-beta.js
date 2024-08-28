@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.44
+// @version     0.45
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -141,73 +141,70 @@ var setup = {
 
     },
     fillHtml: function (path1) {
-      var textDiv = document.getElementById(textListID);
-      var textDump = dumpArray.join('\n');
-      textDiv.value = textDump;
+        var textDiv = document.getElementById(textListID);
+        var textDump = dumpArray.join('\n');
+        textDiv.value = textDump;
 
-      if (path1 === "") { //normal call
-          var path = flegsBaseUrl + "/";
-          var oldPath = path;
-          if (regions.length > 0) {
-              for (var i = 0; i < regions.length; i++) {
-                  oldPath = path;
-                  path += regions[i] + "/";
-              }
-          }
-          var pathNoFlagList = path;
-      } else { // end of folder line call
-          path = path1;
-          oldPath = "";
-          var pathNoFlagList = path;
-      }
+        if (path1 === "") { //normal call
+            var path = flegsBaseUrl + "/";
+            var oldPath = path;
+            if (regions.length > 0) {
+                for (var i = 0; i < regions.length; i++) {
+                    oldPath = path;
+                    path += regions[i] + "/";
+                }
+            }
+            var pathNoFlagList = path;
+        } else { // end of folder line call
+            path = path1;
+            oldPath = "";
+            var pathNoFlagList = path;
+        }
 
-      /* resolve countries which we support */
-      GM_xmlhttpRequest({
-          method: "GET",
-          url: path + flagListFile,
-          headers: {
-              "Content-Type": "application/x-www-form-urlencoded"
-          },
-          onload: function (response) {
-              if (response.status == 404) { // detect if there are no more folders
-                  setup.fillHtml(oldPath);
-                  setup.q('forward').disabled = true; // disable next button
-              } else {
-                  //hide spam, debug purposes only
-                  //console.log(response.responseText);
-                  var countrySelect = document.getElementById(shortId + 'countrySelect'),
-                      countriesAvailable = response.responseText.split('\n');
+        /* resolve countries which we support */
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: path + flagListFile,
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            onload: function (response) {
+                if (response.status == 404) { // detect if there are no more folders
+                    setup.fillHtml(oldPath);
+                    setup.q('forward').disabled = true; // disable next button
+                } else {
+                    //hide spam, debug purposes only
+                    //console.log(response.responseText);
+                    var countrySelect = document.getElementById(shortId + 'countrySelect'),
+                        countriesAvailable = response.responseText.split('\n');
 
-                  if (countriesAvailable.length==0) {
-                      setup.fillHtml(oldPath);
-                      setup.q('forward').disabled = true; // disable next button
-                      return;
-                  }
-                  countrySelect.innerHTML = "";
+                    if (countriesAvailable.length==0) {
+                        setup.fillHtml(oldPath);
+                        setup.q('forward').disabled = true; // disable next button
+                        return;
+                    }
+                    countrySelect.innerHTML = "";
 
-                  for (var countriesCounter = 0; countriesCounter < countriesAvailable.length - 1; countriesCounter++) {
-                      var opt = document.createElement('option');
-                      opt.value = countriesAvailable[countriesCounter];
+                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
+                        var country = countriesAvailable[countriesCounter].trim();
+                        if (country === "") { continue; }
 
-                      //if (regions.length > 0) {
-                      //    opt.innerHTML = countriesAvailable[countriesCounter] + " " + "<img src=\"" + flegsBaseUrl + pathNoFlagList + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
-                      //} else {
-                      //    opt.innerHTML = countriesAvailable[countriesCounter]; // remove comment to enable country flags in the selection menu + " " + "<img src=\"" + countryFlegsBaseUrl + countriesAvailable[countriesCounter] + ".png\"" + " title=\"" + countriesAvailable[countriesCounter] + "\">";
-                      //}
-                      opt.innerHTML = countriesAvailable[countriesCounter];
+                        var opt = document.createElement('option');
+                        opt.value = country;
+                        opt.innerHTML = country;
 
-                      if (lastRegion != "" && countriesAvailable[countriesCounter] === lastRegion) { // automatically select last selected when going up a folder
-                          opt.selected = "selected";
-                      } else if (oldPath == "" && countriesAvailable[countriesCounter] === regions[regions.length - 1]) { // show final selected when no more
-                          // folders detected
-                          opt.selected = "selected";
-                      }
-                      countrySelect.appendChild(opt);
-                  }
-              }
+                        if (lastRegion != "" && country === lastRegion) { // automatically select last selected when going up a folder
+                            opt.selected = "selected";
+                        } else if (oldPath == "" && country === regions[regions.length - 1]) { // show final selected when no more
+                            // folders detected
+                            opt.selected = "selected";
+                        }
+                        countrySelect.appendChild(opt);
+                    }
+                }
 
-          }
-      });
+            }
+        });
     },
     setRadio: function() {
         var radioStatus = setup.load(radioVariable);
@@ -304,7 +301,7 @@ var setup = {
             radio = document.querySelector('input[name="filterRadio"]:checked').value;
             setup.save(radioVariable, radio);
 
-            alert('Flags set: ' + regions + '\n\n' + 'Refresh all your 4chan tabs and be sure to post using the quick reply window!');
+            alert('Flags set: ' + regions + '\n\n' + 'Be sure to post using the quick reply window!');
 
             this.disabled = true;
             this.innerHTML = 'Saving...';
@@ -457,10 +454,11 @@ function onFlagsLoad(response) {
         var postedRegions = post.region.split(regionDivider),
             postToAddFlagTo = document.getElementById("pc" + post.post_nr),
             postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
-            nameBlock = postInfo && postInfo.getElementsByClassName('nameBlock')[0],
-        postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
-            nameBlockM = postInfoM && postInfoM.getElementsByClassName('nameBlock')[0],
-            currentFlag = nameBlock.getElementsByClassName('flag')[0] || nameBlockM.getElementsByClassName('flag')[0];
+            nameBlock = postInfo?.getElementsByClassName('nameBlock')[0],
+            postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
+            nameBlockM = postInfoM?.getElementsByClassName('nameBlock')[0];
+
+        var currentFlag = nameBlock?.getElementsByClassName('flag')[0] || nameBlockM.getElementsByClassName('flag')[0];
 
         if (postedRegions.length > 0 && !(currentFlag === undefined)) {
             var path = currentFlag.title;
@@ -494,8 +492,8 @@ function onFlagsLoad(response) {
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
 
-                    nameBlock && nameBlock.appendChild(newFlag);
-                    nameBlockM && nameBlockM.appendChild(newFlag.cloneNode(true));
+                    nameBlock?.appendChild(newFlag);
+                    nameBlockM?.appendChild(newFlag.cloneNode(true));
 
                     console.log("resolved " + postedRegions[i]);
                 }
