@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.45
+// @version     0.46
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -145,7 +145,7 @@ var setup = {
                     //console.log(response.responseText);
                     var countrySelect = document.getElementById(shortId + 'countrySelect'),
                         countriesAvailable = response.responseText.split('\n');
-                        
+
                     if (countriesAvailable.length==0) {
                         setup.fillHtml(oldPath);
                         setup.q('forward').disabled = true; // disable next button
@@ -305,11 +305,14 @@ function onFlagsLoad(response) {
     var jsonData = JSON.parse(response.responseText);
 
     jsonData.forEach(function (post) {
-        var postToAddFlagTo = document.getElementById("pc" + post.post_nr),
+        var postedRegions = post.region.split(regionDivider),
+            postToAddFlagTo = document.getElementById("pc" + post.post_nr),
             postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
-            nameBlock = postInfo.getElementsByClassName('nameBlock')[0],
-            currentFlag = nameBlock.getElementsByClassName('flag')[0],
-            postedRegions = post.region.split(regionDivider);
+            nameBlock = postInfo?.getElementsByClassName('nameBlock')[0],
+            postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
+            nameBlockM = postInfoM?.getElementsByClassName('nameBlock')[0];
+
+        var currentFlag = nameBlock?.getElementsByClassName('flag')[0] || nameBlockM.getElementsByClassName('flag')[0];
 
         if (postedRegions.length > 0 && !(currentFlag === undefined)) {
             var path = currentFlag.title;
@@ -319,7 +322,6 @@ function onFlagsLoad(response) {
                 // this is probably quite a dirty fix, but it's fast
                 if ((radio === "all") || (radio === "first" && i === 0) || (radio === "last" && i === (postedRegions.length - 1))) {
                     var newFlag = document.createElement('a');
-                    nameBlock.appendChild(newFlag);
 
                     var lastI = i;
                     if (radio === 'last') {
@@ -343,6 +345,9 @@ function onFlagsLoad(response) {
                     newFlag.target = '_blank';
                     //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
                     newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
+
+                    nameBlock?.appendChild(newFlag);
+                    nameBlockM?.appendChild(newFlag.cloneNode(true));
 
                     console.log("resolved " + postedRegions[i]);
                 }

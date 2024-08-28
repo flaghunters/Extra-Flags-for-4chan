@@ -1,5 +1,5 @@
 // ==UserScript==
-//  This is being deprecated in favor of the main script revised to supports both desktop and mobile.
+//  This has been deprecated in favor of the main script revised to supports both desktop and mobile starting from 0.46.
 // name and namespace cannot be changed - it would break the update mechanism, that's why we will leave the name at Extra Flags for int
 // @name        Extra Flags for int
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
