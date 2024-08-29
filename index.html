@@ -33,77 +33,48 @@
                 alt="Extra Flags for 4chan"></p>
 
         <h1>
-            <a id="how-to-install---chromefirefoxopera" class="anchor" href="#how-to-install---chromefirefoxopera"
-                aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>HOW TO INSTALL
-            (Desktop - Firefox/Chrome/Opera)
+            <a id="how-to-install" class="anchor" href="#how-to-install" aria-hidden="true"><span aria-hidden="true"
+                    class="octicon octicon-link"></span></a>HOW TO INSTALL
         </h1>
 
-        <p><b>Instructions</b>:
+        <h2><b>Prerequisites:</b></h2>
+        Be sure to have
         <ol>
-            <li>Download <a href="https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/">Violentmonkey</a> or <a
-                    href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Tampermonkey</a> for Firefox, <a
-                    href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>
-                for Chrome, or <a
-                    href="https://addons.opera.com/en/extensions/details/violent-monkey/">Violentmonkey</a> for Opera.
-                <br>
-                Greasemonkey was an option years ago. However, they decided to drop compatibility with older APIs making
-                it useless.
-            </li>
-            <li>Install the Extra Flags script: <a
-                    href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js">Extra
-                    Flags for int.user.js</a>.</li>
-            <li>Browse to <a href="https://www.4chan.org/int">/int/</a></li>
-            <li>If you're using Tampermonkey, a page asking for permissions may appear. Click "Always allow domain"</li>
-            <li>Click "OK" to set your region</li>
-            <li>Click "Always allow domain," a second time</li>
-            <li>Set your region</li>
-            <li>Reload the page</li>
-            <li>Post from Quick Reply box (tap/click on a post number; top form does not work)</li>
-            <li>To change regions, click the Violentmonkey/Tampermonkey menu->Extra Flags setup, and return back to the
-                4chan page to set your region from the popup menu</li>
+            <li>A browser that supports extensions</li>
+            <li>A user script engine extension for that browser</li>
         </ol>
-
-        <h1>
-            <a id="how-to-install---mobile" class="anchor" href="#how-to-install---mobile" aria-hidden="true"><span
-                    aria-hidden="true" class="octicon octicon-link"></span></a>HOW TO INSTALL (Mobile)
-        </h1>
-
-        <p>Extra Flags works on mobile with browsers that support extensions, like Yandex Browser or KiwiBrowser.</p>
+        <br>
+        For Firefox for Desktop and Firefox for Android: you can download <a
+            href="https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/">Violentmonkey</a> or <a
+            href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Tampermonkey</a>
+        <br>
+        For Chrome Desktop, Opera and similar: consider <a
+            href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a>
+        or <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>
+        <br>
+        On mobile: you can consider Yandex Browser or KiwiBrowser, for which the Chrome extensions can be installed.
 
         <p><b>Disclaimers for phone users</b>:
             <li>Extra Flags doesn't work on Clover, Omnichan, Kuroba and similar apps.</li>
             <li>Chrome for Android doesn't support extensions (and has never supported extensions).</li>
-            <li>Extra Flags (as everything else) can't, doesn't work on- and will never be supported by iPhones.</li>
-            <li><b>Firefox for Android supports some useful extensions again </b> after a long period of mental
-                retardation.
+            <li>Extra Flags (as everything else) can't, doesn't work on- and likely never will be supported by iPhones.
             </li>
-
         </p>
 
-        <p><b>Instructions for Mobile Users</b>:
+        <h2><b>Instructions:</b></h2>
         <ol>
-            <b><i>If you choose Firefox for Android:</i></b>
-            <li>Install Firefox for Android from the Google Play Store</li>
-            <li>Install ViolentMonkey or Tampermonkey from Mozilla's Add-Ons page</li>
-        </ol>
-        <ol>
-            <b><i>If you choose Yandex Mobile:</i></b>
-            <li>Install Yandex mobile from the Google Play Store</li>
-            <li>Install ViolentMonkey or Tampermonkey from the Chrome Store</li>
-        </ol>
-        <ol start="3">
-            <b><i>Then:</i></b>
-            <li>Install the Mobile script <a
-                    href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Mobile.user.js">Extra
-                    Flags for 4chan-Mobile.user.js</a>
+            <li>Open your browser that supports user script engine extensions and navigate to this page. </li>
+            <li>Install the Extra Flags script by clicking the link: <a
+                    href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%20int.user.js">Extra
+                    Flags for int.user.js</a>.</li>
             <li>Browse to <a href="https://www.4chan.org/int">/int/</a></li>
-            <li>A page asking for permissions may appear. Click "Always allow domain"</li>
-            <li>Click "OK" to set your region</li>
-            <li>Click "Always allow domain," a second time</li>
-            <li>Set your region</li>
-            <li>Reload the page</li>
-            <li>To change regions, open the Extensions menu, click the Violentmonkey/Tampermonkey menu->Extra Flags
-                setup, and set your region from the popup menu</li>
+            <li>If you're using Tampermonkey, a page asking for permissions may appear a few times. Click "Always allow
+                domain" to allow access to the server that stores flags and to gitlab to download flag images.</li>
+            <li>On first use a pop-up should appear to asking to set your region. Click "OK".</li>
+            <li>Set your region by using the available buttons and click "Save regions."</li>
+            <li>You can now post from Quick Reply box (tap/click on a post number; top form does not work).</li>
+            <li>To change regions, click the Violentmonkey/Tampermonkey menu->Extra Flags setup, and return back to the
+                4chan page to set your region from the popup menu.</li>
         </ol>
 
         <h1>
