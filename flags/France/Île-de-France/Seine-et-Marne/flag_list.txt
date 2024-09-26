@@ -37,6 +37,7 @@ Chailly-en-Brie
 Chaintreaux
 Chalifert
 Chalmaison
+Chambry
 Chamigny
 Champagne-sur-Seine
 Champcenest
@@ -51,6 +52,7 @@ Château-Landon
 Châtenoy
 Châtillon-la-Borde
 Châtres
+Chauconin-Neufmontiers
 Chaumes-en-Brie
 Chelles
 Chessy
@@ -63,8 +65,10 @@ Clos-Fontaine
 Combs-la-Ville
 Compans
 Condé-Sainte-Libiaire
+Congis-sur-Thérouanne
 Coubert
 Couilly-Pont-aux-Dames
+Coulombs-en-Valois
 Coulommiers
 Courpalay
 Courtry
@@ -86,6 +90,7 @@ Donnemarie-Dontilly
 Émerainville
 Esbly
 Esmans
+Étrépilly
 Évry-Grégy-sur-Yerre
 Faremoutiers
 Faÿ-lès-Nemours
@@ -103,6 +108,7 @@ Fouju
 Fresnes-sur-Marne
 Fublaines
 Gastins
+Germigny-sous-Coulombs
 Gironville
 Gouvernes
 Grandpuits-Bailly-Carrois
@@ -118,6 +124,7 @@ Hermé
 Hondevilliers
 Isles-les-Meldeuses
 Isles-lès-Villenoy
+Iverny
 Jaignes
 Jouarre
 Jouy-le-Châtel
@@ -141,6 +148,7 @@ Laval-en-Brie
 Le Châtelet-en-Brie
 Le Mée-sur-Seine
 Le Pin
+Le Plessis-Placy
 Le Vaudoué
 Léchelle
 Les Chapelles-Bourbon
@@ -168,6 +176,7 @@ Mauregard
 Meaux
 Melun
 Méry-sur-Marne
+Messy
 Misy-sur-Yonne
 Mitry-Mory
 Moisenay
@@ -193,6 +202,7 @@ Noisiel
 Noisy-sur-École
 Nonville
 Obsonville
+Ocquerre
 Oissery
 Orly-sur-Morin
 Ormesson
@@ -260,12 +270,15 @@ Torcy
 Touquin
 Tournan-en-Brie
 Trilbardou
+Trocy-en-Multien
 Vaires-sur-Marne
 Valence-en-Brie
 Vanvillé
 Varennes-sur-Seine
+Varreddes
 Vaudoy-en-Brie
 Vaux-le-Pénil
+Vendrest
 Verdelot
 Vernou-la-Celle-sur-Seine
 Vert-Saint-Denis

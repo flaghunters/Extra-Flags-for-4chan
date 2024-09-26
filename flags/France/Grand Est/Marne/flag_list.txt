@@ -2,32 +2,41 @@ Aigny
 Ambonnay
 Ambrières
 Anglure
+Aougny
 Arrigny
 Arzillières-Neuville
 Aubérive
+Auve
 Avenay-Val-d'Or
 Avize
 Bazancourt
+Beaumont-sur-Vesle
 Beine-Nauroy
 Bétheniville
 Bétheny
 Bezannes
+Billy-le-Grand
 Blacy
 Blaise-sous-Arzillières
 Bouchy-Saint-Genest
 Bouilly
+Bouleuse
 Boult-sur-Suippe
 Boursault
 Bouy
 Brandonvillers
+Braux-Saint-Remy
 Breuil-sur-Vesle
 Broyes
 Brugny-Vaudancourt
+Bussy-le-Château
 Caurel
 Cernay-lès-Reims
 Châlons-en-Champagne
+Champfleury
 Champguyon
 Champillon
+Champvoisy
 Changy
 Charmont
 Châtelraould-Saint-Louvent
@@ -49,12 +58,15 @@ Crugny
 Cuchery
 Cuisles
 Cumières
+Cuperly
 Damery
 Dampierre-au-Temple
+Dampierre-le-Château
 Dampierre-sur-Moivre
 Dizy
 Dormans
 Drosnay
+Éclaires
 Écriennes
 Épernay
 Étoges
@@ -65,6 +77,7 @@ Fère-Champenoise
 Festigny
 Fismes
 Gaye
+Germigny
 Givry-en-Argonne
 Grauves
 Gueux
@@ -81,13 +94,20 @@ Janvry
 Jonchery-sur-Vesle
 Juvigny
 L'Épine
+La Chapelle-Felcourt
+La Cheppe
 La Veuve
 Lachy
+Lagery
 Larzicourt
+Le Chemin
 Le Meix-Tiercelin
 Le Mesnil-sur-Oger
 Les Essarts-le-Vicomte
+Les Mesneux
+Les Petites-Loges
 Les Rivières-Henruel
+Lhéry
 Linthelles
 Livry-Louvercy
 Loisy-sur-Marne
@@ -103,7 +123,9 @@ Mareuil-le-Port
 Marolles
 Maurupt-le-Montois
 Merfy
+Méry-Prémecy
 Moiremont
+Montbré
 Monthelon
 Montigny-sur-Vesle
 Montmirail
@@ -118,17 +140,21 @@ Oiry
 Omey
 Orbais-l'Abbaye
 Orconte
+Ormes
 Pargny-sur-Saulx
 Passy-Grigny
 Pleurs
 Plivot
 Pocancy
 Pogny
+Poilly
 Poix
 Pontfaverger-Moronvilliers
 Potangis
 Pourcy
 Prunay
+Puisieulx
+Rapsécourt
 Reims
 Reuil
 Réveillon
@@ -139,11 +165,14 @@ Saint-Gibrien
 Saint-Hilaire-au-Temple
 Saint-Imoges
 Saint-Just-Sauvage
+Saint-Mard-sur-Auve
 Saint-Martin-d'Ablois
 Saint-Martin-sur-le-Pré
 Saint-Memmie
 Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson
+Saint-Remy-sur-Bussy
 Saint-Thierry
+Sainte-Gemme
 Sainte-Marie-du-Lac-Nuisement
 Sainte-Menehould
 Sarry
@@ -153,16 +182,21 @@ Sermaize-les-Bains
 Sermiers
 Sézanne
 Sillery
+Sivry-Ante
 Somme-Vesle
 Sommepy-Tahure
 Sompuis
 Suippes
 Taissy
 Thiéblemont-Farémont
+Tilloy-et-Bellay
 Tinqueux
+Tramery
 Trigny
 Trois-Fontaines-l'Abbaye
+Trois-Puits
 Troissy
+Vadenay
 Val-de-Vesle
 Val-de-Vière
 Valmy
@@ -177,8 +211,12 @@ Verzy
 Vienne-le-Château
 Ville-Dommange
 Ville-en-Tardenois
+Villers-aux-Nœuds
+Villers-en-Argonne
+Villers-Marmery
 Vinay
 Vincelles
 Vitry-en-Perthois
 Vitry-le-François
+Vrigny
 Warmeriville
