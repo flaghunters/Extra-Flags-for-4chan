@@ -19951,6 +19951,7 @@ Chargharay
 Chariez
 Chariton County
 Charix
+Charkov
 Charlemont
 Charleroi
 Charles City County
@@ -25854,6 +25855,7 @@ Degracias
 Degracias e Pombalinho
 Degtyanoye
 Degtyarsk
+Degtyaryovka
 Degučiai
 Dehcho Region
 Dehéries
@@ -37100,6 +37102,7 @@ Gorkaya Balka
 Gorki
 Gorki Leninskiye
 Gorkovka
+Gorkovskoye
 Gorkovsky
 Gorkovsky District
 Görkwitz
@@ -50036,6 +50039,7 @@ Klymivshchyna
 Klynove
 Klyntsi
 Klynyny
+Klyonovskoye
 Klyuch
 Klyuchevsky District
 Klyuchi
@@ -51992,6 +51996,7 @@ Krylovo
 Krylovskaya
 Krylovsky District
 Krymsk
+Krymskaya Roza
 Krymsky District
 Krymzaraykino
 Krynica Morska
@@ -59661,6 +59666,7 @@ Lyapino
 Lyaskelya
 Lyaskovets
 Lyaud
+Lychak
 Lychanka
 Lychen
 Lychkivtsi
@@ -60620,6 +60626,7 @@ Malaya Khomuter
 Malaya Okhta
 Malaya Pesochnya
 Malaya Serdoba
+Malaya Shelkovka
 Malaya Tayaba
 Malaya Vishera
 Malazgirt
@@ -60804,6 +60811,7 @@ Malo
 Malo Crniće
 Maloarkhangelsk
 Maloarkhangelsky District
+Malodelskaya
 Maloderbetovsky District
 Małogoszcz
 Maloiaroslavets Druhyi
@@ -67525,6 +67533,7 @@ Mottola
 Motuca
 Motueka
 Motyčky
+Motygino
 Motyginsky District
 Motyzhyn
 Mötz
@@ -67964,6 +67973,7 @@ Mukařov
 Mukawa
 Mukdahan Province
 Mukhariv
+Mukhen
 Mukhorshibirsky District
 Mukinbudin
 Muko
@@ -69114,6 +69124,7 @@ Narros del Puerto
 Narrows
 Narsaq
 Narsdorf
+Nartan
 Nartum
 Năruja
 Narusawa
@@ -69234,6 +69245,7 @@ Naurath (Eifel)
 Naurath (Wald)
 Nauroth
 Naursky District
+Nauruzovo
 Nauryzbai District
 Nausitz
 Nausnitz
@@ -72301,6 +72313,7 @@ Novolabinskaya
 Novolabun
 Novolaksky District
 Novolativka Hromada
+Novolenino
 Novoleushkovskaya
 Novoli
 Novoluhanske
@@ -74116,6 +74129,7 @@ Oleksovice
 Olen
 Olenegorsk
 Olenevka
+Olenguy
 Oleninsky District
 Oleniovo
 Olenivka
@@ -74688,6 +74702,7 @@ Opuwo
 Opuzen
 Opwijk
 Opytne
+Opytnensky
 Oqdaryo District
 Oqoltin District
 Oqqorgon District
@@ -75937,6 +75952,7 @@ Ovar Municipality
 Ovar, São João, Arada e São Vicente de Pereira Jusã
 Ovaro
 Ovčáry
+Ovchinets
 Ovčiarsko
 Ovčie
 Ovejas
@@ -82516,6 +82532,7 @@ Prokopyevsk
 Prokopyevsky District
 Prokuplje
 Proleb
+Proletarsk
 Proletarskoye
 Proletarsky
 Proletarsky District
@@ -100733,6 +100750,7 @@ Staropolye
 Starorussky District
 Staroruzskoye
 Starosedlský Hrádek
+Starosemeykino
 Staroshaygovsky District
 Staroshcherbinovskaya
 Starosillia
@@ -109317,6 +109335,7 @@ Ust-Bagaryak
 Ust-Bolsheretsk
 Ust-Bolsheretsky District
 Ust-Burgaltay
+Ust-Byur
 Ust-Chorna Hromada
 Ust-Donetsky
 Ust-Donetsky District
@@ -109336,6 +109355,7 @@ Ust-Karsk
 Ust-Katav
 Ust-Kinelsky
 Ust-Kishert
+Ust-Koksa
 Ust-Koksinsky District
 Ust-Kubinsky District
 Ust-Kuda
@@ -109530,6 +109550,7 @@ Uzky Lug
 Uzlovaya
 Uzlovsky District
 Uznach
+Uzon
 Uzovce
 Uzovská Panica
 Uzovské Pekľany
@@ -111532,6 +111553,7 @@ Veringendorf
 Veringenstadt
 Veríssimo
 Verjon
+Verkh-Chita
 Verkh-Inva
 Verkh-Isetsky District
 Verkh-Neyvinsky
@@ -111563,6 +111585,7 @@ Verkhnerusskoye
 Verkhnesadovsky
 Verkhnesaldinsky District
 Verkhnesoinsky
+Verkhnesolyony
 Verkhnetambovskoye
 Verkhnetoyemsky District
 Verkhnetulomsky
@@ -119135,6 +119158,7 @@ Zelenoborsk
 Zelenoborsky
 Zelenodolsk
 Zelenodolsk Hromada
+Zelenodolsky
 Zelenodolsky District
 Zelenogorsk
 Zelenogorskoye
