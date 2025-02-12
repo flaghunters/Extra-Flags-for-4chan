@@ -520,6 +520,7 @@ Addison (town)
 Addison (village)
 Addison County
 Addison Township
+Addu Atoll
 Ade
 Adé
 Adeganha
@@ -2019,6 +2020,7 @@ Alicia
 Alicún
 Alife
 Alifuatpaşa
+Alifushi
 Alignan-du-Vent
 Alijó
 Alijó Municipality
@@ -3353,6 +3355,7 @@ Anglikon
 Anglure
 Angol
 Angola
+Angolhitheemu
 Angolo Terne
 Angomont
 Angor District
@@ -4344,6 +4347,8 @@ Arhansus
 Arhavi
 Arholzen
 Ari
+Ari North Atoll
+Ari South Atoll
 Ariana
 Ariana Governorate
 Ariano Irpino
@@ -6063,6 +6068,7 @@ Baâlons
 Baar
 Baar (Schwaben)
 Baar-Ebenhausen
+Baarah
 Baard
 Baardegem
 Baardwijk
@@ -7159,6 +7165,7 @@ Bandera Bajada
 Bandera County
 Bandera de Navatalgordo
 Banderalena
+Bandidhoo
 Bandixon District
 Bandırma
 Bando
@@ -10535,6 +10542,8 @@ Bileća
 Bilecik
 Bilecik Province
 Biled
+Bileddhoo
+Bileffahi
 Bílence
 Bilenchenkivka
 Bilenke
@@ -11524,6 +11533,7 @@ Bodrogkisfalud
 Bodrogolaszi
 Bodrum
 Bodružal
+Bodufolhudhoo
 Bódvalenke
 Bódvarákó
 Bódvaszilas
@@ -15252,6 +15262,7 @@ Burtscheid
 Burty
 Buru Regency
 Buruncha
+Burunee
 Bürüs
 Burweg
 Burwood
@@ -26350,18 +26361,34 @@ Dezghingea
 Dezhkino
 Dezize-lès-Maranges
 Dezna
+Dhaandhoo
+Dhadimagu
 Dhaka
 Dhaka North
 Dhaka South
 Dhale
 Dhamar
 Dhanbad
+Dhanbidhoo
+Dhangethi
 Dhanpuri
+Dharanboodhoo
+Dharavandhoo
 Dharmasraya Regency
+Dhevvadhoo
 Dhi Qar Governorate
+Dhidhdhoo
+Dhiffushi
+Dhiggaru
+Dhigurah
+Dhiguvaandu
+Dhiyamingili
 Dhofar Governorate
+Dhonfanu
+Dhoondigan
 Dhronecken
 Dhuisy
+Dhuvaafaru
 Dhuy
 Diadema
 Diadkovychi Hromada
@@ -31574,6 +31601,7 @@ Exuma
 Eybens
 Eycheil
 Eydelstedt
+Eydhafushi
 Eye Hill
 Eyebrow
 Eyendorf
@@ -31616,6 +31644,7 @@ Fa'asaleleaga District
 Faaa
 Faaborg
 Faaborg-Midtfyn Municipality
+Faadhippolhu Atoll
 Faan
 Fabas
 Fabbrica Curone
@@ -31698,6 +31727,7 @@ Failly
 Faimes
 Faina
 Fains
+Fainu
 Faiões
 Fair Bluff
 Fair Haven
@@ -31890,6 +31920,7 @@ Fareham
 Fareja
 Farellones
 Faremoutiers
+Fares-Maathodaa
 Fargau-Pratjau
 Färgelanda Municipality
 Farges
@@ -32088,10 +32119,13 @@ Fedorivka Hromada
 Fedoskinskoye
 Fedotyevo
 Fédry
+Feeali
 Feelen
+Feevah
 Fegersheim
 Fégréac
 Fegyvernek
+Fehendhoo
 Fehérgyarmat
 Fehérgyarmat District
 Fehértó
@@ -32174,6 +32208,8 @@ Felgyő
 Feliceni
 Felicia
 Felício dos Santos
+Felidhoo
+Felidhu Atoll
 Félines
 Félines-Minervois
 Félines-Termenès
@@ -32250,6 +32286,7 @@ Fenegrò
 Fenestrelle
 Fénétrange
 Fenevychi
+Fenfushi
 Fenin
 Fénis
 Fênix
@@ -32299,6 +32336,7 @@ Ferguson Township
 Fériana
 Feričanci
 Féricy
+Feridhoo
 Ferik Municipality
 Férin
 Ferizli
@@ -32473,6 +32511,7 @@ Fexhe-le-Haut-Clocher
 Fey
 Féy
 Fey-en-Haye
+Feydhoo
 Feyt
 Feytiat
 Feyzin
@@ -32602,6 +32641,7 @@ Filipstad Municipality
 Filisovo
 Filisur
 Filkeháza
+Filladhoo
 Fillièvres
 Fillinges
 Fillmore
@@ -32630,6 +32670,7 @@ Findorf
 Fine
 Finegand
 Fines
+Finey
 Fingal
 Finhan
 Finhaut
@@ -32748,6 +32789,7 @@ Fiuminata
 Fivizzano
 Fixem
 Fixin
+Fiyoaree
 Fizeșu Gherlii
 Fındıklı
 Fjaler
@@ -33012,6 +33054,7 @@ Flußbach
 Flussio
 Fluterschen
 Fluvanna County
+Foakaidhoo
 Foam Lake
 Foameix-Ornel
 Foard County
@@ -33025,6 +33068,7 @@ Föckelberg
 Fockendorf
 Focșani
 Focuri
+Foddhoo
 Foeni
 Foggia
 Foglianise
@@ -33091,6 +33135,7 @@ Fombio
 Fomento
 Fómeque
 Fominki
+Fonadhoo
 Fonbeauzard
 Fonches-Fonchette
 Foncquevillers
@@ -34398,7 +34443,9 @@ Fülesd
 Fulga
 Fulgencio Yegros
 Fulgenstadt
+Fulhadhoo
 Fulianka
+Fulidhoo
 Full-Reuenthal
 Fulleda
 Fulleren
@@ -34421,7 +34468,9 @@ Fumane
 Fumay
 Fumel
 Fumone
+Funaadu
 Funabashi
+Funadhoo
 Funafuti
 Funagata
 Funahashi
@@ -34516,6 +34565,7 @@ Futani
 Futog
 Futrono
 Futtsu
+Fuvahmulah Atoll
 Fuveau
 Fuyens
 Fuzăuca
@@ -34545,6 +34595,9 @@ Fyresdal
 Fytkiv
 Ga-Segonyana
 Gaaden
+Gaadhiffushi
+Gaadhoo
+Gaafaru
 Gaâfour
 Gaal
 Gaast
@@ -34599,6 +34652,7 @@ Gadány
 Gadebusch
 Gadenstedt
 Gadesco-Pieve Delmona
+Gadhdhoo
 Gädheim
 Gâdinți
 Gadmen
@@ -34824,6 +34878,7 @@ Galmaarden
 Galmiz
 Galmsbüll
 Galmudug
+Galolhu
 Gálosfa
 Galovac
 Galovany
@@ -35501,6 +35556,7 @@ Geltorf
 Geltwil
 Gelucourt
 Gem County
+Gemanafushi
 Gembloux
 Gembrie
 Gême
@@ -36752,6 +36808,7 @@ Goiatins
 Goiatuba
 Goicea
 Goicoechea
+Goidhoo
 Goidschalxoord
 Goiești
 Goin
@@ -39072,6 +39129,8 @@ Gulf Province
 Gulf Shores
 Gulf Stream
 Gulfport
+Gulhi
+Gulhifalhu
 Gulich Township
 Guliston
 Guliston District
@@ -39194,6 +39253,7 @@ Gura Văii
 Gura Vitioarei
 Gurabo
 Gurahonț
+Guraidhoo
 Gurasada
 Gurb
 Gurbănești
@@ -39511,6 +39571,7 @@ Hadersdorf-Weidlingau
 Haderslev
 Haderslev Municipality
 Hadeth
+Hadhdhunmathi Atoll
 Hadiach Hromada
 Hadigny-les-Verrières
 Hadim
@@ -39991,6 +40052,7 @@ Hangard
 Hangen-Weisheim
 Hangenbieten
 Hangest-en-Santerre
+Hangnaameedhoo
 Hangony
 Hangu
 Hangviller
@@ -39998,6 +40060,7 @@ Hangzhou
 Hanhofen
 Hanigovce
 Hänigsen
+Hanimaadhoo
 Haninge Municipality
 Haniska
 Hankasalmi
@@ -41093,6 +41156,7 @@ Henan
 Hénanbihen
 Hénansal
 Henau
+Henbandhoo
 Hencida
 Henckovce
 Henclová
@@ -41166,6 +41230,7 @@ Henstedt-Ulzburg
 Hentern
 Henties Bay
 Hénu
+Henveiru
 Henvic
 Henzerivka
 Hepberg
@@ -41780,6 +41845,7 @@ Hilversum
 Hilwartshausen
 Hilzingen
 Himachal Pradesh
+Himandhoo
 Himarë
 Himatangi
 Himberg
@@ -41788,6 +41854,7 @@ Himeji
 Himesháza
 Himeshima
 Himi
+Himmafushi
 Himmelberg
 Himmelkron
 Himmelpforten
@@ -41821,6 +41888,7 @@ Hinges
 Hingham
 Hingstheide
 Hinnaard
+Hinnavaru
 Hino
 Hinode
 Hinoemata
@@ -41876,6 +41944,8 @@ Hîrcești
 Hirchstetten
 Hirel
 Hirics
+Hirilandhoo
+Hirimaradhoo
 Hirișeni
 Hîrjauca
 Hirm
@@ -41932,6 +42002,8 @@ Hitachinaka
 Hitachiomiya
 Hitachiota
 Hitchcock County
+Hithaadhoo
+Hithadhoo
 Hitiaa O Te Ra
 Hitoyoshi
 Hitra
@@ -42055,6 +42127,9 @@ Hnojník
 Hnúšťa
 Ho-Ho-Kus
 Hòa Bình Province
+Hoadhadu
+Hoandeddhoo
+Hoarafushi
 Hoarnstersweach
 Hobart
 Hobgood
@@ -42370,6 +42445,7 @@ Holešovice
 Holetín
 Holguín
 Holguín Province
+Holhudhoo
 Holiare
 Holíč
 Holice
@@ -43524,7 +43600,12 @@ Hul
 Hülben
 Huldenberg
 Hulha Negra
+Hulhudheli
+Hulhudhoo
+Hulhudhuffaaru
 Hulhuizen
+Hulhulé
+Hulhumalé
 Huliaipole Hromada
 Hulice
 Hulín
@@ -43653,6 +43734,7 @@ Huos
 Hupperath
 Huppy
 Hura
+Huraa
 Hurbanova Ves
 Hurbanovo
 Hurbyntsi
@@ -43746,6 +43828,8 @@ Huttwil
 Hüttwilen
 Hütwangen
 Huty
+Huvadhu North Atoll
+Huvadhu South Atoll
 Hüven
 Huy
 Huzová
@@ -44088,6 +44172,7 @@ Iguatu
 Igúzquiza
 Iharos
 Iharosberény
+Ihavandhoo
 Iheya
 Ihľany
 Ihlienworth
@@ -44564,6 +44649,7 @@ Ingré
 Ingria
 Ínguias
 Inguiniel
+Inguraidhoo
 Ingushetia
 Ingwe
 Ingwierrum
@@ -44589,6 +44675,7 @@ Inkwanca
 Inkwil
 Inlet
 Inman
+Innamaadhoo
 Innenheim
 Inner Mongolia
 Inner South
@@ -44935,6 +45022,7 @@ Ischia di Castro
 Ischitella
 Ischua
 Isdes
+Isdhoo
 Ise
 Isehara
 Iselsberg-Stronach
@@ -47044,6 +47132,7 @@ Kaala-Gomen
 Kaan-Marienborn
 Kaarina
 Kaarst
+Kaashidhoo
 Kaavi
 Kab Elias - Wadi Al Deloum
 Kaba
@@ -47252,6 +47341,7 @@ Kalachinsky District
 Kalachyovsky District
 Kaladzhinskaya
 Kalaharivka
+Kalaidhoo
 Kalajoki
 Kalama
 Kalamaria
@@ -47436,6 +47526,7 @@ Kalynivske Hromada
 Kalyta Hromada
 Kám
 Kama
+Kamadhoo
 Kamagaya
 Kamaishi
 Kamajai
@@ -47638,8 +47729,11 @@ Kandel
 Kandergrund
 Kandern
 Kandersteg
+Kanditheemu
 Kandiyohi County
 Kandıra
+Kandoodhoo
+Kanduhulhudhoo
 Kandy
 Kane
 Kane County
@@ -48463,6 +48557,7 @@ Kékcse
 Kéked
 Kékesd
 Kékkút
+Kelaa
 Kelantan
 Kelberg
 Kelbra (Kyffhäuser)
@@ -48572,6 +48667,8 @@ Kendall
 Kendall County
 Kendari
 Kenderes
+Kendhikulhudhoo
+Kendhoo
 Kendice
 Kenduskeag
 Kenedy County
@@ -48807,6 +48904,7 @@ Key Biscayne
 Key Colony Beach
 Key West
 Keya Paha County
+Keyodhoo
 Keyport
 Keys
 Keyser
@@ -49139,6 +49237,7 @@ Kifisia
 Kigali
 Kigezi Sub-Region
 Kiginsky District
+Kihaadhoo
 Kihniö
 Kihnu
 Kiho
@@ -49213,6 +49312,7 @@ Kimrsky District
 Kimry
 Kimswert
 Kin
+Kinbidhoo
 Kincardine
 Kincardineshire
 Kincsesbánya
@@ -49290,6 +49390,7 @@ Kinnelon
 Kinney County
 Kinnula
 Kinokawa
+Kinolhas
 Kinrooi
 Kinross-shire
 Kinsau
@@ -50332,6 +50433,7 @@ Kolaje
 Kolaka Regency
 Kołaki Kościelne
 Kolam Ayer
+Kolamaafushi
 Kolan
 Koláre
 Kolari
@@ -50368,6 +50470,8 @@ Kolešov
 Kolešovice
 Kolguyevsky
 Kolhapur
+Kolhufushi
+Kolhumadulu Atoll
 Kolibabovce
 Kolín
 Kolín District
@@ -50477,6 +50581,7 @@ Komae
 Komagane
 Komaki
 Komańcza
+Komandoo
 Komar Hromada
 Komárany
 Komařice
@@ -50569,6 +50674,7 @@ Konawe Regency
 Končanica
 Konče
 Kondar
+Kondey
 Kondinin
 Kondinsky District
 Kondó
@@ -52104,7 +52210,10 @@ Küçükçekmece
 Küçükköy
 Küçükkuyu
 Kuczbork-Osada
+Kudafari
+Kudahuvadhoo
 Kudamatsu
+Kudarikilu
 Kudashevskoye
 Kuddewörde
 Kudeikha
@@ -52188,6 +52297,7 @@ Kulebaksky District
 Kuleönü
 Kulesze Kościelne
 Kulevcha Hromada
+Kulhudhuffushi
 Kuliabivka
 Kuliai
 Kulikovo
@@ -52254,6 +52364,7 @@ Kummerow
 Kümmersbruck
 Kumrovec
 Kumtorkalinsky District
+Kumundhoo
 Kumylzhenskaya
 Kumylzhensky District
 Kumyonsky District
@@ -52262,10 +52373,12 @@ Kuna de Madugandí Comarca
 Kuna de Wargandí Comarca
 Kunadacs
 Kunágota
+Kunahandhoo
 Kunashak
 Kunashaksky District
 Kunbaja
 Kunbaracs
+Kunburudhoo
 Kunčice
 Kunčice nad Labem
 Kunčice pod Ondřejníkem
@@ -52390,6 +52503,7 @@ Kurdějov
 Kurdistan Autonomous Region
 Kure
 Kure Beach
+Kurendhoo
 Kuressaare
 Kuret
 Kurgan
@@ -52411,6 +52525,7 @@ Kuřimany
 Kurimka
 Kuřimská Nová Ves
 Kuřimské Jestřabí
+Kurinbi
 Kuringen
 Kurinka
 Kurinskaya
@@ -54419,6 +54534,7 @@ Landévant
 Landevennec
 Landgraaf
 Landgrove
+Landhoo
 Landhorst
 Landim
 Landingville
@@ -56903,11 +57019,13 @@ Lgota Wielka
 Lgov
 Lgovo
 Lgovsky District
+Lhaimagu
 Lhamoizingkha
 Lhánice
 Lhenice
 Lherm
 Lhéry
+Lhohi
 Lhokseumawe
 Lhor
 Lhospitalet
@@ -59796,7 +59914,22 @@ Ma'ale Yosef
 Ma'alot-Tarshiha
 Ma'rib
 Ma'uke
+Maabaidhoo
+Maadhadu
+Maaenboodhoo
+Maafannu
+Maafaru
+Maafushi
+Maakurathu
+Maalegan
+Maalhendhoo
+Maalhos
+Maalhosmadulu North Atoll
+Maalhosmadulu South Atoll
+Maamendhoo
+Maamigili
 Maarakeh
+Maarandhoo
 Maardu
 Maarheeze
 Maarke
@@ -59829,6 +59962,8 @@ Maastricht-Noordoost
 Maastricht-Oost
 Maastricht-Zuidoost
 Maastricht-Zuidwest
+Maaungoodhoo
+Maavah
 Mabel Bush
 Mably
 Mabscott
@@ -59900,6 +60035,7 @@ Machala
 Machalí
 Macharen
 Machault
+Machchangolhi
 Maché
 Machelen
 Macheren
@@ -59991,6 +60127,7 @@ Mădăras
 Mădăraș
 Madarcos
 Mădârjac
+Madaveli
 Madawaska
 Madawaska County
 Madbury
@@ -60011,6 +60148,7 @@ Madhya Pradesh
 Madibeng
 Madic
 Madière
+Madifushi
 Madignano
 Madinah
 Madirac
@@ -60052,6 +60190,7 @@ Madulain
 Mădulari
 Madunice
 Madurai
+Maduvvaree
 Mãe d'Água
 Mãe do Rio
 Mae Hong Son Province
@@ -60180,6 +60319,7 @@ Mágocs
 Magoffin County
 Magolsheim
 Magomadas
+Magoodhoo
 Magosliget
 Magrè sulla Strada del Vino
 Magreglio
@@ -60248,6 +60388,7 @@ Mahdalynivka Hromada
 Mahdia
 Mahdia Governorate
 Maheriv
+Mahibadhoo
 Mahikeng
 Mahilyou
 Mahilyou District
@@ -60505,6 +60646,7 @@ Maktaaral District
 Maktar
 Makubetsu
 Makueni County
+Makunudhoo
 Makurazaki
 Makushinsky District
 Mala Antonivka
@@ -60660,6 +60802,7 @@ Maldonado Department
 Małdyty
 Malé
 Malè
+Malé Atoll
 Malé Bedzany
 Malé Borové
 Malé Březno
@@ -60995,6 +61138,7 @@ Manacapuru
 Manachyn
 Manacor
 Manadas
+Manadhoo
 Manado
 Manage
 Managua
@@ -61071,6 +61215,7 @@ Mandern
 Manderscheid
 Mandeure
 Mandeville
+Mandhoo
 Mandirituba
 Mandji
 Mándok
@@ -61359,6 +61504,8 @@ Maracha District
 Marachivka
 Mărăcineni
 Maracon
+Maradhoo
+Maradhoo-Feydhoo
 Maradi Region
 Maragogi
 Maragogipe
@@ -62021,6 +62168,7 @@ Maroneia-Sapes
 Maroondah
 Maropati
 Maros Regency
+Maroshi
 Maroslele
 Marostica
 Maroth
@@ -62542,6 +62690,7 @@ Mathay
 Mathews County
 Mathi
 Mathias Lobato
+Mathiveri
 Mathod
 Mathon
 Matias Barbosa
@@ -63191,6 +63340,7 @@ Medzilaborce
 Medzilaborce District
 Meeden
 Meeder
+Meedhoo
 Meekatharra
 Meeker County
 Meensen
@@ -64567,6 +64717,9 @@ Mikulůvka
 Mikurajima
 Mikušovce
 Mila Province
+Miladhoo
+Miladhunmadulu North Atoll
+Miladhunmadulu South Atoll
 Milagres
 Milagres do Maranhão
 Milagro
@@ -64575,6 +64728,7 @@ Miłakowo
 Milam County
 Milan
 Milán
+Milandhoo
 Milano
 Milanów
 Milanówek
@@ -65112,6 +65266,7 @@ Misión Tacaaglé
 Misiones Department
 Misiones Province
 Miske
+Miskiymagu
 Miskolc
 Miskolc District
 Miskovice
@@ -65669,6 +65824,7 @@ Molești
 Moletai District Municipality
 Molfetta
 Molfsee
+Molhadhoo
 Moliens
 Molières
 Molières-Cavaillac
@@ -67981,6 +68137,8 @@ Mukomuko Regency
 Mukuchunsky
 Mula
 Muľa
+Mulah
+Mulaku Atoll
 Mulazzano
 Mulazzo
 Mülbach
@@ -68002,6 +68160,7 @@ Mülheim an der Mosel
 Mülheim an der Ruhr
 Mülheim-Kärlich
 Mulhouse
+Muli
 Mulinsky
 Muliterno
 Mullashi
@@ -68081,6 +68240,7 @@ Munderkingen
 Mündersbach
 Mundo Novo
 Mundolsheim
+Mundoo
 Muñecas Province
 Mûnein
 Mungia
@@ -68185,6 +68345,7 @@ Mur
 Mur-de-Barrez
 Mura
 Murafa Hromada
+Muraidhoo
 Murakami
 Murakeresztúr
 Muralto
@@ -68551,6 +68712,7 @@ N'dalatando
 N'Djaména
 N'zeto
 N'Zi Region
+Naalaafushi
 Naaldwijk
 Naâma Province
 Naantali
@@ -68605,6 +68767,7 @@ Nádasd
 Nádasdladány
 Nadějkov
 Nadějov
+Nadellaa
 Nadeș
 Nadezhda
 Nadezhdinka
@@ -68827,6 +68990,7 @@ Nahuizalco
 Nahunta
 Naidăș
 Naie
+Naifaru
 Naila
 Nailloux
 Nailly
@@ -68836,6 +69000,7 @@ Nairnshire
 Nairobi
 Nairobi County
 Naitasiri Province
+Naivaadhoo
 Naives-en-Blois
 Naives-Rosières
 Naizin
@@ -69126,6 +69291,7 @@ Narsaq
 Narsdorf
 Nartan
 Nartum
+Narudhoo
 Năruja
 Narusawa
 Naruszewo
@@ -69610,6 +69776,7 @@ Nelešovice
 Nelidovo
 Nelidovsky District
 Nelipyno Hromada
+Nellaidhoo
 Nelling
 Nellingen
 Nelliston
@@ -70439,6 +70606,7 @@ Ney
 Neya
 Neyagawa
 Neydens
+Neykurendhoo
 Neyruz
 Neyruz-sur-Moudon
 Neysky District
@@ -70903,6 +71071,9 @@ Nikopol Hromada
 Niksar
 Nikšić
 Nikulino
+Nilandhe North Atoll
+Nilandhe South Atoll
+Nilandhoo
 Niles
 Nillumbik
 Nilo
@@ -71300,6 +71471,8 @@ Nolan County
 Nolay
 Nolčovo
 Nole
+Nolhivaram
+Nolhivaranfaru
 Noli
 Nolinsk
 Nolinsky District
@@ -71345,6 +71518,7 @@ Nõo
 Nookat
 Nookat District
 Nooken District
+Noomaraa
 Noorbeek
 Noord
 Noord-Beveland
@@ -74188,6 +74362,7 @@ Olho-d'Água do Borges
 Olhopil Hromada
 Olhos de Água
 Olhos-d'Água
+Olhuvelifushi
 Olhyne
 Olhynka Hromada
 Oliana
@@ -74393,6 +74568,7 @@ Olzai
 Olzheim
 Oma
 Omachi
+Omadhoo
 Omaezaki
 Omaha
 Omaheke Region
@@ -84217,6 +84393,7 @@ Raillencourt-Sainte-Olle
 Railleu
 Railroad
 Raimbeaucourt
+Raimmandhoo
 Raimonda
 Rain
 Rainau
@@ -84270,6 +84447,7 @@ Rakacaszend
 Rakahanga-Manihiki
 Rakaia
 Rakamaz
+Rakeedhoo
 Rakhine State
 Rakhinka
 Rakhiv District
@@ -84598,9 +84776,11 @@ Răscăieți
 Raschau
 Raschau-Markersbach
 Rascheid
+Rasdhoo
 Rasdorf
 Raseborg
 Raseiniai District Municipality
+Rasgetheemu
 Rashaya
 Rashivka
 Rasht District
@@ -84616,6 +84796,7 @@ Raška District
 Raskildino
 Raškovice
 Raslavice
+Rasmaadhoo
 Răsmirești
 Řásná
 Râșnov
@@ -84661,6 +84842,7 @@ Ratenelle
 Ratenice
 Rates
 Rătești
+Rathafandhoo
 Rathbone
 Ratheim
 Rathen
@@ -86187,6 +86369,7 @@ Rimplas
 Rimsberg
 Rimsdorf
 Rimsting
+Rinbudhoo
 Rincão
 Rinchnach
 Rincon
@@ -104920,6 +105103,7 @@ Thaden
 Thái Nguyên Province
 Thaining
 Thairé
+Thakandhoo
 Thal
 Thal District
 Thal-Drulingen
@@ -105079,15 +105263,19 @@ Thieusies
 Thiézac
 Thignonville
 Thil
+Thiladhunmathi North Atoll
+Thiladhunmathi South Atoll
 Thilay
 Thillombois
 Thilouze
+Thimarafushi
 Thimister-Clermont
 Thimmendorf
 Thimonville
 Thimougies
 Thimphu
 Thin-le-Moutier
+Thinadhoo
 Thio
 Thionville
 Thiouville
@@ -105105,6 +105293,7 @@ Thiverval-Grignon
 Thiviers
 Thlopthlocco Tribal Town
 Thoard
+Thoddoo
 Thodure
 Thoiras
 Thoires
@@ -105201,7 +105390,9 @@ Thulamela
 Thulay
 Thülen
 Thulendorf
+Thulhaadhoo
 Thulin
+Thulusdhoo
 Thum
 Thumby
 Thumeréville
@@ -105221,6 +105412,7 @@ Thüngen
 Thüngersheim
 Thunstetten
 Thür
+Thuraakunu
 Thüringen
 Thüringenhausen
 Thüringerberg
@@ -108586,6 +108778,7 @@ Ukrainske Hromada
 Ukromne
 Ukromnoye
 Uktur
+Ukulhas
 Ul
 Ula
 Ula Tirso
@@ -108624,6 +108817,7 @@ Ulič
 Uličské Krivé
 Ulieș
 Uliești
+Uligan
 Ulitinskoye
 Uljin County
 Ulkan
@@ -108788,6 +108982,7 @@ Ungerhauser Wald
 Ungersheim
 Ungheni
 Ungheni District
+Ungoofaaru
 Ungra
 Unguía
 Unguraș
@@ -109450,6 +109645,7 @@ Utendorf
 Utersum
 Úterý
 Uthai Thani Province
+Utheemu
 Uthlede
 uThukela
 uThungulu
@@ -109567,6 +109763,7 @@ Uzyn Hromada
 Uzzano
 V Circoscrizione
 Va'a-o-Fonoti District
+Vaadhoo
 Vaake
 Vaala
 Vaalbeek
@@ -109695,6 +109892,7 @@ Vaie
 Vaiea
 Vaiges
 Vaihingen an der Enz
+Vaikaradhoo
 Väike-Maarja
 Vailate
 Vailhan
@@ -110347,6 +110545,7 @@ Vanderbilt
 Vanderburgh County
 Vandergrift
 Vanderhoof
+Vandhoo
 Vandières
 Vandling
 Vandœuvre-lès-Nancy
@@ -110637,6 +110836,7 @@ Văscăuți
 Vascôes
 Vascoveiro
 Vasegerszeg
+Vashafaru
 Vashkinsky District
 Vashkivtsi Hromada
 Vashosszúfalu
@@ -111001,6 +111201,7 @@ Velhartice
 Velichov
 Velichovky
 Veličná
+Velidhoo
 Vélieux
 Velika
 Velika Gorica
@@ -111961,6 +112162,7 @@ Veveyse District
 Vex
 Vexaincourt
 Veydelevsky District
+Veymandoo
 Veynes
 Veyras
 Veyre-Monton
@@ -111970,6 +112172,7 @@ Veyrier-du-Lac
 Veyrières
 Veysonnaz
 Veytaux
+Veyvah
 Věž
 Vézannes
 Vézelay
@@ -113362,6 +113565,7 @@ Villing
 Villingen
 Villingen-Schwenningen
 Villingendorf
+Villingili
 Villmar
 Villmergen
 Villnachern
@@ -113401,6 +113605,7 @@ Vilsheim
 Vilshofen an der Donau
 Vilsund Vest
 Vilters-Wangs
+Vilufushi
 Vilva
 Vilvoorde
 Vilyuchansky
