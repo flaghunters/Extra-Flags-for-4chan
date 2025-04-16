@@ -38512,7 +38512,7 @@ Großheubach
 Grosshöchstetten
 Grosshöflein
 Großholbach
-Grossjedlersdorf
+Großjedlersdorf
 Großkampenberg
 Großkarlbach
 Großkarolinenfeld
@@ -42001,7 +42001,6 @@ Hiratsuka
 Hiraya
 Hîrbovăț
 Hîrcești
-Hirchstetten
 Hirel
 Hirics
 Hirilandhoo
@@ -42033,6 +42032,7 @@ Hirschhorn ̸ Pfalz
 Hirschland
 Hirschlanden
 Hirschstein
+Hirschstetten
 Hirschthal
 Hirschwald
 Hirsingue
@@ -44855,8 +44855,8 @@ Inzenhof
 Inzensky District
 Inzersdorf
 Inzersdorf im Kremstal
+Inzersdorf Stadt
 Inzersdorf-Getzersdorf
-Inzersdorf-Stadt
 Inzhavinsky District
 Inzhenerne
 Inzigkofen
@@ -46887,6 +46887,7 @@ José Tadeo Monagas Municipality
 José Vicente de Unda Municipality
 Josefina
 Josefov
+Josefsdorf
 Josefstadt
 Josefstadt District
 Josefův Důl
@@ -54654,8 +54655,8 @@ Landshut
 Landshut District
 Landskrona Municipality
 Landsmeer
-Landstrasse
-Landstrasse District
+Landstraße
+Landstraße District
 Landstuhl
 Landudal
 Landudec
@@ -73298,6 +73299,7 @@ Ober-Mörlen
 Ober-Ofleiden
 Ober-Olm
 Ober-Ramstadt
+Ober-Sankt-Veit
 Ober-Schmitten
 Oberá
 Oberaargau District
@@ -92773,7 +92775,6 @@ Sankt Ulrich
 Sankt Ulrich am Pillersee
 Sankt Urban
 Sankt Valentin
-Sankt Veit
 Sankt Veit an der Glan
 Sankt Veit an der Glan District
 Sankt Veit an der Gölsen
@@ -101915,7 +101916,6 @@ Strohn
 Stroiești
 Stroitel
 Stroitelny District
-Stroizzigrund
 Strojetice
 Strokova
 Ström District
@@ -101942,6 +101942,7 @@ Stroud Township
 Stroudsburg
 Stroyevskoye
 Strozza
+Strozzigrund
 Štrpce
 Strübbel
 Struckum
@@ -102721,7 +102722,7 @@ Susquehanna Depot
 Susquehanna Township
 Sussargues
 Süßen
-Süssenbrunn
+Süßenbrunn
 Sussex
 Sussex Corner
 Sussex County
@@ -109199,6 +109200,7 @@ Unstrut-Hainich
 Unstrut-Hainich District
 Unstruttal
 Unțeni
+Unter Sankt Veit
 Unter-Schmitten
 Unterach am Attersee
 Unterächen
@@ -116129,7 +116131,7 @@ Weißenstadter Forst-Nord
 Weißenstadter Forst-Süd
 Weissenstein
 Weißenthurm
-Weissgerber
+Weißgerber
 Weißkeißel
 Weißkirchen an der Traun
 Weisskirchen in Steiermark
