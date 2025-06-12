@@ -19,7 +19,8 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.47
+// @version     0.48
+// @connect     api.flagtism.com
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -528,6 +529,12 @@ function onFlagsLoad(response) {
 function resolveRefFlags() {
     var boardID = window.location.pathname.split('/')[1];
     if (boardID === "int" || boardID === "sp" || boardID === "pol" || boardID === "bant") {
+
+        // Check if postNrs is empty before making request
+        if (postNrs.length === 0) {
+            console.log("No posts to resolve, skipping request");
+            return;
+        }
 
         GM_xmlhttpRequest({
             method: "POST",
