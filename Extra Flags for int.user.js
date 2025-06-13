@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.48
+// @version     0.49
 // @connect     api.flagtism.com
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
@@ -286,10 +286,19 @@ if (!radio || radio === "" || radio === "undefined") {
 /** parse the posts already on the page before thread updater kicks in */
 function parseOriginalPosts() {
     var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
+    
+    // If no posts found, retry after a short delay (needed for index to work with 4chan X)
+    if (tempAllPostsOnPage.length === 0) {
+        setTimeout(parseOriginalPosts, 250);
+        return;
+    }
+    
     allPostsOnPage = Array.prototype.slice.call(tempAllPostsOnPage); //convert from element list to javascript array
     postNrs = allPostsOnPage.map(function (p) {
         return p.id.replace("pc", "");
     });
+    
+    resolveRefFlags();
 }
 
 /** the function to get the flags from the db uses postNrs
@@ -490,6 +499,16 @@ document.addEventListener('4chanThreadUpdated', function (e) {
     setTimeout(resolveRefFlags, 0);
 }, false);
 
+/** Detect index page navigation when using 4chan X */
+(function() {
+    var originalPushState = history.pushState;
+    history.pushState = function() {
+        originalPushState.apply(history, arguments);
+        //setTimeout to support greasemonkey 1.x
+        setTimeout(parseOriginalPosts, 0);
+    };
+})();
+
 /** START fix flag alignment on chrome */
 function addGlobalStyle(css) {
     var head, style;
@@ -518,4 +537,3 @@ GM_addStyle('\
 /** setup init and start first calls */
 setup.init();
 parseOriginalPosts();
-resolveRefFlags();
