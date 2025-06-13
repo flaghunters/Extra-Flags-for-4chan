@@ -20,8 +20,10 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.49
+// @version     0.50
 // @connect     api.flagtism.com
+// @connect	github.com
+// @connect	raw.githubusercontent.com
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
