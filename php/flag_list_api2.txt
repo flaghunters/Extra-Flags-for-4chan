@@ -581,7 +581,7 @@ Adjuntas
 Adlershof
 Adlersky District
 Adligemswil
-Adlikon
+Adlikon bei Andelfingen
 Adliswil
 Adlkofen
 Adlum
@@ -664,8 +664,8 @@ Affinghausen
 Affler
 Affléville
 Affligem
+Affoltern
 Affoltern am Albis
-Affoltern bei Zürich
 Affoltern District
 Affoltern im Emmental
 Affracourt
@@ -3840,7 +3840,7 @@ Appenheim
 Appenrode
 Appenweier
 Appenwihr
-Appenzell District
+Appenzell
 Appeville-Annebault
 Appiano Gentile
 Appiano sulla Strada del Vino
@@ -7990,7 +7990,7 @@ Bassendean
 Bassenge
 Bassenheim
 Bassens
-Basserdorf
+Bassersdorf
 Bassetlaw
 Basseux
 Bassevelde
@@ -8693,7 +8693,7 @@ Béganne
 Bégard
 Begeč
 Beggerow
-Beggingnen
+Beggingen
 Begijnendijk
 Bégin
 Bègles
@@ -26811,7 +26811,7 @@ Dingolshausen
 Dingsheim
 Dingsleben
 Dingy-en-Vuache
-Dinharf
+Dinhard
 Dinkelland
 Dinkelsbühl
 Dinkelscherben
@@ -27769,8 +27769,8 @@ Dores do Indaiá
 Dores do Rio Preto
 Dores do Turvo
 Doresópolis
+Dorf
 Dorf an der Pram
-Dorf bei Andelfingen
 Dorf Mecklenburg
 Dorfbeuern
 Dorfchemnitz
@@ -33254,7 +33254,7 @@ Fluminimaggiore
 Flums
 Fluntern
 Fluorn-Winzeln
-Fluringen
+Flurlingen
 Flußbach
 Flussio
 Fluterschen
@@ -37288,7 +37288,7 @@ Gonnostramatza
 Gonohe
 Gonsans
 Gontaud-de-Nogaret
-Gonten District
+Gonten
 Gontenschwil
 Gontim
 Gontougo Region
@@ -44032,6 +44032,7 @@ Huntington Township
 Huntířov
 Huntly
 Huntsville
+Hüntwangen
 Hunucmá
 Hünxe
 Hunya
@@ -44135,7 +44136,6 @@ Huttonsville
 Hüttschlag
 Huttwil
 Hüttwilen
-Hütwangen
 Huty
 Huvadhu North Atoll
 Huvadhu South Atoll
@@ -61755,8 +61755,8 @@ Manlleu
 Mann Township
 Mannar District
 Mannebach
+Männedorf
 Mannens-Grandsivaz
-Männerdorf
 Mannersdorf am Leithagebirge
 Mannersdorf an der Rabnitz
 Manneville-ès-Plains
@@ -70120,7 +70120,7 @@ Neef
 Ñeembucú Department
 Neenstetten
 Neer
-Neeracher
+Neerach
 Neerbutsel
 Neerhespen
 Neerijse
@@ -73751,7 +73751,7 @@ Oberdrauburg
 Oberdreis
 Oberdürenbach
 Obere Warnow
-Oberegg District
+Oberegg
 Oberehe-Stroheich
 Oberehrendingen
 Oberelbert
@@ -84262,7 +84262,6 @@ Quart
 Quarteira
 Quartel General
 Quarten
-Quartier Grünau
 Quartiere 1
 Quartiere 2
 Quartiere 3
@@ -85836,6 +85835,7 @@ Regen District
 Regenboogbuurt
 Regencós
 Regeneração
+Regensberg
 Regensburg
 Regensburg District
 Regensdorf
@@ -86208,6 +86208,7 @@ Rennesøy
 Renneval
 Renneville
 Renningen
+Rennweg
 Rennweg am Katschberg
 Reno
 Reno County
@@ -86724,7 +86725,6 @@ Richwiller
 Richwood
 Ricigliano
 Rickenbach
-Rickenbach bei Winterthur
 Rickert
 Rickling
 Říčky
@@ -95766,8 +95766,7 @@ Schlangenbad
 Schlans
 Schlat
 Schlatt
-Schlatt bei Winterthur
-Schlatt-Haslen District
+Schlatt-Haslen
 Schlaubetal
 Schleching
 Schlechtbach
@@ -96116,7 +96115,7 @@ Schwallungen
 Schwalm-Eder District
 Schwalmstadt
 Schwalmtal
-Schwamedingen
+Schwamendingen
 Schwanau
 Schwanberg
 Schwand im Innkreis
@@ -96198,7 +96197,7 @@ Schwellbrunn
 Schwelm
 Schwendau
 Schwende
-Schwende-Rüte District
+Schwende-Rüte
 Schwendi
 Schwendibach
 Schwendt
@@ -101280,7 +101279,7 @@ Stadbriedemes
 Stade
 Stade District
 Stadecken-Elsheim
-Stadel bei Niederglatt
+Stadel
 Stadelhofen
 Staden
 Stadensen
@@ -109474,7 +109473,7 @@ Uitgeest
 Uithoorn
 Uithuizen
 Uithuizermeeden
-Uitikon Waldegg
+Uitikon
 Uitkerke
 Uivar
 Uiwang
@@ -109844,7 +109843,6 @@ Unțeni
 Unter Sankt Veit
 Unter-Schmitten
 Unterach am Attersee
-Unterächen
 Unterägeri
 Unteralba
 Unterallgäu District
@@ -109913,6 +109911,7 @@ Unterreichenbach
 Unterreit
 Unterroggenburger Wald
 Unterroth
+Unterschächen
 Unterschleißheim
 Unterschmeien
 Unterschneidheim
@@ -116746,7 +116745,7 @@ Weingarten (Pfalz)
 Weingraben
 Weinhaus
 Weinheim
-Weiningnen
+Weiningen
 Weinitzen
 Weinolsheim
 Weinsberg
@@ -117947,7 +117946,6 @@ Winikon
 Winistorf
 Winkel
 Winkel (Eifel)
-Winkel bei Bülach
 Winkelbach
 Winkelhaid
 Winkelhaid (municipality-free area)
