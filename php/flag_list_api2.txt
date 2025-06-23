@@ -580,7 +580,7 @@ Adjumani District
 Adjuntas
 Adlershof
 Adlersky District
-Adligemswil
+Adligenswil
 Adlikon bei Andelfingen
 Adliswil
 Adlkofen
@@ -8755,7 +8755,7 @@ Beinhausen
 Beinheim
 Beinhorn
 Beinwil
-Beinwil (Freiamt)
+Beinwil ̸ Freiamt
 Beinwil am See
 Beira
 Beirã
@@ -27746,7 +27746,7 @@ Doornenburg
 Doornspijk
 Doorwerth
 Dopiewo
-Doppelschwand
+Doppleschwand
 Dopshari
 Dör
 Dor Mărunt
@@ -31616,10 +31616,10 @@ Ettersburg
 Etting
 Ettingen
 Ettinghausen
+Ettiswil
 Ettlingen
 Ettlingenweier
 Ettringen
-Ettswil
 Étueffont
 Etulia
 Étupes
@@ -31903,7 +31903,7 @@ Fahrenkrug
 Fahrenwalde
 Fahrenzhausen
 Fahrni
-Fahrwengen
+Fahrwangen
 Fahs-Anjra Province
 Fahy
 Fahy-lès-Autrey
@@ -33246,7 +33246,7 @@ Floyon
 Flözlingen
 Flüelen
 Fluessweller
-Flühi
+Flühli
 Flumenthal
 Flumeri
 Flumet
@@ -40845,7 +40845,6 @@ Hausen am Bach
 Hausen am Bussen
 Hausen am Tann
 Hausen an der Zaber
-Hausen bei Brugg
 Hausen bei Würzburg
 Hausen im Wiesental
 Hausen ob Rottweil
@@ -41455,7 +41454,7 @@ Hendricks
 Hendricks County
 Hendrik Ido Ambacht
 Hendry County
-Hendschinken
+Hendschiken
 Hendungen
 Hénencourt
 Henfenfeld
@@ -41819,6 +41818,7 @@ Herzhorn
 Herzlake
 Herzliya
 Herznach
+Herznach-Ueken
 Herzogenaurach
 Herzogenbuchsee
 Herzogenburg
@@ -55090,8 +55090,8 @@ Langlade County
 Langley
 Langley Township
 Langlingen
+Langnau
 Langnau am Albis
-Langnau bei Reiden
 Langnau im Emmental
 Langoelan
 Langogne
@@ -71324,11 +71324,11 @@ Niederösterreich
 Niederotterbach
 Niederpierscheid
 Niederraden
-Niederrhordorf
 Niederried bei Interlaken
 Niederried bei Kallnach
 Niederrieden
 Niederroedern
+Niederrohrdorf
 Niederroßbach
 Niederroßla
 Niedersachsen
@@ -94980,7 +94980,7 @@ Sărmașu
 Sarmato
 Sarmede
 Sármellék
-Sarmenstorg
+Sarmenstorf
 Sarmersbach
 Sarmi Regency
 Sarmiento
