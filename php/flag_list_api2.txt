@@ -1242,6 +1242,7 @@ Akchikasy
 Akdağmadeni
 Akdeniz
 Akdepe District
+Akdoğan
 Aken (Elbe)
 Akersloot
 Akhalgori Municipality
@@ -1273,6 +1274,7 @@ Akita
 Akita Prefecture
 Akitakata
 Akitio
+Akıncılar
 Akkar Governorate
 Akkayin District
 Akkeshi
@@ -1472,6 +1474,7 @@ Alaverdi Municipality
 Alavieska
 Alavus
 Alay District
+Alayköy
 Alazeysky
 Alb-Donau District
 Alba
@@ -2338,6 +2341,7 @@ Alqueva
 Alquines
 Alquízar
 Alsace Township
+Alsancak
 Alsasua
 Alsbach
 Alsbach-Hähnlein
@@ -10222,6 +10226,7 @@ Bexley
 Bey
 Bey-sur-Seille
 Beyağaç
+Beyarmudu
 Beychac-et-Caillau
 Beydağ
 Beykonak
@@ -15556,6 +15561,7 @@ Buysky District
 Buysscheure
 Büyükçekmece
 Büyükkarıştıran
+Büyükkonuk
 Büyükmandıra
 Büyükorhan
 Büyükyoncalı
@@ -18641,6 +18647,8 @@ Catahoula Parish
 Catalão
 Çatalca
 Catalina
+Çatalköy
+Çatalköy-Esentepe
 Cataluña
 Çatalzeytin
 Catamarca Province
@@ -26007,6 +26015,8 @@ Deggendorf
 Deggendorf District
 Deggenhausertal
 Deggingen
+Değirmenlik
+Değirmenlik-Akıncılar
 Dego
 Degollado
 Degracias
@@ -26739,6 +26749,7 @@ Dikgatlong
 Dikhil Region
 Dikimdya
 Dikkelvenne
+Dikmen
 Dikrech
 Dikrech Canton
 Diksmuide
@@ -26849,6 +26860,7 @@ Diósviszló
 Dipaleseng
 Dipignano
 Dipilto
+Dipkarpaz
 Dipolog
 Dippach
 Dippech
@@ -30882,6 +30894,7 @@ Ereira
 Ereira e Lapa
 Erembodegem
 Eremitu
+Erenköy-Karpaz
 Erenler
 Ererê
 Eresing
@@ -31203,6 +31216,7 @@ Eşen
 Esenguly District
 Esenler
 Esens
+Esentepe
 Esenyurt
 Esetçe
 Esgrus
@@ -32050,7 +32064,6 @@ Falyonki
 Falyonsky District
 Falzes
 Fama
-Famagusta
 Famaillá
 Famalicão
 Famars
@@ -35599,6 +35612,8 @@ Gazi Baba
 Gaziantep
 Gaziantep Province
 Gaziemir
+Gazimağusa
+Gazimağusa District
 Gazimuro-Zavodsky District
 Gaziosmanpaşa
 Gazipaşa
@@ -35646,6 +35661,8 @@ Gebsattel
 Gebze
 Geča
 Gechingen
+Geçitkale
+Geçitkale-Serdarlı
 Gecse
 Geddes
 Gedera
@@ -36574,6 +36591,8 @@ Girișu de Criș
 Giriviller
 Girkalnis
 Girkenroth
+Girne
+Girne District
 Giroc
 Girod
 Giromagny
@@ -37293,6 +37312,8 @@ Gontenschwil
 Gontim
 Gontougo Region
 Gontrode
+Gönyeli
+Gönyeli-Alayköy
 Gönyű
 Gonzaga
 Gonzales
@@ -39626,6 +39647,7 @@ Guyton
 Guzargues
 Güzelbahçe
 Güzelyurt
+Güzelyurt District
 Guzolândia
 Guzor District
 Gvardeysk
@@ -45389,6 +45411,8 @@ Isilkulsky District
 Iskar
 Iskar District
 Iskateley
+İskele
+İskele District
 İskenderun
 Iskitim
 Iskitimsky District
@@ -53190,7 +53214,6 @@ Kyoto
 Kyoto Prefecture
 Kyowa
 Kypuche
-Kyrenia
 Kyrgydaysky
 Kyrinsky District
 Kyritz
@@ -55284,6 +55307,8 @@ Lapseki
 Lapshaur
 Lapshinskaya
 Łapsze Niżne
+Lapta
+Lapta-Alsancak-Çamlıbel
 Lapu-Lapu
 Lapua
 Lapuebla de Labarca
@@ -56455,6 +56480,10 @@ Lefaux
 Leffe
 Leffinge
 Leffrinckoucke
+Lefke
+Lefke District
+Lefkoşa
+Lefkoşa District
 Leflore County
 Leforest
 Lefortovo District
@@ -63836,6 +63865,8 @@ Mehle
 Mehlingen
 Mehlmeisel
 Mehmels
+Mehmetçik
+Mehmetçik-Büyükkonuk
 Mehna
 Méhoncourt
 Mehoopany Township
@@ -64455,6 +64486,7 @@ Mésangueville
 Mesão Frio
 Mesão Frio (S. André)
 Mesão Frio Municipality
+Mesarya
 Mesas de Ibor
 Meschede
 Mescherin
@@ -67863,7 +67895,6 @@ Morozovy-Borki
 Morozovychi
 Morozzo
 Morpará
-Morphou
 Morra da Garça
 Morra De Sanctis
 Morreira
@@ -72299,7 +72330,6 @@ North Musi Rawas Regency
 North Myrtle Beach
 North Newton Township
 North Nias Regency
-North Nicosia
 North Norfolk
 North Northamptonshire
 North Norwich
@@ -77905,6 +77935,7 @@ Pas-de-Calais
 Pas-en-Artois
 Pasaco
 Pasadena
+Paşaköy
 Pasaman Regency
 Pasangkayu Regency
 Pasaquina
@@ -97140,6 +97171,7 @@ Serby
 Sercœur
 Sercus
 Serdang Bedagai Regency
+Serdarlı
 Serdedelo
 Serdiana
 Serdika District
@@ -104927,6 +104959,7 @@ Tatiná
 Tating
 Tatishchevo
 Tatishchevsky District
+Tatlısu
 Tatobity
 Tatra County
 Tatranská Javorina
@@ -108113,7 +108146,6 @@ Triguères
 Trigueros
 Trijueque
 Trikala
-Trikomo
 Trilbardou
 Trilj
 Trilla
@@ -110612,6 +110644,7 @@ Vadena
 Vadenay
 Vădeni
 Vadenrod
+Vadili
 Vadinsk
 Vadinsky District
 Vadna
@@ -119051,6 +119084,8 @@ Yên Bái Province
 Yenakiieve Hromada
 Yenakiyevo
 Yengorboy
+Yeni Erenköy
+Yeniboğaziçi
 Yeniçağa
 Yenice
 Yenicekent
