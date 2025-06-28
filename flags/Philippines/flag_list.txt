@@ -1,86 +1,83 @@
-Abra
-Agusan del Norte
-Agusan del Sur
-Aklan
-Albay
-Antique
-Apayao
-Aurora
-Basilan
-Bataan
-Batanes
-Batangas
-Benguet
-Biliran
-Bohol
-Bukidnon
-Bulacan
-Cagayán
-Caloocan
-Camarines Norte
-Camarines Sur
-Camiguin
-Capiz
-Catanduanes
-Cavite
-Cebu
-Cotabato
-Davao de Oro
-Davao del Norte
-Davao del Sur
-Davao Occidental
-Davao Oriental
-Dinagat Islands
-Eastern Samar
-Guimaras
-Ifugao
-Ilocos Norte
-Ilocos Sur
-Iloilo
-Isabela
-Kalinga
-La Union
-Laguna
-Lanao del Norte
-Lanao del Sur
-Leyte
-Lucena
-Maguindanao
-Manila
-Marinduque
-Masbate
-Misamis Occidental
-Misamis Oriental
+Abra Province
+Agusan del Norte Province
+Agusan del Sur Province
+Aklan Province
+Albay Province
+Antique Province
+Apayao Province
+Aurora Province
+Basilan Province
+Bataan Province
+Batanes Province
+Batangas Province
+Benguet Province
+Biliran Province
+Bohol Province
+Bukidnon Province
+Bulacan Province
+Cagayan Province
+Camarines Norte Province
+Camarines Sur Province
+Camiguin Province
+Capiz Province
+Catanduanes Province
+Cavite Province
+Cebu Province
+Cotabato Province
+Davao De Oro Province
+Davao del Norte Province
+Davao del Sur Province
+Davao Occidental Province
+Davao Oriental Province
+Dinagat Islands Province
+Eastern Samar Province
+Guimaras Province
+Ifugao Province
+Ilocos Norte Province
+Ilocos Sur Province
+Iloilo Province
+Isabela Province
+Kalinga Province
+La Union Province
+Laguna Province
+Lanao del Norte Province
+Lanao del Sur Province
+Leyte Province
+Maguindanao Del Norte Province
+Maguindanao Del Sur Province
+Marinduque Province
+Masbate Province
+Metro Manila
+Misamis Occidental Province
+Misamis Oriental Province
 Mountain Province
-Negros Occidental
-Negros Oriental
-Northern Samar
-Nueva Ecija
-Nueva Vizcaya
-Occidental Mindoro
-Oriental Mindoro
-Palawan
-Pampanga
-Pangasinan
-Pasay
-Quezon
-Quezon City
-Quirino
-Rizal
-Romblon
-Samar
-Sarangani
-Siquijor
-Sorsogon
-South Cotabato
-Southern Leyte
-Sultan Kudarat
-Sulu
-Surigao del Norte
-Surigao del Sur
-Tarlac
-Tawi-Tawi
-Zambales
-Zamboanga del Norte
-Zamboanga del Sur
-Zamboanga Sibugay
+Negros Occidental Province
+Negros Oriental Province
+Northern Samar Province
+Nueva Ecija Province
+Nueva Vizcaya Province
+Occidental Mindoro Province
+Oriental Mindoro Province
+Palawan Province
+Pampanga Province
+Pangasinan Province
+Quezon Province
+Quirino Province
+Rizal Province
+Romblon Province
+Samar Province
+Sarangani Province
+Siquijor Province
+Sorsogon Province
+South Cotabato Province
+Southern Leyte Province
+Sultan Kudarat Province
+Sulu Province
+Surigao del Norte Province
+Surigao del Sur Province
+Tarlac Province
+Tawi-Tawi Province
+Zambales Province
+Zamboanga del Norte Province
+Zamboanga del Sur Province
+Zamboanga Sibugay Province
