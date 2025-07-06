@@ -8977,7 +8977,7 @@ Bekalta
 Békás
 Bekasi
 Bekasi Regency
-Bekasovo
+Bekasovo District
 Bekdorf
 Bekecs
 Békés
@@ -12243,11 +12243,13 @@ Bolshaya Vyla
 Bolshaya Yekaterinovka
 Bolshaya Yelan
 Bolshaya Yelkhovka
+Bolshaya Yerba
 Bolshebereznikovsky District
 Bolsheboldinsky District
 Bolshechernigovsky District
 Bolsheglushitsky District
 Bolsheignatovsky District
+Bolshelug
 Bolshelutskoye
 Bolshemurashkinsky District
 Bolshemurtinsky District
@@ -14795,6 +14797,7 @@ Bryansk Region
 Bryansky District
 Bryant
 Brye
+Brykalansk
 Bryn Athyn
 Bryndum
 Bryndwr
@@ -21288,6 +21291,7 @@ Chikan
 Chikcha
 Chikichey
 Chikindzonot
+Chikola
 Chikugo
 Chikuhoku
 Chikujo
@@ -27555,6 +27559,7 @@ Dobrovíz
 Dobrovliany
 Dobrovnik
 Dobrovolsk
+Dobrovolskoye
 Dobrovsky District
 Dobroye
 Dobrozhanivka
@@ -27978,6 +27983,7 @@ Dommelen
 Dommershausen
 Dommery
 Dommitzsch
+Domna
 Domnești
 Domninskoye
 Domnom-lès-Dieuze
@@ -33250,7 +33256,7 @@ Filiași
 Filiates
 Filighera
 Filignano
-Filimonkovskoye
+Filimonkovsky District
 Filipeni
 Filipești
 Filipeștii de Pădure
@@ -37489,6 +37495,7 @@ Goiânia
 Goianinha
 Goianira
 Goianorte
+Goianul Nou
 Goiás
 Goiatins
 Goiatuba
@@ -48289,6 +48296,7 @@ Kaliningrad
 Kaliningrad Region
 Kalinino
 Kalininskaya
+Kalininskoye
 Kalininsky District
 Kalininskyi District
 Kalinkavichy
@@ -48816,6 +48824,7 @@ Karadere
 Karagach
 Karaganda
 Karaganda Region
+Karaganka
 Karagay
 Karagaysky District
 Karaginsky District
@@ -49472,6 +49481,7 @@ Kelbra (Kyffhäuser)
 Kelburn
 Kelč
 Kelčany
+Kelchiyur
 Këlcyrë
 Keleberda
 Kelebia
@@ -50039,6 +50049,7 @@ Khorostok
 Khorovets
 Khorovytsia
 Khorramabad
+Khorulinsky
 Khoseda-Khardsky
 Khost Province
 Khotin Hromada
@@ -51556,6 +51567,7 @@ Komlósd
 Komlóska
 Kommen
 Kommunar
+Kommunarka District
 Kommunarskoye
 Kommunistichesky
 Komňa
@@ -52347,6 +52359,7 @@ Kozmadombja
 Kozmice
 Koźmin Wielkopolski
 Koźminek
+Kozmino
 Kozmodemyansk
 Kozojedy
 Kozojídky
@@ -52563,7 +52576,7 @@ Krasnomaysky
 Krasnoobsk
 Krasnooktyabrsky District
 Krasnoozyornoye
-Krasnopakhorskoye
+Krasnopakhorsky District
 Krasnopartizansky District
 Krasnopavlivka
 Krasnoperekopsk Municipality
@@ -52639,6 +52652,7 @@ Krasny Sulin
 Krasny Yar
 Krasny Yasyl
 Krasnye Chetai
+Krasnye Kosary
 Krasnystaw
 Krasnystaw (rural gmina)
 Krasnystaw County
@@ -61621,6 +61635,7 @@ Maiolo
 Maiorca
 Maiorga
 Maiori
+Maiovca
 Maipo Province
 Maipú
 Maiquinique
@@ -66478,6 +66493,7 @@ Miryang
 Miryantsi
 Miryonki
 Mirzachol District
+Mîrzaci
 Mirzaobod District
 Mirzec
 Mîrzești
@@ -73617,6 +73633,7 @@ Novaya Nadezhda
 Novaya Otradovka
 Novaya Sloboda
 Novaya Syda
+Novaya Usadba
 Novaya Usman
 Novaya Zemlya District
 Novazzano
@@ -73806,6 +73823,7 @@ Novoivanovskaya
 Novoivanovskoye
 Novoizmaylovskoye
 Novokalcheve Hromada
+Novokamenka
 Novokamianka
 Novokargino
 Novokavkazsky
@@ -74015,6 +74033,7 @@ Nový Ples
 Nový Poddvorov
 Novy Port
 Nový Přerov
+Novy Rogachik
 Novy Ropsk
 Nový Ruskov
 Nový Rychnov
@@ -74985,6 +75004,7 @@ Obvinsk
 Obyachevo
 Obyce
 Obyčtov
+Obyedinyonny
 Obytce
 Oca
 Ocaklar
@@ -81286,6 +81306,7 @@ Pishchanka
 Pishchanka Hromada
 Pishchanyi Brid Hromada
 Pishchiv Hromada
+Pishtan
 Piskaryovka
 Piskent District
 Piskiv
@@ -98831,6 +98852,7 @@ Shcherbanivka
 Shcherbanka
 Shcherbinino
 Shcherbinka
+Shcherbinka District
 Shcherbinovsky
 Shcherbinovsky District
 Shcherbivtsi
@@ -99718,6 +99740,7 @@ Simonfa
 Simonsberg
 Simonswald
 Simontornya
+Simontovka
 Simorre
 Simpelveld
 Simplé
@@ -102155,6 +102178,7 @@ Srednjobanatski District
 Srednjobosanski Canton
 Sredny
 Sredny Aradirikh
+Sredny Ikorets
 Sredny Postol
 Sredny Santimir
 Srednyaya Akhtuba
@@ -108052,6 +108076,7 @@ Toluca
 Tolve
 Tolvuya
 Tolyatti
+Tom
 Tom Green County
 Toma
 Tomai
@@ -109440,6 +109465,7 @@ Troisvilles
 Troițcoe
 Troitsa
 Troitsk
+Troitsk District
 Troitskaya
 Troitske
 Troitske Hromada
@@ -111732,6 +111758,7 @@ Uxbridge
 Uxegney
 Uxem
 Üxheim
+Uyan
 Uyar
 Uyarsky District
 Uychi District
@@ -114007,6 +114034,7 @@ Versam
 Verscio
 Verseg
 Versend
+Vershino-Bidzha
 Vershino-Darasunsky
 Vershino-Shakhtaminsky
 Vershire
@@ -114156,6 +114184,7 @@ Věteřov
 Vétheuil
 Vetiș
 Vetlanda Municipality
+Vetlevka
 Vetluga
 Vetluzhsky District
 Vetovo
@@ -116499,6 +116528,7 @@ Voronivka
 Voronivtsi
 Voronizh
 Voronkiv Hromada
+Voronovo District
 Voronovskoye
 Voronovytsia Hromada
 Voronyntsi
