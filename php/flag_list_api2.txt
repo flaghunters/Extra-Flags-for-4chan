@@ -1094,6 +1094,7 @@ Ailertchen
 Aileu Municipality
 Ailey
 Ailingen
+Ailinglaplap
 Aillant-sur-Milleron
 Ailleux
 Aillevans
@@ -1105,6 +1106,7 @@ Ailly-le-Haut-Clocher
 Ailly-sur-Noye
 Ailly-sur-Somme
 Ailoche
+Ailuk
 Aimargues
 Aimeliik
 Aimorés
@@ -4665,6 +4667,7 @@ Arnhem-Noord
 Arnhem-Zuid
 Arni
 Arnis
+Arno
 Arnóia
 Arnold
 Arnold's Cove
@@ -5692,6 +5695,7 @@ Aunay-les-Bois
 Aunay-sous-Crécy
 Auneau-Bleury-Saint-Symphorien
 Aups
+Aur
 Aura
 Aura an der Saale
 Aura im Sinngrund
@@ -10830,7 +10834,6 @@ Bikács
 Bikal
 Bikbarda
 Bikin
-Bikini Atoll
 Bikinsky District
 Bikschote
 Bila
@@ -29851,7 +29854,7 @@ Ebnat
 Ebnat-Kappel
 Ebnath
 Eboli
-Ebon Atoll
+Ebon
 Ebonyi State
 Ebrach
 Ebracher Forst
@@ -31136,6 +31139,7 @@ Energetik
 Energodar
 Enerhodar Hromada
 Enese
+Enewetok-Ujelang
 Enez District
 Enfidha
 Enfield
@@ -46837,6 +46841,7 @@ Izvoru Berheciului
 Izvoru Crișului
 Jaarsveld
 Jabalpur
+Jabat
 Jabbeke
 Jabbor Rasulov District
 Jabeek
@@ -47030,7 +47035,7 @@ Jalšové
 Jalšovík
 Jaltocán
 Jalubí
-Jaluit Atoll
+Jaluit
 Jalžabet
 Jamaica
 Jamao al Norte
@@ -50528,6 +50533,7 @@ Kildyushevo
 Kiledere
 Kileler
 Kilemarsky District
+Kili-Bikini-Ejit
 Kiliansroda
 Kilifi County
 Kiliia Hromada
@@ -54106,7 +54112,7 @@ Kwa Sani
 Kwadijk
 KwaDukuza
 Kwai Tsing District
-Kwajalein Atoll
+Kwajalein
 Kwale County
 Kwara State
 KwaZulu-Natal
@@ -55348,6 +55354,7 @@ Ladyzhyn Hromada
 Ladyzhynka Hromada
 Ladzany
 Ładzice
+Lae
 Laer
 Lærdal
 Laerru
@@ -58476,6 +58483,7 @@ Liaoning
 Liart
 Lias
 Liashkivka Hromada
+Lib
 Libá
 Libacao
 Libagon
@@ -58811,6 +58819,7 @@ Lijó
 Lika-Senj County
 Likavka
 Likhoslavlsky District
+Likiep
 Likino-Dulyovo
 Liku
 Lila
@@ -62110,7 +62119,7 @@ Majosháza
 Majs
 Majšperk
 Majur
-Majuro Atoll
+Majuro
 Makád
 Makah Reservation
 Makallé
@@ -62506,6 +62515,7 @@ Maloarkhangelsk
 Maloarkhangelsky District
 Malodelskaya
 Maloderbetovsky District
+Maloelap
 Małogoszcz
 Maloiaroslavets Druhyi
 Maloja Region
@@ -65112,6 +65122,7 @@ Méjannes-lès-Alès
 Mejía Municipality
 Mejicanos
 Mejillones
+Mejit
 Mejorada del Campo
 Mekényes
 Meknassy
@@ -66440,6 +66451,7 @@ Milheirós de Poiares
 Milhosť
 Milhostov
 Milhundos
+Mili
 Miliana
 Milići
 Miličín
@@ -70801,7 +70813,6 @@ Nambsheim
 Nambucca
 Namdalseid
 Namdong District
-Namdrik Atoll
 Namegata
 Namegawa
 Namerikawa
@@ -70817,6 +70828,7 @@ Namie
 Namiquipa
 Namlos
 Nămoloasa
+Namorik
 Namosi Province
 Nampa
 Nampicuan
@@ -70826,6 +70838,7 @@ Nampula
 Nampula Province
 Namsky
 Namsky District
+Namu
 Namukulu
 Namur
 Namur Province
@@ -89503,7 +89516,7 @@ Rondon do Pará
 Rondônia
 Rondonópolis
 Ronfe
-Rongelap Atoll
+Rongelap
 Rongellen
 Rongotai
 Rongy
@@ -111239,7 +111252,7 @@ Uitkerke
 Uivar
 Uiwang
 Uizdtsi
-Ujae Atoll
+Ujae
 Ujar District
 Ujazd
 Újazd
@@ -112211,7 +112224,7 @@ Utica
 Útila
 Utinga
 Utique
-Utirik Atoll
+Utirik
 Utkino
 Uto
 Utoropy
@@ -120246,6 +120259,8 @@ Worthington
 Worthington Springs
 Wörthsee
 Worthville
+Wotho
+Wotje
 Woubrechtegem
 Woubrugge
 Woudenberg
