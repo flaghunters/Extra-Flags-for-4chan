@@ -66,12 +66,28 @@ def main(verbose: bool, redo_all: bool, new_line: str):
                 flags.seek(0)
                 flags.truncate()
                 flags.writelines([png + sep for png in pngs])
-
+    
     logger.info("Deleting api list...")
     with open(ALL_FLAGS, "wt", encoding="utf-8") as flags:
         logger.info("Creating api list...")
         all_flags_list = sorted(all_flags, key=collator.sort_key)
         flags.writelines([flag + sep for flag in all_flags_list])
+        
+    countries = []
+    with open (os.path.join(ROOT_PATH,FLAG_LIST), encoding="utf-8") as f:
+        countries = f.read().splitlines()
+    countrydirs = []
+    for subdir in os.listdir(ROOT_PATH):
+        if os.path.isdir(os.path.join(ROOT_PATH,subdir)):
+            countrydirs += [os.path.basename(subdir)]
+    difference = list(set(countrydirs) - set(countries))
+    inverse_difference = list(set(countries) - set(countrydirs))
+    if len(difference) > 0:
+        logger.info("New country(ies) added: %s", ", ".join(sorted(difference)))
+    if len(inverse_difference) > 0:
+        logger.info("Renamed or deleted: %s", ", ".join(sorted(inverse_difference)))
+    with open (os.path.join(ROOT_PATH,FLAG_LIST), 'w', encoding="utf-8") as f:
+        f.write('\n'.join(sorted(countrydirs, key=collator.sort_key))+'\n')
 
 
 if __name__ == "__main__":
