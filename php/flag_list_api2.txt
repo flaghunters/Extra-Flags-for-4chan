@@ -297,15 +297,10 @@ Abtswind
 Abtweiler
 Abtwil
 Abu
-Abu al-Duhur Subdistrict
 Abu Dhabi
 Abu Dhabi District
 Abu Dhabi Emirate
 Abu Ghosh
-Abu Hamam
-Abu Kamal District
-Abu Kamal Subdistrict
-Abu Qilqil Subdistrict
 Abu Saleem
 Abu Sinan
 Abucay
@@ -700,8 +695,6 @@ Afonsoeiro
 Afragola
 Afrânio
 Africo
-Afrin District
-Afrin Subdistrict
 Afritz am See
 Afşin District
 Afton (town)
@@ -1118,7 +1111,6 @@ Aimargues
 Aimeliik
 Aimorés
 Ain
-Ain al-Fijah Subdistrict
 Aïn Azel
 Ain Baal
 Aïn Benian
@@ -1294,7 +1286,6 @@ Akhmeta Municipality
 Akhmetovskaya
 Akhtala
 Akhtanizovskaya
-Akhtarin Subdistrict
 Akhtarsky
 Akhtubinsk
 Akhtubinsky
@@ -1399,7 +1390,6 @@ Al Dhaid
 Al Ghail
 Al Hamriyah
 Al Haouz Province
-Al Hawwas
 Al Hoceima
 Al Hoceïma Province
 Al Hudaydah
@@ -1421,125 +1411,16 @@ Al Wakrah Municipality
 Al Wusta Governorate
 Al-Ain
 Al-Ain Region
-Al-Annazah Subdistrict
-Al-Ariqah Subdistrict
-Al-Arishah Subdistrict
-Al-Asharah Subdistrict
-Al-Bab District
-Al-Bab Subdistrict
-Al-Bahluliyah Subdistrict
-Al-Bariqiyah Subdistrict
 Al-Barka
 al-Batuf
 Al-Bireh
-Al-Busayrah Subdistrict
-Al-Butayhah Subdistrict
-Al-Dana Subdistrict
-Al-Darbasiyah Subdistrict
-Al-Dimas Subdistrict
-Al-Dumayr Subdistrict
-Al-Fakhurah Subdistrict
-Al-Ghariyah Subdistrict
-Al-Ghizlaniyah Subdistrict
-Al-Ghurra
-Al-Hadher Subdistrict
-Al-Haffah District
-Al-Haffah Subdistrict
-Al-Hajar Al-Aswad Subdistrict
-al-Hajib Subdistrict
-Al-Hamidiyah Neighbourhood
-Al-Hamidiyah Subdistrict
-Al-Hamraa Subdistrict
-Al-Hasakah District
 Al-Hasakah Governorate
-Al-Hasakah Subdistrict
-Al-Hawash Subdistrict
-Al-Hawl Subdistrict
-Al-Hirak Subdistrict
-Al-Hoz Subdistrict
-Al-Jalaa Subdistrict
-Al-Jalabiyah Subdistrict
-Al-Janudiyah Subdistrict
-Al-Jarniyah Subdistrict
-Al-Jawadiyah Subdistrict
-Al-Jiza Subdistrict
-Al-Karamah Subdistrict
-Al-Karimah Subdistrict
 Al-Kasom
-Al-Kasrah Subdistrict
-Al-Khafsah Subdistrict
 Al-Khums
-Al-Kiswah Subdistrict
-Al-Malihah Subdistrict
-Al-Malikiyah District
-Al-Malikiyah Subdistrict
-Al-Mansurah Subdistrict
-Al-Masmiyah Subdistrict
-Al-Mazraa Subdistrict
-Al-Mazza
-Al-Midan
-Al-Muhajerin
-Al-Muhasan Subdistrict
-Al-Mukharram District
-Al-Mukharram Subdistrict
-Al-Musayfirah Subdistrict
-Al-Mushannaf Subdistrict
-Al-Nashabiyah Subdistrict
-Al-Nasirah Subdistrict
-Al-Qaboun
-Al-Qabu Subdistrict
-Al-Qadam
 Al-Qadisiyah Governorate
-Al-Qadmus Subdistrict
 Al-Qahira Governorate
-Al-Qahtaniyah Subdistrict
-Al-Qamsiyah Subdistrict
-Al-Qanawat
-Al-Qaryatayn Subdistrict
 Al-Quds
-Al-Qurayya Subdistrict
-Al-Qusayr District
-Al-Qusayr Subdistrict
-Al-Qutailibiyah Subdistrict
-Al-Qutayfah District
-Al-Qutayfah Subdistrict
-al-Rai Subdistrict
-Al-Rastan District
-Al-Rastan Subdistrict
-Al-Rawda Subdistrict
-Al-Riqama Subdistrict
-Al-Saan Subdistrict
-Al-Sabe' Biyar Subdistrict
-Al-Sabkhah Subdistrict
-Al-Safsafah Subdistrict
-Al-Sanamayn District
-Al-Sanamayn Subdistrict
-Al-Sawda Subdistrict
-Al-Shaddadah Subdistrict
-Al-Shajara Subdistrict
-Al-Shaykh Badr District
-Al-Shaykh Badr Subdistrict
-Al-Shaykh Maskin Subdistrict
-Al-Sisiniyah Subdistrict
-Al-Sukhnah Subdistrct
-Al-Suqaylabiyah District
-Al-Suqaylabiyah Subdistrict
-Al-Susah Subdistrict
-Al-Suwar Subdistrict
-Al-Tabni Subdistrict
-Al-Tabqah District
-Al-Tabqah Subdistrict
-Al-Tall District
-Al-Tall Subdistrict
-Al-Tamanah Subdistrict
-Al-Tawahin Subdistrict
-Al-Yaarubiyah Subdistrict
-Al-Yarmuk
-Al-Zabadani District
-Al-Zabadani Subdistrict
 Al-Zahra
-Al-Zirbah Subdistrict
-Al-Ziyarah Subdistrict
 Ala
 Alà dei Sardi
 Ala di Stura
@@ -2027,8 +1908,6 @@ Alenquer
 Alenquer Municipality
 Alénya
 Aleosan
-Aleppo
-Aleppo Governorate
 Aleppo Township
 Alerheim
 Alert
@@ -3259,7 +3138,6 @@ Amt Neuhaus
 Amt Wachsenburg
 Amtsberg
 Amtzell
-Amuda Subdistrict
 Amudarya District
 Amulung
 Amur Region
@@ -3277,8 +3155,6 @@ Amzacea
 An der Poststraße
 An der Schmücke
 An Giang Province
-An-Nabek District
-An-Nabek Subdistrict
 Ana Zumarán
 Anaa
 Anabar District
@@ -4114,7 +3990,6 @@ Aquino
 Aquiraz
 Aquismón
 Aquitania
-Ar-Ruhaybah Subdistrict
 Ar'ara
 Ar'arat an-Naqab
 Ara
@@ -4296,7 +4171,6 @@ Arbesbach
 Arbignieu
 Arbigny
 Arbin
-Arbin Subdistrict
 Arbing
 Arblade-le-Bas
 Arbo
@@ -4641,11 +4515,8 @@ Arifiye District
 Arignac
 Arignano
 Ariguaní
-Ariha District
-Ariha Subdistrict
 Arilje
 Arima
-Arima Subdistrict
 Aringay
 Ariniș
 Arinos
@@ -4726,7 +4597,6 @@ Armamar
 Armamar Municipality
 Arman
 Armañanzas
-Armanaz Subdistrict
 Armancourt
 Armășești
 Armash
@@ -5109,7 +4979,6 @@ Arvin
 Árvore
 Arvoredo
 Arvorezinha
-Arwad Subdistrict
 Aryktakh
 Arylakh
 Arylakhsky
@@ -5150,10 +5019,6 @@ Aš
 As Pontes de García Rodríguez
 As Samu
 As-Klakring
-As-Safira District
-As-Safira Subdistrict
-As-Salihiya
-As-Sawra as-Saghira Subdistrict
 Asagiri
 Asago
 Asahan Regency
@@ -5223,7 +5088,6 @@ Aserrí
 Asfeld
 Ash Sharqiyah North Governorate
 Ash Sharqiyah South Governorate
-Ash-Shaghour
 Asha
 Ashanti Region
 Ashap
@@ -5343,7 +5207,6 @@ Assafarge
 Assafarge e Antanhol
 Assago
 Assaí
-Assal al-Ward Subdistrict
 Assam
 Assamstadt
 Assaré
@@ -5472,8 +5335,6 @@ Atamanskaya
 Atamaysky
 Atami
 Átány
-Atarib District
-Atarib Subdistrict
 Atascadero
 Atascosa County
 Ataşehir District
@@ -6185,7 +6046,6 @@ Awaza
 Awdalland
 Awendam
 Awhitu
-Awj Subdistrict
 Awoingt
 Ax-les-Thermes
 Axams
@@ -6249,15 +6109,6 @@ Ayl
 Aylesbury Vale
 Aylmer
 Aymavilles
-Ayn al-Arab District
-Ayn al-Arab Subdistrict
-Ayn al-Baydah Subdistrict
-Ayn al-Niser Subdistrict
-Ayn al-Sharqiyah Subdistrict
-Ayn al-Tineh Subdistrict
-Ayn Halaqim Subdistrict
-Ayn Issa Subdistrict
-Ayn Shiqaq Subdistrict
 Ayni District
 Aynor
 Ayo Ayo
@@ -6303,8 +6154,6 @@ Azay-le-Ferron
 Azay-le-Rideau
 Azay-sur-Cher
 Azay-sur-Indre
-Azaz District
-Azaz Subdistrict
 Azcapotzalco
 Azdavay District
 Azé
@@ -6421,7 +6270,6 @@ Babatngon
 Babayevo
 Babayevsky District
 Babayurtovsky District
-Babbila Subdistrict
 Babchyntsi Hromada
 Babcock Ranch
 Babe
@@ -7523,7 +7371,6 @@ Banaba
 Banabuiu
 Bañado de Soto
 Banámichi
-Banan Subdistrict
 Banana
 Bananal
 Bananeiras
@@ -7606,8 +7453,6 @@ Banisilan
 Bănișor
 Bănița
 Banite
-Baniyas District
-Baniyas Subdistrict
 Banja Luka
 Banja Luka Region
 Banjar
@@ -8016,7 +7861,6 @@ Barmstedt
 Bárna
 Bârna
 Barnag
-Barnah
 Barnard
 Bärnau
 Barnaul
@@ -8142,7 +7986,6 @@ Barretos
 Barrett Township
 Barrhead
 Barrhead County
-Barri ash-Sharqi Subdistrict
 Barriac-les-Bosquets
 Barrie
 Barrier Valley
@@ -8267,7 +8110,6 @@ Barysh
 Baryshevo
 Baryshivka Hromada
 Baryshsky District
-Barza
 Bârza
 Barzago
 Barzana
@@ -9181,12 +9023,10 @@ Beit Dagan
 Beit Hanoun
 Beit Jala
 Beit Jann
-Beit Jen Subdistrict
 Beit Lahia
 Beit Sahour
 Beit Shemesh
 Beit Yahoun
-Beit Yashout Subdistrict
 Beitunya
 Beiuș
 Béiwen-Atert
@@ -10825,7 +10665,6 @@ Bicsérd
 Bicske
 Bicske District
 Bidache
-Bidama Subdistrict
 Bidania-Goiatz
 Bidarray
 Bidart
@@ -11173,7 +11012,6 @@ Binn
 Binnen
 Binnenstad
 Binningen
-Binnish Subdistrict
 Bíňovce
 Binsdorf
 Binsfeld
@@ -11208,7 +11046,6 @@ Bioule
 Biozat
 Bippen
 Biquinhas
-Bir al-Helou al-Wardiya Subdistrict
 Bir al-Maksur
 Bir Ali Ben Khélifa
 Bir El Hafey
@@ -11440,7 +11277,6 @@ Biwer
 Bixad
 Biysk
 Biysky District
-Bizaah
 Bizanet
 Bizanos
 Bizau
@@ -13240,7 +13076,6 @@ Boșorod
 Bošovice
 Bosque County
 Bosquel
-Bosra Subdistrict
 Bossay-sur-Claise
 Bosselshausen
 Bossendorf
@@ -14931,7 +14766,6 @@ Brumadinho
 Brumado
 Brumano
 Brumath
-Brummanet al-Mashayekh Subdistrict
 Brummen
 Brumov
 Brumov-Bylnice
@@ -15509,7 +15343,6 @@ Bulawayo
 Bulboaca
 Bulboci
 Bulbucata
-Bulbul Subdistrict
 Bulciago
 Buldan District
 Buldon
@@ -25882,7 +25715,6 @@ Czyżew
 D'Huison-Longueville
 D'Iberville
 Đà Nẵng
-Da'el Subdistrict
 Daaden
 Daanbantayan
 Daarle
@@ -26060,7 +25892,6 @@ Dalhunden
 Dalian
 Dalías
 Dalików
-Daliyah Subdistrict
 Daliyat al-Karmel
 Daliyat El-Karmel
 Dalkendorf
@@ -26288,18 +26119,12 @@ Dapitan
 Dappy
 Dar Allouch
 Dar Chaabane
-Daraa District
-Daraa Governorate
-Daraa Subdistrict
 Darabani
 Daraboshegy
 Daraga
 Daram
 Darány
 Dărăști-Ilfov
-Darat Izza Subdistrict
-Darayya District
-Darayya Subdistrict
 Darazac
 Darby
 Darby Township
@@ -26341,7 +26166,6 @@ Dârjiu
 Darke County
 Darkhan-Uul Province
 Darkovice
-Darkush Subdistrict
 Därligen
 Darling Downs South West
 Darlington
@@ -26512,8 +26336,6 @@ Day
 Day County
 Daya-Amgata
 Daykundi Province
-Dayr Hafir District
-Dayr Hafir Subdistrict
 Daysland
 Dayton
 Daytona Beach
@@ -26739,10 +26561,6 @@ Deinze
 Deir Al Qamar
 Deir Al-Ahmar
 Deir al-Asad
-Deir Atiyah Subdistrict
-Deir ez-Zor District
-Deir ez-Zor Governorate
-Deir ez-Zor Subdistrict
 Deir Hanna
 Deir Qanoun En Nahr
 Deira
@@ -27240,7 +27058,6 @@ Dharmasraya Regency
 Dhekelia
 Dhevvadhoo
 Dhi Qar Governorate
-Dhibin Subdistrict
 Dhidhdhoo
 Dhiffushi
 Dhiggaru
@@ -27284,7 +27101,6 @@ Diarville
 Dias d'Ávila
 Diatylivka
 Díaz
-Diban Subdistrict
 Dibba Al Hisn
 Dibba Al-Fujairah
 Dibër
@@ -28715,8 +28531,6 @@ Doulaincourt-Saucourt
 Doulcon
 Doulevant-le-Château
 Doullens
-Douma District
-Douma Subdistrict
 Doupě
 Doupovské Hradiště
 Dour
@@ -29361,7 +29175,6 @@ Dumitra
 Dumitrești
 Dumitrița
 Dumlupınar District
-Dummar
 Dummer
 Dümmer
 Dummerston
@@ -29497,8 +29310,6 @@ Durankaya
 Duranus
 Duras
 Duravel
-Duraykish District
-Duraykish Subdistrict
 Durazno Department
 Durazzano
 Durbach
@@ -29630,7 +29441,6 @@ Dvory nad Žitavou
 Dvubratsky
 Dvůr Králové nad Labem
 Dvurechenskoye
-Dweir Ruslan Subdistrict
 Dwikozy
 Dwingeloo
 Dworp
@@ -33735,8 +33545,6 @@ Fiorano Modenese
 Fiordimonte
 Fiorentino
 Fiorenzuola d'Arda
-Fiq District
-Fiq Subdistrict
 Firavitoba
 Fire Island Pines
 Firebaugh
@@ -35552,7 +35360,6 @@ Furnas
 Furnas County
 Furore
 Furqat District
-Furqlus Subdistrict
 Fürstenau
 Fürstenberg
 Fürstenberg ̸ Havel
@@ -37106,11 +36913,9 @@ Gezer
 Gezira State
 Gézoncourt
 Gföhl
-Ghabaghib Subdistrict
 Ghafurov District
 Ghajar
 Ghajnsielem
-Ghandoura Subdistrict
 Ghannouch
 Ghanzi District
 Ghar el-Melh
@@ -37947,6 +37752,7 @@ Gola
 Golães
 Golăiești
 Golan
+Golan Heights
 Golancourt
 Gołańcz
 Golasecca
@@ -40764,7 +40570,6 @@ Haderslev Municipality
 Hadeth
 Hadhdhunmathi Atoll
 Hadiach Hromada
-Hadidah Subdistrict
 Hadigny-les-Verrières
 Hadim District
 Hadjadj
@@ -40932,7 +40737,6 @@ Háje nad Jizerou
 Hajeb el Ayoun
 Hájek
 Hajigabul District
-Hajin Subdistrict
 Hajjah
 Hajmás
 Hajmáskér
@@ -41100,9 +40904,6 @@ Ham-en-Artois
 Ham-sous-Varsberg
 Ham-sur-Heure
 Ham-sur-Heure-Nalinnes
-Hama District
-Hama Governorate
-Hama Subdistrict
 Hamada
 Hamadoni District
 Hamaliivka
@@ -41156,7 +40957,6 @@ Hamilton Parish
 Hamilton Township
 Hamilton Ward
 Hamiltonban Township
-Hamin Subdistrict
 Hamina
 Hamlet
 Hamlin
@@ -41170,7 +40970,6 @@ Hammah
 Hammam Chott
 Hammam Ghezèze
 Hammam Sousse
-Hammam Wasel Subdistrict
 Hammam-Lif
 Hammamet
 Hammana
@@ -41217,7 +41016,6 @@ Hamptonburgh
 Hampyeong County
 Hamr
 Hamr na Jezeře
-Hamrat
 Hamrun
 Hamry
 Hamry nad Sázavou
@@ -41234,7 +41032,6 @@ Han-devant-Pierrepont
 Han-sur-Lesse
 Han-sur-Meuse
 Han-sur-Nied
-Hanadi Subdistrict
 Hanahan
 Hanak District
 Hanam
@@ -41374,7 +41171,6 @@ Harana
 Harare
 Harari Region
 Harasiuki
-Harasta Subdistrict
 Harasztifalu
 Hărău
 Haraucourt
@@ -41432,13 +41228,10 @@ Hardy County
 Hardyston Township
 Hare Bay
 Harelbeke
-Harem District
-Harem Subdistrict
 Haren
 Haren (Ems)
 Haret Hreik
 Haréville
-Harf al-Musaytirah Subdistrict
 Harfleur
 Harford
 Harford County
@@ -41457,7 +41250,6 @@ Harima
 Haringey
 Haringsee
 Harish
-Haritan Subdistrict
 Harjavalta
 Härjedalen Municipality
 Harjumaa
@@ -41512,7 +41304,6 @@ Harpstedt
 Harpswell
 Harra
 Harrachov
-Harran al-Awamid Subdistrict
 Harran District
 Harreberg
 Harrells
@@ -43198,7 +42989,6 @@ Hirao
 Hirata
 Hiratsuka
 Hiraya
-Hirbnafsah Subdistrict
 Hîrbovăț
 Hîrcești
 Hirel
@@ -43259,10 +43049,8 @@ Hisarcık District
 Hisarya
 Hisayama
 Hisel
-Hish Subdistrict
 Hisor District
 Hispania
-Hisyah Subdistrict
 Hita
 Hitachi
 Hitachinaka
@@ -43905,9 +43693,6 @@ Homorod
 Homorúd
 Homps
 Homrogd
-Homs District
-Homs Governorate
-Homs Subdistrict
 Homún
 Homyel
 Homyel District
@@ -45245,7 +45030,6 @@ Ibateguara
 Ibatiba
 Ibb
 Ibbenbüren
-Ibbin Samaan Subdistrict
 Ibema
 Iberia Parish
 Ibertioga
@@ -45372,9 +45156,6 @@ Idesheim
 Idiazabal
 Idiazábal
 İdil District
-Idlib District
-Idlib Governorate
-Idlib Subdistrict
 Idre
 Idrija
 Idrinskoye
@@ -45499,8 +45280,6 @@ Ihringen
 Ihrlerstein
 İhsangazi District
 İhsaniye District
-Ihsim Subdistrict
-Ihtaimlat
 Ihtiman
 Ii
 II Circoscrizione
@@ -46005,11 +45784,9 @@ Inhumas
 Inimutaba
 Inírida
 Initao
-Injarah
 Inje County
 Inke
 Inkerman
-Inkhil
 Inkoo
 Inkwanca
 Inkwil
@@ -47042,8 +46819,6 @@ Izobilny
 Izola
 Izon
 Izoplit
-Izra District
-Izra Subdistrict
 Izsák
 Izsófalva
 Iztacalco
@@ -47076,8 +46851,6 @@ Jaberg
 Jabing
 Jabkenice
 Jablanica District
-Jableh District
-Jableh Subdistrict
 Jabloň
 Jabłoń
 Jabloňany
@@ -47156,7 +46929,6 @@ Jacurso
 Jacutinga
 Jade
 Jadeidi-Makr
-Jadidat Khabur
 Jadów
 Jægerspris
 Jaen
@@ -47311,7 +47083,6 @@ Jánd
 Jandaia
 Jandaia do Sul
 Jandaíra
-Jandairis Subdistrict
 Jandelsbrunn
 Jandira
 Janduís
@@ -47392,8 +47163,6 @@ Jaquirana
 Jarabá
 Jarabacoa
 Jarabina
-Jarabulus District
-Jarabulus Subdistrict
 Jaraczewo
 Jaraguá
 Jaraguá do Sul
@@ -47401,7 +47170,6 @@ Jaraguari
 Jaraicejo
 Jaraíz de la Vera
 Jaral del Progreso
-Jaramana Subdistrict
 Jaramataia
 Jaramillo
 Jarandilla de la Vera
@@ -47435,7 +47203,6 @@ Jari
 Jarinu
 Jariștea
 Jarjayes
-Jarjnaz
 Jarmelo São Miguel
 Jarmelo São Pedro
 Jarmen
@@ -47496,7 +47263,6 @@ Jasień
 Jasienica
 Jasienica Rosielna
 Jasieniec
-Jasim Subdistrict
 Jasionówka
 Jašiūnai
 Jaśliska
@@ -47588,7 +47354,6 @@ Javůrek
 Jawa Barat
 Jawa Tengah
 Jawa Timur
-Jawbat Burghal Subdistrict
 Jawor
 Jawor County
 Jawornik Polski
@@ -47605,7 +47370,6 @@ Jayaque
 Jayawijaya Regency
 Jayena
 Jayhun District
-Jayroud Subdistrict
 Jayuya
 Jayyl District
 Jazan
@@ -47987,8 +47751,6 @@ Jirnsum
 Jirny
 Jish
 Jisp
-Jisr al-Shughur District
-Jisr al-Shughur Subdistrict
 Jisr az-Zarqa
 Jistebnice
 Jistebník
@@ -48239,7 +48001,6 @@ Jouaouda
 Jouarre
 Jouars-Pontchartrain
 Jouaville
-Joubar
 Joucas
 Joucou
 Joudreville
@@ -48327,8 +48088,6 @@ Jubainville
 Jubaland
 Juban
 Jübar
-Jubb al-Jarrah Subdistrict
-Jubb Ramlah Subdistrict
 Jübek
 Jucás
 Jucati
@@ -48398,7 +48157,6 @@ Jumilhac-le-Grand
 Jumilla
 Jumirim
 Jun
-Junaynet Ruslan Subdistrict
 Junça
 Junça e Naves
 Juncais
@@ -48635,19 +48393,11 @@ Käerch
 Käerjeng
 Kaesong Industrial Region
 Kafar Qara
-Kafr Batna Subdistrict
 Kafr El Sheikh Governorate
-Kafr Jales
 Kafr Kanna
-Kafr Laha Subdistrict
 Kafr Manda
-Kafr Nabl Subdistrict
 Kafr Qasim
-Kafr Rumah
-Kafr Sousa
-Kafr Takharim Subdistrict
 Kafr Yasif
-Kafr Zita Subdistrict
 Kaga
 Kagalnitskaya
 Kagalnitsky District
@@ -49585,7 +49335,6 @@ Karná
 Karnal
 Karnataka
 Karnaukhivka
-Karnaz Subdistrict
 Karnei Shomron
 Karnes County
 Karnice
@@ -49708,7 +49457,6 @@ Kašperské Hory
 Kaspi Municipality
 Kaspichan
 Kaspiysk
-Kasrat
 Kasrik
 Kassala State
 Kassandra
@@ -50347,7 +50095,6 @@ Kesovce
 Kesovogorsky District
 Kęsowo
 Kesra
-Kessab Subdistrict
 Kessel
 Kessel-Lo
 Kesseldorf
@@ -50464,10 +50211,7 @@ Khamagattinsky
 Khamdang
 Khamney
 Khamovniki District
-Khan Arnabah Subdistrict
-Khan Shaykhun Subdistrict
 Khan Yunis
-Khanasir Subdistrict
 Khandallah
 Khandyga
 Khangalassky District
@@ -50506,7 +50250,6 @@ Kharytonivka Hromada
 Khasansky District
 Khasavyurt
 Khasavyurtovsky District
-Khasham Subdistrict
 Khashuri Municipality
 Khasym
 Khasynsky District
@@ -50538,12 +50281,8 @@ Khiloksky District
 Khimki
 Khinalug
 Khipisa
-Khirbet al-Maazah Subdistrict
-Khirbet Ghazaleh Subdistrict
-Khirbet Tin Nur Subdistrict
 Khirdalan
 Khirposi
-Khishniyah Subdistrict
 Khislavichsky District
 Khiva
 Khiva District
@@ -50921,7 +50660,6 @@ Kinokawa
 Kinolhas
 Kinrooi
 Kinross-shire
-Kinsabba Subdistrict
 Kinsau
 Kinshasa
 Kinski Rozdory
@@ -54133,7 +53871,6 @@ Kuřimany
 Kurimka
 Kuřimská Nová Ves
 Kuřimské Jestřabí
-Kurin
 Kurinbi
 Kuringen
 Kurinka
@@ -54293,7 +54030,6 @@ Kuvechychi
 Kuvshinovsky District
 Kuvshinskaya Salma
 Kuwana
-Kuweires Sharqi Subdistrict
 Kuybyshev
 Kuybyshevo
 Kuybyshevskoye
@@ -56812,9 +56548,6 @@ Laszki
 Lasztonya
 Latacunga
 Latah County
-Latakia District
-Latakia Governorate
-Latakia Subdistrict
 Latendorf
 Latera
 Laterina
@@ -61675,13 +61408,9 @@ Ma'ale Efraim
 Ma'ale Iron
 Ma'ale Yosef
 Ma'alot-Tarshiha
-Ma'arrat Nu'man District
-Ma'arrat Nu'man Subdistrict
 Ma'rib
 Ma'uke
 Maabaidhoo
-Maabatli Subdistrict
-Maadan Subdistrict
 Maadhadu
 Maaenboodhoo
 Maafannu
@@ -61693,10 +61422,8 @@ Maalhendhoo
 Maalhos
 Maalhosmadulu North Atoll
 Maalhosmadulu South Atoll
-Maaloula Subdistrict
 Maamendhoo
 Maamigili
-Maar Shamshah
 Maarakeh
 Maarandhoo
 Maardu
@@ -61705,11 +61432,9 @@ Maarke
 Maarke-Kerkem
 Maarkedal
 Maarn
-Maarrat Misrin Subdistrict
 Maarssen
 Maarsseveen
 Maartensdijk
-Maarzita
 Maasbommel
 Maasbracht
 Maasbree
@@ -61735,7 +61460,6 @@ Maastricht-Noordoost
 Maastricht-Oost
 Maastricht-Zuidoost
 Maastricht-Zuidwest
-Maataram
 Maaungoodhoo
 Maavah
 Mabalacat
@@ -61919,7 +61643,6 @@ Mădârjac
 Madaveli
 Madawaska
 Madawaska County
-Madaya Subdistrict
 Madbury
 Maddaloni
 Maddela
@@ -62200,7 +61923,6 @@ Mahikeng
 Mahilyou
 Mahilyou District
 Mahilyou Region
-Mahin Subdistrict
 Mahina
 Mahinog
 Mahlberg
@@ -62542,7 +62264,6 @@ Malagnino
 Malagueira
 Malagueira e Horta das Figueiras
 Malagueño
-Malah Subdistrict
 Malahide
 Malaia
 Mălăiești
@@ -63028,8 +62749,6 @@ Manawatu District
 Manawatu-Wanganui Region
 Manay
 Manazuru
-Manbij District
-Manbij Subdistrict
 Mancelos
 Mancenans
 Mancha Real
@@ -63578,7 +63297,6 @@ Mardié
 Mardin Province
 Mardorf
 Maré
-Mare' Subdistrict
 Marebbe
 Marechal Cândido Rondon
 Marechal Deodoro
@@ -63881,11 +63599,9 @@ Marjeyoun
 Mark
 Mark Landin
 Mark Municipality
-Markada Subdistrict
 Markaryd District
 Markaryd Municipality
 Markaz
-Markaz Rif Dimashq District
 Markdorf
 Marked Tree
 Markelo
@@ -64338,7 +64054,6 @@ Mas-des-Cours
 Mas-Grenier
 Mas-Saintes-Puelles
 Mas'ade
-Masada Subdistrict
 Masafi
 Masagua
 Masaguara
@@ -64399,7 +64114,6 @@ Mashiv
 Mashivka Hromada
 Mashonovskoye
 Mashpee
-Mashta al-Helu Subdistrict
 Mashteuiatsh
 Mashukovka
 Masi
@@ -64410,7 +64124,6 @@ Masinloc
 Masio
 Masis Municipality
 Masiu
-Maskanah Subdistrict
 Maskivtsi
 Maskouski District
 Mašková
@@ -64521,8 +64234,6 @@ Masty
 Masty District
 Masuda
 Masullas
-Masyaf District
-Masyaf Subdistrict
 Maszewo
 Mat
 Mata
@@ -64874,8 +64585,6 @@ May District
 May-sur-Orne
 Mayabeque Province
 Mayachnoye
-Mayadin District
-Mayadin Subdistrict
 Mayaguana
 Mayagüez
 Mayak
@@ -66326,8 +66035,6 @@ Mga
 Mgarr
 Mglin
 Mglinsky District
-Mharda District
-Mharda Subdistrict
 Mheer
 Mhère
 Mhlontlo
@@ -69139,7 +68846,6 @@ Moosseedorf
 Moosthenning
 Mopani
 Mopti Region
-Moqa
 Moqhaka
 Moquegua
 Moquegua Region
@@ -69789,8 +69495,6 @@ Mount Rainier
 Mount Remarkable
 Mount Roskill
 Mount Shasta
-Mount Simeon District
-Mount Simeon Subdistrict
 Mount Somers
 Mount Stewart
 Mount Stirling
@@ -70057,7 +69761,6 @@ Müglitztal
 Mugnano del Cardinale
 Mugnano di Napoli
 Mugudaysky
-Muhambal Subdistrict
 Muharraq Governorate
 Mühbrook
 Muhen
@@ -70597,8 +70300,6 @@ Muyezersky District
 Muysky District
 Muzaffarabad
 Muzambinho
-Muzayraa Subdistrict
-Muzayrib Subdistrict
 Muzhi
 Muzhievo
 Muzhylovychi
@@ -71540,7 +71241,6 @@ Navoloki
 Navotas
 Návsí
 Nawa Region
-Nawa Subdistrict
 Nawojowa
 Nax
 Naxos kai Mikres Kyklades
@@ -74900,7 +74600,6 @@ Nübbel
 Nubécourt
 Nübel
 Nubi
-Nubl Subdistrict
 Ñuble Region
 Nucăreni
 Nucet
@@ -76346,7 +76045,6 @@ Olcsvaapáti
 Old
 Old Bridge Township
 Old Brookville
-Old City
 Old Field
 Old Forge
 Old Fort
@@ -85950,31 +85648,20 @@ Pyxis
 Pyzdry
 Qaanaaq
 Qabala District
-Qabasin
-Qabtan
 Qakh District
 Qala
-Qalaat al-Madiq Subdistrict
 Qalansawe
 Qalqilya
 Qamashi District
-Qamishli District
-Qamishli Subdistrict
 Qana
 Qanaqer-Zeytun District
 Qanlikol District
 Qaqortoq
-Qara Subdistrict
 Qaraozek District
-Qardaha District
-Qardaha Subdistrict
 Qarshi
 Qarshi District
 Qashqardaryo Region
 Qasigiannguit
-Qastal Ma'af Subdistrict
-Qatana District
-Qatana Subdistrict
 Qazakh
 Qazakh District
 Qazvin
@@ -86068,8 +85755,6 @@ Quba
 Quba District
 Qubadli District
 Qubodiyon District
-Qudsaya District
-Qudsaya Subdistrict
 Queanbeyan
 Queanbeyan–Palerang
 Quéant
@@ -86333,12 +86018,8 @@ Quixelô
 Quixeramobim
 Quixeré
 Qumqorgon District
-Quneitra District
-Quneitra Governorate
-Quneitra Subdistrict
 Quœux-Haut-Maînil
 Quoque
-Qurqania Subdistrict
 Qusar
 Qusar District
 Quva District
@@ -86403,7 +86084,6 @@ Rabenstein ̸ Fläming
 Rabenstein an der Pielach
 Rabenwald
 Rabí
-Rabia Subdistrict
 Rabinal
 Rąbino
 Rabititsy
@@ -86786,7 +86466,6 @@ Rajhradice
 Rajka
 Rajkot
 Rajnochovice
-Rajo Subdistrict
 Rajshahi
 Rakaca
 Rakacaszend
@@ -86847,7 +86526,6 @@ Ralls County
 Ralpho Township
 Ralsko
 Ralswiek
-Ram Hamdan
 Ramacca
 Ramada
 Ramada e Caneças
@@ -87028,7 +86706,6 @@ Rankin
 Rankin County
 Rankin Inlet
 Rankoshi
-Rankous Subdistrict
 Rankovce
 Rankweil
 Rankwitz
@@ -87106,9 +86783,6 @@ Rappottenstein
 Rapšach
 Rapsécourt
 Rapu-Rapu
-Raqqa District
-Raqqa Governorate
-Raqqa Subdistrict
 Raqqada
 Ráquira
 Rari
@@ -87117,11 +86791,8 @@ Raritan Township
 Raron
 Raron District
 Rarotonga
-Ras al-Ayn District
-Ras al-Ayn Subdistrict
 Ras Al-Khaimah
 Ras Al-Khaimah Emirate
-Ras al-Khashufah Subdistrict
 Ras Jebel
 Ras Maska
 Rasa
@@ -87154,7 +86825,6 @@ Raška District
 Raskildino
 Raškovice
 Raslavice
-Rasm Harmil al-Imam Subdistrict
 Rasmaadhoo
 Răsmirești
 Řásná
@@ -88663,7 +88333,6 @@ Rieux-Minervois
 Rieux-Volvestre
 Riex
 Riez
-Rif Dimashq Governorate
 Rifaina
 Rifferswil
 Rifiano
@@ -89638,6 +89307,7 @@ Roissy-en-France
 Roitham am Traunfall
 Roja Parish
 Rojas Municipality
+Rojava
 Rojetín
 Rojewo
 Rojiște
@@ -90760,7 +90430,6 @@ Rūjiena
 Ruka Witran
 Rukhotyn
 Rukieten
-Rukn ad-Din
 Rukshyn Hromada
 Rulfingen
 Rullstorf
@@ -91148,7 +90817,6 @@ Sa Kaeo Province
 Sa Pereira
 Sa Pobla
 Sa'dah
-Sa'sa' Subdistrict
 Saâcy-sur-Marne
 Saal
 Saal an der Donau
@@ -91228,7 +90896,6 @@ Sabaya Province
 Sabbia
 Sabbio Chiese
 Sabbioneta
-Sabburah Subdistrict
 Sabetha
 Šabina
 Sabinas
@@ -91328,7 +90995,6 @@ Sacy
 Sad Hromada
 Sada
 Sadaclia
-Sadad Subdistrict
 Sadali
 Sadanga
 Sadarak District
@@ -91386,8 +91052,6 @@ Safi Province
 Safiany Hromada
 Safien
 Safiental
-Safita District
-Safita Subdistrict
 Safnern
 Safonovo
 Safonovskoye
@@ -91453,10 +91117,8 @@ Sahagún
 Saharna Nouă
 Săhăteni
 Şahinbey District
-Sahlabiyeh
 Sahline Moôtmar
 Sahms
-Sahnaya Subdistrict
 Sahorre
 Sahtu Region
 Sahuaripa
@@ -91470,7 +91132,6 @@ Saibai Island
 Saicourt
 Saïda
 Saïda Province
-Saidnaya Subdistrict
 Saifen-Boden
 Saignelégier
 Saignes
@@ -93482,8 +93143,6 @@ Salamanca
 Salamanca (city)
 Salamanca (town)
 Salamina
-Salamiyah District
-Salamiyah Subdistrict
 Salamonde
 Salandra
 Salangen
@@ -93632,8 +93291,6 @@ Salives
 Salizzole
 Salıpazarı District
 Salka
-Salkhad District
-Salkhad Subdistrict
 Salköveskút
 Salla
 Salladasburg
@@ -93698,7 +93355,6 @@ Salouf
 Salow
 Şalpazarı District
 Salperwick
-Salqin Subdistrict
 Salreu
 Salsacate
 Salsas
@@ -96742,7 +96398,6 @@ Sarapiquí
 Sarapuí
 Sarapul
 Sarapulsky District
-Saraqib Subdistrict
 Sarasău
 Sarasota
 Sarasota County
@@ -96880,7 +96535,6 @@ Sarmenstorf
 Sarmersbach
 Sarmi Regency
 Sarmiento
-Sarmin Subdistrict
 Sarmingstein
 Sarmizegetusa
 Sarmstorf
@@ -96908,7 +96562,6 @@ Saronno
 Sárosd
 Sárospatak
 Sárospatak District
-Sarouja
 Sarov
 Šarovce
 Šárovcova Lhota
@@ -96941,7 +96594,6 @@ Sarria
 Sarrià de Ter
 Sarriac-Bigorre
 Sarrians
-Sarrin Subdistrict
 Sarroca de Bellera
 Sarroch
 Sarród
@@ -97334,7 +96986,6 @@ Savyon
 Sawahlunto
 Sawin
 Sawmills
-Sawran Subdistrict
 Sawyer County
 Saxen
 Saxeten
@@ -99106,7 +98757,6 @@ Sergeev
 Sergelen
 Sergeli District
 Sergey
-Serghaya Subdistrict
 Serghieni
 Sergines
 Sergino
@@ -99553,8 +99203,6 @@ Shaftsbury
 Shagalka
 Shagonar
 Shah Alam
-Shahba District
-Shahba Subdistrict
 Shahbuz District
 Shahova
 Shahriar
@@ -99626,7 +99274,6 @@ Shapleigh
 Shapovalivka
 Shapsha
 Shaqib al-Salam
-Shaqqa Subdistrict
 Shara-Azarga
 Sharangsky District
 Sharansky District
@@ -99655,7 +99302,6 @@ Sharoysky District
 Sharp County
 Sharpsburg
 Sharpsville
-Sharran Subdistrict
 Sharur District
 Sharya
 Sharyinsky District
@@ -99665,7 +99311,6 @@ Shasta County
 Shasta Lake
 Shatava
 Shaternyky
-Shathah Subdistrict
 Shatkovsky District
 Shatmaposi
 Shatoy
@@ -99683,7 +99328,6 @@ Shawano County
 Shawnee
 Shawnee County
 Shawnee Tribe
-Shaykh al-Hadid Subdistrict
 Shaymurzino
 Shayxontohur District
 Shchapovskoye
@@ -99894,7 +99538,6 @@ Shimotsuke
 Shimotsuma
 Shimsky District
 Shimukappu
-Shin Subdistrict
 Shin-Kamigoto
 Shin'onsen
 Shinagawa
@@ -100075,7 +99718,6 @@ Shutesbury
 Shuvalovo-Ozerki
 Shuya
 Shuysky District
-Shuyukh Tahtani Subdistrict
 Shvaikivka Hromada
 Shybalyn
 Shygyrdan
@@ -100116,7 +99758,6 @@ Sibalom
 Sibanicú
 Sibaté
 Sibay
-Sibbeh Subdistrict
 Sibbesse
 Šibenik
 Šibenik-Knin County
@@ -100666,7 +100307,6 @@ Sinitsinskoye
 Sinitsyno
 Sinj
 Sinjai Regency
-Sinjar Subdistrict
 Sinking Spring
 Sinkyevichy
 Sinn
@@ -101260,7 +100900,6 @@ Sliema
 Sliepkovce
 Sligo
 Slimnic
-Slinfah Subdistrict
 Slins
 Slippery Rock
 Slippery Rock Township
@@ -105007,7 +104646,6 @@ Sultanhanı District
 Sultanhisar District
 Sultanköy
 Sulu Province
-Suluk Subdistrict
 Suluktu
 Sülümenli
 Sülün
@@ -105207,7 +104845,6 @@ Surahammar Municipality
 Suraia
 Surakarta
 Surallah
-Suran Subdistrict
 Surani
 Surano
 Šurany
@@ -105386,9 +105023,6 @@ Suwałki
 Suwałki County
 Suwanee
 Suwannee County
-Suwayda District
-Suwayda Governorate
-Suwayda Subdistrict
 Suwon
 Suyeong District
 Suyetsky District
@@ -105742,6 +105376,8 @@ Syrdariya District
 Syřenov
 Syresi
 Syrgenstein
+Syrian Interim Government
+Syrian Salvation Government
 Syros-Ermoupoli
 Syrov
 Syrovátka
@@ -106143,14 +105779,11 @@ Tadami
 Tadani
 Tadaoka
 Tadasuni
-Tadef Subdistrict
 Taden
 Tadian
 Tadim
 Tading
 Tadjourah Region
-Tadmur District
-Tadmur Subdistrict
 Tadó
 Tadotsu
 Tadten
@@ -106162,7 +105795,6 @@ Tafers
 Tafí del Valle
 Tafí Viejo
 Taft
-Taftanaz Subdistrict
 Tafunsak
 Taga
 Țaga
@@ -106332,7 +105964,6 @@ Taktaharkány
 Taktakenéz
 Taktaszada
 Taku
-Tal'ar Gharbi
 Tala
 Tala Cañada
 Tala Huasi
@@ -106365,7 +105996,6 @@ Talavera
 Talavera la Real
 Talayan
 Talayuela
-Talbiseh Subdistrict
 Talbot County
 Talbotton
 Talca
@@ -106374,8 +106004,6 @@ Talcahuano
 Talcy
 Taldom
 Taldomsky District
-Taldou District
-Taldou Subdistrict
 Taldykorgan
 Talea
 Talega
@@ -106398,7 +106026,6 @@ Talibon
 Táliga
 Tálín
 Talin Municipality
-Talin Subdistrict
 Talinka
 Talipao
 Talisay
@@ -106408,8 +106035,6 @@ Talitay
 Talitsa
 Talitsko-Mugreyevskoye
 Talitsky District
-Talkalakh District
-Talkalakh Subdistrict
 Talkau
 Talking Rock
 Tálknafjarðarhreppur
@@ -106908,9 +106533,6 @@ Tartu
 Tartu linn
 Tartuca
 Tartumaa
-Tartus District
-Tartus Governorate
-Tartus Subdistrict
 Tarui
 Tarumã
 Tarumirim
@@ -106948,7 +106570,6 @@ Tashtypsky District
 Tasiilaq
 Tasikmalaya
 Tasikmalaya Regency
-Tasil Subdistrict
 Tåsjö District
 Táska
 Taskala District
@@ -107173,7 +106794,6 @@ Tay
 Tây Ninh Province
 Tayabas
 Tayasan
-Taybat al-Imam
 Tayga
 Taylor
 Taylor County
@@ -107413,16 +107033,7 @@ Teliucu Inferior
 Telki
 Telkibánya
 Telkwa
-Tell Abyad District
-Tell Abyad Subdistrict
-Tell ad-Daman Subdistrict
-Tell al-Jayer
-Tell Aran Subdistrict
 Tell City
-Tell Hamis Subdistrict
-Tell Rifaat Subdistrict
-Tell Salhab Subdistrict
-Tell Tamer Subdistrict
 Tell Township
 Tellancourt
 Teller County
@@ -112236,7 +111847,6 @@ Upsprunge
 Upton
 Upton County
 Upyte
-Uqayribat Subdistrict
 Ur
 Ura
 Urachiche Municipality
@@ -112391,7 +112001,6 @@ Urucurituba
 Urugi
 Uruguaiana
 Urukhskaya
-Urum al-Kubrah Subdistrict
 Uruma
 Urumaco Municipality
 Urumita
@@ -118063,7 +117672,6 @@ Wadersloh
 Wadesboro
 Wadestown
 Wadgassen
-Wadi al-Uyun Subdistrict
 Wadley
 Wadomari
 Wadowice
@@ -119918,6 +119526,7 @@ Wil District
 Wila
 Wilamowice
 Wilanów
+Wilayat al-Sham
 Wilbarger County
 Wilbich
 Wilbraham
@@ -120896,8 +120505,6 @@ Yabluniv
 Yabluniv Hromada
 Yablunivka
 Yablunivka Hromada
-Yabroud District
-Yabroud Subdistrict
 Yabu
 Yabucoa
 Yabuki
@@ -122019,7 +121626,6 @@ Zamezhnaya
 Zamfara State
 Zamhlai
 Zamikhiv
-Zammar Subdistrict
 Zámoly
 Zamora
 Zamora Municipality
