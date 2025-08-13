@@ -1,11 +1,19 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
-ruby RUBY_VERSION
 
-# This will help ensure the proper Jekyll version is running.
-gem "jekyll", "3.4.0"
+# Use a recent Jekyll version
+gem "jekyll", "~> 4.3"
 
-# Required for kramdown on Ruby 3.1+
-gem "rexml", "~> 3.2"
+# Markdown parser
+gem "kramdown", "~> 2.4"
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# Sass converter for Jekyll
+gem "jekyll-sass-converter", "~> 2.2"
+
+# For GitLab Pages (optional if you want to serve with GitLab)
+gem "webrick", "~> 1.7"
+
+# Optional: Jekyll plugins
+# gem "jekyll-feed", "~> 0.15"
+# gem "jekyll-seo-tag", "~> 2.7"
