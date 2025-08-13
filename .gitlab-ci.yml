@@ -1,22 +1,11 @@
-image: ruby:3.1
-
-stages:
-  - build
-
-variables:
-  JEKYLL_ENV: production
-
-before_script:
-  # Update bundler
-  - gem install bundler
-  # Install project dependencies
-  - bundle install
-
-build_site:
-  stage: build
+pages:
+  image: ruby:3.1
   script:
-    # Build the Jekyll site into the 'public' folder
+    - gem install bundler
+    - bundle install
     - bundle exec jekyll build -d public
   artifacts:
     paths:
       - public
+  only:
+    - gl-pages
