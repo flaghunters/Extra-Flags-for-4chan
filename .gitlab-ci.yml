@@ -1,9 +1,11 @@
 pages:
+  image: ruby:3.1
   script:
-  - bundle install
-  - bundle exec jekyll build -d public
+    - gem install bundler
+    - bundle install
+    - bundle exec jekyll build -d public
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - gl-pages
+    - gl-pages
