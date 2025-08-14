@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-# This will help ensure the proper Jekyll version is running.
-gem "jekyll", "3.4.0"
+# This will help ensure the proper Jekyll version is running.gem (used to be "3.4.0")
+gem "jekyll", "~> 4.4.1"
 
 # Required for kramdown on Ruby 3.1+
 gem "rexml", "~> 3.2"
