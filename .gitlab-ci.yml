@@ -1,5 +1,5 @@
 pages:
-  image: ruby:3.1
+  image: ruby:3.3
   script:
     - gem install bundler
     - bundle install
