@@ -3323,6 +3323,7 @@ Anao
 Anapa
 Anapoima
 Anápolis
+Anapskaya
 Anapsky District
 Anapu
 Anapurus
@@ -5381,6 +5382,7 @@ Aßlar
 Assling
 Aßling
 Asso
+Assokolayskoye
 Assolo
 Assoro
 Assu
@@ -7125,6 +7127,7 @@ Bakhmutske
 Bakhmutsky District
 Bakhsytsky
 Bakhtigildino
+Bakinskaya
 Bakio
 Bakırköy District
 Bakkefean
@@ -10728,6 +10731,7 @@ Bezvěrov
 Bezvodnoye
 Bezvodovka
 Bezymyanka
+Bezymyanny
 Bezzecca
 Bhavnagar
 Bhopal
@@ -11648,6 +11652,7 @@ Blažkov
 Blažovce
 Blažovice
 Błażowa
+Blechepsinskoye
 Bleckede
 Bleckenstedt
 Bleckhausen
@@ -12501,6 +12506,7 @@ Bolshemurashkinsky District
 Bolshemurtinsky District
 Bolsherechensky District
 Bolsheselsky District
+Bolshesidorovskoye
 Bolshesoldatsky District
 Bolshesosnovsky District
 Bolsheternovoy
@@ -25967,6 +25973,7 @@ Daglan
 Dagmersellen
 Dagneux
 Dagohoy
+Dagomys
 Dagonville
 Dağpınar
 Dagsboro
@@ -27694,6 +27701,7 @@ Divišov
 Divitz-Spoldershagen
 Divjakë
 Divnogorsk
+Divnomorskoye
 Divonne-les-Bains
 Divriği District
 Divya
@@ -29697,8 +29705,11 @@ Dzhankoysky District
 Dzhari
 Dzhebariki-Khaya
 Dzhebel
+Dzherokayskoye
 Dzheyrakhsky District
 Dzhidinsky District
+Dzhidzhikhablskoye
+Dzhiginka
 Dzhonka
 Dzhubga
 Dzhulynka Hromada
@@ -35670,6 +35681,7 @@ Gabrovo
 Gabrovo Province
 Gabsheim
 Gabú
+Gabukayskoye
 Gaby
 Gać
 Gacé
@@ -36422,6 +36434,7 @@ Gawler
 Gawłuszowice
 Gaworzyce
 Gay
+Gay-Kodzor
 Gayan
 Gaye
 Gaynsky District
@@ -38442,6 +38455,7 @@ Gößnitz
 Gossolengo
 Gößweinstein
 Goßwitz
+Gostagayevskaya
 Gostavățu
 Gostei
 Gostilitsy
@@ -45781,6 +45795,7 @@ Imeni Sverdlova
 Imeni Vorovskogo
 Imer
 Imereti
+Imeretinskaya
 Imgenbroich
 Imías
 Imielin
@@ -48559,6 +48574,7 @@ Kabale District
 Kabanbay
 Kabankalan
 Kabansky District
+Kabardinka
 Kabardino-Balkaria
 Kabardinskaya
 Kabasalan
@@ -50518,7 +50534,9 @@ Khasym
 Khasynsky District
 Khataldon
 Khatanga
+Khatazhukayskoye
 Khatlon Region
+Khatukayskoye
 Khatumo
 Khatylynsky
 Khatyn-Arynsky
@@ -50581,6 +50599,7 @@ Khodoriv Hromada
 Khodorivtsi
 Khodosivka Hromada
 Khodynino
+Khodzinskoye
 Khoiniki
 Khoiniki District
 Khojaly District
@@ -50656,6 +50675,7 @@ Khorramabad
 Khorulinsky
 Khoseda-Khardsky
 Khost Province
+Khostinsky District
 Khotin Hromada
 Khotisino
 Khotiv
@@ -52631,6 +52651,7 @@ Košetice
 Kosh-Agach
 Kosh-Agachsky District
 Kosh-Dobo
+Koshekhablskoye
 Koshekhablsky District
 Koshi
 Koshigaya
@@ -52959,6 +52980,7 @@ Kozelník
 Kozelshchyna Hromada
 Kozelsk
 Kozelsky District
+Kozetskoye
 Kozhanka Hromada
 Kozhany
 Kozhenyky
@@ -53175,6 +53197,7 @@ Krasnoarmeysk
 Krasnoarmeyskoye
 Krasnoarmeysky District
 Krasnobakovsky District
+Krasnobor
 Krasnoborsk
 Krasnoborsky District
 Krasnobród
@@ -53212,6 +53235,7 @@ Krasnokutsky District
 Krasnolesny
 Krasnomaysky
 Krasnoobsk
+Krasnooktyabrskoye
 Krasnooktyabrsky District
 Krasnoozyornoye
 Krasnopakhorsky District
@@ -53897,6 +53921,7 @@ Kulazhskoye
 Kulazhyntsi
 Kulcs
 Kuldīga Municipality
+Kuldur
 Kulebaki
 Kulebaksky District
 Kuleönü
@@ -54254,6 +54279,7 @@ Kuşu
 Kütahya District
 Kütahya Province
 Kutai Kartanegara Regency
+Kutais
 Kutaisi Municipality
 Kutana
 Kutas
@@ -54319,6 +54345,7 @@ Kuzemyn
 Kuzhenersky District
 Kuzhenkino
 Kuzhmara
+Kuzhorskoye
 Kuziai
 Kuzma
 Kuzmice
@@ -58527,6 +58554,7 @@ Letmathe
 Letňany
 Letnerechensky
 Letničie
+Letnik
 Letnitsa
 Letohrad
 Letojanni
@@ -62966,6 +62994,7 @@ Mamers
 Mametz
 Mamey
 Mamirolle
+Mamkhegskoye
 Mamlyut District
 Mammelzen
 Mammendorf
@@ -73331,6 +73360,7 @@ Nizhniye Klyuchi
 Nizhniye Sergi
 Nizhny Baskunchak
 Nizhny Chiryurt
+Nizhny Ikorets
 Nizhny Kislyay
 Nizhny Kuranakh
 Nizhny Lomov
@@ -75119,6 +75149,7 @@ Nyárád
 Nyáregyháza
 Nyárlőrinc
 Nyársapát
+Nyashabozh
 Nyasvizh
 Nyasvizh District
 Nyazepetrovsk
@@ -80026,6 +80057,7 @@ Pazña
 Pazos de Borbén
 Pazzallo
 Pazzano
+Pchegatlukayskoye
 Pchery
 Pcheva
 Pchyovzha
@@ -82646,6 +82678,7 @@ Poarch Creek Indian Reservation
 Poarta Albă
 Poás
 Pobeda
+Pobedenskoye
 Pobedim
 Pobedinka
 Pobednensky
@@ -83120,6 +83153,7 @@ Polistena
 Polisy
 Pölitz
 Polivanovo
+Polivyanka
 Polizzi Generosa
 Poljčane
 Polk
@@ -83340,6 +83374,7 @@ Ponědraž
 Ponědrážka
 Ponérihouen
 Ponětovice
+Ponezhukayskoye
 Ponga
 Pongaí
 Pongaroa
@@ -84921,6 +84956,7 @@ Pripolyarny
 Priponești
 Pripsleben
 Prirechensk
+Prirechensky
 Prisăcani
 Prisadovy
 Prisches
@@ -85371,6 +85407,7 @@ Psárov
 Psary
 Psáry
 Psebay
+Pshada
 Pshekhskaya
 Psiare
 Pskov
@@ -87183,6 +87220,7 @@ Rassach
 Rasskazovo
 Rasskazovsky District
 Rassvet
+Rassypnoye
 Rast
 Rastatt
 Rastatt District
@@ -91362,6 +91400,7 @@ Sadove
 Sadovo
 Sadovoe
 Sadovoye
+Sadovskoye
 Sadovy
 Sadowie
 Sadowne
@@ -96772,6 +96811,7 @@ Saratoga County
 Saratoga Springs
 Saratov
 Saratov Region
+Saratovskaya
 Saravale
 Saravena
 Sarawak
@@ -99705,6 +99745,7 @@ Shchastia Hromada
 Shchastye
 Shcheglovo
 Shcheglovsky
+Shchelyayur
 Shchepkinskoye
 Shcherbani Hromada
 Shcherbanivka
@@ -99783,6 +99824,7 @@ Shenandoah
 Shenandoah County
 Shenango Township
 Shenborn
+Shendzhiyskoye
 Shengabjimi
 Shengavit District
 Shëngjin
@@ -100961,6 +101003,7 @@ Siyava
 Siyazan District
 Siziano
 Sizun
+Sizyabsk
 Sizzano
 Sındırgı District
 Sırçalı
@@ -101622,7 +101665,7 @@ Sochaczew (rural gmina)
 Sochaczew County
 Söchau
 Sochaux
-Sochi Municipal District
+Sochi
 Sochocin
 Söchtenau
 Social Circle
@@ -103579,6 +103622,7 @@ Starobesheve Hromada
 Starobeshevsky District
 Starobilsk District
 Starobilsk Hromada
+Starobzhegokayskoye
 Starocherkasskaya
 Staroderevyankovskaya
 Starodub
@@ -105201,6 +105245,7 @@ Suplacu de Barcău
 Süpplingen
 Süpplingenburg
 Supraśl
+Supsekh
 Supt
 Süptitz
 Supur
@@ -105412,6 +105457,7 @@ Suzano
 Suzay
 Suzdal
 Suzdalka
+Suzdalskaya
 Suzdalsky District
 Suze-la-Rousse
 Suzemka
@@ -106326,6 +106372,7 @@ Taketa
 Taketomi
 Taketoyo
 Takhta
+Takhtamukayskoye
 Takhtamukaysky District
 Taki
 Takikawa
@@ -108508,6 +108555,7 @@ Timimoun
 Timimoun Province
 Timiryazev District
 Timiryazevo
+Timiryazevskoye
 Timiryazevsky
 Timiryazevsky District
 Timiș County
@@ -111845,6 +111893,7 @@ Ulyanovo
 Ulyanovsk
 Ulyanovsk Region
 Ulyanovsky District
+Ulyapskoye
 Ulyashkinskoye
 Ulychne
 Ulyotovsky District
@@ -111986,6 +112035,7 @@ Unieux
 Uniflor
 Unín
 Unincorporated Far West
+Unincorporated Mostovsky District
 Uninsky District
 Union
 Unión
@@ -116723,6 +116773,7 @@ Vinnytsia Hromada
 Vinnytsia Region
 Vinodol
 Vinodolska Općina
+Vinogradny
 Vinogradovca
 Vinogradovsky District
 Vinohrady
@@ -120901,6 +120952,7 @@ Yabebyry
 Yablanitsa
 Yablonevo
 Yablonovo
+Yablonovskoye
 Yablunets
 Yabluneve
 Yabluniv
@@ -121664,6 +121716,7 @@ Yuzhnoye Butovo District
 Yuzhnoye Medvedkovo District
 Yuzhnoye Tushino District
 Yuzhny
+Yuzhny District
 Yuzhsky District
 Yvecrique
 Yvelines
@@ -122257,6 +122310,7 @@ Závažná Poruba
 Zaventem
 Zavet
 Zavetinsky District
+Zavetny
 Zavidov
 Zavidovići
 Zavidovo
@@ -122476,6 +122530,7 @@ Zelenodolsky District
 Zelenogorsk
 Zelenogorskoye
 Zelenogorsky
+Zelenograd
 Zelenogradsk
 Zelenogradsky
 Zelenogradsky District
@@ -122792,6 +122847,7 @@ Zhukiv
 Zhukivtsi
 Zhukov
 Zhukovka
+Zhukovskoye
 Zhukovsky
 Zhukovsky District
 Zhuleysky
