@@ -1680,6 +1680,7 @@ Albareto
 Albaretto della Torre
 Albas
 Albatàrrec
+Albate
 Albavilla
 Albaxen
 Albay Province
@@ -5382,7 +5383,7 @@ Aßlar
 Assling
 Aßling
 Asso
-Assokolayskoye
+Assokolay
 Assolo
 Assoro
 Assu
@@ -11652,7 +11653,7 @@ Blažkov
 Blažovce
 Blažovice
 Błażowa
-Blechepsinskoye
+Blechepsin
 Bleckede
 Bleckenstedt
 Bleckhausen
@@ -29705,10 +29706,10 @@ Dzhankoysky District
 Dzhari
 Dzhebariki-Khaya
 Dzhebel
-Dzherokayskoye
+Dzherokay
 Dzheyrakhsky District
 Dzhidinsky District
-Dzhidzhikhablskoye
+Dzhidzhikhabl
 Dzhiginka
 Dzhonka
 Dzhubga
@@ -35681,7 +35682,7 @@ Gabrovo
 Gabrovo Province
 Gabsheim
 Gabú
-Gabukayskoye
+Gabukay
 Gaby
 Gać
 Gacé
@@ -50536,7 +50537,7 @@ Khataldon
 Khatanga
 Khatazhukayskoye
 Khatlon Region
-Khatukayskoye
+Khatukay
 Khatumo
 Khatylynsky
 Khatyn-Arynsky
@@ -50599,7 +50600,7 @@ Khodoriv Hromada
 Khodorivtsi
 Khodosivka Hromada
 Khodynino
-Khodzinskoye
+Khodz
 Khoiniki
 Khoiniki District
 Khojaly District
@@ -52651,7 +52652,7 @@ Košetice
 Kosh-Agach
 Kosh-Agachsky District
 Kosh-Dobo
-Koshekhablskoye
+Koshekhabl
 Koshekhablsky District
 Koshi
 Koshigaya
@@ -52980,7 +52981,7 @@ Kozelník
 Kozelshchyna Hromada
 Kozelsk
 Kozelsky District
-Kozetskoye
+Kozet
 Kozhanka Hromada
 Kozhany
 Kozhenyky
@@ -53235,7 +53236,7 @@ Krasnokutsky District
 Krasnolesny
 Krasnomaysky
 Krasnoobsk
-Krasnooktyabrskoye
+Krasnooktyabrsky
 Krasnooktyabrsky District
 Krasnoozyornoye
 Krasnopakhorsky District
@@ -54345,7 +54346,7 @@ Kuzemyn
 Kuzhenersky District
 Kuzhenkino
 Kuzhmara
-Kuzhorskoye
+Kuzhorskaya
 Kuziai
 Kuzma
 Kuzmice
@@ -62994,7 +62995,7 @@ Mamers
 Mametz
 Mamey
 Mamirolle
-Mamkhegskoye
+Mamkheg
 Mamlyut District
 Mammelzen
 Mammendorf
@@ -80058,7 +80059,7 @@ Pazña
 Pazos de Borbén
 Pazzallo
 Pazzano
-Pchegatlukayskoye
+Pchegatlukay
 Pchery
 Pcheva
 Pchyovzha
@@ -83375,7 +83376,7 @@ Ponědraž
 Ponědrážka
 Ponérihouen
 Ponětovice
-Ponezhukayskoye
+Ponezhukay
 Ponga
 Pongaí
 Pongaroa
@@ -91402,7 +91403,6 @@ Sadove
 Sadovo
 Sadovoe
 Sadovoye
-Sadovskoye
 Sadovy
 Sadowie
 Sadowne
@@ -99829,7 +99829,7 @@ Shenandoah
 Shenandoah County
 Shenango Township
 Shenborn
-Shendzhiyskoye
+Shendzhy
 Shengabjimi
 Shengavit District
 Shëngjin
@@ -103629,7 +103629,7 @@ Starobesheve Hromada
 Starobeshevsky District
 Starobilsk District
 Starobilsk Hromada
-Starobzhegokayskoye
+Starobzhegokay
 Starocherkasskaya
 Staroderevyankovskaya
 Starodub
@@ -106379,7 +106379,7 @@ Taketa
 Taketomi
 Taketoyo
 Takhta
-Takhtamukayskoye
+Takhtamukay
 Takhtamukaysky District
 Taki
 Takikawa
@@ -108561,8 +108561,8 @@ Timelkam
 Timimoun
 Timimoun Province
 Timiryazev District
+Timiryazeva
 Timiryazevo
-Timiryazevskoye
 Timiryazevsky
 Timiryazevsky District
 Timiș County
@@ -111627,6 +111627,7 @@ Ugdan
 Ugento
 Ugentse
 Uggiano la Chiesa
+Uggiate con Ronago
 Uggiate-Trevano
 Ugine
 Uglas
@@ -111900,7 +111901,7 @@ Ulyanovo
 Ulyanovsk
 Ulyanovsk Region
 Ulyanovsky District
-Ulyapskoye
+Ulyap
 Ulyashkinskoye
 Ulychne
 Ulyotovsky District
@@ -120959,7 +120960,7 @@ Yabebyry
 Yablanitsa
 Yablonevo
 Yablonovo
-Yablonovskoye
+Yablonovsky
 Yablunets
 Yabluneve
 Yabluniv
