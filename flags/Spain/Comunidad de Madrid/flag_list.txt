@@ -14,9 +14,9 @@ Arroyomolinos
 Batres
 Becerril de la Sierra
 Belmonte de Tajo
-Berzosa de Lozoya
+Berzosa del Lozoya
 Boadilla del Monte
-Braojos de la Sierra
+Braojos
 Brea de Tajo
 Brunete
 Buitrago del Lozoya
@@ -51,9 +51,11 @@ El Berrueco
 El Boalo
 El Escorial
 El Molar
+El Redegüelo
 El Vellón
 Estremera
 Fresnedillas de la Oliva
+Fresno de Torote
 Fuenlabrada
 Fuente el Saz de Jarama
 Fuentidueña de Tajo
@@ -76,6 +78,7 @@ La Serna del Monte
 Las Rozas de Madrid
 Leganés
 Loeches
+Los Baldíos
 Los Molinos
 Los Santos de la Humosa
 Lozoya
@@ -87,6 +90,7 @@ Manzanares el Real
 Meco
 Mejorada del Campo
 Miraflores de la Sierra
+Montejo de la Sierra
 Moraleja de Enmedio
 Moralzarzal
 Morata de Tajuña
@@ -106,6 +110,7 @@ Patones
 Pedrezuela
 Pelayos de la Presa
 Perales de Tajuña
+Pezuela de las Torres
 Pinilla del Valle
 Pinto
 Piñuécar-Gandullas
@@ -123,7 +128,7 @@ Robledillo de la Jara
 Robledo de Chavela
 Robregordo
 Rozas de Puerto Real
-San Agustín de Guadalix
+San Agustín del Guadalix
 San Fernando de Henares
 San Lorenzo de El Escorial
 San Martín de la Vega
@@ -135,6 +140,7 @@ Serranillos del Valle
 Sevilla la Nueva
 Somosierra
 Soto del Real
+Talamanca de Jarama
 Tielmes
 Titulcia
 Torrejón de Ardoz
@@ -146,12 +152,14 @@ Torremocha de Jarama
 Torres de la Alameda
 Tres Cantos
 Valdaracete
+Valdeavero
 Valdelaguna
 Valdemanco
 Valdemaqueda
 Valdemorillo
 Valdemoro
 Valdeolmos-Alalpardo
+Valdepiélagos
 Valdetorres de Jarama
 Valdilecha
 Valverde de Alcalá
