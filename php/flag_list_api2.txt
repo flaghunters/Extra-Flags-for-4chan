@@ -15841,6 +15841,20 @@ Brontallo
 Bronte
 Bronvaux
 Bronwood
+Bronx
+Bronx Community District 1
+Bronx Community District 10
+Bronx Community District 11
+Bronx Community District 12
+Bronx Community District 2
+Bronx Community District 3
+Bronx Community District 4
+Bronx Community District 5
+Bronx Community District 6
+Bronx Community District 7
+Bronx Community District 8
+Bronx Community District 9
+Bronx Park
 Bronxville
 Bronzolo
 Brooke County
@@ -15857,6 +15871,24 @@ Brooklet
 Brooklin
 Brookline
 Brooklyn
+Brooklyn Community District 1
+Brooklyn Community District 10
+Brooklyn Community District 11
+Brooklyn Community District 12
+Brooklyn Community District 13
+Brooklyn Community District 14
+Brooklyn Community District 15
+Brooklyn Community District 16
+Brooklyn Community District 17
+Brooklyn Community District 18
+Brooklyn Community District 2
+Brooklyn Community District 3
+Brooklyn Community District 4
+Brooklyn Community District 5
+Brooklyn Community District 6
+Brooklyn Community District 7
+Brooklyn Community District 8
+Brooklyn Community District 9
 Brooklyn Township
 Brookneal
 Brooks
@@ -21374,6 +21406,7 @@ Central Manitoulin
 Central Okanagan Regional District
 Central Otago District
 Central Pacolet
+Central Park
 Central Point
 Central Prince
 Central Province
@@ -36549,6 +36582,7 @@ Flums
 Fluntern
 Fluorn-Winzeln
 Flurlingen
+Flushing Meadow-Corona Park
 Flußbach
 Flussio
 Fluterschen
@@ -38999,6 +39033,7 @@ Gates
 Gates County
 Gateshead
 Gatesville
+Gateway National Recreation Area
 Gatika
 Gatineau
 Gatlinburg
@@ -51128,6 +51163,7 @@ Johannisberg
 Johanniskirchen
 Johannisthal
 John Day
+John F. Kennedy Airport
 John Taolo Gaetsewe
 Johns Creek
 Johnsbach
@@ -59108,6 +59144,7 @@ Lagraulière
 Lagrave
 Lagruère
 Laguardia
+LaGuardia Airport
 Laguépie
 Lagueruela
 Laguindingan
@@ -66791,6 +66828,18 @@ Mangystau Region
 Manhagen
 Manhattan
 Manhattan Beach
+Manhattan Community District 1
+Manhattan Community District 10
+Manhattan Community District 11
+Manhattan Community District 12
+Manhattan Community District 2
+Manhattan Community District 3
+Manhattan Community District 4
+Manhattan Community District 5
+Manhattan Community District 6
+Manhattan Community District 7
+Manhattan Community District 8
+Manhattan Community District 9
 Manhay
 Manheim
 Manheim Township
@@ -84802,6 +84851,7 @@ Peletier
 Pelham
 Pelham (town)
 Pelham (village)
+Pelham Bay Park
 Pelham Manor
 Pelhřimov
 Pelhřimov District
@@ -90893,6 +90943,20 @@ Queen Charlotte
 Queen Creek
 Queen Maud Land
 Queens
+Queens Community District 1
+Queens Community District 10
+Queens Community District 11
+Queens Community District 12
+Queens Community District 13
+Queens Community District 14
+Queens Community District 2
+Queens Community District 3
+Queens Community District 4
+Queens Community District 5
+Queens Community District 6
+Queens Community District 7
+Queens Community District 8
+Queens Community District 9
 Queens County
 Queens Region
 Queensbury
@@ -109294,6 +109358,9 @@ Staszów
 Staszów County
 State College
 Staten Island
+Staten Island Community District 1
+Staten Island Community District 2
+Staten Island Community District 3
 Statenice
 Statesboro
 Statesville
@@ -113719,7 +113786,6 @@ Thaya
 Thayer County
 Thayngen
 The Big Five False Bay
-The Bronx
 The Dalles
 The Gabba Ward
 The Gap
@@ -119710,6 +119776,7 @@ Vámosszabadi
 Vámosújfalu
 Van Buren
 Van Buren County
+Van Cortlandt Park
 Van Etten
 Van Province
 Van Wert County
