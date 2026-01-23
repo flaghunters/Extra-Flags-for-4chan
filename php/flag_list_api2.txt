@@ -3951,6 +3951,7 @@ Andrew County
 Andrews
 Andrews County
 Andreyevka
+Andreyevka ̸ Andreevca
 Andreyevskoye
 Andreyevsky
 Andrezel
@@ -10383,6 +10384,7 @@ Belo Jardim
 Belo Monte
 Belo Oriente
 Belo Vale
+Belochi ̸ Beloci
 Belœil
 Beloglinsky District
 Belogorsk
@@ -12745,6 +12747,7 @@ Blizanów
 Blížejov
 Blíževedly
 Blizhneosinovsky
+Blizhny Khutor ̸ Blijnii Hutor
 Blízkov
 Blížkovice
 Bliżyn
@@ -13564,6 +13567,7 @@ Bolshoy Kamen
 Bolshoy Kuyash
 Bolshoy Log
 Bolshoy Lychak
+Bolshoy Molokish ̸ Molochișul Mare
 Bolshoy Sabsk
 Bolshoy Talmaz
 Bolshoye
@@ -15907,6 +15911,7 @@ Broquiès
 Brørup
 Broscăuți
 Broshniv-Osada Hromada
+Broshtyany ̸ Broșteni
 Brossasco
 Brosso
 Broșteni
@@ -17145,6 +17150,7 @@ Butler Township
 Butner
 Butoiești
 Buton Regency
+Butor
 Butoves
 Bütow
 Butrimonys
@@ -17186,6 +17192,7 @@ Buttstädt
 Büttstedt
 Buttwil
 Butuan
+Butuchany ̸ Butuceni
 Buturlinovka
 Buturlinovsky District
 Buturlinsky District
@@ -17270,6 +17277,7 @@ Bychawa
 Bychikha
 Bychki
 Bychkivtsi
+Bychok ̸ Bîcioc
 Býchory
 Býčkovice
 Byczyna
@@ -18266,7 +18274,6 @@ Came
 Çameli District
 Camelopardalis
 Camenca
-Camenca District
 Camerana
 Camerano
 Camerano Casasco
@@ -23422,7 +23429,6 @@ Chistoye Pole
 Chita
 Chitagá
 Chitaraque
-Chițcani
 Chițcanii Vechi
 Chitenay
 Chitignano
@@ -23513,6 +23519,7 @@ Choachí
 Choapa Province
 Chobe District
 Chobot
+Chobruchi ̸ Cioburciu
 Choča
 Choceń
 Choceň
@@ -28795,6 +28802,7 @@ Del Norte County
 Del Rey Oaks
 Delacău
 Delães
+Delakeu ̸ Delacău
 Delanco Township
 DeLand
 Delano
@@ -29805,7 +29813,7 @@ Dmytrushky Hromada
 Dnepropudnoye
 Dneprovskaya
 Dnešice
-Dnestrovsc
+Dnestrovsk ̸ Dnestrovsc
 Dnipriany
 Dnipro District
 Dnipro Hromada
@@ -30840,6 +30848,7 @@ Downey
 Downingtown
 Downtown
 Doxato
+Doybany ̸ Doibani I
 Doylestown
 Doylestown Township
 Doze Ribeiras
@@ -31217,7 +31226,6 @@ Duba Hromada
 Dubai Emirate
 Ďubákovo
 Dubany
-Dubăsari
 Dubăsari District
 Dubăsarii Vechi
 Dubbeldam
@@ -31258,6 +31266,8 @@ Dubodiel
 DuBois
 Dubois County
 Duboistown
+Dubossary ̸ Dubăsari
+Dubossary District
 Dubova
 Dubová
 Dubovany
@@ -31269,6 +31279,7 @@ Duboviazivka Hromada
 Dubovica
 Dubovice
 Dubovka
+Dubovo ̸ Dubău
 Dubovoye
 Dubovsky
 Dubovsky District
@@ -31750,6 +31761,7 @@ Dzbel
 Dzemul
 Dzerzhinsk
 Dzerzhinskogo
+Dzerzhinskoye ̸ Dzerjinscoe
 Dzerzhinsky
 Dzerzhinsky District
 Dzhamku
@@ -37939,6 +37951,7 @@ Frumușica
 Frumușița
 Fruntișeni
 Frunză
+Frunze ̸ Frunză
 Frunzenskoye
 Frunzensky District
 Frunzyenski District
@@ -38768,6 +38781,7 @@ Gapyeong
 Gara
 Gara Unchiteşti
 Garáb
+Garaba ̸ Haraba
 Garaballa
 Garabato
 Garabito
@@ -38902,6 +38916,7 @@ Garlipp
 Garlitos
 Garlitz
 Garlstorf
+Garmatskoye ̸ Harmațca
 Garmen
 Garmisch-Partenkirchen
 Garmisch-Partenkirchen District
@@ -39965,6 +39980,7 @@ Gibsons
 Gibsonville
 Giby
 Gic
+Gidirim ̸ Ghidirim
 Gidle
 Gidy
 Giebel
@@ -40214,7 +40230,6 @@ Girovce
 Giruá
 Gisborne
 Gisborne District
-Gîsca
 Giscaro
 Gischow
 Gisclareny
@@ -40445,6 +40460,7 @@ Glinjeni
 Glinka
 Glinkovsky District
 Glinojeck
+Glinoye ̸ Hlinaia
 Glinstedt
 Glinzendorf
 Glis
@@ -41376,6 +41392,7 @@ Göxe
 Goxwiller
 Goya
 Goyang
+Goyany ̸ Goian
 Goychay District
 Goyder
 Goyencourt
@@ -42596,6 +42613,7 @@ Grupiara
 Grus
 Grüsch
 Grushevskaya
+Grushka ̸ Hruşca
 Gruson
 Grussenheim
 Grust
@@ -43480,6 +43498,8 @@ Győrújbarát
 Győrújfalu
 Győrvár
 Győrzámoly
+Gyrtop ̸ Hîrtop
+Gyska ̸ Gîsca
 Gytsjerk
 Gyugy
 Gyügye
@@ -52124,6 +52144,8 @@ Kamenický Šenov
 Kameničná
 Kamenín
 Kamenka
+Kamenka ̸ Camenca
+Kamenka District
 Kamenka-Dneprovskaya
 Kamenná
 Kamenná Horka
@@ -52503,6 +52525,7 @@ Karagach
 Karaganda
 Karaganda Region
 Karaganka
+Karagash ̸ Caragaș
 Karagay
 Karagaysky District
 Karaginsky District
@@ -52700,6 +52723,7 @@ Karmacs
 Karmakshy District
 Karmana District
 Karmanovo
+Karmanovo ̸ Carmanova
 Karmaskalinsky District
 Karmelava
 Karmiel
@@ -52887,6 +52911,7 @@ Katenino
 Katensen
 Katerini
 Kateřinice
+Katerinovka ̸ Caterinovca
 Katerynivka
 Katerynivka Hromada
 Katerynopil Hromada
@@ -53812,6 +53837,7 @@ Khrestyshche
 Khrolyn
 Khromtau District
 Khrustalnyi Hromada
+Khrustovaya ̸ Hristovaia
 Khryplyn
 Khrystoforivka
 Khrystynivka Hromada
@@ -54412,6 +54438,7 @@ Kitob District
 Kitovo
 Kitsap County
 Kitscoty
+Kitskany ̸ Chițcani
 Kitsman Hromada
 Kitsuki
 Kittanning
@@ -55134,6 +55161,7 @@ Kolárovice
 Kolárovo
 Kolašin
 Kołbaskowo
+Kolbasna ̸ Cobasna
 Kolbasov
 Kolbermoor
 Kołbiel
@@ -55236,6 +55264,7 @@ Kolonowskie
 Kolonshchyna
 Kolontaiv
 Kolontár
+Kolosovo ̸ Colosova
 Kolosovsky District
 Kolová
 Koloveč
@@ -55675,6 +55704,7 @@ Korostino
 Korostiv
 Korostyshiv Hromada
 Körösújfalu
+Korotnoye ̸ Corotna
 Korotoyak
 Korotych
 Korouhev
@@ -55726,6 +55756,7 @@ Korytné
 Korytnica
 Korzenna
 Korzhevka
+Korzhevo ̸ Corjova
 Korzhevsky
 Korzhi
 Korzhivtsi
@@ -56297,6 +56328,7 @@ Krasne Pershe
 Krásné Údolí
 Krasnenkaya Rechka
 Krasnenke
+Krasnenkoye ̸ Crasnencoe
 Krasnensky District
 Krásněves
 Kraśniczyn
@@ -56326,6 +56358,7 @@ Krasnodar Territory
 Krasnodon
 Krasnoflotsky District
 Krasnoglinsky District
+Krasnogorka ̸ Crasnogorca
 Krasnogorodsky District
 Krasnogorsk
 Krasnogorsky District
@@ -56404,6 +56437,7 @@ Krasnoyarsky
 Krasnoyarsky District
 Krasnoyaruzhsky District
 Krasnoye
+Krasnoye ̸ Crasnoe
 Krasnoye Plamya
 Krasnoye Selo
 Krasnozavodsk
@@ -56425,8 +56459,10 @@ Krasny Kut
 Krásný Les
 Krasny Luch
 Krasny Oktyabr
+Krasny Oktyabr ̸ Crasnîi Octeabri
 Krasny Pakhar
 Krasny Sulin
+Krasny Vinogradar ̸ Crasnîi Vinogradari
 Krasny Yar
 Krasny Yasyl
 Krasnye Chetai
@@ -56495,6 +56531,7 @@ Křekov
 Křelov-Břuchotín
 Křelovice
 Krembz
+Kremenchug ̸ Cremenciug
 Kremenchuk District
 Kremenchuk Hromada
 Kremenets District
@@ -57468,6 +57505,7 @@ Kuziai
 Kuzma
 Kuzmice
 Kuzmichi
+Kuzmin ̸ Cuzmin
 Kuzminki District
 Kuzminskoye
 Kuzmishchi
@@ -61506,7 +61544,6 @@ Lengyel
 Lengyeltóti
 Lenhartsville
 Leni
-Lenin
 Lenin District
 Lenina
 Léning
@@ -61516,6 +61553,7 @@ Leningrad Region
 Leningradskaya
 Leningradsky District
 Lenino
+Lenino ̸ Lenin
 Leninogorsk
 Leninogorsky District
 Leninsk
@@ -65867,7 +65905,6 @@ Mahwah Township
 Maia
 Maià de Montcal
 Maia Municipality
-Maiac
 Maiachka
 Maiakivka
 Maiaky Hromada
@@ -66259,6 +66296,7 @@ Malaya Shelkovka
 Malaya Tayaba
 Malaya Vishera
 Malaybalay
+Malayeshty ̸ Mălăiești
 Malazgirt District
 Malberg
 Malbergweich
@@ -66571,6 +66609,7 @@ Malý Krtíš
 Malý Lapáš
 Malý Lipník
 Maly Mayak
+Maly Molokish ̸ Molochișul Mic
 Mały Płock
 Malý Šariš
 Malý Slavkov
@@ -68670,6 +68709,7 @@ Mayadin Subdistrict
 Mayaguana
 Mayagüez
 Mayak
+Mayak ̸ Maiac
 Mayak Nikodimsky
 Mayakovski
 Mayalde
@@ -70513,6 +70553,7 @@ Mikhailovka
 Mikhali
 Mikhaylov
 Mikhaylovka
+Mikhaylovka ̸ Mihailovca
 Mikhaylovo-Yartsevskoye
 Mikhaylovsk
 Mikhaylovskaya
@@ -71659,6 +71700,7 @@ Mokošín
 Mokotów
 Mokotua
 Mokpo
+Mokra ̸ Mocra
 Mokra Kalyhirka Hromada
 Mokrá Lúka
 Mokrá-Horákov
@@ -76928,6 +76970,7 @@ Nezabylice
 Nezamayevskaya
 Nezamayevsky
 Nezamyslice
+Nezavertaylovka ̸ Nezavertailovca
 Nezaymanovsky
 Nezbavětice
 Nezbudská Lúčka
@@ -78840,6 +78883,7 @@ Novokharitonovskoye
 Novokhopyorsk
 Novokhopyorsky District
 Novokodatskyi District
+Novokomissarovka ̸ Comisarovca Nouă
 Novokorsunskaya
 Novokosino District
 Novokrasnianka
@@ -79052,6 +79096,7 @@ Novy Svet
 Nový Svet
 Nový Tekov
 Nový Telečkov
+Novy Tiraspol ̸ Tiraspolul Nou
 Novy Urengoy
 Novy Urgal
 Novy Vasyugan
@@ -80579,6 +80624,7 @@ Oklahoma City
 Oklahoma County
 Okmulgee County
 Okna
+Oknitsa ̸ Ocnița
 Okny Hromada
 Okoč
 Okoličná na Ostrove
@@ -83979,6 +84025,7 @@ Park Ridge
 Park Township
 Park Way
 Parkano
+Parkany ̸ Parcani
 Parkdale
 Parke County
 Parkent District
@@ -85450,6 +85497,7 @@ Pervomaiske
 Pervomaiske Hromada
 Pervomaiskyi Hromada
 Pervomaysk
+Pervomaysk ̸ Pervomaisc
 Pervomayskoye
 Pervomaysky
 Pervomaysky District
@@ -87183,6 +87231,7 @@ Ploskovice
 Ploskyi Potik
 Płośnica
 Plößberg
+Plot ̸ Plopi
 Plotbishche
 Plothen
 Plotina
@@ -87491,6 +87540,7 @@ Podolsk
 Podolsky District
 Podomí
 Podosinovsky District
+Podoyma ̸ Podoima
 Podozyorsky
 Podporozhsky District
 Podporozhye
@@ -88257,6 +88307,7 @@ Pope Leo XIV
 Popeasca
 Popelín
 Popelnaste Hromada
+Popenki ̸ Popencu
 Poperechny
 Poperinge
 Popești
@@ -89850,6 +89901,7 @@ Protokskoye
 Protopopivka
 Prottes
 Protvino
+Protyagaylovka ̸ Proteagailovca
 Prötzel
 Prouvy
 Prova
@@ -92087,6 +92139,7 @@ Raseiniai District Municipality
 Rasgetheemu
 Rashaya
 Rashivka
+Rashkovo ̸ Raşcov
 Rasht District
 Rashtivtsi
 Rašice
@@ -93468,8 +93521,6 @@ Ribița
 Ribnica
 Ribnica na Pohorju
 Ribnik
-Rîbnița
-Rîbnița District
 Ribnitz-Damgarten
 Ribolhos
 Ribordone
@@ -94608,6 +94659,7 @@ Roggliswil
 Roggwil
 Roghudi
 Roghun District
+Rogi ̸ Roghi
 Rogil
 Rogliano
 Rögling
@@ -95277,6 +95329,7 @@ Rot an der Rot
 Rota
 Rota d'Imagna
 Rota Greca
+Rotar ̸ Rotari
 Rotava
 Rote Ndao Regency
 Roteiro
@@ -96158,6 +96211,8 @@ Rybník
 Rybnik County
 Rybníky
 Rybniště
+Rybnitsa ̸ Rîbnița
+Rybnitsa District
 Rybno
 Rybno-Slobodsky District
 Rybnovsky District
@@ -104996,6 +105051,7 @@ Severiano de Almeida
 Severiano Melo
 Severin
 Severínia
+Severinovka ̸ Severinovca
 Severn
 Severna Kosovska Mitrovica
 Severní Terasa
@@ -105499,6 +105555,7 @@ Shiogama
 Shiojiri
 Shioya
 Ship Bottom
+Shipka ̸ Șipca
 Shippagan
 Shippen Township
 Shippensburg
@@ -106897,16 +106954,18 @@ Slobidka-Hlushkovetska
 Slobidka-Kadyivska
 Slobidka-Kulchiievetska Hromada
 Sloboda
+Sloboda-Rashkovo ̸ Slobozia-Rașcov
 Slobodka
 Slobodo-Turinsky District
 Slobodskoy
 Slobodskoy District
+Slobodzeya ̸ Slobozia
+Slobodzeya District
 Slobozhanske Hromada
 Slobozia
 Slobozia Bradului
 Slobozia Ciorăști
 Slobozia Conachi
-Slobozia District
 Slobozia Mândra
 Slobozia Mare
 Slobozia Moară
@@ -108373,6 +108432,7 @@ Sovetskaya
 Sovetskaya Gavan
 Sovetskaya Khakasiya
 Sovetsko-Gavansky District
+Sovetskoye ̸ Sovietscoe
 Sovetsky
 Sovetsky District
 Sovicille
@@ -108513,6 +108573,7 @@ Spessa
 Spessart
 Spetses
 Spexard
+Speya ̸ Speia
 Speyer
 Spezet
 Spezzano Albanese
@@ -110184,6 +110245,7 @@ Strotzbüsch
 Stroud
 Stroud Township
 Stroudsburg
+Stroyentsy ̸ Stroieşti
 Stroyevskoye
 Strozza
 Strozzigrund
@@ -110608,6 +110670,7 @@ Sukhuvate
 Sukhyi Yelanets Hromada
 Sukhyny
 Sukkozero
+Sukleya ̸ Sucleia
 Sukoharjo Regency
 Sukorady
 Sukoró
@@ -112699,6 +112762,7 @@ Tashkent District
 Tashkent Region
 Tashky
 Tashlinsky District
+Tashlyk ̸ Tașlîc
 Tashtagol
 Tashtagol District
 Tashtyp
@@ -113507,6 +113571,7 @@ Ternopil Hromada
 Ternopil Region
 Ternopillia
 Ternovka
+Ternovka ̸ Tîrnauca
 Ternovskaya
 Ternovsky District
 Ternovytsia
@@ -113723,6 +113788,7 @@ Texiguat
 Texingtal
 Texistepeque
 Teya
+Teya ̸ Teiu
 Teykovo
 Teykovsky District
 Teylingen
@@ -116712,6 +116778,7 @@ Tswaing
 Tswelopele
 Tsybli Hromada
 Tsybulenky
+Tsybulyovka ̸ Ţîbuleuca
 Tsyhany
 Tsyrkuny Hromada
 Tsyryn
@@ -117825,6 +117892,7 @@ Ulloa
 Ullum
 Ulm
 Ulma
+Ulma ̸ Ulmu
 Ulme
 Ulmen
 Ulmeni
@@ -118937,6 +119005,7 @@ Vadu Săpat
 Vadul lui Isac
 Vadul lui Vodă
 Vadul-Rașcov
+Vadul-Turkuluy ̸ Vadul Turcului
 Vaduz
 Værløse
 Værøy
@@ -119761,6 +119830,7 @@ Valvestino
 Valvettithurai
 Valwig
 Valy
+Valya-Adynke ̸ Valea Adîncă
 Valzeina
 Vama
 Vama Buzăului
@@ -123454,6 +123524,7 @@ Vinnytsia Hromada
 Vinnytsia Region
 Vinodol
 Vinodolska Općina
+Vinogradnoye ̸ Vinogradnoe
 Vinogradny
 Vinogradovca
 Vinogradovsky District
@@ -123793,6 +123864,7 @@ Vladimir Region
 Vladimirci
 Vladimirescu
 Vladimiro-Aleksandrovskoye
+Vladimirovka ̸ Vladimirovca
 Vladimirskaya
 Vladimirsky
 Vladislav
@@ -124235,6 +124307,7 @@ Voronivka
 Voronivtsi
 Voronizh
 Voronkiv Hromada
+Voronkovo ̸ Vărăncău
 Voronovo District
 Voronovskoye
 Voronovytsia Hromada
@@ -124601,6 +124674,7 @@ Vyhoda Hromada
 Vykáň
 Vykatnoy
 Vykhino-Zhulebino District
+Vykhvatintsy ̸ Ofatinți
 Vykhylivka
 Vyklantice
 Výkleky
@@ -128163,6 +128237,7 @@ Yershovo
 Yershovsky District
 Yervandashat
 Yerville
+Yerzhovo ̸ Hîrjău
 Yerzovka
 Yesa
 Yesan County
@@ -129630,6 +129705,7 @@ Zhukovskoye
 Zhukovsky
 Zhukovsky District
 Zhuleysky
+Zhura ̸ Jura
 Zhuravinka
 Zhuravka
 Zhuravki
