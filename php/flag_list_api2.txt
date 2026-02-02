@@ -11125,7 +11125,6 @@ Bermudian Landing
 Bern
 Bern Township
 Bern-Mittelland District
-Bern-Mittelland Region
 Bernac
 Bernac-Debat
 Bernac-Dessus
@@ -11174,7 +11173,6 @@ Bernedo
 Bernes
 Bernes-sur-Oise
 Bernese Jura District
-Bernese Jura Region
 Berneuil
 Berneuil-sur-Aisne
 Berneville
@@ -32058,6 +32056,7 @@ Eaubonne
 Eaucourt-sur-Somme
 Eaunes
 Eaux-Bonnes
+Eaux-Vives
 Eauze
 Ébano
 Ebblinghem
@@ -33534,7 +33533,6 @@ Emmendingen
 Emmendingen District
 Emmendorf
 Emmental District
-Emmental-Oberaargau Region
 Emmerich am Rhein
 Emmerin
 Emmering
@@ -60928,6 +60926,7 @@ Le Pescher
 Le Petit-Bornand-les-Glières
 Le Petit-Fougeray
 Le Petit-Pressigny
+Le Petit-Saconnex
 Le Peuchapatte
 Le Peyrat
 Le Pian-Médoc
@@ -65148,8 +65147,7 @@ Luzein
 Luzenac
 Luženičky
 Luzern
-Luzern-Land District
-Luzern-Stadt District
+Luzern District
 Luzerna
 Luzerne
 Luzerne County
@@ -73982,6 +73980,7 @@ Mouthier-Haute-Pierre
 Mouthiers-sur-Boëme
 Mouthoumet
 Moutier
+Moutier District
 Moutier-Rozeille
 Moutiers
 Moûtiers
@@ -79807,7 +79806,6 @@ Oberlaa
 Oberlahnstein
 Oberlahr
 Oberland
-Oberland Region
 Oberlangen
 Oberlangenegg
 Oberlarg
@@ -82240,7 +82238,7 @@ Ostholstein District
 Osthouse
 Ostiano
 Ostiglia
-Östlich Raron
+Östlich Raron District
 Östlicher Neubäuer Forst
 Ostopovice
 Ostoros
@@ -86943,6 +86941,7 @@ Plainfaing
 Plainfeld
 Plainfield
 Plainfield Township
+Plainpalais
 Plains
 Plains Township
 Plainsboro Township
@@ -92112,7 +92111,6 @@ Rari
 Raritan
 Raritan Township
 Raron
-Raron District
 Rarotonga
 Ras al-Ayn District
 Ras al-Ayn Subdistrict
@@ -103998,7 +103996,6 @@ Seekirchen am Wallersee
 Seekonk
 Seeland
 Seeland District
-Seeland Region
 Seelbach
 Seelbach (Westerwald)
 Seelbach bei Hamm (Sieg)
@@ -126392,7 +126389,7 @@ Westlake
 Westlake Village
 Westland
 Westland District
-Westlich Raron
+Westlich Raron District
 Westlock
 Westlock County
 Westmaas
