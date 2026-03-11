@@ -9400,6 +9400,7 @@ Bautzen District
 Bauvin
 Bauzemont
 Bavans
+Bavari
 Bavay
 Bavel
 Baveno
@@ -10125,7 +10126,7 @@ Belebey
 Belebeyevsky District
 Běleč
 Běleč nad Orlicí
-Belecke,
+Belecke
 Belecska
 Beled
 Beleg
@@ -13604,6 +13605,7 @@ Bolvir
 Bóly
 Bóly District
 Bolyarovo
+Bolzaneto
 Bolzano
 Bolzano Novarese
 Bolzano Vicentino
@@ -20452,6 +20454,7 @@ Castelliri
 Castellnou de Bages
 Castellnou de Seana
 Castellnovo
+Castello
 Castelló (Vilanova)
 Castello Cabiaglio
 Castello d'Agogna
@@ -26094,6 +26097,7 @@ Cornetu
 Corneville-sur-Risle
 Corni
 Cornier
+Cornigliano
 Corniglio
 Cornil
 Cornillac
@@ -65442,6 +65446,7 @@ Macau
 Macaubal
 Macaúbas
 Macaye
+Maccagnana
 Maccagno
 Maccagno con Pino e Veddasca
 Maccastorna
@@ -71741,6 +71746,7 @@ Molandier
 Molanga de Escamilla
 Molare
 Molares
+Molassana
 Molauer Land
 Molave
 Molay
@@ -74405,9 +74411,14 @@ Municipio E
 Municipio F
 Municipio G
 Municipio I
+Municipio I Centro Est
 Municipio II
+Municipio II Centro Ovest
 Municipio III
+Municipio III Bassa Val Bisagno
 Municipio IV
+Municipio IV Media Val Bisagno
+Municipio IX Levante
 Municipio Roma I
 Municipio Roma II
 Municipio Roma III
@@ -74424,6 +74435,10 @@ Municipio Roma XIII
 Municipio Roma XIV
 Municipio Roma XV
 Municipio V
+Municipio V Valpolcevera
+Municipio VI Medio Ponente
+Municipio VII Ponente
+Municipio VIII Medio Levante
 Muñico
 Muniesa
 Munilla
@@ -76259,6 +76274,7 @@ Nersingen
 Nerubaiske Hromada
 Nerva
 Nervesa della Battaglia
+Nervi
 Nerviano
 Nervieux
 Nerville-la-Forêt
@@ -84830,6 +84846,7 @@ Pegasus
 Pegau
 Pegestorf
 Peggau
+Pegli
 Peglio
 Pegnitz
 Pego
@@ -86073,6 +86090,7 @@ Piazza
 Piazza al Serchio
 Piazza Armerina
 Piazza Brembana
+Piazzalunga
 Piazzatorre
 Piazzogna
 Piazzola sul Brenta
@@ -88224,6 +88242,7 @@ Pontechianale
 Pontecorvo
 Pontecurone
 Pontedassio
+Pontedecimo
 Pontedera
 Pontedeume
 Pontedeva
@@ -88534,6 +88553,7 @@ Porta A Pago
 Porta A Sole
 Porta Gavina
 Porta Nova
+Porta Nuova
 Porta Westfalica
 Portachuelo
 Portacomaro
@@ -88677,6 +88697,7 @@ Portola Valley
 Portomaggiore
 Portomarín
 Portopalo di Capo Passero
+Portoria
 Portoscuso
 Portoviejo
 Pörtschach am Wörther See
@@ -89062,6 +89083,7 @@ Pozzonovo
 Pozzuoli
 Pozzuolo del Friuli
 Pozzuolo Martesana
+Pra'
 Prabumulih
 Prabuty
 Prace
@@ -89312,6 +89334,7 @@ Pražmo
 Prażmów
 Práznovce
 Prazzo
+Prè
 Pré-Saint-Didier
 Preah Sihanouk Province
 Preah Vihear Province
@@ -90953,6 +90976,7 @@ Quartiere 5
 Quarto
 Quarto Centenário
 Quarto d'Altino
+Quarto dei Mille
 Quartu Sant'Elena
 Quartucciu
 Quartzsite
@@ -91251,6 +91275,7 @@ Quintiães e Aguiar
 Quintigny
 Quintin
 Quinto
+Quinto al Mare
 Quinto Circle
 Quinto di Treviso
 Quinto Vercellese
@@ -94154,6 +94179,7 @@ Rivalta di Torino
 Rivamonte Agordino
 Rivanazzano Terme
 Rivara
+Rivarolo
 Rivarolo Canavese
 Rivarolo del Re ed Uniti
 Rivarolo Mantovano
@@ -99152,6 +99178,7 @@ Samper de Calanda
 Samper del Salz
 Sampeyre
 Samphelling
+Sampierdarena
 Sampigny
 Sampigny-lès-Maranges
 Sampil
@@ -100085,6 +100112,7 @@ San Prisco
 San Procopio
 San Prospero
 San Quintin
+San Quirico
 San Quirico d'Orcia
 San Quirino
 San Rafael
@@ -104974,6 +105002,7 @@ Sesto San Giovanni
 Šeštokai
 Sestola
 Sestri Levante
+Sestri Ponente
 Sestrica
 Sestriere
 Sestroretsk
@@ -108465,6 +108494,7 @@ Soyopa
 Soyotskoye
 Soyuz Chetyryokh Khutorov
 Sozak District
+Soziglia
 Sozonivka
 Sozonovo
 Sozopol
@@ -109056,6 +109086,7 @@ Staffordshire
 Staffordshire Moorlands
 Staffort
 Stafstedt
+Staglieno
 Stagno Lombardo
 Šťáhlavy
 Stahlberg
@@ -110276,6 +110307,7 @@ Strunkovice nad Blanicí
 Strunkovice nad Volyňkou
 Strupčice
 Strupnenskoye
+Struppa
 Struppen
 Strusiv
 Struth
@@ -124221,6 +124253,7 @@ Voltago Agordino
 Volterra
 Voltido
 Voltlage
+Voltri
 Volturara Appula
 Volturara Irpina
 Volturino
