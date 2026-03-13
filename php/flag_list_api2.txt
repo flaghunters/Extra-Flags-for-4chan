@@ -767,6 +767,7 @@ Affoltern
 Affoltern am Albis
 Affoltern District
 Affoltern im Emmental
+Affori
 Affracourt
 Affringues
 Afiesl
@@ -7572,6 +7573,7 @@ Bagerovo
 Bagert
 Bages
 Baggao
+Baggio
 Baghdad
 Baghdad Governorate
 Baghdati Municipality
@@ -16166,6 +16168,7 @@ Bruzella
 Bruzolo
 Bruzovice
 Bruzual Municipality
+Bruzzano
 Bruzzano Zeffirio
 Břvany
 Brvenica
@@ -23175,6 +23178,7 @@ Chiaramonti
 Chiarano
 Chiaravalle
 Chiaravalle Centrale
+Chiaravalle Milanese
 Chiari
 Chiaromonte
 Chiasso
@@ -25769,6 +25773,30 @@ Continvoir
 Contone
 Contra Costa County
 Contrada
+Contrada degli Andegari
+Contrada dei Fiori
+Contrada dei Morigi
+Contrada dei Rostri
+Contrada del Brolo
+Contrada del Campo
+Contrada del Falcone
+Contrada del Fieno
+Contrada del Nirone
+Contrada del Rovello
+Contrada del Torchio
+Contrada del Verzaro
+Contrada dell'Agnello
+Contrada dell'Orso
+Contrada della Cerva
+Contrada della Lupa
+Contrada della Mazza
+Contrada della Piscina
+Contrada della Porta
+Contrada della Spiga
+Contrada della Vetra
+Contrada delle Capre
+Contrada delle Cornacchie
+Contrada di Bagutta
 Contralmirante Cordero
 Contralmirante Villar Province
 Contramaestre
@@ -29053,6 +29081,7 @@ Derevach
 Dereviana
 Derevok
 Dergachevsky District
+Dergano
 Dergneau
 Derhachi Hromada
 DeRidder
@@ -41084,6 +41113,7 @@ Gorkovsky District
 Görkwitz
 Gorla Maggiore
 Gorla Minore
+Gorla-Precotto
 Gorlago
 Gorle
 Gorleben
@@ -41904,6 +41934,7 @@ Greccio
 Grecești
 Greci
 Grecia
+Greco
 Greding
 Greece
 Greeley County
@@ -59465,6 +59496,7 @@ Lambesc
 Lambeth
 Łambinowice
 Lamboing
+Lambrate
 Lambrecht (Pfalz)
 Lambrechten
 Lambrechtshagen
@@ -74704,6 +74736,7 @@ Muskogee County
 Muskoka District
 Muslu
 Muslyumovsky District
+Musocco
 Mušov
 Mussel
 Musselshell County
@@ -77392,6 +77425,7 @@ Niger State
 Nightcaps
 Nigrán
 Nigtevecht
+Niguarda
 Nigüelas
 Nigüella
 Niharra
@@ -77735,6 +77769,12 @@ Noardeast-Fryslân
 Noasca
 Nöbdenitz
 Nobeoka
+Nobile Contrada dei Bossi
+Nobile Contrada del Cordusio
+Nobile Contrada della Cicogna
+Nobile Contrada della Rosa
+Nobile Contrada delle Farine
+Nobile Contrada di Sant'Ambrogio
 Nobitz
 Noble County
 Noble-Contrée
@@ -104991,6 +105031,12 @@ Sesta Godano
 Šestajovice
 Šestanovac
 Sestao
+Sestiere di Porta Comasina
+Sestiere di Porta Nuova
+Sestiere di Porta Orientale
+Sestiere di Porta Romana
+Sestiere di Porta Ticinese
+Sestiere di Porta Vercellina
 Sestino
 Sesto
 Sesto al Reghena
