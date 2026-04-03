@@ -202,13 +202,17 @@ Abbott Township
 Abbottstown
 Abcoude
 Abda
+Abdally
 Abdeen
 Abdera
 Abdiaziz District
+Abdily - Sekherbriyat
 Abdipaşa
 Abdon Batista
 Abdulino
 Abdulinsky District
+Abdullah Al-Salem
+Abdullah Mubarak Al-Sabah
 Abedim
 Abegondo
 Abeilhan
@@ -356,13 +360,18 @@ Abu Dhabi District
 Abu Dhabi Emirate
 Abu El Matamir
 Abu El Numrus
+Abu Fatira
 Abu Ghosh
+Abu Halifa
 Abu Hamam
 Abu Hammad
+Abu Hasaniya
 Abu Hummus
 Abu Kamal District
 Abu Kamal Subdistrict
 Abu Kebir
+Abu Khurjeen - Al Subayhiyah
+Abu Khurjeen - Al Subayhiyah Industrial
 Abu Qilqil Subdistrict
 Abu Qirqas
 Abu Redis
@@ -576,6 +585,7 @@ Adado District
 Adães
 Adagum
 Adahuesca
+Adailiya
 Adaincourt
 Adainville
 Adair County
@@ -1521,9 +1531,10 @@ Akyurt District
 Akzhaik District
 Akzhar District
 Ål
+Al Abaireq - Al Anaem - Al Laiyah
+Al Abdiliya
 Al Anbar Governorate
 Al Arab
-Al Asimah Governorate
 Al Awir
 Al Bataeh
 Al Batinah North Governorate
@@ -1534,6 +1545,7 @@ Al Daayen Municipality
 Al Dawahi
 Al Dhafra Region
 Al Dhaid
+Al Dubdiba - Al Mityahah
 Al Galala City
 Al Ghail
 Al Hamriyah
@@ -1553,21 +1565,31 @@ Al Mahwit
 Al Manakh
 Al Manama
 Al Manasra
+Al Masayel
+Al Metlaa - Jal Al Atraf
+Al Metlaa New
+Al Nuwaiseeb Chalets
+Al Nuzha
 Al Qadarif State
 Al Qudra
 Al Rams
 Al Rayyan Municipality
 Al Rehab
+Al Retqah - Al Heraigah
 Al Riffa
+Al Salmy
 Al Sarw
 Al Shamal Municipality
 Al Sharq
 Al Shawashna
 Al Sheehaniya Municipality
+Al Shejaya
+Al Sour Gardens
 Al Tafreah East - Mubarak
 Al Wakrah Municipality
 Al Wusta Governorate
 Al Zohur
+Al-Adan
 Al-Ain
 Al-Ain Region
 Al-Annazah Subdistrict
@@ -1591,6 +1613,8 @@ Al-Darbasiyah Subdistrict
 Al-Dimas Subdistrict
 Al-Dumayr Subdistrict
 Al-Fakhurah Subdistrict
+Al-Fintas
+Al-Funaitees
 Al-Ghariyah Subdistrict
 Al-Ghizlaniyah Subdistrict
 Al-Ghurra
@@ -1621,6 +1645,7 @@ Al-Kasom
 Al-Kasrah Subdistrict
 Al-Khafsah Subdistrict
 Al-Khalifa
+Al-Khiran Beach
 Al-Khums
 Al-Kiswah Subdistrict
 Al-Majd
@@ -1641,6 +1666,7 @@ Al-Mushannaf Subdistrict
 Al-Muski
 Al-Nashabiyah Subdistrict
 Al-Nasirah Subdistrict
+Al-Nuwaiseeb
 Al-Qaboun
 Al-Qabu Subdistrict
 Al-Qadam
@@ -3622,6 +3648,7 @@ Amfreville-la-Mi-Voie
 Amfreville-les-Champs
 Amfroipret
 Amga
+Amghara Industrial
 Amgino-Nakharinsky
 Amginsky District
 Amhara Region
@@ -3851,6 +3878,7 @@ Andali
 Andalo
 Andalo Valtellino
 Andalucía
+Andalus
 Andalusia
 Andaluz
 Andalyp District
@@ -4151,6 +4179,7 @@ Anitápolis
 Aniva
 Anivsky District
 Anizy-le-Château
+Anjafa
 Anjeux
 Anjo
 Anjos
@@ -4627,6 +4656,7 @@ Aquino
 Aquiraz
 Aquismón
 Aquitania
+Ar Ruhayya - Um Tawaynij
 Ar-Ruhaybah Subdistrict
 Ar'ara
 Ar'arat an-Naqab
@@ -5004,6 +5034,9 @@ Ardes
 Ardeşen District
 Ardesio
 Ardez
+Ardhiya
+Ardhiya 4
+Ardhiya 6
 Ardin
 Ardino
 Ardisa
@@ -5795,11 +5828,13 @@ As Nogais
 As Pontes de García Rodríguez
 As Samu
 As Somozas
+As Syer - Um Al Medfaa
 As-Klakring
 As-Safira District
 As-Safira Subdistrict
 As-Salihiya
 As-Sawra as-Saghira Subdistrict
+As'siddīq
 Asagiri
 Asago
 Asahan Regency
@@ -6469,6 +6504,7 @@ Augustów
 Augustów (rural gmina)
 Augustów County
 Augustusburg
+Auha Island
 Auhagen
 Auhausen
 Aujac
@@ -6990,6 +7026,7 @@ Ayutuxtepeque
 Ayvacık District
 Ayvalık District
 Aywaille
+Az Zour - Sulah
 Azacualpa
 Azad Kashmir
 Azagra
@@ -9875,6 +9912,7 @@ Bedford County
 Bedford Township
 Bedfordshire
 Bedheim
+Bedi
 Bedia
 Bedigliora
 Bedihošť
@@ -11740,6 +11778,7 @@ Bezvodovka
 Bezymyanka
 Bezymyanny
 Bezzecca
+Bhaith
 Bhavnagar
 Bhopal
 Bhubaneswar
@@ -12875,6 +12914,8 @@ Blythe
 Blythe Township
 Blythewood
 Blyzniuky Hromada
+Bnaid Al Qar
+Bneder Beach
 Bnei Ayish
 Bnei Brak
 Bnei Shimon
@@ -16279,6 +16320,7 @@ Bubiai
 Bubierca
 Bubikon
 Bubión
+Bubiyan Island
 Bublava
 Bubnivka
 Bubnivska Slobidka
@@ -16880,6 +16922,7 @@ Bürg-Vöstenhof
 Burga
 Burgães
 Burgalays
+Burgan Oil Field
 Burganes de Valverde
 Burgas
 Burgas Province
@@ -18386,6 +18429,7 @@ Camors
 Camós
 Camotán
 Čamovce
+Camp Arifjan
 Camp County
 Camp Hill
 Camp Verde
@@ -28061,6 +28105,7 @@ Dagua
 Daguioman
 Dagupan
 Dahab
+Dahar
 Dahlem
 Dahlen
 Dahlenburg
@@ -28101,8 +28146,10 @@ Daisytown
 Daiting
 Daito
 Daix
+Daiya
 Dajabón
 Dajabón Province
+Dajeej
 Đắk Lắk Province
 Đắk Nông Province
 Dáka
@@ -28508,6 +28555,8 @@ Dashukivka
 Dašice
 Dasing
 Daskabát
+Dasma
+Dasman
 Dasmariñas
 Dasnice
 Dasný
@@ -28637,6 +28686,7 @@ Dayville
 Dazaifu
 Dazio
 Dazkırı District
+Dba'ayeh Beach
 De Baarsjes
 De Baca County
 De Bilt
@@ -30135,7 +30185,10 @@ Dognecea
 Dogneville
 Doğrugöz
 Doğubayazıt District
+Doha
+Doha Chalets
 Doha Municipality
+Doha Port
 Dohalice
 Dohem
 Döhlau
@@ -31948,6 +32001,7 @@ Earnewâld
 Earnscleugh
 Easley
 East Aceh Regency
+East Ahmadi
 East Allen Township
 East Amwell Township
 East Arcadia
@@ -32081,6 +32135,7 @@ East Rockhill Township
 East Rutherford
 East Sepik Province
 East Seram Regency
+East Shuaiba Industrial
 East Side
 East Spencer
 East St Paul Rural Municipality
@@ -34028,6 +34083,7 @@ Eptingen
 Épuisay
 Epureni
 Epuyén
+Eqaila
 Equador
 Équemauville
 Équennes-Éramecourt
@@ -35289,6 +35345,8 @@ Fagnières
 Fago
 Fagundes
 Fagundes Varela
+Fahad Al-Ahmad
+Fahaheel
 Fahrdorf
 Fahren
 Fahrenbach
@@ -35310,8 +35368,10 @@ Faid
 Faido
 Faido Circle
 Faiedh Bennour
+Faiha
 Fail
 Fail e Vila Chã de Sá
+Failaka Island
 Faílde
 Failly
 Faimes
@@ -35596,6 +35656,7 @@ Farum
 Farvagny-le-Grand
 Farvagny-le-Petit
 Farven
+Farwaniya
 Farwaniya Governorate
 Fasano
 Fascia
@@ -36363,6 +36424,7 @@ Fiq District
 Fiq Subdistrict
 Firavitoba
 Firdavsi District
+Firdous
 Fire Island Pines
 Firebaugh
 Firenze
@@ -37112,6 +37174,7 @@ Foros
 Foros de Arrão
 Foros de Salvaterra
 Foros de Vale de Figueiro
+Forosyia
 Forotic
 Forpost-Kargat
 Forquetinha
@@ -37642,6 +37705,7 @@ Fredonia
 Fredrikstad
 Fredropol
 Free State
+Free Zone - Phase 2
 Freeborn County
 Freeburg
 Freedom
@@ -39089,6 +39153,7 @@ Gartow
 Gartow (gemeindefreies Gebiet)
 Gärtringen
 Gartz (Oder)
+Garuh Island
 Garuhapé
 Garupá
 Garut Regency
@@ -43768,6 +43833,7 @@ Hadiach Hromada
 Hadidah Subdistrict
 Hadigny-les-Verrières
 Hadim District
+Hadiya
 Hadjadj
 Hadjeb
 Hadji Mohammad Ajul
@@ -44942,6 +45008,7 @@ Hawaii
 Hawaii County
 Hawaiian Gardens
 Hawalli Governorate
+Hawally
 Hawangen
 Hawar Islands
 Hawera
@@ -45506,6 +45573,7 @@ Hephzibah
 Heppenheim
 Heppner
 Hepstedt
+Herafi Ardiya
 Herálec
 Heraltice
 Hérange
@@ -46352,6 +46420,7 @@ Hitrino
 Hitsum
 Hittbergen
 Hitte
+Hitteen
 Hittfeld
 Hittisau
 Hittnau
@@ -49267,6 +49336,7 @@ Intendente Alvear
 Interlachen
 Interlaken
 Interlaken-Oberhasli District
+International Airport
 International Airspace
 International Seabed Surface
 International Seabed Underground
@@ -49593,6 +49663,7 @@ Isezaki
 Isfahan
 Isfara District
 Isfiya
+Ishbiliya
 Isheyevka
 Ishigaki
 Ishii
@@ -50308,6 +50379,8 @@ Jabbeke
 Jabbor Rasulov District
 Jabeek
 Jabel
+Jaber Al-Ahmad
+Jaber Al-Ali
 Jaberg
 Jabing
 Jabkenice
@@ -50347,6 +50420,7 @@ Jaboticaba
 Jaboticabal
 Jaboticatubas
 Jabrayil District
+Jabriya
 Jabugo
 Jaca
 Jacala de Ledezma
@@ -50436,7 +50510,11 @@ Jahnatal
 Jahnsdorf ̸ Erzgebirge
 Jahodná
 Jahodov
+Jahra
+Jahra Camps
 Jahra Governorate
+Jahra Industrial Crafts
+Jahra Rural Areas
 Jahrsdorf
 Jaíba
 Jaicós
@@ -50487,6 +50565,7 @@ Jalance
 Jalapa
 Jalapa Department
 Jalaquduq District
+Jaleeb Al Shoyoukh
 Jales
 Jalhay
 Jaligny-sur-Besbre
@@ -50588,6 +50667,7 @@ Jankovice
 Jannaale District
 Janneby
 Janneyrias
+Janobyia Aljawakheer
 Janos
 Jánoshalma
 Jánoshalma District
@@ -50851,6 +50931,7 @@ Javůrek
 Jawa Barat
 Jawa Tengah
 Jawa Timur
+Jawakher Al Jahra
 Jawbat Burghal Subdistrict
 Jawor
 Jawor County
@@ -51276,6 +51357,7 @@ Jizbice
 Jizerní Vtelno
 Jizzakh
 Jizzakh Region
+Jlea'a Beach
 Jo Daviess County
 Joaçaba
 Joachimsthal
@@ -51850,6 +51932,8 @@ Kabasalan
 Kabataş District
 Kabatnia
 Kabayan
+Kabd
+Kabd - Shiqq - Dabah
 Kabelhorst
 Kabelsketal
 Kaberamaido District
@@ -51980,6 +52064,7 @@ Kai Gharib
 Kaiapoi
 Kaibing
 Kaidanovo
+Kaifan
 Kaifeng
 Kaifenheim
 Kaikohe
@@ -53259,6 +53344,8 @@ Kazbegi Municipality
 Kazbekovsky District
 Kazhan-Haradok
 Kazhi
+Kazima
+Kazima Beach
 Kazimierz Biskupi
 Kazimierz Dolny
 Kazimierza County
@@ -53763,11 +53850,13 @@ Khadyzhensk
 Khagynsky
 Khâi-Ma
 Khairyuzovka
+Khaitan
 Khakassia
 Khakurinokhabl
 Khalarchinsky
 Khalbakinsky
 Khalcha
+Khaldiya
 Khalepia
 Khalidia
 Khaling
@@ -53854,6 +53943,7 @@ Khiloksky District
 Khimki
 Khinalug
 Khipisa
+Khiran City
 Khirbet al-Maazah Subdistrict
 Khirbet Ghazaleh Subdistrict
 Khirbet Tin Nur Subdistrict
@@ -57123,6 +57213,7 @@ Kubáňovo
 Kubanskaya
 Kubanskaya Step
 Kubansky
+Kubbar Island
 Kubei Hromada
 Kübekháza
 Kubinka
@@ -57642,6 +57733,7 @@ Kuvandyksky District
 Kuvechychi
 Kuvshinovsky District
 Kuvshinskaya Salma
+Kuwait University - Shaddadiya Campus
 Kuwana
 Kuweires Sharqi Subdistrict
 Kuybyshev
@@ -66043,6 +66135,7 @@ Mahaska County
 Mahatao
 Mahates
 Mahayag
+Mahboula
 Mahdalynivka Hromada
 Mahdia
 Mahdia Governorate
@@ -67001,6 +67094,7 @@ Manfredi
 Manfredonia
 Manfrinópolis
 Manga
+Mangaf
 Mangaia
 Mangakino
 Mangaldan
@@ -67182,6 +67276,7 @@ Mansoura
 Mansoura (rural)
 Mansoura 1
 Mansoura 2
+Mansouriya
 Manspach
 Mansuè
 Manta
@@ -68317,6 +68412,7 @@ Masahuat
 Masainas
 Masaka District
 Masaki
+Masalli
 Masally District
 Masandra
 Masantol
@@ -70987,6 +71083,9 @@ Mimoň
 Mimoso de Goiás
 Mimoso do Sul
 Mina
+Mina Abdulla
+Mina Abdullah Beach
+Mina Abdullah Refinery
 Mina Clavero
 Mina de Água
 Mina El Basal
@@ -71103,6 +71202,7 @@ Minidoka County
 Minihof-Liebau
 Mining
 Minisink
+Ministries Area
 Ministro Andreazza
 Minitonas
 Miniyeh-Danniyeh
@@ -71304,6 +71404,7 @@ Mírová pod Kozákovem
 Mirovice
 Mirow
 Mirów
+Mirqab
 Mirșid
 Mirsk
 Mirskoy
@@ -71333,6 +71434,7 @@ Misato (town)
 Misawa
 Misburg
 Mișca
+Mischan Island
 Mischendorf
 Mischii
 Miscouche
@@ -71351,6 +71453,7 @@ Mishkino
 Mishkinskaya
 Mishkinsky District
 Mishkovo-Pohorilove Hromada
+Mishref
 Mishukovo
 Misiliscemi
 Misilmeri
@@ -74295,7 +74398,10 @@ Muar
 Muara Enim Regency
 Muaro Jambi Regency
 Mubaarak District
-Mubarak Al-Kabeer Governorate
+Mubarak Al-Abdullah
+Mubarak Al-Kabir
+Mubarak Al-Kabir Governorate
+Mubarkiya Camps
 Muborak
 Muborak District
 Muć
@@ -75100,6 +75206,7 @@ Naarn im Machlande
 Naas
 Naassen
 Naawan
+Naayem
 Nabalawag
 Nabari
 Nabarniz
@@ -75184,6 +75291,7 @@ Nadvoitsy
 Nadym
 Nadymsky District
 Nadyozhnaya
+Naeem
 Năeni
 Nærøy
 Nærøysund
@@ -75368,6 +75476,7 @@ Nahant
 Nahari
 Nahariyya
 Naharros
+Nahda
 Nahe
 Nahetal-Waldau
 Nahf
@@ -75759,6 +75868,7 @@ Nassau (town)
 Nassau (village)
 Nassau County
 Nassawadox
+Nasseem
 Nassenfels
 Nasser
 Nassereith
@@ -78506,6 +78616,7 @@ Northern District
 Northern Governorate
 Northern Grampians
 Northern Ireland
+Northern Island
 Northern Islands
 Northern Kabuntalan
 Northern Lights County
@@ -78533,6 +78644,8 @@ Northvale
 Northville
 Northwest
 Northwest Arctic Borough
+Northwest Jahra
+Northwest Sulaibikhat
 Northwest Territories
 Northwich
 Northwood
@@ -81315,6 +81428,7 @@ Omaheke Region
 Omakau
 Omar
 Omarama
+Omariya
 Omaruru
 Omastiná
 Omasuyos Province
@@ -83067,6 +83181,7 @@ Oyodo
 Oyok
 Oyón-Oion
 Oyonnax
+Oyoun
 Oysonville
 Oyster Bay
 Oyster Bay Cove
@@ -83288,6 +83403,7 @@ Paese
 Paete
 Páez
 Páez Municipality
+PAFER - Farms
 Pag
 Pagadian
 Pagalungan
@@ -91057,7 +91173,9 @@ Qaanaaq
 Qabala District
 Qabasin
 Qabtan
+Qadsiya
 Qaha
+Qairawan
 Qakh District
 Qala
 Qalaat al-Madiq Subdistrict
@@ -91076,6 +91194,7 @@ Qandala District
 Qanlikol District
 Qaqortoq
 Qara Subdistrict
+Qaradan - Al Hafirah - Al Fawwar
 Qaraozek District
 Qardaha District
 Qardaha Subdistrict
@@ -91085,6 +91204,7 @@ Qarshi District
 Qasahdhere District
 Qashqardaryo Region
 Qasigiannguit
+Qasr
 Qasr al-Nil
 Qastal Ma'af Subdistrict
 Qatana District
@@ -91098,6 +91218,7 @@ Qena Governorate
 Qeqertalik
 Qeqertarsuaq
 Qeqqata
+Qibla
 Qibray District
 Qift
 Qikiqtaaluk Region
@@ -91113,6 +91234,7 @@ Qorgontepa District
 Qoriyoley District
 Qormi
 Qorovulbozor District
+Qortuba
 Qoshkopir District
 Qoshrabot District
 Qoshtepa District
@@ -91519,17 +91641,20 @@ Quixadá
 Quixelô
 Quixeramobim
 Quixeré
+Qulmat Shayea-Al Manaqeesh
 Qumqorgon District
 Quneitra District
 Quneitra Governorate
 Quneitra Subdistrict
 Quœux-Haut-Maînil
 Quoque
+Qurain
 Qurna
 Qurqania Subdistrict
 Qus
 Qusar
 Qusar District
+Qusour
 Quva District
 Quvasoy
 Quyichirchiq District
@@ -91605,6 +91730,7 @@ Rabia Subdistrict
 Rabinal
 Rąbino
 Rabititsy
+Rabiya
 Rabka-Zdrój
 Räbke
 Rabo de Peixe
@@ -92552,6 +92678,8 @@ Rawa County
 Rawa Mazowiecka
 Rawa Mazowiecka (rural gmina)
 Rawalpindi
+Rawda
+Rawdatain
 Rawicz
 Rawicz County
 Rawlins County
@@ -93966,6 +94094,7 @@ Rīga
 Rigács
 Rigas Feraios
 Rigaud
+Riggai
 Riggisberg
 Rignac
 Rignano Flaminio
@@ -93977,6 +94106,7 @@ Rigny-la-Salle
 Rigolato
 Rigolet
 Rigyác
+Rihab
 Riihimäki
 Rijeka
 Rijkevorsel
@@ -94302,6 +94432,7 @@ Ripon
 Riposto
 Rippershausen
 Ripton
+Riqqa
 Riquewihr
 Riqueza
 Ris
@@ -96149,6 +96280,7 @@ Rülzheim
 Rum
 Rum Cay
 Ruma
+Rumaithiya
 Rumana
 Rumanová
 Rumaucourt
@@ -96536,6 +96668,7 @@ Sa Pobla
 Sa'dah
 Sa'sa' Subdistrict
 Saâcy-sur-Marne
+Saad Al-Abdulla
 Saal
 Saal an der Donau
 Saal an der Saale
@@ -96584,6 +96717,11 @@ Sabadell
 Sabadim
 Sabae
 Sabah
+Sabah Al Ahmad Sea City - Loloat Al-Khiran
+Sabah Al Salem
+Sabah Al-Ahmad
+Sabah Al-Nasser
+Sabahiya
 Sabalos
 Sabana de la Mar
 Sabana de Torres
@@ -96648,6 +96786,7 @@ Sabratha
 Sabrosa
 Sabrosa Municipality
 Sabroso de Aguiar
+Sabryia
 Sabtang
 Sabu Raijua Regency
 Sabugal
@@ -98894,6 +99033,7 @@ Salairka
 Salaise-sur-Sanne
 Sălaj County
 Salakas
+Salam
 Salam Masr City
 Salamá
 Salamanca
@@ -99114,6 +99254,8 @@ Salmendingen
 Salmerón
 Salmeroncillos
 Salmi
+Salmi West
+Salmiya
 Salmo
 Salmon
 Salmon Arm
@@ -99239,6 +99381,7 @@ Salviac
 Salvirola
 Salvitelle
 Salvizinet
+Salwa
 Sály
 Salyan
 Salyan District
@@ -105390,6 +105533,7 @@ Sgurgola
 Sha Tin District
 Sha'ab
 Sha'am
+Shaab
 Shaanxi
 Shabalinsky District
 Shabanovskoye
@@ -105403,6 +105547,8 @@ Shabran District
 Shabur
 Shabwah
 Shackelford County
+Shadadiya
+Shadadiya Industrial
 Shade Gap
 Shade Township
 Shadrinsk
@@ -105412,6 +105558,7 @@ Shady Dale
 Shafter
 Shaftsbury
 Shagalka
+Shagaya Project
 Shagonar
 Shah Alam
 Shahba District
@@ -105461,6 +105608,7 @@ Shamakhi
 Shamakhi District
 Shamilsky District
 Shamiram Municipality
+Shamiya
 Shamkir
 Shamkir District
 Shamlugh
@@ -105520,6 +105668,7 @@ Sharoysky District
 Sharp County
 Sharpsburg
 Sharpsville
+Sharq
 Sharqia Governorate
 Sharran Subdistrict
 Sharur District
@@ -105919,6 +106068,8 @@ Shropshire (district)
 Shtanashi
 Shtun
 Shu District
+Shuaiba
+Shuaiba Industrial Western
 Shuakhevi Municipality
 Shuberskoye
 Shubivka
@@ -105928,6 +106079,7 @@ Shubra El Kheima 2
 Shubrakhit
 Shughnon District
 Shugozero
+Shuhada
 Shulbi
 Shulhivka
 Shulhynka Hromada
@@ -105957,6 +106109,13 @@ Shushenskoye
 Shushensky District
 Shutesbury
 Shuvalovo-Ozerki
+Shuwaikh
+Shuwaikh Educational
+Shuwaikh Industrial 1
+Shuwaikh Industrial 2
+Shuwaikh Industrial 3
+Shuwaikh Medical
+Shuwaikh Port
 Shuya
 Shuysky District
 Shuyukh Tahtani Subdistrict
@@ -106299,6 +106458,7 @@ Siklós
 Siklós District
 Siklósbodony
 Siklósnagyfalu
+Sikrab
 Sikyonia
 Sil
 Siladice
@@ -108436,9 +108596,11 @@ Soutelo de Aguiar
 Soutelo do Douro
 Soutelo e Seara Velha
 Soutelo Mourisco
+South Abdullah Al-Mubarak
 South Abington Township
 South Aceh Regency
 South Amboy
+South Amgara
 South Annville Township
 South Australia
 South Bangka Regency
@@ -108489,6 +108651,7 @@ South East
 South East District
 South East Queensland
 South El Monte
+South ElJelleb - Ash Shadadiay
 South Fairmount
 South Fayette Township
 South Floral Park
@@ -108520,6 +108683,7 @@ South Hulu Sungai Regency
 South Huntingdon Township
 South Hwanghae Province
 South Kesteven
+South Khaitan
 South Kingstown
 South Konawe Regency
 South Kordofan State
@@ -108557,6 +108721,9 @@ South Qu'Appelle
 South Renovo
 South Ribble
 South River
+South Saad Al-Abdullah
+South Sabah Al-Ahmad
+South Sabahiya
 South San Francisco
 South Sandwich Islands
 South Shenango Township
@@ -108619,6 +108786,7 @@ Southern Grampians
 Southern Harbour
 Southern Highlands and Tablelands
 Southern Highlands Province
+Southern Industrial Island
 Southern Leyte Province
 Southern Line Islands Marine Protected Area
 Southern Mallee
@@ -110676,11 +110844,14 @@ Subdivision W
 Subdivision X
 Subdivision Y
 Suben
+Subhan Industrial
 Subiaco
 Subic
 Subingen
 Subirats
 Šubířov
+Subiya
+Subiya Beach
 Subiza
 Subkowy
 Sublaines
@@ -110871,6 +111042,7 @@ Sugpon
 Suguty
 Suhaia
 Suharău
+Suhayed Al Awazim - Airport
 Suhescun
 Suhindol
 Suhl
@@ -110937,6 +111109,13 @@ Sul de Pinhel
 Sula
 Šuľa
 Sula Islands Regency
+Sulaibikhat
+Sulaibikhat Cemetery
+Sulaibiya Agricultural
+Sulaibiya Industrial 1
+Sulaibiya Industrial 2
+Sulaibiya Industrial 3
+Sulaibiya Residential
 Sulakyurt District
 Sulat
 Sulawesi Barat
@@ -111269,6 +111448,7 @@ Surovikinsky District
 Surpierre
 Surprise
 Surprise Valley
+Surra
 Surrency
 Surrey
 Surrey Heath
@@ -112267,6 +112447,7 @@ Taillebourg
 Taillecourt
 Taillette
 Tailly
+Taima
 Tain-l'Hermitage
 Tainai
 Tainan City
@@ -118203,6 +118384,8 @@ Ulysses
 Ulysses Township
 Ulytau District
 Ulytau Region
+Um Hegoul
+Um Qudeer
 Umag
 Umaji
 Umán
@@ -118242,6 +118425,9 @@ uMkhanyakude
 Umkirch
 Umlalazi
 Umling
+Umm Al Hayman
+Umm al Maradim Island
+Umm Al-Aish
 Umm al-Fahm
 Umm Al-Quwain
 Umm Al-Quwain Emirate
@@ -125168,6 +125354,8 @@ Wadowice Górne
 Wądroże Wielkie
 Wadway
 Waffenbrunn
+Wafra Farms
+Wafra Residential
 Wagait
 Waganiec
 Wagener
@@ -125622,6 +125810,7 @@ War
 Warabi
 Warangal
 Waratah Wynyard
+Warbah Island
 Warberg
 Warbsen
 Warburg
@@ -126361,6 +126550,7 @@ Weßling
 Wessobrunn
 Wessum
 West Abington Township
+West Abu Ftirah Hirafyia
 West Aceh Regency
 West Almond
 West Amwell Township
@@ -126489,6 +126679,7 @@ West Nias Regency
 West Norriton Township
 West Northamptonshire
 West Nottingham Township
+West of Abdullah Al Mubarak Al Sabah
 West Orange Township
 West Oxfordshire
 West Palm Beach
@@ -127413,6 +127604,7 @@ Wissen
 Wissenkerke
 Wißmannsdorf
 Wissous
+Wista
 Wistedt
 Wisznia Mała
 Wisznice
@@ -128220,6 +128412,7 @@ Yarkovsky District
 Yarkoye
 Yarkoye Pole
 Yarmolyntsi Hromada
+Yarmouk
 Yarmouth
 Yarmouth District
 Yarok
@@ -128995,6 +129188,7 @@ Zahoroshcha
 Záhorovice
 Záhorská Bystrica
 Záhorská Ves
+Zahra
 Zahrádka
 Zahrádky
 Záhradné
@@ -130328,6 +130522,7 @@ Zonnebeke
 Zonnegem
 Zonnemaire
 Zons
+Zoor Beach
 Zoppè di Cadore
 Zoppola
 Żórawina
@@ -130629,3 +130824,4 @@ Zyulzya
 Zyuzino District
 Żywiec
 Żywiec County
+جزيرة أم النمل
