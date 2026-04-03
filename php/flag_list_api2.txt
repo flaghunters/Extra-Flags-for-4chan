@@ -206,7 +206,7 @@ Abdally
 Abdeen
 Abdera
 Abdiaziz District
-Abdily - Sekherbriyat
+Abdily-Sekherbriyat
 Abdipaşa
 Abdon Batista
 Abdulino
@@ -370,8 +370,8 @@ Abu Hummus
 Abu Kamal District
 Abu Kamal Subdistrict
 Abu Kebir
-Abu Khurjeen - Al Subayhiyah
-Abu Khurjeen - Al Subayhiyah Industrial
+Abu Khurjeen-Al Subayhiyah
+Abu Khurjeen-Al Subayhiyah Industrial
 Abu Qilqil Subdistrict
 Abu Qirqas
 Abu Redis
@@ -1531,7 +1531,7 @@ Akyurt District
 Akzhaik District
 Akzhar District
 Ål
-Al Abaireq - Al Anaem - Al Laiyah
+Al Abaireq-Al Anaem-Al Laiyah
 Al Abdiliya
 Al Anbar Governorate
 Al Arab
@@ -1545,7 +1545,7 @@ Al Daayen Municipality
 Al Dawahi
 Al Dhafra Region
 Al Dhaid
-Al Dubdiba - Al Mityahah
+Al Dubdiba-Al Mityahah
 Al Galala City
 Al Ghail
 Al Hamriyah
@@ -1566,8 +1566,8 @@ Al Manakh
 Al Manama
 Al Manasra
 Al Masayel
-Al Metlaa - Jal Al Atraf
 Al Metlaa New
+Al Metlaa-Jal Al Atraf
 Al Nuwaiseeb Chalets
 Al Nuzha
 Al Qadarif State
@@ -1575,7 +1575,7 @@ Al Qudra
 Al Rams
 Al Rayyan Municipality
 Al Rehab
-Al Retqah - Al Heraigah
+Al Retqah-Al Heraigah
 Al Riffa
 Al Salmy
 Al Sarw
@@ -4656,7 +4656,7 @@ Aquino
 Aquiraz
 Aquismón
 Aquitania
-Ar Ruhayya - Um Tawaynij
+Ar Ruhayya-Um Tawaynij
 Ar-Ruhaybah Subdistrict
 Ar'ara
 Ar'arat an-Naqab
@@ -5828,7 +5828,7 @@ As Nogais
 As Pontes de García Rodríguez
 As Samu
 As Somozas
-As Syer - Um Al Medfaa
+As Syer-Um Al Medfaa
 As-Klakring
 As-Safira District
 As-Safira Subdistrict
@@ -7026,7 +7026,7 @@ Ayutuxtepeque
 Ayvacık District
 Ayvalık District
 Aywaille
-Az Zour - Sulah
+Az Zour-Sulah
 Azacualpa
 Azad Kashmir
 Azagra
@@ -37705,7 +37705,7 @@ Fredonia
 Fredrikstad
 Fredropol
 Free State
-Free Zone - Phase 2
+Free Zone-Phase 2
 Freeborn County
 Freeburg
 Freedom
@@ -45007,8 +45007,8 @@ Hawadley District
 Hawaii
 Hawaii County
 Hawaiian Gardens
+Hawalli
 Hawalli Governorate
-Hawally
 Hawangen
 Hawar Islands
 Hawera
@@ -51933,7 +51933,7 @@ Kabataş District
 Kabatnia
 Kabayan
 Kabd
-Kabd - Shiqq - Dabah
+Kabd-Shiqq-Dabah
 Kabelhorst
 Kabelsketal
 Kaberamaido District
@@ -57733,7 +57733,7 @@ Kuvandyksky District
 Kuvechychi
 Kuvshinovsky District
 Kuvshinskaya Salma
-Kuwait University - Shaddadiya Campus
+Kuwait University-Shaddadiya Campus
 Kuwana
 Kuweires Sharqi Subdistrict
 Kuybyshev
@@ -83403,7 +83403,7 @@ Paese
 Paete
 Páez
 Páez Municipality
-PAFER - Farms
+PAFER-Farms
 Pag
 Pagadian
 Pagalungan
@@ -91194,7 +91194,7 @@ Qandala District
 Qanlikol District
 Qaqortoq
 Qara Subdistrict
-Qaradan - Al Hafirah - Al Fawwar
+Qaradan-Al Hafirah-Al Fawwar
 Qaraozek District
 Qardaha District
 Qardaha Subdistrict
@@ -96717,7 +96717,7 @@ Sabadell
 Sabadim
 Sabae
 Sabah
-Sabah Al Ahmad Sea City - Loloat Al-Khiran
+Sabah Al Ahmad Sea City-Loloat Al-Khiran
 Sabah Al Salem
 Sabah Al-Ahmad
 Sabah Al-Nasser
@@ -108651,7 +108651,7 @@ South East
 South East District
 South East Queensland
 South El Monte
-South ElJelleb - Ash Shadadiay
+South ElJelleb-Ash Shadadiay
 South Fairmount
 South Fayette Township
 South Floral Park
@@ -111042,7 +111042,7 @@ Sugpon
 Suguty
 Suhaia
 Suharău
-Suhayed Al Awazim - Airport
+Suhayed Al Awazim-Airport
 Suhescun
 Suhindol
 Suhl
@@ -118427,6 +118427,7 @@ Umlalazi
 Umling
 Umm Al Hayman
 Umm al Maradim Island
+Umm Al Namil Island
 Umm Al-Aish
 Umm al-Fahm
 Umm Al-Quwain
@@ -130824,4 +130825,3 @@ Zyulzya
 Zyuzino District
 Żywiec
 Żywiec County
-جزيرة أم النمل
