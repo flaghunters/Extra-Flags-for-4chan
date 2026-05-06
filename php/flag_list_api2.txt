@@ -3159,7 +3159,7 @@ Altenkunstadt
 Altenmarkt an der Alz
 Altenmarkt an der Triesting
 Altenmarkt bei Fürstenfeld
-Altenmarkt bei Sankt Gallen
+Altenmarkt bei St. Gallen
 Altenmarkt im Pongau
 Altenmedingen
 Altenmoor
@@ -6633,7 +6633,7 @@ Ausserbirrmoos
 Ausserferrera
 Außernzell
 Aussersihl
-Ausservillgraten
+Außervillgraten
 Aussillon
 Ausson
 Aussonne
@@ -14115,7 +14115,6 @@ Borgofranco d'Ivrea
 Borgofranco sul Po
 Borgolavezzaro
 Borgomale
-Borgomanero
 Borgomaro
 Borgomasino
 Borgomezzavalle
@@ -16111,7 +16110,7 @@ Bruchweiler-Bärenbach
 Bruck
 Brück
 Bruck am Ziller
-Bruck an der Grossglocknerstrasse
+Bruck an der Großglocknerstraße
 Bruck an der Leitha
 Bruck an der Leitha District
 Bruck an der Mur
@@ -36704,7 +36703,7 @@ Flexbourg
 Flexeiras
 Fleys
 Flieden
-Fliess
+Fließ
 Fließem
 Flieth-Stegelitz
 Flims
@@ -38499,7 +38498,7 @@ Furudono
 Fusa
 Fusagasugá
 Fuscaldo
-Fusch an der Grossglocknerstrasse
+Fusch an der Großglocknerstraße
 Fuschl am See
 Fuseta
 Fushë Çidhën
@@ -38513,7 +38512,7 @@ Fusine
 Fusio
 Fuso
 Fussa
-Fussach
+Fußach
 Füssen
 Füssenich
 Fussey
@@ -38724,7 +38723,7 @@ Găiseni
 Gaiserwald
 Gaishorn am See
 Gaißach
-Gaissau
+Gaißau
 Gaithersburg
 Gaja-et-Villedieu
 Gajan
@@ -41033,7 +41032,7 @@ Goldbach-Altenbach
 Goldbeck
 Goldberg
 Goldebek
-Goldegg im Pongau
+Goldegg
 Goldelund
 Golden
 Golden Bay
@@ -42379,7 +42378,7 @@ Grièges
 Griegos
 Gries
 Gries am Brenner
-Gries am Sellrain
+Gries im Sellrain
 Gries-San Quirino
 Griesbach-au-Val
 Griesheim
@@ -42632,13 +42631,13 @@ Groß Quenstedt
 Groß Rheide
 Groß Roge
 Groß Rönnau
-Groß Sankt Florian
 Groß Sarau
 Groß Schacksdorf-Simmersdorf
 Groß Schenkenberg
 Groß Schwiesow
 Groß Siemz
 Groß Sisbeck
+Groß St. Florian
 Groß Stieten
 Groß Teetzleben
 Groß Twülpstedt
@@ -42659,7 +42658,7 @@ Grossa
 Grossaffoltern
 Großaitingen
 Großalmerode
-Grossarl
+Großarl
 Großauheim
 Großbardorf
 Großbarkau
@@ -42702,7 +42701,7 @@ Grosseto-Prugna
 Großeutersdorf
 Großfahner
 Großfischlingen
-Grossgmain
+Großgmain
 Großgoltern
 Großgöttfritz
 Großhabersdorf
@@ -48794,6 +48793,7 @@ Igliano
 Igling
 Iglinsky District
 Igloolik
+Igls
 Ignacio Warnes Province
 Ignacio Zaragoza
 Ignalina District Municipality
@@ -49407,7 +49407,7 @@ Innlandet
 Innokentyevka
 Innopolis
 Innsbruck
-Innsbruck District
+Innsbruck-Land District
 Innu Nation
 Ino
 Inocência
@@ -52428,7 +52428,7 @@ Kaloša
 Kaloyanovo
 Káloz
 Kalozhitsy
-Kals am Grossglockner
+Kals am Großglockner
 Kalša
 Kalsdorf bei Graz
 Kalt
@@ -61539,7 +61539,7 @@ Lębork
 Lębork County
 Lebrade
 Lebrija
-Lebring-Sankt Margarethen
+Lebring-St. Margarethen
 Lebu
 Lebução
 Lebução, Fiães e Nozelos
@@ -68186,8 +68186,8 @@ Markt Neuhodis
 Markt Nordheim
 Markt Piesting
 Markt Rettenbach
-Markt Sankt Martin
 Markt Schwaben
+Markt St. Martin
 Markt Taschendorf
 Markt Wald
 Marktbergel
@@ -71774,7 +71774,7 @@ Mittenwald
 Mittenwalde
 Mitterbach am Erlaufsee
 Mitterberg
-Mitterberg-Sankt Martin
+Mitterberg-St. Martin
 Mitterdorf an der Raab
 Mitterdorf im Mürztal
 Mitterfels
@@ -77026,7 +77026,7 @@ Neukirch (bei Königsbrück)
 Neukirchen
 Neukirchen ̸ Erzgebirge
 Neukirchen ̸ Pleiße
-Neukirchen am Grossvenediger
+Neukirchen am Großvenediger
 Neukirchen am Walde
 Neukirchen an der Enknach
 Neukirchen an der Vöckla
@@ -79936,10 +79936,10 @@ Nußbaum
 Nussdorf
 Nußdorf
 Nußdorf am Attersee
-Nussdorf am Haunsberg
+Nußdorf am Haunsberg
 Nußdorf am Inn
 Nußdorf ob der Traisen
-Nussdorf-Debant
+Nußdorf-Debant
 Nusse
 Nusshof
 Nußloch
@@ -89682,7 +89682,7 @@ Praga-Północ
 Praga-Południe
 Pragal
 Pragelato
-Prägraten am Grossvenediger
+Prägraten am Großvenediger
 Pragsdorf
 Praha
 Praha 1
@@ -96709,7 +96709,7 @@ Russ
 Russange
 Russas
 Rußbach
-Russbach am Pass Gschütt
+Rußbach am Paß Gschütt
 Russell
 Russell County
 Russell Gardens
@@ -99669,7 +99669,7 @@ Salzano
 Salzatal
 Salzbergen
 Salzburg
-Salzburg District
+Salzburg-Umgebung District
 Salzedas
 Salzgitter
 Salzgitter-Bad
@@ -101054,116 +101054,28 @@ Sankelmark
 Sankertown
 Sankt Alban
 Sankt Aldegund
-Sankt Andrä am Zicksee
-Sankt Andrä im Lungau
-Sankt Andrä-Höch
 Sankt Andreasberg
-Sankt Anna am Aigen
-Sankt Anna am Lavantegg
 Sankt Annen
-Sankt Anton am Arlberg
-Sankt Anton im Montafon
 Sankt Augustin
-Sankt Barbara im Mürztal
-Sankt Bartholomä
-Sankt Blasen
 Sankt Englmar
-Sankt Gallen
-Sankt Gallenkirch
-Sankt Georgen am Kreischberg
-Sankt Georgen an der Stiefing
-Sankt Georgen bei Salzburg
-Sankt Georgen ob Judenburg
-Sankt Georgen ob Murau
-Sankt Gerold
-Sankt Gilgen
 Sankt Goar
 Sankt Goarshausen
-Sankt Ilgen
 Sankt Ingbert
-Sankt Jakob im Walde
-Sankt Jakob in Defereggen
-Sankt Jakob in Haus
 Sankt Johann
-Sankt Johann am Tauern
-Sankt Johann bei Herberstein
-Sankt Johann im Pongau
-Sankt Johann im Pongau District
-Sankt Johann im Saggautal
-Sankt Johann im Walde
-Sankt Johann in der Haide
-Sankt Johann in Tirol
-Sankt Johann-Köppling
-Sankt Josef (Weststeiermark)
 Sankt Julian
-Sankt Katharein an der Laming
 Sankt Katharinen
 Sankt Katharinen (Landkreis Neuwied)
-Sankt Kathrein am Hauenstein
-Sankt Kathrein am Offenegg
-Sankt Koloman
-Sankt Lambrecht
-Sankt Leonhard im Pitztal
-Sankt Lorenzen am Wechsel
-Sankt Lorenzen bei Knittelfeld
-Sankt Lorenzen bei Scheifling
-Sankt Lorenzen im Mürztal
-Sankt Magdalena am Lemberg
-Sankt Marein bei Graz
-Sankt Marein bei Knittelfeld
-Sankt Marein bei Neumarkt
-Sankt Marein im Mürztal
-Sankt Marein-Feistritz
 Sankt Margarethen
-Sankt Margarethen an der Raab
-Sankt Margarethen bei Knittelfeld
-Sankt Margarethen im Burgenland
-Sankt Margarethen im Lungau
 Sankt Martin
-Sankt Martin am Grimming
-Sankt Martin am Tennengebirge
-Sankt Martin am Wöllmißberg
-Sankt Martin an der Raab
-Sankt Martin bei Lofer
-Sankt Martin im Sulmtal
-Sankt Michael im Burgenland
-Sankt Michael im Lungau
-Sankt Michael in Obersteiermark
 Sankt Michaelisdonn
-Sankt Nikolai im Sausal
-Sankt Nikolai im Sölktal
-Sankt Nikolai ob Draßling
 Sankt Oswald
-Sankt Oswald bei Plankenwarth
-Sankt Oswald ob Eibiswald
-Sankt Oswald-Möderbrugg
 Sankt Oswald-Riedlhütte
-Sankt Peter am Kammersberg
-Sankt Peter am Ottersbach
-Sankt Peter im Sulmtal
-Sankt Peter ob Judenburg
-Sankt Peter-Freienstein
 Sankt Peter-Ording
-Sankt Radegund bei Graz
-Sankt Ruprecht an der Raab
 Sankt Sebastian
-Sankt Sigmund im Sellrain
-Sankt Stefan im Rosental
-Sankt Stefan ob Leoben
-Sankt Stefan ob Stainz
 Sankt Stephan
 Sankt Thomas
-Sankt Ulrich
-Sankt Ulrich am Pillersee
-Sankt Ulrich am Waasen
-Sankt Urban
-Sankt Veit am Vogau
-Sankt Veit im Pongau
-Sankt Veit in Defereggen
-Sankt Veit in der Südsteiermark
 Sankt Wendel
 Sankt Wolfgang
-Sankt Wolfgang-Kienberg
 Şanlıurfa Province
 Sanlúcar de Barrameda
 Sanlúcar de Guadiana
@@ -108026,7 +107938,7 @@ Södermanland County
 Soderstorf
 Södertälje Municipality
 Söding
-Söding-Sankt Johann
+Söding-St. Johann
 Södingberg
 Šodolovci
 Sodražica
@@ -109544,9 +109456,16 @@ St. Albans (city)
 St. Albans (town)
 St. Albert
 St. Andrä
+St. Andrä am Zicksee
+St. Andrä im Lungau
+St. Andrä-Höch
 St. Andrä-Wördern
 St. Andrews
+St. Anna am Aigen
+St. Anna am Lavantegg
+St. Anton am Arlberg
 St. Anton an der Jeßnitz
+St. Anton im Montafon
 St. Antoni
 St. Antönien Ascharina
 St. Antönien Castels
@@ -109554,9 +109473,12 @@ St. Antönien Rüti
 St. Armand
 St. Augustine
 St. Augustine Beach
+St. Barbara im Mürztal
+St. Bartholomä
 St. Bernard Parish
 St. Bernhard
 St. Bernhard-Frauenhofen
+St. Blasen
 St. Blasien
 St. Catharines
 St. Charles
@@ -109581,36 +109503,57 @@ St. Gabriel
 St. Gallen
 St. Gallen District
 St. Gallenkappel
+St. Gallenkirch
 St. Gangloff
 St. George
 St. George's
 St. George's Caye
 St. George's Parish
 St. Georgen am Fillmannsbach
+St. Georgen am Kreischberg
 St. Georgen am Längsee
 St. Georgen am Reith
 St. Georgen am Walde
 St. Georgen am Ybbsfelde
 St. Georgen an der Gusen
 St. Georgen an der Leys
+St. Georgen an der Stiefing
 St. Georgen bei Grieskirchen
 St. Georgen bei Obernberg am Inn
+St. Georgen bei Salzburg
 St. Georgen im Attergau
 St. Georgen im Lavanttal
 St. Georgen im Schwarzwald
+St. Georgen ob Judenburg
+St. Georgen ob Murau
+St. Gerold
+St. Gilgen
 St. Gotthard im Mühlkreis
 St. Hanshaugen
 St. Helena
 St. Helena Parish
 St. Helens
 St. Hubert
+St. Ilgen
 St. Jacques-Coomb's Cove
 St. Jakob im Rosental
+St. Jakob im Walde
+St. Jakob in Defereggen
+St. Jakob in Haus
 St. James
 St. James Parish
 St. Johann
+St. Johann am Tauern
 St. Johann am Walde
 St. Johann am Wimberg
+St. Johann bei Herberstein
+St. Johann im Pongau
+St. Johann im Pongau District
+St. Johann im Saggautal
+St. Johann im Walde
+St. Johann in der Haide
+St. Johann in Tirol
+St. Johann-Köppling
 St. John the Baptist Parish
 St. John's
 St. Johns
@@ -109618,9 +109561,15 @@ St. Johns County
 St. Johnsbury
 St. Johnsville (town)
 St. Johnsville (village)
+St. Josef (Weststeiermark)
 St. Joseph County
 St. Kanzian am Klopeiner See
+St. Katharein an der Laming
+St. Kathrein am Hauenstein
+St. Kathrein am Offenegg
+St. Koloman
 St. Konrad
+St. Lambrecht
 St. Landry Parish
 St. Lawrence
 St. Lawrence County
@@ -109629,14 +109578,29 @@ St. Leon-Rot
 St. Leonhard am Forst
 St. Leonhard am Hornerwald
 St. Leonhard bei Freistadt
+St. Leonhard im Pitztal
 St. Lewis
 St. Lorenz
+St. Lorenzen am Wechsel
+St. Lorenzen bei Knittelfeld
+St. Lorenzen bei Scheifling
+St. Lorenzen im Mürztal
 St. Louis
 St. Louis County
 St. Lucie County
 St. Lucie Village
+St. Magdalena am Lemberg
+St. Marein bei Graz
+St. Marein bei Knittelfeld
+St. Marein bei Neumarkt
+St. Marein im Mürztal
+St. Marein-Feistritz
 St. Margareten im Rosental
+St. Margarethen an der Raab
 St. Margarethen an der Sierning
+St. Margarethen bei Knittelfeld
+St. Margarethen im Burgenland
+St. Margarethen im Lungau
 St. Märgen
 St. Margrethen
 St. Marien
@@ -109645,8 +109609,14 @@ St. Marienkirchen an der Polsenz
 St. Marienkirchen bei Schärding
 St. Marks
 St. Martin
+St. Martin am Grimming
+St. Martin am Tennengebirge
+St. Martin am Wöllmißberg
+St. Martin an der Raab
+St. Martin bei Lofer
 St. Martin im Innkreis
 St. Martin im Mühlkreis
+St. Martin im Sulmtal
 St. Martin Parish
 St. Martin-Karlsbach
 St. Martins
@@ -109655,13 +109625,22 @@ St. Mary Parish
 St. Mary's County
 St. Marys
 St. Matthews
+St. Michael im Burgenland
+St. Michael im Lungau
+St. Michael in Obersteiermark
 St. Moritz
 St. Nicholas
 St. Niklaus
 St. Nikola an der Donau
+St. Nikolai im Sausal
+St. Nikolai im Sölktal
+St. Nikolai ob Draßling
 St. Oswald
 St. Oswald bei Freistadt
 St. Oswald bei Haslach
+St. Oswald bei Plankenwarth
+St. Oswald ob Eibiswald
+St. Oswald-Möderbrugg
 St. Pankraz
 St. Pantaleon
 St. Pantaleon-Erla
@@ -109672,8 +109651,13 @@ St. Pauls
 St. Pete Beach
 St. Peter
 St. Peter am Hart
+St. Peter am Kammersberg
+St. Peter am Ottersbach
 St. Peter am Wimberg
+St. Peter im Sulmtal
 St. Peter in der Au
+St. Peter ob Judenburg
+St. Peter-Freienstein
 St. Peters Bay
 St. Petersburg
 St. Peterzell
@@ -109681,13 +109665,20 @@ St. Philips
 St. Pölten
 St. Pölten District
 St. Radegund
+St. Radegund bei Graz
 St. Regis Mohawk Reservation
 St. Roman
+St. Ruprecht an der Raab
 St. Ruprecht-Falkendorf
 St. Salvator
+St. Sebastian
+St. Sigmund im Sellrain
 St. Silvester
 St. Stefan am Walde
 St. Stefan im Gailtal
+St. Stefan im Rosental
+St. Stefan ob Leoben
+St. Stefan ob Stainz
 St. Stefan-Afiesl
 St. Stephen
 St. Tammany Parish
@@ -109695,19 +109686,27 @@ St. Thomas
 St. Thomas am Blasenstein
 St. Thomas Township
 St. Tönis
+St. Ulrich
+St. Ulrich am Pillersee
+St. Ulrich am Waasen
 St. Ulrich bei Steyr
 St. Ulrich im Mühlkreis
 St. Urban
 St. Ursen
 St. Valentin
+St. Veit am Vogau
 St. Veit an der Glan
 St. Veit an der Glan District
 St. Veit an der Gölsen
 St. Veit im Innkreis
 St. Veit im Mühlkreis
+St. Veit im Pongau
+St. Veit in Defereggen
+St. Veit in der Südsteiermark
 St. Wendel District
 St. Willibald
 St. Wolfgang im Salzkammergut
+St. Wolfgang-Kienberg
 St.Kilian
 Staaken
 Staatswald Galm
@@ -110788,7 +110787,7 @@ Straßenhaus
 Strasshof an der Nordbahn
 Straßkirchen
 Straßlach-Dingharting
-Strasswalchen
+Straßwalchen
 Stratená
 Stratford
 Stratford District
@@ -116500,7 +116499,7 @@ Trafford
 Tragacete
 Tragny
 Tragöß
-Tragöß-Sankt Katharein
+Tragöß-St. Katharein
 Tragwein
 Trahütten
 Traian
@@ -118944,7 +118943,7 @@ Unstrut-Hainich
 Unstrut-Hainich District
 Unstruttal
 Unțeni
-Unter Sankt Veit
+Unter St. Veit
 Unter-Schmitten
 Unterach am Attersee
 Unterägeri
@@ -126648,10 +126647,10 @@ Weissach
 Weissach im Tal
 Weißandt-Gölzau
 Weißbach
-Weissbach bei Lofer
+Weißbach bei Lofer
 Weißdorf
 Weißen
-Weissenbach am Lech
+Weißenbach am Lech
 Weißenbach an der Enns
 Weissenbach an der Triesting
 Weißenbach bei Liezen
@@ -126681,7 +126680,7 @@ Weißkirchen an der Traun
 Weißkirchen in Steiermark
 Weisslingen
 Weissport
-Weisspriach
+Weißpriach
 Weißwasser ̸ Oberlausitz
 Weistrach
 Weisweil
