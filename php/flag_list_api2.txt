@@ -3697,6 +3697,7 @@ Ammerthal
 Ammerzoden
 Amnat Charoen Province
 Amneville
+Amo
 Amoeiro
 Amönau
 Amoncourt
@@ -8356,6 +8357,7 @@ Bandar Abbas
 Bandar Anzali
 Bandar Beyla District
 Bandar Lampung
+Bandar Seri Begawan Municipality
 Bande
 Bandeira
 Bandeira do Sul
@@ -9405,6 +9407,7 @@ Battuda
 Battweiler
 Bättwil
 Batu
+Batu Apoi
 Batuan
 Batubara Regency
 Batumi Municipality
@@ -10169,6 +10172,7 @@ Belá-Dulice
 Bélâbre
 Beladice
 Belágua
+Belait District
 Belalcázar
 Belan-sur-Ource
 Bélapátfalva
@@ -10895,6 +10899,8 @@ Bequia
 Bequimão
 Bér
 Bera
+Berakas A
+Berakas B
 Berane
 Berango
 Berantevilla
@@ -13482,6 +13488,7 @@ Böklund
 Bokn
 Bokobá
 Bokod
+Bokok
 Bököny
 Bokor
 Bokovskaya
@@ -16179,6 +16186,7 @@ Brumovice
 Brunate
 Brunegg
 Brunehaut
+Brunei-Muara District
 Brunello
 Brunembert
 Brunémont
@@ -16720,6 +16728,7 @@ Bukhara District
 Bukhara Region
 Bukhariv
 Bukidnon Province
+Bukit Sawat
 Bukittinggi
 Bükkábrány
 Bükkaranyos
@@ -17097,6 +17106,7 @@ Burnsville
 Burolo
 Burón
 Büron
+Burong Pingai Ayer
 Buronzo
 Burow
 Burrel
@@ -38623,6 +38633,8 @@ Gâdinți
 Gadmen
 Gadna
 Gado Bravo
+Gadong A
+Gadong B
 Gadoni
 Gádor
 Gádoros
@@ -53792,6 +53804,7 @@ Kerfourn
 Kergloff
 Kergrist
 Kerguelen
+Keriam
 Kericho County
 Kerikeri
 Kerinci Regency
@@ -54248,6 +54261,7 @@ Kiama
 Kiamba
 Kiambu County
 Kiangan
+Kianggeh
 Kiantone
 Kiarov
 Kiawah Island
@@ -54325,6 +54339,7 @@ Kikugawa
 Kikuyo
 Kikvidzensky District
 Kil Municipality
+Kilanas
 Kilb
 Kilbirnie
 Kilbuck Township
@@ -54842,6 +54857,7 @@ Kitzen
 Kitzingen
 Kitzingen District
 Kitzscher
+Kiudang
 Kiuruvesi
 Kivalliq Region
 Kiverichi
@@ -56332,6 +56348,7 @@ Kőszegpaty
 Kőszegszerdahely
 Koszyce
 Kota
+Kota Batu
 Kota Bharu
 Kota Kinabalu
 Kotabaru Regency
@@ -57342,6 +57359,8 @@ Kthellë
 Ktiš
 Ktová
 Ku-ring-gai
+Kuala Balai
+Kuala Belait
 Kuala Kangsar
 Kuala Lumpur
 Kuala Terengganu
@@ -59273,6 +59292,7 @@ Labessière-Candeil
 Labette County
 Labeuville
 Labeuvrière
+Labi
 Labico
 Labin
 Labinot Fushë
@@ -59309,6 +59329,7 @@ Labruyère
 Labry
 Labská Stráň
 Labské Chrčice
+Labu
 Labuan
 Labuch
 Labuerda
@@ -59950,6 +59971,7 @@ Lampung
 Lamspringe
 Lamstedt
 Lamswaarde
+Lamunin
 Lamure-sur-Azergues
 Lamut
 Lana
@@ -62708,6 +62730,7 @@ Lian
 Liancourt
 Liancourt-Fosse
 Liancourt-Saint-Pierre
+Liang
 Lianga
 Lianozovo District
 Liaoning
@@ -65278,6 +65301,7 @@ Lülsfeld
 Lumaco
 Lumajang Regency
 Lumang
+Lumapas
 Lumarzo
 Lumas
 Lumba-Bayabao
@@ -65868,7 +65892,9 @@ Macandrews Bay
 Maçanet de Cabrenys
 Maçanet de la Selva
 Mação
+Macao Islands
 Mação Municipality
+Macao Peninsula
 Mação, Penhascoso e Aboboreira
 Macapá
 Macaparana
@@ -69820,6 +69846,7 @@ Melide
 Melides
 Méligny-le-Petit
 Melikgazi District
+Melilas
 Melilla
 Melilli
 Melincourt
@@ -70050,6 +70077,7 @@ Menteşe
 Menteşe District
 Menthon-Saint-Bernard
 Menthonnex-en-Bornes
+Mentiri
 Menton
 Mentque-Nortbécourt
 Mentrestido
@@ -78913,7 +78941,7 @@ Nossa Senhora de Lourdes
 Nossa Senhora de Machede
 Nossa Senhora de Nazaré
 Nossa Senhora do Bispo
-Nossa Senhora do Carmo
+Nossa Senhora do Carmo (Taipa)
 Nossa Senhora do Livramento
 Nossa Senhora do Pópulo
 Nossa Senhora do Pranto
@@ -85579,6 +85607,7 @@ Penészlek
 Peney-le-Jorat
 Penfield
 Penghu County
+Pengkalan Batu
 Penguily
 Penha
 Penha de Águia
@@ -85739,6 +85768,7 @@ Peralvillo
 Perama
 Peramea
 Peramola
+Peramu
 Perano
 Peranzanes
 Perarolo di Cadore
@@ -92469,6 +92499,7 @@ Ramat HaSharon
 Ramat Yishai
 Ramatuelle
 Ramayón
+Rambai
 Rambaud
 Ramberg
 Rambervillers
@@ -102294,6 +102325,7 @@ São Francisco do Pará
 São Francisco do Piauí
 São Francisco do Sul
 São Francisco Xavier
+São Francisco Xavier (Coloane)
 São Gabriel
 São Gabriel da Cachoeira
 São Gabriel da Palha
@@ -105041,6 +105073,7 @@ Sengiley
 Sengileyevskoye
 Sengileyevsky District
 Sengkang
+Sengkurong
 Senguio
 Senharei
 Senheim
@@ -105214,6 +105247,7 @@ Serans
 Seranville
 Séranvillers-Forenville
 Serapicos
+Serasa
 Seraucourt-le-Grand
 Seravezza
 Serba
@@ -105294,6 +105328,7 @@ Sergy
 Serhetabat District
 Serhiivka
 Serhiivka Hromada
+Seria
 Seriate
 Sericita
 Séricourt
@@ -111368,6 +111403,7 @@ Sukabumi
 Sukabumi Regency
 Sukagawa
 Sukamara Regency
+Sukang
 Sukarrieta
 Sukë
 Sukhaya Tereshka
@@ -111635,6 +111671,8 @@ Sundre
 Sundsøre
 Sundsvall Municipality
 Sunflower County
+Sungai Kebun
+Sungai Kedayan
 Sungai Penuh
 Sungu
 Sungurlare
@@ -113066,6 +113104,7 @@ Tamm
 Tammela
 Tammin
 Tâmna
+Tamoi
 Tamokra
 Tampa
 Tampa Heights
@@ -113153,6 +113192,7 @@ Taninges
 Tanintharyi Region
 Tanis (San al-Hagar)
 Tanjay
+Tanjong Maya
 Tanjong Pagar
 Tanjungbalai
 Tanjungpinang
@@ -113981,6 +114021,7 @@ Telha
 Telhado
 Telica
 Telince
+Telisai
 Telița
 Teliu
 Teliucu Inferior
@@ -114033,6 +114074,7 @@ Temax
 Temay El Amdeed
 Tembiaporá
 Tembleque
+Temburong District
 Temecula
 Temeleuți
 Temelín
@@ -118036,6 +118078,8 @@ Tutayevsky District
 Tutin
 Tutleky
 Tutóia
+Tutong
+Tutong District
 Țuțora
 Tutova
 Tutovychi
@@ -118594,6 +118638,7 @@ Ukiha
 Ukk
 Ukmerge
 Ukmerge District Municipality
+Ukong
 Ukrainka Hromada
 Ukrainsk
 Ukrainske Hromada
