@@ -1404,6 +1404,7 @@ Akasztó
 Akatyevo
 Akbar
 Akbasheva
+Akbelen Köyü
 Akbez
 Akbou
 Akbük
@@ -1463,6 +1464,7 @@ Akıncılar
 Akıncılar District
 Akkar Governorate
 Akkayin District
+Akkeçili Köyü
 Akkeshi
 Akkışla District
 Akkol
@@ -5159,6 +5161,7 @@ Arganil
 Arganil Municipality
 Argañín
 Arganza
+Arganzuela
 Argao
 Argavieso
 Argayash
@@ -5274,6 +5277,7 @@ Aries
 Arieșeni
 Arietta
 Arifat
+Arifbey Mahallesi
 Arifegazili
 Arifiye District
 Arignac
@@ -6162,6 +6166,7 @@ Atagay
 Atahona
 Ataíde
 Atajate
+Atakent Mahallesi
 Ataköy
 Atakum District
 Atalaia
@@ -6969,6 +6974,7 @@ Aydın Province
 Aydıncık District
 Aydındere
 Aydınlar
+Aydınpınar Köyü
 Aydıntepe District
 Aydoilles
 Ayegui
@@ -7536,6 +7542,7 @@ Badakhshan Province
 Badalona
 Badalucco
 Badamalos
+Badamdar
 Baďan
 Badarán
 Badaroux
@@ -7911,6 +7918,7 @@ Baki District
 Bakinskaya
 Bakio
 Bakırköy District
+Bakıxanov
 Bakkefean
 Bakkum
 Baklan District
@@ -8056,6 +8064,7 @@ Balatonvilágos
 Bälau
 Bălăurești
 Bălăușeri
+Balaxanı
 Balayan
 Balazar
 Balaze
@@ -8169,6 +8178,7 @@ Balkansky
 Balkány
 Balkar
 Balkash
+Balkaya Köyü
 Balkhash District
 Balkivtsi
 Balko-Gruzskoye
@@ -8561,6 +8571,7 @@ Baragkhan
 Baraguá
 Barahona Province
 Baraigne
+Barajas
 Barajas de Melo
 Barajevo
 Barakaldo
@@ -12125,6 +12136,7 @@ Bílence
 Bilenchenkivka
 Bilenke
 Bilenke Hromada
+Biləcəri
 Biłgoraj
 Biłgoraj (rural gmina)
 Biłgoraj County
@@ -12229,6 +12241,7 @@ Bimöhlen
 Bimont
 Bíňa
 Binaced
+Binagadi Raion
 Binago
 Binalbagan
 Binalonan
@@ -12244,6 +12257,9 @@ Bindlach
 Bindoy
 Binéfar
 Binetto
+Binə
+Binəqədi
+Binəqədi Qəsəbə
 Bingawan
 Bingelrade
 Bingen
@@ -16785,6 +16801,7 @@ Bulboci
 Bulbucata
 Bulbuente
 Bulbul Subdistrict
+Bülbülə
 Bulciago
 Buldan District
 Buldon
@@ -19475,6 +19492,7 @@ Caquetá Department
 Cáqueza
 Caraá
 Carabaña
+Carabanchel
 Carabantes
 Carabbia
 Carabetovca
@@ -21378,6 +21396,7 @@ Cejle
 Čejov
 Cekcyn
 Çekerek District
+Çekirge Mahallesi
 Čekiške
 Çekmeköy District
 Cekov
@@ -21587,6 +21606,7 @@ Centre-Val de Loire
 Centrès
 Centreville
 Centreville-Wareham-Trinity
+Centro
 Centro do Guilherme
 Centro Habana
 Centro Novo do Maranhão
@@ -22207,6 +22227,7 @@ Chambave
 Chambellay
 Chambéon
 Chamberet
+Chamberí
 Chambers County
 Chambersburg
 Chambéry
@@ -24462,6 +24483,7 @@ Ciudad Delgado
 Ciudad Dolores
 Ciudad Fernandez
 Ciudad Juárez
+Ciudad Lineal
 Ciudad Madero
 Ciudad Obregón
 Ciudad Real
@@ -24485,6 +24507,7 @@ Ciurila
 Ciuruleasa
 Ciutadella de Menorca
 Ciutadilla
+Ciutat Vella
 Ciutești
 Ciutulești
 Civate
@@ -27788,6 +27811,7 @@ Cumbria
 Cumeada
 Cumeada e Marmeleiro
 Cumeeira
+Cumhuriyet Mahallesi
 Cumiana
 Cumieira
 Cumières
@@ -28141,6 +28165,7 @@ Dagami
 Dagana
 Daganzo de Arriba
 Dagâța
+Dağçeşme Mahallesi
 Dagda Parish
 Dagebüll
 Dägeling
@@ -30922,6 +30947,7 @@ Dörtdivan District
 Dörth
 Dortmund
 Dörtyol District
+Dörtyol Mahallesi
 Doruchów
 Dorum
 Dorval
@@ -32889,6 +32915,7 @@ Eitzum
 Eivissa
 Eivissa Island
 Eix
+Eixample
 Eixe
 Eixen
 Eixo
@@ -35291,6 +35318,8 @@ Ezprogui
 Ézy-sur-Eure
 Ezzahra
 Ezzouhour
+Əhmədli
+Əmircan
 Fa'asaleleaga District
 Faaa
 Faaborg
@@ -38254,6 +38283,7 @@ Fuembellida
 Fuencalderas
 Fuencaliente
 Fuencaliente de La Palma
+Fuencarral-El Pardo
 Fuencemillán
 Fuendejalón
 Fuendetodos
@@ -47661,6 +47691,8 @@ Horta da Vilariça
 Horta das Figueiras
 Horta de Sant Joan
 Horta Municipality
+Horta-Guinardó
+Hortaleza
 Horten
 Hortezuela de Océn
 Hortigüela
@@ -47827,6 +47859,7 @@ Hovězí
 Hovmantorp
 Hovorany
 Hovorčovice
+Hövsan
 Hovtva
 Howard
 Howard County
@@ -53881,6 +53914,7 @@ Keski-Suomi
 Keskin District
 Kesklinn
 Keslerovskoye
+Keşlə
 Kesmetepe
 Kesova Gora
 Kesovce
@@ -54066,6 +54100,7 @@ Khatyngnakh
 Khatyryksky
 Khayakhsytsky
 Khaybullinsky District
+Khazar Raion
 Khazhyn
 Kheis
 Khelvachauri Municipality
@@ -55680,6 +55715,7 @@ Kolshorn
 Kolsko
 Kolsky District
 Kolšov
+Kolsuz Köyü
 Kolta
 Koltovskoye
 Koltsevoye
@@ -55983,6 +56019,7 @@ Koprivnički Bregi
 Koprivnički Ivanec
 Koprivshtitsa
 Köprübaşı District
+Köprübaşı Mahallesi
 Köprüköy District
 Köprülü
 Koprzywnica
@@ -57407,6 +57444,7 @@ Kuçovë Municipality
 Küçükçekmece District
 Küçükhüyük
 Küçükköy
+Küçükköy Mahallesi
 Küçükkuyu
 Kuczbork-Osada
 Kudafari
@@ -59524,6 +59562,7 @@ Lagawe
 Lagayan
 Lage
 Lage Vuursche
+Lagedi
 Lägerdorf
 Lagery
 Lages
@@ -62223,6 +62262,7 @@ Les Clefs
 Les Cluses
 Les Combes
 Les Contamines-Montjoie
+Les Corts
 Les Coves de Vinromà
 Les Cullayes
 Les Damps
@@ -65790,6 +65830,7 @@ Lyudinovo
 Lyudinovsky District
 Lyulin District
 Lyzohubivka
+M.Ə. Rəsulzadə
 M'diq-Fnideq Prefecture
 M'lang
 M'saken
@@ -69465,6 +69506,7 @@ Mechtersen
 Mechterstädt
 Mechyotinskaya
 Mečichov
+Mecidiye Köyü
 Měčín
 Męcinka
 Mecitözü District
@@ -69683,6 +69725,7 @@ Mehle
 Mehlingen
 Mehlmeisel
 Mehmels
+Mehmet Ali Akman Mahallesi
 Mehmetçik
 Mehmetçik-Büyükkonuk
 Mehmetli
@@ -72518,6 +72561,7 @@ Moncks Corner
 Monclar
 Monclar-de-Quercy
 Monclassico
+Moncloa-Aravaca
 Monclova
 Monções
 Moncofa
@@ -73784,6 +73828,7 @@ Morasverdes
 Morata de Jalón
 Morata de Jiloca
 Morata de Tajuña
+Moratalaz
 Moratalla
 Moratilla de los Meleros
 Moratinos
@@ -75232,6 +75277,7 @@ Mussy-la-Fosse
 Mussy-sur-Seine
 Mustafakemalpaşa District
 Mustafapaşa
+Mustafapaşa Köyü
 Müstair
 Mustamäe
 Mustang District
@@ -75993,6 +76039,7 @@ Narboneta
 Narbonne
 Narcao
 Narda
+Nardaran
 Nardò
 Nardodipace
 Naré
@@ -76067,6 +76114,7 @@ Naryn District
 Naryn Region
 Naryshkino
 Narysov
+Narzanlar Köyü
 Narzole
 Nås
 Naşa
@@ -77527,6 +77575,10 @@ Neznanovo
 Nézsa
 Nezvěstice
 Nezvysko
+Nərimanov
+Nərimanov Raion
+Nəsimi
+Nəsimi Raion
 Ngaanyatjarraku
 Ngäbe-Buglé Comarca
 Ngada Regency
@@ -78133,6 +78185,8 @@ Nivnoye
 Nivolas-Vermelle
 Niwiska
 Niyodogawa
+Nizami
+Nizami Raion
 Nizao
 Nizas
 Nižbor
@@ -78989,6 +79043,7 @@ Nottoway County
 Nottuln
 Nottwil
 Notzingen
+Nou Barris
 Nouaceur Province
 Nouaillé-Maupertuis
 Nouakchott
@@ -82461,6 +82516,7 @@ Ortahisar
 Ortahisar District
 Ortakent Yahşi
 Ortaköy District
+Ortaköy Köyü
 Orte
 Ortega
 Ortelle
@@ -85145,6 +85201,7 @@ Pazarağaç
 Pazarcık District
 Pazardzhik
 Pazardzhik Province
+Pazarköy Köyü
 Pazarlar District
 Pazaryeri District
 Pazaryolu District
@@ -85389,6 +85446,7 @@ Peel Region
 Peenehagen
 Peenemünde
 Peer
+Peetri
 Peffingen
 Pega
 Pegalajar
@@ -87252,6 +87310,7 @@ Piraino
 Piraju
 Pirajuba
 Pirajuí
+Pirallahı Raion
 Pirambu
 Piran
 Pirané
@@ -90931,6 +90990,7 @@ Puente Alto
 Puente de Domingo Flórez
 Puente de Génave
 Puente de Montañana ̸ Pont de Montanyana
+Puente de Vallecas
 Puente del Congosto
 Puente Genil
 Puente la Reina ̸ Gares
@@ -91473,6 +91533,8 @@ Qandala District
 Qanlikol District
 Qaqortoq
 Qara Subdistrict
+Qaraçuxur
+Qaradağ Raion
 Qaradan-Al Hafirah-Al Fawwar
 Qaraozek District
 Qardaha District
@@ -97030,6 +97092,8 @@ Sabah Al Salem
 Sabah Al-Ahmad
 Sabah Al-Nasser
 Sabahiya
+Sabail
+Sabail Raion
 Sabalos
 Sabana de la Mar
 Sabana de Torres
@@ -97102,6 +97166,7 @@ Sabugal e Aldeia de Santo António
 Sabugal Municipality
 Sabugosa
 Sabugueiro
+Sabunçu Raion
 Sac and Fox Nation
 Sac and Fox Reservation
 Sac County
@@ -97308,6 +97373,7 @@ Sahagún
 Saharna Nouă
 Săhăteni
 Sahel Selim
+Sahil Qəsəbə
 Sahil Region
 Şahinbey District
 Sahlabiyeh
@@ -99984,6 +100050,7 @@ San Biagio Saracinisco
 San Biase
 San Blas
 San Blas de los Sauces
+San Blas-Canillejas
 San Bonifacio
 San Borja
 San Bruno
@@ -101153,6 +101220,7 @@ Sansol
 Șanț
 Sant Adrià de Besòs
 Sant Agustí de Lluçanès
+Sant Andreu
 Sant Andreu de la Barca
 Sant Andreu de Llavaneres
 Sant Andreu de Palomar
@@ -101216,6 +101284,7 @@ Sant Llorenç de Morunys
 Sant Llorenç des Cardassar
 Sant Llorenç Savall
 Sant Lluís
+Sant Martí
 Sant Martí d'Albars
 Sant Martí de Centelles
 Sant Martí de Llémena
@@ -102193,6 +102262,7 @@ Santovenia de Pisuerga
 Santovka
 Santoyo
 Santpedor
+Sants-Montjuïc
 Santu Lussurgiu
 Santuario
 Santuario de Quillacas
@@ -103094,6 +103164,7 @@ Sarrewerden
 Sarria
 Sarrià
 Sarrià de Ter
+Sarrià-Sant Gervasi
 Sarriac-Bigorre
 Sarrians
 Sarriés ̸ Sartze
@@ -105514,6 +105585,7 @@ Sertão
 Sertão Santana
 Sertãozinho
 Serthig
+Sertkaya Mahallesi
 Sertolovo
 Serua Province
 Seruyan Regency
@@ -111748,6 +111820,7 @@ Surat
 Surat Thani Province
 Suratá
 Surava
+Suraxani Raion
 Suraż
 Surazh
 Surazhsky District
@@ -111908,6 +111981,7 @@ Suva
 Suva Reka
 Suvarlı
 Suvereto
+Şüvəlan
 Suvodskaya
 Suvorov
 Suvorove Hromada
@@ -114530,6 +114604,7 @@ Tetritsqaro Municipality
 Tettau
 Tettenweis
 Tettnang
+Tetuán
 Tetyushi
 Tetyushskoye
 Tetyushsky District
@@ -118345,6 +118420,7 @@ Ucea
 Uceda
 Ucel
 Ucero
+Üçevler Mahallesi
 Ucha
 Uchalinsky District
 Uchaly
@@ -119432,6 +119508,7 @@ Used
 Usedom
 Useldeng
 Usellus
+Usera
 Userin
 Ushachy
 Ushachy District
@@ -119871,6 +119948,7 @@ Váhovce
 Vaiamonte
 Vaiano
 Vaiano Cremasco
+Vaida
 Vaideeni
 Vaie
 Vaiea
@@ -122506,6 +122584,7 @@ Vic-le-Fesq
 Vic-sur-Aisne
 Vic-sur-Cère
 Vic-sur-Seille
+Vicálvaro
 Vicalvi
 Vícar
 Vicari
@@ -122807,6 +122886,7 @@ Viichten
 Viile Satu Mare
 Viimsi
 Viinytsia
+Viiratsi
 Viișoara
 Viitasaari
 Viitivtsi Hromada
@@ -123214,6 +123294,7 @@ Villa de San Pedro
 Villa de San Pedro Norte
 Villa de Soto
 Villa de Tezontepec
+Villa de Vallecas
 Villa de Ves
 Villa del Bosco
 Villa del Campo
@@ -128563,6 +128644,7 @@ Xertigny
 Xeuilley
 Xewkija
 Xexéu
+Xətai Raion
 Xghajra
 Xhafzotaj
 Xhariep
@@ -128580,6 +128662,7 @@ Xivry-Circourt
 Xixona ̸ Jijona
 Xlendi
 Xocchel
+Xocəsən
 Xochiatipan
 Xochicoatlán
 Xochimilco
@@ -128843,6 +128926,8 @@ Yarumal
 Yarun Hromada
 Yarynivka
 Yaryshiv Hromada
+Yasamal
+Yasamal Raion
 Yasashnaya Tashla
 Yasen
 Yasenevo District
@@ -128910,6 +128995,7 @@ Yaxkukul
 Yaya
 Yayantique
 Yayas de Viajama
+Yaycı Köyü
 Yaygın
 Yaylabağı
 Yaylabaşı
@@ -129029,6 +129115,7 @@ Yenakiieve Hromada
 Yenakiyevo
 Yengorboy
 Yeni Erenköy
+Yeni Mahalle Mahallesi
 Yeniboğaziçi
 Yeniçağa District
 Yenice
@@ -129040,6 +129127,7 @@ Yenifakılı District
 Yenikarpuzlu
 Yenikent
 Yeniköy
+Yeniköy Köyü
 Yenimahalle District
 Yenimuhacir
 Yenipazar
@@ -130786,6 +130874,7 @@ Zizers
 Žižkovo Pole
 Zizur Mayor ̸ Zizur Nagusia
 Zizurkil
+Zığ
 Zlámanec
 Zlatá
 Zlatá Baňa
