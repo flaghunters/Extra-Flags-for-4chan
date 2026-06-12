@@ -2937,8 +2937,9 @@ Alonnisos
 Alonso de Ibáñez Province
 Alonsotegi
 Alonte
+Alor Gajah
+Alor Gajah District
 Alor Regency
-Alor Setar
 Álora
 Aloran
 Alos
@@ -3720,6 +3721,7 @@ Amorinópolis
 Amorosi
 Amoroto
 Åmot
+Ampang Jaya
 Amparo
 Amparo da Serra
 Amparo de São Francisco
@@ -5853,6 +5855,7 @@ Asahan Regency
 Asahi
 Asahikawa
 Ásahreppur
+Asajaya District
 Asaka
 Asaka District
 Asakawa
@@ -7283,6 +7286,7 @@ Bächingen an der Brenz
 Bachíniva
 Bachmankivka
 Bachmanning
+Bachok District
 Bachra
 Bachs
 Bachy
@@ -7628,6 +7632,7 @@ Bagaladi
 Bagamanoc
 Bagamér
 Bagan
+Bagan Datuk District
 Baganga
 Bagansky District
 Bagard
@@ -8155,6 +8160,7 @@ Bălilești
 Balilihan
 Balindong
 Bâlines
+Baling District
 Balingasag
 Balingen
 Balinghem
@@ -8365,6 +8371,7 @@ Banda del Río Salí
 Bandai
 Bandar Abbas
 Bandar Anzali
+Bandar Baharu District
 Bandar Beyla District
 Bandar Lampung
 Bandar Seri Begawan Municipality
@@ -9326,6 +9333,7 @@ Batama
 Batan
 Batanes Province
 Batang Hari Regency
+Batang Padang District
 Batang Regency
 Batangas City
 Batangas Province
@@ -9419,6 +9427,9 @@ Battweiler
 Bättwil
 Batu
 Batu Apoi
+Batu Gajah
+Batu Pahat
+Batu Pahat District
 Batuan
 Batubara Regency
 Batumi Municipality
@@ -9431,6 +9442,7 @@ Batyrevo
 Batyrevsky District
 Batz-sur-Mer
 Batzendorf
+Bau District
 Bauan
 Bauang
 Baubau
@@ -9734,6 +9746,7 @@ Beaudignies
 Beaudricourt
 Beaufort
 Beaufort County
+Beaufort District
 Beaufort West
 Beaufort-Blavincourt
 Beaufou
@@ -10182,6 +10195,7 @@ Bela-Bela
 Belá-Dulice
 Bélâbre
 Beladice
+Belaga District
 Belágua
 Belait District
 Belalcázar
@@ -10566,6 +10580,8 @@ Beltrum
 Belu Regency
 Beluj
 Belum
+Beluran District
+Beluru District
 Beluša
 Bělušice
 Belval
@@ -10891,6 +10907,7 @@ Bento Gonçalves
 Benton
 Benton County
 Benton Township
+Bentong District
 Bentwisch
 Bentzin
 Benue State
@@ -10910,6 +10927,7 @@ Bequia
 Bequimão
 Bér
 Bera
+Bera District
 Berakas A
 Berakas B
 Berane
@@ -11555,6 +11573,8 @@ Běstvina
 Bestwig
 Bestwina
 Bestyakh
+Besut
+Besut District
 Beszterec
 Bet Arye-Ofarim
 Bet She'an
@@ -11610,6 +11630,7 @@ Betlitsa
 Betmanove
 Betoncourt-lès-Brotte
 Betondorp
+Betong District
 Betoño
 Betpouey
 Betschdorf
@@ -12292,6 +12313,7 @@ Binsfeld
 Binswangen
 Bint Jbeil
 Bintan Regency
+Bintulu District
 Binuangan
 Binyamina-Giv'at Ada
 Binz
@@ -16744,6 +16766,7 @@ Bukhara District
 Bukhara Region
 Bukhariv
 Bukidnon Province
+Bukit Mabong District
 Bukit Sawat
 Bukittinggi
 Bükkábrány
@@ -18446,6 +18469,7 @@ Cameri
 Camerino
 Cameron
 Cameron County
+Cameron Highlands District
 Cameron Parish
 Camerota
 Cametá
@@ -21588,6 +21612,7 @@ Central Province
 Central Queensland
 Central Region
 Central Saanich District
+Central Seberang Perai District
 Central Singapore District
 Central Square
 Central Tapanuli Regency
@@ -28111,6 +28136,7 @@ Dabergotz
 Daberkow
 Dąbie
 Dabo
+Dabong
 Dabronc
 Dabrony
 Dąbrowa
@@ -28259,6 +28285,7 @@ Dalama
 Dalaman District
 Dalar
 Dalarna County
+Dalat District
 Dalberg
 Dalberg-Wendelstorf
 Dalboșeț
@@ -28602,6 +28629,7 @@ Darnius
 Darnó
 Darnózseli
 Darnytsia District
+Daro District
 Daroca
 Daroca de Rioja
 Darois
@@ -31758,6 +31786,7 @@ Dungmin
 Dungna
 Dungog
 Dungtoe
+Dungun District
 Dunice
 Dunières
 Dunkard Township
@@ -39548,6 +39577,7 @@ Gedinne
 Gediz District
 Gedling
 Gedo Region
+Gedong District
 Gedsted-Fjeldsø
 Gedved
 Geel
@@ -39995,6 +40025,7 @@ Gergueil
 Gerhardsbrunn
 Gerhardshofen
 Geria
+Gerik
 Gerindote
 Gering
 Geringswalde
@@ -41175,6 +41206,7 @@ Gomadingen
 Gómara
 Gomaringen
 Gomba
+Gombak District
 Gombe State
 Gombergean
 Gombito
@@ -42985,6 +43017,8 @@ Gschwend
 Gstadt am Chiemsee
 Gsteig bei Gstaad
 Gsteigwiler
+Gua Musang
+Gua Musang District
 Guabiju
 Guabiruba
 Guaca
@@ -44483,6 +44517,7 @@ Handschuheim
 Hanerau-Hademarschen
 Hănești
 Hanford
+Hang Tuah Jaya
 Hangács
 Hangard
 Hangen-Weisheim
@@ -46314,6 +46349,7 @@ Hilgenroth
 Hilgermissen
 Hilgert
 Hilgertshausen-Tandern
+Hilir Perak District
 Hilișeu-Horia
 Hiliuți
 Hilkenbrook
@@ -48288,6 +48324,10 @@ Hulste
 Hultehouse
 Hultsfred
 Hultsfred Municipality
+Hulu Langat District
+Hulu Perak District
+Hulu Selangor District
+Hulu Terengganu District
 Hulubești
 Huluboaia
 Hum na Sutli
@@ -49847,6 +49887,7 @@ Isili
 Isilkul
 Isilkulsky District
 Işıklar
+Iskandar Puteri
 Iskar
 Iskar District
 Iskateley
@@ -50995,6 +51036,8 @@ Jasienica
 Jasienica Rosielna
 Jasieniec
 Jasim Subdistrict
+Jasin
+Jasin District
 Jasionówka
 Jašiūnai
 Jaśliska
@@ -51180,6 +51223,7 @@ Jēkabpils Municipality
 Jéke
 Jekyll Island
 Jelcz-Laskowice
+Jelebu District
 Jelenec
 Jelenia Góra
 Jeleniewo
@@ -51187,6 +51231,7 @@ Jelenje
 Jeleśnia
 Jelgava
 Jelgava Municipality
+Jeli District
 Jelka
 Jelling
 Jellum
@@ -51209,6 +51254,7 @@ Jemielno
 Jemmal
 Jemnice
 Jemníky
+Jempol District
 Jena
 Jenalöbnitz
 Jenaz
@@ -51259,6 +51305,7 @@ Jequitibá
 Jequitinhonha
 Jerada Province
 Jerago con Orago
+Jerantut District
 Jerauld County
 Jerécuaro
 Jeremoabo
@@ -51599,6 +51646,7 @@ Johnstown (city)
 Johnstown (town)
 Johor
 Johor Bahru
+Johor Bahru District
 Jöhstadt
 Jõhvi
 Jóia
@@ -51891,6 +51939,7 @@ Juist
 Juiz de Fora
 Jujutla
 Jujuy Province
+Julau District
 Julbach
 Julfa District
 Julia Dufour
@@ -52098,6 +52147,7 @@ Kabelsketal
 Kaberamaido District
 Kabjisa
 Kablukovo
+Kabong District
 Käbschütztal
 Kabugao
 Kabul
@@ -52278,6 +52328,7 @@ Kaizuka
 Kajaani
 Kajal
 Kajan
+Kajang
 Kajaran Municipality
 Kajárpéc
 Kajászó
@@ -52314,6 +52365,7 @@ Kalâat el-Andalous
 Kalaat es Senam
 Kalâat Khasba
 Kalaba
+Kalabakan District
 Kalach
 Kalach-na-Donu
 Kalacheyevsky
@@ -52670,6 +52722,7 @@ Kamorino
 Kamp-Bornhofen
 Kamp-Lintfort
 Kampala
+Kampar District
 Kampar Regency
 Kampen
 Kampen (Sylt)
@@ -52752,6 +52805,7 @@ Kangaatsiaq
 Kangal District
 Kangalassky
 Kangalassky-2
+Kangar
 Kangarli District
 Kangaroo Island
 Kangasala
@@ -52794,6 +52848,7 @@ Kano State
 Kanonji
 Kanonychi Hromada
 Kaňovice
+Kanowit District
 Kanoya
 Kanpur
 Kanra
@@ -52843,6 +52898,7 @@ Kapfenstein
 Kapince
 Kapingamarangi
 Kapišová
+Kapit District
 Kapiti Coast District
 Kaplice
 Kaplna
@@ -53680,6 +53736,7 @@ Kem
 Kemah District
 Kemaliye District
 Kemalpaşa District
+Kemaman District
 Kematen am Innbach
 Kematen an der Krems
 Kematen an der Ybbs
@@ -53755,6 +53812,7 @@ Kengkhar
 Kengyel
 Kenhorst
 Kenilworth
+Keningau District
 Kenitra
 Kénitra Province
 Kenkiyak
@@ -53840,6 +53898,7 @@ Kergloff
 Kergrist
 Kerguelen
 Keriam
+Kerian District
 Kericho County
 Kerikeri
 Kerinci Regency
@@ -53952,6 +54011,7 @@ Ketchenerovsky District
 Ketchikan
 Ketchikan Gateway Borough
 Kétegyháza
+Ketereh
 Kethel
 Kéthely
 Ketkovice
@@ -54428,6 +54488,7 @@ Kimrsky District
 Kimry
 Kimswert
 Kin
+Kinabatangan District
 Kinbidhoo
 Kincardine
 Kincardineshire
@@ -54517,6 +54578,7 @@ Kinsau
 Kinshasa
 Kinski Rozdory
 Kinston
+Kinta District
 Kintzheim
 Kinzenburg
 Kiowa County
@@ -54988,6 +55050,7 @@ Klamoš
 Klamp
 Klana
 Klang
+Klang District
 Klanjec
 Klanxbüll
 Klappholz
@@ -55254,6 +55317,8 @@ Klosters-Serneus
 Kloten
 Klotten
 Klötze
+Kluang
+Kluang District
 Klubina
 Klubivtsi
 Klučenice
@@ -56388,8 +56453,14 @@ Kőszegszerdahely
 Koszyce
 Kota
 Kota Batu
+Kota Belud District
 Kota Bharu
-Kota Kinabalu
+Kota Bharu District
+Kota Kinabalu District
+Kota Marudu District
+Kota Setar District
+Kota Tinggi
+Kota Tinggi District
 Kotabaru Regency
 Kótaj
 Kotake
@@ -57400,16 +57471,25 @@ Ktová
 Ku-ring-gai
 Kuala Balai
 Kuala Belait
-Kuala Kangsar
+Kuala Kangsar District
+Kuala Krai
+Kuala Krai District
+Kuala Langat District
 Kuala Lumpur
-Kuala Terengganu
-Kuantan
+Kuala Muda District
+Kuala Nerus District
+Kuala Penyu District
+Kuala Pilah District
+Kuala Selangor District
+Kuala Terengganu District
+Kuantan District
 Kuantan Singingi Regency
 Kuartango
 Kuba
 Kûbaard
 Kuban
 Kubanets
+Kubang Pasu District
 Kubanka
 Kubáňovo
 Kubanskaya
@@ -57435,6 +57515,9 @@ Kuchařovice
 Kuchasyevo
 Kuchelmiß
 Kuchen
+Kuching District
+Kuching North
+Kuching South
 Kuchl
 Kuchurhan
 Kuchyňa
@@ -57453,6 +57536,7 @@ Kudahuvadhoo
 Kudamatsu
 Kudarikilu
 Kudashevskoye
+Kudat District
 Kuddewörde
 Kudeikha
 Kudelstaart
@@ -57529,6 +57613,8 @@ Kula
 Kula District
 Kula Norinska
 Kulachyn
+Kulai
+Kulai District
 Kulakovo
 Kulautuva
 Kulazhskoye
@@ -57546,6 +57632,8 @@ Kuliabivka
 Kuliai
 Kulikovo
 Kulikovsky
+Kulim District
+Kulim Hi-Tech Industrial Park
 Kulin
 Kulinsky District
 Kulířov
@@ -57625,6 +57713,7 @@ Kuna de Wargandí Comarca
 Kunadacs
 Kunágota
 Kunahandhoo
+Kunak District
 Kunashak
 Kunashaksky District
 Kunbaja
@@ -59339,6 +59428,7 @@ Labinot Fushë
 Labinot Mal
 Labinsk
 Labinsky District
+Labis
 Łabiszyn
 Labo
 Lábod
@@ -59687,6 +59777,7 @@ Lagunilla del Jubera
 Lagunillas
 Lagunillas Municipality
 Lagunita Salada
+Lahad Datu District
 Lahamaide
 Lahas
 Lahat Regency
@@ -60263,6 +60354,7 @@ Langhorne Manor
 Langiden
 Langkampfen
 Langkat Regency
+Langkawi District
 Langlade
 Langlade County
 Langley
@@ -60591,6 +60683,7 @@ Lartigue
 LaRue County
 Larués
 Laruns
+Larut, Matang and Selama District
 Larva
 Larvik
 Larvotto
@@ -61060,6 +61153,7 @@ Lavrinhas
 Lavry
 Lawaan
 Lawalde
+Lawas District
 Lawitz
 Lawndale
 Lawnside
@@ -62017,6 +62111,7 @@ Lengenfeld unterm Stein
 Lengenwang
 Lengerich
 Lengfeld
+Lenggong
 Lenggries
 Lengnau
 Lengsdorf
@@ -63186,6 +63281,7 @@ Limbach
 Limbach bei Neudau
 Limbach-Oberfrohna
 Limbadi
+Limbang District
 Limbaži Municipality
 Limbenii Noi
 Limbenii Vechi
@@ -63335,6 +63431,7 @@ Lingenau
 Lingenfeld
 Lingerhahn
 Lingewaard
+Lingga District
 Lingga Regency
 Linghem
 Lingig
@@ -63425,6 +63522,7 @@ Lipina
 Lipinka
 Lipinki
 Lipinki Łużyckie
+Lipis District
 Lipitsy
 Lipka
 Lipkovo
@@ -64108,6 +64206,7 @@ Loivos e Póvoa de Agrações
 Loíza
 Loja
 Loja Province
+Lojing Sub-District
 Lok
 Lokachi Hromada
 Lokca
@@ -65007,6 +65106,7 @@ Lubny District
 Lubny Hromada
 Ľubochňa
 Lubochnia
+Lubok Antu District
 Luboměř
 Luboměř pod Strážnou
 Lubomia
@@ -65409,6 +65509,7 @@ Lunda Sul Province
 Lunden
 Lunderskov
 Lundtoft
+Lundu District
 Lundy Island
 Lünebach
 Lüneburg
@@ -65994,6 +66095,7 @@ Machagai
 Machakos County
 Machala
 Machalí
+Machang District
 Macharaviaya
 Macharen
 Machault
@@ -67447,6 +67549,7 @@ Manizales
 Manjabálago y Ortigosa de Rioalmar
 Manjarrés
 Manjimup
+Manjung District
 Manjuyod
 Mank
 Mankato
@@ -67685,11 +67788,13 @@ Maramag
 Marambat
 Maramonovca
 Maramureș County
+Maran District
 Marana
 Maraña
 Maranchón
 Mărăndeni
 Maranello
+Marang District
 Marange-Silvange
 Marange-Zondrange
 Maranguape
@@ -68593,6 +68698,7 @@ Martynivka Hromada
 Martynkivtsi
 Martynovsky District
 Martyush
+Marudi District
 Marudo
 Maruéjols-lès-Gardon
 Marugame
@@ -69075,6 +69181,7 @@ Matton-et-Clémency
 Mattsee
 Mattstetten
 Matty
+Matu District
 Matuguinao
 Matulji
 Matungao
@@ -69821,6 +69928,7 @@ Měkynec
 Mel
 Mela
 Melaka
+Melaka Tengah District
 Melaky Region
 Melan
 Meland
@@ -69977,6 +70085,7 @@ Melzo
 Memaliaj
 Memaliaj Fshat
 Memaliaj Municipality
+Membakut District
 Membibre de la Hoz
 Membrey
 Membribe de la Sierra
@@ -70163,6 +70272,7 @@ Mequinenza ̸ Mequinensa
 Mer
 Mera
 Méra
+Meradong District
 Merafong City
 Merak
 Meråker
@@ -70343,6 +70453,7 @@ Merseburg
 Mersevát
 Merseyside
 Mersin Province
+Mersing District
 Mērsrags Parish
 Mersuay
 Merten
@@ -71641,6 +71752,7 @@ Mireșu Mare
 Miřetice
 Mireval
 Mireval-Lauragais
+Miri District
 Miribel
 Miribel-les-Échelles
 Mirim Doce
@@ -74669,9 +74781,10 @@ Mtskheta
 Mtskheta Mtianeti
 Mtskheta Municipality
 Mtubatuba
+Muallim District
 Muan County
 Muaná
-Muar
+Muar District
 Muara Enim Regency
 Muaro Jambi Regency
 Mubaarak District
@@ -74821,6 +74934,7 @@ Mujães
 Muju County
 Mukacheve District
 Mukacheve Hromada
+Mukah District
 Mukařov
 Mukawa
 Mukdahan Province
@@ -75493,6 +75607,7 @@ Nabaroh
 Nabas
 Nabatieh
 Nabatieh Governorate
+Nabawan District
 Nabburg
 Naberezhnoye
 Naberezhnye Chelny
@@ -78838,6 +78953,7 @@ North Redington Beach
 North Rustico
 North Saanich District
 North Salem
+North Seberang Perai District
 North Sewickley Township
 North Shenango Township
 North Shore
@@ -78892,6 +79008,7 @@ Northcote
 Northcross
 Northeast Greenland National Park
 Northeast Madison Township
+Northeast Penang Island District
 Northeim
 Northeim District
 Northen
@@ -83630,11 +83747,13 @@ Padang
 Padang Lawas Regency
 Padang Panjang
 Padang Pariaman Regency
+Padang Terap District
 Padangsidempuan
 Padany
 Padár
 Padarovce
 Padasjoki
+Padawan
 Padberg
 Padcaya
 Paddington Ward
@@ -83801,6 +83920,7 @@ Paįstrys
 Paita
 Païta
 Paita Province
+Paitan District
 Paitone
 Paitzdorf
 Paiva
@@ -83827,6 +83947,7 @@ Pajeú do Piauí
 Pajevonys
 Pajovë
 Páka
+Pakan District
 Pakil
 Pakiri
 Pakli
@@ -84322,6 +84443,7 @@ Pantin
 Pantoja
 Panton
 Pantón
+Pantu District
 Pantukan
 Pánuco
 Pánuco de Coronado
@@ -84350,6 +84472,7 @@ Papakura
 Papakura Local Board
 Papanduva
 Papanui
+Papar District
 Papara
 Paparangi
 Paparoa
@@ -84822,6 +84945,9 @@ Pasil
 Pasilly
 Pašinka
 Pasinler District
+Pasir Gudang
+Pasir Mas District
+Pasir Puteh District
 Pasir Ris–Changi
 Paska
 Paskov
@@ -85499,6 +85625,7 @@ Peize
 Pejuçara
 Pekalongan
 Pekalongan Regency
+Pekan District
 Pekanbaru
 Pekela
 Pekhlets
@@ -85622,6 +85749,7 @@ Penamaior
 Peñamellera Alta
 Peñamellera Baja
 Peñamiller
+Penampang District
 Penang
 Penango
 Peñaparda
@@ -85646,6 +85774,7 @@ Pěnčín
 Penco
 Pencran
 Pend Oreille County
+Pendang District
 Pendências
 Pender County
 Pendergrass
@@ -85666,8 +85795,10 @@ Pénestin
 Penészlek
 Peney-le-Jorat
 Penfield
+Pengerang
 Penghu County
 Pengkalan Batu
+Pengkalan Hulu
 Penguily
 Penha
 Penha de Águia
@@ -85802,6 +85933,7 @@ Perafita, Lavra e Santa Cruz do Bispo
 Perafort
 Perais
 Perak
+Perak Tengah District
 Peral
 Peral de Arlanza
 Peralada
@@ -86236,6 +86368,7 @@ Pesvice
 Petacciato
 Petah Tikva
 Petäjävesi
+Petaling District
 Petaling Jaya
 Petaluma
 Petatán
@@ -87454,6 +87587,7 @@ Pitanga
 Pitangueiras
 Pitangui
 Pitarque
+Pitas District
 Pitasch
 Pitcairn
 Pitcher
@@ -88395,6 +88529,7 @@ Pokhvistnevsky District
 Pokój
 Pokojov
 Pokojovice
+Pokok Sena District
 Pokosnoye
 Pokrent
 Pokřikov
@@ -88899,6 +89034,7 @@ Ponthévrard
 Ponthoile
 Ponti
 Ponti sul Mincio
+Pontian District
 Pontianak
 Pontida
 Pontigny
@@ -89112,7 +89248,7 @@ Port Clinton
 Port Colborne
 Port Coquitlam
 Port Dickinson
-Port Dickson
+Port Dickson District
 Port Edward District
 Port Elgin
 Port Elizabeth
@@ -91297,6 +91433,7 @@ Purulhá
 Purullena
 Purwakarta Regency
 Purworejo Regency
+Pusa District
 Pušća
 Pușcași
 Puschendorf
@@ -91375,6 +91512,7 @@ Pusztavám
 Pusztazámor
 Putaendo
 Putaruru
+Putatan District
 Putbus
 Puteaux
 Putgarten
@@ -92650,6 +92788,7 @@ Ramsthal
 Ramygala
 Rana
 Raná
+Ranau District
 Rancagua
 Rancate
 Rance
@@ -92962,6 +93101,7 @@ Ratzwiller
 Râu Alb
 Râu de Mori
 Râu Sadului
+Raub District
 Raubach
 Raubling
 Răucești
@@ -93609,6 +93749,7 @@ Remanzacco
 Remas
 Remaufens
 Rembang Regency
+Rembau District
 Rembercourt-Sommaisne
 Rembercourt-sur-Mad
 Rembertów
@@ -95647,6 +95788,7 @@ Romonya
 Romoos
 Romorantin-Lanthenay
 Romos
+Rompin District
 Romrod
 Rømskog
 Römstedt
@@ -97095,6 +97237,7 @@ Sabah Al-Nasser
 Sabahiya
 Sabail
 Sabail Raion
+Sabak Bernam District
 Sabalos
 Sabana de la Mar
 Sabana de Torres
@@ -99804,6 +99947,7 @@ Samar District
 Samar Province
 Samara
 Samara Region
+Samarahan District
 Samarate
 Samarinda
 Samarinești
@@ -101018,6 +101162,7 @@ Sand Fork
 Sand Lake
 Sand Point
 Sanda
+Sandakan District
 Šandal
 Sandanski
 Sandarville
@@ -102977,6 +103122,7 @@ Saratlı
 Saratoga
 Saratoga County
 Saratoga Springs
+Saratok District
 Saratov
 Saratov Region
 Saratovskaya
@@ -103045,6 +103191,7 @@ Sáric
 Sarichioi
 Sariego
 Sariegos
+Sarikei District
 Sarilhos Grandes
 Sarilhos Pequenos
 Sarine District
@@ -104517,6 +104664,7 @@ Sebastião Laranjeiras
 Sebastião Leal
 Sebastopol
 Šebastovce
+Sebauh District
 Sebec
 Sebechleby
 Sebečice
@@ -104545,6 +104693,7 @@ Sébrazac
 Sebring
 Šebrov-Kateřina
 Sebúlcor
+Sebuyau District
 Sebyne
 Seč
 Sečanj
@@ -104702,6 +104851,8 @@ Sefrou Province
 Seftigen
 Sefton
 Segadães
+Segamat
+Segamat District
 Segarcea
 Segarcea-Vale
 Segariu
@@ -104844,12 +104995,15 @@ Sekule
 Sekun
 Sel
 Selaincourt
+Selama Sub-District
+Selangau District
 Selangor
 Seľany
 Selargius
 Șelaru
 Selas
 Selaya
+Selayang
 Selayar Islands Regency
 Selb
 Selbach
@@ -105050,6 +105204,7 @@ Sempach
 Sempere
 Šempeter-Vrtojba
 Sempigny
+Semporna District
 Semproniano
 Sempronius
 Semriach
@@ -105263,6 +105418,7 @@ Seongdong District
 Seongju County
 Seongnam
 Seoul
+Sepang District
 Sepekov
 Sepetiba
 Sephu
@@ -105367,6 +105523,7 @@ Seregélyes
 Seregno
 Serehovychi Hromada
 Serémange-Erzange
+Seremban District
 Seren del Grappa
 Sérénac
 Serenli
@@ -105402,6 +105559,7 @@ Serhetabat District
 Serhiivka
 Serhiivka Hromada
 Seria
+Serian District
 Seriate
 Sericita
 Séricourt
@@ -105675,6 +105833,7 @@ Seth
 Sétif
 Sétif Province
 Setiles
+Setiu District
 Seto
 Setomaa
 Setouchi
@@ -106497,10 +106656,14 @@ Sibrandabuorren
 Sibrandahûs
 Sibratsgfäll
 Sibřina
+Sibu
+Sibu District
+Sibu Rural
 Sibuco
 Sibulan
 Sibunag
 Sibundoy
+Siburan District
 Sibutad
 Sibutu
 Sic
@@ -106762,6 +106925,7 @@ Siirt Province
 Sijbekarspel
 Sijsele
 Sijunjung Regency
+Sik District
 Sikasso Region
 Sikátor
 Sikatuna
@@ -106977,6 +107141,7 @@ Simonswald
 Simontornya
 Simontovka
 Simorre
+Simpang Renggam
 Simpelveld
 Simplé
 Simplício Mendes
@@ -106987,6 +107152,7 @@ Simpsonville
 Simrishamn Municipality
 Sims
 Simsbury
+Simunjan District
 Simunul
 Sin-le-Noble
 Sinaai
@@ -107178,6 +107344,7 @@ Sipbachzell
 Șipca
 Sipe Sipe
 Sipí
+Sipitang District
 Šípkov
 Šípkové
 Sipocot
@@ -108517,6 +108684,7 @@ Søndre Land
 Søndre Nordstrand
 Sondrio
 Soneja
+Song District
 Songavazzo
 Songdalen
 Songeons
@@ -108574,6 +108742,7 @@ Sonvilier
 Sonzacate
 Sonzay
 Soo
+Sook District
 Sooke District
 Sool
 Sool Region
@@ -109048,6 +109217,7 @@ South Sabah Al-Ahmad
 South Sabahiya
 South San Francisco
 South Sandwich Islands
+South Seberang Perai District
 South Shenango Township
 South Sinai Governorate
 South Slave Region
@@ -109129,6 +109299,7 @@ Southwest Greensburg
 Southwest Harbor
 Southwest Madison Township
 Southwest Maluku Regency
+Southwest Penang Island District
 Southwest Ranches
 Southwest Township
 Southwick
@@ -109529,6 +109700,7 @@ Sremski District
 Sremski Karlovci
 Sretensk
 Sretensky District
+Sri Aman District
 Sri Jayawardenepura Kotte
 Sribne Hromada
 Srinagar
@@ -111261,6 +111433,8 @@ Subic
 Subingen
 Subirats
 Šubířov
+Subis
+Subis District
 Subiya
 Subiya Beach
 Subiza
@@ -112882,6 +113056,7 @@ Taipalsaari
 Taipana
 Taípas do Tocantins
 Taipei City
+Taiping
 Taipu
 Tairove Hromada
 Taishi
@@ -113160,6 +113335,7 @@ Tambrauw Regency
 Tambre
 Țambula
 Tambulig
+Tambunan District
 Tame
 Tamel (Santa Leocádia)
 Tamel (Santa Leocádia) e Vilar do Monte
@@ -113190,6 +113366,7 @@ Tamparan
 Tampere
 Tampico
 Tampilisan
+Tampin District
 Tampines
 Tamra
 Tamsalu
@@ -113214,6 +113391,7 @@ Tanagura
 Tanah Bumbu Regency
 Tanah Datar Regency
 Tanah Laut Regency
+Tanah Merah District
 Tanakajd
 Tănăsoaia
 Tănătari
@@ -113255,6 +113433,7 @@ Tangier
 Tangier-Assilah Prefecture
 Tangil
 Tangipahoa Parish
+Tangkak District
 Tangry
 Tangsibji
 Tangstedt
@@ -113270,6 +113449,7 @@ Tanis (San al-Hagar)
 Tanjay
 Tanjong Maya
 Tanjong Pagar
+Tanjung Manis District
 Tanjungbalai
 Tanjungpinang
 Tankhoy
@@ -113694,6 +113874,7 @@ Tatarstan
 Tatárszentgyörgy
 Tătaru
 Tătăruși
+Tatau District
 Tatce
 Tate County
 Tatebayashi
@@ -113845,6 +114026,7 @@ Tavullia
 Tavush Province
 Tawa
 Tawaramoto
+Tawau District
 Tawern
 Tawi-Tawi Province
 Taxenbach
@@ -113918,6 +114100,7 @@ Tearce
 Teasc
 Teba
 Tébar
+Tebedu District
 Tébessa Province
 Tebicuary
 Tebicuarymí
@@ -114055,6 +114238,7 @@ Tel Aviv
 Tel Aviv District
 Tel Mond
 Tela
+Telang Usan District
 Telangana
 Telatyn
 Telavi
@@ -114139,6 +114323,7 @@ Teltow
 Teltow-Fläming District
 Teluk Bintuni Regency
 Teluk Wondama Regency
+Telupid District
 Telve
 Telve di Sopra
 Telviska
@@ -114154,6 +114339,7 @@ Temburong District
 Temecula
 Temeleuți
 Temelín
+Temerloh District
 Temeš
 Temešvár
 Těmice
@@ -114251,6 +114437,7 @@ Tennwil
 Tennyson Ward
 Teno
 Tenões
+Tenom District
 Tenório
 Tenri
 Tenryu
@@ -115306,6 +115493,7 @@ Tío Pujio
 Tioga
 Tioga County
 Tioga Township
+Tioman
 Tione degli Abruzzi
 Tione di Trento
 Tionesta
@@ -115878,6 +116066,7 @@ Tongareva
 Tongelre
 Tongeren
 Tongerlo
+Tongod District
 Tongre-Notre-Dame
 Tongyeong
 Tonila
@@ -117679,6 +117868,7 @@ Tuao
 Tuapa
 Tuapse
 Tuapsinsky District
+Tuaran District
 Tuatapere
 Tuba
 Tuba-Zangariyye
@@ -117866,6 +118056,7 @@ Tumegl ̸ Tomils
 Tumeltsham
 Tumiritinga
 Tümlauer Koog
+Tumpat District
 Tunápolis
 Tunapuna-Piarco Region
 Tunari
@@ -128826,6 +129017,7 @@ Yamnytsia Hromada
 Yamoussoukro
 Yamparáez Province
 Yampil Hromada
+Yan District
 Yanagawa
 Yanai
 Yanaizu
@@ -129285,6 +129477,7 @@ Yoncalla
 Yoncq
 Yondó
 Yonezawa
+Yong Peng
 Yongin
 Yongsan District
 Yonkers
