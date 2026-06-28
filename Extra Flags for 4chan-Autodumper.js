@@ -1,6 +1,6 @@
 // ==UserScript==
 // name and namespace cannot be changed - it would break the update mechanism, that's why we will leave the name at Extra Flags for int
-// @name        Extra Flags for int
+// @name        Autodumper
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
 // @description Extra Flags for 4chan v2 "City flags were a mistake" edition
 // @include     http*://boards.4chan.org/int/*
