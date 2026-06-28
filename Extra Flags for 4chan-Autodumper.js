@@ -1,6 +1,6 @@
 // ==UserScript==
 // name and namespace cannot be changed - it would break the update mechanism, that's why we will leave the name at Extra Flags for int
-// @name        Autodumper
+// @name        Extraflags Autodumper
 // @namespace   com.whatisthisimnotgoodwithcomputers.extraflagsforint
 // @description Extra Flags for 4chan v2 "City flags were a mistake" edition
 // @include     http*://boards.4chan.org/int/*
@@ -29,8 +29,8 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @run-at      document-end
-// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-beta.js
-// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-beta.js
+// @updateURL   https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Autodumper.js
+// @downloadURL https://gitlab.com/flagtism/Extra-Flags-for-4chan/raw/master/Extra%20Flags%20for%204chan-Autodumper.js
 // ==/UserScript==
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
