@@ -54,7 +54,6 @@ var regions = [];
 var radio = "all";
 var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
-var radioVariable = 'radioVariableAPI2';
 var dumpVariable = 'dumpVariableAPI2';
 var panelStatusVariable = 'panelStatusVariableAPI2';
 var dumpMode = 'formatted';
@@ -98,19 +97,6 @@ var setup = {
 
         var htmlHelpText = '<label name="' + shortId + 'label"> <br/>'
 
-        //old explanation; uncomment to restore while commenting the above
-        /*var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
-            'For example; United States, California, Los Angeles<br/></label>' +
-            '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
-            '<a href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues" style="color:blue">' +
-            'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues</a></label>';*/
-
-        var filterRadio = '<br/><br/><form id="filterRadio">' +
-            '<input type="radio" name="filterRadio" id="filterRadioall" style="display: inline !important;" value="all"><label>Show country + ALL regions.</label>' +
-            '<br/><input type="radio" name="filterRadio" id="filterRadiofirst" style="display: inline !important;" value="first"><label>Only show country + FIRST region.</label>' +
-            '<br/><input type="radio" name="filterRadio" id="filterRadiolast" style="display: inline !important;" value="last"><label>Only show country + LAST region. (v1/old format)</label>' +
-            '</form>';
-
         var htmlDumpMode =
             '<div style="font-weight:normal; text-align:left;">' +
             'Output mode:<br/>' +
@@ -140,7 +126,6 @@ var setup = {
 
         var htmlDumpPortion = htmlDumpStart + htmlList;
 
-        //commented here and at 284 to disable partial flag options
         if (regions.length > 1) {
             var selectMenuFlags = "Regional flags selected: ";
             var path = flegsBaseUrl + "/" + regions[0];
@@ -151,18 +136,18 @@ var setup = {
             selectMenuFlags += "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/><div>' + htmlSaveButton + htmlAddToListButton + '</div><br/></div>' + selectMenuFlags + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
+                '<br/><div>' + htmlSaveButton + htmlAddToListButton + '</div><br/></div>' + selectMenuFlags + htmlHelpText + htmlDumpPortion;
         }
 
         if (regions.length == 1) {
             var selectMenuFlags = "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
+                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText + htmlDumpPortion;
        }
 
         return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
-            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
+            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + htmlDumpPortion;
 
     },
     fillHtml: function (path1) {
@@ -231,14 +216,6 @@ var setup = {
             }
         });
     },
-    setRadio: function() {
-        var radioStatus = setup.load(radioVariable);
-        if (!radioStatus || radioStatus === "" || radioStatus === "undefined") {
-            radioStatus = "all";
-        }
-        var radioButton = document.getElementById("filterRadio" + radioStatus);
-        radioButton.checked = true;
-    },
     setDumpMode: function() {
     var mode = setup.load(dumpModeVariable);
 
@@ -286,8 +263,6 @@ var setup = {
         document.body.appendChild(setup_el);
         setup.fillHtml("", "");
 
-        //commented here and at 139 to disable partial flag options
-        //setup.setRadio();
         setup.setDumpMode();
 
         setup.loadToggle();
@@ -339,9 +314,6 @@ var setup = {
                 regions.pop();
             }
             lastRegion = "";
-
-            radio = document.querySelector('input[name="filterRadio"]:checked').value;
-            setup.save(radioVariable, radio);
 
             alert('Flags set: ' + regions + '\n\n' + 'Be sure to post using the quick reply window!');
 
@@ -411,7 +383,6 @@ var setup = {
 
 /** Prompt to set region if regionVariable is empty  */
 regions = setup.load(regionVariable);
-radio = setup.load(radioVariable);
 dumpMode = setup.load(dumpModeVariable);
 if (!dumpMode || dumpMode === "" || dumpMode === "undefined") {
     dumpMode = "formatted";
@@ -423,9 +394,6 @@ if (!regions) {
             setup.show();
         }
     }, 2000);
-}
-if (!radio || radio === "" || radio === "undefined") {
-    radio = "all";
 }
 panelStatus = setup.load(panelStatusVariable);
 if (panelStatus === "" || panelStatus === "undefined" || (panelStatus!==false && panelStatus!==true)) {
