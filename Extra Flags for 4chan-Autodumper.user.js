@@ -484,7 +484,11 @@ function openReplyBox() {
       setTimeout(() => {
           var comment=document.getElementById("qrCaptchaContainer").previousSibling.firstChild;
           if (dumpArray[0]) {
-              comment.value=shed(dumpArray[0],previous);
+              if (dumpMode == 'formatted') {
+                  comment.value=shed(dumpArray[0],previous);
+              }else{
+                  comment.value=dumpArray[0];
+              }
               previous = dumpArray[0];
               var submitBtn = document.getElementById("qrFile").nextSibling;
               submitBtn.click(); // autoreply
