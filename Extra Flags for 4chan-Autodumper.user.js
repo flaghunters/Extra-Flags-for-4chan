@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.50
+// @version     0.50.1
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
@@ -57,6 +57,8 @@ var regionVariable = 'regionVariableAPI2';
 var radioVariable = 'radioVariableAPI2';
 var dumpVariable = 'dumpVariableAPI2';
 var panelStatusVariable = 'panelStatusVariableAPI2';
+var dumpMode = 'formatted';
+var dumpModeVariable = 'dumpModeVariableAPI2';
 var allPostsOnPage = [];
 var postNrs = [];
 var postRemoveCounter = 60;
@@ -77,6 +79,7 @@ var closeID = "closeDump";
 var textListID = "textList";
 var regionDivider = "||";
 var dumpArray = [];
+var previous = "";
 
 /** Setup, preferences */
 var setup = {
@@ -92,33 +95,52 @@ var setup = {
             'Save Regions</button>';
         var htmlAddToListButton = '<button class="commit" name="addtolist" title="Pressing &#34;Add to List&#34; will add the regions to the region dumping list below.">' +
             'Add to List</button>';
-        var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
+
+        var htmlHelpText = '<label name="' + shortId + 'label"> <br/>'
+
+        //old explanation; uncomment to restore while commenting the above
+        /*var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
             'For example; United States, California, Los Angeles<br/></label>' +
             '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
             '<a href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues" style="color:blue">' +
-            'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues</a></label>';
+            'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues</a></label>';*/
+
         var filterRadio = '<br/><br/><form id="filterRadio">' +
             '<input type="radio" name="filterRadio" id="filterRadioall" style="display: inline !important;" value="all"><label>Show country + ALL regions.</label>' +
             '<br/><input type="radio" name="filterRadio" id="filterRadiofirst" style="display: inline !important;" value="first"><label>Only show country + FIRST region.</label>' +
             '<br/><input type="radio" name="filterRadio" id="filterRadiolast" style="display: inline !important;" value="last"><label>Only show country + LAST region. (v1/old format)</label>' +
             '</form>';
 
+        var htmlDumpMode =
+            '<div style="font-weight:normal; text-align:left;">' +
+            'Output mode:<br/>' +
+            '<form id="dumpModeRadio">' +
+            '<input type="radio" name="dumpMode" id="dumpModeformatted" style="display:inline !important;" value="formatted">' +
+            '<label style="font-weight:normal;">Formatted</label>' +
+
+            '<input type="radio" name="dumpMode" id="dumpModeraw" style="display:inline !important; margin-left:12px;" value="raw">' +
+            '<label style="font-weight:normal;">Raw</label>' +
+            '</form>' +
+            '</div>';
+
         var htmlDumpButtons = '<button class="dump" id="' + saveListID + '" name="savelist">Save List</button>' +
             '<button class="dump" id="' + clearListID + '" name="clearlist">Clear List</button>' +
             '<button class="dump" id="' + buttonID + '" name="togglelist">&#x25b2;</button>' +
             '<button class="dump" id="' + closeID + '" name="close">X</button>';
-    
+
         var htmlDumpStart = '<br/><div>' +
-            '<div>Flag Dumper config</div><br/><br/>' +
-            '<div>'+ htmlDumpButtons + '</div></div>';
-    
+            '<div>Flag Dumper config</div><br/>' +
+            htmlDumpMode +
+            '<br/><div>' + htmlDumpButtons + '</div></div>';
+
         var htmlList = '<div id="textDiv"><br/>' +
             '<textarea id="' + textListID + '" name="textArea" style="height:150px;width:400px"></textarea><br/>' +
             '<label for="' + nextupID + '">Next up:</label>' +
             '<p id="' + nextupID + '"></p>';
-    
+
         var htmlDumpPortion = htmlDumpStart + htmlList;
 
+        //commented here and at 284 to disable partial flag options
         if (regions.length > 1) {
             var selectMenuFlags = "Regional flags selected: ";
             var path = flegsBaseUrl + "/" + regions[0];
@@ -129,18 +151,18 @@ var setup = {
             selectMenuFlags += "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/><div>' + htmlSaveButton + htmlAddToListButton + '</div><br/></div>' + selectMenuFlags + htmlHelpText + filterRadio + htmlDumpPortion;
+                '<br/><div>' + htmlSaveButton + htmlAddToListButton + '</div><br/></div>' + selectMenuFlags + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
         }
 
         if (regions.length == 1) {
             var selectMenuFlags = "<br/>";
             return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
                 '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText + filterRadio + htmlDumpPortion;
+                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
        }
 
         return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
-            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filterRadio + htmlDumpPortion;
+            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText /*+ filterRadio*/ + htmlDumpPortion;
 
     },
     fillHtml: function (path1) {
@@ -217,6 +239,15 @@ var setup = {
         var radioButton = document.getElementById("filterRadio" + radioStatus);
         radioButton.checked = true;
     },
+    setDumpMode: function() {
+    var mode = setup.load(dumpModeVariable);
+
+    if (!mode || mode === "" || mode === "undefined") {
+        mode = "formatted";
+    }
+
+    document.getElementById("dumpMode" + mode).checked = true;
+    },
     loadToggle: function() {
         var toggleStatus = setup.load(panelStatusVariable);
         if (toggleStatus === "" || toggleStatus === "undefined" || (toggleStatus!==false && toggleStatus!==true)) {
@@ -251,13 +282,21 @@ var setup = {
         setup_el = document.createElement('div');
         setup_el.id = setup.id;
         setup_el.innerHTML = setup.html();
-        
+
         document.body.appendChild(setup_el);
         setup.fillHtml("", "");
 
-        setup.setRadio();
+        //commented here and at 139 to disable partial flag options
+        //setup.setRadio();
+        setup.setDumpMode();
 
         setup.loadToggle();
+        document.querySelectorAll('input[name="dumpMode"]').forEach(function(el) {
+            el.addEventListener('change', function() {
+                dumpMode = this.value;
+                setup.save(dumpModeVariable, dumpMode);
+            });
+        });
 
         var nextup = document.getElementById(nextupID);
         if (dumpArray && dumpArray.length>0) {
@@ -328,7 +367,7 @@ var setup = {
             }
             document.getElementById(saveListID).click();
         })
-   
+
         setup.q('savelist').addEventListener('click', function () {
             var textDump = document.getElementById(textListID).value;
             var tempvar = textDump.split('\n');
@@ -343,16 +382,16 @@ var setup = {
             setup.save(dumpVariable,dumpArray);
             setup.show();
         }, false);
-   
+
         setup.q('togglelist').addEventListener('click', function () {
             toggleButton();
             setup.setToggleVisibility();
         }, false);
-   
+
         setup.q('close').addEventListener('click', function () {
             setup_el.parentNode.removeChild(setup_el);
         }, false);
-   
+
         setup.q('clearlist').addEventListener('click', function () {
             document.getElementById(textListID).value='';
             document.getElementById(saveListID).click();
@@ -373,6 +412,10 @@ var setup = {
 /** Prompt to set region if regionVariable is empty  */
 regions = setup.load(regionVariable);
 radio = setup.load(radioVariable);
+dumpMode = setup.load(dumpModeVariable);
+if (!dumpMode || dumpMode === "" || dumpMode === "undefined") {
+    dumpMode = "formatted";
+}
 if (!regions) {
     regions = [];
     setTimeout(function () {
@@ -393,6 +436,25 @@ if (!dumpArray) {
     dumpArray = [];
 }
 
+function shed(current,previous) {
+    let prev = previous.split("||");
+    let curr = current.split("||");
+
+    prev[0] = prev[0].toUpperCase();
+    curr[0] = curr[0].toUpperCase();
+
+    let k = 0;
+    while (k < Math.min(prev.length, curr.length)) {
+        if (prev[k] !== curr[k]) {
+            break;
+        } else {
+            k++;
+        }
+    }
+
+    return curr.slice(k).join('\n');
+}
+
 function openReplyBox() {
   var setup_el = document.getElementById(setup.id);
   if (setup_el) {
@@ -404,7 +466,12 @@ function openReplyBox() {
       setTimeout(() => {
           var comment=document.getElementById("char-count").previousSibling;
           if (dumpArray[0]) {
-              comment.value=dumpArray[0];
+              if (dumpMode == 'formatted') {
+                  comment.value=shed(dumpArray[0],previous);
+              }else{
+                  comment.value=dumpArray[0];
+              }
+              previous = dumpArray[0];
               var submitBtn = document.getElementById("qr-filename-container").nextSibling;
               submitBtn.click(); // autoreply
           }
@@ -417,7 +484,8 @@ function openReplyBox() {
       setTimeout(() => {
           var comment=document.getElementById("qrCaptchaContainer").previousSibling.firstChild;
           if (dumpArray[0]) {
-              comment.value=dumpArray[0];
+              comment.value=shed(dumpArray[0],previous);
+              previous = dumpArray[0];
               var submitBtn = document.getElementById("qrFile").nextSibling;
               submitBtn.click(); // autoreply
           }
@@ -434,18 +502,18 @@ function toggleButton() {
 /** parse the posts already on the page before thread updater kicks in */
 function parseOriginalPosts() {
     var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
-    
+
     // If no posts found, retry after a short delay (needed for index to work with 4chan X)
     if (tempAllPostsOnPage.length === 0) {
         setTimeout(parseOriginalPosts, 250);
         return;
     }
-    
+
     allPostsOnPage = Array.prototype.slice.call(tempAllPostsOnPage); //convert from element list to javascript array
     postNrs = allPostsOnPage.map(function (p) {
         return p.id.replace("pc", "");
     });
-    
+
     resolveRefFlags();
 }
 
