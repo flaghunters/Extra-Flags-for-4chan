@@ -3842,6 +3842,7 @@ Anapurus
 Anarcs
 Añasco
 Anastácio
+Anastasiyevka
 Anastasiyevskaya
 Anastasovo
 Añastro
@@ -13574,6 +13575,7 @@ Boldumsaz District
 Boldur
 Boldurești
 Boldva
+Boldyrevka
 Bôle
 Bolea
 Boleboř
@@ -13691,6 +13693,7 @@ Bolsheboldinsky District
 Bolshechernigovsky District
 Bolsheglushitsky District
 Bolsheignatovsky District
+Bolshekrepinskaya
 Bolshelug
 Bolshelutskoye
 Bolshemurashkinsky District
@@ -16561,6 +16564,7 @@ Budajenő
 Budakalász
 Budakeszi
 Budakeszi District
+Budamsha
 Budaniv
 Budaörs
 Budapest
@@ -23133,6 +23137,7 @@ Cherepyn
 Chérêt
 Cherevky
 Chériennes
+Cheriktey
 Chérisay
 Chérisey
 Cherisy
@@ -24105,6 +24110,7 @@ Chvalšiny
 Chvatěruby
 Chvojenec
 Chvojnica
+Chyamayykinsky
 Chybagalakhsky
 Chybie
 Chyhyryn Hromada
@@ -32762,6 +32768,7 @@ Egindikol District
 Eging am See
 Eginsky
 Eğirdir District
+Egituyskoye
 Égletons
 Eglfing
 Eglhartinger Forst
@@ -38301,6 +38308,7 @@ Frumușica
 Frumușița
 Fruntișeni
 Frunză
+Frunze
 Frunze ̸ Frunză
 Frunzenskoye
 Frunzensky District
@@ -44118,6 +44126,7 @@ Häggenschwil
 Hägglingen
 Hăghig
 Hagi
+Hagichioi
 Hagimus
 Hagnau am Bodensee
 Hagneck
@@ -50573,6 +50582,7 @@ Izhemsky District
 Izhevsk
 Izhevskoye
 Izhivtsi
+Izhma
 Izhmorsky District
 Iziaslav Hromada
 Izier
@@ -52860,6 +52870,7 @@ Kanfen
 Kangaatsiaq
 Kangal District
 Kangalassky
+Kangalassky-1
 Kangalassky-2
 Kangar
 Kangarli District
@@ -57562,6 +57573,7 @@ Kubinka
 Kublank
 Küblis
 Kublov
+Kubnya
 Kubova Huť
 Kubrat
 Kubschütz
@@ -67814,6 +67826,7 @@ Mar de Espanha
 Mar del Plata
 Mar del Tuyú
 Mar Vermelho
+Mar-Kyuyol
 Mara
 Mara Municipality
 Mara Rosa
@@ -78191,6 +78204,7 @@ Nikolassee
 Nikolayevka
 Nikolayevsk-na-Amure
 Nikolayevskaya
+Nikolayevsky
 Nikolayevsky District
 Nikolčice
 Nikolenskoye
@@ -78477,7 +78491,6 @@ No. 21
 No. 54
 No. 65
 No. 7
-No. 72
 No. 78
 Noailhac
 Noailles
@@ -105225,6 +105238,7 @@ Selvíria
 Selwyn
 Selwyn District
 Selyatino
+Selyavnoye
 Selychiv
 Selychivka
 Selydove Hromada
@@ -110834,6 +110848,7 @@ Sternenfels
 Sterup
 Šterusy
 Stęszew
+Stețcani
 Štětí
 Štětkovice
 Stetseva
@@ -119874,6 +119889,7 @@ Usson-du-Poitou
 Usson-en-Forez
 Ussuriysk
 Ussuriysky District
+Ust-Abakan
 Ust-Abakansky District
 Ust-Aldansky District
 Ust-Bagaryak
@@ -129691,6 +129707,7 @@ Yucatán
 Yucca Valley
 Yücebağ
 Yücekapı
+Yuchyugey
 Yucuaiquín
 Yuen Long District
 Yufu
@@ -129702,6 +129719,7 @@ Yugo-Severnaya
 Yugo-Zapad
 Yugorsk
 Yugyulyatsky
+Yukagir
 Yukamensky District
 Yukarıkocayatak
 Yukarıöz
@@ -129922,6 +129940,7 @@ Zadní Vydří
 Zadní Zhořec
 Zádolí
 Zadonsk
+Zadonsky
 Zadonsky District
 Zádor
 Zádorfalva
