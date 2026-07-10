@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.50.1
+// @version     0.50.2
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
@@ -63,9 +63,8 @@ var postNrs = [];
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
 var flegsBaseUrl = 'https://github.com/flaghunters/Extra-Flags-for-4chan/raw/master/flags/';
-// remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
-var backendBaseUrl = 'https://api.flagtism.com/';//var backendBaseUrl = 'https://nun.wtf/';
+var backendBaseUrl = 'https://api.flagtism.com/';
 var postUrl = 'int/post_flag_api2.php';
 var getUrl = 'int/get_flags_api2.php';
 var shortId = 'witingwc.ef.';
@@ -79,6 +78,7 @@ var textListID = "textList";
 var regionDivider = "||";
 var dumpArray = [];
 var previous = "";
+var flagListCache = {};
 
 /** Setup, preferences */
 var setup = {
@@ -171,6 +171,11 @@ var setup = {
             var pathNoFlagList = path;
         }
 
+        if (flagListCache.hasOwnProperty(path)) {
+            setup.populateSelect(flagListCache[path], oldPath);
+            return;
+        }
+
         /* resolve countries which we support */
         GM_xmlhttpRequest({
             method: "GET",
@@ -179,40 +184,18 @@ var setup = {
                 "Content-Type": "application/x-www-form-urlencoded"
             },
             onload: function (response) {
+                if (response.status === 200) {
+                    flagListCache[path] = response.responseText;
+                }
+
                 if (response.status == 404) { // detect if there are no more folders
                     setup.fillHtml(oldPath);
                     setup.q('forward').disabled = true; // disable next button
                 } else {
                     //hide spam, debug purposes only
                     //console.log(response.responseText);
-                    var countrySelect = document.getElementById(shortId + 'countrySelect'),
-                        countriesAvailable = response.responseText.split('\n');
-
-                    if (countriesAvailable.length==0) {
-                        setup.fillHtml(oldPath);
-                        setup.q('forward').disabled = true; // disable next button
-                        return;
-                    }
-                    countrySelect.innerHTML = "";
-
-                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
-                        var country = countriesAvailable[countriesCounter].trim();
-                        if (country === "") { continue; }
-
-                        var opt = document.createElement('option');
-                        opt.value = country;
-                        opt.innerHTML = country;
-
-                        if (lastRegion != "" && country === lastRegion) { // automatically select last selected when going up a folder
-                            opt.selected = "selected";
-                        } else if (oldPath == "" && country === regions[regions.length - 1]) { // show final selected when no more
-                            // folders detected
-                            opt.selected = "selected";
-                        }
-                        countrySelect.appendChild(opt);
-                    }
+                    setup.populateSelect(response.responseText, oldPath);
                 }
-
             }
         });
     },
@@ -338,6 +321,12 @@ var setup = {
                 textarea.value = textDump + '\n' + dumpString;
             }
             document.getElementById(saveListID).click();
+
+            //automatic back after adding a flag to the list
+            if (regions.length > 0) {
+                setup.q('back').click();
+            }
+
         })
 
         setup.q('savelist').addEventListener('click', function () {
@@ -352,7 +341,10 @@ var setup = {
                     }
                   }
             setup.save(dumpVariable,dumpArray);
-            setup.show();
+
+            //updates the dump array without destroying and recreating the whole window like with setup.show();
+            var nextup = document.getElementById(nextupID);
+            nextup.textContent = dumpArray.length ? dumpArray[0] : "--";
         }, false);
 
         setup.q('togglelist').addEventListener('click', function () {
@@ -377,6 +369,37 @@ var setup = {
     },
     init: function () {
         GM_registerMenuCommand('Extra Flags setup', setup.show);
+    },
+    populateSelect: function(countryListText, oldPath) {
+    var countrySelect = document.getElementById(shortId + 'countrySelect'),
+        countriesAvailable = countryListText.split('\n');
+
+    if (countriesAvailable.length === 0) {
+        setup.fillHtml(oldPath);
+        setup.q('forward').disabled = true;
+        return;
+    }
+
+    countrySelect.innerHTML = "";
+
+    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
+        var country = countriesAvailable[countriesCounter].trim();
+        if (country === "") {
+            continue;
+        }
+
+        var opt = document.createElement('option');
+        opt.value = country;
+        opt.innerHTML = country;
+
+        if (lastRegion !== "" && country === lastRegion) {
+            opt.selected = "selected";
+        } else if (oldPath === "" && country === regions[regions.length - 1]) {
+            opt.selected = "selected";
+        }
+
+        countrySelect.appendChild(opt);
+        }
     }
 };
 
