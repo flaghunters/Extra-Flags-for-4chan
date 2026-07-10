@@ -70738,21 +70738,6 @@ Metro Vancouver Regional District
 Metrogorodok District
 Métropole de Lyon
 Metropolitan
-Metropolitan City of Bari
-Metropolitan City of Bologna
-Metropolitan City of Cagliari
-Metropolitan City of Catania
-Metropolitan City of Firenze
-Metropolitan City of Genova
-Metropolitan City of Messina
-Metropolitan City of Milano
-Metropolitan City of Napoli
-Metropolitan City of Palermo
-Metropolitan City of Reggio Calabria
-Metropolitan City of Roma
-Metropolitan City of Sassari
-Metropolitan City of Torino
-Metropolitan City of Venezia
 Metsadzor Municipality
 Metsamor Municipality
 Metsho
@@ -90828,21 +90813,25 @@ Province of Avellino
 Province of Ávila
 Province of Badajoz
 Province of Barcelona
+Province of Bari
 Province of Barletta-Andria-Trani
 Province of Belluno
 Province of Benevento
 Province of Bergamo
 Province of Biella
 Province of Bizkaia
+Province of Bologna
 Province of Brescia
 Province of Brindisi
 Province of Burgos
 Province of Cáceres
 Province of Cádiz
+Province of Cagliari
 Province of Caltanissetta
 Province of Campobasso
 Province of Caserta
 Province of Castelló
+Province of Catania
 Province of Catanzaro
 Province of Chieti
 Province of Ciudad Real
@@ -90856,10 +90845,12 @@ Province of Cuneo
 Province of Enna
 Province of Fermo
 Province of Ferrara
+Province of Firenze
 Province of Foggia
 Province of Forlì-Cesena
 Province of Frosinone
 Province of Gallura Nord-Est Sardegna
+Province of Genova
 Province of Gipuzkoa
 Province of Girona
 Province of Gorizia
@@ -90889,8 +90880,11 @@ Province of Mantova
 Province of Massa and Carrara
 Province of Matera
 Province of Medio Campidano
+Province of Messina
+Province of Milano
 Province of Modena
 Province of Monza and Brianza
+Province of Napoli
 Province of Novara
 Province of Nuoro
 Province of Ogliastra
@@ -90898,6 +90892,7 @@ Province of Oristano
 Province of Ourense
 Province of Padova
 Province of Palencia
+Province of Palermo
 Province of Parma
 Province of Pavia
 Province of Perugia
@@ -90912,13 +90907,16 @@ Province of Potenza
 Province of Prato
 Province of Ragusa
 Province of Ravenna
+Province of Reggio Calabria
 Province of Reggio Emilia
 Province of Rieti
 Province of Rimini
+Province of Roma
 Province of Rovigo
 Province of Salamanca
 Province of Salerno
 Province of Santa Cruz de Tenerife
+Province of Sassari
 Province of Savona
 Province of Segovia
 Province of Sevilla
@@ -90933,6 +90931,7 @@ Province of Teramo
 Province of Terni
 Province of Teruel
 Province of Toledo
+Province of Torino
 Province of Trapani
 Province of Treviso
 Province of Trieste
@@ -90940,6 +90939,7 @@ Province of Udine
 Province of València
 Province of Valladolid
 Province of Varese
+Province of Venezia
 Province of Verbano-Cusio-Ossola
 Province of Vercelli
 Province of Verona
