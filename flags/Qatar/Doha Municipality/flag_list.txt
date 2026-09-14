@@ -1,57 +1,57 @@
-Zone 1
-Zone 12
-Zone 13
-Zone 14
-Zone 15
-Zone 16
-Zone 17
-Zone 18
+Zone 1 (Al Jasra)
+Zone 12 (Al Bidda)
+Zone 13 (Mushaireb)
+Zone 14 (Fereej Abdel Aziz)
+Zone 15 (Al Doha Al Jadeeda)
+Zone 16 (Old Al Ghanim)
+Zone 17 (Al Rufaa-Old Al Hitmi)
+Zone 18 (Slata-Al Mirqab)
 Zone 19
-Zone 2
-Zone 20
-Zone 21
-Zone 22
-Zone 23
-Zone 24
-Zone 25
-Zone 26
-Zone 27
-Zone 28
-Zone 29
-Zone 3
-Zone 30
-Zone 31
-Zone 32
-Zone 33
-Zone 34
-Zone 35
-Zone 36
-Zone 37
-Zone 38
-Zone 39
-Zone 4
-Zone 40
-Zone 41
-Zone 42
-Zone 43
-Zone 44
-Zone 45
-Zone 46
-Zone 47
-Zone 48
-Zone 49
-Zone 5
-Zone 50
-Zone 57
-Zone 58
-Zone 6
+Zone 2 (Al Bidda)
+Zone 20 (Wadi Al Sail)
+Zone 21 (Rumaila)
+Zone 22 (Fereej Bin Mahmoud)
+Zone 23 (Fereej Bin Mahmoud)
+Zone 24 (Rawdat Al Khail)
+Zone 25 (Al Mansoura-Fereej Bin Dirham)
+Zone 26 (Najma)
+Zone 27 (Umm Ghuwailina)
+Zone 28 (Al Khulaifat-Ras Bu Abboud)
+Zone 29 (Ras Bu Abboud)
+Zone 3 (Fereej Mohammed Bin Jasim-Mushaireb)
+Zone 30 (Duhail)
+Zone 31 (Umm Lekhba)
+Zone 32 (Madinat Khalifa North-Dahl Al Hamam)
+Zone 33 (Al Markhiya)
+Zone 34 (Madinat Khalifa South)
+Zone 35 (Fereej Kulaib)
+Zone 36 (Al Messila)
+Zone 37 (Fereej Bin Omran-New Al Hitmi-Hamad Medical City)
+Zone 38 (Al Sadd)
+Zone 39 (Al Sadd-New Al Mirqab-Fereej Al Nasr)
+Zone 4 (Mushaireb)
+Zone 40 (New Slata)
+Zone 41 (Nuaija)
+Zone 42 (Al Hilal)
+Zone 43 (Nuaija)
+Zone 44 (Nuaija)
+Zone 45 (Old Airport)
+Zone 46 (Al Thumama)
+Zone 47 (Al Thumama)
+Zone 48 (Doha International Airport)
+Zone 49 (Hamad International Airport-Banana Island-Ras Bu Funtas)
+Zone 5 (Al Najada-Brahat Al Jufairy-Fereej Al Asmakh)
+Zone 50 (Al Thumama)
+Zone 57 (Industrial Area)
+Zone 58 (Wholesale Market)
+Zone 6 (Old Al Ghanim)
 Zone 60
-Zone 61
+Zone 61 (Al Dafna-Al Qassar)
 Zone 62
-Zone 63
-Zone 64
-Zone 65
-Zone 66
-Zone 67
-Zone 68
-Zone 7
+Zone 63 (Onaiza)
+Zone 64 (Lejbailat)
+Zone 65 (Onaiza)
+Zone 66 (Onaiza-Leqtaifiya-Al Qassar)
+Zone 67 (Hazm Al Markhiya)
+Zone 68 (Jelaiah-Al Tarfa-Jeryan Nejaima)
+Zone 7 (Al Souq)
