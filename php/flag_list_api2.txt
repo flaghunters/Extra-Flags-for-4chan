@@ -1675,6 +1675,7 @@ Al Abaireq-Al Anaem-Al Laiyah
 Al Abdiliya
 Al Anbar Governorate
 Al Arab
+Al Ashat Islands
 Al Awir
 Al Bataeh
 Al Batinah North Governorate
@@ -50471,6 +50472,7 @@ Haltern am See
 Halton
 Halton Hills
 Halton Region
+Halul Island
 Haluzice
 Haluzyntsi
 Halver
@@ -121874,6 +121876,7 @@ Shpola Hromada
 Shpychyntsi
 Shpykiv Hromada
 Shramkivka Hromada
+Shraoh Island
 Shreveport
 Shrewsbury
 Shrewsbury Township
@@ -148756,12 +148759,12 @@ Zone 48 (Doha International Airport)
 Zone 49 (Hamad International Airport-Banana Island-Ras Bu Funtas)
 Zone 5 (Al Najada-Brahat Al Jufairy-Fereej Al Asmakh)
 Zone 50 (Al Thumama)
-Zone 51 (Al Gharrafa-Gharrafat Al Rayyan-Izghawa-Bani Hajer-Al Seej-Rawdat Egdaim-Al Themaid)
-Zone 52 (Al Luqta-Lebday-Old Al Rayyan-Al Shagub-Fereej Al Zaeem)
+Zone 51 (Al Gharrafa-Gharrafat Al Rayyan-Izghawa…)
+Zone 52 (Al Luqta-Lebday-Old Al Rayyan…)
 Zone 53 (New Al Rayyan-Al Wajba-Muaither)
-Zone 54 (Fereej Al Amir-Luaib-Muraikh-Baaya-Mehairja-Fereej Al Soudan)
-Zone 55 (Fereej Al Soudan-Al Waab-Al Aziziya-New Fereej Al Ghanim-Fereej Al Murra-Fereej Al Manaseer-Bu Sidra-Muaither-Al Sailiya-Al Mearad)
-Zone 56 (Fereej Al Asiri-New Fereej Al Khulaifat-Bu Samra-Al Maamoura-Bu Hamour-Mesaimeer-Ain Khaled)
+Zone 54 (Fereej Al Amir-Luaib-Muraikh…)
+Zone 55 (Fereej Al Soudan-Al Waab-Al Aziziya…)
+Zone 56 (Fereej Al Asiri-New Fereej Al Khulaifat-Bu Samra…)
 Zone 57 (Industrial Area)
 Zone 58 (Wholesale Market)
 Zone 6 (Old Al Ghanim)
@@ -148774,10 +148777,10 @@ Zone 65 (Onaiza)
 Zone 66 (Onaiza-Leqtaifiya-Al Qassar)
 Zone 67 (Hazm Al Markhiya)
 Zone 68 (Jelaiah-Al Tarfa-Jeryan Nejaima)
-Zone 69 (Jabal Thuaileb-Al Kharayej-Lusail-Al Egla-Wadi Al Banat)
+Zone 69 (Jabal Thuaileb-Al Kharayej-Lusail…)
 Zone 7 (Al Souq)
-Zone 70 (Leabaib-Al Ebb-Jeryan Jenaihat-Al Kheesa-Rawdat Al Hamama-Wadi Al Wasaah-Al Sakhama-Al Masrouhiya-Wadi Lusail-Lusail-Umm Garn-Al Daayen)
-Zone 71 (Al Kharaitiyat-Izghawa-Umm Slal Mohammed-Bu Fesseela-Umm Slal Ali-Umm Al Amad-Umm Obairiya-Lekhshaina-Sunay Lehmaidi)
+Zone 70 (Leabaib-Al Ebb-Jeryan Jenaihat…)
+Zone 71 (Al Kharaitiyat-Izghawa-Umm Slal Mohammed…)
 Zone 72 (Al Utouriya)
 Zone 73 (Lijmiliya)
 Zone 74 (Simaisma-Al Jeryan-Al Khor)
