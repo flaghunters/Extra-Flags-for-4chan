@@ -20,7 +20,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.50
+// @version     0.51
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
@@ -40,7 +40,7 @@
 
 /** JSLint excludes */
 /*jslint browser: true*/
-/*global document, console, GM_addStyle, GM_setValue, GM_getValue, GM_registerMenuCommand, GM_xmlhttpRequest, cloneInto, unsafeWindow*/
+/*global document, console, GM_addStyle, GM_setValue, GM_getValue, GM_registerMenuCommand, GM_xmlhttpRequest*/
 
 /* WebStorm JSLint ticked:
  - uncapitalized constructors
@@ -52,213 +52,111 @@
 
 // DO NOT EDIT ANYTHING IN THIS SCRIPT DIRECTLY - YOUR REGION SHOULD BE CONFIGURED BY USING THE CONFIGURATION BOXES (see install webms for help)
 var regions = [];
-var radio = "all";
-var lastRegion = ""; //used for back button
 var regionVariable = 'regionVariableAPI2';
-var radioVariable = 'radioVariableAPI2';
-var allPostsOnPage = [];
+var panelPosVariable = 'panelPosVariableAPI2';
 var postNrs = [];
+var knownRegions = {};
 var postRemoveCounter = 60;
 var requestRetryInterval = 5000;
-var flegsBaseUrl = 'https://github.com/flaghunters/Extra-Flags-for-4chan/raw/master/flags/';
-// remove comment and change link to add country flag icons into selection menu var countryFlegsBaseUrl = 'https://raw.githubusercontent.com/flagzzzz/Extra-Flags-for-4chan/master/flags/';
+var requestRetryMax = 300000;
+var requestTimeout = 15000;
+var retryDelay = requestRetryInterval;
+var retryTimer = null;
+var flegsBaseUrl = 'https://raw.githubusercontent.com/flaghunters/Extra-Flags-for-4chan/master/flags/';
 var flagListFile = 'flag_list.txt';
+var emptyFlagUrl = flegsBaseUrl + 'empty.png';
 var backendBaseUrl = 'https://api.flagtism.com/';//var backendBaseUrl = 'https://nun.wtf/';
 var postUrl = 'int/post_flag_api2.php';
 var getUrl = 'int/get_flags_api2.php';
-var shortId = 'witingwc.ef.';
 var regionDivider = "||";
+var issuesUrl = 'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues';
 
-/** Setup, preferences */
+/** ids for the pieces we inject into 4chan's own UI */
+var qrRowId = 'extraflags-qr-row';
+var shortcutId = 'shortcut-extraflags';
+var navLinkIdPrefix = 'extraflags-nav-';
+var mobileNavLinkId = 'extraflags-nav-mobile';
+var noticeStackId = 'extraflags-notices';
+
+/** show a message. It clears itself after a few seconds, or on the close cross. */
+function notify(text) {
+    var stack = document.getElementById(noticeStackId);
+    if (!stack) {
+        stack = document.createElement('div');
+        stack.id = noticeStackId;
+        document.body.appendChild(stack);
+    }
+
+    var notice = document.createElement('div');
+    notice.className = 'reply extraflags-notice';
+
+    var message = document.createElement('span');
+    message.className = 'extraflags-notice-text';
+    message.textContent = text;
+    notice.appendChild(message);
+
+    function dismiss() {
+        if (notice.parentNode) {
+            notice.parentNode.removeChild(notice);
+        }
+    }
+
+    var close = document.createElement('span');
+    close.className = 'extraflags-notice-close';
+    close.textContent = '✖';
+    close.addEventListener('click', dismiss, false);
+    notice.appendChild(close);
+
+    stack.appendChild(notice);
+    setTimeout(dismiss, 6000);
+}
+
+var foldPairs = {
+    'đ': 'd', 'ħ': 'h', 'ı': 'i', 'ł': 'l', 'ø': 'o', 'ŧ': 't',
+    'ß': 'ss', 'æ': 'ae', 'œ': 'oe', 'ð': 'd', 'þ': 'th', 'ə': 'e',
+    '–': '-', '—': '-', '‘': "'", '’': "'", '´': "'"
+};
+
+function fold(text) {
+    var folded = text.toLowerCase().replace(/[đħıłøŧßæœðþə–—‘’´]/g, function (ch) {
+        return foldPairs[ch];
+    });
+
+    if (folded.normalize) {
+        folded = folded.normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
+    }
+    return folded;
+}
+
+function foldReadings(text) {
+    var lower = text.toLowerCase(),
+        readings = [fold(lower)];
+
+    if (lower.indexOf('ə') > -1) {
+        readings.push(fold(lower.replace(/ə/g, 'a')));
+    }
+    return readings;
+}
+
+/** ------------------------------------------------------------------
+ *  Setup panel
+ *  ------------------------------------------------------------------ */
+
 var setup = {
     namespace: 'com.whatisthisimnotgoodwithcomputers.extraflagsforint.',
     id: "ExtraFlags-setup",
-    html: function () {
 
-        var htmlFixedStart = '<div>Extra Flags for 4chan v2</div><br/>';
-        var htmlBackButton = '<button name="back">Back</button>';
-        var htmlNextButton = '<button name="forward">Next</button>';
-        var htmlBackNextButtons = '<div>' + htmlBackButton + htmlNextButton + '</div>';
-        var htmlSaveButton = '<div><button name="save" title="Pressing &#34;Save Regions&#34; will set your regions to the ones current displayed below.">' +
-            'Save Regions</button></div><br/>';
-        var htmlHelpText = '<label name="' + shortId + 'label"> You can go as deep as you like, regions stack.<br/>' +
-            'For example; United States, California, Los Angeles<br/></label>' +
-            '<label>Country must match your flag! Your flag not here? Open issue here:<br/>' +
-            '<a href="https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues" style="color:blue">' +
-            'https://gitlab.com/flagtism/Extra-Flags-for-4chan/issues</a></label>';
-        var filterRadio = '<br/><br/><form id="filterRadio">' +
-            '<input type="radio" name="filterRadio" id="filterRadioall" style="display: inline !important;" value="all"><label>Show country + ALL regions.</label>' +
-            '<br/><input type="radio" name="filterRadio" id="filterRadiofirst" style="display: inline !important;" value="first"><label>Only show country + FIRST region.</label>' +
-            '<br/><input type="radio" name="filterRadio" id="filterRadiolast" style="display: inline !important;" value="last"><label>Only show country + LAST region. (v1/old format)</label>' +
-            '</form>';
+    root: null,
+    els: {},
 
-        if (regions.length > 1) {
-            var selectMenuFlags = "Regional flags selected: ";
-            var path = flegsBaseUrl + "/" + regions[0];
-            for (var i = 1; i < regions.length; i++) {
-                path += "/" + regions[i];
-                selectMenuFlags += "<img src=\"" + path + ".png\"" + " title=\"" + regions[i] + "\"> ";
-            }
-            selectMenuFlags += "<br/>";
-            return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
-                '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + htmlSaveButton + '</div>' + selectMenuFlags + htmlHelpText + filterRadio;
-        }
+    draft: [],
 
-        if (regions.length == 1) {
-            var selectMenuFlags = "<br/>";
-            return htmlFixedStart + '<div>Region: <br/><select id="' + shortId + 'countrySelect">' +
-                '</select></div><br/>' + htmlBackNextButtons +
-                '<br/>' + '</div><br/><br/>' + selectMenuFlags + htmlHelpText + filterRadio;
-       }
+    levelCache: {},
 
-        return htmlFixedStart + '<div>Country: <br/><select id="' + shortId + 'countrySelect">' +
-            '</select></div><br/>' + htmlBackNextButtons + '<br/>' + htmlHelpText + filterRadio;
+    levelToken: 0,
+    preselect: "",
+    names: [],
 
-    },
-    fillHtml: function (path1) {
-        if (path1 === "") { //normal call
-            var path = flegsBaseUrl + "/";
-            var oldPath = path;
-            if (regions.length > 0) {
-                for (var i = 0; i < regions.length; i++) {
-                    oldPath = path;
-                    path += regions[i] + "/";
-                }
-            }
-            var pathNoFlagList = path;
-        } else { // end of folder line call
-            path = path1;
-            oldPath = "";
-            var pathNoFlagList = path;
-        }
-
-        /* resolve countries which we support */
-        GM_xmlhttpRequest({
-            method: "GET",
-            url: path + flagListFile,
-            headers: {
-                "Content-Type": "application/x-www-form-urlencoded"
-            },
-            onload: function (response) {
-                if (response.status == 404) { // detect if there are no more folders
-                    setup.fillHtml(oldPath);
-                    setup.q('forward').disabled = true; // disable next button
-                } else {
-                    //hide spam, debug purposes only
-                    //console.log(response.responseText);
-                    var countrySelect = document.getElementById(shortId + 'countrySelect'),
-                        countriesAvailable = response.responseText.split('\n');
-
-                    if (countriesAvailable.length==0) {
-                        setup.fillHtml(oldPath);
-                        setup.q('forward').disabled = true; // disable next button
-                        return;
-                    }
-                    countrySelect.innerHTML = "";
-
-                    for (var countriesCounter = 0; countriesCounter < countriesAvailable.length; countriesCounter++) {
-                        var country = countriesAvailable[countriesCounter].trim();
-                        if (country === "") { continue; }
-
-                        var opt = document.createElement('option');
-                        opt.value = country;
-                        opt.innerHTML = country;
-
-                        if (lastRegion != "" && country === lastRegion) { // automatically select last selected when going up a folder
-                            opt.selected = "selected";
-                        } else if (oldPath == "" && country === regions[regions.length - 1]) { // show final selected when no more
-                            // folders detected
-                            opt.selected = "selected";
-                        }
-                        countrySelect.appendChild(opt);
-                    }
-                }
-
-            }
-        });
-    },
-    setRadio: function() {
-        var radioStatus = setup.load(radioVariable);
-        if (!radioStatus || radioStatus === "" || radioStatus === "undefined") {
-            radioStatus = "all";
-        }
-        var radioButton = document.getElementById("filterRadio" + radioStatus);
-        radioButton.checked = true;
-    },
-    q: function (n) {
-        return document.querySelector('#' + this.id + ' *[name="' + n + '"]');
-    },
-    removeExtra: function () {
-        if (regions.length > 0) {
-            lastRegion = regions[regions.length - 1];
-            regions.pop();
-        }
-        setup.show();
-    },
-    show: function () {
-        /* remove setup window if existing */
-        var setup_el = document.getElementById(setup.id);
-        if (setup_el) {
-            setup_el.parentNode.removeChild(setup_el);
-        }
-        /* create new setup window */
-        setup_el = document.createElement('div');
-        setup_el.id = setup.id;
-        setup_el.innerHTML = setup.html();
-        setup.fillHtml("", "");
-
-        document.body.appendChild(setup_el);
-
-        setup.setRadio();
-
-        /* button listeners */
-        setup.q('back').addEventListener('click', function () {
-            if (regions.length > 0) {
-                if (setup.q('forward').disabled == true) {
-                    setup.q('forward').disabled = false; // reenable next button
-                }
-                lastRegion = regions[regions.length - 1];
-                regions.pop();
-                setup.show();
-            }
-        }, false);
-
-        setup.q('forward').addEventListener('click', function () {
-            var e = document.getElementById(shortId + "countrySelect");
-            var temp = e.options[e.selectedIndex].value;
-            lastRegion = "";
-            if (temp != "") {
-                this.disabled = true;
-                this.innerHTML = 'Saving...';
-
-                lastRegion = regions[regions.length - 1];
-                regions.push(temp);
-                setup.show();
-            }
-
-        }, false);
-
-        setup.q('save').addEventListener('click', function () {
-            var e = document.getElementById(shortId + "countrySelect");
-
-            if (regions[regions.length - 1] === "") { //prevent last spot from being blank
-                regions.pop();
-            }
-            lastRegion = "";
-
-            radio = document.querySelector('input[name="filterRadio"]:checked').value;
-            setup.save(radioVariable, radio);
-
-            alert('Flags set: ' + regions + '\n\n' + 'Be sure to post using the quick reply window!');
-
-            this.disabled = true;
-            this.innerHTML = 'Saving...';
-            setup_el.parentNode.removeChild(setup_el);
-            setup.save(regionVariable, regions);
-
-        }, false);
-    },
     save: function (k, v) {
         GM_setValue(setup.namespace + k, v);
     },
@@ -266,204 +164,958 @@ var setup = {
         return GM_getValue(setup.namespace + k);
     },
     init: function () {
-        //GM_registerMenuCommand('Extra Flags setup', setup.show;
-        GM_registerMenuCommand('Extra Flags setup', setup.show);
+        GM_registerMenuCommand('Extra Flags setup', setup.open);
+    },
+
+    /** url of the directory listing one level below `parts` */
+    levelUrl: function (parts) {
+        return flegsBaseUrl + (parts.length > 0 ? parts.join('/') + '/' : '');
+    },
+
+    /** ---------------- construction ---------------- */
+
+    build: function () {
+        if (setup.root) {
+            return;
+        }
+
+        // stylesheets theme .reply and .postblock
+        var root = document.createElement('div');
+        root.id = setup.id;
+        root.className = 'reply';
+
+        var titleBar = document.createElement('div');
+        titleBar.className = 'postblock extraflags-titlebar';
+
+        var title = document.createElement('span');
+        title.textContent = 'Extra Flags';
+        titleBar.appendChild(title);
+
+        var close = document.createElement('span');
+        close.className = 'extraflags-close';
+        close.textContent = '✖';
+        close.title = 'Close without saving';
+        close.addEventListener('click', setup.close, false);
+        titleBar.appendChild(close);
+
+        root.appendChild(titleBar);
+
+        var body = document.createElement('div');
+        body.className = 'extraflags-body';
+
+        var breadcrumb = document.createElement('div');
+        breadcrumb.className = 'extraflags-breadcrumb';
+        body.appendChild(breadcrumb);
+
+        var filter = document.createElement('input');
+        filter.type = 'text';
+        filter.className = 'extraflags-filter';
+        filter.placeholder = 'Search…';
+        filter.addEventListener('input', function () {
+            setup.renderList();
+        }, false);
+        filter.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                setup.descend();
+                return;
+            }
+            if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+                e.preventDefault();
+                setup.moveSelection(e.key === 'ArrowDown' ? 1 : -1);
+                return;
+            }
+            if (e.key === 'PageDown' || e.key === 'PageUp') {
+                e.preventDefault();
+                setup.moveSelection(e.key === 'PageDown' ? list.size : -list.size);
+                return;
+            }
+            if (e.key === 'Backspace' && filter.value === '') {
+                e.preventDefault();
+                setup.ascend();
+            }
+        }, false);
+        body.appendChild(filter);
+
+        var list = document.createElement('select');
+        list.className = 'extraflags-list';
+        list.size = 10;
+        list.addEventListener('dblclick', function () {
+            setup.descend();
+        }, false);
+        list.addEventListener('keydown', function (e) {
+            if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey) {
+                e.preventDefault();
+                filter.focus();
+                filter.value += e.key;
+                setup.renderList();
+                return;
+            }
+            if (e.key === 'Backspace') {
+                e.preventDefault();
+                filter.focus();
+                if (filter.value === '') {
+                    setup.ascend();
+                    return;
+                }
+                filter.value = filter.value.slice(0, -1);
+                setup.renderList();
+                return;
+            }
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                setup.descend();
+            }
+        }, false);
+        body.appendChild(list);
+
+        var status = document.createElement('div');
+        status.className = 'extraflags-status';
+        body.appendChild(status);
+
+        var current = document.createElement('div');
+        current.className = 'extraflags-current';
+        body.appendChild(current);
+
+        var buttons = document.createElement('div');
+        buttons.className = 'extraflags-buttons';
+
+        var back = document.createElement('button');
+        back.textContent = 'Back';
+        back.addEventListener('click', function () {
+            setup.ascend();
+        }, false);
+        buttons.appendChild(back);
+
+        var next = document.createElement('button');
+        next.textContent = 'Next';
+        next.addEventListener('click', function () {
+            setup.descend();
+        }, false);
+        buttons.appendChild(next);
+
+        var saveButton = document.createElement('button');
+        saveButton.textContent = 'Save';
+        saveButton.addEventListener('click', setup.commit, false);
+        buttons.appendChild(saveButton);
+
+        body.appendChild(buttons);
+
+        var help = document.createElement('div');
+        help.className = 'extraflags-help';
+        help.appendChild(document.createTextNode('Flag missing? '));
+        var helpLink = document.createElement('a');
+        helpLink.href = issuesUrl;
+        helpLink.target = '_blank';
+        helpLink.textContent = 'Open an issue';
+        help.appendChild(helpLink);
+        help.appendChild(document.createTextNode('.'));
+        body.appendChild(help);
+
+        root.appendChild(body);
+        document.body.appendChild(root);
+
+        setup.root = root;
+        setup.els = {
+            titleBar: titleBar,
+            breadcrumb: breadcrumb,
+            filter: filter,
+            list: list,
+            status: status,
+            back: back,
+            next: next,
+            current: current
+        };
+
+        root.style.display = 'none';
+
+        setup.initDrag(titleBar);
+    },
+
+    /** ---------------- position ---------------- */
+
+    /** keep the panel on screen **/
+    place: function (left, top) {
+        var width = setup.root.offsetWidth,
+            height = setup.root.offsetHeight;
+
+        left = Math.max(0, Math.min(left, window.innerWidth - width));
+        top = Math.max(0, Math.min(top, window.innerHeight - height));
+
+        setup.root.style.left = left + 'px';
+        setup.root.style.top = top + 'px';
+        setup.root.style.right = 'auto';
+    },
+
+    restorePosition: function () {
+        var saved = setup.load(panelPosVariable);
+        if (saved && typeof saved.left === 'number' && typeof saved.top === 'number') {
+            setup.place(saved.left, saved.top);
+        }
+    },
+
+    initDrag: function (handle) {
+        var dragging = false,
+            startX = 0,
+            startY = 0,
+            originLeft = 0,
+            originTop = 0;
+
+        handle.addEventListener('mousedown', function (e) {
+            if (e.button !== 0 || e.target.className.indexOf('extraflags-close') > -1) {
+                return;
+            }
+            var rect = setup.root.getBoundingClientRect();
+            dragging = true;
+            startX = e.clientX;
+            startY = e.clientY;
+            originLeft = rect.left;
+            originTop = rect.top;
+            e.preventDefault();
+        }, false);
+
+        document.addEventListener('mousemove', function (e) {
+            if (!dragging) {
+                return;
+            }
+            setup.place(originLeft + (e.clientX - startX), originTop + (e.clientY - startY));
+        }, false);
+
+        document.addEventListener('mouseup', function () {
+            if (!dragging) {
+                return;
+            }
+            dragging = false;
+            setup.save(panelPosVariable, {
+                left: parseInt(setup.root.style.left, 10) || 0,
+                top: parseInt(setup.root.style.top, 10) || 0
+            });
+        }, false);
+    },
+
+    /** ---------------- open / close ---------------- */
+
+    isOpen: function () {
+        return setup.root !== null && setup.root.style.display !== 'none';
+    },
+
+    open: function () {
+        setup.build();
+
+        setup.draft = regions.slice();
+        setup.preselect = "";
+        setup.root.style.display = 'block';
+        setup.restorePosition();
+
+        setup.render();
+        setup.loadLevel();
+        setup.focusFilter();
+    },
+
+    close: function () {
+        if (setup.root) {
+            setup.root.style.display = 'none';
+        }
+    },
+
+    /** ---------------- navigation ---------------- */
+
+    /** move to the level below the currently selected entry */
+    descend: function () {
+        var selected = setup.selectedName();
+        if (selected === "") {
+            return;
+        }
+        setup.draft.push(selected);
+        setup.preselect = "";
+        setup.render();
+        setup.loadLevel();
+    },
+
+    /** step back up one level, reselecting the entry we came from */
+    ascend: function () {
+        if (setup.draft.length === 0) {
+            return;
+        }
+        setup.preselect = setup.draft.pop();
+        setup.render();
+        setup.loadLevel();
+    },
+
+    /** jump straight to a depth */
+    goTo: function (depth) {
+        if (depth >= setup.draft.length) {
+            return;
+        }
+        setup.preselect = setup.draft[depth];
+        setup.draft = setup.draft.slice(0, depth);
+        setup.render();
+        setup.loadLevel();
+    },
+
+    selectedName: function () {
+        var list = setup.els.list;
+        // -1 while a level is still loading or when a filter matches nothing.
+        if (list.disabled || list.selectedIndex < 0) {
+            return "";
+        }
+        return list.options[list.selectedIndex].value;
+    },
+
+    moveSelection: function (delta) {
+        var list = setup.els.list,
+            count = list.options.length,
+            index;
+
+        if (list.disabled || count === 0) {
+            return;
+        }
+
+        index = list.selectedIndex < 0 ? 0 : list.selectedIndex + delta;
+        index = Math.max(0, Math.min(index, count - 1));
+        list.selectedIndex = index;
+
+        if (list.options[index].scrollIntoView) {
+            list.options[index].scrollIntoView({block: 'nearest'});
+        }
+    },
+
+    focusFilter: function () {
+        if (setup.isOpen() && !setup.els.filter.disabled) {
+            setup.els.filter.focus();
+        }
+    },
+
+    /** ---------------- level loading ---------------- */
+
+    loadLevel: function () {
+        var url = setup.levelUrl(setup.draft) + flagListFile,
+            token = ++setup.levelToken;
+
+        setup.els.filter.value = '';
+
+        if (Object.prototype.hasOwnProperty.call(setup.levelCache, url)) {
+            setup.showLevel(token, setup.levelCache[url]);
+            return;
+        }
+
+        setup.setStatus('Loading…', true);
+
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: url,
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            timeout: requestTimeout,
+            onload: function (response) {
+                // 404 means there is no listing here, i.e. nothing below this
+                // region -- the original signal for the end of a folder line.
+                if (response.status === 404) {
+                    setup.levelCache[url] = null;
+                    setup.showLevel(token, null);
+                    return;
+                }
+                if (response.status !== 200) {
+                    setup.showLevelError(token);
+                    return;
+                }
+
+                var names = response.responseText.split('\n').map(function (name) {
+                    return name.trim();
+                }).filter(function (name) {
+                    return name !== "";
+                });
+
+                var level = names.length > 0 ? names : null;
+                setup.levelCache[url] = level;
+                setup.showLevel(token, level);
+            },
+            onerror: function () {
+                setup.showLevelError(token);
+            },
+            ontimeout: function () {
+                setup.showLevelError(token);
+            }
+        });
+    },
+
+    showLevel: function (token, names) {
+        if (token !== setup.levelToken) {
+            return;
+        }
+
+        setup.names = names || [];
+        setup.els.list.disabled = false;
+        setup.els.filter.disabled = false;
+
+        if (!names) {
+            setup.setStatus('No further subdivisions - press Save to use this.', false);
+        } else {
+            setup.setStatus('', false);
+        }
+
+        setup.renderList();
+        setup.render();
+        setup.focusFilter();
+    },
+
+    showLevelError: function (token) {
+        if (token !== setup.levelToken) {
+            return;
+        }
+        setup.names = [];
+        setup.renderList();
+        setup.setStatus('Could not load this level.', true);
+
+        var retry = document.createElement('a');
+        retry.className = 'extraflags-retry';
+        retry.textContent = 'Retry';
+        retry.addEventListener('click', function () {
+            setup.loadLevel();
+        }, false);
+        setup.els.status.appendChild(retry);
+
+        setup.render();
+        setup.focusFilter();
+    },
+
+    setStatus: function (text, busy) {
+        setup.els.status.textContent = text;
+        setup.els.list.disabled = !!busy;
+        if (busy) {
+            setup.names = [];
+            setup.renderList();
+        }
+    },
+
+    /** ---------------- rendering ---------------- */
+
+    render: function () {
+        setup.renderBreadcrumb();
+        setup.renderCurrent();
+        setup.els.back.disabled = setup.draft.length === 0;
+    },
+
+    renderBreadcrumb: function () {
+        var breadcrumb = setup.els.breadcrumb;
+        breadcrumb.textContent = '';
+
+        var root = document.createElement('a');
+        root.className = 'extraflags-crumb';
+        root.textContent = 'All';
+        root.addEventListener('click', function () {
+            setup.goTo(0);
+        }, false);
+        breadcrumb.appendChild(root);
+
+        setup.draft.forEach(function (name, i) {
+            breadcrumb.appendChild(document.createTextNode(' › '));
+
+            if (i === setup.draft.length - 1) {
+                var here = document.createElement('span');
+                here.className = 'extraflags-crumb-current';
+                here.textContent = name;
+                breadcrumb.appendChild(here);
+                return;
+            }
+
+            var crumb = document.createElement('a');
+            crumb.className = 'extraflags-crumb';
+            crumb.textContent = name;
+            crumb.addEventListener('click', function () {
+                setup.goTo(i + 1);
+            }, false);
+            breadcrumb.appendChild(crumb);
+        });
+    },
+
+    renderList: function () {
+        var list = setup.els.list,
+            needle = fold(setup.els.filter.value.trim()),
+            names = setup.names || [];
+
+        var matches = needle === "" ? names : names.filter(function (name) {
+            return foldReadings(name).some(function (reading) {
+                return reading.indexOf(needle) > -1;
+            });
+        });
+
+        list.textContent = '';
+        matches.forEach(function (name) {
+            var opt = document.createElement('option');
+            opt.value = name;
+            opt.textContent = name;
+            if (name === setup.preselect) {
+                opt.selected = true;
+            }
+            list.appendChild(opt);
+        });
+
+        if (list.selectedIndex < 0 && list.options.length > 0) {
+            list.selectedIndex = 0;
+        }
+        setup.els.next.disabled = list.options.length === 0;
+    },
+
+    renderCurrent: function () {
+        var current = setup.els.current;
+        current.textContent = '';
+
+        var label = document.createElement('span');
+        label.textContent = 'Posting as: ';
+        current.appendChild(label);
+
+        // draft[0] is the country
+        if (setup.draft.length < 2) {
+            var none = document.createElement('span');
+            none.className = 'extraflags-none';
+            none.textContent = setup.draft.length === 1 ? 'country only, no extra flag' : 'nothing selected';
+            current.appendChild(none);
+            return;
+        }
+
+        appendFlagChain(current, setup.draft);
+    },
+
+    /** ---------------- saving ---------------- */
+
+    commit: function () {
+        regions = setup.draft.slice();
+
+        setup.save(regionVariable, regions);
+
+        setup.close();
+        refreshQrIndicator();
     }
 };
 
-/** Prompt to set region if regionVariable is empty  */
-regions = setup.load(regionVariable);
-radio = setup.load(radioVariable);
-if (!regions) {
-    regions = [];
-    setTimeout(function () {
-        if (window.confirm("Extra Flags: No region detected, set it up now?") === true) {
-            setup.show();
-        }
-    }, 2000);
-}
-if (!radio || radio === "" || radio === "undefined") {
-    radio = "all";
+/** the images for a chain, appended to container **/
+function appendFlagChain(container, parts, linkify) {
+    for (var i = 1; i < parts.length; i++) {
+        var chain = parts.slice(0, i + 1),
+            imgSrc = flegsBaseUrl + chain.join('/') + '.png',
+            searchQuery = linkify ? chain.reverse().join(', ') : "";
+
+        container.appendChild(buildFlagElement(imgSrc, parts[i], searchQuery));
+    }
 }
 
-/** parse the posts already on the page before thread updater kicks in */
-function parseOriginalPosts() {
-    var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
-    
-    // If no posts found, retry after a short delay (needed for index to work with 4chan X)
-    if (tempAllPostsOnPage.length === 0) {
-        setTimeout(parseOriginalPosts, 250);
+/** a link that opens the panel **/
+function buildOpenLink(text) {
+    var link = document.createElement('a');
+    link.className = 'extraflags-open';
+    link.textContent = text;
+    link.title = 'Extra Flags setup';
+    link.addEventListener('click', setup.open, false);
+    return link;
+}
+
+function installEntryPoints() {
+    // 4chan X
+    var shortcuts = document.getElementById('shortcuts');
+    if (shortcuts && !document.getElementById(shortcutId)) {
+        var shortcut = document.createElement('span');
+        shortcut.id = shortcutId;
+        shortcut.className = 'shortcut brackets-wrap';
+        shortcut.appendChild(buildOpenLink('Flags'));
+        shortcuts.appendChild(shortcut);
+    }
+
+    // Vanilla 4chan
+    ['navtopright', 'navbotright'].forEach(function (navId) {
+        var nav = document.getElementById(navId);
+        if (!nav || document.getElementById(navLinkIdPrefix + navId)) {
+            return;
+        }
+        var holder = document.createElement('span');
+        holder.id = navLinkIdPrefix + navId;
+        holder.appendChild(document.createTextNode(' ['));
+        holder.appendChild(buildOpenLink('Extra Flags'));
+        holder.appendChild(document.createTextNode('] '));
+        nav.appendChild(holder);
+    });
+
+    // mobile
+    var pageJump = document.querySelector('#boardNavMobile .pageJump');
+    if (pageJump && !document.getElementById(mobileNavLinkId)) {
+        var mobileHolder = document.createElement('span');
+        mobileHolder.id = mobileNavLinkId;
+        mobileHolder.appendChild(document.createTextNode(' '));
+        mobileHolder.appendChild(buildOpenLink('Flags'));
+        pageJump.appendChild(mobileHolder);
+    }
+}
+
+/** ------------------------------------------------------------------
+ *  Quick reply indicator
+ *  ------------------------------------------------------------------ */
+
+/** quick reply, 4chan X #qr, 4chan #quickReply */
+function findQrRoot() {
+    return document.getElementById('qr') || document.getElementById('quickReply');
+}
+
+function qrInsertTarget(root) {
+    if (root.id === 'qr') {
+        // #qr > form is the scrolling body of the 4chan X quick reply.
+        return root.querySelector('form') || root;
+    }
+    return root.querySelector('.qrForm') || root;
+}
+
+function buildQrRow() {
+    var row = document.createElement('div');
+    row.id = qrRowId;
+    fillQrRow(row);
+    return row;
+}
+
+function fillQrRow(row) {
+    row.textContent = '';
+
+    var label = document.createElement('span');
+    label.textContent = 'Flags: ';
+    row.appendChild(label);
+
+    if (regions.length > 1) {
+        appendFlagChain(row, regions);
+    } else {
+        var none = document.createElement('span');
+        none.className = 'extraflags-none';
+        none.textContent = 'none set';
+        row.appendChild(none);
+    }
+
+    row.appendChild(document.createTextNode(' ['));
+    row.appendChild(buildOpenLink('change'));
+    row.appendChild(document.createTextNode(']'));
+}
+
+function installQrIndicator() {
+    var root = findQrRoot();
+    if (!root) {
         return;
     }
-    
-    allPostsOnPage = Array.prototype.slice.call(tempAllPostsOnPage); //convert from element list to javascript array
-    postNrs = allPostsOnPage.map(function (p) {
-        return p.id.replace("pc", "");
+
+    var target = qrInsertTarget(root),
+        existing = document.getElementById(qrRowId);
+
+    if (existing && target.contains(existing)) {
+        return;
+    }
+    if (existing && existing.parentNode) {
+        existing.parentNode.removeChild(existing);
+    }
+
+    target.appendChild(buildQrRow());
+}
+
+function refreshQrIndicator() {
+    var row = document.getElementById(qrRowId);
+    if (row) {
+        fillQrRow(row);
+    }
+}
+
+var uiScanQueued = false;
+
+function scanForUiHooks() {
+    if (uiScanQueued) {
+        return;
+    }
+    uiScanQueued = true;
+    setTimeout(function () {
+        uiScanQueued = false;
+        installEntryPoints();
+        installQrIndicator();
+        redrawKnownFlags();
+    }, 0);
+}
+
+/** ------------------------------------------------------------------
+ *  Flags on posts
+ *  ------------------------------------------------------------------ */
+
+/** parse the posts already on the page before thread updater kicks in */
+var maxParseAttempts = 20;
+
+function parseOriginalPosts(attempt) {
+    var tempAllPostsOnPage = document.getElementsByClassName('postContainer');
+
+    // If no posts found, retry after a short delay (needed for index to work with 4chan X).
+    if (tempAllPostsOnPage.length === 0) {
+        var nextAttempt = (attempt || 0) + 1;
+        if (nextAttempt < maxParseAttempts) {
+            setTimeout(function () {
+                parseOriginalPosts(nextAttempt);
+            }, 250);
+        }
+        return;
+    }
+
+    postNrs = [];
+    Array.prototype.forEach.call(tempAllPostsOnPage, function (p) {
+        addPostNr(p.id.replace("pc", ""));
     });
-    
+
     resolveRefFlags();
 }
 
-/** the function to get the flags from the db uses postNrs
- *  member variable might not be very nice but it's the easiest approach here */
-function onFlagsLoad(response) {
-    //exit on error
-    if (response.status !== 200) {
-        console.log("Could not fetch flags, status: " + response.status);
-        console.log(response.statusText);
-        setTimeout(resolveRefFlags, requestRetryInterval);
+/** whether the backend has already answered for a post */
+function isKnown(post_nr) {
+    return Object.prototype.hasOwnProperty.call(knownRegions, post_nr);
+}
+
+/** queue a post for lookup, unless it is already queued or already answered for */
+function addPostNr(post_nr) {
+    if (!post_nr || postNrs.indexOf(post_nr) > -1) {
         return;
     }
 
-    var jsonData = JSON.parse(response.responseText);
+    // Already answered
+    if (isKnown(post_nr)) {
+        renderFlags(post_nr);
+        return;
+    }
 
-    jsonData.forEach(function (post) {
-        var postedRegions = post.region.split(regionDivider),
-            postToAddFlagTo = document.getElementById("pc" + post.post_nr),
-            postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
-            nameBlock = postInfo?.getElementsByClassName('nameBlock')[0],
-            postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
-            nameBlockM = postInfoM?.getElementsByClassName('nameBlock')[0];
+    postNrs.push(post_nr);
+}
 
-        var currentFlag = nameBlock?.getElementsByClassName('flag')[0] || nameBlockM.getElementsByClassName('flag')[0];
+/** build one region flag **/
+function buildFlagElement(imgSrc, regionName, searchQuery) {
+    var newFlag = document.createElement(searchQuery ? 'a' : 'span');
+    newFlag.className = "extraFlag";
+    newFlag.title = regionName;
 
-        if (postedRegions.length > 0 && !(currentFlag === undefined)) {
-            var path = currentFlag.title;
-            for (var i = 0; i < postedRegions.length; i++) {
-                path += "/" + postedRegions[i];
+    if (searchQuery) {
+        newFlag.href = "https://www.google.com/search?q=" + encodeURIComponent(searchQuery);
+        newFlag.target = '_blank';
+        newFlag.rel = 'noopener noreferrer';
+    }
 
-                // this is probably quite a dirty fix, but it's fast
-                if ((radio === "all") || (radio === "first" && i === 0) || (radio === "last" && i === (postedRegions.length - 1))) {
-                    var newFlag = document.createElement('a');
-
-                    var lastI = i;
-                    if (radio === 'last') {
-                        lastI = 0;
-                    }
-
-                    var newFlagImgOpts = 'onerror="(function () {var extraFlagsImgEl = document.getElementById(\'pc' + post.post_nr +
-                        '\').getElementsByClassName(\'extraFlag\')[' + lastI +
-                        '].firstElementChild; if (!/\\/empty\\.png$/.test(extraFlagsImgEl.src)) {extraFlagsImgEl.src = \'' +
-                        flegsBaseUrl + 'empty.png\';}})();"';
-
-                    newFlag.innerHTML = "<img src=\"" + flegsBaseUrl + path + ".png\"" + newFlagImgOpts + " title=\"" + postedRegions[i] + "\">";
-                    newFlag.className = "extraFlag";
-
-                    if (i > 0) {
-                        newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + postedRegions[i - 1];
-                    } else {
-                        newFlag.href = "https://www.google.com/search?q=" + postedRegions[i] + ", " + currentFlag.title;
-                    }
-
-                    newFlag.target = '_blank';
-                    //padding format: TOP x RIGHT_OF x BOTTOM x LEFT_OF
-                    newFlag.style = "padding: 0px 0px 0px 5px; vertical-align:;display: inline-block; width: 16px; height: 11px; position: relative;";
-
-                    nameBlock?.appendChild(newFlag);
-                    nameBlockM?.appendChild(newFlag.cloneNode(true));
-
-                    console.log("resolved " + postedRegions[i]);
-                }
-            }
+    var img = document.createElement('img');
+    img.src = imgSrc;
+    img.addEventListener('error', function () {
+        if (img.src !== emptyFlagUrl) {
+            img.src = emptyFlagUrl;
         }
+    }, false);
 
-        //postNrs are resolved and should be removed from this variable
-        var index = postNrs.indexOf(post.post_nr);
-        if (index > -1) {
-            postNrs.splice(index, 1);
+    newFlag.appendChild(img);
+    return newFlag;
+}
+
+/** draw a post's flags*/
+function renderFlags(post_nr) {
+    var postToAddFlagTo = document.getElementById("pc" + post_nr);
+
+    if (!postToAddFlagTo) {
+        return;
+    }
+
+    var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
+        nameBlock = postInfo?.getElementsByClassName('nameBlock')[0],
+        postInfoM = postToAddFlagTo.getElementsByClassName('postInfoM')[0],
+        nameBlockM = postInfoM?.getElementsByClassName('nameBlock')[0];
+
+    var currentFlag = nameBlock?.getElementsByClassName('flag')[0] || nameBlockM?.getElementsByClassName('flag')[0];
+    if (!currentFlag) {
+        return;
+    }
+
+    var postedRegions = String(knownRegions[post_nr] || "").split(regionDivider).map(function (region) {
+        return region.trim();
+    }).filter(function (region) {
+        return region !== "";
+    });
+    if (postedRegions.length === 0) {
+        return;
+    }
+
+    var chain = [currentFlag.title].concat(postedRegions);
+    [nameBlock, nameBlockM].forEach(function (block) {
+        if (block && block.getElementsByClassName('extraFlag').length === 0) {
+            appendFlagChain(block, chain, true);
         }
     });
+}
 
-    //removing posts older than the time limit (they likely won't resolve)
+/** redraw every post the backend has already responded for **/
+function redrawKnownFlags() {
+    Object.keys(knownRegions).forEach(function (post_nr) {
+        renderFlags(post_nr);
+    });
+}
+
+/** drop post numbers that are answered or too old **/
+function prunePostNrs() {
     var timestampMinusPostRemoveCounter = Math.round(+new Date() / 1000) - postRemoveCounter;
 
-    postNrs.forEach(function (post_nr) {
-        var postToAddFlagTo = document.getElementById("pc" + post_nr),
-            postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0],
-            dateTime = postInfo.getElementsByClassName('dateTime')[0];
-
-        if (dateTime.getAttribute("data-utc") < timestampMinusPostRemoveCounter) {
-            var index = postNrs.indexOf(post_nr);
-            if (index > -1) {
-                postNrs.splice(index, 1);
-            }
+    postNrs = postNrs.filter(function (post_nr) {
+        if (isKnown(post_nr)) {
+            return false;
         }
+
+        var postToAddFlagTo = document.getElementById("pc" + post_nr);
+        if (!postToAddFlagTo) {
+            return false;
+        }
+
+        var postInfo = postToAddFlagTo.getElementsByClassName('postInfo')[0] ||
+                postToAddFlagTo.getElementsByClassName('postInfoM')[0],
+            dateTime = postInfo?.getElementsByClassName('dateTime')[0];
+
+        if (!dateTime) {
+            return false;
+        }
+
+        return Number(dateTime.getAttribute("data-utc")) >= timestampMinusPostRemoveCounter;
     });
+}
+
+function onFlagsLoad(response) {
+    //exit on error
+    if (response.status !== 200) {
+        onFlagsFailed("status " + response.status + " " + response.statusText);
+        return;
+    }
+
+    var jsonData;
+    try {
+        jsonData = JSON.parse(response.responseText);
+    } catch (parseError) {
+        onFlagsFailed("unreadable response");
+        return;
+    }
+    if (!Array.isArray(jsonData)) {
+        onFlagsFailed("unexpected response shape");
+        return;
+    }
+
+    retryDelay = requestRetryInterval;
+
+    jsonData.forEach(function (post) {
+        knownRegions[post.post_nr] = String(post.region || "");
+        renderFlags(post.post_nr);
+    });
+
+    prunePostNrs();
+}
+
+function onFlagsFailed(reason) {
+    console.log("Extra Flags: could not fetch flags (" + reason + ")");
+    scheduleRetry();
+}
+
+function scheduleRetry() {
+    if (retryTimer !== null) {
+        return;
+    }
+
+    // Jittered
+    var delay = retryDelay + Math.floor(Math.random() * 1000);
+    retryTimer = setTimeout(function () {
+        retryTimer = null;
+        resolveRefFlags();
+    }, delay);
+
+    retryDelay = Math.min(retryDelay * 2, requestRetryMax);
 }
 
 /** fetch flags from db */
 function resolveRefFlags() {
     var boardID = window.location.pathname.split('/')[1];
-    if (boardID === "int" || boardID === "sp" || boardID === "pol" || boardID === "bant") {
-
-        // Check if postNrs is empty before making request
-        if (postNrs.length === 0) {
-            console.log("No posts to resolve, skipping request");
-            return;
-        }
-
-        GM_xmlhttpRequest({
-            method: "POST",
-            url: backendBaseUrl + getUrl,
-            data: "post_nrs=" + encodeURIComponent(postNrs) + "&" + "board=" + encodeURIComponent(boardID),
-            headers: {
-                "Content-Type": "application/x-www-form-urlencoded"
-            },
-            onload: onFlagsLoad
-        });
+    if (!(boardID === "int" || boardID === "sp" || boardID === "pol" || boardID === "bant")) {
+        return;
     }
+
+    // Check if postNrs is empty before making request
+    if (postNrs.length === 0) {
+        return;
+    }
+
+    // Already backing off from a failure; that timer will send the whole queue,
+    // including whatever was added since.
+    if (retryTimer !== null) {
+        return;
+    }
+
+    GM_xmlhttpRequest({
+        method: "POST",
+        url: backendBaseUrl + getUrl,
+        data: "post_nrs=" + encodeURIComponent(postNrs.join(',')) + "&" + "board=" + encodeURIComponent(boardID),
+        headers: {
+            "Content-Type": "application/x-www-form-urlencoded"
+        },
+        timeout: requestTimeout,
+        onload: onFlagsLoad,
+        onerror: function () {
+            onFlagsFailed("network error");
+        },
+        ontimeout: function () {
+            onFlagsFailed("timeout");
+        },
+        onabort: function () {
+            onFlagsFailed("aborted");
+        }
+    });
 }
 
-/** send flag to system on 4chan x (v2, loadletter, v3 untested) post
- *  handy comment to save by ccd0
- *  console.log(e.detail.boardID);  // board name    (string)
- *  console.log(e.detail.threadID); // thread number (integer in ccd0, string in loadletter)
- *  console.log(e.detail.postID);   // post number   (integer in ccd0, string in loadletter) */
-document.addEventListener('QRPostSuccessful', function (e) {
-    //setTimeout to support greasemonkey 1.x
-    setTimeout(function () {
-        GM_xmlhttpRequest({
-            method: "POST",
-            url: backendBaseUrl + postUrl,
-            data: "post_nr=" + encodeURIComponent(e.detail.postID) + "&" + "board=" + encodeURIComponent(e.detail.boardID) + "&" + "regions=" +
-            encodeURIComponent(regions.slice(1).join(regionDivider)),
-            headers: {
-                "Content-Type": "application/x-www-form-urlencoded"
-            },
-            onload: function (response) {
-                //hide spam, debug purposes only
-                //console.log(response.responseText);
+/** record the regions this user claims for a post they just made */
+function submitFlag(postId, boardID) {
+    var claimedRegions = regions.slice(1).join(regionDivider);
+
+    // dont send empty requests
+    if (!postId || !boardID || claimedRegions === "") {
+        return;
+    }
+
+    GM_xmlhttpRequest({
+        method: "POST",
+        url: backendBaseUrl + postUrl,
+        data: "post_nr=" + encodeURIComponent(postId) + "&" + "board=" + encodeURIComponent(boardID) + "&" + "regions=" +
+        encodeURIComponent(claimedRegions),
+        headers: {
+            "Content-Type": "application/x-www-form-urlencoded"
+        },
+        timeout: requestTimeout,
+        onload: function (response) {
+            if (response.status !== 200) {
+                console.log("Extra Flags: flag not recorded, status " + response.status + ": " + response.responseText);
+                notify('Your flag was not recorded (server said ' + response.status + '). It cannot be added later.');
             }
-        });
+        },
+        onerror: function () {
+            console.log("Extra Flags: flag not recorded (network error)");
+            notify('Your flag was not recorded (network error). It cannot be added later.');
+        },
+        ontimeout: function () {
+            console.log("Extra Flags: flag not recorded (timeout)");
+            notify('Your flag was not recorded (timed out). It cannot be added later.');
+        }
+    });
+}
+
+/** send flag to system on 4chan x **/
+document.addEventListener('QRPostSuccessful', function (e) {
+    setTimeout(function () {
+        submitFlag(e.detail.postID, e.detail.boardID);
     }, 0);
 }, false);
 
-/** send flag to system on 4chan inline post */
+/** send flag to system on 4chan inline post **/
 document.addEventListener('4chanQRPostSuccess', function (e) {
     var boardID = window.location.pathname.split('/')[1];
     var evDetail = e.detail || e.wrappedJSObject.detail;
-    //setTimeout to support greasemonkey 1.x
     setTimeout(function () {
-        GM_xmlhttpRequest({
-            method: "POST",
-            url: backendBaseUrl + postUrl,
-            data: "post_nr=" + encodeURIComponent(evDetail.postId) + "&" + "board=" + encodeURIComponent(boardID) + "&" + "regions=" +
-            encodeURIComponent(regions.slice(1).join(regionDivider)),
-            headers: {
-                "Content-Type": "application/x-www-form-urlencoded"
-            },
-            onload: function (response) {
-                //hide spam, debug only
-                //console.log(response.responseText);
-            }
-        });
+        submitFlag(evDetail.postId, boardID);
     }, 0);
 }, false);
 
-/** Listen to post updates from the thread updater for 4chan x v2 (loadletter) and v3 (ccd0 + ?) */
+/** Listen to post updates from the thread updater for 4chan x **/
 document.addEventListener('ThreadUpdate', function (e) {
     var evDetail = e.detail || e.wrappedJSObject.detail;
-    var evDetailClone = typeof cloneInto === 'function' ? cloneInto(evDetail, unsafeWindow) : evDetail;
 
     //ignore if 404 event
     if (evDetail[404] === true) {
@@ -471,72 +1123,148 @@ document.addEventListener('ThreadUpdate', function (e) {
     }
 
     setTimeout(function () {
-        //add to temp posts and the DOM element to allPostsOnPage
-        evDetailClone.newPosts.forEach(function (post_board_nr) {
-            var post_nr = post_board_nr.split('.')[1];
-            postNrs.push(post_nr);
-            var newPostDomElement = document.getElementById("pc" + post_nr);
-            allPostsOnPage.push(newPostDomElement);
-        });
+        //queue the new posts, then look them all up in one request
+        if (evDetail.newPosts) {
+            evDetail.newPosts.forEach(function (post_board_nr) {
+                addPostNr(post_board_nr.split('.')[1]);
+            });
+        }
 
+        resolveRefFlags();
     }, 0);
-    //setTimeout to support greasemonkey 1.x
-    setTimeout(resolveRefFlags, 0);
 }, false);
 
 /** Listen to post updates from the thread updater for inline extension */
 document.addEventListener('4chanThreadUpdated', function (e) {
     var evDetail = e.detail || e.wrappedJSObject.detail;
 
+    // Outside a thread there is no t<threadID> container.
     var threadID = window.location.pathname.split('/')[3];
-    var postsContainer = Array.prototype.slice.call(document.getElementById('t' + threadID).childNodes);
-    var lastPosts = postsContainer.slice(Math.max(postsContainer.length - evDetail.count, 1)); //get the last n elements (where n is evDetail.count)
+    var threadContainer = threadID ? document.getElementById('t' + threadID) : null;
+    if (!threadContainer) {
+        return;
+    }
 
-    //add to temp posts and the DOM element to allPostsOnPage
+    var postsContainer = Array.prototype.slice.call(threadContainer.childNodes);
+    var newPostCount = (evDetail && evDetail.count) || 0;
+    var lastPosts = postsContainer.slice(Math.max(postsContainer.length - newPostCount, 1)); //get the last n elements (where n is evDetail.count)
+
+    //queue the new posts; childNodes includes text nodes, which have no id
     lastPosts.forEach(function (post_container) {
-        var post_nr = post_container.id.replace("pc", "");
-        postNrs.push(post_nr);
-        allPostsOnPage.push(post_container);
+        if (post_container.id) {
+            addPostNr(post_container.id.replace("pc", ""));
+        }
     });
-    //setTimeout to support greasemonkey 1.x
     setTimeout(resolveRefFlags, 0);
 }, false);
 
 /** Detect index page navigation when using 4chan X */
-(function() {
+(function () {
     var originalPushState = history.pushState;
-    history.pushState = function() {
+    history.pushState = function () {
         originalPushState.apply(history, arguments);
-        //setTimeout to support greasemonkey 1.x
         setTimeout(parseOriginalPosts, 0);
     };
+
+    // Back and forward do not go through pushState.
+    window.addEventListener('popstate', function () {
+        setTimeout(parseOriginalPosts, 0);
+    }, false);
 })();
 
-/** START fix flag alignment on chrome */
-function addGlobalStyle(css) {
-    var head, style;
-    head = document.getElementsByTagName('head')[0];
-    if (!head) {
-        return;
+/** ------------------------------------------------------------------
+ *  Styles
+ *  ------------------------------------------------------------------ */
+GM_addStyle([
+    '#' + setup.id + ' {',
+    '  position: fixed; z-index: 10001; top: 40px; right: 40px;',
+    '  display: none; width: 290px; padding: 0;',
+    '  border-style: solid; border-width: 1px; text-align: left;',
+    '  border-color: currentColor;',
+    '  font-size: 12px; line-height: normal;',
+    '}',
+    '#' + setup.id + ' .extraflags-titlebar {',
+    '  display: flex; justify-content: space-between; align-items: center;',
+    '  cursor: move; user-select: none; padding: 2px 5px;',
+    '  border-bottom: 1px solid;',
+    '}',
+    '#' + setup.id + ' .extraflags-close { cursor: pointer; padding-left: 8px; }',
+    '#' + setup.id + ' .extraflags-body { padding: 6px 8px 8px; }',
+    '#' + setup.id + ' .extraflags-breadcrumb { margin-bottom: 4px; word-wrap: break-word; }',
+    '#' + setup.id + ' .extraflags-crumb { cursor: pointer; text-decoration: underline; }',
+    '#' + setup.id + ' .extraflags-crumb-current { font-weight: bold; }',
+    '#' + setup.id + ' .extraflags-filter { width: 100%; box-sizing: border-box; margin-bottom: 3px; }',
+    '#' + setup.id + ' .extraflags-list { width: 100%; box-sizing: border-box; }',
+    '#' + setup.id + ' .extraflags-status { min-height: 1.4em; padding: 2px 0; font-style: italic; }',
+    '#' + setup.id + ' .extraflags-retry { cursor: pointer; text-decoration: underline; padding-left: 5px; }',
+    '#' + setup.id + ' .extraflags-buttons { display: flex; gap: 4px; margin: 3px 0 6px; }',
+    '#' + setup.id + ' .extraflags-buttons button { flex: 1; }',
+    '#' + setup.id + ' .extraflags-current { margin-bottom: 6px; word-wrap: break-word; }',
+    '#' + setup.id + ' .extraflags-help { font-size: 11px; opacity: 0.85; word-wrap: break-word; }',
+    '.extraflags-none { font-style: italic; opacity: 0.8; }',
+    '.extraflags-open { cursor: pointer; }',
+
+    /* notices */
+    '#' + noticeStackId + ' {',
+    '  position: fixed; z-index: 10002; top: 0; left: 50%; transform: translateX(-50%);',
+    '  display: flex; flex-direction: column; align-items: center;',
+    '}',
+    '#' + noticeStackId + ' .extraflags-notice {',
+    '  display: flex; align-items: center; gap: 8px;',
+    '  max-width: 90vw; margin-top: 4px; padding: 5px 8px;',
+    '  border-style: solid; border-width: 1px;',
+    '  border-color: currentColor;',
+    '  border-left-width: 4px; border-left-color: #c33;',
+    '  font-size: 12px; text-align: left;',
+    '}',
+    '#' + noticeStackId + ' .extraflags-notice-close { cursor: pointer; opacity: 0.7; }',
+
+    /* Quick reply row. */
+    '#' + qrRowId + ' {',
+    '  width: 0; min-width: 100%; box-sizing: border-box;',
+    '  padding: 2px 3px; font-size: 12px; overflow-wrap: anywhere;',
+    '}',
+
+    /* the flags */
+    '.extraFlag {',
+    '  padding: 0 0 0 5px; display: inline-block; line-height: 0;',
+    '  width: 16px; height: 11px;',
+    '}',
+    '.extraFlag img {',
+    '  display: block; width: 100%; height: 100%;',
+    '}'
+].join('\n'));
+
+/** fix flag alignment */
+GM_addStyle('.flag{top: 0px !important;left: -1px !important}');
+
+/** ------------------------------------------------------------------
+ *  Start up
+ *  ------------------------------------------------------------------ */
+
+/** Load preferences **/
+regions = setup.load(regionVariable);
+if (typeof regions === 'string') {
+    regions = regions.split(',').filter(function (region) {
+        return region !== "";
+    });
+}
+if (!Array.isArray(regions)) {
+    regions = [];
+}
+
+/** Escape closes the panel **/
+document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && setup.isOpen()) {
+        setup.close();
     }
-    style = document.createElement('style');
-    style.type = 'text/css';
-    style.innerHTML = css;
-    head.appendChild(style);
+}, false);
+
+/** 4chan X builds its header and quick reply after this script runs **/
+if (document.body) {
+    new MutationObserver(scanForUiHooks).observe(document.body, {childList: true, subtree: true});
 }
 
-if (navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
-    addGlobalStyle('.flag{top: 0px !important;left: -1px !important}');
-}
-/** END fix flag alignment on chrome */
-
-// add styles only once and not each time we call .show()
-GM_addStyle('\
-    #' + setup.id + ' { position:fixed;z-index:10001;top:40px;right:40px;padding:20px 30px;background-color:white;width:auto;border:1px solid black }\
-    #' + setup.id + ' * { color:black;text-align:left;line-height:normal;font-size:12px }\
-    #' + setup.id + ' div { text-align:center;font-weight:bold;font-size:14px }'
-);
-
-/** setup init and start first calls */
 setup.init();
+scanForUiHooks();
 parseOriginalPosts();
