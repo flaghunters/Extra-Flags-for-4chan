@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.51
+// @version     0.60
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
