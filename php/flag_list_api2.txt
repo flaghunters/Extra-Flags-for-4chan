@@ -649,6 +649,7 @@ Adairsville
 Adak
 Adaklı District
 Adalar District
+Aðaldælahreppur
 Adale District
 Adalia
 Adam-lès-Passavant
@@ -1622,6 +1623,7 @@ Akören District
 Akouda
 Akpazar
 Akpınar District
+Akrahreppur
 Akranes
 Akreshory
 Akron
@@ -1660,6 +1662,7 @@ Aktybinsky
 Aktyubinsky
 Akune
 Akunq Municipality
+Akureyrarkaupstaður
 Akureyri
 Akushinsky District
 Akwa Ibom State
@@ -2668,6 +2671,9 @@ Alfredton
 Alfriston
 Alfstedt
 Alfta
+Álftanes
+Álftaneshreppur
+Álftavershreppur
 Alfter
 Alfundão
 Alfundão e Peroguarda
@@ -4169,6 +4175,7 @@ Ancy-sur-Moselle
 Anda
 Andacollo
 Andainville
+Andakílshreppur
 Andalgalá
 Andali
 Andalo
@@ -4647,6 +4654,7 @@ Anos
 Anost
 Anosy Region
 Anould
+Anouvong District
 Anoux
 Añover de Tajo
 Añover de Tormes
@@ -5952,6 +5960,7 @@ Arnage
 Arnancourt
 Arnans
 Arnara
+Arnarneshreppur
 Arnas
 Arnasco
 Arnasoy District
@@ -6230,6 +6239,7 @@ Arsiero
 Arsin District
 Arsita
 Arsk
+Árskógshreppur
 Arsky District
 Årslev
 Arsoli
@@ -6533,6 +6543,7 @@ Ashmyany District
 Ashoro
 Ashotsk Municipality
 Ashport
+Áshreppur
 Asht District
 Ashtabula County
 Ashtarak Municipality
@@ -6644,6 +6655,7 @@ Assais-les-Jumeaux
 Assal al-Ward Subdistrict
 Assam
 Assamstadt
+Assaphone District
 Assaré
 Assares
 Assares e Lodões
@@ -6914,6 +6926,7 @@ Atrat
 Atrato
 Atri
 Atripalda
+Atsaphangthong District
 Atsimo-Andrefana Region
 Atsinanana Region
 Atsubetsu
@@ -6926,6 +6939,7 @@ Attala
 Attala County
 Attalens
 Attancourt
+Attapeu Province
 Attapulgus
 Attard
 Attatba
@@ -7125,6 +7139,7 @@ Audincourt
 Audincthun
 Audinghen
 Auditore
+Auðkúluhreppur
 Audnedal
 Audon
 Audouville-la-Hubert
@@ -7409,6 +7424,8 @@ Austral Islands
 Australian Antarctic Territory
 Australian Capital Territory
 Austrheim
+Austur-Eyjafjallahreppur
+Austur-Landeyjahreppur
 Auswil
 Autafond
 Autainville
@@ -8177,6 +8194,7 @@ Bachenberg
 Bachenbülach
 Bachfeld
 Bachhagel
+Bachiangchaleunsouk District
 Bächingen an der Brenz
 Bachíniva
 Bachivillers
@@ -8511,6 +8529,7 @@ Badules
 Badulla
 Badung Regency
 Bady Bassitt
+Bæjarhreppur
 Baelen
 Baells
 Baén
@@ -9783,6 +9802,8 @@ Barda
 Barda District
 Bardallur
 Bardar
+Barðastrandarhreppur
+Bárðdælahreppur
 Bardejov
 Bardejov District
 Bardello
@@ -12104,6 +12125,7 @@ Benfeld
 Benferri
 Benfica
 Benfica do Ribatejo
+Beng District
 Bengaluru
 Bengel
 Bengerstorf
@@ -12880,6 +12902,7 @@ Béru
 Béruges
 Bérulle
 Berumbur
+Beruneshreppur
 Běrunice
 Beruniy District
 Beruri
@@ -14111,6 +14134,7 @@ Biskupice-Pulkov
 Biskupiec
 Biskupija
 Biskupová
+Biskupstungnahreppur
 Bislée
 Bislig
 Bismarck
@@ -14422,6 +14446,7 @@ Blasconuño de Matacabras
 Blascosancho
 Blasdell
 Blasimon
+Bláskógabyggð
 Blaslay
 Blassac
 Błaszki
@@ -15293,6 +15318,7 @@ Bokeloh
 Bokelrehm
 Bökendorf
 Bokensdorf
+Bokeo Province
 Bokey Orda District
 Bokhan
 Bokhansky District
@@ -15368,6 +15394,7 @@ Bolhó
 Bolhrad District
 Bolhrad Hromada
 Boliarov
+Bolikhamsai Province
 Bolimów
 Bolinao
 Boliney
@@ -15518,6 +15545,7 @@ Bolshoye Podovechye
 Bolshoye Shigayevo
 Bolshoye Sudachye
 Bolsover
+Bólstaðarhlíðarhreppur
 Bolsterlang
 Bolstern
 Boltaña
@@ -15936,6 +15964,10 @@ Börfink
 Borg El Arab
 Borgarbyggð
 Borgarello
+Borgarfjarðarhreppur
+Borgarhafnarhreppur
+Borgarhreppur
+Borgarnes
 Borgaro Torinese
 Borgáta
 Borgdorf-Seedorf
@@ -16020,6 +16052,7 @@ Borgsum
 Borgsweer
 Borgwedel
 Bořice
+Borikhane District
 Borili District
 Borinka
 Borino
@@ -16369,6 +16402,7 @@ Botany Downs
 Botão
 Botarell
 Botelhos
+Botene District
 Botenheim
 Boteni
 Bötersen
@@ -16438,6 +16472,7 @@ Bou Saâda
 Bou Salem
 Bouafle
 Bouafles
+Boualapha District
 Bouan
 Bouaye
 Boubers-lès-Hesmond
@@ -16606,6 +16641,8 @@ Boulzicourt
 Boumedfaa
 Boumerdès Province
 Boumourt
+Boun Neua District
+Boun Tay District
 Bound Brook
 Boundary County
 Bouniagues
@@ -17526,6 +17563,7 @@ Breia
 Breiðdalshreppur
 Breidenbach
 Breidenstein
+Breiðuvíkurhreppur
 Breiholz
 Breil
 Breil ̸ Brigels
@@ -18860,6 +18898,7 @@ Buda-Kashalyova
 Buda-Kashalyova District
 Budacu de Jos
 Budafok-Tétény District
+Búðahreppur
 Budăi
 Budajenő
 Budakalász
@@ -19148,6 +19187,7 @@ Bulakan
 Bulalacao
 Bulan
 Bulancak District
+Búlandshreppur
 Bulandy District
 Bulanık District
 Bulaq El Dakrour
@@ -21820,6 +21860,7 @@ Capistrello
 Capital
 Capital Gardens City
 Capital Governorate
+Capital Region
 Capital Regional District
 Capitale-Nationale
 Capitán Arturo Prat Base
@@ -25121,6 +25162,8 @@ Champagny-sous-Uxelles
 Champaign County
 Champallement
 Champanges
+Champasak Province
+Champassack District
 Champaubert
 Champcella
 Champcenest
@@ -25163,6 +25206,7 @@ Champfromier
 Champgenéteux
 Champguyon
 Champhol
+Champhone District
 Champien
 Champier
 Champigné
@@ -25346,6 +25390,7 @@ Chanterelle
 Chantes
 Chantesse
 Chanteuges
+Chanthabuly District
 Chanthaburi Province
 Chantillac
 Chantilly
@@ -27139,6 +27184,7 @@ Chomelix
 Chomérac
 Chomle
 Chomonyn
+Chomphet District
 Chomutice
 Chomutov
 Chomutov District
@@ -32430,6 +32476,7 @@ Dajabón Province
 Dajç
 Dajeej
 Dajt
+Dak Cheung District
 Đắk Lắk Province
 Đắk Nông Province
 Dáka
@@ -32521,6 +32568,7 @@ Dalton
 Daluis
 Dalum
 Dalvares
+Dalvík
 Dalvíkurbyggð
 Dalwallinu
 Daly
@@ -34354,7 +34402,7 @@ Djelfa
 Djelfa Province
 Djemna
 Djibouti
-Djúpivogur
+Djúpárhreppur
 Dkhilet Toujane
 Dlažkovice
 Dlažov
@@ -36548,6 +36596,7 @@ Dynów (rural gmina)
 Dyo
 Dyomsky District
 Dyrdyn
+Dyrhólahreppur
 Dyrøy
 Dýšina
 Dytiki Achaea
@@ -37341,6 +37390,7 @@ Eggstedt
 Éghezée
 Eğil District
 Egileta
+Egilsstaðir
 Egindikol District
 Eging am See
 Eginsky
@@ -37471,6 +37521,7 @@ Eickeloh
 Eicken-Bruche
 Eicklingen
 Eid
+Eiðahreppur
 Eide
 Eidelstedt
 Eidenberg
@@ -38619,6 +38670,7 @@ Enghien
 Enghien-les-Bains
 Engi
 Engiadina Bassa ̸ Val Müstair Region
+Engihlíðarhreppur
 Engins
 Engis
 Engishofen
@@ -39449,6 +39501,7 @@ Esil District
 Esine
 Esino Lario
 Eskeldi District
+Eskifjörður
 Eskigediz
 Eskil District
 Eskilstuna Municipality
@@ -39892,6 +39945,7 @@ Eszteregnye
 Esztergályhorváti
 Esztergom
 Esztergom District
+Et District
 Étable
 Étables
 Étables-sur-Mer
@@ -40265,7 +40319,9 @@ Eyguians
 Eyguières
 Eygurande
 Eygurande-et-Gardedeuil
+Eyja- og Miklaholtshreppur
 Eyjafjarðarsveit
+Eyjahreppur
 Eyjeaux
 Eyl District
 Eyliac
@@ -40280,6 +40336,8 @@ Eynesil District
 Eynesse
 Eyragues
 Eyrans
+Eyrarbakkahreppur
+Eyrarhreppur
 Eyraud-Crempse-Maurens
 Eyre Peninsula
 Eyrein
@@ -40796,6 +40854,7 @@ Farwaniya
 Farwaniya Governorate
 Fasano
 Fascia
+Fáskrúðsfjarðarhreppur
 Fasnia
 Fasova
 Faßberg
@@ -41103,13 +41162,16 @@ Felizzano
 Fell
 Fell Township
 Fellach
+Fellahreppur
 Fellbach
 Fellen
 Felleries
 Fellering
 Felletin
 Fellheim
+Fellshreppur
 Fellsmere
+Fellsstrandarhreppur
 Felm
 Felnac
 Felon
@@ -41411,6 +41473,7 @@ Fetești
 Fethibey
 Fethiye District
 Fétigny
+Feuang District
 Feucherolles
 Feucht
 Feuchter Forst
@@ -41771,6 +41834,8 @@ Fizeșu Gherlii
 Fındık
 Fındıklı District
 Fjaler
+Fjallabyggð
+Fjallahreppur
 Fjällsjö District
 Fjarðabyggð
 Fjell
@@ -41832,6 +41897,8 @@ Flastroff
 Flat
 Flat Rock
 Flatanger
+Flateyjarhreppur
+Flateyrarhreppur
 Flathead County
 Flatrock
 Flatschach
@@ -41977,8 +42044,9 @@ Flirsch
 Flix
 Flixecourt
 Flize
-Fljótsdalshérað
 Fljótsdalshreppur
+Fljótshlíðarhreppur
+Flóahreppur
 Flobecq
 Flocourt
 Flocques
@@ -43384,6 +43452,7 @@ Fremont
 Fremont County
 Frémontiers
 Frémonville
+Fremri-Torfustaðahreppur
 French Creek
 French Creek Township
 Frenchboro
@@ -43649,6 +43718,7 @@ Frizon
 Frjentsjer
 Froberville
 Frocourt
+Fróðárhreppur
 Frœningen
 Frœschwiller
 Froges
@@ -45030,6 +45100,7 @@ Gaula
 Gaular
 Gauley Bridge
 Gaultois
+Gaulverjabæjarhreppur
 Gaurain-Ramecroix
 Gaurama
 Gaure
@@ -45243,6 +45314,7 @@ Geiersthal
 Geilenkirchen
 Geilnau
 Geinberg
+Geiradalshreppur
 Geisa
 Geisberger Forst
 Géisdref
@@ -45275,6 +45347,7 @@ Geisweid
 Geiswiller
 Geiswiller-Zœbersdorf
 Geithain
+Geithellnahreppur
 Gejuelo del Barro
 Gela
 Gélacourt
@@ -46462,6 +46535,7 @@ Gladhammar District
 Gladsaxe Municipality
 Gladstone
 Gladwin County
+Glæsibæjarhreppur
 Glafirovka
 Glageon
 Glaignes
@@ -46725,6 +46799,7 @@ Gnosca
 Gnosjö Municipality
 Gnotzheim
 Gnowangerup
+Gnúpverjahreppur
 Gnutz
 Goa
 Goães
@@ -47764,6 +47839,7 @@ Grafhorst
 Gräfinau-Angstedt
 Grafing bei München
 Grafling
+Grafningshreppur
 Grafrath
 Grafschaft
 Grafschaft Bentheim District
@@ -48525,7 +48601,10 @@ Grimmenstein
 Grimminge
 Grimonviller
 Grimsby
+Grímsey
 Grimshaw
+Grímsnes- og Grafningshreppur
+Grímsneshreppur
 Grimstad
 Grinau
 Grinăuți
@@ -48975,7 +49054,7 @@ Grünbach
 Grünbach am Schneeberg
 Grünberg
 Grünburg
-Grundarfjörður
+Grundarfjarðarbær
 Gründau
 Gründelhardt
 Grundhof
@@ -48999,6 +49078,7 @@ Grünhainichen
 Grünheide (Mark)
 Grüningen
 Grünkraut
+Grunnavíkurhreppur
 Grünow
 Grunow-Dammendorf
 Grünsfeld
@@ -49042,6 +49122,7 @@ Grygov
 Grykë-Çaje
 Grymov
 Gryon
+Grýtubakkahreppur
 Grzegorzew
 Grzmiąca
 Gschaid bei Birkfeld
@@ -49429,6 +49510,7 @@ Guevenatten
 Guewenheim
 Gueytes-et-Labastide
 Gueyze
+Gufudalshreppur
 Gugark
 Gugești
 Guggenhausen
@@ -50142,6 +50224,7 @@ Hadres
 Hadsel
 Hadsten
 Hadsund
+Hadxayfong District
 Hadzhidimovo
 Hadzynka
 Haebaru
@@ -50158,11 +50241,13 @@ Hafik District
 Hafnarfjörður
 Hafnerbach
 Hafning bei Trofaiach
+Hafnir
 Hafun District
 Häg-Ehrsberg
 Haga
 Hagaman
 Hagan
+Haganeshreppur
 Hagar District
 Hagåtña
 Hage
@@ -50454,12 +50539,14 @@ Halmstad Municipality
 Halogy
 Hals
 Halsa
+Hálsahreppur
 Halsbach
 Halsbrücke
 Halsdorf
 Halsenbach
 Halsey
 Halshany
+Hálshreppur
 Halsnæs Municipality
 Halsou
 Halstenbek
@@ -51216,6 +51303,7 @@ Hauenstein-Ifenthal
 Haugesund
 Haugschlag
 Haugsdorf
+Haukadalshreppur
 Haulchin
 Haulerwiek
 Haulies
@@ -51779,7 +51867,9 @@ Helfaut
 Helfenberg
 Helferskirchen
 Helfrantzkirch
+Helgafellssveit
 Helgoland
+Helgustaðahreppur
 Heliconia
 Heliodora
 Heliópolis
@@ -52497,6 +52587,7 @@ Hi-Nella
 Hiadeľ
 Hialeah
 Hialeah Gardens
+Hiam District
 Hiawassee
 Hiawatha
 Hibarette
@@ -52738,6 +52829,7 @@ Hindisheim
 Hindlingen
 Hindmarsh
 Hinds County
+Hineboune District
 Hines
 Hines Creek
 Hinesburg
@@ -52750,6 +52842,7 @@ Hinges
 Hingham
 Hingstheide
 Hingyon
+Hinhup District
 Hinigaran
 Hinnaard
 Hinnavaru
@@ -52917,6 +53010,7 @@ Hiva Oa
 Hiyama subprefecture
 Hizan District
 Hınıs District
+Hjaltastaðahreppur
 Hjartdal
 Hjelmeland
 Hjo Municipality
@@ -52946,6 +53040,7 @@ Hlebine
 Hleiuvatka Hromada
 Hlevakha Hromada
 Hlibiv
+Hlíðarhreppur
 Hlina
 Hlína
 Hlinaia
@@ -53185,7 +53280,10 @@ Hofkirchen im Mühlkreis
 Hofkirchen im Traunkreis
 Höflein
 Höflein an der Hohen Wand
+Höfn í Hornafirði
 Hofors Municipality
+Hofshreppur
+Hofsóshreppur
 Hofstade
 Hofstätten an der Raab
 Hofstetten
@@ -53335,6 +53433,7 @@ Hokuto
 Hol
 Hola Prystan Hromada
 Holacourt
+Hólahreppur
 Holambra
 Holany
 Holasice
@@ -53418,6 +53517,7 @@ Holly Springs
 Hollywood
 Hollywood Seminole Indian Reservation
 Holm
+Hólmavíkurhreppur
 Holmdel Township
 Holmegaard
 Holmes Beach
@@ -53457,6 +53557,7 @@ Holstenniendorf
 Holsthum
 Holt
 Holt County
+Holtahreppur
 Holtålen
 Holten
 Holtensen
@@ -53466,6 +53567,7 @@ Holtland
 Holton
 Holtorf
 Holtsee
+Holtshreppur
 Holtville
 Holtzheim
 Holtzwihr
@@ -53508,6 +53610,7 @@ Holzminden (gemeindefreies Gebiet)
 Holzminden District
 Holzsußra
 Holzwickede
+Hom District
 Homa Bay County
 Homai
 Hombeek
@@ -53589,6 +53692,7 @@ Høng
 Hongcheon County
 Höngeda
 Höngg
+Hongsa District
 Hongseong County
 Honguemare-Guenouville
 Honhardt
@@ -53727,6 +53831,7 @@ Hordain
 Hörden
 Hörden am Harz
 Hördt
+Hörðudalshreppur
 Horë-Vranisht
 Horea
 Horebeke
@@ -53738,6 +53843,7 @@ Hořešovice
 Hořešovičky
 Horești
 Horezu
+Hörgársveit
 Horgau
 Horgen
 Horgen District
@@ -53745,6 +53851,7 @@ Horgen im Schwarzwald
 Horgenzell
 Hörgertshausen
 Horgești
+Hörgslandshreppur
 Horgues
 Horhausen
 Horhausen (Westerwald)
@@ -54152,6 +54259,9 @@ Hottot-les-Bagues
 Hottviller
 Hottwil
 Houaïlou
+Houaixai District
+Houameuang District
+Houaphanh Province
 Houchin
 Houdain
 Houdain-lez-Bavay
@@ -54185,6 +54295,7 @@ Houlle
 Houlton
 Houlton Band of Maliseet
 Houmt Souk
+Houne District
 Hounoux
 Hounsfield
 Hounslow
@@ -54318,6 +54429,7 @@ Hradište pod Vrátnom
 Hradištko
 Hrádok
 Hradyzk Hromada
+Hrafnagilshreppur
 Hraň
 Hranice
 Hraničné
@@ -54329,6 +54441,8 @@ Hraščina
 Hrašné
 Hrašovík
 Hrastnik
+Hraungerðishreppur
+Hraunhreppur
 Hrazany
 Hrazdan Municipality
 Hrčava
@@ -54361,6 +54475,7 @@ Hričovské Podhradie
 Hřiměždice
 Hrinivka
 Hriňová
+Hrísey
 Hříšice
 Hříškov
 Hrišovce
@@ -54382,6 +54497,7 @@ Hrodivka Hromada
 Hrodna
 Hrodna District
 Hrodna Region
+Hrófbergshreppur
 Hromnice
 Hromoš
 Hronec
@@ -54730,8 +54846,8 @@ Humpolec
 Humppila
 Humptrup
 Humuya
+Húnabyggð
 Hunan
-Húnavatnshreppur
 Hunawihr
 Húnaþing vestra
 Huncovce
@@ -54854,6 +54970,7 @@ Husák
 Husakiv
 Husarka
 Husasău de Tinca
+Húsavík
 Husby
 Hüsby
 Hushcha
@@ -54921,8 +55038,11 @@ Hüyüklü
 Huzová
 Hvalba
 Hvaler
+Hvalfjarðarstrandarhreppur
 Hvalfjarðarsveit
 Hvalsø
+Hvammshreppur
+Hvammstangahreppur
 Hvannasund
 Hvar
 Hvardiiske
@@ -54935,8 +55055,10 @@ Hvězdoňovice
 Hvidebæk
 Hvidovre Municipality
 Hviezdoslavov
+Hvítársíðuhreppur
 Hvizd
 Hvizdets Hromada
+Hvolhreppur
 Hvorslev
 Hvozd
 Hvožďany
@@ -55900,6 +56022,7 @@ Innisfil
 Innlandet
 Innokentyevka
 Innopolis
+Innri-Akraneshreppur
 Innsbruck
 Innsbruck-Land District
 Innu Nation
@@ -56236,6 +56359,7 @@ Isaccea
 Isacova
 Isadskoye
 Ísafjarðarbær
+Ísafjörður
 Isahaya
 Isai
 Isaías Coelho
@@ -58189,6 +58313,7 @@ Joiselle
 Joița
 Jokioinen
 Jokkmokk Municipality
+Jökuldalshreppur
 Jolanda di Savoia
 Jolda (Madalena) e Rio Cabrão
 Joldelund
@@ -59062,6 +59187,7 @@ Kalenice
 Kalenna
 Kalesija
 Kalety
+Kaleum District
 Kalevala
 Kalevalsky District
 Kalfat
@@ -60010,6 +60136,7 @@ Kasugai
 Kasukabe
 Kasumigaura
 Kasuya
+Kasy District
 Kaszaper
 Kaszó
 Katádfa
@@ -60302,6 +60429,7 @@ Kefermarkt
 Keffenach
 Kefferhausen
 Kefikon
+Keflavík
 Kegalle
 Kegen District
 Kegeyli District
@@ -60340,6 +60468,7 @@ Kelčany
 Kelchiyur
 Këlcyrë
 Këlcyrë Municipality
+Kelduneshreppur
 Keleberda
 Kelebia
 Keléd
@@ -60454,6 +60583,7 @@ Kendirli
 Kenduskeag
 Kenedy County
 Kenesary
+Kenethao District
 Kenéz
 Kenézlő
 Kengkhar
@@ -60503,6 +60633,7 @@ Kenz-Küstrow
 Kënzeg
 Kenzhekol
 Kenzingen
+Keo Oudom District
 Keokuk County
 Kep Province
 Kepahiang Regency
@@ -60668,6 +60799,7 @@ Kétegyháza
 Ketereh
 Kethel
 Kéthely
+Ketildalahreppur
 Ketkovice
 Ketovsky District
 Kétpó
@@ -60751,8 +60883,11 @@ Khalepia
 Khalidia
 Khaling
 Khalyasavey
+Kham District
 Khamagattinsky
 Khamdang
+Khamkeut District
+Khammouane Province
 Khamney
 Khamovniki District
 Khan Arnabah Subdistrict
@@ -60767,6 +60902,7 @@ Khanka
 Khanka (rural)
 Khankaysky District
 Khankendi
+Khanthaboury District
 Khanty-Mansi Autonomous District
 Khanty-Mansiysk
 Khanty-Mansiysky District
@@ -60911,9 +61047,12 @@ Khomutove
 Khomutovo
 Khomutovsky District
 Khon Kaen Province
+Khong District
+Khongsedone District
 Khoni Municipality
 Khoniakiv
 Khonuu
+Khop District
 Khoptyntsi
 Khopyorskaya
 Khor Fakkan
@@ -60962,6 +61101,8 @@ Khotymyr
 Khotyn
 Khotyn Hromada
 Khotynetsky District
+Khoua District
+Khoune District
 Khouribga
 Khouribga Province
 Khovaling District
@@ -61362,6 +61503,9 @@ Kiritskoye
 Kirkcudbrightshire
 Kirkel
 Kirkham
+Kirkjubæjarhreppur
+Kirkjubólshreppur
+Kirkjuhvammshreppur
 Kirkkonummi
 Kirkland
 Kirkland Lake
@@ -61668,6 +61812,7 @@ Kızılkaya
 Kızılören District
 Kızılpınar
 Kızıltepe District
+Kjalarneshreppur
 Kjellerup
 Kjósarhreppur
 Klaaswaal
@@ -61945,6 +62090,7 @@ Kłodzko
 Kłodzko (rural gmina)
 Kłodzko County
 Kloetinge
+Klofningshreppur
 Klokoč
 Klokočí
 Klokočná
@@ -62322,6 +62468,7 @@ Kolašin
 Kołbaskowo
 Kolbasna ̸ Cobasna
 Kolbasov
+Kolbeinsstaðahreppur
 Kolbermoor
 Kołbiel
 Kolbingen
@@ -62577,6 +62724,7 @@ Kondratovo
 Kondratowice
 Kondrovo
 Koné
+Kone District
 Konecchlumí
 Koneck
 Koněprusy
@@ -63207,6 +63355,7 @@ Koumac
 Koumi
 Koungou
 Kounice
+Kounkham District
 Kounov
 Koupě
 Koura
@@ -65611,6 +65760,7 @@ La Devise
 La Digne-d'Amont
 La Digne-d'Aval
 La Digue
+La District
 La Dominelais
 La Dorada
 La Doré
@@ -67424,6 +67574,7 @@ Lakhdenpokhsky District
 Lakhdenpokhya
 Lakhegy
 Lakhish
+Lakhonepheng District
 Lakhsh District
 Lakhta-Olgino
 Laki
@@ -67482,6 +67633,7 @@ Lalueza
 Laluque
 Lam
 Lâm Đồng Province
+Lam Mam District
 Lama
 Lama de Arcos
 Lama dei Peligni
@@ -67766,6 +67918,7 @@ Landivisiau
 Landivy
 Landkern
 Landl
+Landmannahreppur
 Landogne
 Landolfshausen
 Landonvillers
@@ -67852,6 +68005,7 @@ Langa de Duero
 Langa del Castillo
 Langadas
 Langan
+Langanesbyggð
 Langast
 Langatte
 Langau
@@ -68155,6 +68309,7 @@ Lanzo Torinese
 Lanžov
 Lanzuela
 Lào Cai Province
+Lao Ngam District
 Laoac
 Laoag
 Laoang
@@ -68679,6 +68834,7 @@ Laufersweiler
 Lauffen
 Lauffen am Neckar
 Lauffohr
+Laugardalshreppur
 Laugna
 Laugnac
 Lauingen (Donau)
@@ -68964,6 +69120,7 @@ Lawtey
 Lawtonia
 Lax
 Laxå Municipality
+Laxárdalshreppur
 Laxe
 Laxenburg
 Laxey
@@ -70189,6 +70346,7 @@ Leidschendam
 Leidschendam-Voorburg
 Leidschenveen
 Leidschenveen-Ypenburg
+Leiðvallarhreppur
 Leidy Township
 Leienkaul
 Leiferde
@@ -70227,6 +70385,7 @@ Leipsic
 Leipsoi
 Leipzig
 Leipzig District
+Leirár- og Melahreppur
 Leirfjord
 Leiria
 Leiria District
@@ -72577,6 +72736,7 @@ Lizzano
 Lizzano in Belvedere
 Lizzola
 Ljig
+Ljósavatnshreppur
 Ljubešćica
 Ljubinje
 Ljubljana
@@ -72813,6 +72973,7 @@ Lodín
 Lodine
 Lødingen
 Lödla
+Loðmundarfjarðarhreppur
 Lodno
 Lodões
 Lodosa
@@ -73095,6 +73256,7 @@ Long Beach Township
 Long Branch
 Long County
 Long Creek
+Long District
 Long Harbour-Mount Arlington Heights
 Long Hill Township
 Long Island
@@ -73112,6 +73274,7 @@ Longavesnes
 Longaví
 Longboat Key
 Longburn
+Longchaeng District
 Longchamp
 Longchamp-sous-Châtenois
 Longchamp-sur-Aujon
@@ -73214,6 +73377,7 @@ Longwé
 Longwood
 Longwy
 Longwy-sur-le-Doubs
+Longxan District
 Longyearbyen
 Longyugan
 Lonigo
@@ -73940,6 +74104,9 @@ Lu e Cuccaro Monferrato
 Luan Toro
 Luanda
 Luanda Province
+Luang Namtha Province
+Luang Prabang District
+Luang Prabang Province
 Luant
 Luba
 Ľubá
@@ -74467,6 +74634,7 @@ Lund
 Lund Municipality
 Lunda Norte Province
 Lunda Sul Province
+Lundarreykjadalshreppur
 Lunden
 Lunderskov
 Lundtoft
@@ -74918,6 +75086,7 @@ Lysyche
 Łyszkowice
 Lytham St Annes
 Lytiachi
+Lýtingsstaðahreppur
 Lytkarino
 Lytovezh Hromada
 Lytsewierrum
@@ -75548,6 +75717,7 @@ Mahas District
 Mahaska County
 Mahatao
 Mahates
+Mahaxay District
 Mahayag
 Mahboula
 Mahdalynivka Hromada
@@ -80361,6 +80531,7 @@ Mesvres
 Meszes
 Meszlen
 Mesztegnyő
+Met District
 Meta
 Meta Department
 Métabetchouan-Lac-à-la-Croix
@@ -80458,8 +80629,10 @@ Meulers
 Meulin
 Meulles
 Meulson
+Meun District
 Meunet-Planches
 Meunet-sur-Vatan
+Meung District
 Meung-sur-Loire
 Meura
 Meurcé
@@ -80768,6 +80941,7 @@ Mid West
 Mid-Coast
 Mid-North Coast
 Mid-Western
+Miðdalahreppur
 Middelburg
 Middelfart
 Middelfart Municipality
@@ -81014,6 +81188,7 @@ Mikhei
 Mikhnevo
 Miki
 Mikkeli
+Miklaholtshreppur
 Miklavž na Dravskem Polju
 Mikleuš
 Miklósi
@@ -81865,6 +82040,7 @@ Mizukami
 Mizumaki
 Mizunami
 Mjällby
+Mjóifjörður
 Mjölby
 Mjölby Municipality
 Mkhambathini
@@ -82226,6 +82402,7 @@ Mojtín
 Moju
 Mojuí dos Campos
 Mojzesovo
+Mok May District
 Moka
 Moka District
 Mokattam
@@ -84882,6 +85059,7 @@ Mosty u Jablunkova
 Mostyshche
 Mostyska Hromada
 Mošurov
+Mosvallahreppur
 Mosvik
 Moszczenica
 Mota de Altarejos
@@ -85036,6 +85214,7 @@ Mound City
 Mound Valley
 Moundsville
 Mounes-Prohencoux
+Mounlapamok District
 Mount Adams
 Mount Airy
 Mount Albert
@@ -85512,10 +85691,12 @@ Mukuchunsky
 Mula
 Muľa
 Mulah
+Múlahreppur
 Mulaku Atoll
 Mulanay
 Mulazzano
 Mulazzo
+Múlaþing
 Mülbach
 Mulberry
 Mulcent
@@ -86122,6 +86303,7 @@ Mynkivtsi
 Myodovskoye
 Myoko
 Myon
+Mýrahreppur
 Mýrdalshreppur
 Myrhorod District
 Myrhorod Hromada
@@ -86192,6 +86374,7 @@ N'dalatando
 N'Djaména
 N'zeto
 N'Zi Region
+Na Mo District
 Naalaafushi
 Naaldwijk
 Naâma Province
@@ -86533,6 +86716,7 @@ Nakafurano
 Nakagawa
 Nakagusuku
 Nakai
+Nakai District
 Nakajima
 Nakama
 Nakano
@@ -86578,6 +86762,7 @@ Nalbach
 Nalbant
 Nalchik
 Nalda
+Nale District
 Nalec
 Nałęczów
 Naledi
@@ -86591,6 +86776,7 @@ Nalyvaikivka
 Nalzen
 Nalžovice
 Nalžovské Hory
+Nam Bak District
 Nam Định Province
 Nam District
 Nama Khoi
@@ -86639,6 +86825,7 @@ Namsky
 Namsky District
 Namsos
 Namsskogan
+Namtha District
 Namu
 Namukulu
 Namur
@@ -86685,6 +86872,7 @@ Nandraž
 Nandrin
 Nandufe
 Nandy
+Nane District
 Nănești
 Nangeville
 Nangis
@@ -87025,6 +87213,7 @@ Naussac-Fontanes
 Naussannes
 Naustdal
 Naut Aran
+Nauteyrarhreppur
 Nauvay
 Nauviale
 Nauyrzym District
@@ -87165,6 +87354,7 @@ Nawa Region
 Nawa Subdistrict
 Nawojowa
 Nax
+Naxaithong District
 Naxos kai Mikres Kyklades
 Naxxar
 Nay
@@ -87677,6 +87867,9 @@ Neshcheriv
 Nesher
 Neshkan
 Neshoba County
+Neshreppur utan Ennis
+Nesjahreppur
+Neskaupstaður
 Nesle
 Nesle-et-Massoult
 Nesle-Hodeng
@@ -88485,6 +88678,7 @@ Nərimanov
 Nərimanov Raion
 Nəsimi
 Nəsimi Raion
+Nga District
 Ngaanyatjarraku
 Ngäbe-Buglé Comarca
 Ngada Regency
@@ -88505,9 +88699,11 @@ Ngauranga
 Ngawi Regency
 Ngchesar
 Ngeremlengui
+Ngeun District
 Nghệ An Province
 Ngiwal
 Ngounié Province
+Ngoy District
 Ngqushwa
 Ngraçan
 Ngunguru
@@ -89222,6 +89418,7 @@ Nižný Tvarožec
 Nižný Žipov
 Nizy-le-Comte
 Nizza di Sicilia
+Njarðvíkurbær
 Nkandla
 Nkangala
 Nketoana
@@ -89460,8 +89657,12 @@ Noncourt-sur-le-Rongeant
 None
 Nonette
 Nonette-Orsonnette
+Nong Bok District
 Nong Bua Lamphu Province
+Nong District
+Nong Het District
 Nong Khai Province
+Nong Sai Village
 Nonglard
 Nongoma
 Nonhigny
@@ -89574,6 +89775,7 @@ Norderwöhrden
 Nordeste
 Nordeste Municipality
 Nordestina
+Norðfjarðarhreppur
 Nordfriesland District
 Nordfyn Municipality
 Nordhackstedt
@@ -89609,6 +89811,8 @@ Nordsehl
 Nordsteimke
 Nordstemmen
 Nordstrand
+Norðurárdalshreppur
+Norðurþing
 Nordwalde
 Nordwestmecklenburg District
 Nordwestuckermark
@@ -89887,6 +90091,7 @@ Northcross
 Northeast Greenland National Park
 Northeast Madison Township
 Northeast Penang Island District
+Northeastern Region
 Northeim
 Northeim District
 Northen
@@ -89932,6 +90137,7 @@ Northwest Arctic Borough
 Northwest Jahra
 Northwest Sulaibikhat
 Northwest Territories
+Northwestern Region
 Northwich
 Northwood
 Nortkerque
@@ -92179,6 +92385,7 @@ Ogulin
 Ogun State
 Oguni
 Ogunquit
+Ögurhreppur
 Oğuzeli District
 Oguzhan District
 Oğuzlar District
@@ -92414,6 +92621,8 @@ Olá
 Olaberria
 Olabezar
 Olaeta
+Ólafsfjörður
+Ólafsvíkurkaupstaður
 Olaia
 Olaia e Paço
 Oláibar
@@ -92583,6 +92792,8 @@ Olevsk Hromada
 Oley Township
 Oleyres
 Olfen
+Ölfus
+Ölfushreppur
 Olga
 Olgiate Comasco
 Olgiate Molgora
@@ -92996,6 +93207,7 @@ Onglières
 Ongole
 Onguday
 Ongudaysky District
+Öngulstaðahreppur
 Ongwediva
 Onhaye
 Oni Municipality
@@ -94016,6 +94228,7 @@ Osov
 Osová Bítýška
 Osové
 Osoyoos
+Óspakseyrarhreppur
 Ospedaletti
 Ospedaletto
 Ospedaletto d'Alpinolo
@@ -94522,6 +94735,7 @@ Oudhref
 Oudincourt
 Oudkarspel
 Oudoleň
+Oudomxay Province
 Oudon
 Oudorp
 Oudrenne
@@ -94656,6 +94870,7 @@ Outeiro Seco
 Outer Hebrides
 Outer Space
 Outes
+Outhoumphone District
 Outil
 Outines
 Outiz
@@ -94784,6 +94999,7 @@ Owsley County
 Owyhee County
 Oxapampa
 Oxapampa Province
+Öxarfjarðarhreppur
 Oxelaëre
 Oxelösund Municipality
 Oxentea
@@ -94794,6 +95010,7 @@ Oxford County
 Oxford Township
 Oxfordshire
 Oxkutzcab
+Öxnadalshreppur
 Oxnard
 Oy-Mittelberg
 Oyabe
@@ -95202,11 +95419,18 @@ Pajęczno County
 Pajeú do Piauí
 Pajevonys
 Pajovë
+Pak Beng District
+Pak Ou District
+Pak Sé District
+Pak Seng District
 Páka
 Pakan District
 Pakil
 Pakiri
+Pakkading District
+Paklai District
 Pakli
+Pakngum District
 Pakod
 Pakość
 Pakosław
@@ -95220,6 +95444,9 @@ Pakruojis
 Pakruojis District Municipality
 Paks
 Paks District
+Paksane District
+Paksong District
+Paktha District
 Pakul
 Pakuonis
 Pakuranga
@@ -96444,6 +96671,7 @@ Pateros
 Patersberg
 Patersdorf
 Paterson
+Pathouphone District
 Pathum Thani Province
 Pati Regency
 Patía-Bordo
@@ -96472,6 +96700,7 @@ Patosfa
 Pätow-Steegen
 Patras
 Pătrăuți
+Patrekshreppur
 Patrica
 Patrick
 Patrick County
@@ -97014,6 +97243,7 @@ Peixe-Boi
 Peixoto de Azevedo
 Peize
 Pejuçara
+Pek District
 Pekalongan
 Pekalongan Regency
 Pekan District
@@ -98226,6 +98456,7 @@ Pfunds
 Pfungen
 Pfungstadt
 Pfyn
+Pha Oudom District
 Phaffans
 Phalempin
 Phalsbourg
@@ -98234,6 +98465,7 @@ Phangyuel
 Pharr
 Pharsalia
 Phatthalung Province
+Phaxay District
 Phayao Province
 Phelps (town)
 Phelps (village)
@@ -98241,6 +98473,7 @@ Phelps County
 Phenix
 Phetchabun Province
 Phetchaburi Province
+Phiang District
 Phichit Province
 Philadelphia
 Philadelphia (town)
@@ -98264,6 +98497,7 @@ Phillipston
 Philmont
 Philomath
 Philondenx
+Phine District
 Phippsburg
 Phitsanulok Province
 Phlin
@@ -98274,6 +98508,14 @@ Phoenix Islands Protected Area
 Phoenixville
 Phokwane
 Phongme
+Phongsaly District
+Phongsaly Province
+Phonhong District
+Phonthong District
+Phonxay District
+Phou Kout District
+Phoukhoune District
+Phouvong District
 Phra Nakhon Si Ayutthaya Province
 Phrae Province
 Phú Thọ Province
@@ -102310,6 +102552,7 @@ Prestavlky
 Přestavlky
 Přestavlky u Čerčan
 Přeštěnice
+Presthólahreppur
 Přeštice
 Préstimo
 Préstimo e Macieira de Alcoba
@@ -105083,6 +105326,7 @@ Rânes
 Ranfurly
 Rang
 Rang-du-Fliers
+Rangárvallahreppur
 Rangárþing eystra
 Rangárþing ytra
 Rangecourt
@@ -105371,12 +105615,14 @@ Raucourt
 Raucourt-au-Bois
 Raucourt-et-Flaba
 Rauda
+Rauðasandshreppur
 Raudenai
 Raudondvaris
 Raudone
 Rauen
 Rauenberg
 Rauenstein
+Raufarhöfn
 Rauhenebrach
 Raukhivka Hromada
 Raúl Arsenio Oviedo
@@ -106524,12 +106770,17 @@ Rewal
 Rexingen
 Rexpoëde
 Rexton
+Reyðarfjarðarhreppur
 Reyero
 Reyersviller
 Reygade
 Reyhanlı District
+Reykdælahreppur
 Reykhólahreppur
+Reykholtsdalshreppur
+Reykjahreppur
 Reykjanesbær
+Reykjarfjarðarhreppur
 Reykjavík
 Reynel
 Reynès
@@ -107377,6 +107628,7 @@ Ripon
 Riposto
 Rippershausen
 Ripton
+Rípurhreppur
 Riqqa
 Riquewihr
 Riqueza
@@ -109884,6 +110136,7 @@ S. Saba
 S.N.P.J.
 Sá
 Sa Kaeo Province
+Sa Mouay District
 Sa Pereira
 Sa Pobla
 Sa'dah
@@ -114252,6 +114505,7 @@ Saints
 Saints-en-Puisaye
 Saints-Geosmes
 Sainville
+Sainyabuli Province
 Saipan
 Saira
 Sairé
@@ -114413,6 +114667,7 @@ Salatiga
 Sălătrucel
 Sălătrucu
 Salaunes
+Salavan Province
 Salavas
 Salavat
 Salavatsky District
@@ -114798,6 +115053,7 @@ Samadet
 Samahil
 Samaiões
 Samaipata
+Samakkhixay District
 Samal
 Șamalia
 Samalut East
@@ -114922,6 +115178,7 @@ Sampans
 Samper de Calanda
 Samper del Salz
 Sampeyre
+Samphanh District
 Samphelling
 Sampierdarena
 Sampigny
@@ -114946,6 +115203,7 @@ Samsonovskoye
 Samsons-Lion
 Șamșud
 Samsun Province
+Samtay District
 Samtens
 Samtredia Municipality
 Samtse
@@ -116006,6 +116264,7 @@ Sanaga
 Sanagasta
 Sanagochi
 Sanahcat
+Sanamxay District
 Sanandaj
 Sânandrei
 Sananduva
@@ -116013,6 +116272,7 @@ Sanarate
 Sanarica
 Sanarposi
 Sanary-sur-Mer
+Sanasomboun District
 Sănătăuca
 Sanaüja
 Sanborn County
@@ -116130,6 +116390,7 @@ Săndulești
 Sandusky County
 Sandviken District
 Sandviken Municipality
+Sandvíkurhreppur
 Sandweiler
 Sandwell
 Sandwich
@@ -116181,6 +116442,7 @@ Sangju
 Sango
 Sangonera la Seca
 Sangre Grande Region
+Sangthong District
 Sanguedo
 Sangüesa ̸ Zangoza
 Sanguinet
@@ -117351,6 +117613,7 @@ Sanvensa
 Sanvic
 Sanvignes-les-Mines
 Sanxay
+Sanxay District
 Sanxenxo
 Sány
 Sanyo-Onoda
@@ -118070,6 +118333,7 @@ Saratov
 Saratov Region
 Saratovskaya
 Saravale
+Saravane District
 Saravena
 Sarawak
 Saray
@@ -118504,6 +118768,8 @@ Saucourt-sur-Rognon
 Sauda
 Saudade do Iguaçu
 Saudades
+Sauðaneshreppur
+Sauðárkrókur
 Saúde
 Saudemont
 Saudoy
@@ -118602,6 +118868,7 @@ Sauqueville
 Sauquillo de Cabezas
 Saurais
 Saurat
+Saurbæjarhreppur
 Sauret-Besserve
 Saurier
 Saurimo
@@ -118689,6 +118956,7 @@ Savallà del Comtat
 Savanes District
 Savaneta
 Savannah
+Savannakhet Province
 Savanne District
 Săvârșin
 Savarthès
@@ -118836,6 +119104,7 @@ Sayat
 Sayat District
 Sayatón
 Sayaxché
+Saybouathong District
 Sayda
 Sayler Park
 Sayo
@@ -118843,6 +119112,7 @@ Sayram District
 Sayre
 Sayreville
 Says
+Saysetha District
 Sayula
 Sayward
 Sayxunobod District
@@ -119774,6 +120044,7 @@ Sebago
 Sebal
 Sebal e Belide
 Sebaldeburen
+Sebangphay District
 Sebaste
 Sebastian
 Sebastian County
@@ -120140,6 +120411,7 @@ Sekhukhune
 Seki
 Sekigahara
 Sekikawa
+Sekong Province
 Šekovići
 Sękowa
 Sekule
@@ -120192,6 +120464,7 @@ Seleuș
 Seleute
 Seleznyovo
 Selfkant
+Selfoss
 Selho (São Lourenço) e Gominhães
 Seliatyn Hromada
 Selice
@@ -120277,6 +120550,7 @@ Selve Marcone
 Selvigny
 Selvino
 Selvíria
+Selvogshreppur
 Selwyn
 Selwyn District
 Selyatino
@@ -120652,6 +120926,7 @@ Sepmeries
 Sepmes
 Sępólno County
 Sępólno Krajeńskie
+Seponh District
 Sępopol
 Seppenrade
 Seppiana
@@ -121294,11 +121569,13 @@ Seydikemer District
 Seydiler
 Seydiler District
 Seydişehir District
+Seyðisfjarðarhreppur
 Seyðisfjörður
 Seyé
 Seyhan District
 Seyitgazi District
 Seyitömer
+Seyluhreppur
 Seymour
 Seyne
 Seynes
@@ -122235,6 +122512,7 @@ Sigleß
 Siglingen
 Siglistorf
 Sigloy
+Siglufjörður
 Sigma
 Sigmaringen
 Sigmaringen District
@@ -122292,6 +122570,7 @@ Sikátor
 Sikatuna
 Sikenica
 Sikenička
+Sikhottabong District
 Sikinos
 Sikirevci
 Sikka Regency
@@ -122574,6 +122853,7 @@ Sines
 Sines Municipality
 Sinești
 Sineu
+Sing District
 Singburi Province
 Singen
 Sîngera
@@ -122812,6 +123092,7 @@ Sisak-Moslavina County
 Sisaket Province
 Sisamón
 Sisante
+Sisattanak District
 Șișcani
 Sisco
 Siselen
@@ -122926,6 +123207,11 @@ Skadovsky District
 Skælskør
 Skærbæk
 Skævinge
+Skaftárhreppur
+Skaftártunguhreppur
+Skagabyggð
+Skagafjörður
+Skagahreppur
 Skagaströnd
 Skagen
 Skagit County
@@ -122962,6 +123248,7 @@ Skapce
 Skąpe
 Skara Municipality
 Skarbimierz
+Skarðshreppur
 Skároš
 Skarszewy
 Skaryszew
@@ -122978,7 +123265,10 @@ Skawina
 Skearnegoutum
 Skedsmo
 Skeena-Queen Charlotte Regional District
+Skefilsstaðahreppur
+Skeggjastaðahreppur
 Skeiða- og Gnúpverjahreppur
+Skeiðahreppur
 Skelby-Gedesby
 Skelivka
 Skellefteå Municipality
@@ -123001,6 +123291,7 @@ Skierniewice County
 Skikda
 Skikda Province
 Skillingaryd
+Skilmannahreppur
 Skinnskatteberg Municipality
 Skipche
 Skippack Township
@@ -123028,6 +123319,7 @@ Skoczów
 Skodje
 Škofja Loka
 Škofljica
+Skógarstrandarhreppur
 Skoki
 Skole Hromada
 Skołyszyn
@@ -123051,6 +123343,7 @@ Skorošice
 Skoroszyce
 Skorotice
 Skørping
+Skorradalshreppur
 Skoryky Hromada
 Skórzec
 Skotarske
@@ -123070,6 +123363,8 @@ Skrbeň
 Skrchov
 Škrdlovice
 Skreblovo
+Skriðdalshreppur
+Skriðuhreppur
 Skřinářov
 Skřipel
 Skřipov
@@ -123207,6 +123502,7 @@ Slenaken
 Slepčany
 Slepotice
 Ślesin
+Sléttuhreppur
 Slezská Ostrava
 Slezské Pavlovice
 Slezské Rudoltice
@@ -123440,6 +123736,7 @@ Smyrnove Hromada
 Smyshlyayevka
 Smyth County
 Snæfellsbær
+Snæfjallahreppur
 Snagov
 Snake Spring Township
 Snakov
@@ -124143,6 +124440,7 @@ Songeons
 Songeson
 Songieu
 Songkhla Province
+Songkhone District
 Songo
 Songo-La Maya
 Songpa District
@@ -124210,6 +124508,7 @@ Sooretama
 Soorts-Hossegor
 Soos
 Sooß
+Sop Bao District
 Șopârlița
 Sopchoppy
 Sopeira
@@ -124535,6 +124834,7 @@ Souk Ahras Province
 Souk Jedid
 Souk Lahad
 Souk Sebt
+Soukhoumma District
 Soula
 Soulac-sur-Mer
 Soulages
@@ -124836,8 +125136,10 @@ Southern Industrial Island
 Southern Leyte Province
 Southern Line Islands Marine Protected Area
 Southern Mallee
+Southern Peninsula Region
 Southern Pines
 Southern Province
+Southern Region
 Southern Shores
 Southern Ute Indian Reservation
 Southgate
@@ -125576,6 +125878,8 @@ Stachy
 Stacyville
 Stad
 Stad aan 't Haringvliet
+Staðarhreppur
+Staðarsveit
 Stadbriedemes
 Stade
 Stade District
@@ -125621,6 +125925,7 @@ Stafford County
 Staffordshire
 Staffordshire Moorlands
 Staffort
+Stafholtstungnahreppur
 Stafstedt
 Staglieno
 Stagno Lombardo
@@ -126438,6 +126743,7 @@ Stoddard
 Stoddard County
 Stödtlen
 Stodultsi
+Stöðvarhreppur
 Stoenești
 Stoetze
 Stoffenrieder Forst
@@ -126455,7 +126761,7 @@ Stokes County
 Stokesdale
 Stokke
 Stokkem
-Stokkseyri
+Stokkseyrarhreppur
 Štoky
 Štôla
 Stolany
@@ -126961,6 +127267,7 @@ Stvolínky
 Stvolová
 Štvrtok
 Štvrtok na Ostrove
+Stykkishólmsbær
 Stykkishólmur
 Styla
 Stylida
@@ -127110,7 +127417,7 @@ Sudak Municipality
 Sudanell
 Sudarca
 Sudargas
-Súðavík
+Súðavíkurhreppur
 Südbrookmerland
 Sudbury
 Sudbury District
@@ -127162,6 +127469,10 @@ Súdovce
 Sudovo Hlavno
 Sudslava
 Sudurağı
+Suðurdalahreppur
+Suðureyrarhreppur
+Suðurfjarðarhreppur
+Suðurnesjabær
 Sudwalde
 Súdwest Fryslân
 Südwestpfalz District
@@ -127824,10 +128135,13 @@ Suzzara
 Švábenice
 Švábov
 Švábovce
+Svalbarðshreppur
+Svalbarðsstrandarhreppur
 Svaliava Hromada
 Svalöv Municipality
 Svaneke
 Svärdsjö
+Svarfaðardalshreppur
 Svarkove
 Svárov
 Svatá
@@ -127864,6 +128178,7 @@ Svedasai
 Svederník
 Švedlár
 Sveg District
+Sveinsstaðahreppur
 Sveio
 Švekšna
 Svelvik
@@ -127952,6 +128267,7 @@ Svilajnac
 Svilengrad
 Svinaře
 Svinařov
+Svínavatnshreppur
 Svinčany
 Svinia
 Svinica
@@ -128440,6 +128756,7 @@ Szydłowiec County
 Szydłowo
 Szypliszki
 T'Boli
+Ta Oy District
 Ta Xbiex
 Taal
 Taarbæk
@@ -130636,6 +130953,7 @@ Teyssieu
 Teyssode
 Tezontepec de Aldama
 Tezze sul Brenta
+Tha Teng District
 Thaas
 Thaba Chweu
 Thabazimbi
@@ -130648,6 +130966,7 @@ Thairé
 Thairy
 Thaix
 Thakandhoo
+Thakhek District
 Thal
 Thal District
 Thal-Drulingen
@@ -130686,6 +131005,9 @@ Thanstein
 Thanvillé
 Thaon
 Thaon-les-Vosges
+Thapangthong District
+Thaphabath District
+Thaphalanxay District
 Tharaka-Nithi County
 Tharandt
 Tharaux
@@ -130695,6 +131017,7 @@ Tharot
 Tharsis
 Thasos
 Thatcher
+Thathom District
 Thaumiers
 Thaur
 Thauron
@@ -130962,6 +131285,7 @@ Thomson
 Thonac
 Thônes
 Thônex
+Thongmyxay District
 Thonhausen
 Thonnance-lès-Joinville
 Thonnance-les-Moulins
@@ -131025,6 +131349,7 @@ Thouars
 Thouars-sur-Arize
 Thouars-sur-Garonne
 Thouarsais-Bouildroux
+Thoulakhom District
 Thourie
 Thouron
 Thourotte
@@ -131651,6 +131976,7 @@ Tjele
 Tjølling
 Tjøme
 Tjörn Municipality
+Tjörneshreppur
 Tkibuli Municipality
 Tkon
 Tkvarcheli
@@ -132048,6 +132374,7 @@ Tono
 Tonopah
 Tonosho
 Tonosí
+Tonpheung District
 Tonquédec
 Tønsberg
 Tonshayevsky District
@@ -132175,6 +132502,7 @@ Toreno
 Toretsk
 Toretsk Hromada
 Torez
+Torfalækjarhreppur
 Torfou
 Torgau
 Torgay
@@ -132652,6 +132980,7 @@ Toulouse
 Toulouse-le-Château
 Toulouzette
 Toulx-Sainte-Croix
+Toumlane District
 Tounj
 Touques
 Touquettes
@@ -134275,6 +134604,7 @@ Tungawan
 Tungiro-Olyokminsky District
 Tungku Subdistrict
 Tungokochensky District
+Tunguhreppur
 Tungurahua Province
 Tunica County
 Tunica-Biloxi Indian Reservation
@@ -137031,6 +137361,7 @@ Vallabrix
 Vallada
 Vallada Agordina
 Valladolid
+Vallahreppur
 Vállaj
 Vallamand
 Vallan
@@ -137429,6 +137760,7 @@ Vandy
 Vanegas
 Vänersborg Municipality
 Vang
+Vangvieng District
 Vani Municipality
 Vanier
 Vanini
@@ -137486,6 +137818,7 @@ Vápno
 Vápovice
 Vaprio d'Adda
 Vaprio d'Agogna
+Vapy District
 Vaqarr
 Vaqueiros
 Vaquería
@@ -139398,7 +139731,7 @@ Vestiaria
 Vestignè
 Věstín
 Vestland
-Vestmannaeyjar
+Vestmannaeyjabær
 Vestnes
 Vestone
 Vestre Aker
@@ -139406,6 +139739,8 @@ Vestre Slidre
 Vestre Toten
 Vestreno
 Vestric-et-Candiac
+Vestur-Eyjafjallahreppur
+Vestur-Landeyjahreppur
 Vesturbyggð
 Vestvågøy
 Vesvres
@@ -139752,6 +140087,7 @@ Vidracco
 Vidreres
 Vidual
 Vidukle
+Viðvíkurhreppur
 Vidyayevo
 Vidzeme
 Vidzy
@@ -139806,6 +140142,10 @@ Viels-Maisons
 Vielsalm
 Vielverge
 Vienenburg
+Viengkham District
+Viengphoukha District
+Viengthong District
+Viengxay District
 Vienna
 Viennay
 Vienne
@@ -139816,6 +140156,8 @@ Vienne-en-Val
 Vienne-la-Ville
 Vienne-le-Château
 Viens
+Vientiane Prefecture
+Vientiane Province
 Vienville
 Vieques
 Vier-Bordes
@@ -141682,6 +142024,7 @@ Villieu-Loyes-Mollon
 Villigen
 Villimpenta
 Villing
+Villingaholtshreppur
 Villingen
 Villingen-Schwenningen
 Villingendorf
@@ -141838,6 +142181,7 @@ Vindeln Municipality
 Vinderei
 Vinderup
 Vindey
+Vindhælishreppur
 Vindornyafok
 Vindornyalak
 Vindornyaszőlős
@@ -141950,6 +142294,7 @@ Vir
 Vír
 Vira
 Vira Gambarogno
+Viraboury District
 Virac
 Viracachá
 Viradouro
@@ -142708,7 +143053,7 @@ Voorhout
 Voorschoten
 Voorst
 Voorthuizen
-Vopnafjörður
+Vopnafjarðarhreppur
 Vörå
 Voranava
 Voranava District
@@ -144931,6 +145276,7 @@ Westfield (town)
 Westfield (village)
 Westfield Township
 Westfir
+Westfjords Region
 Westford
 Westgreußen
 Westhalten
@@ -146259,15 +146605,21 @@ Xaffévillers
 Xaghra
 Xai-Xai
 Xaibe
+Xaichamphone District
 Xaintrailles
 Xaintray
+Xaiphouthong District
+Xaisathan District
+Xaisomboun Province
 Xalisco
 Xaló
+Xam Neua District
 Xambes
 Xambioá
 Xambrê
 Xammes
 Xamontarupt
+Xanakham District
 Xangri-lá
 Xanrey
 Xanten
@@ -146282,6 +146634,11 @@ Xàtiva
 Xavantina
 Xaverov
 Xaxim
+Xay District
+Xayabury District
+Xayboury District
+Xaysetha District
+Xaythany District
 Xeraco
 Xeresa
 Xermade
@@ -146296,9 +146653,13 @@ Xətai Raion
 Xghajra
 Xhafzotaj
 Xhariep
+Xiangkhouang Province
 Xibër
 Xichú
 Xicoténcatl
+Xienghone District
+Xiengkho District
+Xiengngeun District
 Xilxes ̸ Chilches
 Xinguara
 Xinjiang
@@ -146319,6 +146680,8 @@ Xocourt
 Xodos ̸ Chodos
 Xojaobod District
 Xojeli District
+Xon District
+Xonboury District
 Xonobod
 Xonqa District
 Xonrupt-Longemer
@@ -146934,6 +147297,7 @@ Yolombó
 Yoloten District
 Yolüstü
 Yomitan
+Yommalath District
 Yomra District
 Yona
 Yonabaru
@@ -146984,6 +147348,7 @@ Yoshioka
 Yoshitomi
 Yoshkar-Ola
 Yosypivka
+Yot Ou District
 Yotoco
 Yotsukaido
 Young
@@ -147026,6 +147391,7 @@ Ystad Municipality
 Ysyk-Ata District
 Ytrac
 Ytres
+Ytri-Torfustaðahreppur
 Yuasa
 Yuba City
 Yuba County
@@ -149118,3 +149484,10 @@ Zyulzya
 Zyuzino District
 Żywiec
 Żywiec County
+Þingeyjarsveit
+Þingeyrarhreppur
+Þingvallahreppur
+Þorkelshólshreppur
+Þórshafnarhreppur
+Þverárhlíðarhreppur
+Þverárhreppur
