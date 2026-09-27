@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.60
+// @version     0.61
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
@@ -1230,7 +1230,7 @@ GM_addStyle([
     '  width: 16px; height: 11px;',
     '}',
     '.extraFlag img {',
-    '  display: block; width: 100%; height: 100%;',
+    '  display: block; max-width: 100%; max-height: 100%;',
     '}'
 ].join('\n'));
 
