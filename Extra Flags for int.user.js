@@ -19,7 +19,7 @@
 // @exclude     http*://boards.4channel.org/sp/catalog
 // @exclude     http*://boards.4channel.org/pol/catalog
 // @exclude     http*://boards.4channel.org/bant/catalog
-// @version     0.61
+// @version     0.62
 // @connect     api.flagtism.com
 // @connect     github.com
 // @connect     raw.githubusercontent.com
@@ -227,11 +227,6 @@ var setup = {
             if (e.key === 'PageDown' || e.key === 'PageUp') {
                 e.preventDefault();
                 setup.moveSelection(e.key === 'PageDown' ? list.size : -list.size);
-                return;
-            }
-            if (e.key === 'Backspace' && filter.value === '') {
-                e.preventDefault();
-                setup.ascend();
             }
         }, false);
         body.appendChild(filter);
@@ -247,17 +242,6 @@ var setup = {
                 e.preventDefault();
                 filter.focus();
                 filter.value += e.key;
-                setup.renderList();
-                return;
-            }
-            if (e.key === 'Backspace') {
-                e.preventDefault();
-                filter.focus();
-                if (filter.value === '') {
-                    setup.ascend();
-                    return;
-                }
-                filter.value = filter.value.slice(0, -1);
                 setup.renderList();
                 return;
             }
@@ -1227,10 +1211,9 @@ GM_addStyle([
     /* the flags */
     '.extraFlag {',
     '  padding: 0 0 0 5px; display: inline-block; line-height: 0;',
-    '  width: 16px; height: 11px;',
     '}',
     '.extraFlag img {',
-    '  display: block; max-width: 100%; max-height: 100%;',
+    '  display: block; width: auto; height: 11px;',
     '}'
 ].join('\n'));
 
