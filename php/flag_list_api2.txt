@@ -65,18 +65,22 @@ A Estrada
 A Fonsagrada
 A Guarda
 A Gudiña
+A Hi
 A Illa de Arousa
 A Lama
 A Laracha
 A Merca
 A Mezquita
+A Noru
 A Peroxa
+A Phon
 A Pobra de Trives
 A Pobra do Brollón
 A Pobra do Caramiñal
 A Pontenova
 A Ribeira de Piquín
 A Rúa
+A Song
 A Teixeira
 A Veiga
 A Ver-o-Mar
@@ -1291,6 +1295,7 @@ Ahun
 Ahuntsic-Cartierville
 Ahuy
 Ahvaz
+Ai Na Lai
 Aia
 Aiacor
 Aião
@@ -1640,6 +1645,7 @@ Aix-Noulette
 Aix-Villemaur-Pâlis
 Aixe-sur-Vienne
 Aixheim
+Aiyoe Weng
 Aiyrtau District
 Aizac
 Aizanville
@@ -1692,6 +1698,7 @@ Ajuricaba
 Ajuterique
 Ajuy
 Ak bugdaý District
+Ak Khakham
 Ak-Dovurak
 Ak-Suu District
 Ak-Talaa District
@@ -1706,6 +1713,8 @@ Akarçay Görümlü
 Akarma
 Akashi
 Akasztó
+Akat
+Akat Amnuai District
 Akatyevo
 Akbar
 Akbasheva
@@ -4146,6 +4155,7 @@ Amlikon-Bissegg
 Amlishagen
 Amman
 Ammannsegg
+Ammarit
 Ammeldingen an der Our
 Ammeldingen bei Neuerburg
 Ammelne
@@ -4161,6 +4171,7 @@ Ammerthal
 Ammertzwiller
 Ammerzoden
 Ammeville
+Amnat
 Amnat Charoen Province
 Amné
 Amnéville
@@ -4201,6 +4212,9 @@ Ampére
 Ampezzo
 Ampfing
 Ampflwang im Hausruckwald
+Amphaeng
+Amphawa
+Amphawa District
 Ampilly-le-Sec
 Ampilly-les-Bordes
 Amplepuis
@@ -4576,7 +4590,12 @@ Añézcar ̸ Añezkar
 Anezi
 Anfeg
 Anfo
+Ang Hin
+Ang Kaeo
+Ang Khiri
 Ang Mo Kio
+Ang Sila
+Ang Thong
 Ang Thong Province
 Angaco
 Angadanan
@@ -5080,6 +5099,7 @@ Añua
 Anuchinsky District
 Anue
 Anuradhapura
+Anusawari
 Anversa degli Abruzzi
 Anvéville
 Anville
@@ -5113,6 +5133,14 @@ Anzola dell'Emilia
 Anzonico
 Anzou
 Anzy-le-Duc
+Ao Luek District
+Ao Luek Noi
+Ao Luek Nuea
+Ao Luek Tai
+Ao Nang
+Ao Noi
+Ao Tong
+Ao Yai
 Aogashima
 Aoiz ̸ Agoitz
 Aokautere
@@ -5440,6 +5468,10 @@ Arantzazu
 Arañuel
 Aranui
 Aranuka
+Aranyakham Wari
+Aranyaprathet
+Aranyaprathet District
+Aranyik
 Aranyosapáti
 Aranyosgadány
 Aranzazu
@@ -6584,6 +6616,7 @@ Arue
 Arujá
 Arum
 Arun
+Arun Ammarin
 Arunachal Pradesh
 Arundel
 Arutua
@@ -6661,6 +6694,7 @@ As-Safira Subdistrict
 As-Salihiya
 As-Sawra as-Saghira Subdistrict
 As'siddiq
+Asa
 Asagiri
 Asago
 Asahan Regency
@@ -7020,6 +7054,8 @@ Aszaló
 Aszód
 Aszód District
 Aszófő
+At Samat
+At Samat District
 At-Bashy District
 Áta
 Atabağı
@@ -8320,6 +8356,10 @@ Azzone
 Ba
 Ba Province
 Bà Rịa-Vũng Tàu Province
+Ba Wi
+Ba-Ngo Sato
+Ba-Ngoi
+Ba-Ngoi Sinae
 Ba-Phalaborwa
 Baabda
 Baabe
@@ -8465,6 +8505,8 @@ Bachíniva
 Bachivillers
 Bachmankivka
 Bachmanning
+Bacho
+Bacho District
 Bachok District
 Bachos
 Bachra
@@ -8933,6 +8975,7 @@ Bahdanauka
 Bäherden District
 Baherove
 Bahhara Oulad Ayad
+Bahi
 Bahia
 Bahía Blanca
 Bahía Blanca Department
@@ -8946,6 +8989,7 @@ Bahmut
 Bahna
 Bahnea
 Baho
+Bahoi
 Báhoň
 Bahoruco Province
 Bahrdorf
@@ -9115,6 +9159,9 @@ Bajtava
 Bajus
 Bak
 Bäk
+Bak Dai
+Bak Dong
+Bak Ruea
 Baka
 Bakacakkadı
 Bakaiku
@@ -9508,6 +9555,7 @@ Balneário Rincão
 Balninkai
 Balnot-la-Grange
 Balnot-sur-Laignes
+Balo
 Balo-i
 Balobanovo
 Balocco
@@ -9515,6 +9563,7 @@ Balochistan
 Balog nad Ipľom
 Balogna
 Balogunyom
+Baloi
 Baloň
 Balones
 Balonne
@@ -9601,7 +9650,285 @@ Bambiderstroff
 Bamble
 Bambuí
 Bammental
+Bamnet Narong District
 Bamyan Province
+Ban Aen
+Ban Bak
+Ban Bat
+Ban Bo
+Ban Boek
+Ban Bom
+Ban Bua
+Ban Bueng
+Ban Bueng District
+Ban Bung
+Ban Cha
+Ban Cha-Uat
+Ban Chaeng
+Ban Chai
+Ban Chan
+Ban Chang
+Ban Chang District
+Ban Chang Lo
+Ban Chi
+Ban Chian
+Ban Chiang
+Ban Chiet
+Ban Chop
+Ban Chuan
+Ban Chung
+Ban Daen
+Ban Daeng
+Ban Dai
+Ban Dan
+Ban Dan District
+Ban Dan Lan Hoi District
+Ban Dan Na Kham
+Ban Dara
+Ban Don
+Ban Dong
+Ban Du
+Ban Duea
+Ban Dung
+Ban Dung District
+Ban Fa
+Ban Fai
+Ban Fang
+Ban Fang District
+Ban Hae
+Ban Haeng
+Ban Haet
+Ban Haet District
+Ban Han
+Ban Hat
+Ban Hin Ngom
+Ban Hip
+Ban Hoi
+Ban Hong
+Ban Hong District
+Ban Huat
+Ban It
+Ban Kaeng
+Ban Kao
+Ban Kat
+Ban Kha
+Ban Kha District
+Ban Khae
+Ban Khaem
+Ban Khai
+Ban Khai District
+Ban Kham
+Ban Khao
+Ban Khlang
+Ban Khlo
+Ban Khlong
+Ban Khlong Suan
+Ban Kho
+Ban Khoi
+Ban Khok
+Ban Khok District
+Ban Khon
+Ban Khong
+Ban Khot
+Ban Khrua
+Ban Khu
+Ban Khuan
+Ban Khuan Mut
+Ban Khueang
+Ban Khwang
+Ban Khwao
+Ban Khwao District
+Ban Kio
+Ban Klang
+Ban Klap
+Ban Kluai
+Ban Klueng
+Ban Ko
+Ban Kok
+Ban Kong
+Ban Krachaeng
+Ban Krang
+Ban Krathum
+Ban Krot
+Ban Kruat
+Ban Kruat District
+Ban Ku
+Ban Kum
+Ban Kwang
+Ban Laem
+Ban Laem District
+Ban Laeng
+Ban Lam
+Ban Lamnao
+Ban Lan
+Ban Lao
+Ban Lat
+Ban Lat District
+Ban Len
+Ban Li
+Ban Luang
+Ban Luang District
+Ban Lueak
+Ban Lueam
+Ban Lueam District
+Ban Lum
+Ban Ma
+Ban Mae
+Ban Maet
+Ban Mai
+Ban Mai Chai Mongkhon
+Ban Mai Chaiyaphot District
+Ban Mai Khlong Khian
+Ban Mai Nong Sai
+Ban Mai Samakkhi
+Ban Mai Suk Kasem
+Ban Makluea
+Ban Mang
+Ban Meng
+Ban Mi
+Ban Mi District
+Ban Mo
+Ban Mo District
+Ban Muang
+Ban Muang District
+Ban Mung
+Ban Na
+Ban Na District
+Ban Na Doem District
+Ban Na San District
+Ban Nai Dong
+Ban Nam Bo
+Ban Namphu
+Ban Ngio
+Ban Nikhom
+Ban Noen
+Ban Noi
+Ban Noi Sum Khi Lek
+Ban Nok
+Ban Non
+Ban Not
+Ban Nuea
+Ban Nun
+Ban On
+Ban Pa
+Ban Pae
+Ban Paen
+Ban Paeng
+Ban Pao
+Ban Pathum
+Ban Pet
+Ban Phae
+Ban Phaen
+Ban Phaeng
+Ban Phaeng District
+Ban Phaeo
+Ban Phaeo District
+Ban Phai
+Ban Phai District
+Ban Phan Thom
+Ban Phet
+Ban Phi
+Ban Phlap
+Ban Phluang
+Ban Pho
+Ban Pho District
+Ban Phoem
+Ban Phoeng
+Ban Phon
+Ban Phot
+Ban Phra
+Ban Phraek
+Ban Phraek District
+Ban Phran
+Ban Phrao
+Ban Phrik
+Ban Phru
+Ban Phue
+Ban Phue District
+Ban Phueng
+Ban Pin
+Ban Pom
+Ban Pong
+Ban Pong District
+Ban Praeng
+Ban Pramot
+Ban Prang
+Ban Prok
+Ban Prong
+Ban Prue
+Ban Puang
+Ban Puek
+Ban Rae
+Ban Rai
+Ban Rai District
+Ban Rakat
+Ban Ram
+Ban Rat
+Ban Ri
+Ban Rom
+Ban Rong
+Ban Ruea
+Ban Ruean
+Ban Run
+Ban Sa
+Ban Sadet
+Ban Saeo
+Ban Sahakon
+Ban Sai
+Ban San
+Ban Sang
+Ban Sang District
+Ban Siao
+Ban Sing
+Ban Soet
+Ban Sok
+Ban Song
+Ban Suan
+Ban Ta Khun District
+Ban Tai
+Ban Tak District
+Ban Tako
+Ban Tam
+Ban Tan
+Ban Tao
+Ban Tat
+Ban Thaen
+Ban Thaen District
+Ban Thaeo
+Ban Thai
+Ban Tham
+Ban Thamniap
+Ban Than
+Ban Thap
+Ban That
+Ban Thi
+Ban Thi District
+Ban Thin
+Ban Thon
+Ban Thum
+Ban Tio
+Ban Tok
+Ban Tom
+Ban Ton
+Ban Tong
+Ban Tuek
+Ban Tum
+Ban Tun
+Ban Ueam
+Ban Ueang
+Ban Wa
+Ban Waen
+Ban Waeng
+Ban Wai
+Ban Wan
+Ban Wang
+Ban Wiang
+Ban Ya
+Ban Yaeng
+Ban Yai
+Ban Yang
+Ban Yuak
+Ban Yuat
 Ban-de-Laveline
 Ban-de-Sapt
 Ban-sur-Meurthe-Clefcy
@@ -9677,6 +10004,273 @@ Baneuil
 Bánfa
 Banff
 Banffshire
+Bang Bai Mai
+Bang Bamru
+Bang Ban
+Bang Ban District
+Bang Bo
+Bang Bo District
+Bang Bon
+Bang Bon District
+Bang Boribun
+Bang Bua Thong
+Bang Bua Thong District
+Bang But
+Bang Chak
+Bang Chakreng
+Bang Chalong
+Bang Chan
+Bang Chana
+Bang Chang
+Bang Chani
+Bang Chao Cha
+Bang Chueak Nang
+Bang Decha
+Bang Di
+Bang Duan
+Bang Duea
+Bang Duean
+Bang Hak
+Bang Hin
+Bang Hua Suea
+Bang Kacha
+Bang Kachai
+Bang Kachao
+Bang Kadi
+Bang Kaeo
+Bang Kaeo District
+Bang Kaeo Fa
+Bang Kahai
+Bang Kao
+Bang Kaphi
+Bang Kapi
+Bang Kapi District
+Bang Kha
+Bang Khae
+Bang Khae District
+Bang Khae Nuea
+Bang Khaem
+Bang Kham
+Bang Khamot
+Bang Khan
+Bang Khan District
+Bang Khan Mak
+Bang Khan Taek
+Bang Khanak
+Bang Khanun
+Bang Khao
+Bang Khayaeng
+Bang Khem
+Bang Khen
+Bang Khen District
+Bang Khian
+Bang Khiat
+Bang Khla
+Bang Khla District
+Bang Khlan
+Bang Khlo
+Bang Kho
+Bang Kho Laem
+Bang Kho Laem District
+Bang Khonthi
+Bang Khonthi District
+Bang Khrok
+Bang Khru
+Bang Khu
+Bang Khu Rat
+Bang Khu Wat
+Bang Khu Wiang
+Bang Khun Kong
+Bang Khun Non
+Bang Khun Phrom
+Bang Khun Sai
+Bang Khun Si
+Bang Khun Thian
+Bang Khun Thian District
+Bang Khun Thong
+Bang Khut
+Bang Khwan
+Bang Klam
+Bang Klam District
+Bang Kluea
+Bang Ko Bua
+Bang Krabao
+Bang Krabue
+Bang Krachao
+Bang Krachet
+Bang Krang
+Bang Krasan
+Bang Kraso
+Bang Krasop
+Bang Krathuek
+Bang Krathum
+Bang Krathum District
+Bang Kro
+Bang Kruai
+Bang Kruai District
+Bang Krut
+Bang Kung
+Bang Lai
+Bang Lamphu Lang
+Bang Lamung
+Bang Lamung District
+Bang Lao
+Bang Len
+Bang Len District
+Bang Li
+Bang Luang
+Bang Luang Dot
+Bang Luek
+Bang Luk Suea
+Bang Maduea
+Bang Mae Nang
+Bang Mafo
+Bang Mak
+Bang Man
+Bang Maphrao
+Bang Mot
+Bang Muang
+Bang Mueang
+Bang Mueang Mai
+Bang Mun Nak
+Bang Mun Nak District
+Bang Na
+Bang Na District
+Bang Nai Si
+Bang Nak
+Bang Nam Chiao
+Bang Nam Chuet
+Bang Nam Phueng
+Bang Nam Priao
+Bang Nam Priao District
+Bang Nang
+Bang Nang Li
+Bang Nang Ra
+Bang Nga
+Bang Ngam
+Bang Ngon
+Bang Nok Khwaek
+Bang Nom Kho
+Bang Non
+Bang Nop
+Bang O
+Bang Pa
+Bang Pa-in District
+Bang Pahan
+Bang Pahan District
+Bang Pakok
+Bang Pakong
+Bang Pakong District
+Bang Pao
+Bang Phae
+Bang Phae District
+Bang Phai
+Bang Phasi
+Bang Phlap
+Bang Phlat
+Bang Phlat District
+Bang Phli
+Bang Phli District
+Bang Phli Noi
+Bang Phli Yai
+Bang Phloeng
+Bang Phluang
+Bang Pho
+Bang Pho Nuea
+Bang Phongphang
+Bang Phra
+Bang Phra Luang
+Bang Phra Nuea
+Bang Phra Tai
+Bang Phrakhru
+Bang Phriang
+Bang Phrom
+Bang Phueng
+Bang Phun
+Bang Phut
+Bang Phutsa
+Bang Pit
+Bang Pla
+Bang Pla Kot
+Bang Pla Ma
+Bang Pla Ma District
+Bang Pla Ra
+Bang Pla Soi
+Bang Po
+Bang Pradaeng
+Bang Pramung
+Bang Prok
+Bang Prong
+Bang Pu
+Bang Pu Mai
+Bang Rachan
+Bang Rachan District
+Bang Rak
+Bang Rak District
+Bang Rak Noi
+Bang Rak Phatthana
+Bang Rak Yai
+Bang Rakam
+Bang Rakam District
+Bang Ramat
+Bang Riang
+Bang Rin
+Bang Rong
+Bang Rup
+Bang Sa Kao
+Bang Sadet
+Bang Sai
+Bang Sai District (1404)
+Bang Sai District (1413)
+Bang Sai Noi
+Bang Sai Pa
+Bang Sai Yai
+Bang Sak
+Bang Sakae
+Bang Sala
+Bang Samak
+Bang Sao Thong
+Bang Sao Thong District
+Bang Saphan
+Bang Saphan District
+Bang Saphan Noi District
+Bang Sare
+Bang Sawan
+Bang Si Mueang
+Bang Si Thong
+Bang Sombun
+Bang Son
+Bang Suan
+Bang Sue
+Bang Sue District
+Bang Ta Ngai
+Bang Ta Then
+Bang Tabun
+Bang Tabun Ok
+Bang Taen
+Bang Takhian
+Bang Talat
+Bang Tanai
+Bang Tanot
+Bang Taphong
+Bang Tawa
+Bang Thong
+Bang Thorat
+Bang Tin Pet
+Bang Toei
+Bang Wa
+Bang Waek
+Bang Wan
+Bang Wua
+Bang Ya Phraek
+Bang Yai
+Bang Yai District
+Bang Yang
+Bang Yi Khan
+Bang Yi Rong
+Bang Yi Ruea
+Bang Yi Tho
+Bang Yo
 Banga
 Bangar
 Bangerten
@@ -9687,6 +10281,8 @@ Banggi Subdistrict
 Bangka Regency
 Bangkalan Regency
 Bangkok
+Bangkok Noi District
+Bangkok Yai District
 Bangli Regency
 Bangor
 Bangued
@@ -9726,11 +10322,15 @@ Banks
 Banks County
 Banks Township
 Bankya District
+Banlang
 Banloc
 Bann
 Banna
 Bannach
 Bannalec
+Bannang Sareng
+Bannang Sata
+Bannang Sata District
 Bannans
 Bannay
 Bannberscheid
@@ -9774,6 +10374,7 @@ Bánovce nad Bebravou District
 Bánovce nad Ondavou
 Báňovice
 Banovići
+Banphot Phisai District
 Bánréve
 Bans
 Bansalan
@@ -9843,6 +10444,8 @@ Bar-sur-Aube
 Bar-sur-Seine
 Bara
 Bâra
+Bara Ho
+Bara Hom
 Barabás
 Barabash
 Barabinsk
@@ -10092,6 +10695,8 @@ Bardowick
 Bardu
 Bárdudvarnok
 Bardymsky District
+Bare Nuea
+Bare Tai
 Bareda District
 Barèges
 Bareggio
@@ -10262,6 +10867,7 @@ Barnten
 Barntrup
 Barnwell
 Barnwell County
+Baro
 Barobo
 Barok
 Barolo
@@ -10771,6 +11377,7 @@ Batňovice
 Bato
 Batočina
 Baton Rouge
+Batong
 Bátonyterenye
 Bátonyterenye District
 Batopilas
@@ -10936,6 +11543,7 @@ Bavorov
 Bavory
 Bavoryně
 Baw Baw
+Bawa
 Bawinkel
 Bax
 Băxani
@@ -10985,6 +11593,7 @@ Bayanjargalan
 Bayankhangai
 Bayankhongor Province
 Bayantsagaan
+Bayao
 Bayárcal
 Bayard
 Bayard-sur-Marne
@@ -12340,6 +12949,8 @@ Benavites
 Benay
 Benayes
 Bencatel
+Benchakhon
+Benchalak District
 Bend
 Bendada
 Bendejun
@@ -13431,6 +14042,7 @@ Betoncourt-lès-Ménétriers
 Betoncourt-Saint-Pancras
 Betoncourt-sur-Mance
 Betondorp
+Betong
 Betong District
 Betoño
 Bétous
@@ -14187,6 +14799,7 @@ Binetto
 Binə
 Binəqədi
 Binəqədi Qəsəbə
+Bing
 Bingawan
 Bingelrade
 Bingen
@@ -15079,8 +15692,54 @@ Bni Yakhlef
 Bni Ykhlef
 Bni Zoli
 Bni Zrantel
+Bo
 Bő
 Bø
+Bo Bia
+Bo Daeng
+Bo Dan
+Bo Haeo
+Bo Hin
+Bo Kaeo
+Bo Kluea District
+Bo Kluea Nuea
+Bo Kluea Tai
+Bo Kradan
+Bo Kru
+Bo Kwang Thong
+Bo Lek Long
+Bo Luang
+Bo Nam Ron
+Bo Ngoen
+Bo Nok
+Bo Phak
+Bo Phan Khan
+Bo Phlap
+Bo Phloi
+Bo Phloi District
+Bo Pho
+Bo Phong
+Bo Phu
+Bo Phut
+Bo Pla Thong
+Bo Rae
+Bo Rai District
+Bo Rang
+Bo Saen
+Bo Sali
+Bo Suak
+Bo Suphan
+Bo Ta Lo
+Bo Thai
+Bo Tham
+Bo Thong
+Bo Thong District
+Bo Tru
+Bo Weru
+Bo Win
+Bo Yai
+Bo Yang
+Bo-Ngo
 Boa Aldeia
 Boa Aldeia, Farminhão e Torredeita
 Boa Esperança
@@ -15330,6 +15989,7 @@ Boécourt
 Boedo
 Boëge
 Boeil-Bezing
+Boek Phrai
 Boekel
 Boekelo
 Boekhoute
@@ -15348,6 +16008,7 @@ Bœsenbiesen
 Boëssé-le-Sec
 Boësses
 Boestofte
+Boet
 Bœurs-en-Othe
 Boezinge
 Bofete
@@ -15668,6 +16329,7 @@ Bojnik
 Bojonegoro Regency
 Bojszowy
 Bojt
+Bok
 Boka District
 Bókaháza
 Bokel
@@ -15984,6 +16646,7 @@ Bompietro
 Bomporto
 Boms
 Bomy
+Bon
 Bon Accord
 Bon Homme County
 Bon Repos sur Blavet
@@ -16051,6 +16714,10 @@ Bonfinópolis
 Bonfinópolis de Minas
 Bonfol
 Bong County
+Bong Nuea
+Bong Tai
+Bong Tan
+Bong Ti
 Bongabon
 Bongabong
 Bongao
@@ -16224,6 +16891,8 @@ Bor u Skutče
 Bor-et-Bar
 Borá
 Bora Bora
+Borabue
+Borabue District
 Borač
 Boracéia
 Borama District
@@ -16408,6 +17077,7 @@ Borgstedt
 Borgsum
 Borgsweer
 Borgwedel
+Boribun
 Bořice
 Borikhane District
 Borili District
@@ -17370,6 +18040,7 @@ Bowling Green
 Bowman
 Bowman County
 Bowmanstown
+Bowon Niwet
 Box Butte County
 Box Elder County
 Boxberg
@@ -19125,13 +19796,49 @@ Brzuze
 Brzyska
 Bsharri
 Bû
+Bu Di
+Bu Fai
+Bu Hom
+Bu Kit
+Bu Kraeng
+Bu Krasang
+Bu Pho
+Bu Phram
+Bu Pueai
+Bu Ruesi
+Bu Sung
 Bu'ale District
 Bu'eine Nujeidat
+Bua Ban
+Bua Chum
+Bua Daeng
+Bua Hung
+Bua Kham
+Bua Khao
+Bua Kho
+Bua Khok
+Bua Lai
+Bua Lai District
+Bua Loi
+Bua Mat
+Bua Ngam
+Bua Ngoen
+Bua Noi
+Bua Pak Tha
 Bua Province
+Bua Sali
+Bua Thong
+Bua Tum
+Bua Watthana
+Bua Yai
+Bua Yai District
+Buachet
+Buachet District
 Buada District
 Buadiposo-Buntong
 Buais
 Buais-Les-Monts
+Buak Khang
 Buan County
 Buanes
 Buarcos
@@ -19385,6 +20092,7 @@ Bueil
 Bueil-en-Touraine
 Buellas
 Buellton
+Buemang
 Buen Pasto
 Buena
 Bueña
@@ -19402,12 +20110,58 @@ Buenavista
 Buenavista de Valdavia
 Buenavista del Norte
 Buendía
+Bueng
+Bueng Ba
+Bueng Bon
+Bueng Bua
+Bueng Bun
+Bueng Bun District
+Bueng Cham O
+Bueng Charoen
+Bueng Ka Sam
+Bueng Kae
+Bueng Kan
 Bueng Kan Province
+Bueng Kham Phroi
+Bueng Kho Hai
+Bueng Khong Long
+Bueng Khong Long District
+Bueng Kluea
+Bueng Kok
+Bueng Krachap
+Bueng Kum District
+Bueng Malu
+Bueng Na Rang
+Bueng Na Rang District
+Bueng Na Riang
+Bueng Nakhon
+Bueng Nam Rak
+Bueng Ngam
+Bueng Niam
+Bueng O
+Bueng Phalai
+Bueng Phra
+Bueng Pla Thu
+Bueng Prue
+Bueng Sam Phan
+Bueng Sam Phan District
+Bueng Samakkhi
+Bueng Samakkhi District
+Bueng Samrong
+Bueng San
+Bueng Sanan
+Bueng Senat
+Bueng Thap Raet
+Bueng Thawai
+Bueng Thong Lang
+Bueng Wichai
+Bueng Yi Tho
 Bueno Brandão
 Buenópolis
 Buenos Aires
 Buenos Aires Province
 Buerarema
+Buere
 Buerschent
 Buesaco
 Buești
@@ -19555,6 +20309,7 @@ Bukit Sawat
 Bukittinggi
 Bükkábrány
 Bükkaranyos
+Bukkhalo
 Bükkmogyorósd
 Bükkösd
 Bükkszék
@@ -19697,6 +20452,17 @@ Bunești
 Bunești-Averești
 Bunetice
 Buneville
+Bung
+Bung Kaeo
+Bung Kha
+Bung Khi Lek
+Bung Khla
+Bung Khla District
+Bung Loet
+Bung Mai
+Bung Malaeng
+Bung Namtao
+Bung Wai
 Bungo Regency
 Bungo-ono
 Bungoma County
@@ -19704,19 +20470,24 @@ Bungotakada
 Bunheiro
 Buniel
 Bunila
+Bunkoet
 Bunkovce
 Bunkyo
 Bunn
+Bunnak Phatthana
 Bunnell
 Bunnik
 Bunnythorpe
 Buno-Bonnevaux
 Buñol
+Bunrueang
 Bunschoten
 Bünsdorf
 Bunsoh
 Buntenbock
 Buntești
+Bunthan
+Buntharik District
 Buñuel
 Bunus
 Bünyan District
@@ -25237,11 +26008,20 @@ Cézy
 Chã
 Chã de Alegria
 Chã Grande
+Cha Kong
+Cha Kwua
+Cha Nae
 Chã Preta
+Cha-Am
+Cha-am District
+Cha-Om
+Cha-Uat
+Cha-uat District
 Chaa-Kholsky District
 Chaabet El Ham
 Chaam
 Chabanais
+Chabang Tiko
 Chabanière
 Chabany Hromada
 Chabařovice
@@ -25287,6 +26067,17 @@ Chadrac
 Chadron
 Chadukasy
 Chadurie
+Chae
+Chae Chang
+Chae Hom
+Chae Hom District
+Chae Lae
+Chae Son
+Chaem Luang
+Chaen Laen
+Chaen Waen
+Chaeng Ngam
+Chaeramae
 Chafé
 Chaffee County
 Chaffois
@@ -25307,7 +26098,27 @@ Chahains
 Chahal
 Chahda
 Chahor Hromada
+Chai Badan
+Chai Badan District
+Chai Buri
+Chai Buri District
+Chai Chumphon
+Chai Di
+Chai Kasem
+Chai Khram
+Chai Mongkhon
+Chai Montri
+Chai Na
+Chai Nam
+Chai Narai
+Chai Nat
 Chai Nat Province
+Chai Prakan District
+Chai Sathan
+Chai So
+Chai Wan
+Chai Wan District
+Chai Watthana
 Chaibate
 Chaidari
 Chaignay
@@ -25341,14 +26152,31 @@ Chaintrix-Bierges
 Chaise-Dieu-du-Theil
 Chaitén
 Chaix
+Chaiya District
+Chaiyaphon
+Chaiyaphruek
+Chaiyaphum
 Chaiyaphum Province
+Chaiyarat
+Chaiyarit
+Chaiyo
+Chaiyo District
 Chaján
 Chajarí
 Chajul
+Chak Bok
+Chak Don
+Chak Phong
+Chak Thai
+Chakkarat
+Chakkarat District
+Chakkrawat
 Chakran
+Chaksi
 Chakyrsky
 Chalabre
 Chalacea
+Chalae
 Chalagnac
 Chalain-d'Uzore
 Chalain-le-Comtal
@@ -25383,6 +26211,7 @@ Chalèze
 Chalezeule
 Chalfant
 Chalfont
+Chaliang
 Chaliers
 Chalifert
 Chaligny
@@ -25413,8 +26242,11 @@ Chalmazel-Jeansagnière
 Chalmessin
 Chalmoux
 Chalo-Saint-Mars
+Chaloem
+Chaloem Phra Kiat District
 Chalon
 Chalon-sur-Saône
+Chalong
 Chalonnes-sous-le-Lude
 Chalonnes-sur-Loire
 Châlons-du-Maine
@@ -25425,20 +26257,28 @@ Châlonvillars-Mandrevillars
 Chalou-Moulineux
 Chaloupky
 Chaltrait
+Chalung
 Chalus
 Châlus
 Chalvignac
 Chalvraines
 Cham
 Cham District
+Cham Kho
+Cham Phak Phaeo
+Cham Rak
 Chamadelle
 Chamaeleon
+Chamaep
 Chamagne
 Chamagnieu
+Chamai
 Chamalières
 Chamalières-sur-Loire
 Chamaloc
+Chaman
 Chamant
+Chamao
 Chamarande
 Chamarandes
 Chamarandes-Choignes
@@ -25518,8 +26358,11 @@ Chámeza
 Chamical
 Chamigny
 Chamilly
+Chamlong
 Chamlykskaya
 Chammes
+Chamni
+Chamni District
 Chamoim
 Chamoim e Vilar
 Chamois
@@ -25542,6 +26385,11 @@ Champ-le-Duc
 Champ-sur-Barse
 Champ-sur-Drac
 Champ-sur-Layon
+Champa
+Champa Khan
+Champa Lo
+Champa Mong
+Champa Wai
 Champagnac
 Champagnac-de-Belair
 Champagnac-la-Noaille
@@ -25620,6 +26468,7 @@ Champgenéteux
 Champguyon
 Champhol
 Champhone District
+Champi
 Champien
 Champier
 Champigné
@@ -25704,14 +26553,32 @@ Champvent
 Champvert
 Champvoisy
 Champvoux
+Chamrae
 Chamrousse
+Chamuang
 Chamusca
 Chamusca e Pinheiro Grande
 Chamusca Municipality
 Chamvres
 Chamzinsky District
+Chan
+Chan Chawa
+Chan Chawa Tai
+Chan Di
+Chan Dum
+Chan Lan
+Chan Phen
+Chan Saen Chai
+Chan Sen
+Chan Thuek
+Chan Yai
+Chan-At
+Chana District
+Chana Songkhram
 Chanac
 Chanac-les-Mines
+Chanae
+Chanae District
 Chanaleilles
 Chañar Ladeado
 Chañaral
@@ -25751,10 +26618,32 @@ Chanéaz
 Chaneins
 Chânes
 Chang
+Chang Hai Tok
+Chang Kham
+Chang Khlan
+Chang Khoeng
+Chang Khwa
+Chang Klang
+Chang Klang District
+Chang Lek
+Chang Ming
+Chang Moi
+Chang Noi
+Chang Nuea
+Chang Phueak
+Chang Pi
+Chang Raek
+Chang Sai
+Chang Talut
+Chang Thong
+Chang Thun
+Chang Yai
 Change
 Changé
 Change Islands
 Changey
+Changhan
+Changhan District
 Changhua County
 Changis-sur-Marne
 Changnyeong County
@@ -25762,6 +26651,7 @@ Changuinola
 Changy
 Chanhassen
 Chania
+Chaniang
 Chaniat
 Chaniers
 Chankom
@@ -25771,7 +26661,10 @@ Channel-Port aux Basques
 Channes
 Chanolles
 Chanonat
+Chanong
 Chanos-Curson
+Chanot
+Chanot Noi
 Chanousse
 Chanovice
 Chanovsky District
@@ -25805,6 +26698,11 @@ Chantesse
 Chanteuges
 Chanthabuly District
 Chanthaburi Province
+Chanthakhlem
+Chanthanimit
+Chantharakasem
+Chanthima
+Chanthop Phet
 Chantillac
 Chantilly
 Chantôme
@@ -25816,11 +26714,20 @@ Chantrezac
 Chantrigné
 Chantry Island
 Chanu
+Chanuman
+Chanuman District
 Chanute
+Chanuwan
 Chanverrie
 Chanville
 Chanzeaux
+Chao Chet
 Chão de Couce
+Chao Pluk
+Chao Sadet
+Chao Tha
+Chao Thong
+Chao Wat
 Chaon
 Chãos
 Chaouachi
@@ -25900,8 +26807,11 @@ Charadai
 Charalá
 Charancieu
 Charancin
+Charang
 Charantonnay
 Charapan
+Charaphat
+Charat
 Charata
 Charavines
 Charazani
@@ -25953,6 +26863,7 @@ Chargey-lès-Port
 Chargharay
 Chariez
 Charigny
+Charim
 Chariton County
 Charix
 Charkov
@@ -26036,6 +26947,13 @@ Charny-le-Bachot
 Charny-sur-Meuse
 Charo
 Charodinsky District
+Charoen Mueang
+Charoen Phon
+Charoen Rat
+Charoen Sin
+Charoen Sin District
+Charoen Suk
+Charoen Tham
 Charolles
 Charols
 Charonville
@@ -26161,6 +27079,8 @@ Chastre-Villeroux-Blanmont
 Chastreix
 Chastsy
 Chastye
+Chat Trakan
+Chat Trakan District
 Chatain
 Châtaincourt
 Chatan
@@ -26310,6 +27230,7 @@ Chatham County
 Chatham Islands
 Chatham Township
 Chatham-Kent
+Chathing Phra
 Châtignac
 Chatignonville
 Châtillens
@@ -26368,7 +27289,11 @@ Chatte
 Chattogram
 Chatton
 Chattooga County
+Chatturat District
+Chatuchak
+Chatuchak District
 Chatún
+Chaturaphak Phiman District
 Chatuzange-le-Goubet
 Chaucenne
 Chauchailles
@@ -26547,6 +27472,9 @@ Chavoy
 Chavroches
 Chavusy
 Chavusy District
+Chawai
+Chawang
+Chawang District
 Chay
 Chayanta Province
 Chaybukha
@@ -26576,6 +27504,8 @@ Chazy
 Chbanate
 Chbany
 Chbika
+Che Bi Lang
+Che He
 Cheatham County
 Cheb
 Cheb District
@@ -26597,6 +27527,11 @@ Chechelnyk Hromada
 Chechnya
 Chęciny
 Chécy
+Chedi
+Chedi Chai
+Chedi Hak
+Chedi Kham
+Chedi Luang
 Chedi-Kholsky District
 Chédigny
 Cheektowaga
@@ -27017,6 +27952,8 @@ Chestres
 Chestyni
 Cheswick
 Cheswold
+Chet Rio
+Chet Samian
 Chețani
 Chetfalva
 Chetopa
@@ -27117,19 +28054,59 @@ Chhubu
 Chhukha
 Chhume
 Chhuzagang
+Chi Bon
+Chi Nam Rai
+Chi Thuan
 Chia
 Chía
 Chiador
 Chiajna
 Chialamberto
 Chiampo
+Chian Khao
+Chian Yai
+Chian Yai District
 Chianche
 Chianciano Terme
+Chiang Ban
+Chiang Da
+Chiang Dao
+Chiang Dao District
+Chiang Kham District
+Chiang Khan
+Chiang Khan District
+Chiang Khian
+Chiang Khong
+Chiang Khong District
+Chiang Khruea
+Chiang Khwan
+Chiang Khwan District
+Chiang Klang
+Chiang Klang District
+Chiang Klom
+Chiang Mai
 Chiang Mai Province
+Chiang Muan
+Chiang Muan District
+Chiang Nga
+Chiang Ngoen
+Chiang Pheng
+Chiang Phin
+Chiang Raeng
 Chiang Rai Province
+Chiang Rak Noi
+Chiang Rak Yai
+Chiang Saen District
+Chiang Sue
+Chiang Thong
+Chiang Wae
+Chiang Wang
+Chiang Yuen
+Chiang Yuen District
 Chianni
 Chianocco
 Chiantla
+Chiao Liang
 Chiapas
 Chiapetta
 Chiaramonte Gulfi
@@ -27141,6 +28118,7 @@ Chiaravalle Milanese
 Chiari
 Chiaromonte
 Chiasso
+Chiat
 Chiatra
 Chiatura Municipality
 Chiauci
@@ -27228,6 +28206,10 @@ Chihayaakasaka
 Chiheru de Jos
 Chihia
 Chihuahua
+Chik Daek
+Chik Du
+Chik Sang Thong
+Chik Thoeng
 Chikan
 Chikcha
 Chikichey
@@ -27274,6 +28256,7 @@ Chilly-sur-Salins
 Chilmark
 Chiloé Province
 Chiloeches
+Chilong
 Chilonzor District
 Chiloquin
 Chiltern
@@ -27298,6 +28281,7 @@ Chimillas
 Chimney Rock
 Chimoré
 Chimpay
+Chimphli
 Chin State
 China
 China Grove
@@ -27316,6 +28300,7 @@ Chinchón
 Chincoteague
 Chinda
 Chindrieux
+Ching Kho
 Chingola
 Chinicuila
 Chínipas
@@ -27469,6 +28454,8 @@ Chivres
 Chivres-en-Laonnois
 Chivres-Val
 Chivy-lès-Étouvelles
+Chiwan
+Chiwuek
 Chiyah
 Chiyoda
 Chizé
@@ -27518,6 +28505,14 @@ Chmiňany
 Chminianska Nová Ves
 Chminianske Jakubovany
 Chmyrivka Hromada
+Cho Bo
+Cho Hae
+Cho Ho
+Cho Lae
+Cho Phaka
+Cho Po Ro
+Cho Raka
+Cho-airong District
 Choachí
 Choapa Province
 Choara
@@ -27560,6 +28555,13 @@ Chodzież
 Chodzież (rural gmina)
 Chodzież County
 Choele Choel
+Choeng Chum
+Choeng Doi
+Choeng Khiri
+Choeng Klat
+Choeng Noen
+Choeng Sae
+Choeng Thale
 Chofu
 Chohodarivka Hromada
 Choignes
@@ -27582,6 +28584,10 @@ Chojnice (rural gmina)
 Chojnice County
 Chojnów
 Chojnów (rural gmina)
+Chok Chai
+Chok Chai District
+Chok Na Sam
+Chok Nuea
 Chokhatauri Municipality
 Chokhorling
 Chokurdakh
@@ -27598,24 +28604,66 @@ Cholpon-Ata
 Choltice
 Choluteca
 Choluteca Department
+Chom Bueng
+Chom Bueng District
+Chom Chan
+Chom Charoen
+Chom Mok Kaeo
+Chom Phra
+Chom Phra District
+Chom Pluak
+Chom Prathat
+Chom Sa-At
+Chom Sawan
+Chom Si
+Chom Thong
+Chom Thong District
 Choma
 Chomelix
 Chomérac
 Chomle
 Chomonyn
 Chomphet District
+Chomphon
+Chomphu
 Chomutice
 Chomutov
 Chomutov District
 Chomýž
+Chon Daen
+Chon Daen District
+Chon Khram
+Chon Muang
+Chon Noi
+Chon Phrai
+Chon Saradet
+Chon Sombun
 Chonan
 Chonas-l'Amballan
 Chonburi Province
 Chonchi
+Chong
+Chong Dan
+Chong Khae
+Chong Khaep
+Chong Kham
+Chong Kum
+Chong Lom
+Chong Maeo
+Chong Mai Kaeo
+Chong Mek
+Chong Nonsi
+Chong Sadao
+Chong Sakae
+Chong Sam Mo
+Chong Sarika
+Chong Thanon
 Chong-Alay District
 Chongqing
 Chongshing
 Choňkovce
+Chonnabot
+Chonnabot District
 Chontales Department
 Chonville
 Chonville-Malaumont
@@ -27625,6 +28673,14 @@ Chopinzinho
 Chopivtsi
 Chopovychi Hromada
 Choqueuse-les-Bénards
+Chorakhe
+Chorakhe Bua
+Chorakhe Hin
+Chorakhe Mak
+Chorakhe Phueak
+Chorakhe Rong
+Chorakhe Sam Phan
+Chorakhe Yai
 Choranche
 Choratice
 Chorbane
@@ -27679,6 +28735,8 @@ Chosendo
 Chosi
 Choszczno
 Choszczno County
+Chot Muang
+Chot Nong Kae
 Choťánky
 Chotča
 Chotcza
@@ -27804,6 +28862,7 @@ Chtouka
 Chtouka-Ait Baha Province
 Chua Chu Kang
 Chua Cocani
+Chuap
 Chuarrancho
 Chubut Province
 Chucándiro
@@ -27826,8 +28885,11 @@ Chudniv Hromada
 Chudoslavice
 Chudovo
 Chudovsky District
+Chuea Phloeng
 Chueca
 Chuelles
+Chuen Chom
+Chuen Chom District
 Chufarovo
 Chuffilly-Roche
 Chugach Census Area
@@ -27845,6 +28907,7 @@ Chukhlomsky District
 Chukotka Autonomous District
 Chukotsky District
 Chula Vista
+Chulabhorn District
 Chulakivka Hromada
 Chulilla
 Chulkovskoye
@@ -27853,13 +28916,32 @@ Chulucanas
 Chulumani
 Chulym
 Chulymsky District
+Chum Chang
+Chum Het
+Chum Kho
+Chum Phae
+Chum Phae District
+Chum Phuang
+Chum Phuang District
+Chum Saeng
+Chum Saeng District
+Chum Saeng Songkhram
+Chum Ta Bong
+Chum Ta Bong District
 Chuma
 Chumaky Hromada
 Chumalovo
 Chumankasinskoye
 Chumayel
+Chumchang
 Chumillas
+Chumphon
+Chumphon Buri
+Chumphon Buri District
 Chumphon Province
+Chumphu Phon
+Chun
+Chun District
 Chuña
 Chuncheon
 Chung-guyŏk
@@ -32817,6 +33899,10 @@ Dadra and Nagar Haveli
 Daedeok District
 Daegu
 Daejeon
+Daen Chumphon
+Daen Sa-Nguan
+Daeng Mo
+Daeng Yai
 Dăeni
 Dăești
 Daet
@@ -33070,6 +34156,8 @@ Damnatz
 Damnica
 Damnice
 Damníkov
+Damnoen Saduak
+Damnoen Saduak District
 Dámóc
 Damolândia
 Damousies
@@ -33123,6 +34211,28 @@ Damville
 Damvillers
 Damvix
 Damyang County
+Dan
+Dan Chak
+Dan Chang
+Dan Chang District
+Dan Chumphon
+Dan Khla
+Dan Khun Thot
+Dan Khun Thot District
+Dan Kwian
+Dan Mae Chalaep
+Dan Mae Kham Man
+Dan Mae Lamao
+Dan Makham Tia
+Dan Makham Tia District
+Dan Muang Kham
+Dan Nai
+Dan Nok
+Dan Sai
+Dan Sai District
+Dan Sawi
+Dan Si Suk
+Dan Thap Tako
 Dana Point
 Danane District
 Danao
@@ -33225,6 +34335,8 @@ Danylivka
 Danylovo
 Danzé
 Dao
+Dao Khanong
+Dao Rueang
 Daon
 Daone
 Daoulas
@@ -33393,6 +34505,7 @@ Datas
 Datça District
 Date
 Dätgen
+Dato
 Datteln
 Dattenberg
 Dättlikon
@@ -33924,11 +35037,16 @@ Demydiv
 Demydivka Hromada
 Demyno-Oleksandrivka
 Den Bommel
+Den Chai
+Den Chai District
 Den Den
 Den Dungen
 Den Haag
 Den Ham
 Den Helder
+Den Lek
+Den Rat
+Den Yai
 Denain
 Denali Borough
 Dénat
@@ -34170,6 +35288,7 @@ Desvres
 Desyonovskoye
 Deszczno
 Deszk
+Det Udom District
 Deta
 Détain-et-Bruant
 Detchino
@@ -34339,6 +35458,8 @@ Dhusamareb District
 Dhuvaafaru
 Dhuy
 Dhuys et Morin-en-Brie
+Di Lang
+Di Luang
 Diadema
 Diadi
 Diadkovychi Hromada
@@ -34621,6 +35742,12 @@ Dimock Township
 Dimona
 Dimont
 Dimovo
+Din Chi
+Din Daeng
+Din Daeng District
+Din Dam
+Din Thong
+Din Udom
 Dina Huapi
 Dinagat
 Dinagat Islands Province
@@ -35098,8 +36225,11 @@ Dodro
 Dodurga
 Dodurga District
 Doel
+Doem Bang
+Doem Bang Nang Buat District
 Doerun
 Doesburg
+Doet
 Doetinchem
 Dœuil-sur-le-Mignon
 Doeveren
@@ -35140,6 +36270,16 @@ Dohna
 Dohňany
 Dohr
 Dohren
+Doi Hang
+Doi Kaeo
+Doi Lan
+Doi Lo
+Doi Lo District
+Doi Luang District
+Doi Ngam
+Doi Saket District
+Doi Tao
+Doi Tao District
 Doicești
 Doignies
 Doina
@@ -35162,9 +36302,13 @@ Doix lès Fontaines
 Doizieux
 Dojč
 Dojran
+Dok Khamtai
+Dok Khamtai District
+Dok Lam
 Dokki
 Dokkum
 Dokkumer Ie en omgeving
+Dokmai
 Doksany
 Dokshytsy
 Dokshytsy District
@@ -35386,6 +36530,7 @@ Dolzago
 Dolzhanskaya
 Dolzhansky District
 Dolzhnikovo
+Dom
 Dom Aquino
 Dom Basílio
 Dom Bosco
@@ -35399,6 +36544,7 @@ Dom Macedo Costa
 Dom Pedrito
 Dom Pedro
 Dom Pedro de Alcântara
+Dom Pradit
 Dom Silvério
 Dom Viçoso
 Dom-le-Mesnil
@@ -35599,12 +36745,103 @@ Domvast
 Domžale
 Don
 Don Álvaro
+Don Arang
 Don Benito
 Don Bosco
 Don Carlos
+Don Cha-Em
+Don Chan
+Don Chan District
+Don Chang
+Don Chedi
+Don Chedi District
+Don Chik
+Don Chimphli
+Don Chomphu
+Don Dang
+Don Du
+Don Dueng
+Don Faek
+Don Fai
+Don Hai Sok
+Don Han
+Don Hua Lo
+Don Kaeo
+Don Kai Di
+Don Kam
+Don Kamyan
+Don Kha
+Don Khamin
+Don Khlang
+Don Khoi
+Don Khun Huai
+Don Khwang
+Don Klang
+Don Kloi
+Don Ko Ka
+Don Kok
+Don Krabueang
+Don Kruai
+Don Lan
+Don Makluea
+Don Man
+Don Manao
+Don Manora
 Don Marcelino
+Don Masang
+Don Moei
+Don Mon
+Don Mot Daeng
+Don Mot Daeng District
+Don Mueang
+Don Mueang District
+Don Mun
+Don Nang Hong
+Don Ngoen
+Don Ngua
+Don Ong
+Don Pao
+Don Phai
+Don Pho
+Don Pho Thong
+Don Phut
+Don Phut District
+Don Phutsa
+Don Pradu
+Don Pru
+Don Rae
+Don Raet
+Don Rak
+Don Ruak
+Don Sai
+Don Sak
+Don Sak District
+Don Salaep
 Don Salvador Benedicto
+Don Si Chum
+Don Sila
+Don Sombun
+Don Ta Phet
+Don Taeng
+Don Tako
+Don Tan
+Don Tan District
+Don Tanin
+Don Thong
+Don Toei
+Don Tro
+Don Tum
+Don Tum District
 Don Victoriano Chiongbian
+Don Wai
+Don Wan
+Don Ya Nang
+Don Yai
+Don Yai Hom
+Don Yai Nu
+Don Yang
+Don Yao Yai
+Don Yo
 Doña Ana County
 Dona Emma
 Dona Eusébia
@@ -35651,9 +36888,70 @@ Donetsk Hromada
 Donetsk People's Republic
 Donetsk Region
 Doneztebe ̸ Santesteban
+Dong Bang
+Dong Charoen
+Dong Charoen District
+Dong Chen
+Dong Chon
+Dong Daeng
+Dong Dam
+Dong Din Daeng
 Dong District
+Dong Duan
+Dong Dueai
+Dong I Chan
+Dong Kammet
+Dong Khaen Yai
+Dong Kheng
+Dong Khi Lek
+Dong Khon
+Dong Khrang Noi
+Dong Khrang Yai
+Dong Khu
+Dong Khui
+Dong Khwang
+Dong Klang
+Dong Krathong Yam
+Dong Lakhon
+Dong Lan
+Dong Ling
+Dong Luang
+Dong Luang District
+Dong Mada
+Dong Mafai
+Dong Mahawan
+Dong Marum
+Dong Mayang
+Dong Mo Thong
+Dong Mo Thong Tai
+Dong Mon
+Dong Mu
+Dong Mueang
+Dong Mueang Am
+Dong Mun
+Dong Mun Lek
 Đồng Nai Province
+Dong Noi
+Dong Nuea
+Dong Pa Kham
+Dong Phaya
+Dong Phayung
+Dong Phlap
+Dong Phlong
+Dong Phraram
+Dong Prakham
+Dong Rak
+Dong Sawan
+Dong Sing
+Dong Sombun
+Dong Suea Lueang
+Dong Suwan
+Dong Ta-Ngao
+Dong Takhop
 Đồng Tháp Province
+Dong Yai
+Dong Yang
+Dong Yen
 Dongdaemun District
 Dongducheon
 Dongen
@@ -35928,6 +37226,7 @@ Dosso del Liro
 Dosso Region
 Doștat
 Dostlik District
+Dot
 Dota
 Döteberg
 Doteng
@@ -36481,8 +37780,16 @@ Držkovce
 Držovice
 Drzycim
 Dsegh
+Du
+Du Lat
+Du Noi
+Du Phong
 Du Pont
+Du Song Yo
+Du Tai
+Du Thung
 Dualchi
+Duan Yai
 Duane
 Duanesburg
 Duarte
@@ -36618,6 +37925,7 @@ Dudley
 Dudzele
 Due Carrare
 Due West
+Duea Si Khan Chai
 Duelem
 Dueñas
 Dueré
@@ -36655,6 +37963,7 @@ Duisburg
 Duitama
 Duiven
 Duizel
+Duk Ueng
 Duka
 Dukes County
 Dukhovnitsky District
@@ -36688,6 +37997,7 @@ Dulova Ves
 Dulovce
 Dulovo
 Duluth
+Dum Yai
 Dumaguete
 Dumai
 Dumalag
@@ -36727,6 +38037,7 @@ Dumont
 Dümpelfeld
 Dun
 Dún Laoghaire-Rathdown
+Dun Sat
 Dun-le-Palestel
 Dun-le-Poëlier
 Dun-les-Places
@@ -36961,6 +38272,8 @@ Dushk
 Dushore
 Düshorn
 Dusino San Michele
+Dusit
+Dusit District
 Dușmani
 Dušníky
 Dusnok
@@ -38090,6 +39403,7 @@ Ekhirit-Bulagatsky District
 Ekibastuz
 Ekinözü District
 Ekiti State
+Ekkarat
 Eksaarde
 Eksel
 Eksjö
@@ -39496,6 +40810,8 @@ Erath County
 Eratsun
 Éraville
 Eravur
+Erawan
+Erawan District
 Erba
 Erbaa District
 Erbach
@@ -40884,6 +42200,10 @@ Ezzouhour
 Əhmədli
 Əmircan
 Fa
+Fa Ham
+Fa Huan
+Fa Lami
+Fa Yat
 Fa'asaleleaga District
 Faaa
 Faaborg
@@ -41027,6 +42347,10 @@ Fahs-Anjra Province
 Fahy
 Fahy-lès-Autrey
 Fai della Paganella
+Fai Kaeo
+Fai Kwang
+Fai Luang
+Fai Na Saeng
 Faia
 Faial
 Faial da Terra
@@ -41109,6 +42433,9 @@ Fajozes
 Fajsławice
 Fajsz
 Fajzë
+Fak Huai
+Fak Tha
+Fak Tha District
 Fakarava
 Fakfak Regency
 Fakse
@@ -41211,6 +42538,9 @@ Fan
 Fanano
 Fanas
 Fancsal
+Fang Daeng
+Fang District
+Fang Kham
 Fangatau
 Fanhões
 Fanipal
@@ -41232,6 +42562,8 @@ Fanzara
 Fânzeres
 Fânzeres e São Pedro da Cova
 Fão
+Fao Rai
+Fao Rai District
 Faouar
 Faoug
 Faqous
@@ -45113,6 +46445,7 @@ Galveston County
 Gálvez
 Galway (town)
 Galway (village)
+Galyani Vadhana District
 Galzignano
 Gama
 Gamaches
@@ -50790,6 +52123,7 @@ Hadsund
 Hadxayfong District
 Hadzhidimovo
 Hadzynka
+Hae Tai
 Haebaru
 Hægebostad
 Haegen
@@ -50869,6 +52203,9 @@ Hahnstätten
 Hahnweiler
 Hahót
 Hai
+Hai Sok
+Hai Ya
+Hai Yong
 Hai-Ditkovetski
 Hai-Hrechynski
 Hai-Shevchenkivski
@@ -51273,8 +52610,18 @@ Hamura
 Hamwarde
 Hamweddel
 Hamyang County
+Han Chot
 Han District
+Han Huai Sai
+Han Kaeo
+Han Na Ngam
+Han Pho
 Han Pijesak
+Han Sai
+Han Sang
+Han Taphao
+Han Thao
+Han Tra
 Han-devant-Pierrepont
 Han-lès-Juvigny
 Han-sur-Lesse
@@ -51311,6 +52658,13 @@ Handschuheim
 Hanerau-Hademarschen
 Hănești
 Hanford
+Hang Chat
+Hang Chat District
+Hang Dong
+Hang Dong District
+Hang Hong
+Hang Nam Sakhon
+Hang Sung
 Hang Tuah Jaya
 Hangács
 Hangard
@@ -51333,6 +52687,8 @@ Haniska
 Hankasalmi
 Hankavan
 Hankensbüttel
+Hankha
+Hankha District
 Hankivtsi
 Hanko
 Hanková
@@ -51796,6 +53152,30 @@ Hasuda
 Hasvik
 Hat
 Hať
+Hat Asa
+Hat Chao Samran
+Hat Kham
+Hat Khamphi
+Hat Kruat
+Hat La
+Hat Lek
+Hat Nang Kaeo
+Hat Ngio
+Hat Phaeng
+Hat Phan Krai
+Hat Sai Khao
+Hat Sai Ri
+Hat Samran
+Hat Samran District
+Hat Siao
+Hat Som Paen
+Hat Song Khwae
+Hat Sung
+Hat Tha Sao
+Hat Thanong
+Hat Yai
+Hat Yai District
+Hat Yang
 Hatalov
 Hatay Province
 Hatboro
@@ -53384,6 +54764,19 @@ Himmelsthür
 Himmighausen
 Himmighofen
 Himod
+Hin Dat
+Hin Hao
+Hin Kaeo
+Hin Khon
+Hin Kong
+Hin Lat
+Hin Lek Fai
+Hin Mun
+Hin Ngom
+Hin Pak
+Hin Son
+Hin Tang
+Hin Tok
 Hinabangan
 Hinacourt
 Hinatuan
@@ -53481,6 +54874,7 @@ Hirakawa
 Hiram
 Hiran Region
 Hiranai
+Hiranruchi
 Hirao
 Hirata
 Hiratsuka
@@ -53689,6 +55083,11 @@ Hnojice
 Hnojné
 Hnojník
 Hnúšťa
+Ho Kham
+Ho Klong
+Ho Krai
+Ho Mok
+Ho Rattana Chai
 Ho-Ho-Kus
 Hòa Bình Province
 Hoadhadu
@@ -54184,6 +55583,8 @@ Holzminden District
 Holzsußra
 Holzwickede
 Hom District
+Hom Kret
+Hom Sin
 Homa Bay County
 Homai
 Hombeek
@@ -54262,6 +55663,9 @@ Honeyville
 Honezovice
 Honfleur
 Høng
+Hong Charoen
+Hong Hin
+Hong Saeng
 Hongcheon County
 Höngeda
 Höngg
@@ -54370,6 +55774,7 @@ Hoppenrade
 Hoppstädten
 Hoppstädten-Weiersbach
 Hopsten
+Hora
 Hora Hromada
 Hora Svaté Kateřiny
 Hora Svatého Šebestiána
@@ -54378,6 +55783,7 @@ Hořany
 Horasan District
 Hořátev
 Horath
+Horathep
 Horažďovice
 Horb am Neckar
 Horbach
@@ -54814,6 +56220,8 @@ Hostroluchchia
 Hostun
 Hosty
 Hosztót
+Hot
+Hot District
 Hot Spring County
 Hot Springs
 Hot Springs County
@@ -55137,6 +56545,48 @@ Hrytsiv Hromada
 Hrytskiv
 Hsinchu City
 Hsinchu County
+Hu Chang
+Hu Kwang
+Hu Long
+Hu Thamnop
+Hua Chang
+Hua Diat
+Hua Don
+Hua Dong
+Hua Fai
+Hua Hin
+Hua Hin District
+Hua Khao
+Hua Khwang
+Hua Lam
+Hua Mak
+Hua Mueang
+Hua Na
+Hua Na Kham
+Hua Ngom
+Hua Ngua
+Hua Nong
+Hua Pa
+Hua Phai
+Hua Pho
+Hua Pluak
+Hua Ro
+Hua Ruea
+Hua Sai
+Hua Sai District
+Hua Samrong
+Hua Saphan
+Hua Suea
+Hua Taphan
+Hua Taphan District
+Hua Thale
+Hua Thanon
+Hua Thon
+Hua Thung
+Hua Toei
+Hua Wa
+Hua Wai
+Hua Wiang
 Huacaraje
 Huacaya
 Huachacalla
@@ -55144,6 +56594,118 @@ Huachinera
 Huacho
 Huachuca City
 Huahine
+Huai
+Huai Aeng
+Huai Bo Suen
+Huai Bong
+Huai Chan
+Huai Chomphu
+Huai Chorakhe
+Huai Chot
+Huai Duan
+Huai Fai Phatthana
+Huai Haeng
+Huai Hia
+Huai Hin
+Huai Hin Lat
+Huai Hom
+Huai Kae
+Huai Kaeng
+Huai Kaeo
+Huai Kapi
+Huai Ket
+Huai Kha
+Huai Khaen
+Huai Khamin
+Huai Khan Laen
+Huai Khao Kam
+Huai Khayeng
+Huai Khayung
+Huai Khen
+Huai Khong
+Huai Khot
+Huai Khot District
+Huai Khrai
+Huai Khun Ram
+Huai Khwang
+Huai Khwang District
+Huai Koeng
+Huai Kon
+Huai Krachao
+Huai Krachao District
+Huai Krathing
+Huai Krot
+Huai Krot Phatthana
+Huai Lan
+Huai Lua
+Huai Luek
+Huai Ma
+Huai Mae Phriang
+Huai Mai
+Huai Mek
+Huai Mek District
+Huai Mon Thong
+Huai Muang
+Huai Mun
+Huai Nam Hom
+Huai Nam Khao
+Huai Nang
+Huai Ngu
+Huai Nuea
+Huai O
+Huai Pa Wai
+Huai Pha
+Huai Phai
+Huai Phichai
+Huai Phlu
+Huai Pho
+Huai Phra
+Huai Phueng District
+Huai Phuk
+Huai Pong
+Huai Prik
+Huai Pu Ling
+Huai Racha
+Huai Raeng
+Huai Rai
+Huai Rat
+Huai Rat District
+Huai Rong
+Huai Rop
+Huai Ruam
+Huai Sai
+Huai Sai Nuea
+Huai Sak
+Huai Sakae
+Huai Sam Phat
+Huai Samran
+Huai Sat Yai
+Huai Si Siat
+Huai So
+Huai Som
+Huai Ta Mon
+Huai Tai
+Huai Tha Chang
+Huai Thalaeng
+Huai Thalaeng District
+Huai Thap Mon
+Huai Thap Than
+Huai Thap Than District
+Huai Thua Nuea
+Huai Thua Tai
+Huai Toei
+Huai Ton
+Huai Tuek Chu
+Huai Yae
+Huai Yai
+Huai Yai Chio
+Huai Yang
+Huai Yang Kham
+Huai Yang Thon
+Huai Yap
+Huai Yot
+Huai Yot District
+Huai Yung
 Huajicori
 Hualahuises
 Hualaihué
@@ -55160,6 +56722,7 @@ Huancayo
 Huancayo Province
 Huanchilla
 Huandacareo
+Huang Nam Khao
 Huanímaro
 Huaniqueo
 Huanne-Montmartin
@@ -55682,6 +57245,14 @@ Hyuga
 Hyvinkää
 Hyżne
 I Circoscrizione
+I Lam
+I Ngong
+I Pan
+I Pat
+I Pum
+I San
+I Se
+I Tue
 I.C. Brătianu
 I.L. Caragiale
 I'billin
@@ -56427,7 +57998,11 @@ Imués
 Ímuris
 Imus
 Imzouren
+In Buri
+In Buri District
 In Guezzam Province
+In Khiri
+In Plaeng
 In Salah Province
 Ina
 Iňa
@@ -56701,6 +58276,8 @@ International Seabed Surface
 International Seabed Underground
 International Waters
 International Waters Surface
+Inthakhin
+Inthapramun
 Intibucá
 Intibucá Department
 Intipucá
@@ -57001,6 +58578,7 @@ Isaías Coelho
 Isaklinsky District
 Isakovo
 Ișalnița
+Isan Khet
 Isanti County
 Isar
 Isasca
@@ -59542,6 +61120,7 @@ Južnobanatski District
 Jwaneng
 Jyllinge-Gundsømagle
 Jyväskylä
+Ka Ko
 Kaa-Khemsky District
 Kaag
 Kaag en Braassem
@@ -59560,6 +61139,8 @@ Kabadüz District
 Kabaklı Köyü
 Kabale District
 Kabanbay
+Kabang
+Kabang District
 Kabankalan
 Kabansky District
 Kabardinka
@@ -59574,8 +61155,11 @@ Kabd-Shiqq-Dabah
 Kabelhorst
 Kabelsketal
 Kaberamaido District
+Kabin
+Kabin Buri District
 Kabjisa
 Kablukovo
+Kabok Tia
 Kabong District
 Käbschütztal
 Kabugao
@@ -59592,6 +61176,7 @@ Kacha
 Kachalin
 Kachalino
 Kachanove
+Kachet
 Kachikatsy
 Kachin State
 Kachiry
@@ -59608,6 +61193,7 @@ Kácov
 Kács
 Kacsóta
 Kaczory
+Kadae
 Kadamjay District
 Kadaň
 Kadapa
@@ -59640,11 +61226,42 @@ Kadriye
 Kadubivtsi Hromada
 Kaduna
 Kaduna State
+Kadunong
 Kaduysky District
 Kadyivka
 Kadyy
 Kadyysky District
 Kadzidło
+Kae
+Kae Dam
+Kae Dam District
+Kae Yai
+Kaem On
+Kaen Makrut
+Kaeng
+Kaeng Dinso
+Kaeng Dom
+Kaeng Hang Maeo
+Kaeng Hang Maeo District
+Kaeng Kae
+Kaeng Kai
+Kaeng Kheng
+Kaeng Khoi
+Kaeng Khoi District
+Kaeng Khro District
+Kaeng Kok
+Kaeng Krachan
+Kaeng Krachan District
+Kaeng Loeng Chan
+Kaeng Nuea
+Kaeng Phak Kut
+Kaeng Sanam Nang
+Kaeng Sanam Nang District
+Kaeng Si Phum
+Kaeng Sian
+Kaeng Sopha
+Kaeo Fa
+Kaeo Saen
 Käerch
 Käerjeng
 Kaesong Industrial Region
@@ -59689,6 +61306,7 @@ Kagoshima Prefecture
 Kagran
 Kahale
 Kaharlyk Hromada
+Kahat
 Kahda District
 Kahl am Main
 Kahla
@@ -59701,6 +61319,8 @@ Kahramanmaraş Province
 Kahta District
 Kai
 Kai Gharib
+Kai Kham
+Kai Sao
 Kaiapoi
 Kaibing
 Kaidanovo
@@ -59807,6 +61427,7 @@ Kalachinsky District
 Kalachyovsky District
 Kaladzhinskaya
 Kalaharivka
+Kalai
 Kalaidhoo
 Kalajoki
 Kalama
@@ -59820,8 +61441,11 @@ Kalamoun
 Kalamunda
 Kalanchak Hromada
 Kalanchaksky District
+Kalantha
 Kälarne
 Kalarsky District
+Kalase
+Kalasin
 Kalasin Province
 Kaľava
 Kalavryta
@@ -59893,6 +61517,7 @@ Kalinovo
 Kalinovskoye
 Kalinowo
 Kalis
+Kalisa
 Kaliska
 Kalispel Reservation
 Kaliště
@@ -59952,10 +61577,12 @@ Kálnica
 Kalnik
 Kalnište
 Kalnyk
+Kalo
 Kálócfa
 Kalocsa
 Kalocsa District
 Kalonda
+Kalong
 Kaloré
 Kaloša
 Kaloyanovo
@@ -59987,9 +61614,12 @@ Kaluga
 Kaluga Region
 Kalundborg
 Kalundborg Municipality
+Kalupang
 Kalush District
 Kalush Hromada
 Kałuszyn
+Kaluwo
+Kaluwo Nuea
 Kaluža
 Kaluzhskaya
 Kalvarija Municipality
@@ -60005,13 +61635,18 @@ Kalynivka Hromada
 Kalynivske Hromada
 Kalyta Hromada
 Kám
+Kam Pu
 Kama
 Kamadhoo
 Kamagaya
 Kamaishi
 Kamajai
 Kamakura
+Kamala
+Kamalasai
+Kamalasai District
 Kaman District
+Kamang
 Kamanjab
 Kamanje
 Kamanová
@@ -60078,6 +61713,7 @@ Kameyama
 Kamëz
 Kamëz Municipality
 Kami
+Kami Yo
 Kamiamakusa
 Kamiana Hromada
 Kamiane-Sluchanske
@@ -60140,7 +61776,9 @@ Kamisu
 Kamisunagawa
 Kamitonda
 Kamiyama
+Kamlon
 Kamloops
+Kammaet
 Kammeltal
 Kammerforst
 Kammern im Liesingtal
@@ -60149,6 +61787,7 @@ Kammerstein
 Kamminke
 Kammlach
 Kamnik
+Kamnoet Nopphakhun
 Kamo
 Kamoenai
 Kamogawa
@@ -60157,6 +61796,7 @@ Kamorino
 Kamp-Bornhofen
 Kamp-Lintfort
 Kampala
+Kampang
 Kampar District
 Kampar Regency
 Kampen
@@ -60165,7 +61805,15 @@ Kampenhout
 Kamperland
 Kamperveen
 Kämpfelbach
+Kamphaeng
+Kamphaeng Din
+Kamphaeng Phet
 Kamphaeng Phet Province
+Kamphaeng Saen
+Kamphaeng Saen District
+Kamphaeng Sao
+Kamphi
+Kamphuan
 Kampinos
 Kampong Cham Province
 Kampong Chhnang Province
@@ -60192,6 +61840,9 @@ Kamyshlovsky District
 Kamysty District
 Kamyzyak
 Kamyzyaksky District
+Kan Chu
+Kan Lueang
+Kan Throm
 Kanabec County
 Kanadey
 Kanagawa Prefecture
@@ -60205,7 +61856,9 @@ Kanasín
 Kanavinsky District
 Kanawha County
 Kanazawa
+Kanchana
 Kanchanaburi Province
+Kanchanadit District
 Kańczuga
 Kanda
 Kandal Province
@@ -60237,6 +61890,7 @@ Kanevskoy District
 Kaneyama
 Kanfanar
 Kanfen
+Kang Aen
 Kangaatsiaq
 Kangal District
 Kangalassky
@@ -60295,12 +61949,20 @@ Kansk
 Kansky District
 Kant
 Kanta-Häme
+Kantang
+Kantang District
+Kantang Tai
 Kantano-Selino
 Kantemirovka
 Kantemirovsky District
 Kantens
+Kantharalak District
+Kanthararom
+Kanthararom District
+Kantharawichai District
 Kanton
 Kántorjánosi
+Kantuat Ramuan
 Kantunil
 Kanuma
 Kány
@@ -60309,8 +61971,16 @@ Kányavár
 Kanzach
 Kanzaki
 Kanzem
+Kao Kham
+Kao Kloi
+Kao Liao
+Kao Liao District
+Kao Ngio
+Kao Ya Di
 Kaohsiung City
 Kaolinovo
+Kap Choeng
+Kap Choeng District
 Kapai
 Kapaklı
 Kapaklı District
@@ -60318,7 +61988,9 @@ Kapal
 Kapalawan
 Kapalong
 Kapan Municipality
+Kapang
 Kapangan
+Kapao
 Kapatagan
 Kapatkyevichy
 Kapčiamiestis
@@ -60332,6 +62004,8 @@ Kapelln
 Kaperich
 Kapfenberg
 Kapfenstein
+Kapho District
+Kapiat
 Kapince
 Kapingamarangi
 Kapišová
@@ -60339,10 +62013,14 @@ Kapit District
 Kapiti Coast District
 Kaplice
 Kaplna
+Kapoe
+Kapoe District
 Kapolcs
 Kápolna
 Kápolnásnyék
 Kapoly
+Kapong
+Kapong District
 Kaposfő
 Kaposgyarmat
 Kaposhomok
@@ -60442,6 +62120,7 @@ Karakalpakstan
 Karakapı
 Karakaya
 Karakeçili District
+Karaket
 Karakiya District
 Karakly
 Karakó
@@ -60651,6 +62330,7 @@ Karnin
 Karnobat
 Karns City
 Kärnten
+Karo
 Karo Regency
 Karojba
 Karolín
@@ -60658,6 +62338,7 @@ Karolinenkoog
 Karolinka
 Karolino-Buhaz Hromada
 Károlyháza
+Karon
 Karoo Hoogland
 Karoonda East Murray
 Karori
@@ -60703,6 +62384,7 @@ Kartitsch
 Kartushyne
 Kartuzy
 Kartuzy County
+Karubi
 Karuizawa
 Karumai
 Karup
@@ -60735,9 +62417,16 @@ Kasdorf
 Kasejovice
 Kasel
 Kasel-Golzig
+Kasem
+Kasem Sap
 Kasendorf
 Kaser
 Kasese District
+Kaset Phatthana
+Kaset Sombun District
+Kaset Suwan
+Kaset Wisai
+Kaset Wisai District
 Kashar
 Kasharsky District
 Kashiba
@@ -60836,6 +62525,10 @@ Katharinenberg
 Katharinenheerd
 Katherine
 Kathmandu
+Kathu
+Kathu District
+Kathum
+Kathun
 Katikati
 Katima Mulilo
 Katingan Regency
@@ -60845,6 +62538,7 @@ Katlenburg-Lindau
 Kátlovce
 Kato
 Kátoly
+Katong
 Katonkaragay District
 Katori
 Katov
@@ -60941,6 +62635,7 @@ Kaverino
 Kavkazskaya
 Kavkazsky District
 Kävlinge Municipality
+Kawa
 Kawaba
 Kawabe
 Kawachi
@@ -60993,11 +62688,14 @@ Kaynarca District
 Kaynardzha
 Kaynaşlı District
 Kaynlykskoye
+Kayo Mati
 Kayseri Province
 Kaysersberg
 Kaysersberg Vignoble
 Kaytagsky District
 Kaytazdere
+Kayu Boko
+Kayu Khla
 Kazachinsko-Lensky District
 Kazachinskoye
 Kazachinsky District
@@ -61046,6 +62744,7 @@ Kceibya
 Kcynia
 Kdousov
 Kdyně
+Ke Ro
 Kea
 Keansburg
 Kearney
@@ -61480,6 +63179,7 @@ Ketildalahreppur
 Ketkovice
 Ketovsky District
 Kétpó
+Ketri
 Ketrysanivka Hromada
 Kętrzyn
 Kętrzyn (rural gmina)
@@ -61535,6 +63235,7 @@ Kgatelopele
 Kgatleng District
 Kgetlengrivier
 Kgs. Enghave
+Kha Mang
 Khabarovsk
 Khabarovsk Territory
 Khabarovsky District
@@ -61546,12 +63247,29 @@ Khadakta
 Khadansky
 Khadarsky
 Khadyzhensk
+Khae
+Khae Ok
+Khae Rai
+Khae Tok
+Khaem
+Khaem Son
+Khaen
+Khaen Dong
+Khaen Dong District
+Khaen Noi
+Khaen Nuea
+Khaen Yai
 Khagynsky
+Khai Bang Rachan District
+Khai Bok Wan
+Khai Nun
+Khai Si
 Khâi-Ma
 Khairyuzovka
 Khaitan
 Khakassia
 Khakurinokhabl
+Khalamae
 Khalarchinsky
 Khalbakinsky
 Khalcha
@@ -61560,31 +63278,199 @@ Khalepia
 Khalidia
 Khaling
 Khalyasavey
+Kham A Huan
+Kham Bo
+Kham Bok
+Kham Bong
+Kham Charoen
 Kham District
+Kham Duang
+Kham Hai
+Kham Hai Yai
+Kham Kaeo
+Kham Khaen
+Kham Khok Sung
+Kham Khrang
+Kham Khuean Kaeo
+Kham Khuean Kaeo District
+Kham Khwang
+Kham Lai
+Kham Lo
+Kham Maet
+Kham Muang
+Kham Muang District
+Kham Mueat Kaeo
+Kham Na Di
+Kham Nam Saep
+Kham Nam Sang
+Kham Niam
+Kham Pa Lai
+Kham Pha-Ung
+Kham Phai
+Kham Phi
+Kham Phon
+Kham Phong
+Kham Phra
+Kham Phran
+Kham Pia
+Kham Pom
+Kham Riang
+Kham Sa-At
+Kham Sakaesaeng
+Kham Sakaesaeng District
+Kham Sang Thiang
+Kham Sombun
+Kham Ta Kla
+Kham Ta Kla District
+Kham Tanot
+Kham Thale So
+Kham Thale So District
+Kham Thao
+Kham Thao Phatthana
+Kham Toei
+Kham Wa
+Kham Yai
+Kham Yat
 Khamagattinsky
+Khamcha-I
+Khamcha-i District
 Khamdang
+Khamin
 Khamkeut District
 Khammouane Province
 Khamney
+Khamong
 Khamovniki District
 Khan Arnabah Subdistrict
+Khan Chong
+Khan Dai Yai
+Khan Ham
+Khan Na Yao
+Khan Na Yao District
+Khan Ngoen
+Khan Rai
 Khan Shaykhun Subdistrict
+Khan Thuli
 Khan Yunis
+Khanap Nak
 Khanasir Subdistrict
 Khandallah
 Khandyga
+Khane Chue
+Khang Phlu
 Khangalassky District
 Khánh Hòa Province
 Khanka
 Khanka (rural)
 Khankaysky District
 Khankendi
+Khanom
+Khanom District
+Khanon Luang
+Khanong Phra
 Khanthaboury District
+Khanthararat
 Khanty-Mansi Autonomous District
 Khanty-Mansiysk
 Khanty-Mansiysky District
+Khanu Woralaksaburi District
+Khanuan
+Khanun
 Khanymey
 Khanzhinovo
+Khao Baisi
+Khao Bang Kraek
+Khao Cha-Ngum
+Khao Chai Rat
+Khao Chai Thong
+Khao Chaison
+Khao Chaison District
+Khao Chakan
+Khao Chakan District
+Khao Chamao District
+Khao Chao
+Khao Chet Luk
+Khao Chiak
+Khao Chon Kan
+Khao Chot
+Khao Daeng
+Khao Din
+Khao Din Nuea
+Khao Din Phatthana
+Khao Hin Son
+Khao Hua Khwai
+Khao Kaeo
+Khao Kaeo Si Sombun
+Khao Kala
+Khao Khai
+Khao Khan Song
+Khao Khao
+Khao Khen
+Khao Khi Foi
+Khao Khirit
+Khao Khitchakut District
+Khao Khlung
+Khao Kho
+Khao Kho District
+Khao Khok
+Khao Khram
+Khao Kop
+Khao Krapuk
+Khao Kwang Thong
+Khao Laem
+Khao Lan
+Khao Luang
+Khao Mai Kaeo
+Khao Mao
+Khao Mi Kiat
+Khao Ngam
+Khao Niphan
+Khao Niwet
+Khao Noi
+Khao Phang
+Khao Phang Krai
+Khao Phanom
+Khao Phanom District
+Khao Phoem
+Khao Phra
+Khao Phra Ngam
+Khao Phra Non
+Khao Phra Thong
+Khao Phrabat
+Khao Phrai
+Khao Pu
+Khao Pun
+Khao Raeng
+Khao Ro
+Khao Ruak
+Khao Rup Chang
+Khao Sai
+Khao Sam Sip
+Khao Sam Sip Hap
+Khao Sam Yot
+Khao Saming
+Khao Saming District
+Khao Samo Khon
+Khao San
+Khao Sok
+Khao Suan Kwang
+Khao Suan Kwang District
+Khao Tha Phra
+Khao Thalu
+Khao Than
+Khao Thong
+Khao To
+Khao Tok
+Khao Tum
+Khao Wiset
+Khao Wong
+Khao Wong District
+Khao Wongkot
+Khao Wua
+Khao Ya
+Khao Yai
+Khao Yoi
+Khao Yoi District
 Khar
 Khara Hais
 Khara-Aldan
@@ -61627,18 +63513,24 @@ Khatylynsky
 Khatyn-Arynsky
 Khatyngnakh
 Khatyryksky
+Khayai
 Khayakhsytsky
 Khaybullinsky District
+Khayung
 Khazar Raion
 Khazhyn
 Kheis
+Khek Noi
 Khelvachauri Municipality
+Khemarat
+Khemarat District
 Khemis Sahel
 Khemis Sidi Yahya
 Khemisset
 Khemisset Chaouia
 Khemisset Province
 Khenchela Province
+Kheng Yai
 Khenifra
 Khenifra Province
 Khentii Province
@@ -61646,6 +63538,9 @@ Kherson
 Kherson District
 Kherson Hromada
 Kherson Region
+Khi Lek
+Khian Sa
+Khian Sa District
 Khilok
 Khiloksky District
 Khimki
@@ -61656,6 +63551,11 @@ Khirbet al-Maazah Subdistrict
 Khirbet Ghazaleh Subdistrict
 Khirbet Tin Nur Subdistrict
 Khirdalan
+Khiri Khet
+Khiri Mat District
+Khiri Rat
+Khiri Rat Nikhom District
+Khiri Wong
 Khirposi
 Khishniyah Subdistrict
 Khislavichsky District
@@ -61665,11 +63565,151 @@ Khivsky District
 Khiytola
 Khizi District
 Khlalfa
+Khlang
 Khlebnoye
 Khlevensky District
+Khli Kling
 Khlibodarivka
 Khlibodarivka Hromada
 Khlibychyn
+Khlong Ban Pho
+Khlong Cha-Un
+Khlong Chak Phra
+Khlong Chaloem
+Khlong Chan
+Khlong Chanak
+Khlong Chanuan
+Khlong Chaokhun Sing
+Khlong Chet
+Khlong Chi Lom
+Khlong Chik
+Khlong Chinda
+Khlong Chuk Krachoe
+Khlong Daen
+Khlong Dan
+Khlong Ha
+Khlong Hae
+Khlong Hat
+Khlong Hat District
+Khlong Hin
+Khlong Hin Pun
+Khlong Hoi Khong
+Khlong Hoi Khong District
+Khlong Hok
+Khlong Kai Thuean
+Khlong Ket
+Khlong Khachen
+Khlong Kham
+Khlong Khamao
+Khlong Khanak
+Khlong Khanan
+Khlong Khian
+Khlong Khlung
+Khlong Khlung District
+Khlong Khoen
+Khlong Khoi
+Khlong Khon
+Khlong Khuean
+Khlong Khuean District
+Khlong Khun
+Khlong Khut
+Khlong Khwai
+Khlong Khwang
+Khlong Kio
+Khlong Kluea
+Khlong Krabue
+Khlong Krachaeng
+Khlong Krachang
+Khlong Krachong
+Khlong Kum
+Khlong Kwang
+Khlong La
+Khlong Lan District
+Khlong Lan Phatthana
+Khlong Lu
+Khlong Luang District
+Khlong Luang Phaeng
+Khlong Maduea
+Khlong Mae Lai
+Khlong Mahanak
+Khlong Mai
+Khlong Maning
+Khlong Maphlap
+Khlong Muang
+Khlong Mueang
+Khlong Na
+Khlong Nakhon Nueang Khet
+Khlong Nam Khem
+Khlong Nam Lai
+Khlong Nam Sai
+Khlong Narai
+Khlong Niyom Yattra
+Khlong Noi
+Khlong Nok Krathung
+Khlong Nueng
+Khlong Pang
+Khlong Pha
+Khlong Phai
+Khlong Phikrai
+Khlong Phlu
+Khlong Phon
+Khlong Phra Udom
+Khlong Phraya Banlue
+Khlong Pia
+Khlong Prap
+Khlong Prasong
+Khlong Prawet
+Khlong Preng
+Khlong Pun
+Khlong Rang
+Khlong Ri
+Khlong Ruea
+Khlong Sa
+Khlong Sa Bua
+Khlong Sai
+Khlong Sai Khao
+Khlong Sakae
+Khlong Sam
+Khlong Sam Prawet
+Khlong Sam Wa District
+Khlong San
+Khlong San District
+Khlong Se
+Khlong Si
+Khlong Sip
+Khlong Sip Song
+Khlong Sok
+Khlong Sombun
+Khlong Song
+Khlong Song Ton Nun
+Khlong Suan
+Khlong Suan Phlu
+Khlong Ta Kot
+Khlong Takhian
+Khlong Takrao
+Khlong Tamru
+Khlong Tan
+Khlong Tan Nuea
+Khlong Thanon
+Khlong Thap Chan
+Khlong Thom District
+Khlong Thom Nuea
+Khlong Thom Tai
+Khlong Toei
+Khlong Toei District
+Khlong Toei Nuea
+Khlong Ton Sai
+Khlong U Taphao
+Khlong Udom Chonlachon
+Khlong Wan
+Khlong Wua
+Khlong Ya
+Khlong Yai
+Khlong Yai District
+Khlong Yang
+Khlong Yong
+Khlung
+Khlung District
 Khmairia
 Khmeleva
 Khmeliove
@@ -61687,6 +63727,21 @@ Khmouda
 Khnichet
 Khniss
 Khnov
+Kho Hong
+Kho Khiao
+Kho Khlan
+Kho Kho
+Kho Laen
+Kho Lo
+Kho Noi
+Kho Nuea
+Kho Rum
+Kho Sai
+Kho Tai
+Kho Thong
+Kho Wang
+Kho Wang District
+Kho Yai
 Khobi Municipality
 Khodary
 Khodoriv Hromada
@@ -61694,10 +63749,102 @@ Khodorivtsi
 Khodosivka Hromada
 Khodynino
 Khodz
+Khoen
+Khoi Sung
 Khoiniki
 Khoiniki District
 Khojaly District
 Khojavend District
+Khok Cha-Ngai
+Khok Chamrae
+Khok Chan
+Khok Chang
+Khok Charoen
+Khok Charoen District
+Khok Duea
+Khok Faet
+Khok Han
+Khok Hin Hae
+Khok Kathiam
+Khok Kham
+Khok Khamin
+Khok Khi Non
+Khok Khian
+Khok Kho Thao
+Khok Khon
+Khok Khram
+Khok Khruea
+Khok Khwai
+Khok Klang
+Khok Kloi
+Khok Ko
+Khok Kok Muang
+Khok Kong
+Khok Krabue
+Khok Krabueang
+Khok Krachai
+Khok Kruat
+Khok Kung
+Khok Kwang
+Khok Lam
+Khok Lamphan
+Khok Lek
+Khok Lo
+Khok Ma
+Khok Mai Lai
+Khok Makham
+Khok Mamuang
+Khok Mang Ngoi
+Khok Mo
+Khok Mon
+Khok Muang
+Khok Na Ko
+Khok Ngam
+Khok Phet
+Khok Phet Phatthana
+Khok Phlo
+Khok Pho
+Khok Pho Chai District
+Khok Pho District
+Khok Phra
+Khok Phra Chedi
+Khok Phu
+Khok Phutsa
+Khok Pi Khong
+Khok Pip
+Khok Prong
+Khok Roeng Rom
+Khok Sa-At
+Khok Sa-Nga
+Khok Saba
+Khok Sai
+Khok Sak
+Khok Salung
+Khok Salut
+Khok Samae San
+Khok Samran
+Khok Samrong
+Khok Samrong District
+Khok San
+Khok Sanuan
+Khok Sato
+Khok Sawang
+Khok Si
+Khok Si Suphan District
+Khok Si Thong Lang
+Khok Sila
+Khok Sombun
+Khok Sung
+Khok Sung District
+Khok Tabong
+Khok Takhian
+Khok Tan
+Khok Thai
+Khok Tum
+Khok Wan
+Khok Yae
+Khok Yai
+Khok Yang
 Khokhlovo
 Khokholsky District
 Khokhryaki
@@ -61715,6 +63862,7 @@ Kholmskaya
 Kholmske
 Kholmsky District
 Kholmy Hromada
+Kholo Tanyong
 Kholodets
 Kholodivka
 Kholodna Balka
@@ -61730,17 +63878,40 @@ Khomutets
 Khomutove
 Khomutovo
 Khomutovsky District
+Khon Buri
+Khon Buri District
+Khon Buri Tai
+Khon Chim
+Khon Hat
+Khon Kaen
 Khon Kaen Province
+Khon Kam
+Khon Khlan
+Khon Sai
+Khon San
+Khon San District
+Khon Sawan
+Khon Sawan District
+Khon Taek
+Khon Yung
+Khong Chai District
+Khong Chai Phatthana
+Khong Chiam
+Khong Chiam District
 Khong District
+Khong Phai
+Khong Yang
 Khongsedone District
 Khoni Municipality
 Khoniakiv
+Khonthi
 Khonuu
 Khop District
 Khoptyntsi
 Khopyorskaya
 Khor Fakkan
 Khor-Tagna
+Khorat
 Khorazm Region
 Khorey-Ver
 Khorinsky
@@ -61771,8 +63942,10 @@ Khorovytsia
 Khorramabad
 Khorulinsky
 Khoseda-Khardsky
+Khosit
 Khost Province
 Khostinsky District
+Khotchasit
 Khotin Hromada
 Khotisino
 Khotiv
@@ -61799,21 +63972,129 @@ Khozankino
 Khrapachi
 Khrebtiiv
 Khrebtovaya
+Khreng
 Khrenovoye
 Khrestivka Hromada
 Khrestyshche
 Khrolyn
 Khromtau District
+Khron
+Khrueng
 Khrustalnyi Hromada
 Khrustovaya ̸ Hristovaia
 Khryplyn
 Khrystoforivka
 Khrystynivka Hromada
+Khu
+Khu Bang Luang
+Khu Bua
+Khu Fung Nuea
+Khu Kham
+Khu Khat
+Khu Khot
+Khu Khut
+Khu Khwang
+Khu Lamphan
+Khu Mueang
+Khu Mueang District
+Khu Ring
+Khu Sakham
+Khu Salot
+Khu Sot
+Khu Tan
+Khu Tao
+Khu Yai Mi
+Khua Kai
+Khua Mung
+Khua Riang
+Khuan
+Khuan Chalik
+Khuan Chum
+Khuan Don
+Khuan Don District
+Khuan Kalong
+Khuan Kalong District
+Khuan Khan
+Khuan Khanun
+Khuan Khanun District
+Khuan Klang
+Khuan Koei
+Khuan Krot
+Khuan Lang
+Khuan Mao
+Khuan Maphrao
+Khuan Niang District
+Khuan Nong Hong
+Khuan Nong Kwa
+Khuan Nori
+Khuan Phang
+Khuan Pho
+Khuan Pring
+Khuan Ru
+Khuan Sato
+Khuan Si
+Khuan So
+Khuan Suban
+Khuan Thani
+Khuan Thong
+Khuang Pao
 Khuchel
+Khue Wiang
+Khuea Nam
+Khuean
+Khuean Bang Lang
+Khuean Phak
+Khuean Ubolratana
+Khueang Kham
+Khueang Nai
+Khueang Nai District
+Khuek Khak
+Khuem Chat
+Khuem Yai
+Khueng
+Khuha
+Khuha Sawan
+Khuha Tai
+Khui
+Khui Ban Ong
+Khui Muang
 Khujand
+Khukhan District
 Khulna
 Khulo Municipality
+Khulu
+Khum Kao
+Khum Ngoen
+Khum Thong
+Khun Fang
+Khun Han
+Khun Han District
+Khun Kaeo
+Khun Khlon
+Khun Khong
+Khun Khuan
+Khun Krathing
+Khun Mae La Noi
+Khun Nan
+Khun Phithak
+Khun Si
+Khun Song
+Khun Tan District
+Khun Tat Wai
+Khun Thale
+Khun Thong
+Khun Yuam
+Khun Yuam District
+Khung Krathin
+Khung Lan
+Khung Nam Won
+Khung Phayom
+Khung Samphao
+Khung Taphao
 Khunzakhsky District
+Khup
+Khura
+Khura Buri District
 Khuroson District
 Khust District
 Khust Hromada
@@ -61829,10 +64110,20 @@ Khvorostyansky District
 Khvoshchivka
 Khvoynaya
 Khvoyninsky District
+Khwae Om
+Khwae Yai
+Khwan Mueang
+Khwao
+Khwao Rai
+Khwao Sin Rin
+Khwao Sinarin District
+Khwao Thung
+Khwao Yai
 Khyber Pakhtunkhwa
 Khylin
 Khyriv Hromada
 Khyzha
+Kia
 Kialegee Tribal Town
 Kiama
 Kiamba
@@ -62521,9 +64812,12 @@ Kladruby
 Kladruby nad Labem
 Kladzany
 Klæbu
+Klaeng
+Klaeng District
 Klaffer am Hochficht
 Klagenfurt am Wörthersee
 Klagenfurt-Land District
+Klai
 Klaipeda
 Klaipeda County
 Klaipeda District Municipality
@@ -62538,7 +64832,12 @@ Klamoš
 Klamp
 Klana
 Klang
+Klang Daet
 Klang District
+Klang Dong
+Klang Muen
+Klang Wiang
+Klang Yai
 Klanjec
 Klanxbüll
 Klappholz
@@ -62553,6 +64852,7 @@ Klášterec nad Orlicí
 Klášterní Skalice
 Klášterská Lhota
 Kláštor pod Znievom
+Klat Luang
 Klaten Regency
 Klátova Nová Ves
 Klatovec
@@ -62783,6 +65083,7 @@ Klokočná
 Klokočov
 Klokot
 Kłomnice
+Klon Do
 Klonowa
 Kloosterburen
 Klopina
@@ -62808,6 +65109,8 @@ Klosters-Serneus
 Kloten
 Klotten
 Klötze
+Kluai Kwang
+Kluai Phae
 Kluang
 Kluang District
 Klubina
@@ -62914,7 +65217,71 @@ Knyk
 Knyshivka
 Knysna
 Knyszyn
-Ko Samui
+Ko
+Ko Chan
+Ko Chan District
+Ko Chang
+Ko Chang District
+Ko Chang Tai
+Ko Kaeo
+Ko Kha
+Ko Kha District
+Ko Khan
+Ko Khanun
+Ko Kho Khao
+Ko Khwang
+Ko Klang
+Ko Koet
+Ko Kret
+Ko Kut
+Ko Kut District
+Ko Lak
+Ko Lam
+Ko Lanta District
+Ko Lanta Noi
+Ko Lanta Yai
+Ko Libong
+Ko Loi
+Ko Mak
+Ko Manao
+Ko Nang Kham
+Ko Panyi
+Ko Pha-Ngan
+Ko Pha-ngan District
+Ko Phayam
+Ko Phet
+Ko Phlapphla
+Ko Pho
+Ko Phra Thong
+Ko Pia
+Ko Po
+Ko Proet
+Ko Rai
+Ko Rang
+Ko Rian
+Ko Saba
+Ko Samrong
+Ko Samui District
+Ko San Phra
+Ko Sarai
+Ko Sathon
+Ko Si Boya
+Ko Sichang District
+Ko Sukon
+Ko Ta Liang
+Ko Taeo
+Ko Tan
+Ko Tao
+Ko Taphao
+Ko Thepho
+Ko Thuat
+Ko Wai
+Ko Yai
+Ko Yao District
+Ko Yao Noi
+Ko Yao Yai
+Ko Yo
+Ko-E
 Koarnwert
 Koarnwertersân
 Koartehimmen
@@ -63042,9 +65409,11 @@ Kodra
 Kodrąb
 Kodyma Hromada
 Koedijk
+Koei Chai
 Koekelare
 Koekelberg
 Kœking
+Koeng
 Kœnigsmacker
 Koersel
 Koes
@@ -63098,6 +65467,17 @@ Kojetín
 Kojice
 Kojonup
 Kojšov
+Kok Daeng
+Kok Du
+Kok Kaeo Burapha
+Kok Ko
+Kok Kung
+Kok Pho
+Kok Pla Sio
+Kok Raet
+Kok Sathon
+Kok Thong
+Kok Tum
 Kok-Jangak City
 Koka
 Kóka
@@ -63292,6 +65672,7 @@ Kolyshleysky District
 Kolyubakino
 Kolyvan
 Kolyvansky District
+Kom Bang
 Kom Hamada
 Kom Ombo
 Komádi
@@ -63379,6 +65760,7 @@ Komyshnia Hromada
 Komyshuvakha
 Komyshuvakha Hromada
 Komyshuvate
+Kon Kaeo
 Kon Tum Province
 Konacık
 Konaev
@@ -63416,6 +65798,19 @@ Koneck
 Koněprusy
 Koněšín
 Konětopy
+Kong
+Kong Din
+Kong Khaek
+Kong Khwai
+Kong Koi
+Kong Krailat District
+Kong Nang
+Kong Phon
+Kong Ra
+Kong Ra District
+Kong Rot
+Kong Thanu
+Kong Thun
 Köngen
 Köngernheim
 Kongsberg
@@ -63537,6 +65932,7 @@ Koorda
 Kootenai County
 Kootenay Boundary Regional District
 Kootwijkerbroek
+Kop Chao
 Kopachiv
 Kopachivka
 Kopachivka Hromada
@@ -63769,6 +66165,8 @@ Kosa
 Kosai
 Kosaka
 Kosakowo
+Kosamphi
+Kosamphi Nakhon District
 Košariská
 Košařiska
 Košarovce
@@ -63932,6 +66330,7 @@ Kostrzyn
 Kostrzyn nad Odrą
 Kostyonki
 Kosuge
+Kosum Phisai District
 Košúty
 Kosykivtsi
 Kosyno
@@ -63947,6 +66346,7 @@ Kőszegpaty
 Kőszegszerdahely
 Koszyce
 Kota
+Kota Baru
 Kota Batu
 Kota Belud District
 Kota Bharu
@@ -63996,6 +66396,7 @@ Kotlovyna
 Kotluban
 Kotmanová
 Koto
+Koto Tuera
 Kotohira
 Kotoor
 Kotopeky
@@ -64198,16 +66599,32 @@ Kozyn Hromada
 Kozyna
 Kozyörük
 Kozyrevsk
+Kra Buri District
+Kra-Om
 Kraainem
 Kraam
 Krabbendijke
 Krabčice
+Krabi Noi
 Krabi Province
+Krabi Yai
 Kraborovice
+Krabueang
+Krabueang Nok
+Krabueang Yai
+Krachae
+Krachaeng
+Krachai
+Krachan
 Krachanivka
+Krachio
+Krachon
 Krackow
 Kračúnovce
+Kradang Nga
 Kradenbach
+Kradian
+Krado
 Kradolf
 Kradolf-Schönenberg
 Kraftisried
@@ -64216,11 +66633,15 @@ Kraftshofer Forst
 Kragerø
 Kraggenburg
 Kragujevac
+Krahat
 Krähenberg
 Krahës
 Krahulčí
 Krahule
 Krahulov
+Krai Klang
+Krai Nai
+Krai Nok
 Kraiburg
 Kraichtal
 Krailling
@@ -64276,6 +66697,7 @@ Kráľovský Chlmec
 Kralupy nad Vltavou
 Kralupy u Chomutova
 Králův Dvůr
+Kram
 Kramatorsk
 Kramatorsk District
 Kramatorsk Hromada
@@ -64289,8 +66711,12 @@ Kranenburg
 Kranichfeld
 Kranj
 Kranjska Gora
+Kranuan
+Kranuan District
 Kranyi Koliadyn
 Kranzberg
+Krap Yai
+Krapho
 Krapina
 Krapina-Zagorje County
 Krapinske Toplice
@@ -64298,10 +66724,16 @@ Krapivinsky District
 Krapivna
 Krapkowice
 Krapkowice County
+Krasae Bon
+Krasae Sin
+Krasae Sin District
+Krasang
+Krasang District
 Kraselov
 Krasenivka
 Krásensko
 Krasgvardeyskoye
+Krasiao
 Krašić
 Krasiczyn
 Krasíkov
@@ -64486,8 +66918,11 @@ Krasnye Kosary
 Krasnystaw
 Krasnystaw (rural gmina)
 Krasnystaw County
+Kraso
 Krasocin
+Krasom
 Krasonice
+Krasop
 Krasov
 Krasová
 Krašovice
@@ -64496,7 +66931,14 @@ Krasylivka
 Krasyukovskaya
 Kraszewice
 Krasznokvajda
+Krathiam
+Krathok
+Krathum Baen District
+Krathum Lom
+Krathum Phaeo
+Krathum Rai
 Kratié Province
+Kratip
 Krátká Ves
 Kratochvilka
 Kratonohy
@@ -64521,6 +66963,8 @@ Kravany nad Dunajom
 Kravaře
 Kravarsko
 Kravsko
+Krawa
+Krawan
 Krayenberggemeinde
 Kražiai
 Krčava
@@ -64621,6 +67065,7 @@ Krhanice
 Krhov
 Krhová
 Krhovice
+Kriangkrai
 Křičeň
 Krichim
 Krickenbach
@@ -64664,6 +67109,7 @@ Kristinehamn Municipality
 Kristinestad
 Kristy
 Kriti
+Kritsana
 Kritzmow
 Kritzow
 Kriukai
@@ -64717,6 +67163,11 @@ Kröddeburen
 Krødsherad
 Krofdorf-Gleiberg
 Krogaspe
+Krok Kaeo
+Krok Krak
+Krok Phra
+Krok Phra District
+Krok Sombun
 Krokau
 Krokava
 Krokialaukis
@@ -64741,6 +67192,8 @@ Kronach District
 Kronau
 Kronberg im Taunus
 Kronburg
+Krong Pinang
+Krong Pinang District
 Kröning
 Kronoberg County
 Kronoby
@@ -64843,6 +67296,8 @@ Krumsín
 Krumstedt
 Krumvíř
 Krün
+Krung Ching
+Krung Yan
 Krunkel
 Kruonis
 Kruopiai
@@ -64871,6 +67326,7 @@ Krušovice
 Krustpils Parish
 Kruszwica
 Kruszyna
+Krut
 Kruth
 Kruti Brody
 Kruti Horby
@@ -64977,6 +67433,14 @@ Ktaoua
 Kthellë
 Ktiš
 Ktová
+Ku
+Ku Chan
+Ku Ka Sing
+Ku Kaeo District
+Ku Santarat
+Ku Suan Taeng
+Ku Ta Kai
+Ku Thong
 Ku-ring-gai
 Kuala Balai
 Kuala Belait
@@ -64991,6 +67455,7 @@ Kuala Penyu District
 Kuala Pilah District
 Kuala Selangor District
 Kuala Terengganu District
+Kuan Wan
 Kuantan District
 Kuantan Singingi Regency
 Kuartango
@@ -65025,6 +67490,7 @@ Kuchařovice
 Kuchasyevo
 Kuchelmiß
 Kuchen
+Kuchinarai District
 Kuching District
 Kuching North
 Kuching South
@@ -65052,6 +67518,7 @@ Kudeikha
 Kudelstaart
 Kuden
 Kudensee
+Kudi
 Kudinovskoye
 Kudlovice
 Kudowa-Zdrój
@@ -65061,6 +67528,7 @@ Kudryntsi
 Kudus Regency
 Kudymkar
 Kudymkarsky District
+Kuet Chang
 Kufstein
 Kufstein District
 Kugaaruk
@@ -65088,6 +67556,9 @@ Kühsen
 Kuhstedt
 Kuhstedtermoor
 Kuhstorf
+Kui Buri
+Kui Buri District
+Kui Nuea
 Kuialnyk Hromada
 Kuiksche Heide
 Kuinre
@@ -65177,6 +67648,7 @@ Kulykivka
 Kulykivka Hromada
 Külz (Hunsrück)
 Kulzeb
+Kum Hak
 Kuma
 Kumagaya
 Kumak
@@ -65212,6 +67684,8 @@ Kümmernitztal
 Kummerow
 Kümmersbruck
 Kümmertshausen
+Kumphawapi
+Kumphawapi District
 Kumrovec
 Kumru District
 Kumtorkalinsky District
@@ -65250,6 +67724,8 @@ Kunerad
 Kunešov
 Kunětice
 Kunfehértó
+Kung
+Kung Kao
 Kungälv Municipality
 Küngös
 Kungota
@@ -65330,6 +67806,7 @@ Kupros
 Küps
 Kuptsovo
 Kupyne
+Kurae
 Kuragino
 Kuraginsky District
 Kurakhove Hromada
@@ -65441,6 +67918,7 @@ Kurucaşile District
 Kuruçay
 Kurudere
 Kurudere Mahallesi
+Kurukhu
 Kurume
 Kurumkansky District
 Kurumoch
@@ -65497,6 +67975,65 @@ Küstriner Vorland
 Kustyn
 Kusu
 Kuşu
+Kusuman
+Kusuman District
+Kut Bak
+Kut Bak District
+Kut Bong
+Kut Bot
+Kut Chap
+Kut Chap District
+Kut Chiang Mi
+Kut Chik
+Kut Chim
+Kut Chok
+Kut Chomphu
+Kut Chum
+Kut Chum District
+Kut Chum Saeng
+Kut Din Chi
+Kut Don
+Kut Du
+Kut Hae
+Kut Hai
+Kut Kha Khim
+Kut Khae
+Kut Khao
+Kut Khaopun District
+Kut Khon Kaen
+Kut Kung
+Kut Kwang
+Kut Lat
+Kut Lo
+Kut Mak Fai
+Kut Mueang Ham
+Kut Nam Sai
+Kut Ngong
+Kut Noi
+Kut Nok Plao
+Kut Phia Khom
+Kut Phiman
+Kut Phueng
+Kut Pla Duk
+Kut Pla Khao
+Kut Pong
+Kut Prathai
+Kut Rang
+Kut Rang District
+Kut Ruea
+Kut Ruea Kham
+Kut Sa
+Kut Sai Cho
+Kut Salao
+Kut Sathian
+Kut Sinkhum Mai
+Kut Ta Phet
+Kut That
+Kut Tum
+Kut Wa
+Kut Wai
+Kut Ya Luan
+Kut Yom
 Kütahya District
 Kütahya Province
 Kutai Kartanegara Regency
@@ -65523,6 +68060,7 @@ Kutno (rural gmina)
 Kutno County
 Kutopyugan
 Kutrovice
+Kutsakon
 Kutsurub Hromada
 Kuttekoven
 Küttigen
@@ -65639,9 +68177,11 @@ KwaDukuza
 Kwai Tsing District
 Kwajalein
 Kwale County
+Kwang Chon
 Kwara State
 KwaZulu-Natal
 Kweneng District
+Kwian Hak
 Kwidzyn
 Kwidzyn (rural gmina)
 Kwidzyn County
@@ -66792,6 +69332,7 @@ La Llagosta
 La Llanada
 La Llosa
 La Llosa de Ranes
+La Lo
 La Loge
 La Loge-aux-Chèvres
 La Loge-Pomblin
@@ -67524,6 +70065,15 @@ La Zarza de Pumareda
 La Zarza-Perrunal
 La Zoma
 La Zubia
+La-Ae
+La-Ai
+La-Nga
+La-Ngu
+La-ngu District
+La-O
+La-un District
+La-Un Nuea
+La-Un Tai
 Laa an der Thaya
 Laà-Mondrans
 Laab im Walde
@@ -67897,6 +70447,25 @@ Ladyzhynka Hromada
 Ladzany
 Ładzice
 Lae
+Laem
+Laem Bua
+Laem Fa Pha
+Laem Klat
+Laem Ngop
+Laem Ngop District
+Laem Phak Bia
+Laem Pho
+Laem Pradu
+Laem Rang
+Laem Sai
+Laem Sak
+Laem Sing District
+Laem Som
+Laem Son
+Laem Talumphuk
+Laem Tanot
+Laem Thong
+Laem Yai
 Laer
 Lærdal
 Laerru
@@ -68119,6 +70688,11 @@ Lagupie
 Lahad Datu District
 Lahage
 Lahamaide
+Lahan
+Lahan Na
+Lahan Pla Khao
+Lahan Sai
+Lahan Sai District
 Laharmand
 Lahas
 Lahat Regency
@@ -68158,6 +70732,11 @@ Lahsinate
 Lahstedt
 Lahti
 Lai Châu Province
+Lai Hin
+Lai Nan
+Lai Ngao
+Lai Thung
+Lai Wo
 Laichingen
 Laifour
 Laigné
@@ -68240,6 +70819,18 @@ Lajoskomárom
 Lajosmizse
 Lajoux
 Lak
+Lak Chai
+Lak Chang
+Lak Dan
+Lak Fa
+Lak Hok
+Lak Kaeo
+Lak Khet
+Lak Liam
+Lak Mueang
+Lak Sam
+Lak Si District
+Lak Song
 Lakash
 Lake Alfred
 Lake Alma
@@ -68325,6 +70916,7 @@ Lakuntza
 Lal-lo
 Lala
 Lalacelle
+Lalai
 Lalande
 Lalande-de-Pomerol
 Lalande-en-Son
@@ -68357,6 +70949,8 @@ Lalling
 Lallio
 Lalobbe
 Lalœuf
+Lalom
+Lalom Mai Phatthana
 Lalongue
 Lalonquette
 Laloșu
@@ -68365,12 +70959,52 @@ Lalouret-Laffiteau
 Lalouvesc
 Lalova
 Lalsk
+Laluat
 Laluenga
 Lalueza
 Laluque
 Lam
+Lam Chi
 Lâm Đồng Province
+Lam Hoei
+Lam Huai Lua
+Lam Kaen
+Lam Khlong
+Lam Kho Hong
+Lam Luk Bua
+Lam Luk Ka
+Lam Luk Ka District
+Lam Mai
 Lam Mam District
+Lam Nang Kaeo
+Lam Nang Rong
+Lam Narai
+Lam Nong Saen
+Lam Phak Chi
+Lam Phak Kut
+Lam Phaya
+Lam Phaya Klang
+Lam Phayon
+Lam Phi
+Lam Phlai
+Lam Pho
+Lam Phu
+Lam Pla Thio
+Lam Plai Mat
+Lam Plai Mat District
+Lam Prada
+Lam Sai
+Lam Sai Yong
+Lam Sin
+Lam Somphung
+Lam Sonthi
+Lam Sonthi District
+Lam Ta Sao
+Lam Takhian
+Lam Thamenchai District
+Lam Thap
+Lam Thap District
+Lam Toiting
 Lama
 Lama de Arcos
 Lama dei Peligni
@@ -68380,6 +71014,8 @@ Lamač
 Lamaçães
 Lamadeleine-Val-des-Anges
 Lamadrid
+Lamae
+Lamae District
 Lamagdelaine
 Lamagistère
 Lamaguère
@@ -68457,6 +71093,8 @@ Lambsborn
 Lambsheim
 Lambton County
 Lambunao
+Lamduan
+Lamduan District
 Laméac
 Lamécourt
 Lamegal
@@ -68473,6 +71111,7 @@ Lamentin
 Lameque
 Lamérac
 Lamerdingen
+Lamet
 Lametz
 Lamezia Terme
 Lamgong
@@ -68486,10 +71125,13 @@ Lamillarié
 Lamim
 Lamitan
 Lamjaara
+Lamliang
 Lammershagen
 Lammerville
+Lammun
 Lamnay
 Lamnizla
+Lamo
 Lamoille County
 Lamoine
 Lamon
@@ -68526,7 +71168,10 @@ Lamoura
 LaMoure County
 Lampa
 Lampaden
+Lampam
+Lampang Luang
 Lampang Province
+Lampao
 Lampasas County
 Lampaul-Guimiliau
 Lampaul-Plouarzel
@@ -68539,7 +71184,12 @@ Lampertice
 Lampertsloch
 Lampertswalde
 Lampertsweiler
+Lamphan
+Lamphiak
+Lamphu
+Lamphun
 Lamphun Province
+Lamphura
 Lamporecchio
 Lamporo
 Lamprechtshausen
@@ -68555,6 +71205,19 @@ Lamswaarde
 Lamunin
 Lamure-sur-Azergues
 Lamut
+Lan Ba
+Lan Dokmai
+Lan Dokmai Tok
+Lan Hoi
+Lan Khoi
+Lan Krabue
+Lan Krabue District
+Lan Sak
+Lan Sak District
+Lan Saka
+Lan Saka District
+Lan Sakae
+Lan Tak Fa
 Lana
 Lanaja
 Lanaken
@@ -68748,6 +71411,8 @@ Lanfains
 Lanfroicourt
 Lang
 Lạng Sơn Province
+Lang Suan
+Lang Suan District
 Lang-Göns
 Langa
 Langå
@@ -69058,8 +71723,36 @@ Lanzo d'Intelvi
 Lanzo Torinese
 Lanžov
 Lanzuela
+Lao
+Lao Bok
+Lao Bua Ban
 Lào Cai Province
+Lao Daeng
+Lao Dokmai
+Lao Hai
+Lao Hai Ngam
+Lao Khwan
+Lao Khwan District
+Lao Klang
+Lao Ko Hok
+Lao Kwang
+Lao Luang
+Lao Mi
+Lao Ngam
 Lao Ngam District
+Lao Noi
+Lao Oi
+Lao Phatthana
+Lao Phon Kho
+Lao Phruan
+Lao Po Daeng
+Lao Sang Tho
+Lao Suea Kok
+Lao Suea Kok District
+Lao Tang Kham
+Lao Thong
+Lao Yai
+Lao Yao
 Laoac
 Laoag
 Laoang
@@ -69105,6 +71798,7 @@ Lapinig
 Lapinjärvi
 Lapinlahti
 Lapio
+Laplae District
 Laplaigne
 Lapleau
 Laplume
@@ -69482,6 +72176,33 @@ Lastrup
 Łaszczów
 Laszki
 Lasztonya
+Lat Bua Khao
+Lat Bua Luang
+Lat Bua Luang District
+Lat Chit
+Lat Khae
+Lat Khang
+Lat Khwai
+Lat Khwang
+Lat Krabang
+Lat Krabang District
+Lat Krathing
+Lat Lum Kaeo
+Lat Lum Kaeo District
+Lat Nam Khem
+Lat Nga
+Lat Phatthana
+Lat Pho
+Lat Phrao
+Lat Phrao District
+Lat Sali
+Lat Sawai
+Lat Takhian
+Lat Thippharot
+Lat Ya
+Lat Yai
+Lat Yao
+Lat Yao District
 Latacunga
 Latah County
 Latakia District
@@ -69495,6 +72216,7 @@ Laterina Pergine Valdarno
 Laterns
 Laterza
 Latgale
+Lathai
 Lathen
 Lathrop
 Lathrop Township
@@ -69862,6 +72584,7 @@ Lawaan
 Lawalde
 Lawarde-Mauger-l'Hortoy
 Lawas District
+Lawia
 Lawitz
 Lawndale
 Lawnside
@@ -69943,6 +72666,7 @@ Lazy pod Makytou
 Lazzate
 Lchashen
 Lčovice
+Le
 Le Bailleul
 Le Baizil
 Le Ban-Saint-Martin
@@ -72389,6 +75113,11 @@ Lhuis
 Lhuître
 Lhůta
 Lhuys
+Li
+Li District
+Li Don
+Li Let
+Li Phang
 Liac
 Lian
 Liancourt
@@ -72927,6 +75656,8 @@ Limpias
 Limpio
 Limpiville
 Limpopo
+Lin Fa
+Lin Thin
 Linå
 Linac
 Linamon
@@ -73103,6 +75834,8 @@ Liozna District
 Lipa
 Lípa
 Lípa nad Orlicí
+Lipa Noi
+Lipa Sa-Ngo
 Lipănești
 Lipany
 Lipari
@@ -73581,8 +76314,10 @@ Lniano
 Lo
 Lo Barnechea
 Lo Cañas
+Lo Chut
 Lo Espejo
 Lo Prado
+Lo Yung
 Lo-Reninge
 Loamneș
 Loanda
@@ -73746,8 +76481,12 @@ Lods
 Łódzkie Voivodeship
 Loeches
 Loei Province
+Loei Wang Sai
 Loenen
 Loenersloot
+Loeng Faek
+Loeng Nok Tha District
+Loeng Tai
 Loenhout
 Lœuilley
 Lœuilly
@@ -73913,7 +76652,13 @@ Lolotiquillo
 Lolotla
 Lolyn
 Lom
+Lom Kao
+Lom Kao District
+Lom Khom
 Lom nad Rimavicou
+Lom Raet
+Lom Sak
+Lom Sak District
 Lom u Tachova
 Loma de Cabrera
 Loma de Ucieza
@@ -74020,6 +76765,7 @@ Long District
 Long Harbour-Mount Arlington Heights
 Long Hill Township
 Long Island
+Long Khot
 Long Lake
 Long View
 Longa
@@ -74873,8 +77619,10 @@ Luan Toro
 Luanda
 Luanda Province
 Luang Namtha Province
+Luang Nuea
 Luang Prabang District
 Luang Prabang Province
+Luang Tai
 Luant
 Luba
 Ľubá
@@ -74955,6 +77703,10 @@ Lubniewice
 Lubník
 Lubny District
 Lubny Hromada
+Lubo Baya
+Lubo Buesa
+Lubo Sawo
+Lubo Yiri
 Ľubochňa
 Lubochnia
 Lubok Antu District
@@ -75156,7 +77908,9 @@ Ludwigsstadt
 Ludwigswinkel
 Ludwin
 Ludza Municipality
+Lue
 Lüe
+Lue Amnat District
 Lué-en-Baugeois
 Luelmo
 Luemschwiller
@@ -75327,6 +78081,12 @@ Lulla
 Lullin
 Lully
 Lülsfeld
+Lum Din
+Lum Khao
+Lum Lam Chi
+Lum Rang
+Lum Rawi
+Lum Sum
 Lumaco
 Lumajang Regency
 Lumang
@@ -75368,9 +78128,13 @@ Lumio
 Lummen
 Lumnezia
 Lumparland
+Lumphini
+Lumphli
+Lumphuk
 Lumpiaque
 Lumpkin
 Lumpkin County
+Lumpuk
 Lumpzig
 Lumsden
 Lün
@@ -75423,6 +78187,9 @@ Luneray
 Lunery
 Lunestedt
 Lunéville
+Lung Khwao
+Lung Pradu
+Lung Takhian
 Lunga
 Lungani
 Lungavilla
@@ -75451,6 +78218,8 @@ Lunzenau
 Luogosano
 Luogosanto
 Luoke
+Lup
+Lup Kha
 Lupa
 Lupac
 Lupao
@@ -75471,6 +78240,7 @@ Lupiñén-Ortilla
 Lupión
 Lupionópolis
 Luplanté
+Luplao
 Lupoč
 Lupoglav
 Lupon
@@ -75905,7 +78675,9 @@ M'Zem Sanhaja
 M'Zizel
 M'Zouda
 M´Banza Congo
+Ma Mong
 Ma-ayon
+Ma-Ue
 Ma'ale Adummim
 Ma'ale Efraim
 Ma'ale Iron
@@ -75980,6 +78752,7 @@ Maâtz
 Maaungoodhoo
 Maavah
 Maaziz
+Maba
 Mabalacat
 Mabel Bush
 Mabinay
@@ -76264,20 +79037,176 @@ Madunice
 Madurai
 Maduvvaree
 Madzharovo
+Mae Ai
+Mae Ai District
+Mae Chaem District
+Mae Chai
+Mae Chai District
+Mae Chan
+Mae Chan District
+Mae Chao Yu Hua
+Mae Charao
+Mae Charim
+Mae Charim District
+Mae Chedi
+Mae Chedi Mai
+Mae Chua
 Mãe d'Água
+Mae Daet
 Mãe do Rio
+Mae Dong
+Mae Fa Luang
+Mae Fa Luang District
+Mae Faek
+Mae Faek Mai
+Mae Hi
+Mae Hia
+Mae Ho
+Mae Ho Phra
+Mae Hoi Ngoen
 Mae Hong Son Province
+Mae Ing
+Mae Ka
+Mae Kasa
+Mae Kha (50091000)
+Mae Kha (50091100)
+Mae Kham
+Mae Kham Mi
+Mae Khaning
+Mae Khao Tom
+Mae Khatuan
+Mae Khong
+Mae Khri
+Mae Khue
+Mae Ki
+Mae Klong
+Mae Koeng
+Mae Kon
+Mae Krabung
+Mae Ku
+Mae Kua
+Mae La
+Mae La Luang
+Mae La Noi
+Mae La Noi District
+Mae Lai
+Mae Lamung
+Mae Lan
+Mae Lan District
+Mae Lao
+Mae Lao District
+Mae Lat
+Mae Le
+Mae Loi
+Mae Mo
+Mae Mo District
+Mae Mok
+Mae Na
+Mae Na Chang
+Mae Na Chon
+Mae Na Ruea
+Mae Na Toeng
+Mae Na Wang
+Mae Nang Khao
+Mae Ngao
+Mae Ngoen
+Mae Ngon
+Mae O
+Mae On District
+Mae Pa
+Mae Pak
+Mae Pan
+Mae Pang
+Mae Pao
+Mae Phrik
+Mae Phrik District
+Mae Phun
+Mae Phung
+Mae Poen
+Mae Poen District
+Mae Pong
+Mae Pu
+Mae Pu Kha
+Mae Puem
+Mae Raem
+Mae Raeng
+Mae Rai
+Mae Raka
+Mae Ramat
+Mae Ramat District
+Mae Ramphueng
+Mae Rim District
+Mae Sa
+Mae Sai
+Mae Sai District
+Mae Sakhon
+Mae Salit
+Mae Salong Nai
+Mae Salong Nok
+Mae Sam
+Mae Sam Laep
+Mae San
+Mae Sao
+Mae Sap
+Mae Sariang
+Mae Sariang District
+Mae Sin
+Mae Soi
+Mae Song
+Mae Sot
+Mae Sot District
+Mae Suai
+Mae Suai District
+Mae Suat
+Mae Suek
+Mae Suk
+Mae Sun
+Mae Taeng
+Mae Taeng District
+Mae Tam
+Mae Tan
+Mae Tao
+Mae Tha
+Mae Tha District
+Mae Thalop
+Mae Tho
+Mae Thom
+Mae Thot
+Mae Tip
+Mae Tuen
+Mae U Kho
+Mae Usu
+Mae Wa
+Mae Wa Luang
+Mae Waen
+Mae Wang District
+Mae Wat
+Mae Win
+Mae Wong
+Mae Wong District
+Mae Yang Ho
+Mae Yang Rong
+Mae Yang Tan
+Mae Yao
+Mae Yen
+Mae Yom
+Mae Yuam
+Mae Yuam Noi
 Maebashi
 Maël-Carhaix
 Maël-Pestivien
 Maella
 Maello
 Maen Roch
+Maenam
+Maenam Khu
 Maennolsheim
 Maenza
 Măeriște
 Mäertert
 Mäerzeg
+Maet
+Maet Na Thom
 Maetinga
 Mafalda
 Mafamude
@@ -76288,6 +79217,7 @@ Máfil
 Mafra
 Mafra Municipality
 Mafube
+Mafueang
 Magacela
 Magadan
 Magadan Nature Reserve
@@ -76490,7 +79420,13 @@ Magyarszerdahely
 Magyarszombatfa
 Magyartelek
 Magzhan Zhumabaev District
+Maha Chana Chai District
+Maha Phot
+Maha Phruettharam
+Maha Rat
+Maha Rat District
 Maha Sarakham Province
+Mahachai
 Mahaday District
 Mahaffey
 Mahaica-Berbice
@@ -76502,13 +79438,18 @@ Mahalon
 Mahamud
 Mahanoy City
 Mahanoy Township
+Mahaphram
 Mahaplag
 Maharagama
 Maharashtra
 Mahas District
+Mahasawat
 Mahaska County
+Mahason
 Mahatao
 Mahates
+Mahatthai
+Mahawan
 Mahaxay District
 Mahayag
 Mahboula
@@ -76546,6 +79487,21 @@ Mähren
 Mahres
 Mähring
 Mahwah Township
+Mai
+Mai Dat
+Mai Fat
+Mai Kaen
+Mai Kaen District
+Mai Khao
+Mai Khet
+Mai Klon
+Mai Na Phiang
+Mai Ngam
+Mai Phatthana
+Mai Riang
+Mai Rut
+Mai Tra
+Mai Ya
 Maia
 Maià de Montcal
 Maia Municipality
@@ -76789,6 +79745,9 @@ Majs
 Majšperk
 Majur
 Majuro
+Mak Khaeng
+Mak Khiap
+Mak Ya
 Makád
 Makah Reservation
 Makallé
@@ -76813,13 +79772,25 @@ Makefu
 Makemo
 Maketu
 Makeyevka
+Makha
 Makhachkala
 Makhado
+Makham
+Makham District
+Makham Khu
+Makham Lom
+Makham Luang
+Makham Sung
+Makham Thao
+Makham Tia
+Makham Yong
 Makhambet District
 Makhnivka Hromada
 Makhnyovo
 Makhoshevskaya
 Makhuduthamaga
+Makhuea Chae
+Makhun Wan
 Makiivka
 Makiivka Hromada
 Makilala
@@ -76829,6 +79800,7 @@ Makira-Ulawa Province
 Makiv Hromada
 Makkah
 Makkari
+Makkasan
 Makkaveyevo
 Makkinga
 Makkoshotyka
@@ -76836,8 +79808,13 @@ Makkovik
 Makkum
 Maklár
 Maklino
+Makluea Kao
+Makluea Mai
 Makó
 Makó District
+Makok
+Makok Nuea
+Makok Wan
 Makole
 Makoshyne
 Makoterty
@@ -76851,6 +79828,7 @@ Maków Mazowiecki
 Maków Podhalański
 Makresh
 Makromi
+Makrut
 Maksatikhinsky District
 Maksimovka
 Maksymivka
@@ -77141,6 +80119,7 @@ Malicorne-sur-Sarthe
 Malidegao
 Maligny
 Malijai
+Malika
 Malíkov
 Malíkovice
 Malilipot
@@ -77307,6 +80286,7 @@ Maltot
 Malu
 Malu cu Flori
 Malu Mare
+Maluan
 Maluenda
 Maluku
 Maluku Utara
@@ -77438,12 +80418,15 @@ Mamouros
 Mamouros, Alva e Ribolhos
 Mampituba
 Mamsko-Chuysky District
+Mamu
+Mamuang Song Ton
 Mamuju Regency
 Mamurogawa
 Mamurras
 Mamusa
 Mamuša
 Man
+Man Wichai
 Mana
 Maňa
 Manabí Province
@@ -77461,7 +80444,12 @@ Manaia
 Manaíra
 Manalapan
 Manalapan Township
+Manang Dalam
+Manang District
+Manang Tayo
+Manang Yong
 Mananjary
+Manao Wan
 Manaoag
 Manapiare Municipality
 Manapla
@@ -77501,6 +80489,7 @@ Mancenans-Lizerne
 Mancera de Abajo
 Mancera de Arriba
 Mancey
+Mancha Khiri District
 Mancha Real
 Manche Department
 Manchecourt
@@ -77759,6 +80748,7 @@ Manoppello
 Manor
 Manor Township
 Manorhaven
+Manorom District
 Manorville
 Manosque
 Manot
@@ -77885,6 +80875,15 @@ Manziana
 Manziat
 Manzini
 Maó
+Map Kae
+Map Kha
+Map Khae
+Map Krat
+Map Phai
+Map Pla Khao
+Map Pong
+Map Tako En
+Map Yang Phon
 Mapanas
 Mapandan
 Mapello
@@ -77902,6 +80901,7 @@ Mapo District
 Mapoon
 Mappano
 Mappi Regency
+Maptaphut
 Mapulaca
 Mapun
 Maputo
@@ -78256,6 +81256,7 @@ Marest-sur-Matz
 Marestaing
 Marestmontiers
 Maresville
+Maret
 Mareth
 Maretto
 Maretz
@@ -78776,6 +81777,7 @@ Maroa Municipality
 Maróc
 Marócsa
 Marodi Jeh Region
+Maroeng
 Marœuil
 Maroggia
 Marogong
@@ -79078,10 +82080,13 @@ Martynovsky District
 Martyush
 Marudi District
 Marudo
+Marue Bo Ok
+Marue Bo Tok
 Maruéjols-lès-Gardon
 Marugame
 Marugán
 Maruggio
+Marui
 Maruim
 Marulanda
 Maruleng
@@ -79532,6 +82537,7 @@ Mato Verde
 Matões
 Matões do Norte
 Matola
+Matong
 Matorrales
 Matos Costa
 Matosinhos
@@ -79610,6 +82616,7 @@ Matty
 Matu District
 Matuguinao
 Matulji
+Matum
 Matungao
 Matunggong Subdistrict
 Matupá
@@ -79857,6 +82864,7 @@ Maynard
 Maynas Province
 Maynsky District
 Mayo
+Mayo District
 Mayodan
 Mayor José D. Martinez
 Mayor Julio Dionisio Otaño
@@ -80468,6 +83476,7 @@ Mejit
 Mejji
 Mejorada
 Mejorada del Campo
+Mek Dam
 Mekényes
 Meknassa Acharqia
 Meknassa Al Gharbia
@@ -80779,6 +83788,7 @@ Mengeš
 Mengíbar
 Mengkofen
 Menglon
+Mengrai
 Mengusovce
 Menhartice
 Ménières
@@ -81662,6 +84672,7 @@ Mharda Subdistrict
 Mheer
 Mhère
 Mhlontlo
+Mi Chai
 Mi Granja
 Mi'ilya
 Mi'kmaq Nation
@@ -82284,6 +85295,8 @@ Mimizan
 Mimoň
 Mimoso de Goiás
 Mimoso do Sul
+Min Buri
+Min Buri District
 Mina
 Mina Abdulla
 Mina Abdullah Beach
@@ -82827,6 +85840,7 @@ Mitterskirchen
 Mitterteich
 Mittlach
 Mittois
+Mittraphap
 Mittweida
 Mitú
 Mitwitz
@@ -82936,6 +85950,11 @@ Mníšek nad Popradom
 Mníšek pod Brdy
 Mniszków
 Mnquma
+Mo
+Mo Kro
+Mo Mawi
+Mo Mueang
+Mo Thai
 Moa
 Moabit
 Moacșa
@@ -83035,6 +86054,8 @@ Modum
 Modutsky
 Moeche
 Moeda
+Moei Wadi
+Moei Wadi District
 Moëlan-sur-Mer
 Moema
 Moen
@@ -83245,7 +86266,9 @@ Mojtín
 Moju
 Mojuí dos Campos
 Mojzesovo
+Mok Champae
 Mok May District
+Mok Thaeo
 Moka
 Moka District
 Mokattam
@@ -83253,6 +86276,7 @@ Mokhcha
 Mokhnach
 Mokhovoye
 Mokino
+Mokkhalan
 Mokliaky
 Moknine
 Mokobody
@@ -83501,7 +86525,11 @@ Momuy
 Momy
 Mon
 Møn
+Mon Chong
+Mon Nang
+Mon Pin
 Mon State
+Mon Thong
 Monaca
 Monachil
 Monachynivka
@@ -83738,6 +86766,7 @@ Monghidoro
 Mongiana
 Mongiardino Ligure
 Mongiuffi Melia
+Mongkhontham Nimit
 Mongmong-Toto-Maite
 Möngönmorit
 Mongrando
@@ -85906,6 +88935,7 @@ Mošurov
 Mosvallahreppur
 Mosvik
 Moszczenica
+Mot Daeng
 Mota de Altarejos
 Mota del Cuervo
 Mota del Marqués
@@ -86387,9 +89417,34 @@ Mtskheta
 Mtskheta Mtianeti
 Mtskheta Municipality
 Mtubatuba
+Mu Mon
+Mu No
+Mu Si
+Muak Lek
+Muak Lek District
 Muallim District
 Muan County
 Muaná
+Muang
+Muang Chet Ton
+Muang Chum
+Muang Hak
+Muang Khai
+Muang Kham
+Muang Khom
+Muang Kluang
+Muang Lai
+Muang Lat
+Muang Mu
+Muang Na
+Muang Ngam
+Muang Noi
+Muang Sam Sip
+Muang Sam Sip District
+Muang Tia
+Muang Tuet
+Muang Wan
+Muang Yai
 Muar District
 Muara Enim Regency
 Muaro Jambi Regency
@@ -86444,15 +89499,159 @@ Mudryholovy
 Muduex
 Mudug Region
 Mudurnu District
+Mueang
+Mueang Amnat Charoen District
+Mueang Ang Thong District
+Mueang Bang Khlang
+Mueang Bang Yom
+Mueang Bua
+Mueang Bueng Kan District
+Mueang Buriram District
+Mueang Chachoengsao District
+Mueang Chai Nat District
+Mueang Chaiyaphum District
+Mueang Chan
+Mueang Chan District
+Mueang Chang
+Mueang Chanthaburi District
+Mueang Chi
+Mueang Chiang Mai District
+Mueang Chiang Rai District
+Mueang Chonburi District
+Mueang Chum
+Mueang Chumphon District
+Mueang Det
+Mueang Don
+Mueang Faek
+Mueang Fai
+Mueang Fang
+Mueang Haeng
+Mueang Hong
+Mueang Kae
+Mueang Kaeo
+Mueang Kai
+Mueang Kalasin District
+Mueang Kamphaeng Phet District
+Mueang Kanchanaburi District
+Mueang Kao
+Mueang Kao Phatthana
+Mueang Karung
+Mueang Kaset
+Mueang Khaen
+Mueang Khon Kaen District
+Mueang Khong
+Mueang Krabi District
+Mueang Lampang District
+Mueang Lamphun District
+Mueang Len
+Mueang Li
+Mueang Ling
+Mueang Loei District
+Mueang Lopburi District
+Mueang Luang
+Mueang Mae Hong Son District
+Mueang Maha Sarakham District
+Mueang Mai
+Mueang Mi
+Mueang Mo
+Mueang Mukdahan District
+Mueang Na
+Mueang Nakhon Nayok District
+Mueang Nakhon Pathom District
+Mueang Nakhon Phanom District
+Mueang Nakhon Ratchasima District
+Mueang Nakhon Sawan District
+Mueang Nakhon Si Thammarat District
+Mueang Nan District
+Mueang Narathiwat District
+Mueang Nat
+Mueang Nga
+Mueang Ngai
+Mueang Noi
+Mueang Nong Bua Lam Phu District
+Mueang Nong Khai District
+Mueang Nonthaburi District
+Mueang Nuea
+Mueang Paeng
+Mueang Pak
+Mueang Pan
+Mueang Pan District
+Mueang Pathum Thani District
+Mueang Pattani District
+Mueang Phai
+Mueang Phalai
+Mueang Phan
+Mueang Phang Nga District
+Mueang Phatthalung District
+Mueang Phayao District
+Mueang Phetchabun District
+Mueang Phetchaburi District
+Mueang Phia
+Mueang Phichit District
+Mueang Phitsanulok District
+Mueang Phlapphla
+Mueang Pho
+Mueang Phon
+Mueang Phrae District
+Mueang Phrai
+Mueang Phuket District
+Mueang Plueai
+Mueang Pon
+Mueang Prachinburi District
+Mueang Prachuap Khiri Khan District
+Mueang Prasat
+Mueang Ranong District
+Mueang Ratchaburi District
+Mueang Rayong District
+Mueang Roi Et District
+Mueang Sa Kaeo District
+Mueang Sakon Nakhon District
+Mueang Samut Prakan District
+Mueang Samut Sakhon District
+Mueang Samut Songkhram District
+Mueang Saraburi District
+Mueang Satun District
+Mueang Sawankhalok
+Mueang Si Khai
+Mueang Sing Buri District
+Mueang Sisaket District
+Mueang Songkhla District
+Mueang Suang
+Mueang Suang District
+Mueang Suea
+Mueang Sukhothai District
+Mueang Suphan Buri District
+Mueang Surat Thani District
+Mueang Surin District
+Mueang Tai
+Mueang Tak District
+Mueang Tao
+Mueang Thi
+Mueang Thong
+Mueang Thung
+Mueang Trang District
+Mueang Trat District
+Mueang Ubon Ratchathani District
+Mueang Udon Thani District
+Mueang Uthai Thani District
+Mueang Uttaradit District
+Mueang Yala District
+Mueang Yang
+Mueang Yang District
+Mueang Yao
+Mueang Yasothon District
 Muel
 Muelas de los Caballeros
 Muelas del Pan
 Muelle de los Bueyes
+Muen Si
+Muen Wai
 Muereasca
 Mues
 Muespach
 Muespach-le-Bas
 Muespach-le-Haut
+Muet Ka
 Muffendorf
 Muga de Sayago
 Mugalzhar District
@@ -86547,6 +89746,7 @@ Mukacheve Hromada
 Mukah District
 Mukařov
 Mukawa
+Mukdahan
 Mukdahan Province
 Mukhariv
 Mukhen
@@ -87052,6 +90252,7 @@ Mutalau
 Mutale
 Mutare
 Mutatá
+Mutchalin
 Mutějovice
 Mutěnice
 Mutěnín
@@ -87248,7 +90449,232 @@ N'khila
 N'Kob
 N'zeto
 N'Zi Region
+Na An
+Na Bin La
+Na Bo Kham
+Na Bon
+Na Bon District
+Na Bot
+Na Bua
+Na Cha-Ang
+Na Chak
+Na Chaliang
+Na Chaluai
+Na Chaluai District
+Na Champa
+Na Chan
+Na Charoen
+Na Chik
+Na Choeng Khiri
+Na Chom Thian
+Na Chong
+Na Chueak
+Na Chueak District
+Na Chum Het
+Na Chum Saeng
+Na Dan
+Na Di
+Na Di District
+Na Din Dam
+Na Dok Kham
+Na Dong
+Na Duang
+Na Duang District
+Na Duea
+Na Dun
+Na Dun District
+Na Fai
+Na Haeo
+Na Haeo District
+Na Hi
+Na Hin Lat
+Na Ho
+Na Hom
+Na Hu Kwang
+Na Hua Bo
+Na In
+Na Kacha
+Na Kae
+Na Kae District
+Na Kaeo
+Na Kang
+Na Kasem
+Na Ket
+Na Kha
+Na Khae
+Na Khaem
+Na Khai
+Na Kham
+Na Kham Hai
+Na Kham Yai
+Na Khamin
+Na Khao
+Na Khao Sia
+Na Khayat
+Na Khe
+Na Khian
+Na Khliang
+Na Kho Ruea
+Na Khok
+Na Khom
+Na Khrua
+Na Khu
+Na Khu District
+Na Khum
+Na Khun Krai
+Na Khun Yai
+Na Kian
+Na Klang
+Na Klang District
+Na Kluea
+Na Ko
+Na Kok
+Na Krasaeng
+Na Kratam
+Na Kwang
+Na Lao
+Na Liang
+Na Loen
+Na Loeng
+Na Luang Sen
+Na Lueang
+Na Mafueang
+Na Mai
+Na Mai Phai
+Na Makhuea
+Na Mala
+Na Matum
+Na Mo Bun
 Na Mo District
+Na Mo Ma
+Na Mo Si
+Na Mom
+Na Mom District
+Na Mon
+Na Mon District
+Na Mong
+Na Muang
+Na Mueang
+Na Mueang Phet
+Na Muen District
+Na Muen Si
+Na Nai
+Na Nak
+Na Nang
+Na Nat
+Na Ngam
+Na Ngio
+Na Ngua
+Na Noi
+Na Noi District
+Na Nok Kok
+Na Nong Phai
+Na Nong Thum
+Na Not
+Na Nuan
+Na Nuea
+Na O
+Na Pa
+Na Pa Saeng
+Na Pakho
+Na Pang
+Na Phaeng
+Na Phala
+Na Phan Sam
+Na Phaya
+Na Phiang
+Na Phin
+Na Pho
+Na Pho District
+Na Pho Klang
+Na Phralan
+Na Phrathat
+Na Phru
+Na Phu
+Na Phue
+Na Phueng
+Na Phun
+Na Pong
+Na Pradu
+Na Prang
+Na Pu Pom
+Na Rai Luang
+Na Rat Khwai
+Na Reng
+Na Riang
+Na Roek
+Na Rueang
+Na Rung
+Na Sa-At
+Na Sabaeng
+Na Saeng
+Na Sai
+Na Sak
+Na Sam
+Na Samai
+Na Sameng
+Na San
+Na Sanun
+Na Sao
+Na Saton
+Na Sawan
+Na Si
+Na Si Nuan
+Na Siao
+Na Sing
+Na So
+Na Sok
+Na Som
+Na Suan
+Na Suang
+Na Ta Khwan
+Na Ta Luang
+Na Tae
+Na Tai
+Na Tan
+Na Tan District
+Na Tham
+Na Tham Nuea
+Na Tham Tai
+Na Than
+Na Thanung
+Na Thap
+Na Thap Hai
+Na Thawi
+Na Thawi District
+Na Thom
+Na Thom District
+Na Thon
+Na Thong
+Na Thung
+Na To Ming
+Na Toei
+Na Tong Watthana
+Na Udom
+Na Wa
+Na Wa District
+Na Wae
+Na Waeng
+Na Wang
+Na Wang District
+Na Wang Hin
+Na Wiang
+Na Wong
+Na Wung
+Na Yai
+Na Yai Am
+Na Yai Am District
+Na Yang
+Na Yang Klak
+Na Yao
+Na Yia
+Na Yia District
+Na Yom
+Na Yong District
+Na Yong Nuea
+Na Yong Tai
+Na Yung
+Na Yung District
 Naalaafushi
 Naaldwijk
 Naâma Province
@@ -87350,6 +90776,7 @@ Nadym
 Nadymsky District
 Nadyozhnaya
 Naeem
+Naeng Mut
 Năeni
 Nærøy
 Nærøysund
@@ -87553,6 +90980,13 @@ Nahuilingo
 Nahuizalco
 Nahuja
 Nahunta
+Nai Khlong Bang Pla Kot
+Nai Khuan
+Nai Mueang
+Nai Tao
+Nai Wiang
+Nai Wong Nuea
+Nai Wong Tai
 Naic
 Naidăș
 Naie
@@ -87617,12 +91051,26 @@ Nakhimovsky
 Nakhimovsky District
 Nakhl
 Nakhodka
-Nakhom Pathom Province
+Nakhon Chai Si
+Nakhon Chai Si District
+Nakhon Chedi
+Nakhon Chum
+Nakhon Doet
+Nakhon Luang
+Nakhon Luang District
+Nakhon Nayok
 Nakhon Nayok Province
+Nakhon Pa Mak
+Nakhon Pathom
+Nakhon Pathom Province
 Nakhon Phanom Province
 Nakhon Ratchasima Province
+Nakhon Sawan Ok
 Nakhon Sawan Province
+Nakhon Sawan Tok
 Nakhon Si Thammarat Province
+Nakhon Thai
+Nakhon Thai District
 Nakijin
 Nakkila
 Naklo
@@ -87652,9 +91100,76 @@ Nalyvaikivka
 Nalzen
 Nalžovice
 Nalžovské Hory
+Nam Ang
 Nam Bak District
+Nam Bo Luang
+Nam Cham
+Nam Chan
+Nam Chiao
+Nam Cho
+Nam Chuet
+Nam Chuet Noi
+Nam Chun
+Nam Daeng
+Nam Dam
 Nam Định Province
+Nam Dip
 Nam District
+Nam Hak
+Nam Hia
+Nam Kaen
+Nam Kam
+Nam Khaem
+Nam Kham
+Nam Kham Yai
+Nam Khao
+Nam Khiao
+Nam Khok
+Nam Khrai
+Nam Khum
+Nam Khun District
+Nam Kian
+Nam Kliang
+Nam Kliang District
+Nam Ko
+Nam Kum
+Nam Lao
+Nam Man
+Nam Mong
+Nam Muap
+Nam Nao
+Nam Nao District
+Nam Noi
+Nam Om
+Nam Pai
+Nam Pat District
+Nam Pen
+Nam Phai
+Nam Phang
+Nam Phon
+Nam Phong
+Nam Phong District
+Nam Phrae
+Nam Phut
+Nam Plik
+Nam Pua
+Nam Rat
+Nam Rit
+Nam Ron
+Nam Rop
+Nam Ruem
+Nam Sai
+Nam Som
+Nam Som District
+Nam Song
+Nam Suai
+Nam Suem
+Nam Sut
+Nam Thaeng
+Nam Thiang
+Nam Thun
+Nam Waen
+Nam Yuen District
 Nama Khoi
 Namakwa
 Namangan
@@ -87687,6 +91202,8 @@ Namosi Province
 Nampa
 Nampcel
 Nampcelles-la-Cour
+Namphi
+Namphu
 Nampicuan
 Nampo City
 Nampont
@@ -87701,7 +91218,10 @@ Namsky
 Namsky District
 Namsos
 Namsskogan
+Namtan
+Namtao
 Namtha District
+Namtok
 Namu
 Namukulu
 Namur
@@ -87750,6 +91270,17 @@ Nandufe
 Nandy
 Nane District
 Nănești
+Nang Buat
+Nang Daet
+Nang Kaeo
+Nang Lae
+Nang Long
+Nang Lue
+Nang Phaya
+Nang Ram
+Nang Rong
+Nang Rong District
+Nang Takhian
 Nangeville
 Nangis
 Nangkor
@@ -87848,6 +91379,7 @@ Naque
 Nàquera ̸ Náquera
 Nar
 Nara
+Nara Phirom
 Nara Prefecture
 Naracoorte Lucindale
 Ňárad
@@ -87907,6 +91439,7 @@ Narodychi Hromada
 Narok County
 Narol
 Narón
+Narong
 Naroulya
 Naroulya District
 Narovchat
@@ -88229,6 +91762,7 @@ Navour-sur-Grosne
 Návsí
 Nawa Region
 Nawa Subdistrict
+Nawamin
 Nawojowa
 Nax
 Naxaithong District
@@ -89561,11 +93095,14 @@ Nga District
 Ngaanyatjarraku
 Ngäbe-Buglé Comarca
 Ngada Regency
+Ngaeng
 Ngahere
 Ngaio
 Ngaka Modiri Molema
 Ngangla
 Nganjuk Regency
+Ngao
+Ngao District
 Ngapara
 Ngaraard
 Ngarchelong
@@ -89580,11 +93117,18 @@ Ngchesar
 Ngeremlengui
 Ngeun District
 Nghệ An Province
+Ngim
+Ngio
+Ngio Don
+Ngio Ngam
+Ngio Rai
 Ngiwal
+Ngop
 Ngounié Province
 Ngoy District
 Ngqushwa
 Ngraçan
+Ngua Ba
 Ngunguru
 Ngwathe
 Nhamundá
@@ -89996,6 +93540,21 @@ Nikaho
 Nikaia-Agios Ioannis Rentis
 Nikel
 Nikël
+Nikhom
+Nikhom Huai Phueng
+Nikhom Kham Soi
+Nikhom Kham Soi District
+Nikhom Khao Bo Kaeo
+Nikhom Krasiao
+Nikhom Lam Narai
+Nikhom Nam Un
+Nikhom Nam Un District
+Nikhom Phatthana
+Nikhom Phatthana District
+Nikhom Sang Ton-Eng
+Nikhom Sang Ton-Eng Lam Dom Noi
+Nikhom Songkhro
+Nikhom Thung Pho Thale
 Niki
 Nikiboko
 Nikiforovsky District
@@ -90058,6 +93617,7 @@ Nimshuscheid
 Nimsreuland
 Nimy
 Nin
+Nin Phet
 Nina Rodrigues
 Nindirí
 Nindorf
@@ -90188,10 +93748,12 @@ Nivnice
 Nivnoye
 Nivolas-Vermelle
 Nivollet-Montgriffon
+Niwet
 Niwiska
 Nixéville
 Nixéville-Blercourt
 Niyodogawa
+Niyom Chai
 Nizami
 Nizami Raion
 Nizan-Gesse
@@ -90372,6 +93934,27 @@ Noé
 Noé-les-Mallets
 Noël-Cerneux
 Noëllet
+Noen Chaeng
+Noen Hom
+Noen Kham
+Noen Kham District
+Noen Khi Lek
+Noen Kho
+Noen Kum
+Noen Kwao
+Noen Makok
+Noen Maprang
+Noen Maprang District
+Noen Ngam
+Noen Phoem
+Noen Phra
+Noen Phraprang
+Noen Po
+Noen Sa-nga District
+Noen Sai
+Noen Sala
+Noen Sawang
+Noen Yang
 Noepoli
 Noer
 Noetinger
@@ -90493,6 +94076,8 @@ Noja
 Nojals-et-Clotte
 Nojeon-en-Vexin
 Nojorid
+Nok Mueang
+Nok Ok
 Nokere
 Nokia
 Nola
@@ -90507,6 +94092,7 @@ Nolinsk
 Nolinsky District
 Nolléval
 Nollieux
+Nom
 Noma
 Nomaglio
 Nomain
@@ -90525,6 +94111,91 @@ Nomi
 Nommay
 Nõmme
 Nompatelize
+Non
+Non Buri
+Non Chai Si
+Non Chan
+Non Charoen
+Non Daeng
+Non Daeng District
+Non Din Daeng
+Non Din Daeng District
+Non Han
+Non Hom
+Non Kalen
+Non Kalong
+Non Kha
+Non Khamin
+Non Kho
+Non Khom
+Non Khong
+Non Khun
+Non Khun District
+Non Khwang
+Non Klang
+Non Ko
+Non Kok
+Non Kung
+Non Laem Thong
+Non Lek
+Non Mak Kheng
+Non Mak Mun
+Non Muang
+Non Mueang
+Non Mueang Phatthana
+Non Na Chan
+Non Nam Kliang
+Non Nam Thaeng
+Non Narai District
+Non Ngam
+Non Non
+Non Pa Sang
+Non Phayom
+Non Phek
+Non Phet
+Non Phiban
+Non Phluang
+Non Pho
+Non Phueng
+Non Po Daeng
+Non Pradu
+Non Pueai
+Non Pun
+Non Rang
+Non Rasi
+Non Sa-At
+Non Sa-at District
+Non Sa-Nga
+Non Sai
+Non Samran
+Non Sang
+Non Sang District
+Non Sawan
+Non Sawang
+Non Sila
+Non Sila District
+Non Sila Loeng
+Non Sombun
+Non Sung
+Non Sung District
+Non Suwan
+Non Suwan District
+Non Ta Then
+Non Tan
+Non Teng
+Non Thai
+Non Thai District
+Non Than
+Non That
+Non Thon
+Non Thong
+Non Thong In
+Non Thong Lang
+Non Tum
+Non Udom
+Non Wai
+Non Yang
+Non Yo
 Nonac
 Nonancourt
 Nonant
@@ -90537,12 +94208,370 @@ Noncourt-sur-le-Rongeant
 None
 Nonette
 Nonette-Orsonnette
+Nong Bo
+Nong Bok
 Nong Bok District
+Nong Bom Kluai
+Nong Bon
+Nong Bon Daeng
+Nong Bot
+Nong Bua
+Nong Bua Ban
+Nong Bua Daeng
+Nong Bua Daeng District
+Nong Bua District
+Nong Bua Dong
+Nong Bua Hi
+Nong Bua Kaeo
+Nong Bua Khok
+Nong Bua Lakhon
 Nong Bua Lamphu Province
+Nong Bua Noi
+Nong Bua Nuea
+Nong Bua Rawe
+Nong Bua Rawe District
+Nong Bua Sa-At
+Nong Bua Sala
+Nong Bua Santu
+Nong Bua Sim
+Nong Bua Tai
+Nong Bua Takiat
+Nong Bua Thong
+Nong Bua Yai
+Nong Bun Mak District
+Nong Bunnak
+Nong Chabok
+Nong Chaeng
+Nong Chaeng Yai
+Nong Chai Si
+Nong Chak
+Nong Chalong
+Nong Chang
+Nong Chang District
+Nong Chang Khuen
+Nong Chang Laen
+Nong Chang Yai
+Nong Chiang Thun
+Nong Chik
+Nong Chik District
+Nong Chim
+Nong Chok
+Nong Chok District
+Nong Chom
+Nong Chorakhe
+Nong Chumphon
+Nong Chumphon Nuea
+Nong Daeng
+Nong Din Daeng
 Nong District
+Nong Doen
+Nong Don
+Nong Don District
+Nong Faek
+Nong Fai
+Nong Ha
+Nong Hai
+Nong Han
+Nong Han District
+Nong Hang
 Nong Het District
+Nong Hi
+Nong Hi District
+Nong Hiang
+Nong Hin
+Nong Hin District
+Nong Hoi
+Nong Hong
+Nong Hong District
+Nong Hua Chang
+Nong Hua Fan
+Nong Hua Khu
+Nong Hua Pho
+Nong Hua Raet
+Nong Hua Wua
+Nong I But
+Nong I Run
+Nong I Thao
+Nong I Yo
+Nong Ian
+Nong Kae
+Nong Kaeo
+Nong Kakha
+Nong Kapu
+Nong Kathao
+Nong Kathing
+Nong Kha
+Nong Khae
+Nong Khae District
+Nong Khaem
+Nong Khaem District
+Nong Khaen
+Nong Khai
+Nong Khai Nam
+Nong Khai Nok
 Nong Khai Province
+Nong Kham
+Nong Khaman
+Nong Khan
+Nong Khan Song
+Nong Khanak
+Nong Khanan
+Nong Khang Khok
+Nong Khang Phlu
+Nong Khao
+Nong Khayang
+Nong Khayang District
+Nong Khayat
+Nong Khiat
+Nong Khla
+Nong Khon
+Nong Khon Kwang
+Nong Khon Thai
+Nong Khrok
+Nong Khu
+Nong Khu Khat
+Nong Khun
+Nong Khun Yai
+Nong Khwai
+Nong Khwai So
+Nong Khwao
+Nong Ki
+Nong Ki District
+Nong Kin Phlen
+Nong Klang Dong
+Nong Klang Na
+Nong Klap
+Nong Ko
+Nong Kom Ko
+Nong Kong
+Nong Kop
+Nong Krabian
+Nong Krachao
+Nong Krachet
+Nong Krading
+Nong Kradon
+Nong Krang
+Nong Krat
+Nong Krathum
+Nong Krot
+Nong Kula
+Nong Kum
+Nong Kung
+Nong Kung Kaeo
+Nong Kung Sawan
+Nong Kung Si
+Nong Kung Si District
+Nong Kung Soen
+Nong Kung Thanasan
+Nong Kung Thap Ma
+Nong Kung Yai
+Nong Kwang
+Nong Lak
+Nong Lalok
+Nong Lan
+Nong Lao
+Nong Lat
+Nong Lek
+Nong Loeng
+Nong Lom
+Nong Long
+Nong Lu
+Nong Luang
+Nong Lum
+Nong Ma
+Nong Mae Kai
+Nong Mae Na
+Nong Mae Taeng
+Nong Mai Daeng
+Nong Mai Kaen
+Nong Mai Kong
+Nong Mai Ngam
+Nong Mai Phai
+Nong Mai Sung
+Nong Mak Fai
+Nong Makha
+Nong Makha Mong
+Nong Makhuea
+Nong Mamong
+Nong Mamong District
+Nong Manao
+Nong Masaeo
+Nong Mek
+Nong Methi
+Nong Mi
+Nong Mo
+Nong Mu
+Nong Muang
+Nong Muang District
+Nong Muang Khai
+Nong Muang Khai District
+Nong Mueang
+Nong Muen Than
+Nong Na Kham
+Nong Na Kham District
+Nong Na Saeng
+Nong Nae
+Nong Nak
+Nong Nam
+Nong Nam Daeng
+Nong Nam Sai
+Nong Nam Som
+Nong Nam Yai
+Nong Nang
+Nong Nang Nuan
+Nong Ngio
+Nong Ngu Lueam
+Nong No
+Nong Noi
+Nong Nok Kaeo
+Nong Nok Khai
+Nong Nok Khian
+Nong Nok Tha
+Nong Nom Wua
+Nong O
+Nong Om
+Nong Ong
+Nong Pa Khrang
+Nong Pa Ko
+Nong Paen
+Nong Pak Long
+Nong Pet
+Nong Phai
+Nong Phai Baen
+Nong Phai District
+Nong Phai Kaeo
+Nong Phai Lom
+Nong Phai Sun
+Nong Phak Nak
+Nong Phak Waen
+Nong Phan Chan
+Nong Phan Tha
+Nong Phang Kha
+Nong Phayom
+Nong Phikun
+Nong Phlap
+Nong Phluang
+Nong Pho
+Nong Phok
+Nong Phok District
+Nong Phon Ngam
+Nong Phra
+Nong Phrao Ngai
+Nong Phrong
+Nong Phue
+Nong Phueng
+Nong Pla Lai
+Nong Pla Mo
+Nong Pla Pak
+Nong Pla Sawai
+Nong Pling
+Nong Plong
+Nong Pradu
+Nong Prong
+Nong Prue
+Nong Prue District
+Nong Raet
+Nong Rai
+Nong Rakhang
+Nong Ratchawat
+Nong Rawiang
+Nong Ri
+Nong Rong
+Nong Ruea
+Nong Ruea District
+Nong Sa
+Nong Sa Pla
+Nong Sadao
+Nong Saen
+Nong Saeng
+Nong Saeng District
+Nong Saeng Yai
+Nong Sai
+Nong Sai Khao
 Nong Sai Village
+Nong Sala
+Nong Sam Si
+Nong Sam Wang
+Nong Samet
+Nong Samsak
+Nong Sang
+Nong Sanit
+Nong Sano
+Nong Sanom
+Nong Sao Lao
+Nong Sarai
+Nong Sawan
+Nong Sawang
+Nong Sida
+Nong Sim
+Nong Son
+Nong Song Hong
+Nong Song Hong District
+Nong Suang
+Nong Suea Chang
+Nong Suea District
+Nong Sung
+Nong Sung District
+Nong Sung Nuea
+Nong Sung Tai
+Nong Ta Kai
+Nong Ta Khong
+Nong Ta Ngu
+Nong Ta Taem
+Nong Tak Ya
+Nong Takai
+Nong Takhian Bon
+Nong Takhrong
+Nong Tamlueng
+Nong Tao
+Nong Taphan
+Nong Tat
+Nong Tat Yai
+Nong Teng
+Nong Thale
+Nong Than Nam
+Nong Thao
+Nong Thao Yai
+Nong Thap Thai
+Nong Thep
+Nong Thong
+Nong Thum
+Nong Tin Nok
+Nong Tok Paen
+Nong Tong
+Nong Trut
+Nong Tum
+Nong Ueng
+Nong Wa
+Nong Waeng
+Nong Waeng Khuang
+Nong Waeng Nang Bao
+Nong Waeng Sok Phra
+Nong Waeng Tai
+Nong Wua So
+Nong Wua So District
+Nong Ya
+Nong Ya Khao
+Nong Ya Lat
+Nong Ya Plong
+Nong Ya Plong District
+Nong Ya Sai
+Nong Ya Sai District
+Nong Yaeng
+Nong Yai
+Nong Yai Da
+Nong Yai District
+Nong Yai Phim
+Nong Yai To
+Nong Yang
+Nong Yang Chin
+Nong Yang Suea
+Nong Yang Thoi
+Nong Yao
+Nong Yat
+Nong Yong
+Nong Yuang
+Nong Yueang
 Nonglard
 Nongoma
 Nonhigny
@@ -90559,6 +94588,7 @@ Nonouti
 Nonsan
 Nonsard
 Nonsard-Lamarche
+Nonsi
 Nonthaburi Province
 Nontron
 Nonville
@@ -90597,7 +94627,11 @@ Noordwijkerhout
 Noordwolde
 Noosa
 Nootdorp
+Nop Pring
 Nopala de Villagrán
+Noppharat
+Nopphitam
+Nopphitam District
 Noqui
 Nor Carangas Province
 Nor Chichas Province
@@ -90614,6 +94648,7 @@ Norak District
 Norala
 Noranco
 Nóráp
+Norasing
 Norath
 Norbello
 Norberčany
@@ -91990,6 +96025,7 @@ Ntoum
 Nuaillé
 Nuaillé-d'Aunis
 Nuaillé-sur-Boutonne
+Nuan Chan
 Nuangola
 Nuars
 Nubarashen District
@@ -92011,6 +96047,10 @@ Nucșoara
 Nüdlingen
 Nudol
 Nudyzhe
+Nuea
+Nuea Khlong
+Nuea Khlong District
+Nuea Mueang
 Nueces County
 Nueil-les-Aubiers
 Nueil-sous-Faye
@@ -92353,6 +96393,8 @@ O Corgo
 O Grove
 O Incio
 O Irixo
+O Lo
+O Ngoen
 O Páramo
 O Pereiro de Aguiar
 O Pino
@@ -93953,6 +97995,10 @@ Olyshva
 Olyutorsky District
 Olzai
 Olzheim
+Om Ko
+Om Kret
+Om Noi
+Om Yai
 Oma
 Omachi
 Omadhoo
@@ -93998,6 +98044,8 @@ Omišalj
 Omissy
 Omitama
 Omitlán de Juárez
+Omkoi
+Omkoi District
 Omlenice
 Omméel
 Ommen
@@ -94028,6 +98076,9 @@ Omuthiya
 Omutinsky District
 Omutninsk
 Omutninsky District
+On Klang
+On Nuea
+On Tai
 Oña
 Onagawa
 Onancock
@@ -94084,8 +98135,11 @@ Oneta
 Oneux
 Onex
 Onezhsky District
+Ong Phra
 Onga
 Ongjin District
+Ongkharak
+Ongkharak District
 Ongles
 Onglières
 Ongole
@@ -94313,6 +98367,7 @@ Oprysheny
 Opsterland
 Optași-Măgura
 Optevoz
+Optom
 Opua
 Opunake
 Ópusztaszer
@@ -94375,6 +98430,7 @@ Oranjemund
 Oranjestad Oost
 Oranjestad West
 Oranzherei
+Oraphim
 Oras
 Orašje
 Orăștie
@@ -96142,6 +100198,75 @@ Ozyory
 Ozzano dell'Emilia
 Ozzano Monferrato
 Ozzero
+Pa Bon
+Pa Bon District
+Pa Bong
+Pa Chan
+Pa Ching
+Pa Daeng
+Pa Daet
+Pa Daet District
+Pa Deng
+Pa Fa
+Pa Faek
+Pa Hung
+Pa Kae Bo Hin
+Pa Kai
+Pa Kha
+Pa Kha Luang
+Pa Khai
+Pa Khat
+Pa Khlok
+Pa Klang
+Pa Ko
+Pa Ko Dam
+Pa Ku
+Pa Kum Ko
+Pa Laeo Luang
+Pa Lan
+Pa Lao
+Pa Maet
+Pa Mai Ngam
+Pa Makhap
+Pa Mamuang
+Pa Manao
+Pa Miang
+Pa Mok
+Pa Mok District
+Pa Mong
+Pa Nai
+Pa Nan
+Pa Ngae
+Pa Ngio
+Pa O
+Pa O Don Chai
+Pa Pae
+Pa Phai
+Pa Phayom
+Pa Phayom District
+Pa Phlu
+Pa Phutsa
+Pa Po
+Pa Pong
+Pa Rai
+Pa Rakam
+Pa Ron
+Pa Sak
+Pa Sakae
+Pa Sang
+Pa Sang District
+Pa Sao
+Pa Semat
+Pa Tan
+Pa Tio District
+Pa Tong
+Pa Tueng
+Pa Tum
+Pa Wai
+Pa Wai Nang
+Pa We
+Pa Yup Nai
+Pa-Ao
 Paal
 Paamiut
 Paars
@@ -96219,6 +100344,7 @@ Paczków
 Padada
 Padáň
 Padang
+Padang Besar
 Padang Lawas Regency
 Padang Panjang
 Padang Pariaman Regency
@@ -96261,6 +100387,7 @@ Padina
 Pădina
 Padingbüttel
 Padirac
+Pado
 Padornelo
 Padornelos
 Padoux
@@ -96290,8 +100417,10 @@ Padula
 Padules
 Paduli
 Pădureni
+Pae-Ra
 Paea
 Paekakariki
+Paen
 Paeroa
 Paes Landim
 Paesana
@@ -96349,6 +100478,7 @@ Pahiatua
 Pähl
 Pahlen
 Pahokee
+Pai District
 Pai Pedro
 Pai Penela
 Paial
@@ -96439,12 +100569,75 @@ Pajęczno County
 Pajeú do Piauí
 Pajevonys
 Pajovë
+Pak Bang
 Pak Beng District
+Pak Bong
+Pak Chaem
+Pak Chalui
+Pak Chan
+Pak Chom
+Pak Chom District
+Pak Chong
+Pak Chong District
+Pak Duk
+Pak Kang
+Pak Khao San
+Pak Khat
+Pak Khat District
+Pak Khlong
+Pak Khlong Bang Pla Kot
+Pak Khlong Phasi Charoen
+Pak Khom
+Pak Khwae
+Pak Kran
+Pak Kret
+Pak Kret District
+Pak Lo
+Pak Mak
+Pak Man
+Pak Nakhon
+Pak Nam
+Pak Nam Krasae
+Pak Nam Laem Sing
+Pak Nam Pho
+Pak Nam Pran
 Pak Ou District
+Pak Phanang
+Pak Phanang District
+Pak Phanang Fang Tawan Ok
+Pak Phanang Fang Tawan Tok
+Pak Phayun
+Pak Phayun District
+Pak Phli
+Pak Phli District
+Pak Phra
+Pak Phraek
+Pak Phriao
+Pak Phun
+Pak Puan
+Pak Raet
+Pak Ro
 Pak Sé District
 Pak Seng District
+Pak Song
+Pak Tako
+Pak Tha
+Pak Thale
+Pak Thang
+Pak Tho
+Pak Tho District
+Pak Thok
+Pak Thong Chai District
+Pak Tom
+Pak Trae
 Páka
+Paka Harang
 Pakan District
+Pakasai
+Pakham
+Pakham District
+Pakhiap
+Pakho
 Pakil
 Pakiri
 Pakkading District
@@ -96501,6 +100694,7 @@ Palaja
 Palamas
 Palaminy
 Palamós
+Palan
 Palana
 Palanadas
 Palanan
@@ -96595,6 +100789,8 @@ Palheiros
 Palhers
 Palhoça
 Páli
+Palian
+Palian District
 Paliano
 Palianychyntsi
 Palilula
@@ -96764,8 +100960,11 @@ Paluan
 Paludi
 Palúdzka
 Paluel
+Paluka Samo
+Paluru
 Paluzza
 Palzem
+Pam Phatthana
 Pama
 Pamandzi
 Pambak
@@ -96831,6 +101030,8 @@ Panambi
 Panambí
 Panamericano Municipality
 Panaon
+Panare
+Panare District
 Pănășești
 Panassac
 Pănătău
@@ -96878,6 +101079,16 @@ Panevežys District Municipality
 Panfilov District
 Panfilovo
 Panfyly
+Pang Hin Fon
+Pang Ku
+Pang Makha
+Pang Mapha
+Pang Mapha District
+Pang Mu
+Pang Sawan
+Pang Sila Thong District
+Pang Ta Wai
+Pang Wan
 Pangaio
 Pangandaran Regency
 Panganiban
@@ -96950,6 +101161,7 @@ Panschwitz-Kuckau
 Pansey
 Panské Dubenky
 Pantabangan
+Pantae
 Pantaivka Hromada
 Pantalej
 Pantaleón Dalence Province
@@ -96982,6 +101194,7 @@ Panyola
 Panzós
 Panzoult
 Panzweiler
+Pao
 Pão de Açúcar
 Pao de San Juan Bautista Municipality
 Paoay
@@ -97517,6 +101730,7 @@ Pasco Province
 Pasco Region
 Pascua Yaqui Reservation
 Pascualcobo
+Pase Yawo
 Pasečnice
 Paseka
 Paseky
@@ -97662,6 +101876,7 @@ Pásztori
 Pat
 Pata
 Patacamaya
+Patae
 Patagones Department
 Patagonia
 Pataias
@@ -97691,8 +101906,15 @@ Pateros
 Patersberg
 Patersdorf
 Paterson
+Pathio District
 Pathouphone District
+Pathum
+Pathum Rat District
+Pathum Ratchawongsa District
 Pathum Thani Province
+Pathum Wan
+Pathum Wan District
+Pathum Wapi
 Pati Regency
 Patía-Bordo
 Patiala
@@ -97711,6 +101933,7 @@ Pato Bragado
 Pato Branco
 Patokryje
 Patones
+Patong
 Patornay
 Patos
 Patos de Minas
@@ -97739,6 +101962,7 @@ Patterson
 Patterson Heights
 Patterson Springs
 Patterson Township
+Patthawi
 Patti
 Pattigham
 Patton
@@ -98360,6 +102584,7 @@ Pemiscot County
 Pemuco
 Pemzashen
 Pen Argyl
+Pen Suk
 Pena
 Pena Lobo
 Peña Municipality
@@ -99476,25 +103701,182 @@ Pfunds
 Pfungen
 Pfungstadt
 Pfyn
+Pha Bing
+Pha Bong
+Pha Chang Noi
+Pha Chuk
+Pha In Plaeng
+Pha Khao
+Pha Khao District
+Pha Lueat
+Pha Nam Yoi
+Pha Ngam
+Pha Noi
+Pha Nok Khao
 Pha Oudom District
+Pha Pang
+Pha Sam Yot
+Pha Sawoei
+Pha Sing
+Pha Suk
+Pha Tang
+Pha Thong
+Pha To
+Pha-Ngat
+Phachi
+Phachi District
+Phadung Mat
+Phaeng
+Phaeng Phuai
+Phaeng Yai
+Phaet
 Phaffans
+Phai
+Phai Chalueat
+Phai Chamsin
+Phai Dam Phatthana
+Phai Hu Chang
+Phai Khiao
+Phai Kho Don
+Phai Khwang
+Phai Kong Din
+Phai Ling
+Phai Lio
+Phai Lom
+Phai Luang
+Phai Phra
+Phai Rop
+Phai Sing
+Phai Tam
+Phai Tha Pho
+Phai Thon
+Phai Wong
+Phai Yai
+Phaibun
+Phaisali
+Phaisali District
+Phaisan
+Phak Hai
+Phak Hai District
+Phak Kha
+Phak Khuang
+Phak Mai
+Phak Pang
+Phak Phaeo
+Phak Than
+Phak Top
+Phak Waen
+Phakdi Chumphon District
+Phalan
 Phalempin
 Phalsbourg
+Phan Aen
+Phan Chali
+Phan Chana
+Phan District
+Phan Don
+Phan Dung
+Phan Lan
+Phan Na
+Phan Phrao
+Phan Sao
+Phan Suek
+Phan Thong
+Phan Thong District
+Phana
+Phana District
+Phana Nikhom
+Phanang Tung
+Phanao
+Phanat Nikhom
+Phanat Nikhom District
+Phang Daeng
+Phang Kan
+Phang Khen
+Phang Khon
+Phang Khon District
+Phang Khwang
+Phang La
 Phang Nga Province
+Phang Ngu
+Phang Rat
+Phang Thiam
+Phang Thui
+Phang Tru
+Phang Yang
 Phangyuel
+Phaniat
+Phanna
+Phanna Nikhom District
+Phanom
+Phanom District
+Phanom Dong Rak District
+Phanom Phrai
+Phanom Phrai District
+Phanom Rok
+Phanom Sarakham
+Phanom Sarakham District
+Phanom Set
+Phanom Thuan
+Phanom Thuan District
+Phanom Wang
+Phanthai Norasing
 Pharr
 Pharsalia
+Phasaeng
+Phasi Charoen District
+Phathai
+Phathai Rin
+Phato
+Phato District
+Phatong
 Phatthalung Province
+Phatthana Nikhom
+Phatthana Nikhom District
+Phawa
+Phawo
+Phawong
 Phaxay District
+Phaya Kaeo
+Phaya Khan
+Phaya Maen
+Phaya Mengrai District
+Phaya Thai District
+Phaya Wang
+Phaya Yen
+Phayakkhaphum Phisai District
 Phayao Province
+Phayom
+Phayu
+Phayu District
+Phayuha
+Phayuha Khiri District
+Phe
+Phek Yai
+Phela
 Phelps (town)
 Phelps (village)
 Phelps County
+Phen
+Phen District
 Phenix
+Phet Chomphu
+Phet Lakhon
 Phetchabun Province
 Phetchaburi Province
+Phia Ram
 Phiang District
+Phibun
+Phibun Mangsahan District
+Phibun Rak District
+Phichai
+Phichai District
+Phichit
 Phichit Province
+Phihan Daeng
+Phikun
+Phikun Ok
+Phikun Thong
 Philadelphia
 Philadelphia (town)
 Philadelphia (village)
@@ -99517,35 +103899,294 @@ Phillipston
 Philmont
 Philomath
 Philondenx
+Phimai
+Phimai District
+Phimai Nuea
+Phiman
+Phimonrat
+Phimpha
+Phimun
 Phine District
+Phing Phuai
 Phippsburg
+Phipun
+Phipun District
+Phit Phian
+Phithen
 Phitsanulok Province
+Phla
+Phlai
+Phlai Chumphon
+Phlai Wat
+Phlapphla
+Phlapphla Chai
+Phlapphla Chai District
 Phlin
+Phlio
+Phloi Waen
+Phlong Ta Iam
+Phlu Ta Luang
+Phlu Thuean
+Phluang
+Phluang Song Nang
+Phluang Thong
 Phnom Penh
+Pho
+Pho Chai
+Pho Chai District
+Pho Chon Kai
+Pho Daeng
+Pho En
+Pho Hak
+Pho Kao Ton
+Pho Klang
+Pho Krasang
+Pho Mak Khaeng
+Pho Ming
+Pho Muang Phan
+Pho Nang Dam Ok
+Pho Nang Dam Tok
+Pho Ngam
+Pho Phaisan
+Pho Phra
+Pho Phraya
+Pho Prachak
+Pho Prasat
+Pho Prathap Chang
+Pho Prathap Chang District
+Pho Rai Wan
+Pho Rang Nok
+Pho Sa
+Pho Sadet
+Pho Sai
+Pho Sai District
+Pho Sai Ngam
+Pho Sam Ton
+Pho Sangkho
+Pho Sao Han
+Pho Si
+Pho Si Samran
+Pho Si Sawang
+Pho Si Suwan District
+Pho Taeng
+Pho Tak
+Pho Tak District
+Pho Talat Kaeo
+Pho Thaen
+Pho Thale
+Pho Thale District
+Pho Thong
+Pho Thong District
+Pho Tru
+Pho Wong
+Pho Yai
 Phobji
+Phoem Phun Sap
 Phoenix
 Phoenix Islands Protected Area
 Phoenixville
+Phok Noi
+Phok Ruam
 Phokwane
+Phon
+Phon Bok
+Phon Chan
+Phon Charoen
+Phon Charoen District
+Phon District
+Phon Kha
+Phon Kho
+Phon Khrok
+Phon Khwao
+Phon Ko
+Phon Krang
+Phon Mueang
+Phon Mueang Noi
+Phon Na Kaeo District
+Phon Ngam
+Phon Phaeng
+Phon Phek
+Phon Phisai District
+Phon Sa
+Phon Sai
+Phon Sai District
+Phon Samran
+Phon Sawan
+Phon Sawan District
+Phon Sawang
+Phon Songkhram
+Phon Sung
+Phon Than
+Phon Thong
+Phon Thong District
+Phon Yang
+Phong
+Phong Pheng
+Phong Prasat
+Phong Sawai
+Phong Tuek
 Phongme
 Phongsaly District
 Phongsaly Province
 Phonhong District
 Phonthong District
 Phonxay District
+Phop Phra
+Phop Phra District
+Photharam
+Photharam District
 Phou Kout District
 Phoukhoune District
 Phouvong District
+Phra Achan
+Phra Bu
+Phra Kaeo
+Phra Khanong
+Phra Khanong District
+Phra Khanong Nuea
+Phra Khao
+Phra Klang Thung
+Phra Lao
+Phra Lap
+Phra Luang
+Phra Nakhon District
+Phra Nakhon Si Ayutthaya District
 Phra Nakhon Si Ayutthaya Province
+Phra Ngam
+Phra Non
+Phra Pathom Chedi
+Phra Phloeng
+Phra Phrom District
+Phra Phutthabat
+Phra Phutthabat District
+Phra Pradaeng District
+Phra Prathon
+Phra Samut Chedi District
+Phra Sao
+Phra Sing
+Phra Song
+Phra Thaen
+Phra Thong Kham District
+Phra Yuen
+Phra Yuen District
+Phrabat
+Phrabat Na Sing
+Phrabat Wang Tuang
+Phraborom Maharatchawang
+Phrachao
 Phrae Province
+Phraek Ha
+Phraek Nam Daeng
+Phraek Si Racha
+Phraeksa
+Phraeksa Mai
+Phrai
+Phrai Bueng
+Phrai Bueng District
+Phrai Khla
+Phrai Nok Yung
+Phrai Phatthana
+Phrai Wan
+Phrakhru
+Phran
+Phran Kratai
+Phran Kratai District
+Phrao District
+Phraphut
+Phrarak
+Phrasaeng District
+Phrathat
+Phrathat Bang Phuan
+Phrathat Khing Kaeng
+Phrathat Pha Daeng
+Phraya Banlue
+Phraya Thot
+Phrom Buri
+Phrom Buri District
+Phrom Khiri District
+Phrom Nimit
+Phrom Phiram
+Phrom Phiram District
+Phrom Sawan
+Phrom Sawat
+Phrom Thep
+Phrommalok
+Phrommani
+Phrommat
+Phron
+Phrong Akat
+Phrong Chorakhe
+Phrong Maduea
+Phru Din Na
+Phru Nai
+Phru Phi
+Phru Thai
+Phru Tiao
+Phu Din
+Phu Fa
+Phu Fai
+Phu Han
+Phu Ho
+Phu Kamyao District
+Phu Kha
+Phu Khae
+Phu Kham
+Phu Kham Chan
+Phu Khao Thong
+Phu Khiao District
+Phu Kradueng
+Phu Kradueng District
+Phu Krang
+Phu Laen Chang
+Phu Laen Kha
+Phu Lek
+Phu Luang
+Phu Luang District
+Phu Nam Yot
+Phu Ngoen
+Phu Nok Yung
+Phu Pha Man
+Phu Pha Man District
+Phu Pha Mok
+Phu Phan District
+Phu Phiang District
+Phu Po
+Phu Ruea District
+Phu Sang
+Phu Sang District
+Phu Sawan
+Phu Sing
+Phu Sing District
 Phú Thọ Province
+Phu Toei
+Phu Wiang
+Phu Wiang District
+Phu Wong
 Phú Yên Province
+Phuang Phromkhon
+Phue Hi
+Phue Yai
+Phueng Daet
+Phueng Ruang
 Phuentenchhu
 Phuentsholing
+Phuet Udom
 Phuket Province
+Phum
+Phum Kae
+Phum Riang
 Phumelela
+Phunphin
+Phunphin District
 Phuntsthothang
+Phut Lao
+Phutsa
+Phutthabat
+Phutthaisong
+Phutthaisong District
+Phutthamonthon District
 Pi
+Pi Lok
 Pia
 Piaam
 Piaçabuçu
@@ -99560,6 +104201,7 @@ Piagapo
 Piagge
 Piaggine
 Piamonte
+Pian
 Pian Camuno
 Pian di Sco
 Piana
@@ -99581,6 +104223,7 @@ Pianezza
 Pianezze
 Pianezzo
 Pianfei
+Piang Luang
 Pianico
 Pianiga
 Piano
@@ -100132,6 +104775,8 @@ Pinewood
 Piney
 Piney Township
 Pinezhsky District
+Ping Khong
+Ping Luang
 Pingelly
 Pingelshagen
 Pinggau
@@ -100505,6 +105150,7 @@ Pittston Township
 Pittstown
 Pittsylvania County
 Pittville
+Pitu Mudi
 Pitușca
 Pitvaros
 Pitzenberg
@@ -100531,6 +105177,7 @@ Piwniczna-Zdrój
 Pixley ka Seme
 Pixley Ka Seme
 Piy-Khemsky District
+Piya Mumang
 Pizarra
 Pizarral
 Pizarro
@@ -100550,6 +105197,11 @@ Pınarbaşı
 Pınarbaşı District
 Pınarhisar District
 Pınarkent
+Pla Ba
+Pla Khao
+Pla Lo
+Pla Pak
+Pla Pak District
 Plaaz
 Plabennec
 Placanica
@@ -100568,10 +105220,18 @@ Plácido Rosas
 Placilla de Peñuelas
 Placy
 Placy-Montaigu
+Plaeng Yao
+Plaeng Yao District
 Plaffeien
 Plage-les-Pins
 Plagne
 Plagnole
+Plai Bang
+Plai Klat
+Plai Na
+Plai Phongphang
+Plai Phraya
+Plai Phraya District
 Plaidt
 Plăieșii de Jos
 Plaigne
@@ -100608,6 +105268,8 @@ Plaisir
 Plaissan
 Plaistow
 Plaizac
+Plak Nu
+Plak Raet
 Plakhatianka
 Plakhino
 Plakhtiivka Hromada
@@ -100873,6 +105535,7 @@ Plevník-Drienové
 Pleyben
 Pleyber-Christ
 Pleystein
+Plian
 Pliboux
 Plichancourt
 Pliego
@@ -100924,6 +105587,8 @@ Plonéis
 Plonéour-Lanvern
 Plonévez-du-Faou
 Plonévez-Porzay
+Plong
+Plong Hoi
 Płoniawy-Bramura
 Płońsk
 Płońsk (rural gmina)
@@ -101036,6 +105701,8 @@ Plovdiv Province
 Plöwen
 Ployart-et-Vaurseine
 Plozévet
+Pluak Daeng
+Pluak Daeng District
 Plüderhausen
 Pludual
 Pluduno
@@ -101100,7 +105767,11 @@ Pniv
 Pňov-Předhradí
 Pňovany
 Pňovice
+Po
 Pó
+Po Daeng
+Po Phan
+Po Seng
 Poá
 Poanas
 Poarch Creek Indian Reservation
@@ -101765,6 +106436,8 @@ Polyustrovo
 Polzela
 Pölzig
 Polzow
+Pom Prap
+Pom Prap Sattru Phai District
 Pomacle
 Pomán
 Pomar de Valdivia
@@ -101865,6 +106538,7 @@ Pompton Lakes
 Pompu
 Pomster
 Pomy
+Pon
 Ponass Lake
 Ponatahi
 Ponazyrevsky District
@@ -101894,6 +106568,30 @@ Ponet-et-Saint-Auban
 Ponětovice
 Ponezhukay
 Ponferrada
+Pong
+Pong Daeng
+Pong District
+Pong Don
+Pong Hai
+Pong Kham
+Pong Nam Ron
+Pong Nam Ron District
+Pong Ngam
+Pong Noi
+Pong Nok
+Pong Pa Wai
+Pong Pha
+Pong Phrae
+Pong Pueai
+Pong Sa
+Pong Saen Thong
+Pong Sanuk
+Pong Ta Long
+Pong Tam
+Pong Tao
+Pong Thung
+Pong Yaeng
+Pong Yang Khok
 Ponga
 Pongaí
 Pongaroa
@@ -103044,11 +107742,19 @@ Prabuty
 Prace
 Práče
 Pracejovice
+Pracha Phatthana
+Pracha Suksan
+Pracha Thipat
+Prachaksinlapakhom District
+Prachan
+Prachantakham
+Prachantakham District
 Prachatice
 Prachatice District
 Prachinburi Province
 Prachovice
 Pracht
+Prachuap Khiri Khan
 Prachuap Khiri Khan Province
 Pracinha
 Prackenbach
@@ -103056,6 +107762,7 @@ Prackovice nad Labem
 Pracuúba
 Pradalunga
 Pradamano
+Pradang
 Prádanos de Bureba
 Prádanos de Ojeda
 Pradejón
@@ -103097,6 +107804,9 @@ Prados Redondos
 Pradosegar
 Prads
 Prads-Haute-Bléone
+Pradu
+Pradu Ngam
+Pradu Yuen
 Præstø
 Praga-Północ
 Praga-Południe
@@ -103189,6 +107899,9 @@ Prairiedale
 Prăjeni
 Prăjești
 Prajila
+Prakhon Chai
+Prakhon Chai District
+Prakop
 Prakovce
 Prakšice
 Pralboino
@@ -103204,15 +107917,27 @@ Prambachkirchen
 Prameny
 Pramet
 Pramollo
+Pran Buri
+Pran Buri District
 Pranchita
+Prang Ku District
+Prang Mu
+Prang Phle
 Prangey
 Prangins
+Pranit
 Pranles
 Pranzac
 Praratoud
 Prarolo
 Praroman
 Prarostino
+Prasat
+Prasat District
+Prasat Thanong
+Prasat Thong
+Prasat Yoe
+Prasatsit
 Prasco
 Prascorsano
 Prasdorf
@@ -103228,6 +107953,8 @@ Praslay
 Praslin
 Prašník
 Praso
+Prasong
+Prasuk
 Prasville
 Praszka
 Prat
@@ -103245,6 +107972,9 @@ Pratápolis
 Pratdip
 Pratella
 Prath
+Prathai
+Prathai District
+Prathat Bu
 Prati
 Pratiglione
 Pratinha
@@ -103271,6 +108001,8 @@ Pratteln
 Prättigau ̸ Davos Region
 Prattsburgh
 Prattsville
+Pratu Chai
+Pratu Pa
 Pratval
 Pratviel
 Pratz
@@ -103294,6 +108026,8 @@ Pravonín
 Pravotice
 Pravy
 Pravye Kumaki
+Prawet
+Prawet District
 Práxedis G. Guerrero
 Pray
 Praye
@@ -103452,6 +108186,7 @@ Přemyslovice
 Prenčov
 Prendeignes
 Préneron
+Preng
 Prenois
 Prénouvellon
 Prénovel
@@ -103713,6 +108448,7 @@ Priiskovy
 Priiutivka Hromada
 Prijedor
 Prijepolje
+Prik
 Prikamsky
 Příkazy
 Příkosice
@@ -104205,6 +108941,7 @@ Prrenjas
 Prrenjas Municipality
 Prša
 Prštice
+Pru Yai
 Pruchnik
 Pruchten
 Prudemanche
@@ -104213,6 +108950,8 @@ Prudentópolis
 Prudhomat
 Prudnik
 Prudnik County
+Prue
+Prue Yai
 Pruggern
 Prugiasco
 Prugnanes
@@ -104360,8 +109099,13 @@ Ptičie
 Ptrukša
 Ptuj
 Ptýrov
+Pu Rong
+Pu Yut
+Pua
+Pua District
 Pualas
 Puan Department
+Puan Phu
 Puberg
 Publier
 Publy
@@ -104412,6 +109156,11 @@ Pudozhsky District
 Pudtol
 Puducherry
 Puducherry (city)
+Puea
+Pueai
+Pueai Noi
+Pueai Noi District
+Pueai Yai
 Puebla
 Puebla de Alcocer
 Puebla de Alcollarín
@@ -104465,6 +109214,7 @@ Puéchabon
 Puéchoursi
 Puechredon
 Puegnago del Garda
+Puek Tian
 Puelches
 Puelén
 Puellemontier
@@ -104664,6 +109414,7 @@ Pukhova
 Pukkila
 Puklice
 Pula
+Pulakong
 Pulang Pisau Regency
 Pulankol
 Pulaski
@@ -104692,6 +109443,7 @@ Pullman
 Pully
 Pulney
 Pulnoy
+Pulo Puyo
 Pulpí
 Puls
 Pulsano
@@ -104977,6 +109729,7 @@ Puymiclan
 Puymirol
 Puymoyen
 Puynormand
+Puyo
 Puyol-Cazalet
 Puyoô
 Puyravault
@@ -104986,6 +109739,7 @@ Puyrolland
 Puységur
 Puysségur
 Puysserampion
+Puyu
 Puyvalador
 Puyvert
 Puzeaux
@@ -105614,6 +110368,8 @@ Quvasoy
 Quyichirchiq District
 Quyquyhó
 Ra Province
+Ra-ngae District
+Ra-Ngaeng
 Ra'annana
 Raa-Besenbek
 Raab
@@ -105642,6 +110398,7 @@ Rábahídvég
 Rábakecöl
 Rabakov
 Rabal
+Rabam
 Rabanales
 Rabanera
 Rabanera del Pinar
@@ -105715,6 +110472,7 @@ Rače-Fram
 Racécourt
 Račetice
 Racha Lechkhumi and Kvemo Svaneti
+Racha Thewa
 Rachanie
 Rachatniki
 Rachau
@@ -106015,7 +110773,9 @@ Ragusa
 Raguva
 Rahachou
 Rahachou District
+Rahaeng
 Rahal
+Rahan
 Rahart
 Rahat
 Rahay
@@ -106029,6 +110789,22 @@ Rahon
 Rahrbach
 Rahway
 Rai
+Rai Kao
+Rai Khi
+Rai Khing
+Rai Khok
+Rai Lak Thong
+Rai Mai
+Rai Mai Phatthana
+Rai Makham
+Rai Noi
+Rai Oi
+Rai Phatthana
+Rai Rot
+Rai Sathon
+Rai Si Suk
+Rai Som
+Rai Tai
 Rai Valley
 Raiano
 Raiatea
@@ -106166,7 +110942,13 @@ Ralls County
 Ralpho Township
 Ralsko
 Ralswiek
+Ram
+Ram Daeng
 Ram Hamdan
+Ram Inthra
+Ram Kaeo
+Ram Masak
+Ram Rat
 Ramacca
 Ramada
 Ramada e Caneças
@@ -106176,6 +110958,7 @@ Ramales de la Victoria
 Ramalhal
 Ramallah
 Ramallo Department
+Raman District
 Ramapo
 Ramapough Lenape Indian Nation
 Ramara
@@ -106256,6 +111039,7 @@ Ramous
 Ramousies
 Ramouzens
 Rampan
+Ramphan
 Rampieux
 Rampillon
 Ramplaankwartier
@@ -106345,6 +111129,15 @@ Råneå District
 Rânes
 Ranfurly
 Rang
+Rang Bua
+Rang Chorakhe
+Rang Ka Yai
+Rang Ngam
+Rang Nok
+Rang Phikun
+Rang Raeng
+Rang Sali
+Rang Wai
 Rang-du-Fliers
 Rangárvallahreppur
 Rangárþing eystra
@@ -106362,6 +111155,7 @@ Rangiroa
 Rangitikei District
 Rangpur
 Rangsdorf
+Rangsit
 Rangthangling
 Ranguevaux
 Ranhados
@@ -106384,6 +111178,8 @@ Ränneslöv
 Rannstedt
 Rannungen
 Ranong Province
+Ranot
+Ranot District
 Ránquil
 Ranrupt
 Rans
@@ -106417,11 +111213,13 @@ Ranzanico
 Ranzevelle
 Ranzières
 Ranzo
+Rao Ton Chan
 Raon-aux-Bois
 Raon-l'Étape
 Raon-lès-Leau
 Raon-sur-Plaine
 Raoued
+Rap Ro
 Rapa
 Rapa e Cadafaz
 Rapa Iti
@@ -106472,6 +111270,7 @@ Rarécourt
 Rari
 Raritan
 Raritan Township
+Raroeng
 Raron
 Rarotonga
 Ras Ain Rhamna
@@ -106515,6 +111314,7 @@ Rashivka
 Rashkovo ̸ Raşcov
 Rasht District
 Rashtivtsi
+Rasi Salai District
 Rašice
 Rasiguères
 Rašín
@@ -106533,6 +111333,7 @@ Rasmaadhoo
 Răsmirești
 Řásná
 Râșnov
+Rasom
 Rason City
 Rasony
 Rasony District
@@ -106570,12 +111371,23 @@ Rasun-Anterselva
 Rasura
 Raszków
 Raszyn
+Rat Burana
+Rat Burana District
+Rat Charoen
+Rat Niyom
+Rat Phatthana
+Rata Panyang
 Rataje
 Rataje nad Sázavou
 Ratanakiri Province
 Ratba
 Ratboř
 Ratchaburi Province
+Ratchakhram
+Ratchakrut
+Ratchasan District
+Ratchathani
+Ratchathewi District
 Ratekau
 Ratenelle
 Ratenice
@@ -106610,11 +111422,22 @@ Ratne Hromada
 Ratnovce
 Ratoeira
 Rátót
+Ratsada
+Ratsada District
+Ratsadon Phatthana
+Ratsathit
 Ratsch an der Weinstraße
 Ratschendorf
 Ratshausen
 Ratsiborivka
 Ratta
+Rattana Wari
+Rattanaburi
+Rattanaburi District
+Rattanawapi
+Rattanawapi District
+Rattaphum
+Rattaphum District
 Ratte
 Rattelsdorf
 Ratten
@@ -106718,14 +111541,20 @@ Raviscanina
 Ravna Gora
 Ravne na Koroškem
 Ravnsborg
+Rawa
 Rawa County
 Rawa Mazowiecka
 Rawa Mazowiecka (rural gmina)
+Rawaeng
+Rawai
 Rawalpindi
 Rawda
 Rawdatain
+Rawe
+Rawiang
 Rawicz
 Rawicz County
+Rawing
 Rawlins County
 Rawson
 Raxendorf
@@ -107553,6 +112382,9 @@ Rentweinsdorf
 Rentwertshausen
 Renty
 Rentz
+Renu
+Renu Nakhon District
+Renu Tai
 Renung
 Renville County
 Renwez
@@ -107917,6 +112749,7 @@ Rhuis
 Rhumspringe
 Rhyl
 Ri
+Ri Ko
 Ria-Sirach
 Riabiivka
 Riace
@@ -107944,6 +112777,7 @@ Riaillé
 Rialma
 Rialp
 Rialto
+Riang
 Riano
 Riaño
 Rianópolis
@@ -108358,6 +113192,13 @@ Rilly-Sainte-Syre
 Rilly-sur-Aisne
 Rilly-sur-Loire
 Rilly-sur-Vienne
+Rim
+Rim Khong
+Rim Kok
+Rim Nuea
+Rim Ping
+Rim Si Muang
+Rim Tai
 Rima
 Rima San Giuseppe
 Rimasco
@@ -109267,6 +114108,7 @@ Roè Volciano
 Roeland Park
 Roëllecourt
 Roelos de Sayago
+Roeng Rang
 Roerdalen
 Roermond
 Roes
@@ -109488,6 +114330,10 @@ Rolo
 Rolón
 Rolvsøy
 Rom
+Rom Klao
+Rom Mueang
+Rom Sai
+Rom Yen
 Roma
 Romagnano al Monte
 Romagnano Sesia
@@ -109628,6 +114474,9 @@ Römstedt
 Romuli
 Rómulo Gallegos Municipality
 Romulus
+Ron Phibun
+Ron Phibun District
+Ron Thong
 Rona
 Rona de Jos
 Rona de Sus
@@ -109686,6 +114535,21 @@ Rondonópolis
 Ronel
 Ronfe
 Ronfeugerai
+Rong
+Rong Chang
+Rong Chik
+Rong Fong
+Rong Hip
+Rong Kat
+Rong Kham
+Rong Kham District
+Rong Khe
+Rong Khem
+Rong Kho
+Rong Kwang
+Rong Kwang District
+Rong Mueang
+Rong Wua Daeng
 Rongelap
 Rongellen
 Rongères
@@ -109726,6 +114590,8 @@ Roosevelt County
 Roost-Warendin
 Roosteren
 Root
+Rop Mueang
+Rop Wiang
 Ropa
 Ropaži Municipality
 Ropcha
@@ -110521,10 +115387,14 @@ Rtishchevo
 Rtishchevsky District
 Rtyně nad Bílinou
 Rtyně v Podkrkonoší
+Ru Samilae
 Rua
+Rua Yai
 Ruacana
 Ruages
 Ruakaka
+Ruam Chit
+Ruam Thai Phatthana
 Ruan
 Ruan-sur-Egvonne
 Ruanes
@@ -110674,6 +115544,7 @@ Rüdtligen-Alchenflüh
 Rudy
 Rudziniec
 Rue
+Rueang
 Ruecas
 Rueda
 Rueda de Jalón
@@ -110692,6 +115563,9 @@ Ruepisa
 Ruesca
 Ruesga
 Ruesnes
+Rueso
+Rueso District
+Rueso Ok
 Rueun
 Rueyres
 Rueyres-les-Prés
@@ -110838,6 +115712,8 @@ Ründeroth
 Runding
 Rundu
 Rünenberg
+Rung
+Rung Rawi
 Rungis
 Runina
 Rüningen
@@ -111178,11 +116054,50 @@ S. Angelo
 S. Eustachio
 S. Saba
 S.N.P.J.
+Sa
 Sá
+Sa Bot
+Sa Bot District
+Sa Bua
+Sa Chaeng
+Sa Chorakhe
+Sa Kaeo
 Sa Kaeo Province
+Sa Kamphaeng Yai
+Sa Kathiam
+Sa Khu
+Sa Khut
+Sa Khwan
+Sa Ko
+Sa Krachom
+Sa Kruat
+Sa Long Ruea
 Sa Mouay District
+Sa Nok Kaeo
 Sa Pereira
+Sa Phang
+Sa Phang Lan
+Sa Phang Thong
+Sa Phatthana
+Sa Phon Thong
+Sa Phra
 Sa Pobla
+Sa Pradu
+Sa Saming
+Sa Si Liam
+Sa Si Mum
+Sa Takhian
+Sa Thale
+Sa Thong
+Sa Wan Phraya
+Sa Yai Som
+Sa Yao
+Sa-Ae
+Sa-At
+Sa-At Chai Si
+Sa-At Sombun
+Sa-Iap
+Sa-Nga Ban
 Sa'dah
 Sa'sa' Subdistrict
 Saâcy-sur-Marne
@@ -111232,6 +116147,8 @@ Saavedra
 Saavedra Department
 Saba
 Sabá
+Saba Yoi
+Saba Yoi District
 Sabaa Aiyoun
 Šabac
 Sabacheira
@@ -111240,6 +116157,7 @@ Sabadel-Lauzès
 Sabadell
 Sabadim
 Sabae
+Sabaeng
 Sabah
 Sabah Al Ahmad Sea City-Loloat Al-Khiran
 Sabah Al Salem
@@ -111251,6 +116169,7 @@ Sabail Raion
 Sabaillan
 Sabak Bernam District
 Sabalos
+Saban
 Sabana de la Mar
 Sabana de Torres
 Sabana Grande
@@ -111269,6 +116188,7 @@ Sabangan
 Săbăoani
 Sabará
 Sabaragamuwa Province
+Sabarang
 Sabarat
 Săbăreni
 Sabariz
@@ -111414,8 +116334,12 @@ Sadaclia
 Sadad Subdistrict
 Sadali
 Sadanga
+Sadao
+Sadao District
+Sadao Yai
 Sadarak District
 Sadat City
+Sadawa
 Saddina
 Saddle Brook Township
 Saddle Hills County
@@ -111424,6 +116348,7 @@ Saddle Rock
 Sadeillan
 Sádek
 Sadhora
+Sadiang
 Sadîc
 Sadillac
 Sadirac
@@ -111431,6 +116356,7 @@ Sadki
 Sadkowice
 Sadlinki
 Sado
+Sado Phong
 Sádočné
 Sadournin
 Sadov
@@ -111450,6 +116376,7 @@ Sadu
 Sady nad Torysou
 Sadzhavka
 Sadzhivka
+Sae-O
 Sæby
 Saedinenie
 Saegertown
@@ -111458,6 +116385,19 @@ Saelices
 Saelices de la Sal
 Saelices de Mayorga
 Saelices el Chico
+Saen Chat
+Saen Hai
+Saen Phan
+Saen Phu Dat
+Saen Saep
+Saen Suk
+Saen Thong
+Saen To
+Saen Tung
+Saeng Arun
+Saeng Badan
+Saeng Pha
+Saeng Sawang
 Saerbeck
 Saessolsheim
 Safaga
@@ -111549,8 +116489,12 @@ Ságvár
 Sagy
 Saha District
 Sahagún
+Sahakon Nikhom
 Saharna Nouă
 Săhăteni
+Sahathat
+Sahatsakhan
+Sahatsakhan District
 Sahel Chamali
 Sahel Oulad H'riz
 Sahel Selim
@@ -111573,7 +116517,40 @@ Sahunivka Hromada
 Sahurs
 Šahy
 Sai
+Sai Buri District
+Sai Daeng
+Sai Diao
+Sai Huai Kaeo
+Sai Kham Ho
+Sai Khao
+Sai Khueng
+Sai Kong Din
+Sai Kong Din Tai
 Sai Kung District
+Sai Lamphong
+Sai Ma
+Sai Mai
+Sai Mai District
+Sai Mak
+Sai Mun
+Sai Mun District
+Sai Na Wang
+Sai Ngam
+Sai Ngam District
+Sai Noi
+Sai Noi District
+Sai Ra
+Sai Rong Khon
+Sai Sopha
+Sai Taku
+Sai Thai
+Sai Thong
+Sai Thong Watthana District
+Sai Yai
+Sai Yoi
+Sai Yok
+Sai Yok District
+Sai-O
 Saibai Island
 Saicourt
 Saïda
@@ -115606,17 +120583,28 @@ Sajóvámos
 Sajóvelezd
 Sajtoskál
 Sajur
+Sak Lek
+Sak Lek District
+Sak Long
+Sak Ngam
 Saka
 Sakado
 Sakae
+Sakae Krang
+Sakae Phrong
+Sakae Rap
+Sakae Rat
+Sakae Sam
 Sakahogi
 Sakai
 Sakaide
 Sakaiminato
 Sakakah
 Sakaki
+Sakam
 Sakarçäge District
 Sakarya Province
+Sakat
 Sakata
 Sakawa
 Sakegawa
@@ -115628,6 +120616,12 @@ Sakhivshchyna
 Sakhnin
 Sakhnivtsi Hromada
 Sakhnovshchyna Hromada
+Sakho Bon
+Sakho Tai
+Sakhon
+Sakhrai
+Sakhrai District
+Sakhu
 Saki Municipality
 Šakiai
 Šakiai District Municipality
@@ -115635,6 +120629,8 @@ Sakiet Eddaïer
 Sakiet Ezzit
 Sakiet Sidi Youssef
 Sakmarsky District
+Sako
+Sakom
 Sakon Nakhon Province
 Sakow District
 Saksahan Hromada
@@ -115652,6 +120648,7 @@ Saky
 Säkylä
 Sakyna
 Sal
+Sala
 Šaľa
 Sala Baganza
 Sala Biellese
@@ -115661,10 +120658,22 @@ Sala Capriasca ̸ Bidogno ̸ Corticiasca Condominium
 Sala Capriasca ̸ Vaglio ̸ Lugaggia Condominium
 Sala Comacina
 Sala Consilina
+Sala Daeng
+Sala Dan
 Šaľa District
+Sala Khao
+Sala Khru
+Sala Klang
+Sala Lai
+Sala Lamduan
+Sala Loi
+Sala Mai
 Sala Monferrato
 Sala Municipality
 Sala Parish
+Sala Ri Thai
+Sala Thammasop
+Sala Ya
 Sălacea
 Salacgrīva
 Salach
@@ -115674,6 +120683,9 @@ Saladero Mariano Cabal
 Saladillo Department
 Saladin Governorate
 Saladoblanco
+Salaeng
+Salaeng Phan
+Salaeng Thon
 Salagle District
 Salagnac
 Salagnon
@@ -115682,6 +120694,7 @@ Salair
 Salairka
 Salaise-sur-Sanne
 Sălaj County
+Salak Dai
 Salakas
 Salam
 Salam Masr City
@@ -115963,6 +120976,7 @@ Saloá
 Salobral
 Salobre
 Salobreña
+Salok Bat
 Salomé
 Salomó
 Salomvár
@@ -116027,12 +121041,14 @@ Saltukova
 Saltvik
 Saltville
 Saltykova
+Saluang
 Saluda
 Saluda County
 Saludecio
 Saludes de Castroponce
 Salug
 Saluggia
+Salui
 Salussola
 Saluzzo
 Salva
@@ -116102,13 +121118,61 @@ Salzland District
 Salzuit
 Salzwedel
 Salzweg
+Sam
+Sam Bandit
+Sam Chai District
+Sam Chuk
+Sam Chuk District
+Sam Kha
+Sam Khok
+Sam Khok District
+Sam Khwai Phueak
+Sam Ko
+Sam Krathai
+Sam Marong
+Sam Mueang
+Sam Muen
+Sam Ngam
+Sam Ngam District
+Sam Ngam Tha Bot
+Sam Ngao
+Sam Ngao District
+Sam Phan Ta
+Sam Phaniang
+Sam Phi Nong
+Sam Phong
+Sam Phran
+Sam Phran District
+Sam Phrao
+Sam Phraya
+Sam Phuang
+Sam Roi Yot
+Sam Roi Yot District
+Sam Ruean
+Sam Sen Nai
+Sam Sen Nok
+Sam Suan
+Sam Sung District
+Sam Tambon
+Sam Thai
+Sam Tum
+Sam Wa Tawan Ok
+Sam Wa Tawan Tok
+Sam Waeng
+Sam Yaek
+Sam Yang
 Sama
 Šamac
 Samacá
 Samadet
+Samae Dam
+Samae San
 Samahil
+Samai
 Samaiões
 Samaipata
+Samakkhi
+Samakkhi Phatthana
 Samakkhixay District
 Samal
 Șamalia
@@ -116186,6 +121250,9 @@ Samerberg
 Samerey
 Samern
 Sames
+Samet
+Samet Nuea
+Samet Tai
 Samhorodok
 Samhorodok Hromada
 Samiajij Miawpukek
@@ -116193,16 +121260,32 @@ Samiilove
 Samil
 Samir de los Caños
 Samkhar
+Samko
+Samko District
 Sammarçolles
 Sammeron
 Sammichele di Bari
 Sammu
+Samnak Bok
+Samnak Kham
+Samnak Khun Nen
+Samnak Taeo
+Samnak Takhro
+Samnak Thon
+Samnak Thong
 Samnanger
 Samnaun
 Samo
+Samo Khae
+Samo Khon
+Samo Phlue
+Samo Thong
 Samobor
 Sámod
 Samodães
+Samoeng District
+Samoeng Nuea
+Samoeng Tai
 Samoëns
 Samões
 Samognat
@@ -116231,10 +121314,16 @@ Sampaio
 Sampaloc
 Sampang Regency
 Sampans
+Sampathuan
 Samper de Calanda
 Samper del Salz
 Sampeyre
+Samphan
 Samphanh District
+Samphanthawong
+Samphanthawong District
+Samphao Lom
+Samphao Lun
 Samphelling
 Sampierdarena
 Sampigny
@@ -116248,7 +121337,24 @@ Sampués
 Sampur
 Sampursky District
 Sampzon
+Samran
+Samran Rat
+Samran Tai
 Samrang
+Samre
+Samrit
+Samrong
+Samrong Chai
+Samrong District
+Samrong Klang
+Samrong Mai
+Samrong Nuea
+Samrong Phlan
+Samrong Prasat
+Samrong Ta Chen
+Samrong Tai
+Samrong Thap
+Samrong Thap District
 Samsat District
 Samšín
 Samšina
@@ -116274,9 +121380,11 @@ Samukawa
 Samukh District
 Samuran
 Samushyn
+Samut
 Samut Prakan Province
 Samut Sakhon Province
 Samut Songkhram Province
+San
 San Adrián
 San Adrián de Juarros
 San Adrián del Valle
@@ -116434,6 +121542,9 @@ San Cebrián de Mudá
 San Cesareo
 San Cesario di Lecce
 San Cesario sul Panaro
+San Chao Kai To
+San Chao Rong Thong
+San Chaopho Suea
 San Chirico Nuovo
 San Chirico Raparo
 San Cibrao das Viñas
@@ -116487,6 +121598,7 @@ San Diego de la Unión
 San Diego Municipality
 San Dimas
 San Dionisio
+San Don Kaeo
 San Donà di Piave
 San Donaci
 San Donato di Lecce
@@ -116828,6 +121940,10 @@ San Julian
 San Julián
 San Justo
 San Justo de la Vega
+San Kamphaeng
+San Kamphaeng District
+San Khong
+San Klang
 San Lawrenz
 San Lázaro
 San Lazzaro di Savena
@@ -116879,6 +121995,9 @@ San Luis Province
 San Luis Río Colorado
 San Luis Talpa
 San Lupo
+San Mahaphon
+San Makha
+San Makhet
 San Mamés de Burgos
 San Mamés de Campos
 San Mango d'Aquino
@@ -117025,6 +122144,7 @@ San Millán de Yécora
 San Miniato
 San Morales
 San Muñoz
+San Na Meng
 San Narciso
 San Nazario
 San Nazzaro
@@ -117050,6 +122170,11 @@ San Nicolò d'Arcidano
 San Nicolò di Comelico
 San Nicolò Gerrei
 San Onofre
+San Pa Muang
+San Pa Pao
+San Pa Tong
+San Pa Tong District
+San Pa Yang
 San Pablo
 San Pablo de Borbur
 San Pablo de Huacareta
@@ -117133,6 +122258,9 @@ San Pedro Zacapa
 San Pelayo
 San Pelayo de Guareña
 San Pellegrino Terme
+San Phak Wan
+San Phisuea
+San Phranet
 San Pier d'Isonzo
 San Pier Niceto
 San Piero a Sieve
@@ -117167,6 +122295,7 @@ San Polo d'Enza
 San Polo dei Cavalieri
 San Polo di Piave
 San Polo Matese
+San Pong
 San Ponso
 San Possidonio
 San Potito Sannitico
@@ -117174,6 +122303,7 @@ San Potito Ultra
 San Prisco
 San Procopio
 San Prospero
+San Pu Loei
 San Quintin
 San Quirico
 San Quirico d'Orcia
@@ -117213,6 +122343,12 @@ San Rosendo
 San Rufo
 San Saba County
 San Sadurniño
+San Sai
+San Sai District
+San Sai Luang
+San Sai Ngam
+San Sai Noi
+San Sali
 San Salvador
 San Salvador de Jujuy
 San Salvador Department
@@ -117253,6 +122389,7 @@ San Telmo
 San Teodoro
 San Tirso de Abres
 San Tomaso Agordino
+San Ton Mue
 San Torcuato
 San Valentino in Abruzzo Citeriore
 San Valentino Torio
@@ -117320,10 +122457,18 @@ Sanaga
 Sanagasta
 Sanagochi
 Sanahcat
+Sanam Bin
+Sanam Chaeng
+Sanam Chai
+Sanam Chai Khet District
+Sanam Chan
+Sanam Khli
+Sanam Yae
 Sanamxay District
 Sanandaj
 Sânandrei
 Sananduva
+Sanap Thuep
 Sanarate
 Sanarica
 Sanarposi
@@ -117472,6 +122617,21 @@ Sanfins Lamoso Codessos
 Sanford
 Sanfrè
 Sanfront
+Sang
+Sang Kho
+Sang Khom
+Sang Khom District
+Sang Ko
+Sang Mek
+Sang Ming
+Sang Nang Khao
+Sang Nok Tha
+Sang Paen
+Sang Pi
+Sang Saeng
+Sang Sok
+Sang Tho
+Sang Tho Noi
 Sangalhos
 Sangamon County
 Sangano
@@ -117495,6 +122655,11 @@ Sangiano
 Sangihe Islands Regency
 Sangineto
 Sangju
+Sangkha
+Sangkha District
+Sangkhla Buri District
+Sangkhom
+Sangkhom District
 Sango
 Sangonera la Seca
 Sangre Grande Region
@@ -117507,6 +122672,7 @@ Sanguinheira
 Sangvor District
 Sanharó
 Sanhoane
+Sanian
 Saniat Berguig
 Sanibel
 Sanikiluaq
@@ -117520,6 +122686,7 @@ Sanjo
 Sanjurge
 Sankelmark
 Sankertown
+Sankhaburi District
 Sankt Alban
 Sankt Aldegund
 Sankt Andreasberg
@@ -117555,6 +122722,7 @@ Sânmărtin
 Sânmihaiu Almașului
 Sânmihaiu de Câmpie
 Sânmihaiu Român
+Sanna Nong Mai
 Sannat
 Sannazzaro de' Burgondi
 Sannerville
@@ -117567,9 +122735,12 @@ Sanniki
 Sannohe
 Sannois
 Sano
+Sano Loi
 Sanok
 Sanok (rural gmina)
 Sanok County
+Sanom
+Sanom District
 Sanous
 Šanov
 Sânpaul
@@ -118404,9 +123575,13 @@ Santervás de Campos
 Santervás de la Vega
 Santes
 Santeuil
+Santha
 Santhià
 Santi Cosima e Damiano
+Santi Khiri
 Santi Pietro e Paolo
+Santi Suk
+Santi Suk District
 Santiago
 Santiago Atitlán
 Santiago Chimaltenango
@@ -118630,6 +123805,7 @@ Santo-Pietro-di-Venaco
 Santoche
 Santok
 Santol
+Santom
 Santomenna
 Santomera
 Santon Parish
@@ -118665,6 +123841,7 @@ Santurce
 Santurde de Rioja
 Santurdejo
 Santurtzi
+Sanuan
 Sanuki
 Sanvensa
 Sanvic
@@ -118727,6 +123904,8 @@ São Caetano de Odivelas
 São Caetano do Sul
 São Carlos
 São Carlos do Ivaí
+Sao Cha-Ngok
+Sao Chingcha
 São Cipriano
 São Cipriano e Vil de Souto
 São Clemente
@@ -118746,6 +123925,7 @@ São Cristóvão do Douro
 São Cristóvão do Sul
 São Cristóvão e São Lourenço
 São Desidério
+Sao Diao
 São Dinis
 São Domingos
 São Domingos das Dores
@@ -118821,6 +124001,10 @@ São Gonçalo dos Campos
 São Gotardo
 São Gregório
 São Gregório e Santa Justa
+Sao Hae
+Sao Hai
+Sao Hai District
+Sao Hin
 São Jacinto
 São Jerônimo
 São Jerônimo da Serra
@@ -118993,6 +124177,7 @@ São Julião de Palácios e Deilão
 São Julião do Tojal
 São Julião dos Passos
 São Julião e Silva
+Sao Lao
 São Lázaro
 São Leopoldo
 São Lourenço
@@ -119176,6 +124361,7 @@ São Pedro e Santiago
 São Pedro Fins
 São Pedro Velho
 São Pedro, Lapas e Ribeira Branca
+Sao Phao
 São Rafael
 São Raimundo do Doca Bezerra
 São Raimundo dos Mangabeiras
@@ -119186,6 +124372,7 @@ São Romão de Aregos
 São Romão de Arões
 São Romão de Neiva
 São Romão e Santiago
+Sao Rong Hai
 São Roque
 São Roque de Minas
 São Roque do Canaã
@@ -119234,6 +124421,9 @@ São Simão de Gouveia
 São Simão de Litém
 São Teotónio
 São Thomé das Letras
+Sao Thong
+Sao Thong Chai
+Sao Thong Hin
 São Tiago
 São Tiago de Riba-Ul
 São Tiago dos Velhos (Santiago dos Velhos)
@@ -119280,6 +124470,23 @@ Saoû
 Saouaf
 Sap
 Sáp
+Sap Anan
+Sap Champa
+Sap Mai Daeng
+Sap Makrut
+Sap Noi
+Sap Phaiwan
+Sap Phraya
+Sap Phutsa
+Sap Poep
+Sap Samo Thot
+Sap Sanun
+Sap Si Thong
+Sap Sombun
+Sap Takhian
+Sap Thawi
+Sap Yai
+Sap Yai District
 Sap-en-Auge
 Sapa-Sapa
 Sapad
@@ -119296,7 +124503,17 @@ Sapé
 Sapeaçu
 Sapeira
 Sapezal
+Saphan Hin
+Saphan Krai
+Saphan Mai Kaen
+Saphan Song
+Saphan Sung
+Saphan Sung District
+Saphan Thai
 Şaphane District
+Saphli
+Saphue
+Saphung
 Sapian
 Sapiãos
 Sapignicourt
@@ -119317,6 +124534,8 @@ Sapozhkovsky District
 Sapozhok
 Sappada
 Sappemeer
+Sapphaya
+Sapphaya District
 Sapporo
 Sapri
 Șaptebani
@@ -119333,11 +124552,13 @@ Sara Province
 Sarabetsu
 Saraburi Province
 Saracena
+Sarachit
 Saracinesco
 Saragash
 Sarah
 Sarah Baartman
 Sarahs District
+Sarai
 Saraiu
 Saraj
 Sarajevo
@@ -119362,6 +124583,8 @@ Sarangani
 Sarangani Province
 Saranpaul
 Saransk
+Saraphi
+Saraphi District
 Sarapiquí
 Sarapuí
 Sarapul
@@ -119469,6 +124692,7 @@ Sáric
 Sarichioi
 Sariego
 Sariegos
+Sarika
 Sarikei District
 Sarilhos Grandes
 Sarilhos Pequenos
@@ -119753,10 +124977,17 @@ Sátão Municipality
 Satbaev
 Satchinez
 Satellite Beach
+Sateng
+Sateng Nok
 Säter District
 Säter Municipality
 Saterland
 Satevó
+Sathan
+Sathing Mo
+Sathing Phra District
+Sathon
+Sathon District
 Sathonay-Camp
 Sathonay-Village
 Satigny
@@ -119767,7 +124998,9 @@ Sativasur
 Satka
 Satkinsky District
 Satnica Đakovačka
+Sato
 Satolas-et-Bonce
+Saton
 Sátoraljaújhely
 Sátoraljaújhely District
 Sátorhely
@@ -119780,6 +125013,8 @@ Satriano di Lucania
 Satrup
 Satsuma
 Satsumasendai
+Sattahip
+Sattahip District
 Satte
 Satteins
 Sattel
@@ -119789,6 +125024,8 @@ Satu Mare
 Satu Mare County
 Satuba
 Satubinha
+Satuek
+Satuek District
 Satul Nou
 Satulung
 Satun Province
@@ -120133,10 +125370,27 @@ Savyntsi Hromada
 Savyolki District
 Savyolovsky District
 Savyon
+Sawaeng Ha
+Sawaeng Ha District
 Sawahlunto
+Sawai
+Sawai Chik
+Sawang
+Sawang Arom
+Sawang Arom District
+Sawang Daen Din
+Sawang Daen Din District
+Sawang Wirawong District
+Sawankhalok District
 Sawari
+Sawat
+Sawathi
+Sawi
+Sawi District
+Sawiat
 Sawin
 Sawmills
+Sawo
 Sawran Subdistrict
 Sawyer County
 Sax
@@ -121064,6 +126318,7 @@ Sé
 Sé e São Lourenço
 Sé e São Pedro
 Sé Nova
+Se Pet
 Sé, Santa Maria e Meixedo
 Sea Bright
 Sea Cliff
@@ -121471,6 +126726,8 @@ Sejny (rural gmina)
 Sejny County
 Sejong
 Sejřek
+Seka
+Seka District
 Sekadau Regency
 Sekeřice
 Sekhukhune
@@ -121488,6 +126745,7 @@ Selama Sub-District
 Selangau District
 Selangor
 Seľany
+Selaphum District
 Selargius
 Șelaru
 Selas
@@ -121634,6 +126892,8 @@ Selzen
 Selzthal
 Sem
 Sem-Peixe
+Sema
+Sema Yai
 Sémalens
 Semallé
 Semanín
@@ -121750,7 +127010,9 @@ Sen-Kyoyolsky
 Sena
 Seňa
 Sena de Luna
+Sena District
 Sena Madureira
+Sena Nikhom
 Sénac
 Senada
 Senador Alexandre Costa
@@ -121779,6 +127041,8 @@ Senaki Municipality
 Senale-San Felice
 Senales
 Senan
+Senangkhanikhom
+Senangkhanikhom District
 Senantes
 Senarclens
 Senard
@@ -123304,7 +128568,94 @@ Shyrokyi Hromada
 Shyrokyi Luh
 Shyrokyne
 Shyshaky Hromada
+Si
+Si Banphot
+Si Banphot District
+Si Bua Ban
+Si Bua Thong
+Si Bun Rueang
+Si Bun Rueang District
+Si Chiang Mai District
+Si Chomphu
+Si Chomphu District
+Si Chula
+Si Don Chai
+Si Don Mun
+Si Dong Yen
 Si Hsaien Ben Abderrahmane
+Si Ka-Ang
+Si Kaeo
+Si Kai
+Si Kan
+Si Kham
+Si Khiri Mat
+Si Khit
+Si Khlong
+Si Khot
+Si Lako
+Si Liam
+Si Lom
+Si Maha Phot
+Si Maha Phot District
+Si Mahapho
+Si Mahosot District
+Si Mongkhon
+Si Mueang Chum
+Si Mueang Mai District
+Si Muen
+Si Mum
+Si Nakhon
+Si Nakhon District
+Si Narong
+Si Narong District
+Si Nawa
+Si Non Ngam
+Si Phanom Mat
+Si Phaya
+Si Phirom
+Si Pho Ngoen
+Si Phran
+Si Phraya
+Si Phum
+Si Prachan
+Si Prachan District
+Si Racha
+Si Racha District
+Si Rattana District
+Si Roi
+Si Sa-At
+Si Sakhon
+Si Sakhon District
+Si Samran
+Si Samrong District
+Si Satchanalai
+Si Satchanalai District
+Si Sawang
+Si Sawat District
+Si Somdet
+Si Somdet District
+Si Song Rak
+Si Songkhram
+Si Songkhram District
+Si Suk
+Si Suk Samran
+Si Sunthon
+Si Surat
+Si Suttho
+Si Than
+Si That
+Si That District
+Si Thep
+Si Thep District
+Si Thoi
+Si Tia
+Si Trakun
+Si Wichai
+Si Wichian
+Si Wilai
+Si Wilai District
+Si Yaek Mahanak
+Si-O
 Siachoque
 Siak Regency
 Siamaggiore
@@ -123312,6 +128663,7 @@ Siamanna
 Sianky
 Siano
 Sianów
+Siao
 Siapiccia
 Siarrouy
 Siasi
@@ -123369,6 +128721,8 @@ Sichamps
 Sichelnstein
 Sichelreuth
 Sichevița
+Sichon
+Sichon District
 Sichtigvor
 Sichuan
 Sicienko
@@ -123385,6 +128739,8 @@ Siculiana
 Šid
 Šíd
 Sid Zouine
+Sida
+Sida District
 Sidabravas
 Sidama Region
 Sidamon
@@ -123767,11 +129123,15 @@ Sijbekarspel
 Sijsele
 Sijunjung Regency
 Sik District
+Sikao District
 Sikasso Region
 Sikátor
 Sikatuna
 Sikenica
 Sikenička
+Sikhio
+Sikhio District
+Sikhoraphum District
 Sikhottabong District
 Sikinos
 Sikirevci
@@ -123784,6 +129144,13 @@ Siklósnagyfalu
 Sikrab
 Sikyonia
 Sil
+Sila
+Sila Dan
+Sila Laeng
+Sila Lat District
+Sila Loi
+Sila Phet
+Sila Thip
 Siladice
 Silago
 Šilale
@@ -124011,6 +129378,8 @@ Sims
 Simsbury
 Simunjan District
 Simunul
+Sin Charoen
+Sin Pun
 Sin-le-Noble
 Sinaai
 Sinaballaj
@@ -124055,13 +129424,17 @@ Sines
 Sines Municipality
 Sinești
 Sineu
+Sing
+Sing Buri Province
 Sing District
-Singburi Province
+Sing Khok
 Singen
 Sîngera
 Sîngerei
 Sîngerei District
 Sîngereii Noi
+Singhanakhon District
+Singhanat
 Singhofen
 Singkawang
 Singles
@@ -124070,6 +129443,7 @@ Singleyrac
 Singly
 Singra
 Singrist
+Singto Thong
 Singuilucan
 Singureni
 Sini
@@ -124204,6 +129578,7 @@ Siouville-Hague
 Sioux City
 Sioux County
 Sioux Falls
+Sip Et Sok
 Sipacapa
 Sipacate
 Sipalay
@@ -124257,8 +129632,10 @@ Sireți
 Sireuil
 Șiria
 Sirignano
+Sirindhorn District
 Șirineasa
 Sirinhaém
+Sirirat
 Siriri
 Siris
 Siriu
@@ -124290,6 +129667,11 @@ Siruma
 Şirvan District
 Širvintos
 Širvintos District Municipality
+Sisa Chorakhe Noi
+Sisa Chorakhe Yai
+Sisa Ket
+Sisa Krabue
+Sisa Thong
 Sisak
 Sisak-Moslavina County
 Sisaket Province
@@ -124994,6 +130376,8 @@ Snowy Valleys
 Snyder County
 Snyder Township
 Snydertown
+So
+So Phisai District
 Soacha
 Soajo
 Soalhães
@@ -125131,10 +130515,18 @@ Sodus (town)
 Sodus (village)
 Sodus Point
 Soe
+Soe Phloe
 Soeda
 Soeima
 Soeira
 Soeira, Fresulfe e Mofreita
+Soem
+Soem Khwa
+Soem Klang
+Soem Ngam District
+Soem Sai
+Soeng Sang
+Soeng Sang District
 Soengas
 Soerendonk
 Soest
@@ -125185,6 +130577,12 @@ Sohodol
 Sohren
 Söhrewald
 Sohrschied
+Soi
+Soi Dao District
+Soi Fa
+Soi Lakhon
+Soi Phrao
+Soi Thong
 Soiano del Lago
 Soignies
 Soignolles
@@ -125213,6 +130611,10 @@ Soja
 Sojovice
 Söjtör
 Sojuela
+Sok Kam
+Sok Nok Ten
+Sok Pla Duk
+Sok Saeng
 Soka
 Sokal Hromada
 Sokcho
@@ -125468,6 +130870,11 @@ Solyanka
 Solymár
 Solza
 Som
+Som Pho
+Som Poi
+Som Sa-At
+Som Sanuk
+Som Yiam
 Soma
 Soma District
 Somâa
@@ -125487,6 +130894,10 @@ Sombrin
 Sombrio
 Sombrun
 Șomcuta Mare
+Somdet
+Somdet Chaophraya
+Somdet Charoen
+Somdet District
 Someo
 Somerdale
 Someren
@@ -125612,6 +131023,7 @@ Sompolno
 Sompt
 Sompuis
 Somsois
+Somwang
 Son
 Son en Breugel
 Sơn La Province
@@ -125645,7 +131057,24 @@ Søndre Land
 Søndre Nordstrand
 Sondrio
 Soneja
+Song
+Song Chan
+Song Dao
+Song Dao District
 Song District
+Song Hong
+Song Khanong
+Song Khlong
+Song Khon
+Song Khwae
+Song Khwae District
+Song Phi Nong
+Song Phi Nong District
+Song Phraek
+Song Plueai
+Song Pueai
+Song Salueng
+Song Yang
 Songavazzo
 Songdalen
 Songeons
@@ -125656,6 +131085,7 @@ Songkhone District
 Songo
 Songo-La Maya
 Songpa District
+Songtham
 Songy
 Soni
 Sonico
@@ -125721,6 +131151,19 @@ Soorts-Hossegor
 Soos
 Sooß
 Sop Bao District
+Sop Bong
+Sop Khong
+Sop Mae Kha
+Sop Moei
+Sop Moei District
+Sop Pat
+Sop Poeng
+Sop Pong
+Sop Prap
+Sop Prap District
+Sop Sai
+Sop Tia
+Sop Tui
 Șopârlița
 Sopchoppy
 Sopeira
@@ -125944,6 +131387,7 @@ Sotaquirá
 Sotará
 Sotenäs Municipality
 Sotés
+Sothon
 Sotillo
 Sotillo de la Adrada
 Sotillo de la Ribera
@@ -126803,6 +132247,7 @@ Sri Aman District
 Sri Jayawardenepura Kotte
 Sribne Hromada
 Srinagar
+Srinagarindra District
 Srňacie
 Srní
 Srnín
@@ -128502,14 +133947,38 @@ Stylida
 Stynsgea
 Styopanovo
 Styopantsevo
+Su-Ngai Kolok
+Su-ngai Kolok District
+Su-Ngai Padi
+Su-ngai Padi District
 Suaita
 Sual
 Suan
+Suan Chik
+Suan Chitlada
+Suan Dok
+Suan Dokmai
+Suan Khan
+Suan Khuean
+Suan Kluai
+Suan Luang
+Suan Luang District
+Suan Miang
+Suan Mon
+Suan Pan
+Suan Phrik
+Suan Phrik Thai
+Suan Phueng
+Suan Phueng District
+Suan Som
+Suan Taeng
+Suan Yai
 Suances
 Suaqui Grande
 Suarce
 Suardi
 Suárez
+Suat
 Suatu
 Suaucourt-et-Pisseloup
 Suaux
@@ -128709,11 +134178,17 @@ Sudzal
 Sudzha
 Sudzhansky District
 Sue
+Suea Hok
+Suea Hueng
+Suea Kok
+Suea Thao
+Sueang Khao
 Sueca
 Sueglio
 Suellacabras
 Suelli
 Suello
+Sueng
 Suera ̸ Sueras
 Suesca
 Suessem
@@ -128776,6 +134251,13 @@ Suisun City
 Suita
 Suizy-le-Franc
 Šuja
+Suk Duean Ha
+Suk Kasem
+Suk Phaibun
+Suk Ruethai
+Suk Samran
+Suk Samran District
+Suk Sawat
 Sukabumi
 Sukabumi Regency
 Sukagawa
@@ -128788,6 +134270,8 @@ Sukhaya Vyazovka
 Sükhbaatar Province
 Sukhinichi
 Sukhinichsky District
+Sukhirin
+Sukhirin District
 Sukhobuzimsky District
 Sukhodol
 Sukhodolsk
@@ -128797,6 +134281,7 @@ Sukhopolova Hromada
 Sukhorichchia
 Sukhostav
 Sukhothai Province
+Sukhothai Thani
 Sukhoverkhiv
 Sukhovolia
 Sukhoy Donets
@@ -128945,6 +134430,7 @@ Sulzfelder Forst
 Sulzheim
 Sulztal an der Weinstraße
 Sulzthal
+Sum Sao
 Suma
 Sumacàrcer
 Šumadija District
@@ -129050,6 +134536,10 @@ Sundre
 Sundsøre
 Sundsvall Municipality
 Sunflower County
+Sung Men
+Sung Men District
+Sung Noen
+Sung Noen District
 Sungai Kebun
 Sungai Kedayan
 Sungai Penuh
@@ -129119,9 +134609,11 @@ Suraia
 Surakarta
 Surallah
 Suran Subdistrict
+Suranari
 Surani
 Surano
 Šurany
+Surasak
 Surat
 Surat Thani Province
 Suratá
@@ -129172,6 +134664,7 @@ Surigao del Sur Province
 Surin
 Surin Province
 Suris
+Suriyawong
 Surjoux
 Surjoux-Lhopital
 Sürmene District
@@ -129247,6 +134740,7 @@ Susleni
 Susli
 Suslovo
 Susmiou
+Suso
 Susono
 Susqueda
 Susquehanna County
@@ -129286,6 +134780,7 @@ Sutera
 Sutersville
 Sutești
 Șuțești
+Suthep
 Sutherland
 Sutherlin
 Suthfeld
@@ -129326,7 +134821,12 @@ Suwâld
 Suwałki
 Suwałki County
 Suwanee
+Suwannakham
+Suwannakhuha
+Suwannakhuha District
+Suwannaphum District
 Suwannee County
+Suwari
 Suwayda District
 Suwayda Governorate
 Suwayda Subdistrict
@@ -129984,8 +135484,37 @@ Szydłowiec County
 Szydłowo
 Szypliszki
 T'Boli
+Ta
+Ta Bao
+Ta Chan
+Ta Chi
+Ta Chong
+Ta Kae
+Ta Kao
+Ta Ket
+Ta Khan
+Ta Khit
+Ta Khong
+Ta Kon
+Ta Kong
+Ta Kuk
+Ta Lan
+Ta Lang Nai
+Ta Luang
+Ta Miang
+Ta Noen
 Ta Oy District
+Ta Pek
+Ta Pha Mok
+Ta Phraya
+Ta Phraya District
+Ta Sang
+Ta Sao
+Ta Sit
+Ta Ut
+Ta Wang
 Ta Xbiex
+Ta-Ong
 Taal
 Taarbæk
 Taarstedt
@@ -129994,6 +135523,8 @@ Tab District
 Taba
 Tabaco
 Tabaçô
+Tabaek Ban
+Tabai
 Tabaí
 Tabaille-Usquain
 Tabajd
@@ -130030,11 +135561,13 @@ Tabernas
 Taberno
 Tabia
 Tabina
+Tabing
 Tabio
 Tabira
 Tabiteua North
 Tabiteuea South
 Tablelands
+Tabo
 Taboada
 Taboadela
 Taboão da Serra
@@ -130130,10 +135663,12 @@ Tadjourah Region
 Tadmur District
 Tadmur Subdistrict
 Tadó
+Tadop
 Tadotsu
 Tadousse-Ussau
 Tadrart
 Tadten
+Tae
 Taean County
 Tafajight
 Tafalla
@@ -130310,7 +135845,13 @@ Tajná
 Tajoura
 Tajov
 Tajueco
+Tak Bai District
+Tak Daet
+Tak Fa
+Tak Fa District
+Tak Ok
 Tak Province
+Tak Tok
 Taka
 Takachiho
 Takácsi
@@ -130327,6 +135868,7 @@ Takamatsu
 Takamori
 Takanabe
 Takanezawa
+Takang
 Takanini
 Takaoka
 Takapu Valley
@@ -130338,6 +135880,7 @@ Takasago
 Takasaki
 Takashima
 Takasu
+Takat Ngao
 Takate
 Takatori
 Takatsuki
@@ -130349,9 +135892,23 @@ Takéo Province
 Taketa
 Taketomi
 Taketoyo
+Takha
+Takhian
+Takhian Luean
+Takhian Pom
+Takhian Ram
+Takhian Thong
+Takhian Tia
+Takhli
+Takhli District
+Takhop
+Takhram En
+Takhria
+Takhro
 Takhta
 Takhtamukay
 Takhtamukaysky District
+Takhu
 Taki
 Takikawa
 Takinoue
@@ -130359,15 +135916,25 @@ Takizawa
 Takko
 Taklai
 Tako
+Tako Taphi
+Tako Thong
 Takoma Park
 Tákos
 Takoucht
+Takrop
 Taksony
 Taktabáj
 Taktaharkány
 Taktakenéz
 Taktaszada
 Taku
+Takua Pa
+Takua Pa District
+Takua Thung District
+Takuk Nuea
+Takuk Tai
+Takut
+Takut Rai
 Tal'ar Gharbi
 Tala
 Tala Cañada
@@ -130401,7 +135968,25 @@ Talas
 Talas District
 Talas Region
 Talasani
+Talat
+Talat Bang Khen
+Talat Chaiya
+Talat Chinda
+Talat Khwan
+Talat Krathum Baen
+Talat Kriap
+Talat Kruat
+Talat Luang
+Talat Mai
 Talat N'Yaaqoub
+Talat Noi
+Talat Nuea
+Talat Phlu
+Talat Pho
+Talat Raeng
+Talat Sai
+Talat Yai
+Talat Yot
 Talaud Islands Regency
 Talaván
 Talavera
@@ -130444,6 +136029,7 @@ Talhas
 Talheim
 Talhinhas
 Talhinhas e Bagueixe
+Tali-Ai
 Taliabu Island Regency
 Taliaferro County
 Taliándörögd
@@ -130453,6 +136039,9 @@ Talilit
 Tálín
 Talin Municipality
 Talin Subdistrict
+Taling Chan
+Taling Chan District
+Taling Ngam
 Talinka
 Taliouine
 Taliouine Assaka
@@ -130510,6 +136099,11 @@ Talne Hromada
 Talniki
 Talnique
 Talo
+Talo Due Raman
+Talo Halo
+Talo Kapo
+Talo Krai Thong
+Talo Maena
 Talofofo
 Taloire
 Talon
@@ -130522,7 +136116,14 @@ Tălpaș
 Talsi Municipality
 Talsint
 Taltal
+Talu Ban
+Talu Bo
 Talugtug
+Taluk
+Taluk Du
+Taluk Klang Thung
+Taluk Thiam
+Talung
 Talus-Saint-Prix
 Talusan
 Taluyers
@@ -130530,8 +136131,10 @@ Talveila
 Taly
 Talyany
 Talzemt
+Tam Malang
 Tama
 Tama County
+Tama Yung
 Tămădău Mare
 Tamaguert
 Tamahere
@@ -130625,11 +136228,15 @@ Tamm
 Tammela
 Tammin
 Tâmna
+Tamnak Tham
+Tamnan
 Tamnay-en-Bazois
 Tamniès
 Tamoi
 Tamokra
 Tamorot
+Tamot
+Tamot District
 Tampa
 Tampa Heights
 Tampa Seminole Indian Reservation
@@ -130642,15 +136249,27 @@ Tampin District
 Tampines
 Tamra
 Tamri
+Tamru
 Tamsalu
 Tamsaout
 Tamsweg
 Tamsweg District
+Tamtua
 Tamuín
 Tamuning
 Tamura
 Tamurejo
 Tamworth
+Tamyae
+Tan Chum
+Tan Diao
+Tan En
+Tan Kon
+Tan Lian
+Tan Noeng
+Tan Sum
+Tan Sum District
+Tan Tia
 Tan-Tan
 Tan-Tan Province
 Tana
@@ -130669,6 +136288,7 @@ Tanah Merah District
 Tanakajd
 Tanalt
 Tanant
+Tanao Si
 Tanaqoub
 Tanaron
 Tănăsoaia
@@ -130698,6 +136318,7 @@ Tandridge
 Tandubas
 Taney County
 Tang
+Tang Chai
 Tangalan
 Tangamandapio
 Tangancícuaro
@@ -130727,6 +136348,8 @@ Tanguá
 Tangub
 Tanhaçu
 Tanhuato
+Tani
+Tanim
 Tanimbar Islands Regency
 Taninges
 Tanintharyi Region
@@ -130760,8 +136383,12 @@ Tannières
 Tannois
 Tannroda
 Tano
+Tano Maero
+Tano Pute
 Tanoba
 Tanohata
+Tanot
+Tanot Duan
 Tanougha
 Tanourdi
 Tanque d'Arca
@@ -130785,8 +136412,19 @@ Tanum Municipality
 Tanus
 Tanvald
 Tanville
+Tanyong Chueng Nga
+Tanyong Dalo
+Tanyong Limo
+Tanyong Lulo
+Tanyong Mat
+Tanyong Po
 Tanza
 Tanzac
+Tao Hai
+Tao Lao
+Tao Ngoi
+Tao Ngoi District
+Tao Pun
 Taormina
 Taos County
 Taoughilt
@@ -130800,12 +136438,16 @@ Taouyalte
 Taouzint
 Taoyuan City
 Táp
+Tap Khlo
+Tap Tao
 Tapa
 Tapacarí
 Tapacarí Province
+Tapaen
 Tapalhuaca
 Tapalpa
 Tapalqué
+Tapan
 Tapanui
 Taparuba
 Tapaz
@@ -130817,6 +136459,9 @@ Tapes
 Ťapešovo
 Tapéus
 Tapfheim
+Taphan Hin
+Taphan Hin District
+Taphong
 Tapia
 Tapia de Casariego
 Tapin Regency
@@ -130833,9 +136478,11 @@ Tapiraí
 Tapiramutá
 Tapiratiba
 Táplánszentkereszt
+Tapo Yo
 Tapogliano
 Tapolca
 Tapolca District
+Tapon
 Taponas
 Taponnat-Fleurignac
 Tapora
@@ -131121,6 +136768,7 @@ Tașca
 Täsch
 Tasco
 Tasdorf
+Tase
 Taseyevsky District
 Tash-Komur
 Tashan Hromada
@@ -131181,6 +136829,10 @@ Taşucu
 Tašuľa
 Taszár
 Tát
+Tat Kha
+Tat Khwan
+Tat Kloi
+Tat Thong
 Tata
 Tata District
 Tata Province
@@ -132290,18 +137942,240 @@ Teyssieu
 Teyssode
 Tezontepec de Aldama
 Tezze sul Brenta
+Tha Ang
+Tha Bo
+Tha Bo District
+Tha Bo Songkhram
+Tha Bon
+Tha Bua
+Tha Bunmi
+Tha Chai
+Tha Chalom
+Tha Chalung
+Tha Champa
+Tha Champi
+Tha Chamuang
+Tha Chana
+Tha Chana District
+Tha Chang
+Tha Chang District
+Tha Chang Khlong
+Tha Chanuan
+Tha Chao Sanuk
+Tha Chi
+Tha Chin
+Tha Chumphon
+Tha Daeng
+Tha Di
+Tha Din Daeng
+Tha Din Dam
+Tha Dok Kham
+Tha Duang
+Tha Duea
+Tha Faek
+Tha Hai
+Tha Hat Yao
+Tha Hin
+Tha Hin Ngom
+Tha I Bun
+Tha It
+Tha Kamcham
+Tha Kasem
+Tha Kat
+Tha Kha
+Tha Khae
+Tha Khai
+Tha Kham
+Tha Khamin
+Tha Khanan
+Tha Khanon
+Tha Khantho
+Tha Khantho District
+Tha Khanun
+Tha Khao Plueak
+Tha Khlo
+Tha Kho
+Tha Khoei
+Tha Khoi
+Tha Khon Yang
+Tha Khuen
+Tha Khum Ngoen
+Tha Khun Ram
+Tha Ko
+Tha Kok Daeng
+Tha Kon
+Tha Krachap
+Tha Kradan
+Tha Krasoem
+Tha Kum
+Tha Kup
+Tha Kwang
+Tha Kwian
+Tha Laeng
+Tha Lat
+Tha Lat Khao
+Tha Li
+Tha Li District
+Tha Lo
+Tha Luang
+Tha Luang District
+Tha Maduea
+Tha Mae Lop
+Tha Mafai Wan
+Tha Mafueang
+Tha Mai
+Tha Mai District
+Tha Mai Ruak
+Tha Maka
+Tha Maka District
+Tha Makham
+Tha Makhuea
+Tha Manao
+Tha Maphla
+Tha Maprang
+Tha Miram
+Tha Mo Sai
+Tha Muang
+Tha Muang District
+Tha Mueang
+Tha Muen Ram
+Tha Na
+Tha Nam
+Tha Nam Oi
+Tha Nang
+Tha Nang Naeo
+Tha Nang Ngam
+Tha Nao
+Tha Nat
+Tha Ngam
+Tha Ngio
+Tha Nuea
+Tha Pha
+Tha Pha Pum
+Tha Phae
+Tha Phae District
+Tha Phaya
+Tha Phi Liang
+Tha Phlap
+Tha Pho
+Tha Pho Chai
+Tha Pho Si
+Tha Phon
+Tha Phra
+Tha Phraya
+Tha Phrik
+Tha Phutsa
+Tha Pla
+Tha Pla District
+Tha Pla Duk
+Tha Pracha
+Tha Pradu
+Tha Rae
+Tha Raeng
+Tha Raeng Ok
+Tha Rahat
+Tha Rai
+Tha Rap
+Tha Rong
+Tha Rong Chang
+Tha Ruea
+Tha Ruea District
+Tha Sa-An
+Tha Sa-At
+Tha Saba
+Tha Sae
+Tha Sae District
+Tha Sai
+Tha Sai Luat
+Tha Sak
+Tha Sakae
+Tha Sala
+Tha Sala District
+Tha Samet
+Tha Sao
+Tha Sap
+Tha Sathon
+Tha Sawan
+Tha Sawang
+Tha Sen
+Tha Sida
+Tha Sila
+Tha Som
+Tha Song Khon
+Tha Song Yang
+Tha Song Yang District
+Tha Sopsao
+Tha Sung
+Tha Sut
+Tha Takhro
+Tha Takiap
+Tha Takiap District
+Tha Tako
+Tha Tako District
+Tha Talat
+Tha Tamnak
+Tha Tan
+Tha Taphao
 Tha Teng District
+Tha Than
+Tha Thewawong
+Tha Thong
+Tha Thong Lang
+Tha Thong Mai
+Tha Thung Luang
+Tha To
+Tha Ton
+Tha Tum
+Tha Tum District
+Tha Uthae
+Tha Uthen
+Tha Uthen District
+Tha Wang
+Tha Wang Pha
+Tha Wang Pha District
+Tha Wang Phrao
+Tha Wang Tan
+Tha Wang Thong
+Tha Wasukri
+Tha Wat
+Tha Wung
+Tha Wung District
+Tha Yaek
+Tha Yai
+Tha Yang
+Tha Yang District
+Tha Yiam
+Tha Yu
 Thaas
 Thaba Chweu
 Thabazimbi
 Thabo Mofutsanyana
 Thaden
+Thai Ban
+Thai Ban Mai
+Thai Buri
+Thai Chana Suek
+Thai Chang
+Thai Charoen
+Thai Charoen District
+Thai Dong
+Thai Hat
+Thai Ko
+Thai Mueang
+Thai Mueang District
+Thai Nam
 Thái Nguyên Province
+Thai Samakkhi
+Thai Samphao
+Thai Talat
+Thai Thung
+Thai Udom
 Thaims
 Thaining
 Thairé
 Thairy
 Thaix
+Thaiyawat
 Thakandhoo
 Thakhek District
 Thal
@@ -132310,7 +138184,13 @@ Thal-Drulingen
 Thal-Marmoutier
 Thala
 Thalamy
+Thalang District
 Thale
+Thale Bok
+Thale Chup Son
+Thale Noi
+Thale Sap
+Thale Wang Wat
 Thaleischweiler-Fröschen
 Thalfang
 Thalgau
@@ -132323,28 +138203,115 @@ Thallichtenberg
 Thallwitz
 Thalmassing
 Thalmässing
+Thalung Lek
 Thalwenden
 Thalwil
+Tham
+Tham Chalong
+Tham Charoen
+Tham Khae
+Tham Kratai Thong
+Tham Lot
+Tham Nam Phut
+Tham Phannara
+Tham Phannara District
+Tham Rong
+Tham Sing
+Tham Singkhon
+Tham Thalu
+Tham Thong Lang
+Tham Wua Daeng
+Tham Yai
+Thamenchai
 Thames
 Thames-Coromandel District
+Thammamun
+Thammarong
+Thammasala
+Thammasen
+Thamnop
+Thamo
 Thamsbrück
+Than Kasem
+Than Khiri
+Than Lalot
+Than Nam Thip
+Than Prasat
+Than Tawan
+Than Thahan
+Than Thong
+Than To
+Than To District
 Thandorf
 Thane
 Thanet
+Thang Chang
+Thang Khwang
+Thang Klang
+Thang Kwian
+Thang Phra
+Thang Phun
 Thangrong
 Thanh Hóa Province
 Thành phố Hồ Chí Minh
 Thanheim
+Thani
 Thann
 Thannenkirch
 Thannhausen
+Thanon
+Thanon Hak
+Thanon Khat
+Thanon Nakhon Chaisi
+Thanon Phaya Thai
+Thanon Phet Buri
+Thanon Pho
+Thanon Yai
+Thanong
 Thanstein
+Thanu
 Thanvillé
+Thanya
+Thanyaburi District
 Thaon
 Thaon-les-Vosges
+Thap Chang
+Thap Khang
+Thap Khlo District
+Thap Krit
+Thap Krit Tai
+Thap Kung
+Thap Kwang
+Thap Luang
+Thap Ma
+Thap Man
+Thap Nam
+Thap Phrik
+Thap Phueng
+Thap Prik
+Thap Put
+Thap Put District
+Thap Rang
+Thap Rat
+Thap Sadet
+Thap Sai
+Thap Sakae
+Thap Sakae District
+Thap Sawai
+Thap Tai
+Thap Thai
+Thap Than
+Thap Than District
+Thap Thiang
+Thap Ti Lek
+Thap Ya
+Thap Yai
+Thap Yai Chiang
+Thap Yao
 Thapangthong District
 Thaphabath District
 Thaphalanxay District
+Thapthan
 Thar Es-Souk
 Tharaka-Nithi County
 Tharandt
@@ -132354,12 +138321,26 @@ Tharon-Plage
 Tharot
 Tharsis
 Thasos
+That
+That Choeng Chum
+That Naweng
+That Noi
+That Phanom
+That Phanom District
+That Phanom Nuea
+That Thong
 Thatcher
 Thathom District
 Thaumiers
 Thaur
 Thauron
 Thauvenay
+Thawat Buri
+Thawat Buri District
+Thawi Watthana
+Thawi Watthana District
+Thawon
+Thawon Watthana
 Thaya
 Thayer County
 Thayngen
@@ -132409,6 +138390,7 @@ Thembisile Hani
 Théméricourt
 Thémines
 Théminettes
+Then Mi
 Thénac
 Thenailles
 Thenay
@@ -132428,6 +138410,20 @@ Thénouville
 Theobald
 Theobroma
 Théoule-sur-Mer
+Thep Khiri
+Thep Krasattri
+Thep Mongkhon
+Thep Nakhon
+Thep Nimit
+Thep Raksa
+Thep Sadet
+Thep Sathit District
+Thepha
+Thepha District
+Thephalai
+Thepharak
+Thepharak District
+Theppharat
 Therdonne
 Theres
 Theresa (town)
@@ -132460,6 +138456,7 @@ Theux
 Thevet-Saint-Julien
 Théville
 Thevray
+Thewarat
 They-sous-Montfort
 They-sous-Vaudemont
 Theys
@@ -132472,8 +138469,10 @@ Thézey-Saint-Martin
 Théziers
 Thézillieu
 Thézy-Glimont
+Thi Wang
 Thiais
 Thiancourt
+Thiang Thae
 Thianges
 Thiant
 Thiat
@@ -132581,9 +138580,14 @@ Thizay
 Thizy
 Thizy-les-Bourgs
 Thlopthlocco Tribal Town
+Tho Thae
 Thoard
 Thoddoo
 Thodure
+Thoen Buri
+Thoen District
+Thoeng District
+Thoet Thai
 Thoigné
 Thoiras
 Thoiras-Corbès
@@ -132604,6 +138608,7 @@ Tholen
 Tholey
 Thollet
 Thollon-les-Mémises
+Thom Na Ngam
 Thomas
 Thomas County
 Thomasberg
@@ -132620,9 +138625,24 @@ Thompson Township
 Thompson-Nicola Regional District
 Thompsontown
 Thomson
+Thon Buri District
+Thon Hong
+Thon Na Lap
+Thon Samo
 Thonac
 Thônes
 Thônex
+Thong Chai
+Thong Chai Nuea
+Thong En
+Thong Fa
+Thong Lamchiak
+Thong Lang
+Thong Mongkhon
+Thong Nian
+Thong Pha Phum District
+Thong Saen Khan District
+Thong Thani
 Thongmyxay District
 Thonhausen
 Thonnance-lès-Joinville
@@ -132706,6 +138726,7 @@ Throop
 Thừa Thiên Huế Province
 Thubœuf
 Thue et Mue
+Thuem Tong
 Thuès-Entre-Valls
 Thueyts
 Thugny-Trugny
@@ -132738,6 +138759,126 @@ Thunder Bay District
 Thunderbolt
 Thundorf
 Thundorf in Unterfranken
+Thung
+Thung Arun
+Thung Bencha
+Thung Bu Lang
+Thung Bua
+Thung Chai
+Thung Chang
+Thung Chang District
+Thung Changhan
+Thung Chomphu
+Thung Fai
+Thung Fon
+Thung Fon District
+Thung Hong
+Thung Hua
+Thung Hua Chang
+Thung Hua Chang District
+Thung Kae
+Thung Kha
+Thung Kha Ngok
+Thung Kha Wat
+Thung Khaeo
+Thung Khai
+Thung Khamin
+Thung Khanan
+Thung Khao Luang
+Thung Khao Luang District
+Thung Khao Phuang
+Thung Khla
+Thung Khli
+Thung Khlong
+Thung Khok
+Thung Khru
+Thung Khru District
+Thung Khwai Kin
+Thung Khwang
+Thung Khwao
+Thung Kluai
+Thung Ko
+Thung Kong
+Thung Krabam
+Thung Krabue
+Thung Kracho
+Thung Kraphang Hom
+Thung Kratat Phatthana
+Thung Kraten
+Thung Kula
+Thung Kwao
+Thung Laeng
+Thung Lan
+Thung Luang
+Thung Lui Lai
+Thung Luk Nok
+Thung Mahacharoen
+Thung Mahamek
+Thung Maphrao
+Thung Mo
+Thung Mon
+Thung Na Lao
+Thung Na Ngam
+Thung Na Thai
+Thung Nang Ok
+Thung Nao
+Thung Nari
+Thung Ngam
+Thung Noi
+Thung Nonsi
+Thung Nui
+Thung Pha Suk
+Thung Phaya Thai
+Thung Phla
+Thung Pho
+Thung Phong
+Thung Phra
+Thung Phraya
+Thung Phueng
+Thung Pi
+Thung Pong
+Thung Prang
+Thung Rang
+Thung Raya
+Thung Ruang Thong
+Thung Saeng Thong
+Thung Sai
+Thung Sai Thong
+Thung Saliam
+Thung Saliam District
+Thung Samo
+Thung Sang
+Thung Satok
+Thung Sawang
+Thung Si
+Thung Si Mueang
+Thung Si Thong
+Thung Si Udom District
+Thung Song
+Thung Song District
+Thung Song Hong
+Thung Sukhla
+Thung Tae
+Thung Takhrai
+Thung Tako District
+Thung Tam Sao
+Thung Tao
+Thung Tao Mai
+Thung Tha Chang
+Thung Thoeng
+Thung Thong
+Thung To
+Thung Tom
+Thung Wa
+Thung Wa District
+Thung Wang
+Thung Wat Don
+Thung Yai
+Thung Yai District
+Thung Yang
+Thung Yang Daeng District
+Thung Yang Mueang
+Thung Yao
 Thüngen
 Thüngersheim
 Thunstetten
@@ -133377,6 +139518,7 @@ Tkibuli Municipality
 Tkon
 Tkvarcheli
 Tkvarcheli District
+Tlae
 Tláhuac
 Tlahualilo
 Tlahuelilpan
@@ -133411,6 +139553,8 @@ Tmaň
 Tnine Aday
 Tnine Amellou
 Tó
+To Deng
+To Lang
 Toa Alta
 Toa Baja
 Tóalmás
@@ -133536,6 +139680,7 @@ Tojice
 Tojikobod District
 Tojo Una-Una Regency
 Tök
+Tok Phrom
 Tokachi subprefecture
 Tokai
 Tokaj
@@ -133723,6 +139868,15 @@ Tomylivka
 Tomzhangtshen
 Ton
 Tôň
+Ton Mamuang
+Ton Maphrao
+Ton Pao
+Ton Pho
+Ton Phueng
+Ton Tan
+Ton Thong
+Ton Thong Chai
+Ton Yuan
 Tona
 Tonacatepeque
 Tonadico
@@ -133748,6 +139902,8 @@ Tone
 Tonengo
 Tonezza del Cimone
 Tong District
+Tong Khop
+Tong Pit
 Tonganoxie
 Tongareva
 Tongelre
@@ -133789,6 +139945,7 @@ Toon
 Toos
 Tootsi
 Toowoomba
+Top Hu
 Tópaga
 Topaipí
 Topakkaya
@@ -134611,6 +140768,7 @@ Tragöß
 Tragöß-St. Katharein
 Tragwein
 Trahütten
+Trai Trueng
 Traian
 Traian Vuia
 Traiba
@@ -134636,6 +140794,9 @@ Traize
 Trajano de Moraes
 Trakai
 Trakai District Municipality
+Trakan
+Trakan Phuet Phon District
+Trakat
 Trakiya District
 Trakovice
 Traktorozavodsky District
@@ -134652,6 +140813,7 @@ Tramatza
 Tramayes
 Trambileno
 Trambly
+Tramdom
 Tramecourt
 Tramelan
 Tramelan-Dessous
@@ -134686,6 +140848,7 @@ Trancrainville
 Trandeiras
 Tranekær
 Tranemo Municipality
+Trang
 Trang Province
 Trangé
 Trani
@@ -134708,6 +140871,7 @@ Transylvania County
 Tranzault
 Traona
 Trapani
+Trapiang Tia
 Traplice
 Trappe
 Trappenkamp
@@ -134718,6 +140882,7 @@ Trarego Viggiona
 Traryd District
 Trasacco
 Trasadingen
+Trasaeng
 Trasaghis
 Trashiding
 Trashigang
@@ -135214,6 +141379,7 @@ Trhové Sviny
 Trhovište
 Trhový Štěpánov
 Tři Dvory
+Tri Narong
 Tři Sekery
 Tři Studně
 Triac-Lautrait
@@ -135384,6 +141550,7 @@ Trnovec Bartolovečki
 Trnovec nad Váhom
 Trnovo
 Trnovska Vas
+Tro Bon
 Troarn
 Tröbitz
 Tröbnitz
@@ -135452,9 +141619,11 @@ Trojanovice
 Trojanów
 Trojes
 Trojovice
+Trok Nong
 Trokavec
 Trollenhagen
 Trollhättan Municipality
+Trom Phrai
 Tromarey
 Trombas
 Tromborn
@@ -135464,6 +141633,7 @@ Tromello
 Tromøy
 Troms
 Tromsø
+Tron District
 Troncens
 Tronchón
 Tronchoy
@@ -135571,6 +141741,7 @@ Trstice
 Trstín
 Třtěnice
 Třtice
+Truat
 Trub
 Trubchevsk
 Trubchevsky District
@@ -135593,6 +141764,7 @@ Trudobelikovsky
 Trudoliub
 Trudolyubovka
 Trudovoye
+Truem
 Trugny
 Truinas
 Trujillanos
@@ -135981,6 +142153,9 @@ Tulunan
 Tulungagung Regency
 Tulunsky District
 Tulwitz
+Tum
+Tum Tai
+Tum Yai
 Tuma
 Tumanny
 Tumanyan Municipality
@@ -136324,6 +142499,7 @@ Tuy
 Tuyên Quang Province
 Tuymazinsky District
 Tuymazy
+Tuyong
 Tuzaguet
 Tuzantla
 Tuzara
@@ -136492,11 +142668,16 @@ Tzintzuntzan
 Tzitzio
 Tzoran-Kadima
 Tzucacab
+U Lok
+U Taphao
+U Thong
+U Thong District
 Ua Huka
 Ua Pou
 Uaboe District
 Ualikhanov District
 Ualikhanovo
+Uan
 Uarini
 Uasin Gishu County
 Uauá
@@ -136547,6 +142728,7 @@ Ubľa
 Ublo
 Úboč
 Uboldo
+Ubolratana District
 Ubon Ratchathani Province
 Ubraye
 Úbrež
@@ -136607,6 +142789,7 @@ Uda-Clocociov
 Udachne Hromada
 Udachnoye
 Udachny
+Udai Charoen
 Udaipur
 Udanin
 Udavské
@@ -136634,6 +142817,9 @@ Udligenswil
 Udmurtia
 Udobnaya
 Údol
+Udom Phon
+Udom Sap
+Udom Thanya
 Udomelsky District
 Udomlya
 Udon Thani Province
@@ -136643,6 +142829,7 @@ Udrytsk
 Udvar
 Udvari
 Udzorong
+Ueat Yai
 Ueberstorf
 Ueberstrass
 Uebeschi
@@ -136955,6 +143142,7 @@ Ulmet
 Ulmi
 Ulmiz
 Ulmu
+Ulok Si Muen
 Uloža
 Ulricehamn Municipality
 Ulrichen
@@ -137001,7 +143189,9 @@ Ulysses
 Ulysses Township
 Ulytau District
 Ulytau Region
+Um Chan
 Um Hegoul
+Um Mao
 Um Qudeer
 Umag
 Umaji
@@ -137056,9 +143246,12 @@ Ummendorf
 Ummern
 Ummerstadt
 uMngeni
+Umong
 Úmonín
 Umpeau
 Umpferstedt
+Umphang
+Umphang District
 Ümraniye District
 uMshwathi
 Umsobomvu
@@ -137349,6 +143542,7 @@ Uolba
 Uonuma
 Uors
 Uozu
+Up Mung
 Upahl
 Upaix
 Upala
@@ -137882,10 +144076,16 @@ Utendorf
 Uterga
 Utersum
 Úterý
+Uthai
+Uthai District
+Uthai Kao
+Uthai Mai
+Uthai Sawan
 Uthai Thani Province
 Utheemu
 Uthlede
 uThukela
+Uthumphon Phisai District
 uThungulu
 Utica
 Útica
@@ -141351,6 +147551,7 @@ Viazac
 Viazovytsa
 Vibersviller
 Vibeuf
+Vibhavadi District
 Vibo Valentia
 Vibonati
 Viborg
@@ -145123,6 +151324,9 @@ Vyzhnytsia Hromada
 Vyžice
 Vyžlovka
 Vyzyrka Hromada
+Wa Tabaek
+Wa Thong
+Wa Yai
 Waabs
 Waadhoeke
 Waake
@@ -145157,6 +151361,8 @@ Wachenbuchen
 Wachenheim
 Wachenheim an der Weinstraße
 Wachenroth
+Wachira Phayaban
+Wachirabarami District
 Wąchock
 Wachseldorn
 Wachsenburggemeinde
@@ -145200,6 +151406,14 @@ Wadowice County
 Wadowice Górne
 Wądroże Wielkie
 Wadway
+Waeng
+Waeng District
+Waeng Dong
+Waeng Nang
+Waeng Noi
+Waeng Noi District
+Waeng Yai
+Waeng Yai District
 Waffenbrunn
 Wafra Farms
 Wafra Residential
@@ -145246,6 +151460,7 @@ Wahrenholz
 Währing
 Währing District
 Wahta Mohawk Territory
+Wai Niao
 Waiau
 Waiblingen
 Waibstadt
@@ -145443,6 +151658,7 @@ Waldweistroff
 Waldwick
 Waldwisse
 Waldzell
+Wale
 Walem
 Walenstadt
 Walenstadtberg
@@ -145590,6 +151806,11 @@ Wampsville
 Wampum
 Wampusirpi
 Wan Chai District
+Wan Dao
+Wan Kham
+Wan Yai
+Wan Yai District
+Wan Yao
 Wanaka
 Wanaque
 Wanchy-Capval
@@ -145607,6 +151828,145 @@ Wandsworth
 Wanel
 Wanfried
 Wang
+Wang Ang
+Wang Ban
+Wang Bo
+Wang Bot
+Wang Bua
+Wang Burapha Phirom
+Wang Cha-On
+Wang Chai
+Wang Chan
+Wang Chan District
+Wang Chao District
+Wang Chaphlu
+Wang Chik
+Wang Chin
+Wang Chin District
+Wang Chomphu
+Wang Chula
+Wang Daeng
+Wang Dan
+Wang Din
+Wang Dong
+Wang Ham Hae
+Wang Hin
+Wang Hin District
+Wang Hin Lat
+Wang Hong
+Wang I Thok
+Wang Kaeo
+Wang Kai Thuean
+Wang Kaphi
+Wang Katha
+Wang Khaem
+Wang Khan
+Wang Khanai
+Wang Khiri
+Wang Khoi
+Wang Khon Khwang
+Wang Khrai
+Wang Khuang
+Wang Krachae
+Wang Krachom
+Wang Krot
+Wang Kwang
+Wang Luang
+Wang Luek
+Wang Lum
+Wang Ma
+Wang Mahakon
+Wang Mai
+Wang Mai Daeng
+Wang Mai Khon
+Wang Man
+Wang Manao
+Wang Maprang
+Wang Maprang Nuea
+Wang Mi
+Wang Mok
+Wang Muang
+Wang Muang District
+Wang Mueang
+Wang Nam Khao
+Wang Nam Khiao
+Wang Nam Khiao District
+Wang Nam Khu
+Wang Nam Lat
+Wang Nam Sap
+Wang Nam Yen
+Wang Nam Yen District
+Wang Ngio
+Wang Ngio Tai
+Wang Ngoen
+Wang Noi
+Wang Noi District
+Wang Nok Aen
+Wang Nuea
+Wang Nuea District
+Wang Phai
+Wang Phang
+Wang Phatthana
+Wang Phaya
+Wang Phikun
+Wang Phin Phat
+Wang Phloeng
+Wang Pho
+Wang Phoem
+Wang Phong
+Wang Phrao
+Wang Phrong
+Wang Pla Pom
+Wang Pong
+Wang Pong District
+Wang Prachan
+Wang Prachop
+Wang Rong Yai
+Wang Saem
+Wang Saeng
+Wang Sai
+Wang Sai Kham
+Wang Sai Phun
+Wang Sai Phun District
+Wang Sala
+Wang Sam Mo
+Wang Sam Mo District
+Wang Samakkhi
+Wang Samrong
+Wang San
+Wang Saphung
+Wang Saphung District
+Wang Sappharot
+Wang Sawap
+Wang Si Rat
+Wang Sombun
+Wang Sombun District
+Wang Ta Mua
+Wang Tabaek
+Wang Tai
+Wang Takhe
+Wang Takhian
+Wang Takhro
+Wang Tako
+Wang Taku
+Wang Tanot
+Wang Tha Chang
+Wang Tha Di
+Wang Thap Sai
+Wang Thong
+Wang Thong Daeng
+Wang Thong District
+Wang Thonglang
+Wang Thonglang District
+Wang Wa
+Wang Wiset District
+Wang Won
+Wang Yai
+Wang Yai Thong
+Wang Yang
+Wang Yang District
+Wang Yao
+Wang Yen
 Wangaloa
 Wanganui
 Wangaratta
@@ -145641,6 +152001,8 @@ Wanneperveen
 Wanneroo
 Wannsee
 Wannweil
+Wanon Niwat
+Wanon Niwat District
 Wanouchi
 Wanquetin
 Wanroij
@@ -145655,6 +152017,7 @@ Wao
 Wapelfeld
 Wapella
 Wapello County
+Wapi Pathum District
 Wąpielsk
 Wapno
 Wappinger
@@ -145695,7 +152058,12 @@ Wargnies
 Wargnies-le-Grand
 Wargnies-le-Petit
 Warhem
+Wari Sawat
 Warin
+Warin Chamrap
+Warin Chamrap District
+Waritchaphum
+Waritchaphum District
 Warka
 Warkum
 Warkworth
@@ -145856,6 +152224,47 @@ Wassigny
 Wassy
 Wasterkingen
 Wasungen
+Wat
+Wat Arun
+Wat Bot
+Wat Bot District
+Wat Chalo
+Wat Chan
+Wat Dao
+Wat Kaeo
+Wat Kanlaya
+Wat Ket
+Wat Khae
+Wat Khanun
+Wat Khok
+Wat Khwang
+Wat Ko
+Wat Lamut
+Wat Luang
+Wat Mai
+Wat Pa
+Wat Phleng
+Wat Phleng District
+Wat Phraya Krai
+Wat Phrik
+Wat Pradu
+Wat Ratchabophit
+Wat Sai
+Wat Sam Phraya
+Wat Samrong
+Wat Sing
+Wat Sing District
+Wat Sommanat
+Wat Son
+Wat Suwan
+Wat Ta Yom
+Wat Taku
+Wat Tha Phra
+Wat That
+Wat Thepsirin
+Wat Tum
+Wat Yang Ngam
+Wat Yom
 Watarai
 Watari
 Watauga County
@@ -145907,6 +152316,10 @@ Wattendorf
 Wattenheim
 Wattens
 Wattenwil
+Watthana
+Watthana District
+Watthana Nakhon
+Watthana Nakhon District
 Wattignies
 Wattignies-la-Victoire
 Wattle Range
@@ -145947,6 +152360,7 @@ Wawarsing
 Wawayanda
 Wawer
 Wawern
+Wawi
 Wawken
 Wąwolnica
 Waxhaw
@@ -146901,12 +153315,40 @@ Whitsunday
 Whittier
 Whittlesea
 Whyalla
+Wiang
+Wiang Chai
+Wiang Chai District
+Wiang Chiang Rung District
+Wiang Haeng District
+Wiang Hao
+Wiang Kaen District
+Wiang Kalong
+Wiang Kao District
+Wiang Kham
+Wiang Khoi
+Wiang Khuk
+Wiang Mok
+Wiang Nong Long District
+Wiang Nuea
+Wiang Pa Pao District
+Wiang Phang Kham
+Wiang Sa
+Wiang Sa District
+Wiang Sa-At
+Wiang Ta
+Wiang Tai
+Wiang Tan
+Wiang Thong
+Wiang Yong
 Wiarda
 Wiązów
 Wiązowna
 Wiązownica
 Wibaux County
 Wichelen
+Wichet Nakhon
+Wichian Buri District
+Wichit
 Wichita
 Wichita and Affiliated Tribes
 Wichita County
@@ -147065,6 +153507,9 @@ Wignehies
 Wignicourt
 Wigoltingen
 Wigtownshire
+Wihan Daeng
+Wihan Daeng District
+Wihan Khao
 Wihéries
 Wihr-au-Val
 Wihr-en-Plaine
@@ -147460,6 +153905,8 @@ Wirt
 Wirt County
 Wirwignes
 Wiry-au-Mont
+Wisai Nuea
+Wisai Tai
 Wiscasset
 Wisch
 Wisches
@@ -147471,6 +153918,8 @@ Wise Creek
 Wisembach
 Wisen
 Wiseppe
+Wiset Chai Chan District
+Wisit
 Wiskitki
 Wisła
 Wiślica
@@ -147579,6 +154028,7 @@ Włodowice
 Włoszakowice
 Włoszczowa
 Włoszczowa County
+Wo Kaeo
 Wöbbelin
 Wobbenbüll
 Woburn
@@ -147589,9 +154039,11 @@ Wodzierady
 Wodzisław
 Wodzisław County
 Wodzisław Śląski
+Woe
 Woël
 Wœlfling-lès-Sarreguemines
 Wœllenheim
+Woen Phrabat
 Woensdrecht
 Woensel
 Woerden
@@ -147753,6 +154205,8 @@ Wommelgem
 Wommels
 Womrath
 Wonfurt
+Wong Khong
+Wong Sawang
 Wong Tai Sin District
 Wongan-Ballidu
 Wonju
@@ -147814,6 +154268,7 @@ Woolwich Township
 Woonsocket
 Woorabinda
 Woppenroth
+Wora Nakhon
 Worb
 Worben
 Worbis
@@ -148116,6 +154571,9 @@ Xures
 XVI District
 Xylokastro-Evrostini
 Y
+Ya Bi
+Ya Mu
+Ya Plong
 Yabebyry
 Yablanitsa
 Yablonevo
@@ -148154,6 +154612,8 @@ Yagodnoye
 Yaguajay
 Yaguará
 Yaguarón
+Yaha
+Yaha District
 Yahaba
 Yahidne
 Yahiko
@@ -148164,6 +154624,10 @@ Yahualica
 Yahualica de González Gallo
 Yahukimo Regency
 Yahyalı District
+Yai Cha
+Yai Phaeng
+Yai Ra
+Yai Yaem Watthana
 Yainville
 Yaita
 Yaiza
@@ -148258,6 +154722,14 @@ Yamoussoukro
 Yamparáez Province
 Yampil Hromada
 Yan District
+Yan Matsi
+Yan Nawa
+Yan Nawa District
+Yan Ri
+Yan Sue
+Yan Ta Khao
+Yan Ta Khao District
+Yan Yao
 Yanagawa
 Yanai
 Yanaizu
@@ -148269,6 +154741,46 @@ Yanceyville
 Yanchukan
 Yandoba
 Yanega
+Yang
+Yang Chai
+Yang Chum Noi
+Yang Chum Noi District
+Yang Chum Yai
+Yang Hak
+Yang Hom
+Yang Kham
+Yang Khao
+Yang Khi Nok
+Yang Khom
+Yang Khram
+Yang Klon
+Yang Lo
+Yang Muang
+Yang Nam Klat Nuea
+Yang Nam Klat Tai
+Yang Ngam
+Yang Noeng
+Yang Noi
+Yang Non
+Yang Piang
+Yang Rak
+Yang Sai
+Yang Sak Krapho Lum
+Yang Sao
+Yang Sawang
+Yang Sisurat
+Yang Sisurat District
+Yang Sung
+Yang Talat
+Yang Talat District
+Yang Tan
+Yang Tha Chaeng
+Yang Thon
+Yang Um
+Yang Wai
+Yang Yai
+Yang Yo Phap
+Yang Yong
 Yangcheon District
 Yangelsky
 Yanggu County
@@ -148308,6 +154820,7 @@ Yany Kapu
 Yao
 Yaotsu
 Yap
+Yap Hua Na
 Yapacaní
 Yapen Islands Regency
 Yapeyú
@@ -148317,6 +154830,8 @@ Yaqshid District
 Yar-Sale
 Yara
 Yaracuy State
+Yarang
+Yarang District
 Yaransk
 Yaransky District
 Yarbaşı
@@ -148326,6 +154841,7 @@ Yaremche Hromada
 Yaren District
 Yarensk
 Yareshky
+Yaring District
 Yarke
 Yarke Pole
 Yarki
@@ -148338,6 +154854,7 @@ Yarmouk
 Yarmouth
 Yarmouth District
 Yarok
+Yarom
 Yaropolets
 Yaroslavka
 Yaroslavl
@@ -148396,6 +154913,7 @@ Yasugi
 Yasuoka
 Yasy Cañy
 Yasynuvata Hromada
+Yata
 Yatağan
 Yatağan District
 Yataity del Guairá
@@ -148424,6 +154942,7 @@ Yavuzeli District
 Yavuzkemal
 Yawata
 Yawatahama
+Yawuek
 Yaxcabá
 Yaxkukul
 Yaya
@@ -148676,6 +155195,10 @@ Ygos-Saint-Saturnin
 Ygrande
 Yguazú
 Yhú
+Yi Lon
+Yi San
+Yi-Ngo
+Yi-ngo District
 Yigo
 Yilan County
 Yilgarn
@@ -148693,14 +155216,17 @@ Ymare
 Ymeray
 Ymonville
 Ynginsky
+Yo
 Yoakum County
 Yobaín
 Yobe State
 Yocalla
 Yoe
+Yoei Prasat
 Yoeseltse
 Yogyakarta
 Yoichi
+Yok Krabat
 Yokkaichi
 Yokneam
 Yokohama
@@ -148716,6 +155242,7 @@ Yoloaiquín
 Yolombó
 Ýolöten District
 Yolüstü
+Yom
 Yomitan
 Yommalath District
 Yomra District
@@ -148734,6 +155261,7 @@ Yongsan District
 Yonkers
 Yonne Department
 Yonogita
+Yonok
 Yonval
 Yopal
 Yorba Linda
@@ -148768,7 +155296,11 @@ Yoshioka
 Yoshitomi
 Yoshkar-Ola
 Yosypivka
+Yot
+Yot Chat
+Yot Kaeng
 Yot Ou District
+Yothaka
 Yotoco
 Yotsukaido
 Young
@@ -148813,6 +155345,9 @@ Ysyk-Ata District
 Ytrac
 Ytres
 Ytri-Torfustaðahreppur
+Yu Po
+Yu Wa
+Yuan
 Yuasa
 Yuba City
 Yuba County
@@ -148863,6 +155398,8 @@ Yuncler
 Yunclillos
 Yuncos
 Yunda
+Yung Moen
+Yung Thalai
 Yunga
 Yungay
 Yungay Neighbourhood
