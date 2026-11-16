@@ -1876,6 +1876,7 @@ Al Dawahi
 Al Dhafra Region
 Al Dhaid
 Al Dubdiba-Al Mityahah
+Al Farabi District
 Al Galala City
 Al Ghail
 Al Hamra
@@ -3228,6 +3229,7 @@ Almașu
 Almașu Mare
 Almatret
 Almaty
+Almaty District
 Almaty Region
 Almayrac
 Almazán
@@ -9042,6 +9044,7 @@ Baigts
 Baigts-de-Béarn
 Baikivtsi Hromada
 Baikonur
+Baikonur District
 Baildon
 Băile Govora
 Băile Herculane
@@ -40361,6 +40364,7 @@ Emtmannsberg
 En-nzala
 Ena
 Ename
+Enbekshi District
 Enbekshikazakh District
 Enbetsu
 Encamp
@@ -62176,6 +62180,7 @@ Kárász
 Karatal District
 Karataş District
 Karatau
+Karatau District
 Karatay
 Karatay District
 Karatobe District
@@ -124559,6 +124564,7 @@ Sarah
 Sarah Baartman
 Sarahs District
 Sarai
+Saraishyk District
 Saraiu
 Saraj
 Sarajevo
@@ -124881,6 +124887,7 @@ Sárvár
 Sárvár District
 Sary
 Saryagash District
+Saryarqa District
 Sarybel District
 Saryevo
 Sarykol District
@@ -142259,6 +142266,7 @@ Tura
 Turá
 Turakina
 Turan
+Turan District
 Turangi
 Turania
 Turano Lodigiano
